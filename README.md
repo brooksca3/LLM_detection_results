@@ -1,1 +1,1 @@
-# LLM_detection_results
+# Repo for centralizing data / results for LLM detection
