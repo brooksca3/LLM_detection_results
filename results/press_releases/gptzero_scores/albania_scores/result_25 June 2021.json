@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3fbb0e69-360b-4105-a806-63647bb84240",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.105806350708008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00037951895501464605,
+          "perplexity": 10,
+          "sentence": "Around 275 million people used drugs worldwide in the last year, while over 36 million people suffered from drug use disorders, according to the 2021 World Drug Report, released today by the United Nations Office on Drugs and Crime (UNODC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003948330122511834,
+          "perplexity": 18,
+          "sentence": "The Report further noted that in the last 24 years cannabis potency had increased by as much as four times in parts of the world, even as the percentage of adolescents who perceived the drug as harmful fell by as much as 40 per cent, despite evidence that cannabis use is associated with a variety of health and other harms, especially among regular long-term users.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005194583791308105,
+          "perplexity": 39,
+          "sentence": "\"Lower perception of drug use risks has been linked to higher rates of drug use, and the findings of UNODC's 2021 World Drug Report highlight the need to close the gap between perception and reality to educate young people and safeguard public health,\u201d said UNODC Executive Director Ghada Waly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041657331166788936,
+          "perplexity": 72,
+          "sentence": "\u201cThe theme of this year's International Day against Drug Abuse and Illicit Trafficking is \u201cShare facts on drugs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033690367126837373,
+          "perplexity": 23,
+          "sentence": "Save lives\u201d, emphasizing the importance of strengthening the evidence base and raising public awareness, so that the international community, governments, civil society, families and youth can make informed decisions, better target efforts to prevent and treat drug use, and tackle world drug challenges.\u201d According to the Report, the percentage of \u03949-THC \u1173the main psychoactive component in cannabis\u1173 has risen from around six per cent to more than 11 per cent in Europe between 2002-2019, and around four per cent to 16 per cent in the United States between 1995-2019, while the percentage of adolescents that perceived cannabis as harmful declined by 40 per cent in the United States and by 25 per cent in Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039292313158512115,
+          "perplexity": 26,
+          "sentence": "Moreover, most countries have reported a rise in the use of cannabis during",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Around 275 million people used drugs worldwide in the last year, while over 36 million people suffered from drug use disorders, according to the 2021 World Drug Report, released today by the United Nations Office on Drugs and Crime (UNODC). The Report further noted that in the last 24 years cannabis potency had increased by as much as four times in parts of the world, even as the percentage of adolescents who perceived the drug as harmful fell by as much as 40 per cent, despite evidence that cannabis use is associated with a variety of health and other harms, especially among regular long-term users. \"Lower perception of drug use risks has been linked to higher rates of drug use, and the findings of UNODC\u2019s 2021 World Drug Report highlight the need to close the gap between perception and reality to educate young people and safeguard public health,\u201d said UNODC Executive Director Ghada Waly. \u201cThe theme of this year\u2019s International Day against Drug Abuse and Illicit Trafficking is \u201cShare facts on drugs. Save lives\u201d, emphasizing the importance of strengthening the evidence base and raising public awareness, so that the international community, governments, civil society, families and youth can make informed decisions, better target efforts to prevent and treat drug use, and tackle world drug challenges.\u201d According to the Report, the percentage of \u03949-THC \u2014the main psychoactive component in cannabis\u2014 has risen from around six per cent to more than 11 per cent in Europe between 2002-2019, and around four per cent to 16 per cent in the United States between 1995-2019, while the percentage of adolescents that perceived cannabis as harmful declined by 40 per cent in the United States and by 25 per cent in Europe. Moreover, most countries have reported a rise in the use of cannabis during",
+  "date": "25 June 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "719ce2f3-9634-4d64-9015-44bbd9cf5c39",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.03626823425293,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008341557695530355,
+          "perplexity": 52,
+          "sentence": "In January 2020, the UN launched a yearlong, global initiative to listen to people's priorities and expectations of international cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008090347982943058,
+          "perplexity": 20,
+          "sentence": "Through surveys and dialogues, more than 1.5 million people from all walks of life shared their hopes and fears for the future, and discussed how all actors, including the UN, can innovate and work together to better to address the global challenges we face.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000817706051748246,
+          "perplexity": 33,
+          "sentence": "Over 1.5 million people in 195 countries shared their short- and long-term priorities, their ideas for action and their calls for a more inclusive, transparent UN to lead the response to pressing global challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008105766028165817,
+          "perplexity": 124,
+          "sentence": "As COVID-19 reversed progress in human development and widened inequalities, many prioritised access to basic services and support to the hardest hit places and communities in the short-term.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009510474628768861,
+          "perplexity": 39,
+          "sentence": "Respondents living in lower human development countries and those living in conflict situations tended to express greater optimism about the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009363332064822316,
+          "perplexity": 29,
+          "sentence": "While they expect access to health services to improve over the next 25 years, respondents in all regions identified climate change and environmental issues as the number one long-term global challenge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007147520664148033,
+          "perplexity": 59,
+          "sentence": "Other longer-term priorities vary according to income levels, but include rising concern with employment opportunities, respect for human rights and reducing conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011096515227109194,
+          "perplexity": 33,
+          "sentence": "97% of respondents believe that international cooperation is important for addressing global challenges, with variation in the degree of importance across regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006786973099224269,
+          "perplexity": 37,
+          "sentence": "Many respondents look to the United Nations to lead in international cooperation to address immediate and longer-term global challenges, and many also want the Organisation to innovate - to be more inclusive, engaged, accountable and effective.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In January 2020, the UN launched a yearlong, global initiative to listen to people\u2019s priorities and expectations of international cooperation. Through surveys and dialogues, more than 1.5 million people from all walks of life shared their hopes and fears for the future, and discussed how all actors, including the UN, can innovate and work together to better to address the global challenges we face. Over 1.5 million people in 195 countries shared their short- and long-term priorities, their ideas for action and their calls for a more inclusive, transparent UN to lead the response to pressing global challenges. As COVID-19 reversed progress in human development and widened inequalities, many prioritised access to basic services and support to the hardest hit places and communities in the short-term. Respondents living in lower human development countries and those living in conflict situations tended to express greater optimism about the future. While they expect access to health services to improve over the next 25 years, respondents in all regions identified climate change and environmental issues as the number one long-term global challenge. Other longer-term priorities vary according to income levels, but include rising concern with employment opportunities, respect for human rights and reducing conflict. 97% of respondents believe that international cooperation is important for addressing global challenges, with variation in the degree of importance across regions. Many respondents look to the United Nations to lead in international cooperation to address immediate and longer-term global challenges, and many also want the Organisation to innovate \u2013 to be more inclusive, engaged, accountable and effective.",
+  "date": "12 January 2021"
+}

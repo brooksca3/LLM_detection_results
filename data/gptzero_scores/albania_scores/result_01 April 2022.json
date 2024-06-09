@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4ad51d6e-df1c-40d0-8d38-b70f00c24d78",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.323806762695312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000691543857101351,
+          "perplexity": 51,
+          "sentence": "1 April 2022, Tirana, Albania: UNODC conducted a consultative working meeting with the relevant institutions in Albania to discuss future cooperation in the area of asset recovery within the scope of the UNODC regional project \u201cFrom Illicit Financial Flows to Asset Recovery\u201d, funded by the Government of the UK.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006891848752275109,
+          "perplexity": 74,
+          "sentence": "The regional initiative supports the Western Balkan jurisdictions, including Albania, in enhancing their capacities to seize proceeds and instrumentalities of crime with a view to ensuring future confiscation, enhancing asset recovery capabilities through national coordination and regional and interregional cooperation; and enabling the collection of appropriate statistics on the different steps within the asset recovery process.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007500551291741431,
+          "perplexity": 48,
+          "sentence": "The meeting hosted representatives of the Ministry of Justice, Financial Intelligence Unit, General Prosecutor's Office, State Police - Economic Crime Branch, Special Anti-Corruption Structure (SPAK), and- Asset Management Agency (AAPSK).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006768686580471694,
+          "perplexity": 42,
+          "sentence": "During the meeting, UNODC provided an overview of the objectives of the regional initiative related to asset recovery processes and shared plans for the development of an Asset Recovery Roadmap for Albania, mapping out the priorities for the jurisdiction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005633061518892646,
+          "perplexity": 105,
+          "sentence": "Similarly, the counterparts provided insights on the current state of play in Albania and discussed in depth their needs to establish and position the future Asset Recovery Office, together with the subsequent legal amendments and requirements as well as operational and capacity building needs for the practitioners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006016403785906732,
+          "perplexity": 58,
+          "sentence": "As a result of these comprehensive consultations, a draft Asset Recovery Roadmap for Albania was created, and will further be discussed and consulted upon with stakeholders prior to finalization.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "1 April 2022, Tirana, Albania: UNODC conducted a consultative working meeting with the relevant institutions in Albania to discuss future cooperation in the area of asset recovery within the scope of the UNODC regional project \u201cFrom Illicit Financial Flows to Asset Recovery\u201d, funded by the Government of the UK. The regional initiative supports the Western Balkan jurisdictions, including Albania, in enhancing their capacities to seize proceeds and instrumentalities of crime with a view to ensuring future confiscation, enhancing asset recovery capabilities through national coordination and regional and interregional cooperation; and enabling the collection of appropriate statistics on the different steps within the asset recovery process. The meeting hosted representatives of the Ministry of Justice, Financial Intelligence Unit, General Prosecutor\u2019s Office, State Police \u2013 Economic Crime Branch, Special Anti-Corruption Structure (SPAK), and\u2013 Asset Management Agency (AAPSK). During the meeting, UNODC provided an overview of the objectives of the regional initiative related to asset recovery processes and shared plans for the development of an Asset Recovery Roadmap for Albania, mapping out the priorities for the jurisdiction. Similarly, the counterparts provided insights on the current state of play in Albania and discussed in depth their needs to establish and position the future Asset Recovery Office, together with the subsequent legal amendments and requirements as well as operational and capacity building needs for the practitioners. As a result of these comprehensive consultations, a draft Asset Recovery Roadmap for Albania was created, and will further be discussed and consulted upon with stakeholders prior to finalization.",
+  "date": "01 April 2022"
+}

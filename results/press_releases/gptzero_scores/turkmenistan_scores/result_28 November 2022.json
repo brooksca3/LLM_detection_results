@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f73995e2-23eb-4115-bd78-b2c714333ef2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012455839482404786,
+        "human": 0.9869265155845834,
+        "mixed": 0.0006176449330118076
+      },
+      "completely_generated_prob": 0.012455839482404786,
+      "confidence_category": "high",
+      "confidence_score": 0.9869265155845834,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012455839482404786,
+          "human": 0.9869265155845834,
+          "mixed": 0.0006176449330118076
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.50279235839844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0021519821602851152,
+          "perplexity": 65,
+          "sentence": "The joint practical training aimed at enhancing the PCUs' practical knowledge on risk analysis, profiling and inspecting high-risk consignments, detecting illicit shipments, and enhancing the expertise of the two PCUs in cooperative work and real-time information sharing under the Inter-Regional Network of Customs Authorities and Port Control Units (IREN), as well as improving the practices related to the facilitation of the legitimate trade flows.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017149999039247632,
+          "perplexity": 92,
+          "sentence": "Customs post infrastructure at both sites were demonstrated to the participants, where they have learned the routine Customs procedures and information systems in place and conducted the practical work with documents and selective physical inspections of the inbound and outbound cargo on both sides of the border.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019298752304166555,
+          "perplexity": 119,
+          "sentence": "The training exercise provided to the members of both PCUs an excellent opportunity to look at their own posts' operations as a joint team from different perspectives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019864768255501986,
+          "perplexity": 133,
+          "sentence": "As an added value of the joint practical exercise, both parties mentioned during the training that it has contributed to better identifying the challenges and obstacles for the smooth cargo and transport flow through this border segment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001764322747476399,
+          "perplexity": 59,
+          "sentence": "This has encouraged them to agree upon further mutual steps towards synchronizing their Customs control efforts in line with the bilateral Protocol on the exchange of cargo pre-arrival information, signed by the Heads of Customs services of the two countries on 05 October 2021 in Tashkent, Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002789499470964074,
+          "perplexity": 54,
+          "sentence": "The participants expressed their appreciation to UNODC-WCO Global Container Control Programme for its strategic approach and the relevance of its interventions in the region, highly beneficial for the countries, as well as for the role of a reliable interlocutor for the countries in their efforts to build and enhance mutual relations and practical cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031354883685708046,
+          "perplexity": 16,
+          "sentence": "The CCP Regional Segment for Central Asia is funded by the U.S. Department of State Bureau of International Narcotics and Law Enforcement Affairs (INL),",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The joint practical training aimed at enhancing the PCUs' practical knowledge on risk analysis, profiling and inspecting high-risk consignments, detecting illicit shipments, and enhancing the expertise of the two PCUs in cooperative work and real-time information sharing under the Inter-Regional Network of Customs Authorities and Port Control Units (IREN), as well as improving the practices related to the facilitation of the legitimate trade flows. Customs post infrastructure at both sites were demonstrated to the participants, where they have learned the routine Customs procedures and information systems in place and conducted the practical work with documents and selective physical inspections of the inbound and outbound cargo on both sides of the border. The training exercise provided to the members of both PCUs an excellent opportunity to look at their own posts\u2019 operations as a joint team from different perspectives. As an added value of the joint practical exercise, both parties mentioned during the training that it has contributed to better identifying the challenges and obstacles for the smooth cargo and transport flow through this border segment. This has encouraged them to agree upon further mutual steps towards synchronizing their Customs control efforts in line with the bilateral Protocol on the exchange of cargo pre-arrival information, signed by the Heads of Customs services of the two countries on 05 October 2021 in Tashkent, Uzbekistan. The participants expressed their appreciation to UNODC-WCO Global Container Control Programme for its strategic approach and the relevance of its interventions in the region, highly beneficial for the countries, as well as for the role of a reliable interlocutor for the countries in their efforts to build and enhance mutual relations and practical cooperation. The CCP Regional Segment for Central Asia is funded by the U.S. Department of State Bureau of International Narcotics and Law Enforcement Affairs (INL),",
+  "date": "28 November 2022"
+}

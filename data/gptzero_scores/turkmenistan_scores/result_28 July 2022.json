@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6188f54f-6464-431b-9839-7933d995dc07",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012868336040264865,
+        "human": 0.9738956611754628,
+        "mixed": 0.01323600278427243
+      },
+      "completely_generated_prob": 0.012868336040264865,
+      "confidence_category": "high",
+      "confidence_score": 0.9738956611754628,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012868336040264865,
+          "human": 0.9738956611754628,
+          "mixed": 0.01323600278427243
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.798282623291016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0049457065761089325,
+          "perplexity": 50,
+          "sentence": "The meeting gathered 18 representatives of the Ministry of Sports and Youth Policy, Ministry of Labour and Social Protection of Population, Ministry of Education, Ministry of Healthcare and Medical Industry, State Department of Migration Service, Ministry of Interior, local hakimliks, as well as Youth Organization, Women's Union and Red Crescent, and encouraged a discussion over the coordinated approach to delivering the youth-led community initiatives targeting health, community, environment and personal insecurities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00868914369493723,
+          "perplexity": 53,
+          "sentence": "The participants discussed the importance of preventive measures that help mitigate any risks related to the health pandemic, and an important role of volunteering and empowerment of young people in contribution to strengthening those efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008526377379894257,
+          "perplexity": 112,
+          "sentence": "Further upscale of volunteerism through the Joint Programme could stimulate better investment in the potential of the youth as a catalyst for better resilience in their communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002302378648892045,
+          "perplexity": 205,
+          "sentence": "The UN-Government Joint Programme empowers and engages youth in Lebap and Dashoguz regions in planning, designing and implementing four community initiatives together with representatives of state and public organizations in these regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002194648142904043,
+          "perplexity": 82,
+          "sentence": "The initiatives integrate the human security approach and focus on insecurities of the most vulnerable groups of people in Lebap and Dashoguz velayats, in line with the principle of \u201cleaving no one behind.\u201d Technical Working Group was created as a part of the Joint Programme management structure and includes technical leads from governmental agencies, public organizations, and UN agencies to ensure the quality of implementation of the Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001464752946048975,
+          "perplexity": 64,
+          "sentence": "As such, the Technical Working Group makes decisions, monitors implementation progress and provides technical support throughout the entire Programme cycle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00168332876637578,
+          "perplexity": 31,
+          "sentence": "The UN-Government of Turkmenistan Joint Programme on \u201cEmpowering and Engaging Youth in Mitigating the Threats of the Health Pandemic\u201d funded by the United Nations Trust Fund for Human Security (UNTFHS) and Participating UN agencies (UNFPA, UNICEF, UNODC and IOM), is aimed at strengthening the dialogue between young",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The meeting gathered 18 representatives of the Ministry of Sports and Youth Policy, Ministry of Labour and Social Protection of Population, Ministry of Education, Ministry of Healthcare and Medical Industry, State Department of Migration Service, Ministry of Interior, local hakimliks, as well as Youth Organization, Women\u2019s Union and Red Crescent, and encouraged a discussion over the coordinated approach to delivering the youth-led community initiatives targeting health, community, environment and personal insecurities. The participants discussed the importance of preventive measures that help mitigate any risks related to the health pandemic, and an important role of volunteering and empowerment of young people in contribution to strengthening those efforts. Further upscale of volunteerism through the Joint Programme could stimulate better investment in the potential of the youth as a catalyst for better resilience in their communities. The UN-Government Joint Programme empowers and engages youth in Lebap and Dashoguz regions in planning, designing and implementing four community initiatives together with representatives of state and public organizations in these regions. The initiatives integrate the human security approach and focus on insecurities of the most vulnerable groups of people in Lebap and Dashoguz velayats, in line with the principle of \u201cleaving no one behind.\u201d Technical Working Group was created as a part of the Joint Programme management structure and includes technical leads from governmental agencies, public organizations, and UN agencies to ensure the quality of implementation of the Programme. As such, the Technical Working Group makes decisions, monitors implementation progress and provides technical support throughout the entire Programme cycle. The UN-Government of Turkmenistan Joint Programme on \u201cEmpowering and Engaging Youth in Mitigating the Threats of the Health Pandemic\u201d funded by the United Nations Trust Fund for Human Security (UNTFHS) and Participating UN agencies (UNFPA, UNICEF, UNODC and IOM), is aimed at strengthening the dialogue between young",
+  "date": "28 July 2022"
+}

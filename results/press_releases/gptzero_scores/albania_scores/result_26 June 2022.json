@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "604c040e-9925-4b9a-9c1b-ff85358fc627",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 316.1255187988281,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013019038597121835,
+          "perplexity": 1039,
+          "sentence": "With EU funds, cold chain equipment for COVID19 vaccines has been distributed across Albania.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001740204868838191,
+          "perplexity": 81,
+          "sentence": "A strong cold chain capacity is important as vaccines must be continuously stored in a limited temperature range - from the time they are manufactured until the moment of vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025007901713252068,
+          "perplexity": 20,
+          "sentence": "This is because temperatures that are too high or too low can cause the vaccine to lose its protective power.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010822491021826863,
+          "perplexity": 346,
+          "sentence": "During June the last two delivery was made.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011119471164420247,
+          "perplexity": 155,
+          "sentence": "The first one to Q\u00ebndra Sh\u00ebndet\u00ebsore Levan, a primary healthcare center outside Fier and the second one to the newly opened primary healthcare center Qendra Sh\u00ebndet\u00ebsore nr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011309743858873844,
+          "perplexity": 772,
+          "sentence": "3 in Fier.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014549881452694535,
+          "perplexity": 149,
+          "sentence": "The Director of Q\u00ebndra Sh\u00ebndet\u00ebsore Dr. Luan Beqiraj expressed gratitude for the support saying \"Historically, the cold chain capacity in Albania has been very good, and with this contribution, it will continue to improve.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012547126971185207,
+          "perplexity": 96,
+          "sentence": "This equipment will be very useful for the administration of vaccines in general and for the COVID-19 vaccines.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012798059033229947,
+          "perplexity": 563,
+          "sentence": "Dr. Mirgena Hoxhaj, Director of Qendra Sh\u00ebndet\u00ebsore nr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012528389925137162,
+          "perplexity": 55,
+          "sentence": "3, also expressed appreciation for the donation saying: \"As our healthcare center has been open for less than three months, this donation is coming very timely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011381149524822831,
+          "perplexity": 79,
+          "sentence": "Especially as we do not only provide vaccination for the patients within our area, but we also distribute vaccines to 12 smaller health facilities in Fier.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014437353238463402,
+          "perplexity": 42,
+          "sentence": "She also expressed appreciation for her colleagues hard work during the COVID-19 pandemic: \"Thanks to the great work of the nursing staff in Fier, we have a good uptake of the COVID-19 vaccine in the area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001614769222214818,
+          "perplexity": 101,
+          "sentence": "The nurses have been excellent at informing about the benefits of vaccination and giving the doses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014258470619097352,
+          "perplexity": 50,
+          "sentence": "We have even managed to perform vaccination in the homes for people who have difficulties getting to the clinic, such as the elderly population.\"",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "With EU funds, cold chain equipment for COVID19 vaccines has been distributed across Albania. A strong cold chain capacity is important as vaccines must be continuously stored in a limited temperature range \u2013 from the time they are manufactured until the moment of vaccination. This is because temperatures that are too high or too low can cause the vaccine to lose its protective power. During June the last two delivery was made. The first one to Q\u00ebndra Sh\u00ebndet\u00ebsore Levan, a primary healthcare center outside Fier and the second one to the newly opened primary healthcare center Qendra Sh\u00ebndet\u00ebsore nr. 3 in Fier. The Director of Q\u00ebndra Sh\u00ebndet\u00ebsore Dr. Luan Beqiraj expressed gratitude for the support saying \"Historically, the cold chain capacity in Albania has been very good, and with this contribution, it will continue to improve. This equipment will be very useful for the administration of vaccines in general and for the COVID-19 vaccines.\" Dr. Mirgena Hoxhaj, Director of Qendra Sh\u00ebndet\u00ebsore nr. 3, also expressed appreciation for the donation saying: \"As our healthcare center has been open for less than three months, this donation is coming very timely. Especially as we do not only provide vaccination for the patients within our area, but we also distribute vaccines to 12 smaller health facilities in Fier.\" She also expressed appreciation for her colleagues hard work during the COVID-19 pandemic: \"Thanks to the great work of the nursing staff in Fier, we have a good uptake of the COVID-19 vaccine in the area. The nurses have been excellent at informing about the benefits of vaccination and giving the doses. We have even managed to perform vaccination in the homes for people who have difficulties getting to the clinic, such as the elderly population.\"",
+  "date": "26 June 2022"
+}

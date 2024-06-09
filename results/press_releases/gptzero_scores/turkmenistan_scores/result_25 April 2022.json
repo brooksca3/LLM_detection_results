@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2700e73a-d78e-4b92-90f0-f96e81d529e1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17407399120387806,
+        "human": 0.8249826154157895,
+        "mixed": 0.0009433933803324667
+      },
+      "completely_generated_prob": 0.17407399120387806,
+      "confidence_category": "low",
+      "confidence_score": 0.8249826154157895,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17407399120387806,
+          "human": 0.8249826154157895,
+          "mixed": 0.0009433933803324667
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 7.90908145904541,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.49240362644195557,
+          "perplexity": 54,
+          "sentence": "In the first year of the COVID-19 pandemic, global prevalence of anxiety and depression increased by a massive 25%, according to a scientific brief released by the WHO on 2 March 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4950014054775238,
+          "perplexity": 45,
+          "sentence": "One major explanation for the increase is the unprecedented stress caused by the social isolation resulting from the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5040977597236633,
+          "perplexity": 47,
+          "sentence": "Linked to this were constraints on people's ability to work, seek support and engage in their communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5124858021736145,
+          "perplexity": 35,
+          "sentence": "Loneliness, fear of infection, suffering and death for oneself and for loved ones, grief after bereavement and financial worries have also all been cited as stressors leading to anxiety and depression.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5113297700881958,
+          "perplexity": 61,
+          "sentence": "Among youth, exhaustion has been a major trigger for suicidal thinking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5004223585128784,
+          "perplexity": 44,
+          "sentence": "In the context of a pandemic, mental health disorders are considered as a consequence of long-term isolation, disconnection, destruction of habitual ties, loss of educational and labor possibilities, travel limitation, leading to a threat to personal and public safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00422154925763607,
+          "perplexity": 46,
+          "sentence": "In this regard, the Program Office of the United Nations Office on Drugs and Crime (UNODC) in Turkmenistan, under the overall guidance of the UNODC Headquarters (Vienna), decided to address the low accessibility of psychological services in the country and to implement the evidence-based \"Strong Family\" Programme within the framework of the HSTF Joint Programme (JP) on \"Empowering and engaging the youth to mitigate multidimensional threats of the global pandemic\u201d and has organized an overview workshop in the programme pilot sites (Dashoguz and Lebap velayats) for 20 young activists, selected by the Ministry of Sports and Youth Policy of Turkmenistan, from April 25 to 27, 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004770155996084213,
+          "perplexity": 41,
+          "sentence": "The aim of the workshop was to advance the understanding of the human security concept and its multi-dimensional treats by promoting life-skills, positive thinking, and strengthening the ability of the workshop participants to promote the programme in their community, as well as in developing a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In the first year of the COVID-19 pandemic, global prevalence of anxiety and depression increased by a massive 25%, according to a scientific brief released by the WHO on 2 March 2022. One major explanation for the increase is the unprecedented stress caused by the social isolation resulting from the pandemic. Linked to this were constraints on people\u2019s ability to work, seek support and engage in their communities. Loneliness, fear of infection, suffering and death for oneself and for loved ones, grief after bereavement and financial worries have also all been cited as stressors leading to anxiety and depression. Among youth, exhaustion has been a major trigger for suicidal thinking. In the context of a pandemic, mental health disorders are considered as a consequence of long-term isolation, disconnection, destruction of habitual ties, loss of educational and labor possibilities, travel limitation, leading to a threat to personal and public safety. In this regard, the Program Office of the United Nations Office on Drugs and Crime (UNODC) in Turkmenistan, under the overall guidance of the UNODC Headquarters (Vienna), decided to address the low accessibility of psychological services in the country and to implement the evidence-based \"Strong Family\" Programme within the framework of the HSTF Joint Programme (JP) on \"Empowering and engaging the youth to mitigate multidimensional threats of the global pandemic\u201d and has organized an overview workshop in the programme pilot sites (Dashoguz and Lebap velayats) for 20 young activists, selected by the Ministry of Sports and Youth Policy of Turkmenistan, from April 25 to 27, 2022. The aim of the workshop was to advance the understanding of the human security concept and its multi-dimensional treats by promoting life-skills, positive thinking, and strengthening the ability of the workshop participants to promote the programme in their community, as well as in developing a",
+  "date": "25 April 2022"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "73794084-93cb-4888-9be0-6abd06953c7c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012456316603696832,
+        "human": 0.9869643198333405,
+        "mixed": 0.0005793635629626434
+      },
+      "completely_generated_prob": 0.012456316603696832,
+      "confidence_category": "high",
+      "confidence_score": 0.9869643198333405,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012456316603696832,
+          "human": 0.9869643198333405,
+          "mixed": 0.0005793635629626434
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 68.61209106445312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008459673845209181,
+          "perplexity": 52,
+          "sentence": "The virtual event was attended by 40 participants including directors and experts from the Ministry of Culture of Turkmenistan, Magtymguly National institute of language, literature and manuscripts of the Academy of Sciences of Turkmenistan, Ministry of Education, State Library as well as students majoring in documentation and archival studies, Protection and restoration of Cultural Heritage studies, Theatre and cinema studies and Tourism management studies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001188071328215301,
+          "perplexity": 72,
+          "sentence": "Officer-in-Charge of UNESCO Tehran, Mr Cvetan Cvetkovski, opened the workshop by congratulating Dr Chinar Rustemova, the executive secretary of the Turkmen National Commission for UNESCO for being awarded the title of \u201cHero of Turkmenistan\u201d as the highest degree of distinction in the country and the gold medal of \u201cAltyn A\u00fd\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014376239851117134,
+          "perplexity": 51,
+          "sentence": "He continued to express the background of UNESCO Memory of the World Program, the importance of preservation of and providing accesses to the documentary heritage as a guardian of our collective memory, and state that this program is a vision for peace embodied in maps, books and manuscripts, with the power to change the minds of men and women and to shape a different future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001479236176237464,
+          "perplexity": 41,
+          "sentence": "\"This central vision in UNESCO's Memory of the World Program is well aligned with the efforts of the government of Turkmenistan in promoting peace and mutual understanding among nations, which resulted in the proclamation of 2021 by the UN General Assembly as the International Year of Peace and Trust\" - Cvetan Cvetkovski, Officer in Charge, UNESCO Tehran Cluster Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001658522873185575,
+          "perplexity": 87,
+          "sentence": "In her opening speech, Dr Chinar Rustemova, emphasized the urgent need for Turkmenistan to join the Memory of the Wolrd Program and to compensate and make up for the lost time since the creation of this program.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011439796071499586,
+          "perplexity": 98,
+          "sentence": "\"With documentary heritage we can trace the evolution of thought, discoveries and achievements of human society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013059299672022462,
+          "perplexity": 240,
+          "sentence": "It is, in essence about the legacy",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The virtual event was attended by 40 participants including directors and experts from the Ministry of Culture of Turkmenistan, Magtymguly National institute of language, literature and manuscripts of the Academy of Sciences of Turkmenistan, Ministry of Education, State Library as well as students majoring in documentation and archival studies, Protection and restoration of Cultural Heritage studies, Theatre and cinema studies and Tourism management studies. Officer-in-Charge of UNESCO Tehran, Mr Cvetan Cvetkovski, opened the workshop by congratulating Dr Chinar Rustemova, the executive secretary of the Turkmen National Commission for UNESCO for being awarded the title of \u201cHero of Turkmenistan\u201d as the highest degree of distinction in the country and the gold medal of \u201cAltyn A\u00fd\u201d. He continued to express the background of UNESCO Memory of the World Program, the importance of preservation of and providing accesses to the documentary heritage as a guardian of our collective memory, and state that this program is a vision for peace embodied in maps, books and manuscripts, with the power to change the minds of men and women and to shape a different future for all. \"This central vision in UNESCO\u2019s Memory of the World Program is well aligned with the efforts of the government of Turkmenistan in promoting peace and mutual understanding among nations, which resulted in the proclamation of 2021 by the UN General Assembly as the International Year of Peace and Trust\" - Cvetan Cvetkovski, Officer in Charge, UNESCO Tehran Cluster Office. In her opening speech, Dr Chinar Rustemova, emphasized the urgent need for Turkmenistan to join the Memory of the Wolrd Program and to compensate and make up for the lost time since the creation of this program. \"With documentary heritage we can trace the evolution of thought, discoveries and achievements of human society. It is, in essence about the legacy",
+  "date": "19 October 2021"
+}

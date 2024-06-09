@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bcb52463-57d3-4916-8b2c-e6420258adc3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 81.04593658447266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.061049703508615494,
+          "perplexity": 42,
+          "sentence": "This seminar was conducted within the framework of the regional project \"Implementation of the Advance Passenger Information (API) system in Central Asia\", funded by the IOM Development Fund and focused on cooperation with the airlines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06152711063623428,
+          "perplexity": 67,
+          "sentence": "The primary objective of the seminar was to discuss the importance of close cooperation with the air carriers as an essential step of API implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06409070640802383,
+          "perplexity": 277,
+          "sentence": "As underlined by Ales Kersnic, Head of API Unit (Slovenia): \u201cCooperation with air carriers plays a significant role in the whole road to full functional API system\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05948903039097786,
+          "perplexity": 70,
+          "sentence": "During the seminar the participants also touched upon such issues as a single window/ Passenger Information Unit (PIU), the technical aspect of airlines' systems, legal frameworks, data privacy and European standards on data protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05896215885877609,
+          "perplexity": 49,
+          "sentence": "The workshop brought together representatives from all national agencies of Turkmenistan involved in air passenger data processing, including national police and intelligence service, national customs administration, migration service, airport security officers, civil aviation, Turkmenistan airlines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05919981002807617,
+          "perplexity": 202,
+          "sentence": "The seminar featured presentations by IOM Pier Rossi-Longhi, Senior Regional Technical Specialist on Border Management (Vienna), Ale\u0161 Kersni\u010d- officer from PIU Slovenia responsible for communication with Air carriers, Ruslan Sarin- Coordinator for International Air Transportation Association (IATA), and Mr. Adylbek Kadaraliyev -Head of API working group in Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.057078637182712555,
+          "perplexity": 123,
+          "sentence": "All experts shared their unique experiences on implementation and using of API systems, which was packed with technical details and management insights and solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05898435413837433,
+          "perplexity": 79,
+          "sentence": "This workshop is one of the series of events related to API system organized by IOM in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05622824653983116,
+          "perplexity": 52,
+          "sentence": "IOM is committed to continue working with the Government of Turkmenistan providing technical expertise and advice on the multitude of issues relating to API implementation.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This seminar was conducted within the framework of the regional project \"Implementation of the Advance Passenger Information (API) system in Central Asia\", funded by the IOM Development Fund and focused on cooperation with the airlines. The primary objective of the seminar was to discuss the importance of close cooperation with the air carriers as an essential step of API implementation. As underlined by Ales Kersnic, Head of API Unit (Slovenia): \u201cCooperation with air carriers plays a significant role in the whole road to full functional API system\u201d. During the seminar the participants also touched upon such issues as a single window/ Passenger Information Unit (PIU), the technical aspect of airlines\u2019 systems, legal frameworks, data privacy and European standards on data protection. The workshop brought together representatives from all national agencies of Turkmenistan involved in air passenger data processing, including national police and intelligence service, national customs administration, migration service, airport security officers, civil aviation, Turkmenistan airlines. The seminar featured presentations by IOM Pier Rossi-Longhi, Senior Regional Technical Specialist on Border Management (Vienna), Ale\u0161 Kersni\u010d- officer from PIU Slovenia responsible for communication with Air carriers, Ruslan Sarin- Coordinator for International Air Transportation Association (IATA), and Mr. Adylbek Kadaraliyev -Head of API working group in Kyrgyzstan. All experts shared their unique experiences on implementation and using of API systems, which was packed with technical details and management insights and solutions. This workshop is one of the series of events related to API system organized by IOM in Turkmenistan. IOM is committed to continue working with the Government of Turkmenistan providing technical expertise and advice on the multitude of issues relating to API implementation.",
+  "date": "17 August 2021"
+}

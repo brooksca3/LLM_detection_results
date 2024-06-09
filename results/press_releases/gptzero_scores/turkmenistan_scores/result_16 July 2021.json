@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cd2e61a2-dd23-4c1e-8450-a53b820fa805",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.238372802734375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012509441876318306,
+          "perplexity": 56,
+          "sentence": "Mejlis of Milli Gengesh together with the Office of Ombudsperson, Ministry of Education supported by UNICEF and OHCHR are organizing a series of information sessions for children of Turkmenistan on their rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012805189180653542,
+          "perplexity": 21,
+          "sentence": "Facilitated by Mejlis of Milli Gengesh, the sessions will focus on educating the children on provisions of the Conventions on the Rights of the Child and Persons with Disabilities and its basic principles, such as non-discrimination, ensuring the best interests of the child, their health and development, participation and inclusion as well as national legislation in the field of the rights of the child and persons with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012979918392375112,
+          "perplexity": 81,
+          "sentence": "Facilitation of such sessions by Mejlis of Milli Gengesh shows the country's strong efforts to meet international commitments to respect, protect and fulfil the rights of children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000138465577038005,
+          "perplexity": 23,
+          "sentence": "The sessions are followed by focus group discussions led by representatives from the Office of Ombudsperson and UNICEF, where children share their opinions and fill out questionnaires to be used for developing an alternative report to the Convention on the Rights of the Child.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000129069754621014,
+          "perplexity": 115,
+          "sentence": "So far, UNICEF together with all partners visited two summer camps \u201cYashlyk\u201d and \u201cNebitchi\u201d in Geokdere and is going to visit three more by the end of the summer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011628346692305058,
+          "perplexity": 42,
+          "sentence": "It is aimed that more than 120 children from all over Turkmenistan will take part in the sessions and express their opinions about the future that they want.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012647024414036423,
+          "perplexity": 115,
+          "sentence": "\u201cUNICEF has been supporting CRC awareness raising for the past 5 years, and we are glad to see that now it is fully led and organized by Mejlis of Milli Gengesh - our long-standing partner on child rights legislation\u201d said Alexandru Nartea, UNICEF Deputy Representative in Turkmenistan while attending a session in \u201cNebitchi\u201d summer camp.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015821929264348,
+          "perplexity": 52,
+          "sentence": "UNICEF will continue to support Mejlis of Milli Gengesh of Turkmenistan in its efforts to raise awareness",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mejlis of Milli Gengesh together with the Office of Ombudsperson, Ministry of Education supported by UNICEF and OHCHR are organizing a series of information sessions for children of Turkmenistan on their rights. Facilitated by Mejlis of Milli Gengesh, the sessions will focus on educating the children on provisions of the Conventions on the Rights of the Child and Persons with Disabilities and its basic principles, such as non-discrimination, ensuring the best interests of the child, their health and development, participation and inclusion as well as national legislation in the field of the rights of the child and persons with disabilities. Facilitation of such sessions by Mejlis of Milli Gengesh shows the country\u2019s strong efforts to meet international commitments to respect, protect and fulfil the rights of children. The sessions are followed by focus group discussions led by representatives from the Office of Ombudsperson and UNICEF, where children share their opinions and fill out questionnaires to be used for developing an alternative report to the Convention on the Rights of the Child. So far, UNICEF together with all partners visited two summer camps \u201cYashlyk\u201d and \u201cNebitchi\u201d in Geokdere and is going to visit three more by the end of the summer. It is aimed that more than 120 children from all over Turkmenistan will take part in the sessions and express their opinions about the future that they want. \u201cUNICEF has been supporting CRC awareness raising for the past 5 years, and we are glad to see that now it is fully led and organized by Mejlis of Milli Gengesh \u2013 our long-standing partner on child rights legislation\u201d said Alexandru Nartea, UNICEF Deputy Representative in Turkmenistan while attending a session in \u201cNebitchi\u201d summer camp. UNICEF will continue to support Mejlis of Milli Gengesh of Turkmenistan in its efforts to raise awareness",
+  "date": "16 July 2021"
+}

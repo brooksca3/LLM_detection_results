@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "788a4ba7-6923-4cba-9e61-04238f3d29e3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 77.62274932861328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00036261873901821673,
+          "perplexity": 36,
+          "sentence": "Sometimes, after a day packed with back-to-back meetings and tackling endless work issues and big and small challenges, it is easy to overlook a full-picture and forget about the impact we are making in people's lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033205366344191134,
+          "perplexity": 53,
+          "sentence": "A recent visit to the main Trauma Hospital in Tirana, that treats on average 500 emergency patients per month from all over Albania, and a chance to talk to the Prime Minister, the Minister of Health and the doctors working for the hospital reminded how our daily teamwork puzzle together to result in a real and tangible change in the lives of people we serve.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035946612479165196,
+          "perplexity": 100,
+          "sentence": "Health professionals couldn't conceal their excitement when they showed the Prime Minister a new CT scanner procured within COVID-19 emergency response project implemented by UNOPS Albania and funded through a World Bank loan to the Albanian Government, led by the Ministry of Health and Social Protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003295806818641722,
+          "perplexity": 222,
+          "sentence": "\u201cThis is the newest device that came to our hospital and to Albania.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002966438769362867,
+          "perplexity": 109,
+          "sentence": "It is the latest generation that is suitable for all types of examinations that this hospital covers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003493305412121117,
+          "perplexity": 47,
+          "sentence": "With this device we can accurately examine the patient's entire body in just three minutes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003273894835729152,
+          "perplexity": 273,
+          "sentence": "And now we can examine 20 patients in just one hour\u201d- underlined Dr. Elvis Veli, the Head of Radiology Imaging Department.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037780089769512415,
+          "perplexity": 118,
+          "sentence": "\u201cI have seen many emergency patients in my life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003996830200776458,
+          "perplexity": 21,
+          "sentence": "I have seen people, especially young people, who lost their lives because it was not possible to diagnose them correctly and quickly enough.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033870842889882624,
+          "perplexity": 104,
+          "sentence": "But now, with this scanner, our doctors can accurately detect fractures or hemorrhages, giving many people a chance to survive\"- noted Dr. Admir Mustafa, a Radiology doctor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028785105678252876,
+          "perplexity": 128,
+          "sentence": "\u201cUNOPS has been constantly cooperating with us all the time while working both on the infrastructure, setting up the room and installing the equipment, modifying it in line",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sometimes, after a day packed with back-to-back meetings and tackling endless work issues and big and small challenges, it is easy to overlook a full-picture and forget about the impact we are making in people's lives. A recent visit to the main Trauma Hospital in Tirana, that treats on average 500 emergency patients per month from all over Albania, and a chance to talk to the Prime Minister, the Minister of Health and the doctors working for the hospital reminded how our daily teamwork puzzle together to result in a real and tangible change in the lives of people we serve. Health professionals couldn\u2019t conceal their excitement when they showed the Prime Minister a new CT scanner procured within COVID-19 emergency response project implemented by UNOPS Albania and funded through a World Bank loan to the Albanian Government, led by the Ministry of Health and Social Protection. \u201cThis is the newest device that came to our hospital and to Albania. It is the latest generation that is suitable for all types of examinations that this hospital covers. With this device we can accurately examine the patient's entire body in just three minutes. And now we can examine 20 patients in just one hour\u201d- underlined Dr. Elvis Veli, the Head of Radiology Imaging Department. \u201cI have seen many emergency patients in my life. I have seen people, especially young people, who lost their lives because it was not possible to diagnose them correctly and quickly enough. But now, with this scanner, our doctors can accurately detect fractures or hemorrhages, giving many people a chance to survive\"- noted Dr. Admir Mustafa, a Radiology doctor. \u201cUNOPS has been constantly cooperating with us all the time while working both on the infrastructure, setting up the room and installing the equipment, modifying it in line",
+  "date": "20 October 2022"
+}

@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "798c6015-53df-4c90-a7c0-b170bbe5b424",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 76.54280090332031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00045443850103765726,
+          "perplexity": 64,
+          "sentence": "Representatives of the ministries, city administration, Youth Union, National Red Crescent Society and other organizations took part in the discussions organized along the three pillars of the 2021 Joint Action Plan, including: - Setting norms and standards for Disaster Risk Reduction and Resilience - Cooperation to strengthen preparedness and response, including during the pandemics \u201cTurkmenistan plans to establish an Interagency Working group on the implementation of the Sendai framework for disaster risk reduction and use this Working group as a National platform for DRR\u201d, noted Annaguly Aklyev, Senior Specialist of registration, analysis, forecasting and planning of activities of Civil Defense Department for Emergencies and Rescue Operations of the Ministry of Defense of Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010063655208796263,
+          "perplexity": 218,
+          "sentence": "The participants discussed existing and new disaster risks, which should be included to the \u201cRisk Matrix\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009602317004464567,
+          "perplexity": 168,
+          "sentence": "The risks such as strong winds/hurricanes, sandstorms and biological hazards including epidemic/pandemic risks, the probability of which has increased in 2020 were specifically outlined.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009298672084696591,
+          "perplexity": 58,
+          "sentence": "Furthermore, the participants specially emphasized the negative impact of the Aral Sea crisis on the human health and environment (desertification, loss of land resources and deteriorating quality of pastures, soils salinization, etc) in the context of global climate change, and in this context proposed to include a new hazard of dust and salt storms to the Risks Matrix.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005460219108499587,
+          "perplexity": 50,
+          "sentence": "The participants agreed to strengthen collaboration in implementation of the Joint Action Plan 2021 and to organize the follow-up joint meeting of the UN Country Team and Heads of Ministries and Departments of the Central Services of Civil Defense and Emergency Situations to discuss and approve the cooperation priorities for 2022.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Representatives of the ministries, city administration, Youth Union, National Red Crescent Society and other organizations took part in the discussions organized along the three pillars of the 2021 Joint Action Plan, including: - Setting norms and standards for Disaster Risk Reduction and Resilience - Cooperation to strengthen preparedness and response, including during the pandemics \u201cTurkmenistan plans to establish an Interagency Working group on the implementation of the Sendai framework for disaster risk reduction and use this Working group as a National platform for DRR\u201d, noted Annaguly Aklyev, Senior Specialist of registration, analysis, forecasting and planning of activities of Civil Defense Department for Emergencies and Rescue Operations of the Ministry of Defense of Turkmenistan. The participants discussed existing and new disaster risks, which should be included to the \u201cRisk Matrix\u201d. The risks such as strong winds/hurricanes, sandstorms and biological hazards including epidemic/pandemic risks, the probability of which has increased in 2020 were specifically outlined. Furthermore, the participants specially emphasized the negative impact of the Aral Sea crisis on the human health and environment (desertification, loss of land resources and deteriorating quality of pastures, soils salinization, etc) in the context of global climate change, and in this context proposed to include a new hazard of dust and salt storms to the Risks Matrix. The participants agreed to strengthen collaboration in implementation of the Joint Action Plan 2021 and to organize the follow-up joint meeting of the UN Country Team and Heads of Ministries and Departments of the Central Services of Civil Defense and Emergency Situations to discuss and approve the cooperation priorities for 2022.",
+  "date": "28 July 2021"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4d7ca3f4-81f9-4908-8397-0771fabab5f5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.67333221435547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007107953424565494,
+          "perplexity": 72,
+          "sentence": "The International Labour Organization (ILO) in Albania organized the closing event of the \u201cAccess to Justice in Labour Disputes through Mediation and Conciliation\u201d, a Swedish-funded project, on 30 August.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006714764749631286,
+          "perplexity": 45,
+          "sentence": "This project served to provide technical assistance to respond to current needs for a more inclusive, effective, fair and quick resolution of labour disputes in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00064916315022856,
+          "perplexity": 62,
+          "sentence": "Some of the results of the ILO-SIDA collaboration in the framework of the project \u201cAccess to Justice through Mediation and Conciliation of Labour Disputes\u201d, a incude: - 177 (64% women) public mediators, conciliators, government officials and social partners on mediation/conciliation skills for labour disputes through tailor made training programmes developed and carried out in cooperation with the International Training Centre of the ILO in Turin (the Turin Centre) and on public mediation/conciliation procedures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005969731137156487,
+          "perplexity": 79,
+          "sentence": "- 1039 (65% women) labour administration officials, public labour dispute mediators and conciliators, employers and trade unions organizations, workers, and managers, on dispute prevention, grievance handling and ALDR, through collective bargaining and workplace cooperation, including discrimination, violence and harassment, as well as other aspects of labour relations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002793168823700398,
+          "perplexity": 85,
+          "sentence": "-148 (57% women) serving and prospective judges on international labour standards (ILS) and judicial use of ILS and work of ILO supervisory bodies in the domestic caselaw, through tailor made training programme carried out in cooperation with the International Training Centre of the ILO in Turin (the Turin Centre) and the Albanian School of Magistrates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029143758001737297,
+          "perplexity": 94,
+          "sentence": "- 551 (81% women) general high school and VET teachers on pre-university education for prevention and resolution of labour disputes - 20 bipartite monitoring groups (69% women) were established in 20 pilot companies selected by the social partners in both public and private sector, to develop and/or improve internal rules and procedures for workplace dispute prevention, grievance handling, including discrimination, violence and harassment and labour dispute resolution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032021949300542474,
+          "perplexity": 60,
+          "sentence": "Participants in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The International Labour Organization (ILO) in Albania organized the closing event of the \u201cAccess to Justice in Labour Disputes through Mediation and Conciliation\u201d, a Swedish-funded project, on 30 August. This project served to provide technical assistance to respond to current needs for a more inclusive, effective, fair and quick resolution of labour disputes in the country. Some of the results of the ILO-SIDA collaboration in the framework of the project \u201cAccess to Justice through Mediation and Conciliation of Labour Disputes\u201d, a incude: - 177 (64% women) public mediators, conciliators, government officials and social partners on mediation/conciliation skills for labour disputes through tailor made training programmes developed and carried out in cooperation with the International Training Centre of the ILO in Turin (the Turin Centre) and on public mediation/conciliation procedures. - 1039 (65% women) labour administration officials, public labour dispute mediators and conciliators, employers and trade unions organizations, workers, and managers, on dispute prevention, grievance handling and ALDR, through collective bargaining and workplace cooperation, including discrimination, violence and harassment, as well as other aspects of labour relations. -148 (57% women) serving and prospective judges on international labour standards (ILS) and judicial use of ILS and work of ILO supervisory bodies in the domestic caselaw, through tailor made training programme carried out in cooperation with the International Training Centre of the ILO in Turin (the Turin Centre) and the Albanian School of Magistrates. - 551 (81% women) general high school and VET teachers on pre-university education for prevention and resolution of labour disputes - 20 bipartite monitoring groups (69% women) were established in 20 pilot companies selected by the social partners in both public and private sector, to develop and/or improve internal rules and procedures for workplace dispute prevention, grievance handling, including discrimination, violence and harassment and labour dispute resolution. Participants in",
+  "date": "30 August 2023"
+}

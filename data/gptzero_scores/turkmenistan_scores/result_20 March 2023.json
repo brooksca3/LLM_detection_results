@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7fc8beab-ab2a-4835-aac1-469665066276",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.13698959350586,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018784523126669228,
+          "perplexity": 20,
+          "sentence": "The Round table took place at the Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan and brought together the staff members of the Institute, heads of the UN Agencies and Turkmen youth to review the process of realization of the Sustainable Development Goals of the 2030 Agenda in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018511009693611413,
+          "perplexity": 25,
+          "sentence": "At the round table chaired by Mr. Akmuhammet Dzhumakuliev, Lecturer of the Department of International Relations and Diplomacy, Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan, the heads of the UN Agencies, including Mr. Egor Zaitsev, Representative of WHO in Turkmenistan, Ms. Ayna Seyitlieva, Head of the UNFPA Country Office in Turkmenistan, Mr. Tomica Paovic, Deputy Resident Representative of UNDP in Turkmenistan, Mr. Alexandru Nartea, UNICEF Deputy Representative in Turkmenistan, Mr. Philip Saprykin Deputy Head of the UNRCCA, Mr. Timur Dosmamedov, Head of IOM Office in Turkmenistan and Mr. Rustam Babayev, Program Officer of UNODC Country Office in Turkmenistan presented the progress and major achievements in all areas that are vital for the implementation of the SDGs in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001723712484817952,
+          "perplexity": 119,
+          "sentence": "The participants of the round table also pointed out that only by accelerating joint work it will be possible to meet 17 SDGs by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005858843796886504,
+          "perplexity": 71,
+          "sentence": "The UN representatives, including Ms. Yelena Butova, Program Officer of the Regional Office of OHCHR for Central Asia, Mr. Rovshen Nurmuhammedov, UNDP Assistant Resident Representative, and Mr. Nazar Mammedov, UNICEF Program Specialist also delivered lectures at the Centre of Strategic Research of the Institute on the linkages between SDG and main directions of the Turkmen diplomacy - energy, water and environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006377155659720302,
+          "perplexity": 23,
+          "sentence": "Concluding the event the representatives of the UN Agencies in Turkmenistan reaffirmed their commitment to continue to give their support to the Government of Turkmenistan in achieving its national development priorities and the SDGs in the country.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Round table took place at the Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan and brought together the staff members of the Institute, heads of the UN Agencies and Turkmen youth to review the process of realization of the Sustainable Development Goals of the 2030 Agenda in the country. At the round table chaired by Mr. Akmuhammet Dzhumakuliev, Lecturer of the Department of International Relations and Diplomacy, Institute of International Relations of the Ministry of Foreign Affairs of Turkmenistan, the heads of the UN Agencies, including Mr. Egor Zaitsev, Representative of WHO in Turkmenistan, Ms. Ayna Seyitlieva, Head of the UNFPA Country Office in Turkmenistan, Mr. Tomica Paovic, Deputy Resident Representative of UNDP in Turkmenistan, Mr. Alexandru Nartea, UNICEF Deputy Representative in Turkmenistan, Mr. Philip Saprykin Deputy Head of the UNRCCA, Mr. Timur Dosmamedov, Head of IOM Office in Turkmenistan and Mr. Rustam Babayev, Program Officer of UNODC Country Office in Turkmenistan presented the progress and major achievements in all areas that are vital for the implementation of the SDGs in Turkmenistan. The participants of the round table also pointed out that only by accelerating joint work it will be possible to meet 17 SDGs by 2030. The UN representatives, including Ms. Yelena Butova, Program Officer of the Regional Office of OHCHR for Central Asia, Mr. Rovshen Nurmuhammedov, UNDP Assistant Resident Representative, and Mr. Nazar Mammedov, UNICEF Program Specialist also delivered lectures at the Centre of Strategic Research of the Institute on the linkages between SDG and main directions of the Turkmen diplomacy \u2013 energy, water and environment. Concluding the event the representatives of the UN Agencies in Turkmenistan reaffirmed their commitment to continue to give their support to the Government of Turkmenistan in achieving its national development priorities and the SDGs in the country.",
+  "date": "20 March 2023"
+}

@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2af8ea15-9fc1-49be-a0e4-19b098a692bf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05259168510210738,
+        "human": 0.9276302452868438,
+        "mixed": 0.01977806961104893
+      },
+      "completely_generated_prob": 0.05259168510210738,
+      "confidence_category": "medium",
+      "confidence_score": 0.9276302452868438,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05259168510210738,
+          "human": 0.9276302452868438,
+          "mixed": 0.01977806961104893
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.426246643066406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.16046303510665894,
+          "perplexity": 50,
+          "sentence": "Regulating Air Quality: The first global assessment of air pollution legislation, launched ahead of the International Day of Clean Air for blue skies, examines national air quality legislation in 194 States and the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1864304393529892,
+          "perplexity": 63,
+          "sentence": "Exploring various dimensions of legal and institutional frameworks, the report assesses their effectiveness in ensuring the attainment of air quality standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.17731952667236328,
+          "perplexity": 65,
+          "sentence": "The report concludes with key elements for a robust model of air quality governance to be considered in national legislation and makes the case for considering a global treaty on ambient air quality standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16907429695129395,
+          "perplexity": 10,
+          "sentence": "Air pollution has been identified by WHO as the single largest environmental health risk, with 92% of the world's population living in places where air pollution levels exceed safe limits, disproportionately affecting women, children and elderly people in low-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.17567041516304016,
+          "perplexity": 229,
+          "sentence": "Recent studies suggest possible correlations between COVID-19 health outcomes and air pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12790100276470184,
+          "perplexity": 61,
+          "sentence": "WHO has presented guideline values for ambient air quality, but, as the report shows, there is no global alignment and common legal framework for applying them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1314174234867096,
+          "perplexity": 57,
+          "sentence": "In at least 34% of countries, ambient air quality is not yet legally protected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12547436356544495,
+          "perplexity": 66,
+          "sentence": "Even where legally adopted, standards are difficult to compare: 49% of the world's countries define air pollution exclusively as an outdoor threat, geographic coverage of air quality standards varies, and over half of countries allow deviations from these standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12580005824565887,
+          "perplexity": 96,
+          "sentence": "Furthermore, institutional responsibility for attaining standards is weak globally - only 33% of countries impose obligations to meet legally mandated standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08693519979715347,
+          "perplexity": 63,
+          "sentence": "Monitoring is critical to knowing if standards are being attained but is not legally required in at least 37% of countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09914014488458633,
+          "perplexity": 56,
+          "sentence": "Finally, although air pollution knows no borders, only 31% of countries have legal mechanisms to address cross border air pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04803427681326866,
+          "perplexity": 108,
+          "sentence": "\u201cThere will be no jab to prevent seven million premature deaths caused by air pollution each year,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Regulating Air Quality: The first global assessment of air pollution legislation, launched ahead of the International Day of Clean Air for blue skies, examines national air quality legislation in 194 States and the European Union. Exploring various dimensions of legal and institutional frameworks, the report assesses their effectiveness in ensuring the attainment of air quality standards. The report concludes with key elements for a robust model of air quality governance to be considered in national legislation and makes the case for considering a global treaty on ambient air quality standards. Air pollution has been identified by WHO as the single largest environmental health risk, with 92% of the world\u2019s population living in places where air pollution levels exceed safe limits, disproportionately affecting women, children and elderly people in low-income countries. Recent studies suggest possible correlations between COVID-19 health outcomes and air pollution. WHO has presented guideline values for ambient air quality, but, as the report shows, there is no global alignment and common legal framework for applying them. In at least 34% of countries, ambient air quality is not yet legally protected. Even where legally adopted, standards are difficult to compare: 49% of the world\u2019s countries define air pollution exclusively as an outdoor threat, geographic coverage of air quality standards varies, and over half of countries allow deviations from these standards. Furthermore, institutional responsibility for attaining standards is weak globally \u2013 only 33% of countries impose obligations to meet legally mandated standards. Monitoring is critical to knowing if standards are being attained but is not legally required in at least 37% of countries. Finally, although air pollution knows no borders, only 31% of countries have legal mechanisms to address cross border air pollution. \u201cThere will be no jab to prevent seven million premature deaths caused by air pollution each year,",
+  "date": "02 September 2021"
+}

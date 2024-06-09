@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a2a8a374-5237-4116-aef9-ff194cc67795",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 80.630615234375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002011361299082637,
+          "perplexity": 137,
+          "sentence": "Interviewer: Welcome to our weekly programme Diplomaticus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018045057076960802,
+          "perplexity": 40,
+          "sentence": "Over 4 million people have been affected and more than 285,000 have lost their lives due to the new coronavirus COVID- 19 that hit the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017775773303583264,
+          "perplexity": 38,
+          "sentence": "What are the economic and social consequences expected to affect the world and our country?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017886279383674264,
+          "perplexity": 342,
+          "sentence": "For that, l have invited the UN coordinator in Albania, Mrs. Brian James Williams.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001873734057880938,
+          "perplexity": 15,
+          "sentence": "Mr. Williams thank you very much for being here.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019237759988754988,
+          "perplexity": 60,
+          "sentence": "Interviewer: Ms. Williams, what is the role of UN in such unprecedented crisis?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019359942525625229,
+          "perplexity": 23,
+          "sentence": "W: I mean, the UN has a big role to play of course all over the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001702971407212317,
+          "perplexity": 79,
+          "sentence": "Really trying to accompany governments and help governments learn about what's going on.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001878877985291183,
+          "perplexity": 39,
+          "sentence": "As we all know from watching the news, COVID is something brand new, so we're learning about it every day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017689595697447658,
+          "perplexity": 25,
+          "sentence": "The scientists all over the world are trying to study it, the UN is trying to capture this information and provide it back as quickly as possible to governments so that the governments have an idea about what to do.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020083447452634573,
+          "perplexity": 23,
+          "sentence": "And then of course, it's the whole family of agencies, and these agencies all over the world are doing everything they can.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016939062625169754,
+          "perplexity": 29,
+          "sentence": "They're providing food, they're providing health care, they're thinking about the education needs, they're thinking about the regular communities that they work with and how to make sure these communities are not overly impacted by COVID or how to mitigate those impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001353770261630416,
+          "perplexity": 119,
+          "sentence": "So, really everywhere the UN is doing quite a bit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015914911637082696,
+          "perplexity": 44,
+          "sentence": "I: How do you see the trend of the pandemic in Albania?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015257971826940775,
+          "perplexity": 40,
+          "sentence": "W: Here in Albania, I think we should congratulate the authorities and the Albanian people for really having reacted quite quickly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016452254494652152,
+          "perplexity": 40,
+          "sentence": "In those early days, in March, when no one had been found yet with the virus here, there was",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Interviewer: Welcome to our weekly programme Diplomaticus. Over 4 million people have been affected and more than 285,000 have lost their lives due to the new coronavirus COVID- 19 that hit the world. What are the economic and social consequences expected to affect the world and our country? For that, l have invited the UN coordinator in Albania, Mrs. Brian James Williams. Mr. Williams thank you very much for being here. Interviewer: Ms. Williams, what is the role of UN in such unprecedented crisis? W: I mean, the UN has a big role to play of course all over the world. Really trying to accompany governments and help governments learn about what\u2019s going on. As we all know from watching the news, COVID is something brand new, so we\u2019re learning about it every day. The scientists all over the world are trying to study it, the UN is trying to capture this information and provide it back as quickly as possible to governments so that the governments have an idea about what to do. And then of course, it\u2019s the whole family of agencies, and these agencies all over the world are doing everything they can. They\u2019re providing food, they\u2019re providing health care, they\u2019re thinking about the education needs, they\u2019re thinking about the regular communities that they work with and how to make sure these communities are not overly impacted by COVID or how to mitigate those impacts. So, really everywhere the UN is doing quite a bit. I: How do you see the trend of the pandemic in Albania? W: Here in Albania, I think we should congratulate the authorities and the Albanian people for really having reacted quite quickly. In those early days, in March, when no one had been found yet with the virus here, there was",
+  "date": "14 May 2020"
+}

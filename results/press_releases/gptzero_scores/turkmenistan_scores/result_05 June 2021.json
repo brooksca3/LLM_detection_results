@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c0c726a4-836b-46b9-b829-37457f7fafe1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.306989669799805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0014465012354776263,
+          "perplexity": 99,
+          "sentence": "In one of the city's secondary schools, UNDP, together with the Environment Protection Society of Turkmenistan, successfully implemented an activity on installation of bike racks and bought bicycles for children to promote \u201cgreen\u201d transport among the younger generation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001499445759691298,
+          "perplexity": 50,
+          "sentence": "During another event, the specialists of the UNDP Project and the Environment Protection Society delivered an open-air lesson on environmental topics, using a quiz and questionnaire, and as a result it became clear how relevant and interesting these activities were and whether the children would be willing to switch from public transport to bicycles in order to contribute to protection of the environment of their hometown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002178399357944727,
+          "perplexity": 27,
+          "sentence": "It should be noted that avoiding the use of vehicles by using bicycles instead and walking in a fresh air have a beneficial effect not only on the urban environment, but also on the health of the population, since transport is the main air pollutant in cities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00181897496804595,
+          "perplexity": 17,
+          "sentence": "Furthermore, it is also proven that daily walking has a beneficial effect on the cardiovascular system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017590448260307312,
+          "perplexity": 76,
+          "sentence": "This kind of educational activities among schoolchildren allow to increase the number of green transport users, since bicycles can be used by the whole family.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018949530785903335,
+          "perplexity": 53,
+          "sentence": "The purpose of the project is reflected on its name - sustainability can only be achieved by informing all groups of the population about the importance of activities, which are in line with the policy of Turkmenistan on environment protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023503978736698627,
+          "perplexity": 39,
+          "sentence": "The widespread installation of bike stations will help to reduce number of car users and decrease the negative impact of transport on the city's air quality, and the installation of bike racks at School \u211621 is a continuation of the country's environmental campaigns to reduce the use of vehicles and switch to alternative green transport.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In one of the city\u2019s secondary schools, UNDP, together with the Environment Protection Society of Turkmenistan, successfully implemented an activity on installation of bike racks and bought bicycles for children to promote \u201cgreen\u201d transport among the younger generation. During another event, the specialists of the UNDP Project and the Environment Protection Society delivered an open-air lesson on environmental topics, using a quiz and questionnaire, and as a result it became clear how relevant and interesting these activities were and whether the children would be willing to switch from public transport to bicycles in order to contribute to protection of the environment of their hometown. It should be noted that avoiding the use of vehicles by using bicycles instead and walking in a fresh air have a beneficial effect not only on the urban environment, but also on the health of the population, since transport is the main air pollutant in cities. Furthermore, it is also proven that daily walking has a beneficial effect on the cardiovascular system. This kind of educational activities among schoolchildren allow to increase the number of green transport users, since bicycles can be used by the whole family. The purpose of the project is reflected on its name - sustainability can only be achieved by informing all groups of the population about the importance of activities, which are in line with the policy of Turkmenistan on environment protection. The widespread installation of bike stations will help to reduce number of car users and decrease the negative impact of transport on the city's air quality, and the installation of bike racks at School \u211621 is a continuation of the country's environmental campaigns to reduce the use of vehicles and switch to alternative green transport.",
+  "date": "05 June 2021"
+}

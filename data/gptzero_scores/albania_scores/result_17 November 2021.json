@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "59e35c95-ddc2-41c5-a97b-44fdb647e731",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.087048530578613,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019064456864725798,
+          "perplexity": 54,
+          "sentence": "The new project \"EU Integration and Policy Support in Agriculture and Rural Development\", funded by FAO, was launched in support of Albania to develop comprehensive agricultural policies for family farms, promote rural development, rural well-being and heritage preservation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017761756316758692,
+          "perplexity": 48,
+          "sentence": "The Ministry of Agriculture and Rural Development, Frida Krifca and the FAO Representative for Albania, Raimund Jehle, praised that the project as one of the recommendations of the Progress Report for the Chapter on Agriculture and Rural Development in accordance with European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019096916366834193,
+          "perplexity": 33,
+          "sentence": "The Minister of Agriculture and Rural Development, Frida Krifca stressed that the orientation of Albanian agriculture is clearly well defined by the government's ambition to become a member of the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001717799314064905,
+          "perplexity": 34,
+          "sentence": "And in this context, the preconditions set by the acquis communautaire, which relate to the approximation of legislation and regulatory framework for the creation of the right environment, as well as the proper functioning of the common European policy, become compasses for the Ministry of Agriculture and Rural Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001610238541616127,
+          "perplexity": 63,
+          "sentence": "\"An important part of the recommendations clearly defined in the EU progress reports, are returned to the Ministry in priorities, such as the farm register to be completed within 2021, the legal framework for organic agriculture, quality policies, the law on wine, and other recommendations in relation to Chapter 11 of the Progress Report on Agriculture and Rural Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015380390686914325,
+          "perplexity": 73,
+          "sentence": "Specifically, work will begin on another EU recommendation, \"Drafting the implementation policy for the Farm Accountancy Data Network (FADN)\", very important for the farm economy, for a much better follow-up policy, under the direction of the Ministry of Agriculture\", added minister Frida Krifca.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001555511844344437,
+          "perplexity": 62,
+          "sentence": "Thanking FAO for the commitment and cooperation in support of this request of the European Union, Minister Krifca reiterated her commitment to coordinate the agenda of technical cooperation with FAO, for the agreement and the necessary",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The new project \"EU Integration and Policy Support in Agriculture and Rural Development\", funded by FAO, was launched in support of Albania to develop comprehensive agricultural policies for family farms, promote rural development, rural well-being and heritage preservation. The Ministry of Agriculture and Rural Development, Frida Krifca and the FAO Representative for Albania, Raimund Jehle, praised that the project as one of the recommendations of the Progress Report for the Chapter on Agriculture and Rural Development in accordance with European Union. The Minister of Agriculture and Rural Development, Frida Krifca stressed that the orientation of Albanian agriculture is clearly well defined by the government's ambition to become a member of the European Union. And in this context, the preconditions set by the acquis communautaire, which relate to the approximation of legislation and regulatory framework for the creation of the right environment, as well as the proper functioning of the common European policy, become compasses for the Ministry of Agriculture and Rural Development. \"An important part of the recommendations clearly defined in the EU progress reports, are returned to the Ministry in priorities, such as the farm register to be completed within 2021, the legal framework for organic agriculture, quality policies, the law on wine, and other recommendations in relation to Chapter 11 of the Progress Report on Agriculture and Rural Development. Specifically, work will begin on another EU recommendation, \"Drafting the implementation policy for the Farm Accountancy Data Network (FADN)\", very important for the farm economy, for a much better follow-up policy, under the direction of the Ministry of Agriculture\", added minister Frida Krifca. Thanking FAO for the commitment and cooperation in support of this request of the European Union, Minister Krifca reiterated her commitment to coordinate the agenda of technical cooperation with FAO, for the agreement and the necessary",
+  "date": "17 November 2021"
+}

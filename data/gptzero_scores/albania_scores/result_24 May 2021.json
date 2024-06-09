@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "30f9bba3-c811-44f3-adf6-babd07c5f23b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.14228057861328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002586551709100604,
+          "perplexity": 54,
+          "sentence": "UNODC's Treatnet Family is a science-informed training package on elements of family therapy, intended to support practitioners in the health, social and criminal justice sectors who work with youths and their families in resource limited settings, including those in contact with the criminal justice system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022089449339546263,
+          "perplexity": 127,
+          "sentence": "UNODC organized a regional capacity development workshop on \u201cTreatnet Family: Elements of Family Based Treatment for Youths with Drug Use Disorders including in Contact with the Criminal Justice System: Creating Societies Resilient to Drugs and Crime\u201d for practitioners in South Eastern Europe and Italy with the kind support of the Government of Italy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028858170844614506,
+          "perplexity": 31,
+          "sentence": "Adolescence is a time when an individual pattern of biopsychosocial risk and protective factors might increase or reduce vulnerability for the initiation of substance use or involvement in delinquency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002717713941819966,
+          "perplexity": 87,
+          "sentence": "Family can be both a risk and a protective factor and Treatnet Family is designed to enhance and strengthen the protective potential of family interactions in families with adolescents using substances including drugs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028009238303638995,
+          "perplexity": 48,
+          "sentence": "Treatnet Family is a science-informed training package on elements of family therapy, intended to support practitioners in the health, social and criminal justice sectors who work with youths and their families in resource limited settings, including those in contact with the criminal justice system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025382585590705276,
+          "perplexity": 104,
+          "sentence": "Treatnet Family is part of UNODC's overall Treatnet training package for the treatment of drug use disorders and the initial development was supported by the government of Japan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027082936139777303,
+          "perplexity": 57,
+          "sentence": "Implementation has previously shown positive effects in reducing substance use, improving family functioning and mental health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017622296581976116,
+          "perplexity": 99,
+          "sentence": "\u201cHuman connection is the opposite of addiction\u201d could have been the motto of the UNODC Treatnet Family workshop with countries from South Eastern Europe and Italy: 35 practitioners from Albania, Bosnia and Herzegovina, Italy, Montenegro, North Macedonia and Serbia, working with adolescents with substance use problems in their daily practice, joined the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNODC's Treatnet Family is a science-informed training package on elements of family therapy, intended to support practitioners in the health, social and criminal justice sectors who work with youths and their families in resource limited settings, including those in contact with the criminal justice system. UNODC organized a regional capacity development workshop on \u201cTreatnet Family: Elements of Family Based Treatment for Youths with Drug Use Disorders including in Contact with the Criminal Justice System: Creating Societies Resilient to Drugs and Crime\u201d for practitioners in South Eastern Europe and Italy with the kind support of the Government of Italy. Adolescence is a time when an individual pattern of biopsychosocial risk and protective factors might increase or reduce vulnerability for the initiation of substance use or involvement in delinquency. Family can be both a risk and a protective factor and Treatnet Family is designed to enhance and strengthen the protective potential of family interactions in families with adolescents using substances including drugs. Treatnet Family is a science-informed training package on elements of family therapy, intended to support practitioners in the health, social and criminal justice sectors who work with youths and their families in resource limited settings, including those in contact with the criminal justice system. Treatnet Family is part of UNODC\u2019s overall Treatnet training package for the treatment of drug use disorders and the initial development was supported by the government of Japan. Implementation has previously shown positive effects in reducing substance use, improving family functioning and mental health. \u201cHuman connection is the opposite of addiction\u201d could have been the motto of the UNODC Treatnet Family workshop with countries from South Eastern Europe and Italy: 35 practitioners from Albania, Bosnia and Herzegovina, Italy, Montenegro, North Macedonia and Serbia, working with adolescents with substance use problems in their daily practice, joined the",
+  "date": "24 May 2021"
+}

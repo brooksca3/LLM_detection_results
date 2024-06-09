@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e4c6e0c5-8017-4d8e-a19c-aa71fc2c2794",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.006589535487750334,
+        "human": 0.9929117969618254,
+        "mixed": 0.0004986675504243496
+      },
+      "completely_generated_prob": 0.006589535487750334,
+      "confidence_category": "high",
+      "confidence_score": 0.9929117969618254,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.006589535487750334,
+          "human": 0.9929117969618254,
+          "mixed": 0.0004986675504243496
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.43085479736328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001780020829755813,
+          "perplexity": 100,
+          "sentence": "Today, a third shipment of 40,800 doses of Astra Zeneca COVID-19 vaccine arrived at Mother Teresa Airport, Tirana, as the final batch of a total of 120,000 doses that Albania signed up to receive through the COVAX mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019000870815943927,
+          "perplexity": 43,
+          "sentence": "The aim of the UN-backed COVAX scheme is to get two billion vaccine doses into the arms of a quarter of the population of poorer countries by the end of 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021672087314072996,
+          "perplexity": 77,
+          "sentence": "\u201c The World Health Organization announced the outbreak of COVID-19 a global pandemic in March 2020, following the declaration of a \u201cpublic health emergency of international concern\u201d (PHEIC) by the Director General on 30th January 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001924042881000787,
+          "perplexity": 48,
+          "sentence": "Addressing the challenges of this unprecedented crisis affecting people across the globe required new types of global solidarity, extraordinary political commitment, decisive leadership, and the mobilization of the whole scientific community, complemented by the necessary financial and technical resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019250281911808997,
+          "perplexity": 51,
+          "sentence": "Some fifteen months into the outbreak we see remarkable progress: No one would have predicted that within less than a year we would have several reliable and effective vaccines available - and that almost 1.5 billion doses would have been administered - an extraordinary success story in terms of scientific advances, agile entrepreneurship and global mobilization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002063364809146151,
+          "perplexity": 126,
+          "sentence": "Ensuring equitable access to vaccines required intense global collaboration, supported by initiatives like the COVID-19 Technology Access Pool C-TAP, to facilitate timely, equitable and affordable access of COVID-19 health products by boosting their supply.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001875737216323614,
+          "perplexity": 223,
+          "sentence": "And it was eventually through mechanisms like the COVAX facility that these global efforts could materialize.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001950237201526761,
+          "perplexity": 31,
+          "sentence": "COVAX is co-led by the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi and the World Health Organization (WHO), alongside key delivery partner UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022688494937028736,
+          "perplexity": 135,
+          "sentence": "COVAX is the vaccine pillar of the ACT Accelerator ACT-A, a global collaboration to accelerate the development, production, and equitable access to COVID-19 tests, treatments, and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, a third shipment of 40,800 doses of Astra Zeneca COVID-19 vaccine arrived at Mother Teresa Airport, Tirana, as the final batch of a total of 120,000 doses that Albania signed up to receive through the COVAX mechanism. The aim of the UN-backed COVAX scheme is to get two billion vaccine doses into the arms of a quarter of the population of poorer countries by the end of 2021. \u201c The World Health Organization announced the outbreak of COVID-19 a global pandemic in March 2020, following the declaration of a \u201cpublic health emergency of international concern\u201d (PHEIC) by the Director General on 30th January 2020. Addressing the challenges of this unprecedented crisis affecting people across the globe required new types of global solidarity, extraordinary political commitment, decisive leadership, and the mobilization of the whole scientific community, complemented by the necessary financial and technical resources. Some fifteen months into the outbreak we see remarkable progress: No one would have predicted that within less than a year we would have several reliable and effective vaccines available \u2013 and that almost 1.5 billion doses would have been administered - an extraordinary success story in terms of scientific advances, agile entrepreneurship and global mobilization. Ensuring equitable access to vaccines required intense global collaboration, supported by initiatives like the COVID-19 Technology Access Pool C-TAP, to facilitate timely, equitable and affordable access of COVID-19 health products by boosting their supply. And it was eventually through mechanisms like the COVAX facility that these global efforts could materialize. COVAX is co-led by the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi and the World Health Organization (WHO), alongside key delivery partner UNICEF. COVAX is the vaccine pillar of the ACT Accelerator ACT-A , a global collaboration to accelerate the development, production, and equitable access to COVID-19 tests, treatments, and",
+  "date": "02 June 2021"
+}
