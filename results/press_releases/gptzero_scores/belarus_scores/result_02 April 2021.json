@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "de1adecb-a70f-41cb-b22c-072eb497e187",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.49135684967041,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003477881837170571,
+          "perplexity": 63,
+          "sentence": "On 25 March 2021, 176 people reportedly were detained during peaceful protests commemorating Freedom Day, and two days later, seven journalists were among 247 people detained.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000331067421939224,
+          "perplexity": 75,
+          "sentence": "In the lead-up to Freedom Day the Investigative Committee of Belarus, an oversight body of the state, had warned and threatened protesters planning to participate in \u201cunauthorised mass events\u201d with criminal liability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004842779890168458,
+          "perplexity": 47,
+          "sentence": "\u201cWe are alarmed at the high numbers of alleged arbitrary arrest and detention that took place last week which demonstrate a continued pattern of police brutality against demonstrators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004243776202201843,
+          "perplexity": 33,
+          "sentence": "We are concerned that, so far, security forces have not been held accountable for excessive use of force both in the pre-electoral period and after the presidential elections on 9 August 2020,\u201d the experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004392452538013458,
+          "perplexity": 46,
+          "sentence": "\u201cWe are deeply concerned that, instead of bringing perpetrators to justice, the authorities are arbitrarily seeking to silence all forms of dissent, through unjustified violence, intimidation and growingly by bringing criminal charges against those who exercise their fundamental rights, or defend victims of human rights violations.\u201d In 2020, many journalists and human rights defenders were reportedly harassed and detained while monitoring assemblies, on the grounds of allegedly \u201cparticipating in, organizing or financing unauthorised events\u201d simply for exercising their legitimate functions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006003744201734662,
+          "perplexity": 52,
+          "sentence": "This criminalisation is a worrying trend that must stop immediately.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005159048014320433,
+          "perplexity": 33,
+          "sentence": "The experts stressed that, \u201cthe prohibition of torture and other cruel, inhuman or degrading treatment or punishment is not confined to acts carried out against persons deprived of their liberty, but also covers excessive police violence, such as during arrest and the policing of assemblies\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039481910062022507,
+          "perplexity": 32,
+          "sentence": "Reports indicate that the Investigative Committee has dismissed the use of violence and anti-riot equipment by law enforcement officers as justified and proportionate and no criminal cases have been opened in courts against security forces in relation to allegations of torture and ill-treatment committed",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 25 March 2021, 176 people reportedly were detained during peaceful protests commemorating Freedom Day, and two days later, seven journalists were among 247 people detained. In the lead-up to Freedom Day the Investigative Committee of Belarus, an oversight body of the state, had warned and threatened protesters planning to participate in \u201cunauthorised mass events\u201d with criminal liability. \u201cWe are alarmed at the high numbers of alleged arbitrary arrest and detention that took place last week which demonstrate a continued pattern of police brutality against demonstrators. We are concerned that, so far, security forces have not been held accountable for excessive use of force both in the pre-electoral period and after the presidential elections on 9 August 2020,\u201d the experts said. \u201cWe are deeply concerned that, instead of bringing perpetrators to justice, the authorities are arbitrarily seeking to silence all forms of dissent, through unjustified violence, intimidation and growingly by bringing criminal charges against those who exercise their fundamental rights, or defend victims of human rights violations.\u201d In 2020, many journalists and human rights defenders were reportedly harassed and detained while monitoring assemblies, on the grounds of allegedly \u201cparticipating in, organizing or financing unauthorised events\u201d simply for exercising their legitimate functions. This criminalisation is a worrying trend that must stop immediately. The experts stressed that, \u201cthe prohibition of torture and other cruel, inhuman or degrading treatment or punishment is not confined to acts carried out against persons deprived of their liberty, but also covers excessive police violence, such as during arrest and the policing of assemblies\u201d. Reports indicate that the Investigative Committee has dismissed the use of violence and anti-riot equipment by law enforcement officers as justified and proportionate and no criminal cases have been opened in courts against security forces in relation to allegations of torture and ill-treatment committed",
+  "date": "02 April 2021"
+}

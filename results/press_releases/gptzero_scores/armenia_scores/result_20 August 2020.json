@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "56cdb578-f36d-4e32-a672-fd29fad357e0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10562879617416508,
+        "human": 0.893121528627087,
+        "mixed": 0.0012496751987478862
+      },
+      "completely_generated_prob": 0.10562879617416508,
+      "confidence_category": "medium",
+      "confidence_score": 0.893121528627087,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10562879617416508,
+          "human": 0.893121528627087,
+          "mixed": 0.0012496751987478862
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 86.66067504882812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.21319909393787384,
+          "perplexity": 110,
+          "sentence": "\u201cGlobal school closures since the onset of the COVID-19 pandemic have presented an unprecedented challenge to children's education and wellbeing,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20951344072818756,
+          "perplexity": 323,
+          "sentence": "\u201cWe must prioritize children's learning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2185889035463333,
+          "perplexity": 68,
+          "sentence": "This means making sure that schools are safe to reopen - including with access to hand hygiene, clean drinking water and safe sanitation.\u201d According to the report, around 818 million children lack basic handwashing facilities at their schools, which puts them at increased risk of COVID-19 and other transmittable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.22952605783939362,
+          "perplexity": 19,
+          "sentence": "More than one third of these children (295 million) are from sub-Saharan Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20690996944904327,
+          "perplexity": 26,
+          "sentence": "In the least developed countries, 7 out of 10 schools lack basic handwashing facilities and half of schools lack basic sanitation and water services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19940993189811707,
+          "perplexity": 100,
+          "sentence": "The report stresses that governments seeking to control the spread of COVID-19 must balance the need for implementation of public health measures versus the associated social and economic impacts of lockdown measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19762960076332092,
+          "perplexity": 20,
+          "sentence": "Evidence of the negative impacts of prolonged school closures on children's safety, wellbeing and learning are well-documented, the report says.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21693108975887299,
+          "perplexity": 47,
+          "sentence": "\u201cAccess to water, sanitation and hygiene services is essential for effective infection prevention and control in all settings, including schools,\" said Dr. Tedros Adhanom Ghebreyesus, WHO Director-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2006588876247406,
+          "perplexity": 78,
+          "sentence": "\"It must be a major focus of government strategies for the safe reopening and operation of schools during the ongoing COVID-19 global pandemic.\u201d The report identifies several resources necessary for COVID-19 prevention and control in schools, including 10 immediate actions and safety checklists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.18378041684627533,
+          "perplexity": 28,
+          "sentence": "It builds on guidelines on the safe reopening of schools issued by UNESCO, UNICEF, WFP and the World Bank with practical advice for national and local authorities on how to prepare for safe school reopening and keep children safe when they return to school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19528204202651978,
+          "perplexity": 56,
+          "sentence": "To support the reopening of schools and preschools in Armenia, UNICEF: In September, with the funding",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cGlobal school closures since the onset of the COVID-19 pandemic have presented an unprecedented challenge to children\u2019s education and wellbeing,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cWe must prioritize children\u2019s learning. This means making sure that schools are safe to reopen \u2013 including with access to hand hygiene, clean drinking water and safe sanitation.\u201d According to the report, around 818 million children lack basic handwashing facilities at their schools, which puts them at increased risk of COVID-19 and other transmittable diseases. More than one third of these children (295 million) are from sub-Saharan Africa. In the least developed countries, 7 out of 10 schools lack basic handwashing facilities and half of schools lack basic sanitation and water services. The report stresses that governments seeking to control the spread of COVID-19 must balance the need for implementation of public health measures versus the associated social and economic impacts of lockdown measures. Evidence of the negative impacts of prolonged school closures on children\u2019s safety, wellbeing and learning are well-documented, the report says. \u201cAccess to water, sanitation and hygiene services is essential for effective infection prevention and control in all settings, including schools,\" said Dr. Tedros Adhanom Ghebreyesus, WHO Director-General. \"It must be a major focus of government strategies for the safe reopening and operation of schools during the ongoing COVID-19 global pandemic.\u201d The report identifies several resources necessary for COVID-19 prevention and control in schools, including 10 immediate actions and safety checklists. It builds on guidelines on the safe reopening of schools issued by UNESCO, UNICEF, WFP and the World Bank with practical advice for national and local authorities on how to prepare for safe school reopening and keep children safe when they return to school. To support the reopening of schools and preschools in Armenia, UNICEF: In September, with the funding",
+  "date": "20 August 2020"
+}

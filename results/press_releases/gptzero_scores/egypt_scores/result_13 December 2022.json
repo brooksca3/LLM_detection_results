@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4c7eea88-2d8b-48bd-956e-99098e87c560",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.891243934631348,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018888890917878598,
+          "perplexity": 32,
+          "sentence": "Cairo -The Legal Affairs Department at the General Secretariate of the League of Arab States (LAS) and the United Nations Office on Drugs and Crime (UNODC) are holding the sixth steering and follow-up committee meeting of the Regional Programme for the Arab States to Prevent and Combat Crime, Terrorism and Health Threats and Strengthen Criminal Justice Systems in Line with International Human Rights Standards (2016-2022) during the period of 13 - 15 December 2022 in Cairo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019732325745280832,
+          "perplexity": 52,
+          "sentence": "The meeting is in the framework of the annual review and examination of activities and projects implemented within the Regional Programme (2016-2022) and in preparations for the \u201cRegional Framework for Arab States (2023 - 2028).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019185505516361445,
+          "perplexity": 68,
+          "sentence": "The Regional Framework for the Arab States (2023 - 2028) will act as the overarching strategic framework for cooperation between UNODC, 18 participating Member States and LAS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018504250328987837,
+          "perplexity": 44,
+          "sentence": "It frames how UNODC will strengthen, prioritize, customize, and deliver support to the Arab region in effective response to some of the most pressing challenges faced by these countries and in connection with UNODC's mandates and specialties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001683606387814507,
+          "perplexity": 63,
+          "sentence": "It lays out a roadmap to guide UNODC programming and to accelerate progress towards Agenda 2030 in pursuit of key Sustainable Development Goals (SDGs) and deliver better in response to latest recommendations issued by the fifth meeting of the Steering and Follow-up Committee Meeting such as investing further in research and information gathering and the response to emerging forms of crime.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015811898629181087,
+          "perplexity": 64,
+          "sentence": "The Regional Framework articulates six focus areas for guiding UNODC-implemented programming at the regional and national levels, whilst applying six key accelerators across all programmatic interventions to speed up progress and maximize efforts towards fast-tracking the SDGs: A balanced approach to drug control; Strengthening the response to organized crime; Combating trafficking in persons and smuggling of migrants; Action against corruption and financial crime; Preventing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo -The Legal Affairs Department at the General Secretariate of the League of Arab States (LAS) and the United Nations Office on Drugs and Crime (UNODC) are holding the sixth steering and follow-up committee meeting of the Regional Programme for the Arab States to Prevent and Combat Crime, Terrorism and Health Threats and Strengthen Criminal Justice Systems in Line with International Human Rights Standards (2016-2022) during the period of 13 \u2013 15 December 2022 in Cairo. The meeting is in the framework of the annual review and examination of activities and projects implemented within the Regional Programme (2016-2022) and in preparations for the \u201cRegional Framework for Arab States (2023 \u2013 2028). The Regional Framework for the Arab States (2023 \u2013 2028) will act as the overarching strategic framework for cooperation between UNODC, 18 participating Member States and LAS. It frames how UNODC will strengthen, prioritize, customize, and deliver support to the Arab region in effective response to some of the most pressing challenges faced by these countries and in connection with UNODC\u2019s mandates and specialties. It lays out a roadmap to guide UNODC programming and to accelerate progress towards Agenda 2030 in pursuit of key Sustainable Development Goals (SDGs) and deliver better in response to latest recommendations issued by the fifth meeting of the Steering and Follow-up Committee Meeting such as investing further in research and information gathering and the response to emerging forms of crime. The Regional Framework articulates six focus areas for guiding UNODC-implemented programming at the regional and national levels, whilst applying six key accelerators across all programmatic interventions to speed up progress and maximize efforts towards fast-tracking the SDGs: A balanced approach to drug control; Strengthening the response to organized crime; Combating trafficking in persons and smuggling of migrants; Action against corruption and financial crime; Preventing",
+  "date": "13 December 2022"
+}

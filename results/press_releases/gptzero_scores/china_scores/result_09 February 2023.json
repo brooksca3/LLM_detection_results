@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0e067094-4586-4fad-b1d6-5ff12e8cd6c6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.172821044921875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008868166478350759,
+          "perplexity": 24,
+          "sentence": "Overview of main messages during Joint Briefing on the UN 2023 Water Conference BEIJING, China, 9 February 2023 - The Embassy of the Kingdom of the Netherlands, the Embassy of the Republic of Tajikistan, and the United Nations (UN) in China co-hosted a Joint Briefing on the UN 2023 Water Conference, with over 130 people from national and international organizations in China, diplomatic missions in Beijing, and press outlets attending the event in person at the UN Compound and online.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009932875400409102,
+          "perplexity": 22,
+          "sentence": "The UN General Assembly, with support from the Governments of the Netherlands and Tajikistan, will convene the UN 2023 Water Conference in New York from 22 to 24 March 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008104727021418512,
+          "perplexity": 37,
+          "sentence": "The Conference, the most important water event in a generation, aims to raise awareness of the global water crisis and decide on concerted action to achieve internationally agreed water-related goals and targets, as emphasized with Chinese authorities during the recent visit of the President of the UN General Assembly, Csaba K\u0151r\u00f6si to China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000757644884288311,
+          "perplexity": 27,
+          "sentence": "As noted during the Joint Briefing, with many of the Sustainable Development Goals (SDGs) off track, progress on Goal 6 (Clean Water and Sanitation) is key to the achievement of other SDGs, particularly on health, food, gender equality, education, livelihoods, industry, climate and the environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007333226967602968,
+          "perplexity": 131,
+          "sentence": "Thus, the Joint Briefing sought to galvanize local momentum on the need for accelerating water action for a sustainable future and better inform preparations for the upcoming Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008036577492021024,
+          "perplexity": 70,
+          "sentence": "\u201cThe 2023 UN Water Conference is the highest profile and most influential water related thematic conference at the UN level in the past 50 years, which has attracted great response and widespread attention globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006712736212648451,
+          "perplexity": 107,
+          "sentence": "It is a conference of milestone significance, and will anchor the direction and clarify the path for accelerating the achievement of the water related goals of the UN 2030 Agenda",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Overview of main messages during Joint Briefing on the UN 2023 Water Conference BEIJING, China, 9 February 2023 \u2013 The Embassy of the Kingdom of the Netherlands, the Embassy of the Republic of Tajikistan, and the United Nations (UN) in China co-hosted a Joint Briefing on the UN 2023 Water Conference, with over 130 people from national and international organizations in China, diplomatic missions in Beijing, and press outlets attending the event in person at the UN Compound and online. The UN General Assembly, with support from the Governments of the Netherlands and Tajikistan, will convene the UN 2023 Water Conference in New York from 22 to 24 March 2023. The Conference, the most important water event in a generation, aims to raise awareness of the global water crisis and decide on concerted action to achieve internationally agreed water-related goals and targets, as emphasized with Chinese authorities during the recent visit of the President of the UN General Assembly, Csaba K\u0151r\u00f6si to China. As noted during the Joint Briefing, with many of the Sustainable Development Goals (SDGs) off track, progress on Goal 6 (Clean Water and Sanitation) is key to the achievement of other SDGs, particularly on health, food, gender equality, education, livelihoods, industry, climate and the environment. Thus, the Joint Briefing sought to galvanize local momentum on the need for accelerating water action for a sustainable future and better inform preparations for the upcoming Conference. \u201cThe 2023 UN Water Conference is the highest profile and most influential water related thematic conference at the UN level in the past 50 years, which has attracted great response and widespread attention globally. It is a conference of milestone significance, and will anchor the direction and clarify the path for accelerating the achievement of the water related goals of the UN 2030 Agenda",
+  "date": "09 February 2023"
+}

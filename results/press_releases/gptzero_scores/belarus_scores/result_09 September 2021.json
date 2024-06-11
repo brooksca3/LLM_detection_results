@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e3e8bc74-6973-442e-9154-155f6df92e26",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.55734634399414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001594677596585825,
+          "perplexity": 32,
+          "sentence": "On 9 September 2021, representatives of legislative bodies, ministries and departments, regional executive committees, educational and some nongovernmental organizations, UN agencies in Belarus took part in the fifth annual meeting of the National Council for Sustainable Development in Minsk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017847897834144533,
+          "perplexity": 97,
+          "sentence": "The meeting participants were welcomed by the National Sustainable Development Goals (SDG) Coordinator Anatoli Isachenko and the UN Resident Coordinator in Belarus Joanna Kazana-Wisniowiecki.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001853370340541005,
+          "perplexity": 111,
+          "sentence": "In her speech Joanna Kazana-Wisniowiecki noted that global development challenges including the climate crisis, the COVID-19 pandemic, social, political and economic inequalities create dangerous conditions in which development gains of the last decades can be easily wasted and destroyed forever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018352539336774498,
+          "perplexity": 28,
+          "sentence": "The crisis and recovery is also a moment of global competition - some countries are recovering faster than others and using the crisis as an opportunity to invest in human development by increasing their own spending in areas of critical importance to the wellbeing of the people and planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001609747123438865,
+          "perplexity": 61,
+          "sentence": "Speaking to the meeting participants the UN Resident Coordinator in Belarus underlined that Belarus cannot stand-by or stay behind such global change and the National Council for Sustainable Development can play an important role in coordinating the cross-sectoral implementation of the National Sustainable Development Strategy and the accompanying 5- years national plans and programmes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018835712398868054,
+          "perplexity": 83,
+          "sentence": "\u201cPartnerships between different segments of the society are key.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017008553550112993,
+          "perplexity": 47,
+          "sentence": "Creating and protecting a free and enabling environment for civil society, also working with civil society organisations, developing capacity and using their expertise and knowledge while maintaining an open and inclusive dialogue on all issues - -this can be a powerful and winning strategy for sustainable development in the country,\u201d the UN Resident Coordinator said while emphasizing that development that is not human-centered and respectful of the rights of all stakeholders cannot be sustainable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017373851733282208,
+          "perplexity": 159,
+          "sentence": "With the upcoming COP26 meeting in Glasgow, the SDG Council can",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 9 September 2021, representatives of legislative bodies, ministries and departments, regional executive committees, educational and some nongovernmental organizations, UN agencies in Belarus took part in the fifth annual meeting of the National Council for Sustainable Development in Minsk. The meeting participants were welcomed by the National Sustainable Development Goals (SDG) Coordinator Anatoli Isachenko and the UN Resident Coordinator in Belarus Joanna Kazana-Wisniowiecki. In her speech Joanna Kazana-Wisniowiecki noted that global development challenges including the climate crisis, the COVID-19 pandemic, social, political and economic inequalities create dangerous conditions in which development gains of the last decades can be easily wasted and destroyed forever. The crisis and recovery is also a moment of global competition \u2013 some countries are recovering faster than others and using the crisis as an opportunity to invest in human development by increasing their own spending in areas of critical importance to the wellbeing of the people and planet. Speaking to the meeting participants the UN Resident Coordinator in Belarus underlined that Belarus cannot stand-by or stay behind such global change and the National Council for Sustainable Development can play an important role in coordinating the cross-sectoral implementation of the National Sustainable Development Strategy and the accompanying 5- years national plans and programmes. \u201cPartnerships between different segments of the society are key. Creating and protecting a free and enabling environment for civil society, also working with civil society organisations, developing capacity and using their expertise and knowledge while maintaining an open and inclusive dialogue on all issues - -this can be a powerful and winning strategy for sustainable development in the country,\u201d the UN Resident Coordinator said while emphasizing that development that is not human-centered and respectful of the rights of all stakeholders cannot be sustainable. With the upcoming COP26 meeting in Glasgow, the SDG Council can",
+  "date": "09 September 2021"
+}

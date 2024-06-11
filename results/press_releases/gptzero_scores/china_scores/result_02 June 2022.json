@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fa446435-f6e9-4933-8d96-4ade8a70208c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.95790672302246,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021917419508099556,
+          "perplexity": 64,
+          "sentence": "UNITED NATIONS, New York, 2 June 2022 \u1173 The UN Global Compact today launched its China strategy aiming to accelerate and scale the collective impact of business in China to drive progress towards the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002028219314524904,
+          "perplexity": 9,
+          "sentence": "China is home to the largest number of Fortune 500 companies and more than 44 million small and medium sized enterprises (SMEs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020487597794272006,
+          "perplexity": 104,
+          "sentence": "Greater engagement with Chinese companies and stakeholders supports the UN Global Compact Global Strategy 2021-2023 which aims to accelerate and scale the global collective impact of business by upholding the Ten Principles and delivering the SDGs through accountable companies and ecosystems that enable change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020899124501738697,
+          "perplexity": 36,
+          "sentence": "It also represents the next step in the UN Global Compact's ambition to enhance its reach and collaboration with the global South.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001965200062841177,
+          "perplexity": 40,
+          "sentence": "Recognizing Chinese companies as important contributors to advance the 2030 Agenda for Sustainable Development and working with national partners through its Liaison Office in China, the UN Global Compact aims to increase its impact by: \u25cf Engaging key stakeholders in China to maximize their collective impact to achieve the SDGs both in China and globally through thought leadership, policy dialogues, capacity building activities, action-oriented projects, and innovative partnerships.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001866461825557053,
+          "perplexity": 36,
+          "sentence": "\u25cf Mobilizing Chinese companies' collective action and impact in supporting China's development priorities as reflected in China's 14th Five-Year Plan (FYP 2021-2025) and the United Nations Sustainable Development Cooperation Framework 2021-2025 for China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016881397459656,
+          "perplexity": 60,
+          "sentence": "Specifically, the China strategy identifies seven key areas, covering all Ten Principles of the Global Compact through which the UN Global Compact will maximize its impact: combat climate change; reduce inequalities; advance decent work; take collective action against corruption; engage the private sector through the Belt and Road Initiative to advance 2030 Agenda; strengthen South-South cooperation through China-Africa business collaboration on the SDGs and foster business innovation and SDG partnerships through the Global",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNITED NATIONS, New York, 2 June 2022 \u2014 The UN Global Compact today launched its China strategy aiming to accelerate and scale the collective impact of business in China to drive progress towards the Sustainable Development Goals (SDGs). China is home to the largest number of Fortune 500 companies and more than 44 million small and medium sized enterprises (SMEs). Greater engagement with Chinese companies and stakeholders supports the UN Global Compact Global Strategy 2021\u20132023 which aims to accelerate and scale the global collective impact of business by upholding the Ten Principles and delivering the SDGs through accountable companies and ecosystems that enable change. It also represents the next step in the UN Global Compact\u2019s ambition to enhance its reach and collaboration with the global South. Recognizing Chinese companies as important contributors to advance the 2030 Agenda for Sustainable Development and working with national partners through its Liaison Office in China, the UN Global Compact aims to increase its impact by: \u25cf Engaging key stakeholders in China to maximize their collective impact to achieve the SDGs both in China and globally through thought leadership, policy dialogues, capacity building activities, action-oriented projects, and innovative partnerships. \u25cf Mobilizing Chinese companies\u2019 collective action and impact in supporting China\u2019s development priorities as reflected in China\u2019s 14th Five-Year Plan (FYP 2021\u20132025) and the United Nations Sustainable Development Cooperation Framework 2021\u20132025 for China. Specifically, the China strategy identifies seven key areas, covering all Ten Principles of the Global Compact through which the UN Global Compact will maximize its impact: combat climate change; reduce inequalities; advance decent work; take collective action against corruption; engage the private sector through the Belt and Road Initiative to advance 2030 Agenda; strengthen South-South cooperation through China-Africa business collaboration on the SDGs and foster business innovation and SDG partnerships through the Global",
+  "date": "02 June 2022"
+}

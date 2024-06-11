@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3143cee8-da5a-4eb6-90af-eb48973908ce",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05286052258376576,
+        "human": 0.932372093329341,
+        "mixed": 0.01476738408689329
+      },
+      "completely_generated_prob": 0.05286052258376576,
+      "confidence_category": "medium",
+      "confidence_score": 0.932372093329341,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05286052258376576,
+          "human": 0.932372093329341,
+          "mixed": 0.01476738408689329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.039575576782227,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.12853389978408813,
+          "perplexity": 27,
+          "sentence": "Op-ed by His Excellency Abdulla Shahid, President of the United Nations General Assembly, published during his official visit to Bahrain on 22-25 January 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1307355910539627,
+          "perplexity": 89,
+          "sentence": "For the third year in a row, COVID-19 looms over our global experience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12385641038417816,
+          "perplexity": 79,
+          "sentence": "We are wearied by a virus that mocks us at every turn: receding and giving us hope one moment; resurging with a vengeance the next.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11711519956588745,
+          "perplexity": 60,
+          "sentence": "The spread of the Omicron variant has been a particularly cruel blow, making its appearance close to the New Year, usually a festive time when we look to new horizons and leave the past behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11508248001337051,
+          "perplexity": 60,
+          "sentence": "Instead, we continue to endure this tragic pandemic, as unwelcome as it is seemingly unrelenting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11749841272830963,
+          "perplexity": 45,
+          "sentence": "Yet we are not powerless.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12181948125362396,
+          "perplexity": 53,
+          "sentence": "Far from it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10465055704116821,
+          "perplexity": 43,
+          "sentence": "This year, unlike two years ago, we confront the pandemic with a veritable arsenal of vaccines at our disposal: Johnson and Johnson, Pfizer, AstraZeneca,, Sinopharm, among others - all of them developed in record time, is a testament to what human ingenuity and collective can achieve.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09588822722434998,
+          "perplexity": 99,
+          "sentence": "We must now approach vaccine distribution with the same energy and commitment we brought to bear in developing them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.087836854159832,
+          "perplexity": 30,
+          "sentence": "In this task, we can turn to examples of countries that have done this at the national level, so we can emulate their success globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08434072881937027,
+          "perplexity": 43,
+          "sentence": "That is our path out of this pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0581575371325016,
+          "perplexity": 35,
+          "sentence": "The Kingdom of Bahrain is one example of a country that has run a highly successful vaccination programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.045880626887083054,
+          "perplexity": 34,
+          "sentence": "I am currently undertaking an official visit to the country, from 22-25 January, at the invitation of its government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04423563554883003,
+          "perplexity": 70,
+          "sentence": "While here, I think it apt to highlight why its programme has been so effective, because it underscores why I have made global vaccination such an important priority for this session.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.058220766484737396,
+          "perplexity": 70,
+          "sentence": "From the very beginning, Bahrain placed its trust in science and in the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Op-ed by His Excellency Abdulla Shahid, President of the United Nations General Assembly, published during his official visit to Bahrain on 22-25 January 2022. For the third year in a row, COVID-19 looms over our global experience. We are wearied by a virus that mocks us at every turn: receding and giving us hope one moment; resurging with a vengeance the next. The spread of the Omicron variant has been a particularly cruel blow, making its appearance close to the New Year, usually a festive time when we look to new horizons and leave the past behind. Instead, we continue to endure this tragic pandemic, as unwelcome as it is seemingly unrelenting. Yet we are not powerless. Far from it. This year, unlike two years ago, we confront the pandemic with a veritable arsenal of vaccines at our disposal: Johnson and Johnson, Pfizer, AstraZeneca, , Sinopharm, among others \u2013 all of them developed in record time, is a testament to what human ingenuity and collective can achieve. We must now approach vaccine distribution with the same energy and commitment we brought to bear in developing them. In this task, we can turn to examples of countries that have done this at the national level, so we can emulate their success globally. That is our path out of this pandemic. The Kingdom of Bahrain is one example of a country that has run a highly successful vaccination programme. I am currently undertaking an official visit to the country, from 22-25 January, at the invitation of its government. While here, I think it apt to highlight why its programme has been so effective, because it underscores why I have made global vaccination such an important priority for this session. From the very beginning, Bahrain placed its trust in science and in the",
+  "date": "23 January 2022"
+}

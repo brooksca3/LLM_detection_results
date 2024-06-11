@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "374ab8a5-ccc3-4d8e-a5f3-195fd2b71636",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012456316603696832,
+        "human": 0.9869643198333405,
+        "mixed": 0.0005793635629626434
+      },
+      "completely_generated_prob": 0.012456316603696832,
+      "confidence_category": "high",
+      "confidence_score": 0.9869643198333405,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012456316603696832,
+          "human": 0.9869643198333405,
+          "mixed": 0.0005793635629626434
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.67441749572754,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.006468325853347778,
+          "perplexity": 39,
+          "sentence": "This project is implemented with funding from the IOM Development Fund and in cooperation with the State Migration Service of the Republic of Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015196342719718814,
+          "perplexity": 50,
+          "sentence": "On 12 April 2023, IOM Azerbaijan, in partnership with the State Migration Service of the Republic of Azerbaijan organized the 3rd meeting of the Working Group, established in the framework of \u201cEnhancing the Socioeconomic Benefits of Remittances in Azerbaijan\u201d project funded by the IOM Development Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002039054874330759,
+          "perplexity": 50,
+          "sentence": "The event started with the opening session where the participants were welcomed by Mr. Vladimir Gjorgjiev, Chief of Mission for IOM Azerbaijan, and Mr Vahid Gahramanov, Head of the Migration Policy and Legal Support General Department of the State Migration Service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015956363640725613,
+          "perplexity": 38,
+          "sentence": "In his opening remarks, Mr Gjorgjiev highlighted the importance of the project which is implemented in partnership with the relative government agencies, banks, diaspora, international, and non-governmental organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022679350804537535,
+          "perplexity": 25,
+          "sentence": "He noted that remittances in Azerbaijan represent an important source of income for households, particularly in rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014365153620019555,
+          "perplexity": 23,
+          "sentence": "At the same time, remittances are an engine for the socioeconomic growth of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008930916083045304,
+          "perplexity": 33,
+          "sentence": "\u201cAccording to the Azerbaijani Central Bank's data, total amount of remittances sent to Azerbaijan in 2022 equalled to recording 3.6 billion USD, which is approximately 4.5 % of national GDP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006376158562488854,
+          "perplexity": 105,
+          "sentence": "What is more, Azerbaijan hosts tens of thousands of migrants live in Azerbaijan that sent in 2022 almost 700 million USD back to their home countries,\u201d said Mr Gjorgjiev.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007288091583177447,
+          "perplexity": 31,
+          "sentence": "Mr. Vahid Gahramanov noted that the successful implementation of the project will benefit not only migrants and their families, but also small businesses and contribute to overall economy of the country, and the success of the project depends entirely on activities implemented jointly by partner institutions in an effective manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006726892897859216,
+          "perplexity": 96,
+          "sentence": "\u201cThe assessment of all relevant parties involved in the process, including money transfer operators, the preparation of the road",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This project is implemented with funding from the IOM Development Fund and in cooperation with the State Migration Service of the Republic of Azerbaijan. On 12 April 2023, IOM Azerbaijan, in partnership with the State Migration Service of the Republic of Azerbaijan organized the 3rd meeting of the Working Group, established in the framework of \u201cEnhancing the Socioeconomic Benefits of Remittances in Azerbaijan\u201d project funded by the IOM Development Fund. The event started with the opening session where the participants were welcomed by Mr. Vladimir Gjorgjiev, Chief of Mission for IOM Azerbaijan, and Mr Vahid Gahramanov, Head of the Migration Policy and Legal Support General Department of the State Migration Service. In his opening remarks, Mr Gjorgjiev highlighted the importance of the project which is implemented in partnership with the relative government agencies, banks, diaspora, international, and non-governmental organizations. He noted that remittances in Azerbaijan represent an important source of income for households, particularly in rural areas. At the same time, remittances are an engine for the socioeconomic growth of the country. \u201cAccording to the Azerbaijani Central Bank\u2019s data, total amount of remittances sent to Azerbaijan in 2022 equalled to recording 3.6 billion USD, which is approximately 4.5 % of national GDP. What is more, Azerbaijan hosts tens of thousands of migrants live in Azerbaijan that sent in 2022 almost 700 million USD back to their home countries,\u201d said Mr Gjorgjiev. Mr. Vahid Gahramanov noted that the successful implementation of the project will benefit not only migrants and their families, but also small businesses and contribute to overall economy of the country, and the success of the project depends entirely on activities implemented jointly by partner institutions in an effective manner. \u201cThe assessment of all relevant parties involved in the process, including money transfer operators, the preparation of the road",
+  "date": "13 April 2023"
+}

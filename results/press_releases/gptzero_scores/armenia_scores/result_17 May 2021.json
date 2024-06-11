@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3d195c61-0910-41e2-a318-56aba60d2c82",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.40359878540039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001378917513648048,
+          "perplexity": 73,
+          "sentence": "YEREVAN, 17 May 2021 - The Ministry of Health of Armenia welcomed the arrival of a critical second batch of COVID-19 vaccine doses this morning through the COVAX Facility (CEPI, GAVI, UNICEF, WHO), with logistical support from UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001284797181142494,
+          "perplexity": 51,
+          "sentence": "The 50,400 doses of AstraZeneca vaccine against COVID-19 will help to speed up the national vaccination programme in Armenia as well as provide second doses for those who have already received a first course of AstraZeneca.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013083501835353673,
+          "perplexity": 122,
+          "sentence": "\u201cTo support vaccine deployment in Armenia, UNICEF leveraged its experience as the largest single vaccine buyer in the world to procure and deliver COVID-19 vaccine doses on behalf of COVAX Facility,\u201d said Mr Yuri Oksamitniy, UNICEF Representative in Armenia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001232273643836379,
+          "perplexity": 33,
+          "sentence": "\u201cIn addition, UNICEF works with the Ministry of Health to ensure that the country is ready to receive the vaccines by providing training for health workers to dispense them and through fostering trust in vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012313175830058753,
+          "perplexity": 73,
+          "sentence": "UNICEF and the Ministry will also work together to ensure that appropriate cold-chain equipment is in place throughout Armenia.\u201d \u201cOne of WHO's highest priorities as a co-leader of COVAX, is to ensure the quality, safety and efficacy of these COVID-19 vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001194236392620951,
+          "perplexity": 60,
+          "sentence": "Within the joint initiative with the EU, we are committed to support the country with revision, development and adaptation of the vaccination guidelines for primary health care specialists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012037406850140542,
+          "perplexity": 88,
+          "sentence": "Through our technical assistance training and supervision, regional hubs are planned to be established with the goal to initiate educational sessions for all relevant staff in support of the National Immunization Programme in Armenia,\u201d stated Egor Zaitsev, WHO Representative in Armenia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011692447878886014,
+          "perplexity": 103,
+          "sentence": "\u201cThe Team Europe is committed to ensuring that everyone in Armenia who needs a vaccine gets it, anywhere across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011631107918219641,
+          "perplexity": 214,
+          "sentence": "Under COVAX, the Team Europe is once again supporting the Government of Armenia vaccination roll-out goals in close partnership with WHO",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "YEREVAN, 17 May 2021 - The Ministry of Health of Armenia welcomed the arrival of a critical second batch of COVID-19 vaccine doses this morning through the COVAX Facility (CEPI, GAVI, UNICEF, WHO), with logistical support from UNICEF. The 50,400 doses of AstraZeneca vaccine against COVID-19 will help to speed up the national vaccination programme in Armenia as well as provide second doses for those who have already received a first course of AstraZeneca. \u201cTo support vaccine deployment in Armenia, UNICEF leveraged its experience as the largest single vaccine buyer in the world to procure and deliver COVID-19 vaccine doses on behalf of COVAX Facility,\u201d said Mr Yuri Oksamitniy, UNICEF Representative in Armenia. \u201cIn addition, UNICEF works with the Ministry of Health to ensure that the country is ready to receive the vaccines by providing training for health workers to dispense them and through fostering trust in vaccines. UNICEF and the Ministry will also work together to ensure that appropriate cold-chain equipment is in place throughout Armenia.\u201d \u201cOne of WHO\u2019s highest priorities as a co-leader of COVAX, is to ensure the quality, safety and efficacy of these COVID-19 vaccines. Within the joint initiative with the EU, we are committed to support the country with revision, development and adaptation of the vaccination guidelines for primary health care specialists. Through our technical assistance training and supervision, regional hubs are planned to be established with the goal to initiate educational sessions for all relevant staff in support of the National Immunization Programme in Armenia,\u201d stated Egor Zaitsev, WHO Representative in Armenia. \u201cThe Team Europe is committed to ensuring that everyone in Armenia who needs a vaccine gets it, anywhere across the country. Under COVAX, the Team Europe is once again supporting the Government of Armenia vaccination roll-out goals in close partnership with WHO",
+  "date": "17 May 2021"
+}

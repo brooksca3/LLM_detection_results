@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a8683fbd-24a6-4bb8-b49f-b5e34f48d801",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075705112649612,
+        "human": 0.9686254847185095,
+        "mixed": 0.0006174641549942572
+      },
+      "completely_generated_prob": 0.03075705112649612,
+      "confidence_category": "high",
+      "confidence_score": 0.9686254847185095,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075705112649612,
+          "human": 0.9686254847185095,
+          "mixed": 0.0006174641549942572
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.72978591918945,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007921376265585423,
+          "perplexity": 152,
+          "sentence": "Op-Ed by the United Nations Country Team in Bahrain on the World Food Safety Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011740311048924923,
+          "perplexity": 40,
+          "sentence": "In December 2018, the United Nations General Assembly designated 7 June as World Food Safety Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01768510788679123,
+          "perplexity": 24,
+          "sentence": "This decision has been made in light of the critical need to raise awareness at all levels and to promote and mobilise actions to prevent, detect and manage foodborne risks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018442073836922646,
+          "perplexity": 40,
+          "sentence": "This year's theme is: \"Safer food, better health.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019737284630537033,
+          "perplexity": 12,
+          "sentence": "Food, after all, is more than just what we eat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019077885895967484,
+          "perplexity": 17,
+          "sentence": "It is the foundation of our culture, economy, and relationship with the natural world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01591768115758896,
+          "perplexity": 13,
+          "sentence": "Food safety is essential to human health and well-being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016519956290721893,
+          "perplexity": 50,
+          "sentence": "It contributes to a healthy life, economy, planet, and future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014733741991221905,
+          "perplexity": 15,
+          "sentence": "On the other hand, unsafe foods cause many diseases and contribute to other health conditions, such as impaired growth, micronutrient deficiencies, communicable and non-communicable diseases, and mental illness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01397094875574112,
+          "perplexity": 24,
+          "sentence": "Globally, one in ten people is affected by foodborne diseases annually due to contaminated food products.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013792900368571281,
+          "perplexity": 46,
+          "sentence": "The Kingdom of Bahrain has a high standard of food safety management that aligns with international best practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01347287092357874,
+          "perplexity": 21,
+          "sentence": "This performance is undoubtedly beneficial to long-term human development and the achievement of the Sustainable Development Goals, particularly Goal 2 (Zero Hunger), Goal 3 (Health and Well-being), and Goal 6 (Water and Sanitation).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014077016152441502,
+          "perplexity": 66,
+          "sentence": "Bahrain is a regional trendsetter in food safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01492092665284872,
+          "perplexity": 38,
+          "sentence": "In addition to developing its national policies and guidelines, it also participates in standards formulation, implementation, and evaluation in the food safety committee within the Gulf Cooperation Council (GCC) countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014435948804020882,
+          "perplexity": 52,
+          "sentence": "It is also commendable that the Kingdom of Bahrain employs a multi-agency approach to food safety governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01499977707862854,
+          "perplexity": 61,
+          "sentence": "The safety and quality of imported foods are strictly controlled.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014141394756734371,
+          "perplexity": 93,
+          "sentence": "Although Bahrain does not formally apply the \"One Health\" approach, it applies stringent safety standards to imported livestock to protect local livestock, the environment and the citizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0122165996581316,
+          "perplexity": 1,
+          "sentence": "This",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Op-Ed by the United Nations Country Team in Bahrain on the World Food Safety Day. In December 2018, the United Nations General Assembly designated 7 June as World Food Safety Day. This decision has been made in light of the critical need to raise awareness at all levels and to promote and mobilise actions to prevent, detect and manage foodborne risks. This year's theme is: \"Safer food, better health.\" Food, after all, is more than just what we eat. It is the foundation of our culture, economy, and relationship with the natural world. Food safety is essential to human health and well-being. It contributes to a healthy life, economy, planet, and future. On the other hand, unsafe foods cause many diseases and contribute to other health conditions, such as impaired growth, micronutrient deficiencies, communicable and non-communicable diseases, and mental illness. Globally, one in ten people is affected by foodborne diseases annually due to contaminated food products. The Kingdom of Bahrain has a high standard of food safety management that aligns with international best practices. This performance is undoubtedly beneficial to long-term human development and the achievement of the Sustainable Development Goals, particularly Goal 2 (Zero Hunger), Goal 3 (Health and Well-being), and Goal 6 (Water and Sanitation). Bahrain is a regional trendsetter in food safety. In addition to developing its national policies and guidelines, it also participates in standards formulation, implementation, and evaluation in the food safety committee within the Gulf Cooperation Council (GCC) countries. It is also commendable that the Kingdom of Bahrain employs a multi-agency approach to food safety governance. The safety and quality of imported foods are strictly controlled. Although Bahrain does not formally apply the \"One Health\" approach, it applies stringent safety standards to imported livestock to protect local livestock, the environment and the citizens. This",
+  "date": "07 June 2022"
+}

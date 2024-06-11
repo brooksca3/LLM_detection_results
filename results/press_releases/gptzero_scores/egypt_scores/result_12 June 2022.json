@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "019324b5-6de8-45d7-abca-9f4e3843099a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.0645751953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006631333963014185,
+          "perplexity": 31,
+          "sentence": "MENA, 12 June 2022: UN-Habitat Regional Office for Arab States launched a training course on Urban Ecosystem-based Adaptation (EbA) designed in collaboration with the United Nations Environment Programme (UNEP), targeting government officials and adaptation experts in the Middle East and North Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009119700989685953,
+          "perplexity": 22,
+          "sentence": "The overall objective of the training, which took place in the last week of May in Jordan, is to provide a broad set of approaches to urban adaptation that depend on the management of ecosystems and their services to minimize the vulnerability of cities in the Arab region to the impacts of climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012858626432716846,
+          "perplexity": 64,
+          "sentence": "The training aims to enable the experts working on adaption to effectively integrate the use of ecosystem services and biodiversity into the overall adaptation strategies in their respective countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006897831917740405,
+          "perplexity": 110,
+          "sentence": "Furthermore, the training course intends to offer exposure to different perspectives and experiences of EbA application presented by a group of diverse guest speakers from governments and industry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006100133177824318,
+          "perplexity": 137,
+          "sentence": "Finally, the training will support unlocking potential funding and building a programme at the regional level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034501467598602176,
+          "perplexity": 40,
+          "sentence": "\u201cContinuing to support climate action in the Arab region for sustainable urbanization and building the capacity of cities to address the impacts of climate change, UN-Habitat is keen to support nature-based solutions and Ecosystem-based Adaptation,\u201d Erfan Ali, UN-Habitat Regional Representative for Arab States said in his opening remarks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003211694420315325,
+          "perplexity": 42,
+          "sentence": "\u201cUN-Habitat is keen to continue its cooperation with UNEP with the aim of promoting adaptation to climate change in Arab cities and building capacities in the area of green recovery.\u201d EbA, which is gaining increasing attention from the international community, is defined as \"the use of biodiversity and ecosystem services as part of an overall adaptation strategy to help people to adapt to the adverse effects of climate change\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028528584516607225,
+          "perplexity": 98,
+          "sentence": "\u201cEcosystem-based approaches to adaptation are solid and effective to reduce the vulnerability of urban",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MENA, 12 June 2022: UN-Habitat Regional Office for Arab States launched a training course on Urban Ecosystem-based Adaptation (EbA) designed in collaboration with the United Nations Environment Programme (UNEP), targeting government officials and adaptation experts in the Middle East and North Africa. The overall objective of the training, which took place in the last week of May in Jordan, is to provide a broad set of approaches to urban adaptation that depend on the management of ecosystems and their services to minimize the vulnerability of cities in the Arab region to the impacts of climate change. The training aims to enable the experts working on adaption to effectively integrate the use of ecosystem services and biodiversity into the overall adaptation strategies in their respective countries. Furthermore, the training course intends to offer exposure to different perspectives and experiences of EbA application presented by a group of diverse guest speakers from governments and industry. Finally, the training will support unlocking potential funding and building a programme at the regional level. \u201cContinuing to support climate action in the Arab region for sustainable urbanization and building the capacity of cities to address the impacts of climate change, UN-Habitat is keen to support nature-based solutions and Ecosystem-based Adaptation,\u201d Erfan Ali, UN-Habitat Regional Representative for Arab States said in his opening remarks. \u201cUN-Habitat is keen to continue its cooperation with UNEP with the aim of promoting adaptation to climate change in Arab cities and building capacities in the area of green recovery.\u201d EbA, which is gaining increasing attention from the international community, is defined as \"the use of biodiversity and ecosystem services as part of an overall adaptation strategy to help people to adapt to the adverse effects of climate change\". \u201cEcosystem-based approaches to adaptation are solid and effective to reduce the vulnerability of urban",
+  "date": "12 June 2022"
+}

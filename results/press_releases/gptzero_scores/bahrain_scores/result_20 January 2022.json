@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8eaaebe2-5687-48e7-9974-5c51940d88cd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.234289169311523,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.020607391372323036,
+          "perplexity": 30,
+          "sentence": "New York, 20 January - The President of the General Assembly, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021082263439893723,
+          "perplexity": 52,
+          "sentence": "Abdulla Shahid, will undertake an official visit to The Kingdom of Bahrain from 22-25 January.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02205060049891472,
+          "perplexity": 29,
+          "sentence": "The visit comes at the invitation of the Government of the Kingdom of Bahrain, which is bearing all expenses for the trip.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021396128460764885,
+          "perplexity": 20,
+          "sentence": "Over the course of three-day visit, the President will meet with key National Figures, including: His Majesty King Hamad Bin Isa Al Khalifa; His Royal Highness Crown Prince and Prime Minister, Salman Bin Hamad al Khalifa; the Minister of Foreign Affairs, His Excellency Dr. Abdullatif Bin Rashed Al Zayani; Special Envoy for Climate Affairs and Chief Executive, Supreme Council for Environment,; H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019135355949401855,
+          "perplexity": 32,
+          "sentence": "Dr. Mohamed bin Mubarak Bin Daina and the Speaker of the Council of Representatives, Her Excellency Fawzia Bint Abdulla Zainal; and the Secretary-General of the Supreme Council for Women, Her Excellency Shaikha Hala Mohammed Jaber Al Ansari.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017804646864533424,
+          "perplexity": 35,
+          "sentence": "On the side-lines of his official visit, the President will meet with one of his predecessors, the President of the 61st Session of the General Assembly, Her Excellency Haya Rashed Al Khalifa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020302647724747658,
+          "perplexity": 96,
+          "sentence": "He is also expected to have an interaction with women CSO representatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01990411803126335,
+          "perplexity": 58,
+          "sentence": "The President is scheduled to deliver a lecture at the Mohammed Bin Mubarak Al Khalifa Academy for Diplomatic Studies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02366645447909832,
+          "perplexity": 43,
+          "sentence": "His remarks there will reflect his belief in the enduring importance of multilateralism to meet global challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020073842257261276,
+          "perplexity": 49,
+          "sentence": "To discuss the ongoing strong partnership between the United Nations and Bahrain in terms of meeting the Sustainable Development Goals, the President will also meet with Bahrain's UN Resident Coordinator a.i., Mr. Mohamed El Zarkani, and the UN country team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022184249013662338,
+          "perplexity": 16,
+          "sentence": "Prior to his departure, the President will sit down for a one-on-one interview with Bahrain News Agency, during which he will elucidate his priorities for the session and give his views",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 20 January \u2013 The President of the General Assembly, H.E. Abdulla Shahid, will undertake an official visit to The Kingdom of Bahrain from 22-25 January. The visit comes at the invitation of the Government of the Kingdom of Bahrain, which is bearing all expenses for the trip. Over the course of three-day visit, the President will meet with key National Figures, including: His Majesty King Hamad Bin Isa Al Khalifa; His Royal Highness Crown Prince and Prime Minister, Salman Bin Hamad al Khalifa; the Minister of Foreign Affairs, His Excellency Dr. Abdullatif Bin Rashed Al Zayani; Special Envoy for Climate Affairs and Chief Executive, Supreme Council for Environment, ; H.E. Dr. Mohamed bin Mubarak Bin Daina and the Speaker of the Council of Representatives, Her Excellency Fawzia Bint Abdulla Zainal; and the Secretary-General of the Supreme Council for Women, Her Excellency Shaikha Hala Mohammed Jaber Al Ansari. On the side-lines of his official visit, the President will meet with one of his predecessors, the President of the 61st Session of the General Assembly, Her Excellency Haya Rashed Al Khalifa. He is also expected to have an interaction with women CSO representatives. The President is scheduled to deliver a lecture at the Mohammed Bin Mubarak Al Khalifa Academy for Diplomatic Studies. His remarks there will reflect his belief in the enduring importance of multilateralism to meet global challenges. To discuss the ongoing strong partnership between the United Nations and Bahrain in terms of meeting the Sustainable Development Goals, the President will also meet with Bahrain\u2019s UN Resident Coordinator a.i., Mr. Mohamed El Zarkani, and the UN country team. Prior to his departure, the President will sit down for a one-on-one interview with Bahrain News Agency, during which he will elucidate his priorities for the session and give his views",
+  "date": "20 January 2022"
+}

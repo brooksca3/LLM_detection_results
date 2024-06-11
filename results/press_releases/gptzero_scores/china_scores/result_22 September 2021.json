@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "857bc985-5f02-48db-81d9-51b96637440c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4448765242225371,
+        "human": 0.5534889568940549,
+        "mixed": 0.0016345188834080617
+      },
+      "completely_generated_prob": 0.4448765242225371,
+      "confidence_category": "low",
+      "confidence_score": 0.5534889568940549,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4448765242225371,
+          "human": 0.5534889568940549,
+          "mixed": 0.0016345188834080617
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.61345100402832,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.717025876045227,
+          "perplexity": 12,
+          "sentence": "Air pollution is one of the biggest environmental threats to human health, alongside climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7276843786239624,
+          "perplexity": 24,
+          "sentence": "New World Health Organization (WHO) Global Air Quality Guidelines (AQGs) provide clear evidence of the damage air pollution inflicts on human health, at even lower concentrations than previously understood.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7410910129547119,
+          "perplexity": 33,
+          "sentence": "The guidelines recommend new air quality levels to protect the health of populations, by reducing levels of key air pollutants, some of which also contribute to climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7332503199577332,
+          "perplexity": 47,
+          "sentence": "Since WHO's last 2005 global update, there has been a marked increase of evidence that shows how air pollution affects different aspects of health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7234039306640625,
+          "perplexity": 70,
+          "sentence": "For that reason, and after a systematic review of the accumulated evidence, WHO has adjusted almost all the AQGs levels downwards, warning that exceeding the new air quality guideline levels is associated with significant risks to health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7415606379508972,
+          "perplexity": 12,
+          "sentence": "At the same time, however, adhering to them could save millions of lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.742473840713501,
+          "perplexity": 15,
+          "sentence": "Every year, exposure to air pollution is estimated to cause 7 million premature deaths and result in the loss of millions more healthy years of life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7508866190910339,
+          "perplexity": 69,
+          "sentence": "In children, this could include reduced lung growth and function, respiratory infections and aggravated asthma.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7351231575012207,
+          "perplexity": 16,
+          "sentence": "In adults, ischaemic heart disease and stroke are the most common causes of premature death attributable to outdoor air pollution, and evidence is also emerging of other effects such as diabetes and neurodegenerative conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7241182327270508,
+          "perplexity": 36,
+          "sentence": "This puts the burden of disease attributable to air pollution on a par with other major global health risks such as unhealthy diet and tobacco smoking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7244483828544617,
+          "perplexity": 12,
+          "sentence": "Air pollution is one of the biggest environmental threats to human health, alongside climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7216843366622925,
+          "perplexity": 28,
+          "sentence": "Improving air quality can enhance climate change mitigation efforts, while reducing emissions will in turn improve air quality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7196097373962402,
+          "perplexity": 119,
+          "sentence": "By striving to achieve these guideline levels, countries will be both protecting health as well as mitigating global climate change.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Air pollution is one of the biggest environmental threats to human health, alongside climate change. New World Health Organization (WHO) Global Air Quality Guidelines (AQGs) provide clear evidence of the damage air pollution inflicts on human health, at even lower concentrations than previously understood. The guidelines recommend new air quality levels to protect the health of populations, by reducing levels of key air pollutants, some of which also contribute to climate change. Since WHO\u2019s last 2005 global update, there has been a marked increase of evidence that shows how air pollution affects different aspects of health. For that reason, and after a systematic review of the accumulated evidence, WHO has adjusted almost all the AQGs levels downwards, warning that exceeding the new air quality guideline levels is associated with significant risks to health. At the same time, however, adhering to them could save millions of lives. Every year, exposure to air pollution is estimated to cause 7 million premature deaths and result in the loss of millions more healthy years of life. In children, this could include reduced lung growth and function, respiratory infections and aggravated asthma. In adults, ischaemic heart disease and stroke are the most common causes of premature death attributable to outdoor air pollution, and evidence is also emerging of other effects such as diabetes and neurodegenerative conditions. This puts the burden of disease attributable to air pollution on a par with other major global health risks such as unhealthy diet and tobacco smoking. Air pollution is one of the biggest environmental threats to human health, alongside climate change. Improving air quality can enhance climate change mitigation efforts, while reducing emissions will in turn improve air quality. By striving to achieve these guideline levels, countries will be both protecting health as well as mitigating global climate change.",
+  "date": "22 September 2021"
+}

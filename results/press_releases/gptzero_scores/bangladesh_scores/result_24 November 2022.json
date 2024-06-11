@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "70520d04-8821-4284-90b4-cf0be3c0d06c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.71176528930664,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002591565949842334,
+          "perplexity": 42,
+          "sentence": "Dhaka, November 24, 2022: The United Nation's Central Emergency Response Fund (CERF) has released a USD 9 million allocation to help over 943,000 Rohingya refugees staying in camps in Cox's Bazar district and in the island of Bhasan Char, and over 17,800 members of the host community in Ukhiya and Teknaf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003211359027773142,
+          "perplexity": 8,
+          "sentence": "This funding, allocated to six UN agencies - the UN Refugee Agency (UNHCR), the International Organization for Migration (IOM), the United Nations International Children's Emergency Fund (UNICEF), the World Food Programme (WFP), the United Nations Population Fund (UNFPA), and the UN Women will help provide life-saving services to refugees and contribute to an enabling environment respectful of their rights and well-being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030641742050647736,
+          "perplexity": 29,
+          "sentence": "Under the leadership of the UN Resident Coordinator in Bangladesh, the UN agencies through national and local partners will focus on four prioritized sectors - food security, non-food items, protection, and water, sanitation and hygiene.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038200770504772663,
+          "perplexity": 49,
+          "sentence": "This funding allocation will help maintain services and life-saving support to ensure equal access for refugees, who are highly dependent on humanitarian assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032032125163823366,
+          "perplexity": 35,
+          "sentence": "Commenting on the allocation of the funds, the UN Resident Coordinator in Bangladesh, Ms. Gwyn Lewis said, \"The UN in Bangladesh welcomes the decision of the Emergency Relief Coordinator to allocate these funds to the currently underfunded Rohingya Response to support refugees and the host community in their daily struggle for survival.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030251103453338146,
+          "perplexity": 33,
+          "sentence": "In consultation with the government of Bangladesh and local NGOs, the money allocated from the CERF will help protect refugees, tackle gender-based violence, and contribute to an environment respectful of refugee rights and well-being.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002541541587561369,
+          "perplexity": 57,
+          "sentence": "The UNHCR will allocate the funding to its national and local partners to provide monthly Liquefied Petroleum Gas (LPG) cylinders and refills to enhance food security, provide assistance to refugees, and help refugee volunteers to deliver life-saving community-led messaging.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026001317892223597,
+          "perplexity": 197,
+          "sentence": "IOM will also focus on",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Dhaka, November 24, 2022: The United Nation\u2019s Central Emergency Response Fund (CERF) has released a USD 9 million allocation to help over 943,000 Rohingya refugees staying in camps in Cox\u2019s Bazar district and in the island of Bhasan Char, and over 17,800 members of the host community in Ukhiya and Teknaf. This funding, allocated to six UN agencies \u2013 the UN Refugee Agency (UNHCR), the International Organization for Migration (IOM), the United Nations International Children's Emergency Fund (UNICEF), the World Food Programme (WFP), the United Nations Population Fund (UNFPA), and the UN Women will help provide life-saving services to refugees and contribute to an enabling environment respectful of their rights and well-being. Under the leadership of the UN Resident Coordinator in Bangladesh, the UN agencies through national and local partners will focus on four prioritized sectors \u2013 food security, non-food items, protection, and water, sanitation and hygiene. This funding allocation will help maintain services and life-saving support to ensure equal access for refugees, who are highly dependent on humanitarian assistance. Commenting on the allocation of the funds, the UN Resident Coordinator in Bangladesh, Ms. Gwyn Lewis said, \"The UN in Bangladesh welcomes the decision of the Emergency Relief Coordinator to allocate these funds to the currently underfunded Rohingya Response to support refugees and the host community in their daily struggle for survival. In consultation with the government of Bangladesh and local NGOs, the money allocated from the CERF will help protect refugees, tackle gender-based violence, and contribute to an environment respectful of refugee rights and well-being.\" The UNHCR will allocate the funding to its national and local partners to provide monthly Liquefied Petroleum Gas (LPG) cylinders and refills to enhance food security, provide assistance to refugees, and help refugee volunteers to deliver life-saving community-led messaging. IOM will also focus on",
+  "date": "24 November 2022"
+}

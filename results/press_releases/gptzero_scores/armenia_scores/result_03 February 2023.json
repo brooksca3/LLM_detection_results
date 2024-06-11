@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6ae4e9c6-1278-4c98-9a11-a9ab7db9eb64",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009030837884374913,
+        "human": 0.9909691621156251,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009030837884374913,
+      "confidence_category": "high",
+      "confidence_score": 0.9909691621156251,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009030837884374913,
+          "human": 0.9909691621156251,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.661182403564453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001618063251953572,
+          "perplexity": 26,
+          "sentence": "Rome - The benchmark index of international food commodity prices declined in January for the tenth consecutive month, the Food and Agriculture Organization of the United Nations reported Friday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015163011266849935,
+          "perplexity": 25,
+          "sentence": "The FAO Food Price Index averaged 131.2 points in January, 0.8 percent lower than the previous month and 17.9 percent below its peak reached in March 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016363622853532434,
+          "perplexity": 65,
+          "sentence": "The index tracks monthly changes in the international prices of commonly-traded food commodities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017598102567717433,
+          "perplexity": 65,
+          "sentence": "The price indices for vegetable oils, dairy and sugar drove the January decline, while those for cereals and meat remained largely stable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016115809557959437,
+          "perplexity": 34,
+          "sentence": "In January, the FAO Cereal Price Index was essentially unchanged (up a mere 0.1 percent) from December and stood 4.8 percent above its level of one year earlier.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016141694504767656,
+          "perplexity": 48,
+          "sentence": "International wheat prices declined by 2.5 percent as production in Australia and the Russian Federation outpaced expectations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016304035671055317,
+          "perplexity": 62,
+          "sentence": "World maize prices rose marginally due to strong demand for exports from Brazil and concerns over dry conditions in Argentina.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015530738164670765,
+          "perplexity": 69,
+          "sentence": "International rice prices, however, jumped by 6.2 percent from December, influenced by tighter availabilities, strong local demand in some Asian exporting countries and exchange rate movements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015130097744986415,
+          "perplexity": 56,
+          "sentence": "The FAO Vegetable Oil Price Index declined by 2.9 percent in January.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015692217857576907,
+          "perplexity": 97,
+          "sentence": "World prices of palm and soy oils dropped amid subdued global import demand, while those of sunflowerseed and rapeseed oils declined due to ample export availabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001451095740776509,
+          "perplexity": 76,
+          "sentence": "The FAO Dairy Price Index averaged 1.4 percent lower than in December, with prices trending down for butter and milk powders on lighter demand from leading importers and increased supplies from New Zealand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001477959012845531,
+          "perplexity": 38,
+          "sentence": "World cheese prices rose slightly, driven by a recovery in food services and retail sales in Western Europe following the New Year holiday, as well as currency movements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012993862037546933,
+          "perplexity": 121,
+          "sentence": "The FAO Meat Price Index moved fractionally in January (edging down just 0.1 percent from December), as ample export",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Rome \u2013 The benchmark index of international food commodity prices declined in January for the tenth consecutive month, the Food and Agriculture Organization of the United Nations reported Friday. The FAO Food Price Index averaged 131.2 points in January, 0.8 percent lower than the previous month and 17.9 percent below its peak reached in March 2022. The index tracks monthly changes in the international prices of commonly-traded food commodities. The price indices for vegetable oils, dairy and sugar drove the January decline, while those for cereals and meat remained largely stable. In January, the FAO Cereal Price Index was essentially unchanged (up a mere 0.1 percent) from December and stood 4.8 percent above its level of one year earlier. International wheat prices declined by 2.5 percent as production in Australia and the Russian Federation outpaced expectations. World maize prices rose marginally due to strong demand for exports from Brazil and concerns over dry conditions in Argentina. International rice prices, however, jumped by 6.2 percent from December, influenced by tighter availabilities, strong local demand in some Asian exporting countries and exchange rate movements. The FAO Vegetable Oil Price Index declined by 2.9 percent in January. World prices of palm and soy oils dropped amid subdued global import demand, while those of sunflowerseed and rapeseed oils declined due to ample export availabilities. The FAO Dairy Price Index averaged 1.4 percent lower than in December, with prices trending down for butter and milk powders on lighter demand from leading importers and increased supplies from New Zealand. World cheese prices rose slightly, driven by a recovery in food services and retail sales in Western Europe following the New Year holiday, as well as currency movements. The FAO Meat Price Index moved fractionally in January (edging down just 0.1 percent from December), as ample export",
+  "date": "03 February 2023"
+}

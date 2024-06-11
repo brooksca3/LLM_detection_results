@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "62812952-1224-495e-b087-dc6c643e2267",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05181446388535248,
+        "human": 0.7507971022656857,
+        "mixed": 0.1973884338489618
+      },
+      "completely_generated_prob": 0.0986942169244809,
+      "confidence_category": "low",
+      "confidence_score": 0.7507971022656857,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05181446388535248,
+          "human": 0.7507971022656857,
+          "mixed": 0.1973884338489618
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.0079345703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.374334328978526e-05,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.9714832305908203,
+          "perplexity": 26,
+          "sentence": "This high-level regional meeting represents a significant step forward in addressing the major challenges faced by hospitals in Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03530215471982956,
+          "perplexity": 29,
+          "sentence": "On 5-7 June, WHO Regional Office for Europe, together with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI), and the Administration of the Regional Medical Divisions (TABIB) is co-hosting a high-level regional meeting in Baku, Azerbaijan on the future of hospitals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.038724448531866074,
+          "perplexity": 58,
+          "sentence": "Focusing on the theme of 'Fit-for-purpose hospitals: prioritizing quality and sustainability to meet the demands of modern healthcare', the event brings together more than 200 government representatives, hospital practitioners, and partners from across WHO European Region to discuss major challenges facing hospitals in the European Region \u1173 with a particular emphasis on Eastern Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04704948142170906,
+          "perplexity": 27,
+          "sentence": "Supported by the United States Agency for International Development (USAID) through a joint project with WHO Country Office in Azerbaijan, the three-day event will explore a wide range of topics, including the challenges and opportunities hospitals face, envisioning a transformative future for healthcare facilities, establishing climate-resilient and environmentally sustainable hospitals, digital transformation, optimizing human resources, effective governance and management for hospitals, and driving hospital transformation towards primary health-care-oriented systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028064947575330734,
+          "perplexity": 111,
+          "sentence": "Speaking at the opening speech, Health Minister Teymur Musayev highly appreciated the relevance of the essence and goals of the international meeting for the modern era.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01722465641796589,
+          "perplexity": 44,
+          "sentence": "Teymur Musayev emphasized that Heydar Aliyev, the national leader of our nation, whose 100th anniversary was celebrated in Azerbaijan this year, laid the foundation for our country's successful cooperation with WHO: \"The groundwork for most of the achievements of our national health care was made with the personal participation of the Great Leader during his leadership of our country.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009107246063649654,
+          "perplexity": 56,
+          "sentence": "Teymur Musayev pointed out that during the last 15 years, important works have been carried out in the direction of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This high-level regional meeting represents a significant step forward in addressing the major challenges faced by hospitals in Europe. On 5\u20137 June, WHO Regional Office for Europe, together with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI), and the Administration of the Regional Medical Divisions (TABIB) is co-hosting a high-level regional meeting in Baku, Azerbaijan on the future of hospitals. Focusing on the theme of \u2018Fit-for-purpose hospitals: prioritizing quality and sustainability to meet the demands of modern healthcare\u2019, the event brings together more than 200 government representatives, hospital practitioners, and partners from across WHO European Region to discuss major challenges facing hospitals in the European Region \u2014 with a particular emphasis on Eastern Europe and Central Asia. Supported by the United States Agency for International Development (USAID) through a joint project with WHO Country Office in Azerbaijan, the three-day event will explore a wide range of topics, including the challenges and opportunities hospitals face, envisioning a transformative future for healthcare facilities, establishing climate-resilient and environmentally sustainable hospitals, digital transformation, optimizing human resources, effective governance and management for hospitals, and driving hospital transformation towards primary health-care-oriented systems. Speaking at the opening speech, Health Minister Teymur Musayev highly appreciated the relevance of the essence and goals of the international meeting for the modern era. Teymur Musayev emphasized that Heydar Aliyev, the national leader of our nation, whose 100th anniversary was celebrated in Azerbaijan this year, laid the foundation for our country's successful cooperation with WHO: \"The groundwork for most of the achievements of our national health care was made with the personal participation of the Great Leader during his leadership of our country.\" Teymur Musayev pointed out that during the last 15 years, important works have been carried out in the direction of",
+  "date": "07 June 2023"
+}

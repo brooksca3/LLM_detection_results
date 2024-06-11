@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d4f73fb4-1560-4dc2-85bb-157c82960893",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 8.801514625549316,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022975957836024463,
+          "perplexity": 29,
+          "sentence": "Beijing, 6 June - On Monday, 27 May 2024, the United Nations (UN) in China and the Embassy of Kenya in China co-hosted a dialogue to raise the need for renewed partnership between countries in Africa, as well as China and others in order to accelerate climate action, deliver on the Sustainable Development Goals (SDGs) and inform deliberations for the upcoming Summit of the Future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025513945729471743,
+          "perplexity": 42,
+          "sentence": "The dialogue, hosted at the UN Compound in China located in Beijing, saw the in-person and online participation of representatives from the Government of China, Member States, UN Country Teams in China and African countries, research institutions, financial institutions, foundations, and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002631873940117657,
+          "perplexity": 34,
+          "sentence": "In following last year's Africa Climate Summit hosted in Nairobi, the dialogue was initiated by the Embassy of Kenya in China with a view to discussing the summit's resulting Nairobi Declaration, which called on the international community to support Africa and \u201cto act with urgency in reducing emissions, fulfilling its obligations, honouring past promises, and supporting the continent in addressing climate change\u201d, and the need for concrete action in these areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021623520296998322,
+          "perplexity": 25,
+          "sentence": "In highlighting perspectives from Africa and China on the current state of collaboration on climate action and the Sustainable Development Goals (SDGs), the dialogue joins other events being held by the UN in China ahead of the Summit of the Future this September, a once-in-a-generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002223306946689263,
+          "perplexity": 42,
+          "sentence": "During his remarks, UN Resident Coordinator in China, Mr. Siddharth Chatterjee, said, \u201cAs we focus on detail and delivery in today's dialogue, I hope that the views and insights shared will help in making climate action a reality for the benefit of Africa and the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023909934679977596,
+          "perplexity": 48,
+          "sentence": "You can always count on the UN",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 6 June \u2013 On Monday, 27 May 2024, the United Nations (UN) in China and the Embassy of Kenya in China co-hosted a dialogue to raise the need for renewed partnership between countries in Africa, as well as China and others in order to accelerate climate action, deliver on the Sustainable Development Goals (SDGs) and inform deliberations for the upcoming Summit of the Future. The dialogue, hosted at the UN Compound in China located in Beijing, saw the in-person and online participation of representatives from the Government of China, Member States, UN Country Teams in China and African countries, research institutions, financial institutions, foundations, and the private sector. In following last year\u2019s Africa Climate Summit hosted in Nairobi, the dialogue was initiated by the Embassy of Kenya in China with a view to discussing the summit\u2019s resulting Nairobi Declaration, which called on the international community to support Africa and \u201cto act with urgency in reducing emissions, fulfilling its obligations, honouring past promises, and supporting the continent in addressing climate change\u201d, and the need for concrete action in these areas. In highlighting perspectives from Africa and China on the current state of collaboration on climate action and the Sustainable Development Goals (SDGs), the dialogue joins other events being held by the UN in China ahead of the Summit of the Future this September, a once-in-a-generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system. During his remarks, UN Resident Coordinator in China, Mr. Siddharth Chatterjee, said, \u201cAs we focus on detail and delivery in today\u2019s dialogue, I hope that the views and insights shared will help in making climate action a reality for the benefit of Africa and the world. You can always count on the UN",
+  "date": "06 June 2024"
+}

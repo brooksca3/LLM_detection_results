@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9e9a2e8d-f3a6-4361-a8d0-6fc77c7506f2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.805198669433594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022269813052844256,
+          "perplexity": 41,
+          "sentence": "GENEVA (13 November 2020) - Amid emerging reports of mass killings in the town of Mai-Kadra, the UN High Commissioner for Human Rights Michelle Bachelet on Friday expressed increasing alarm at the rapidly deteriorating situation in the Ethiopian region of Tigray.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022200235980562866,
+          "perplexity": 48,
+          "sentence": "She warned that if the Tigray regional forces and Ethiopian Government forces continue down the path they are on \u201cthere is a risk this situation will spiral totally out of control, leading to heavy casualties and destruction, as well as mass displacement within Ethiopia itself and across borders.\u201d While the details of the alleged mass killings reported by Amnesty International in Mai-Kadra in south-west Tigray have not yet been fully verified, Bachelet called for a full inquiry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020275756833143532,
+          "perplexity": 38,
+          "sentence": "\u201cIf confirmed as having been deliberately carried out by a party to the current fighting, these killings of civilians would of course amount to war crimes, and there must be an independent investigation and full accountability for what has happened,\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019534194143489003,
+          "perplexity": 36,
+          "sentence": "\u201cHowever, the first priority right now must be to stop the fighting and prevent any further atrocities from taking place.\u201d The UN Human Rights Chief said that despite the severing of communications with Tigray making it difficult to verify the extent of the damage so far, she had received reports from a variety of sources suggesting increased airstrikes by Government forces as well as fierce ground fighting between the opposing forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017365935491397977,
+          "perplexity": 94,
+          "sentence": "\u201cI am also extremely alarmed at reports of cuts to essential water and electricity supplies, in addition to the communications blackout and blocking of access by road and air,\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017894417396746576,
+          "perplexity": 57,
+          "sentence": "\u201cThis means there is already a dramatic impact on the civilian population, in addition to the risk of death or injury as a result of hostilities.\u201d The UN Human Rights Chief repeated her 6 November appeal to both",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (13 November 2020) \u2013 Amid emerging reports of mass killings in the town of Mai-Kadra, the UN High Commissioner for Human Rights Michelle Bachelet on Friday expressed increasing alarm at the rapidly deteriorating situation in the Ethiopian region of Tigray. She warned that if the Tigray regional forces and Ethiopian Government forces continue down the path they are on \u201cthere is a risk this situation will spiral totally out of control, leading to heavy casualties and destruction, as well as mass displacement within Ethiopia itself and across borders.\u201d While the details of the alleged mass killings reported by Amnesty International in Mai-Kadra in south-west Tigray have not yet been fully verified, Bachelet called for a full inquiry. \u201cIf confirmed as having been deliberately carried out by a party to the current fighting, these killings of civilians would of course amount to war crimes, and there must be an independent investigation and full accountability for what has happened,\u201d she said. \u201cHowever, the first priority right now must be to stop the fighting and prevent any further atrocities from taking place.\u201d The UN Human Rights Chief said that despite the severing of communications with Tigray making it difficult to verify the extent of the damage so far, she had received reports from a variety of sources suggesting increased airstrikes by Government forces as well as fierce ground fighting between the opposing forces. \u201cI am also extremely alarmed at reports of cuts to essential water and electricity supplies, in addition to the communications blackout and blocking of access by road and air,\u201d she said. \u201cThis means there is already a dramatic impact on the civilian population, in addition to the risk of death or injury as a result of hostilities.\u201d The UN Human Rights Chief repeated her 6 November appeal to both",
+  "date": "13 November 2020"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c7837bca-42bd-44d1-9ee5-5bf7ffd44bff",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.368270874023438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011772145808208734,
+          "perplexity": 44,
+          "sentence": "28 April, Beijing- A two-day high-level policy dialogue convening key stakeholders, both online and offline, to discuss critical issues on environmental protection in China and around the world kicked off today at the UN Compound in Beijing with participation from three different generations of China's top environmental leadership.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012013246305286884,
+          "perplexity": 21,
+          "sentence": "Jointly organized by the United Nations Development Programme (UNDP) and the United Nations Environment Programme (UNEP), this high-level policy dialogue is the second part of the wider three-day (27th-29th) Stakeholder Consultation, which began with yesterday's business roundtable event examining how companies in China can adopt sustainable business practices, leverage green finance opportunities, and lower carbon emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011824686225736514,
+          "perplexity": 32,
+          "sentence": "This Stakeholder Consultation is one of many national consultations being held around the world in the lead up to the international meeting \"Stockholm+50: a healthy planet for the prosperity of all - our responsibility, our opportunity\" taking place in Stockholm (Sweden) on 2-3 June.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001183673448394984,
+          "perplexity": 15,
+          "sentence": "The meeting will mark the 50th anniversary of the 1972 United Nations conference on the Human Environment and the adoption of the Stockholm Declaration, the first document to put the interconnections between development, poverty, and the environment at the forefront of the international agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010876449960051104,
+          "perplexity": 69,
+          "sentence": "\u201cThe Stockholm+50 consultations around the world, including this event, bring together thought leaders, policy makers and practitioners to influence, to build a shared vision and to take that vision forward together, with the money, policies and institutions it requires,\u201d said Kanni Wignaraja, UN Assistant Secretary General and UNDP Regional Director for Asia and Pacific in her opening remarks during the policy dialogue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010985079279635102,
+          "perplexity": 89,
+          "sentence": "Dechen Tsering, Regional Director, UN Environment Programme Regional Office for Asia-Pacific stated, \u201cthis national consultation will also inform and feed into the outcome of the international meeting in Sweden.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011111787898698822,
+          "perplexity": 49,
+          "sentence": "We hope to contribute by yielding clear and concrete recommendations for action at all levels, including through",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "28 April, Beijing\u2013 A two-day high-level policy dialogue convening key stakeholders, both online and offline, to discuss critical issues on environmental protection in China and around the world kicked off today at the UN Compound in Beijing with participation from three different generations of China\u2019s top environmental leadership. Jointly organized by the United Nations Development Programme (UNDP) and the United Nations Environment Programme (UNEP), this high-level policy dialogue is the second part of the wider three-day (27th-29th) Stakeholder Consultation, which began with yesterday\u2019s business roundtable event examining how companies in China can adopt sustainable business practices, leverage green finance opportunities, and lower carbon emissions. This Stakeholder Consultation is one of many national consultations being held around the world in the lead up to the international meeting \"Stockholm+50: a healthy planet for the prosperity of all - our responsibility, our opportunity\" taking place in Stockholm (Sweden) on 2-3 June. The meeting will mark the 50th anniversary of the 1972 United Nations conference on the Human Environment and the adoption of the Stockholm Declaration, the first document to put the interconnections between development, poverty, and the environment at the forefront of the international agenda. \u201cThe Stockholm+50 consultations around the world, including this event, bring together thought leaders, policy makers and practitioners to influence, to build a shared vision and to take that vision forward together, with the money, policies and institutions it requires,\u201d said Kanni Wignaraja, UN Assistant Secretary General and UNDP Regional Director for Asia and Pacific in her opening remarks during the policy dialogue. Dechen Tsering, Regional Director, UN Environment Programme Regional Office for Asia-Pacific stated, \u201cthis national consultation will also inform and feed into the outcome of the international meeting in Sweden. We hope to contribute by yielding clear and concrete recommendations for action at all levels, including through",
+  "date": "28 April 2022"
+}

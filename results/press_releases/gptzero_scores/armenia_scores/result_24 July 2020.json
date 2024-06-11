@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e678d8e3-730d-4014-ad61-57bbfbe8539a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075705112649612,
+        "human": 0.9686254847185095,
+        "mixed": 0.0006174641549942572
+      },
+      "completely_generated_prob": 0.03075705112649612,
+      "confidence_category": "high",
+      "confidence_score": 0.9686254847185095,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075705112649612,
+          "human": 0.9686254847185095,
+          "mixed": 0.0006174641549942572
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.87449645996094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02607908844947815,
+          "perplexity": 20,
+          "sentence": "According to the latest reports, the death-toll could be as high as 100 with 4,000 wounded and over 300,000 people displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023195456713438034,
+          "perplexity": 29,
+          "sentence": "UNICEF is concerned that children are among the casualties and we are aware that those who survived are traumatized and in shock.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021741202101111412,
+          "perplexity": 24,
+          "sentence": "\u201cOur hearts are with children and families who have been impacted, especially those who lost their loved ones.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018753739073872566,
+          "perplexity": 29,
+          "sentence": "We wish a speedy recovery to the injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01892707496881485,
+          "perplexity": 192,
+          "sentence": "\u201cUNICEF's team in Beirut has not been spared.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014978023245930672,
+          "perplexity": 52,
+          "sentence": "One of our colleagues lost his spouse, seven of our staff were mildly injured and dozens of colleagues' homes were damaged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01509465929120779,
+          "perplexity": 49,
+          "sentence": "Most of our staff- as with most people in Lebanon- are in a state of shock.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0158483125269413,
+          "perplexity": 27,
+          "sentence": "\u201cUNICEF is co-ordinating very closely with authorities and partners on the ground to respond to the needs of those affected, including health workers and other front-line workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015252431854605675,
+          "perplexity": 43,
+          "sentence": "We have provided drinking water to the staff at the Beirut port and are supporting the Ministry of Public Health to take out what is left of stored medicines and vaccines in a warehouse at the port.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01450179424136877,
+          "perplexity": 64,
+          "sentence": "Child protection partners are providing psycho-social support to affected children across the city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018081452697515488,
+          "perplexity": 20,
+          "sentence": "Over the coming days, we will increase our efforts to reach families in need with assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020188961178064346,
+          "perplexity": 64,
+          "sentence": "\u201cYesterday's catastrophe in Beirut adds to what has already been a terrible crisis for the people of Lebanon, compounded by an economic collapse and a surge in COVID-19 cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022360889241099358,
+          "perplexity": 53,
+          "sentence": "The pandemic meant that hospitals are already overwhelmed, and front-line workers are exhausted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01735598035156727,
+          "perplexity": 89,
+          "sentence": "\u201cUNICEF confirms its commitment towards the people of Lebanon, the authorities and all partners on the ground.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018362728878855705,
+          "perplexity": 19,
+          "sentence": "We are on the ground and will do everything possible to provide much-needed assistance today and in the long run.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "According to the latest reports, the death-toll could be as high as 100 with 4,000 wounded and over 300,000 people displaced. UNICEF is concerned that children are among the casualties and we are aware that those who survived are traumatized and in shock. \u201cOur hearts are with children and families who have been impacted, especially those who lost their loved ones. We wish a speedy recovery to the injured. \u201cUNICEF\u2019s team in Beirut has not been spared. One of our colleagues lost his spouse, seven of our staff were mildly injured and dozens of colleagues' homes were damaged. Most of our staff- as with most people in Lebanon- are in a state of shock. \u201cUNICEF is co-ordinating very closely with authorities and partners on the ground to respond to the needs of those affected, including health workers and other front-line workers. We have provided drinking water to the staff at the Beirut port and are supporting the Ministry of Public Health to take out what is left of stored medicines and vaccines in a warehouse at the port. Child protection partners are providing psycho-social support to affected children across the city. Over the coming days, we will increase our efforts to reach families in need with assistance. \u201cYesterday\u2019s catastrophe in Beirut adds to what has already been a terrible crisis for the people of Lebanon, compounded by an economic collapse and a surge in COVID-19 cases. The pandemic meant that hospitals are already overwhelmed, and front-line workers are exhausted. \u201cUNICEF confirms its commitment towards the people of Lebanon, the authorities and all partners on the ground. We are on the ground and will do everything possible to provide much-needed assistance today and in the long run.",
+  "date": "24 July 2020"
+}

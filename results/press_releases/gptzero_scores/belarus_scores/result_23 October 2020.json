@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fd6385ef-e583-4dcd-8669-55c1982da5a5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.98311424255371,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002523276780266315,
+          "perplexity": 40,
+          "sentence": "UN is commemorating its 75th anniversary amidst huge upheaval affecting the whole world, which is aggravated by an unprecedented global health crisis fraught with serious economic and social consequences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002606117050163448,
+          "perplexity": 90,
+          "sentence": "Are we able to overcome this upheaval?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002468884631525725,
+          "perplexity": 26,
+          "sentence": "Are we ready to work together?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002485066943336278,
+          "perplexity": 52,
+          "sentence": "Or lack of faith in each other and inability to get together will not let us do this?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026739839813672006,
+          "perplexity": 89,
+          "sentence": "In this anniversary year, we have also run into an unprecedented pandemic of COVID-19, which has become another reminder of the need to cooperate closer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002452121116220951,
+          "perplexity": 37,
+          "sentence": "How fast we manage to overcome the crisis, to achieve Sustainable Development Goals, and whether we can cope with a number of already existing challenges, such as the climate crisis, inequality, new forms of violence, rapid change in technology and demographic sphere, will depend on our interaction and joint response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002082290593534708,
+          "perplexity": 85,
+          "sentence": "A perfect example of cooperation and joining efforts applied by so different countries for a stable and just world was the work on the UN Charter done by representatives of 50 countries, when the organization was created in San-Francisco in 1945.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019534231978468597,
+          "perplexity": 29,
+          "sentence": "The goals and principles of the United Nations Organization aimed at adoption of collective measures to prevent and remove threats to peace and security, development of friendly relations between nations, strengthening of international cooperation and trust, respect to human rights and fundamental freedoms for all, which UN founders set for themselves 75 years ago, do not only remain relevant today, but require further development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016321660950779915,
+          "perplexity": 65,
+          "sentence": "Though the world's community is facing serious natural, political, social and economic problems, at present there is no better mechanism or forums, which would help address the global challenes, than the United Nations Organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017566482711117715,
+          "perplexity": 84,
+          "sentence": "An exhibition of the unique historic photos opened in the National History Museum of Belarus in April, was dedicated to the 75th anniversary of San-Francisco Conference",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN is commemorating its 75th anniversary amidst huge upheaval affecting the whole world, which is aggravated by an unprecedented global health crisis fraught with serious economic and social consequences. Are we able to overcome this upheaval? Are we ready to work together? Or lack of faith in each other and inability to get together will not let us do this? In this anniversary year, we have also run into an unprecedented pandemic of COVID-19, which has become another reminder of the need to cooperate closer. How fast we manage to overcome the crisis, to achieve Sustainable Development Goals, and whether we can cope with a number of already existing challenges, such as the climate crisis, inequality, new forms of violence, rapid change in technology and demographic sphere, will depend on our interaction and joint response. A perfect example of cooperation and joining efforts applied by so different countries for a stable and just world was the work on the UN Charter done by representatives of 50 countries, when the organization was created in San-Francisco in 1945. The goals and principles of the United Nations Organization aimed at adoption of collective measures to prevent and remove threats to peace and security, development of friendly relations between nations, strengthening of international cooperation and trust, respect to human rights and fundamental freedoms for all, which UN founders set for themselves 75 years ago, do not only remain relevant today, but require further development. Though the world's community is facing serious natural, political, social and economic problems, at present there is no better mechanism or forums, which would help address the global challenes, than the United Nations Organization. An exhibition of the unique historic photos opened in the National History Museum of Belarus in April, was dedicated to the 75th anniversary of San-Francisco Conference",
+  "date": "23 October 2020"
+}

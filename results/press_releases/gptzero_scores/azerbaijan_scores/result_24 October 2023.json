@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2988895d-9734-4f91-8a74-ceffcb00428b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.47386169433594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007874366827309132,
+          "perplexity": 70,
+          "sentence": "The Third Sustainable Development Goals (SDG) Dialogue \u201cReflections on the Outcome of the Global SDG Summit 2023 and the Role of Supreme Audit Institutions in SDGs Implementation\u201d took place in Baku on October 24.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007487541064620018,
+          "perplexity": 20,
+          "sentence": "The National Coordinating Council for Sustainable Development, the Ministry of Economy, and the UN Resident Coordinator's Office in Azerbaijan collaborated on this joint initiative that involved more than 100 representatives from various sectors, including government agencies, international financial institutions, diplomatic community, civil society, academia, and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006882059387862682,
+          "perplexity": 112,
+          "sentence": "\u201cAt the conclusion of the 2023 SDG Summit, member states - including Azerbaijan - adopted Political Declaration, committing to united efforts, political will and firm actions to advance concrete, integrated and targeted policies, and actions\u2026 pledge to act now, for present and future generations, turning our world towards a sustainable and resilient path by 2030, and leaving no one behind,\u201d Vladanka Andreeva, the UN Resident Coordinator in Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006603089161217213,
+          "perplexity": 111,
+          "sentence": "\u201cAt the conclusion of the 2023 SDG Summit, member states - including Azerbaijan - adopted Political Declaration, committing to united efforts, political will and firm actions to advance concrete, integrated and targeted policies, and actions\u2026 pledge to act now, for present and future generations, turning our world towards a sustainable and resilient path by 2030, and leaving no one behind,\u201d Vladanka Andreeva, the UN Resident Coordinator in Azerbaijan stated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006769830826669931,
+          "perplexity": 36,
+          "sentence": "Vladanka Andreeva stated that the United Nations would continue to work collaboratively with all stakeholders to achieve inclusive and sustainable development based on the commitments made during the SDG summit held in September 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005431093741208315,
+          "perplexity": 99,
+          "sentence": "It was also noted that the UN is pleased to welcome Azerbaijan's plans to submit the Fourth Voluntary National Review of SDG implementation in 2024 and is ready to support this critical activity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0040121981874108315,
+          "perplexity": 110,
+          "sentence": "Deputy Prime Minister Ali Ahmadov and the National Coordinating Council for Sustainable Development Chairman",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Third Sustainable Development Goals (SDG) Dialogue \u201cReflections on the Outcome of the Global SDG Summit 2023 and the Role of Supreme Audit Institutions in SDGs Implementation\u201d took place in Baku on October 24. The National Coordinating Council for Sustainable Development, the Ministry of Economy, and the UN Resident Coordinator's Office in Azerbaijan collaborated on this joint initiative that involved more than 100 representatives from various sectors, including government agencies, international financial institutions, diplomatic community, civil society, academia, and the private sector. \u201cAt the conclusion of the 2023 SDG Summit, member states \u2013 including Azerbaijan - adopted Political Declaration, committing to united efforts, political will and firm actions to advance concrete, integrated and targeted policies, and actions\u2026 pledge to act now, for present and future generations, turning our world towards a sustainable and resilient path by 2030, and leaving no one behind,\u201d Vladanka Andreeva, the UN Resident Coordinator in Azerbaijan. \u201cAt the conclusion of the 2023 SDG Summit, member states \u2013 including Azerbaijan - adopted Political Declaration, committing to united efforts, political will and firm actions to advance concrete, integrated and targeted policies, and actions\u2026 pledge to act now, for present and future generations, turning our world towards a sustainable and resilient path by 2030, and leaving no one behind,\u201d Vladanka Andreeva, the UN Resident Coordinator in Azerbaijan stated. Vladanka Andreeva stated that the United Nations would continue to work collaboratively with all stakeholders to achieve inclusive and sustainable development based on the commitments made during the SDG summit held in September 2023. It was also noted that the UN is pleased to welcome Azerbaijan's plans to submit the Fourth Voluntary National Review of SDG implementation in 2024 and is ready to support this critical activity. Deputy Prime Minister Ali Ahmadov and the National Coordinating Council for Sustainable Development Chairman",
+  "date": "24 October 2023"
+}

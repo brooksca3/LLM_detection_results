@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "10a820bd-b29a-4a18-af13-2cbc334d1ce0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.778125762939453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00048704957589507103,
+          "perplexity": 89,
+          "sentence": "The online seminar on information coverage of social projects was attended by over forty participants: young leaders, participants of youth programs, volunteers, employees of civil society organizations and associations of Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004862832429353148,
+          "perplexity": 35,
+          "sentence": "The goal of the seminar was to provide the participants with the knowledge and practical skills in usage of new media tools in order to cover social projects at different stages of its implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004886193783022463,
+          "perplexity": 86,
+          "sentence": "The main topics of the seminar were: the goals of information coverage of social projects, types and functions of various formats of external communications, writing text materials, as well as reportage photo-shoot as part of the implementation of social projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005077069508843124,
+          "perplexity": 101,
+          "sentence": "The seminar was opened by Azat Atajanov, Head of the IOM Representative Office in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004563835682347417,
+          "perplexity": 87,
+          "sentence": "In addition, he noted that young leaders will soon have an opportunity to implement their project ideas, and \u201cthe skills gained during this seminar will be useful in order to present in media their projects and achievements.\u201d The online seminar was organized in the format of a videoconference with moderation and technical support provided by the IOM and EF, involving professional trainers and young photographer in an interactive format on Google Meet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043803785229101777,
+          "perplexity": 74,
+          "sentence": "\u201cAs for the editor of the information website InAshgabat, it was useful for me to hear the advice of experts in the field of media coverage of social projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004739919095300138,
+          "perplexity": 106,
+          "sentence": "I had experience covering a UNESCO project, but the methods and tips shared by the organizers are something new to me.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000455745990620926,
+          "perplexity": 41,
+          "sentence": "Since the media space is rapidly changing, it is necessary for constantly learn to keep up with the times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004111565067432821,
+          "perplexity": 105,
+          "sentence": "Especially, when it comes to coverage of such an innovative segment as social projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043015831033699214,
+          "perplexity": 74,
+          "sentence": "Therefore, I want to emphasize the importance and necessity of such seminars and thank the organizers for sharing valuable information with young editors like me!\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The online seminar on information coverage of social projects was attended by over forty participants: young leaders, participants of youth programs, volunteers, employees of civil society organizations and associations of Turkmenistan. The goal of the seminar was to provide the participants with the knowledge and practical skills in usage of new media tools in order to cover social projects at different stages of its implementation. The main topics of the seminar were: the goals of information coverage of social projects, types and functions of various formats of external communications, writing text materials, as well as reportage photo-shoot as part of the implementation of social projects. The seminar was opened by Azat Atajanov, Head of the IOM Representative Office in Turkmenistan. In addition, he noted that young leaders will soon have an opportunity to implement their project ideas, and \u201cthe skills gained during this seminar will be useful in order to present in media their projects and achievements.\u201d The online seminar was organized in the format of a videoconference with moderation and technical support provided by the IOM and EF, involving professional trainers and young photographer in an interactive format on Google Meet. \u201cAs for the editor of the information website InAshgabat, it was useful for me to hear the advice of experts in the field of media coverage of social projects. I had experience covering a UNESCO project, but the methods and tips shared by the organizers are something new to me. Since the media space is rapidly changing, it is necessary for constantly learn to keep up with the times. Especially, when it comes to coverage of such an innovative segment as social projects. Therefore, I want to emphasize the importance and necessity of such seminars and thank the organizers for sharing valuable information with young editors like me!\u201d",
+  "date": "07 April 2022"
+}

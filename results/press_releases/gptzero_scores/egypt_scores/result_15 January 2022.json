@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0a8a853a-d60e-4b2d-9f5c-95a200664b1f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.238365173339844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.05942350998520851,
+          "perplexity": 29,
+          "sentence": "Cairo, 14 January 2022: The National Museum of Egyptian Civilization will host for the first time, the World Art Forum (WAF), the largest international contemporary art event that adopts the sustainable development goals (SDGs) at the core of their mission.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06205261871218681,
+          "perplexity": 12,
+          "sentence": "This forum will run from January 15th to January 19th and will be under the auspices of five ministries: The Ministry of Culture, the Ministry of Planning and Economic Development, the Ministry of Tourism and Antiquities, the Ministry of State for Immigration and Expatriates' Affairs, the Ministry of Environment, and the State's Department of Tourism in Cairo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05915152654051781,
+          "perplexity": 20,
+          "sentence": "The event is held in partnership with the United Nations in Egypt, the National Museum of Egyptian Civilization, and the New York International Contemporary Art Society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05865485221147537,
+          "perplexity": 92,
+          "sentence": "The World Art Forum (WAF) - organized by Sheranda World Art and Jupiter Commz - reflects the link between contemporary art and Sustainable Development Goals (SDGs) which are in line with Egypt's 2030 Vision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06244070827960968,
+          "perplexity": 43,
+          "sentence": "The Forum aims to consolidate the relationship of art in general and contemporary art in particular with the development of a culture that promotes a more sustainable future playing a role in enriching human beliefs and the dimensions of human identity and its role in constructing it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.058311715722084045,
+          "perplexity": 66,
+          "sentence": "The World Art Forum will address the linkages between contemporary arts and the United Nations Sustainable Development Goals which is compatible with Egypt's 2030 Vision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06680659204721451,
+          "perplexity": 24,
+          "sentence": "Over five days, the attendees will tour the world by learning about the different visual arts presented by galleries and cultural centers from Europe, Asia, Africa, the United States, Australia, and the Middle East.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06630995124578476,
+          "perplexity": 24,
+          "sentence": "The agenda of the World Art Forum (WAF) will include a wide range of artistic events and discussion panels that will discuss the role of art in promoting sustainable development goals and building partnerships between artists and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo, 14 January 2022: The National Museum of Egyptian Civilization will host for the first time, the World Art Forum (WAF), the largest international contemporary art event that adopts the sustainable development goals (SDGs) at the core of their mission. This forum will run from January 15th to January 19th and will be under the auspices of five ministries: The Ministry of Culture, the Ministry of Planning and Economic Development, the Ministry of Tourism and Antiquities, the Ministry of State for Immigration and Expatriates' Affairs, the Ministry of Environment, and the State\u2019s Department of Tourism in Cairo. The event is held in partnership with the United Nations in Egypt, the National Museum of Egyptian Civilization, and the New York International Contemporary Art Society. The World Art Forum (WAF) \u2013 organized by Sheranda World Art and Jupiter Commz \u2013 reflects the link between contemporary art and Sustainable Development Goals (SDGs) which are in line with Egypt\u2019s 2030 Vision. The Forum aims to consolidate the relationship of art in general and contemporary art in particular with the development of a culture that promotes a more sustainable future playing a role in enriching human beliefs and the dimensions of human identity and its role in constructing it. The World Art Forum will address the linkages between contemporary arts and the United Nations Sustainable Development Goals which is compatible with Egypt\u2019s 2030 Vision. Over five days, the attendees will tour the world by learning about the different visual arts presented by galleries and cultural centers from Europe, Asia, Africa, the United States, Australia, and the Middle East. The agenda of the World Art Forum (WAF) will include a wide range of artistic events and discussion panels that will discuss the role of art in promoting sustainable development goals and building partnerships between artists and",
+  "date": "15 January 2022"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fb97a934-e433-4486-8586-4fbd2ec2b3d3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02251904183684733,
+        "human": 0.9343194613091952,
+        "mixed": 0.043161496853957385
+      },
+      "completely_generated_prob": 0.02251904183684733,
+      "confidence_category": "medium",
+      "confidence_score": 0.9343194613091952,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02251904183684733,
+          "human": 0.9343194613091952,
+          "mixed": 0.043161496853957385
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.50465774536133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11276276409626007,
+          "perplexity": 102,
+          "sentence": "Discussions focused on establishing a regional framework to guide hospital transformation towards primary healthcare-oriented systems, ensuring a patient-centered approach and better patient outcomes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004348079673945904,
+          "perplexity": 29,
+          "sentence": "On 5-7 June, WHO Regional Office for Europe, together with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI), and the Administration of the Regional Medical Divisions (TABIB) is co-hosting a high-level regional meeting in Baku, Azerbaijan on the future of hospitals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004820270463824272,
+          "perplexity": 56,
+          "sentence": "Focusing on the theme of 'Fit-for-purpose hospitals: prioritizing quality and sustainability to meet the demands of modern healthcare', the event brought together more than 200 government representatives, hospital practitioners, and partners from across WHO European Region to discuss major challenges facing hospitals in the European Region \u1173 with a particular emphasis on Eastern Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023353358265012503,
+          "perplexity": 24,
+          "sentence": "The last day of the meeting, which was supported by the United States Agency for International Development (USAID) within the framework of the project carried out jointly with WHO Country Office in Azerbaijan, was marked by in-depth discussions on important topics that shape the future of hospitals, as in the first two days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015499473083764315,
+          "perplexity": 31,
+          "sentence": "On the third day dedicated to the transformation of hospitals and the healthcare system in Azerbaijan, the representatives of the Milli Majlis and the country's healthcare institutions shared with the event participants the steps taken and the results achieved in this field in recent years, as well as their views on the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015639301855117083,
+          "perplexity": 30,
+          "sentence": "Also, a panel discussion on joint projects was held with the participation of USAID and the Delegation of the European Union to the Republic of Azerbaijan, which are among the main partners of WHO in supporting the country's healthcare system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031236622016876936,
+          "perplexity": 101,
+          "sentence": "In addition, discussions focused on establishing a regional framework to guide hospital transformation towards primary healthcare-oriented systems, ensuring a patient-centered approach and better patient",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Discussions focused on establishing a regional framework to guide hospital transformation towards primary healthcare-oriented systems, ensuring a patient-centered approach and better patient outcomes. On 5\u20137 June, WHO Regional Office for Europe, together with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI), and the Administration of the Regional Medical Divisions (TABIB) is co-hosting a high-level regional meeting in Baku, Azerbaijan on the future of hospitals. Focusing on the theme of \u2018Fit-for-purpose hospitals: prioritizing quality and sustainability to meet the demands of modern healthcare\u2019, the event brought together more than 200 government representatives, hospital practitioners, and partners from across WHO European Region to discuss major challenges facing hospitals in the European Region \u2014 with a particular emphasis on Eastern Europe and Central Asia. The last day of the meeting, which was supported by the United States Agency for International Development (USAID) within the framework of the project carried out jointly with WHO Country Office in Azerbaijan, was marked by in-depth discussions on important topics that shape the future of hospitals, as in the first two days. On the third day dedicated to the transformation of hospitals and the healthcare system in Azerbaijan, the representatives of the Milli Majlis and the country's healthcare institutions shared with the event participants the steps taken and the results achieved in this field in recent years, as well as their views on the future. Also, a panel discussion on joint projects was held with the participation of USAID and the Delegation of the European Union to the Republic of Azerbaijan, which are among the main partners of WHO in supporting the country's healthcare system. In addition, discussions focused on establishing a regional framework to guide hospital transformation towards primary healthcare-oriented systems, ensuring a patient-centered approach and better patient",
+  "date": "09 June 2023"
+}

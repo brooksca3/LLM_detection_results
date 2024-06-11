@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "89b128fd-4d43-4f25-af97-59fdc68e4201",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.6256046295166,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005717896274290979,
+          "perplexity": 58,
+          "sentence": "Following the untimely passing of the Right Honorable Prime Minister, Ambrose Mandvulo Dlamini; the United Nations Resident Coordinator, Ms Nathalie Ndongo-Seh, released a statement of condolences on behalf of the United Nations Development System in Eswatini.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005818986683152616,
+          "perplexity": 54,
+          "sentence": "It was with great sadness that the United Nations Family in the Kingdom of Eswatini has learned of the untimely passing of His Excellency The Right Honourable Prime Minister, Mr. Ambrose Mandvulo Dlamini.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004804945783689618,
+          "perplexity": 57,
+          "sentence": "His Excellency was a passionate, kind, inspirational and exceptional leader; a man of the people and a fierce fighter for a great and a greater Kingdom of Eswatini where no one is left behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004810582904610783,
+          "perplexity": 41,
+          "sentence": "His Excellency was a very close partner, a crucial ally, a champion and a valued supporter of the work of the United Nations Development System in Eswatini, for which we will always be grateful.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005014292546547949,
+          "perplexity": 26,
+          "sentence": "He will be remembered for his jovial personality, his many impressive achievements in his short lifetime and his great sacrifice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000510496785864234,
+          "perplexity": 17,
+          "sentence": "On behalf of the United Nations family in the Kingdom of Eswatini, I would like to extend heartfelt condolences to the Dlamini family, Their Majesties, the Government and the people of Eswatini in this difficult time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035925081465393305,
+          "perplexity": 64,
+          "sentence": "We are all devastated by the passing of an exceptional son and a great leader of this beautiful nation and pray for God's comfort and strength to carry on with his vision of a better Eswatini post-COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040764364530332386,
+          "perplexity": 50,
+          "sentence": "The UN Family has sent diplomatic notes to the Government of Eswatini through the Ministry of Foreign Affairs and International Cooperation.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following the untimely passing of the Right Honorable Prime Minister, Ambrose Mandvulo Dlamini; the United Nations Resident Coordinator, Ms Nathalie Ndongo-Seh, released a statement of condolences on behalf of the United Nations Development System in Eswatini. It was with great sadness that the United Nations Family in the Kingdom of Eswatini has learned of the untimely passing of His Excellency The Right Honourable Prime Minister, Mr. Ambrose Mandvulo Dlamini. His Excellency was a passionate, kind, inspirational and exceptional leader; a man of the people and a fierce fighter for a great and a greater Kingdom of Eswatini where no one is left behind. His Excellency was a very close partner, a crucial ally, a champion and a valued supporter of the work of the United Nations Development System in Eswatini, for which we will always be grateful. He will be remembered for his jovial personality, his many impressive achievements in his short lifetime and his great sacrifice. On behalf of the United Nations family in the Kingdom of Eswatini, I would like to extend heartfelt condolences to the Dlamini family, Their Majesties, the Government and the people of Eswatini in this difficult time. We are all devastated by the passing of an exceptional son and a great leader of this beautiful nation and pray for God\u2019s comfort and strength to carry on with his vision of a better Eswatini post-COVID-19. The UN Family has sent diplomatic notes to the Government of Eswatini through the Ministry of Foreign Affairs and International Cooperation.",
+  "date": "14 December 2020"
+}

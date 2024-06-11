@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fd0538db-71fc-42c6-83f9-13d0b1ed2d26",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.298770904541016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010682560969144106,
+          "perplexity": 21,
+          "sentence": "More than 70 countries, international organizations and Afghan Government officials, as well as civil society representatives are expected to take part in the conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011500649998197332,
+          "perplexity": 24,
+          "sentence": "KABUL, 6 October 2020 - Afghanistan and international partners in Kabul today officially launched preparations for the 2020 Afghanistan Conference, scheduled to take place 23-24 November at the Palais des Nations in Geneva and be co-hosted by the Government of the Islamic Republic of Afghanistan (GoIRA), Finland and the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011281920887995511,
+          "perplexity": 72,
+          "sentence": "The launch event was attended by representatives of more than 70 countries and international organizations, as well as civil society representatives either virtually or physically at the Presidential Char Chinar Palace in the Afghan capital.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010454995936015621,
+          "perplexity": 46,
+          "sentence": "The 2020 Afghanistan Conference is the last pledging conference of the Transformation Decade (2015-24), which aims to take the country towards self-reliance, and is expected to renew international community and Afghan commitments to the development and stability of Afghanistan up to 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010654818470356986,
+          "perplexity": 83,
+          "sentence": "The main conference will take place on 24 November, with side events to discuss key challenges and accomplishments for Afghanistan occurring the day before.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010768318315967917,
+          "perplexity": 62,
+          "sentence": "The Afghan Minister of Finance, Abdul Hadi Arghandiwal, in his opening remarks said: \u201cThe 2020 Afghanistan Conference presents a unique opportunity to work together with a strong commitment to the principles of aid effectiveness and mutual accountability for improved transparency, legitimacy, as well as effectiveness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010697342804633081,
+          "perplexity": 42,
+          "sentence": "Progress on mutual accountability is all the more important and both the government as well as our international partners must hold themselves and each other accountable for use of development resources and for development results.\u201d Afghanistan has achieved real progress since 2001 in economic and social fields, as well as with democratic institutions, governance and human rights - especially that of women, children and minorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010188570740865543,
+          "perplexity": 78,
+          "sentence": "Afghanistan and its global partners need to protect these gains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011106013698736206,
+          "perplexity": 18,
+          "sentence": "President Ashraf Ghani in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "More than 70 countries, international organizations and Afghan Government officials, as well as civil society representatives are expected to take part in the conference. KABUL, 6 October 2020 \u2013 Afghanistan and international partners in Kabul today officially launched preparations for the 2020 Afghanistan Conference, scheduled to take place 23-24 November at the Palais des Nations in Geneva and be co-hosted by the Government of the Islamic Republic of Afghanistan (GoIRA), Finland and the United Nations. The launch event was attended by representatives of more than 70 countries and international organizations, as well as civil society representatives either virtually or physically at the Presidential Char Chinar Palace in the Afghan capital. The 2020 Afghanistan Conference is the last pledging conference of the Transformation Decade (2015-24), which aims to take the country towards self-reliance, and is expected to renew international community and Afghan commitments to the development and stability of Afghanistan up to 2024. The main conference will take place on 24 November, with side events to discuss key challenges and accomplishments for Afghanistan occurring the day before. The Afghan Minister of Finance, Abdul Hadi Arghandiwal, in his opening remarks said: \u201cThe 2020 Afghanistan Conference presents a unique opportunity to work together with a strong commitment to the principles of aid effectiveness and mutual accountability for improved transparency, legitimacy, as well as effectiveness. Progress on mutual accountability is all the more important and both the government as well as our international partners must hold themselves and each other accountable for use of development resources and for development results.\u201d Afghanistan has achieved real progress since 2001 in economic and social fields, as well as with democratic institutions, governance and human rights \u2013 especially that of women, children and minorities. Afghanistan and its global partners need to protect these gains. President Ashraf Ghani in",
+  "date": "06 October 2020"
+}

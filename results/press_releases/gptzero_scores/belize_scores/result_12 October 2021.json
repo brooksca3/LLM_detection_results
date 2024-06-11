@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a972449f-d37c-4a1b-8204-66516f48fc2a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 72.01475524902344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0021487856283783913,
+          "perplexity": 67,
+          "sentence": "The Pan American Health Organization/World Health Organization (PAHO/WHO) continues to support the Karl Heusner Memorial Hospital (KHMH) with the latest donation of IT equipment and office supplies to strengthen existing surveillance activities as part of ensuring COVID-19 vaccine safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002405206672847271,
+          "perplexity": 67,
+          "sentence": "Due to the vast increase in COVID-19 vaccine administration, on both global and national scales, it is imperative to promote safe vaccines and safe vaccination procedures which will ultimately decrease health risks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025414591655135155,
+          "perplexity": 45,
+          "sentence": "Thus, monitoring the effects of the vaccines on the population will help prevent unnecessary health risks while maintaining trust in vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026660466101020575,
+          "perplexity": 269,
+          "sentence": "In January 2021, PAHO/WHO conducted a regional survey to evaluate the capacities of potential hospitals for vaccines against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023564277216792107,
+          "perplexity": 112,
+          "sentence": "Based on the response submitted by the KHMH in May 2021, the hospital was selected as part of the Sentinel Hospital for the Surveillance of AESI (Adverse Event of Special Interest) and AEFIS (Adverse Event Following Immunization) for COVID-19 Vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019094905583187938,
+          "perplexity": 62,
+          "sentence": "As a sentinel hospital, it plays an important role in the surveillance system of the country, particularly in its ability to timely detect and notify ESAVI (Events Supposedly Attributable to Vaccination or Immunization) and AESI through passive, stimulated, or active surveillance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000915949756745249,
+          "perplexity": 69,
+          "sentence": "With the following donated IT equipment and office supplies, KHMH will be able to set up an ESAVI Situation Room to conduct proper vaccine safety surveillance in Belize, in collaboration with the Ministry of Health and Wellness which received the same donation for its own ESAVI Situation Room three weeks earlier.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007274504750967026,
+          "perplexity": 100,
+          "sentence": "The office supplies and IT equipment included, amongst other miscellaneous stationery items, for use by the ESAVI Situation Room at the Karl Heusner Memorial Hospital: \u201cThis donation will be used to help with the continuous collection of data from COVID patients and their vaccination status to track any possible side effects of vaccines and to track the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Pan American Health Organization/World Health Organization (PAHO/WHO) continues to support the Karl Heusner Memorial Hospital (KHMH) with the latest donation of IT equipment and office supplies to strengthen existing surveillance activities as part of ensuring COVID-19 vaccine safety. Due to the vast increase in COVID-19 vaccine administration, on both global and national scales, it is imperative to promote safe vaccines and safe vaccination procedures which will ultimately decrease health risks. Thus, monitoring the effects of the vaccines on the population will help prevent unnecessary health risks while maintaining trust in vaccination. In January 2021, PAHO/WHO conducted a regional survey to evaluate the capacities of potential hospitals for vaccines against COVID-19. Based on the response submitted by the KHMH in May 2021, the hospital was selected as part of the Sentinel Hospital for the Surveillance of AESI (Adverse Event of Special Interest) and AEFIS (Adverse Event Following Immunization) for COVID-19 Vaccines. As a sentinel hospital, it plays an important role in the surveillance system of the country, particularly in its ability to timely detect and notify ESAVI (Events Supposedly Attributable to Vaccination or Immunization) and AESI through passive, stimulated, or active surveillance. With the following donated IT equipment and office supplies, KHMH will be able to set up an ESAVI Situation Room to conduct proper vaccine safety surveillance in Belize, in collaboration with the Ministry of Health and Wellness which received the same donation for its own ESAVI Situation Room three weeks earlier. The office supplies and IT equipment included, amongst other miscellaneous stationery items, for use by the ESAVI Situation Room at the Karl Heusner Memorial Hospital: \u201cThis donation will be used to help with the continuous collection of data from COVID patients and their vaccination status to track any possible side effects of vaccines and to track the",
+  "date": "12 October 2021"
+}

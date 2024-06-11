@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "383796fd-2f04-4cdf-b03e-0e34d407c0ec",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 206.8822021484375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019659074023365974,
+          "perplexity": 33,
+          "sentence": "Beijing, 22 March 2022 - Yesterday, the United Nations in China and the British Embassy in Beijing jointly held a dialogue titled \u201cGender Equality and Women's Empowerment in Health\u201d, as part of a series of events in March to recognize women's achievements and potential towards the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023946156725287437,
+          "perplexity": 52,
+          "sentence": "The COVID-19 pandemic is forecast to impact the development landscape for years to come, and there is a high risk that the gender inequalities and gender-based discrimination we have seen play out will increase further.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002827687654644251,
+          "perplexity": 46,
+          "sentence": "However, women have also been crucial in leading the fight on the frontlines against COVID-19, accounting for 70% of the global health workforce.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022666833829134703,
+          "perplexity": 346,
+          "sentence": "\u201cWe celebrate their contributions to ending the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002003083471208811,
+          "perplexity": 47,
+          "sentence": "Their ideas, innovations and activism that are changing our world for the better.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001830406836234033,
+          "perplexity": 68,
+          "sentence": "And their leadership across all walks of life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001456457655876875,
+          "perplexity": 33,
+          "sentence": "But we also recognize that in too many areas, the clock on women's rights is moving backwards,\u201d said Mr. Ant\u00f3nio Guterres, UN Secretary-General, in his International Women's Day message.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012218353804200888,
+          "perplexity": 26,
+          "sentence": "Participants, including representatives from the UN Country Team in China comprised of UNFPA, UNICEF, UN Women, and WHO, in addition to government officials and relevant stakeholders from academia, international organizations, the diplomatic community, and the private sector, joined the dialogue in person at the UN Compound in Beijing and remotely via video link.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014412482269108295,
+          "perplexity": 335,
+          "sentence": "\u201cIt is evident that COVID-19 has reinforced traditional social and cultural gender norms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010847945231944323,
+          "perplexity": 24,
+          "sentence": "Women have always borne a greater domestic burden as compared to men, and this has been exacerbated by the pandemic, forcing many to leave the workforce in order to support unpaid domestic care at home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011560340644791722,
+          "perplexity": 48,
+          "sentence": "Among the millions of populations pushed back into poverty, women and girls are the hardest-hit in the economic fallout of the pandemic,\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012630713172256947,
+          "perplexity": 690,
+          "sentence": "\u201cIndeed,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 22 March 2022 \u2013 Yesterday, the United Nations in China and the British Embassy in Beijing jointly held a dialogue titled \u201cGender Equality and Women\u2019s Empowerment in Health\u201d, as part of a series of events in March to recognize women\u2019s achievements and potential towards the Sustainable Development Goals (SDGs). The COVID-19 pandemic is forecast to impact the development landscape for years to come, and there is a high risk that the gender inequalities and gender-based discrimination we have seen play out will increase further. However, women have also been crucial in leading the fight on the frontlines against COVID-19, accounting for 70% of the global health workforce. \u201cWe celebrate their contributions to ending the COVID-19 pandemic. Their ideas, innovations and activism that are changing our world for the better. And their leadership across all walks of life. But we also recognize that in too many areas, the clock on women\u2019s rights is moving backwards,\u201d said Mr. Ant\u00f3nio Guterres, UN Secretary-General, in his International Women\u2019s Day message. Participants, including representatives from the UN Country Team in China comprised of UNFPA, UNICEF, UN Women, and WHO, in addition to government officials and relevant stakeholders from academia, international organizations, the diplomatic community, and the private sector, joined the dialogue in person at the UN Compound in Beijing and remotely via video link. \u201cIt is evident that COVID-19 has reinforced traditional social and cultural gender norms. Women have always borne a greater domestic burden as compared to men, and this has been exacerbated by the pandemic, forcing many to leave the workforce in order to support unpaid domestic care at home. Among the millions of populations pushed back into poverty, women and girls are the hardest-hit in the economic fallout of the pandemic,\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China. \u201cIndeed,",
+  "date": "22 March 2022"
+}

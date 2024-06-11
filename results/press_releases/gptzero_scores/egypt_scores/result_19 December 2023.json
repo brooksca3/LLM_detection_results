@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "31dbb6d6-8265-4938-b461-de70f4e90763",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.011470783375104562,
+        "human": 0.9657806678641713,
+        "mixed": 0.022748548760724192
+      },
+      "completely_generated_prob": 0.011470783375104562,
+      "confidence_category": "high",
+      "confidence_score": 0.9657806678641713,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.011470783375104562,
+          "human": 0.9657806678641713,
+          "mixed": 0.022748548760724192
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.8316707611084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0026759898755699396,
+          "perplexity": 44,
+          "sentence": "The secured area provides a safe space where the victim remains throughout the court hearing completely free from any influence or pressure from the opposing side/perpetrator, to prevent any causes of secondary victimization or trauma to the victim.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029114126227796078,
+          "perplexity": 42,
+          "sentence": "The secured area also provides the necessary safe space for her witnesses to ensure that they are not exposed to any threat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024274035822600126,
+          "perplexity": 22,
+          "sentence": "Within the framework of the continuous cooperation between the Ministry of Justice and the United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA), the secure area dedicated to women victims of violence was inaugurated this morning at the East Alexandria Court, after completing its refurbishment and providing it with the necessary technical communication equipment in accordance with the best international standards and requirements to protect women's rights and counter violence against them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014160325517877936,
+          "perplexity": 45,
+          "sentence": "Counselor Omar Marwan, Minister of Justice, delegated Counselor Rabea Kasem, Deputy Minister of Justice for the General Authority for Court Buildings and Judge Amal Ammar, Deputy Minister of Justice for Human Rights, Women and Children to attend the opening ceremony on his behalf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028103855438530445,
+          "perplexity": 28,
+          "sentence": "The ceremony was attended by Major General Mohamed El-Sherif, Governor of Alexandria, Ms. Cristina Albertin, UNODC Regional Representative for the Middle East and North Africa and a group of advisors to the Ministry of Justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00843157060444355,
+          "perplexity": 44,
+          "sentence": "The secured area provides a safe space where the victim remains throughout the court hearing completely free from any influence or pressure from the opposing side/perpetrator, to prevent any causes of secondary victimization or trauma to the victim.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012054609134793282,
+          "perplexity": 42,
+          "sentence": "The secured area also provides the necessary safe space for her witnesses to ensure that they are not exposed to any threat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014692550525069237,
+          "perplexity": 119,
+          "sentence": "The opening of the secured area designated for women victims of violence at the East Alexandria Court is a step towards",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The secured area provides a safe space where the victim remains throughout the court hearing completely free from any influence or pressure from the opposing side/perpetrator, to prevent any causes of secondary victimization or trauma to the victim. The secured area also provides the necessary safe space for her witnesses to ensure that they are not exposed to any threat. Within the framework of the continuous cooperation between the Ministry of Justice and the United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA), the secure area dedicated to women victims of violence was inaugurated this morning at the East Alexandria Court, after completing its refurbishment and providing it with the necessary technical communication equipment in accordance with the best international standards and requirements to protect women's rights and counter violence against them. Counselor Omar Marwan, Minister of Justice, delegated Counselor Rabea Kasem, Deputy Minister of Justice for the General Authority for Court Buildings and Judge Amal Ammar, Deputy Minister of Justice for Human Rights, Women and Children to attend the opening ceremony on his behalf. The ceremony was attended by Major General Mohamed El-Sherif, Governor of Alexandria, Ms. Cristina Albertin, UNODC Regional Representative for the Middle East and North Africa and a group of advisors to the Ministry of Justice. The secured area provides a safe space where the victim remains throughout the court hearing completely free from any influence or pressure from the opposing side/perpetrator, to prevent any causes of secondary victimization or trauma to the victim. The secured area also provides the necessary safe space for her witnesses to ensure that they are not exposed to any threat. The opening of the secured area designated for women victims of violence at the East Alexandria Court is a step towards",
+  "date": "19 December 2023"
+}

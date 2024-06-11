@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f4b14740-070c-4dd3-a0d5-4b69bc3225e4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05169036241132647,
+        "human": 0.9476566442076518,
+        "mixed": 0.0006529933810216378
+      },
+      "completely_generated_prob": 0.05169036241132647,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476566442076518,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05169036241132647,
+          "human": 0.9476566442076518,
+          "mixed": 0.0006529933810216378
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 143.2696990966797,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.026492755860090256,
+          "perplexity": 72,
+          "sentence": "Of course, nothing justifies the abhorrent acts of terror by Hamas in Israel on 7 October which I utterly condemn.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024746811017394066,
+          "perplexity": 57,
+          "sentence": "Israelis and others were brutally killed or abducted - and I call once again for the unconditional return of all hostages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025092096999287605,
+          "perplexity": 27,
+          "sentence": "Now civilians in Gaza - including children and women - face a never-ending humanitarian nightmare.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025326844304800034,
+          "perplexity": 538,
+          "sentence": "Their neighborhoods wiped out.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0255570188164711,
+          "perplexity": 118,
+          "sentence": "Their loved ones killed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025946471840143204,
+          "perplexity": 80,
+          "sentence": "Bombs raining down, while being denied life's very basics - food, water, medicine, electricity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02283482626080513,
+          "perplexity": 33,
+          "sentence": "Some life-saving aid is beginning to trickle into Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026488956063985825,
+          "perplexity": 8,
+          "sentence": "But, let's face it, it's a drop in the ocean.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023463740944862366,
+          "perplexity": 51,
+          "sentence": "We must step up to assist and protect civilians in Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021521298214793205,
+          "perplexity": 83,
+          "sentence": "It means unfettered, safe, and sustained access to bring in and distribute supplies at much greater scale, volume, and frequency - including fuel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022144626826047897,
+          "perplexity": 28,
+          "sentence": "And it means investing in the $1.2 billion humanitarian appeal that the United Nations has just launched to help the people of Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022412337362766266,
+          "perplexity": 30,
+          "sentence": "We can help civilians in Gaza see at last, and at the very least, a glimmer of hope - a sign of solidarity - and a signal that the world sees their plight and cares enough to act.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Of course, nothing justifies the abhorrent acts of terror by Hamas in Israel on 7 October which I utterly condemn. Israelis and others were brutally killed or abducted \u2013 and I call once again for the unconditional return of all hostages. Now civilians in Gaza \u2013 including children and women \u2013 face a never-ending humanitarian nightmare. Their neighborhoods wiped out. Their loved ones killed. Bombs raining down, while being denied life\u2019s very basics \u2013 food, water, medicine, electricity. Some life-saving aid is beginning to trickle into Gaza. But, let\u2019s face it, it\u2019s a drop in the ocean. We must step up to assist and protect civilians in Gaza. It means unfettered, safe, and sustained access to bring in and distribute supplies at much greater scale, volume, and frequency \u2013 including fuel. And it means investing in the $1.2 billion humanitarian appeal that the United Nations has just launched to help the people of Gaza. We can help civilians in Gaza see at last, and at the very least, a glimmer of hope \u2013 a sign of solidarity \u2013 and a signal that the world sees their plight and cares enough to act.",
+  "date": "10 November 2023"
+}

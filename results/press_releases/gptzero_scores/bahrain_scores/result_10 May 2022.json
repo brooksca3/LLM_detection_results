@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "25c56191-a41e-4d58-9e06-2724663bb871",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07487773230861364,
+        "human": 0.924297168712779,
+        "mixed": 0.0008250989786073128
+      },
+      "completely_generated_prob": 0.07487773230861364,
+      "confidence_category": "medium",
+      "confidence_score": 0.924297168712779,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07487773230861364,
+          "human": 0.924297168712779,
+          "mixed": 0.0008250989786073128
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.03507995605469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11238662898540497,
+          "perplexity": 42,
+          "sentence": "An Arabic version of this op-ed by Fernanda Leonardi, Head of the UN-Habitat Country Programme in Bahrain, was published in Al Watan on 10 May 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10725931823253632,
+          "perplexity": 16,
+          "sentence": "The United Nations Human Settlements Programme (UN-Habitat) congratulates the Government of Bahrain on the presentation of its National Report before the General Assembly High-Level Meeting on the implementation of the New Urban Agenda and commends its support to a joint multilateral effort to revitalize the New Urban Agenda in order to accelerate the achievement of the 2030 Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1090506762266159,
+          "perplexity": 95,
+          "sentence": "The COVID-19 pandemic has underlined the importance of urban public spaces and parks for public health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1008727103471756,
+          "perplexity": 131,
+          "sentence": "The density of urban areas did not exacerbate the COVID-19 crisis, in fact, walkable neighborhoods provided better social safety nets and liveability during the lockdown[1].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10052387416362762,
+          "perplexity": 29,
+          "sentence": "Nevertheless, urban sprawl continues to accelerate over the last decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09970103949308395,
+          "perplexity": 149,
+          "sentence": "It threatens sustainable urban financing and biodiversity while increasing car dependency, emissions-related diseases, and traffic accidents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09548862278461456,
+          "perplexity": 53,
+          "sentence": "The contribution of cities to the realization of the global targets on climate change is therefore essential.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08979031443595886,
+          "perplexity": 35,
+          "sentence": "Cities that account for 67-76% of global energy use and for 71-76% of man-made CO2 emissions can also offer the most sustainable form of human settlement [2].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08462108671665192,
+          "perplexity": 37,
+          "sentence": "While climate impacts are mostly felt in urban communities, sustainable urbanization can provide an opportunity to advance climate-resilient development [3].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08540020883083344,
+          "perplexity": 44,
+          "sentence": "Generating specialized and cutting-edge knowledge in support of urban climate change mitigation and climate resilience has never been more critical.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09070134162902832,
+          "perplexity": 43,
+          "sentence": "Cities must strive to harness the benefits of technology, and ensure that people are at the center to ensure automation, digitalization, and other structural economic changes do not lead to unemployment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0955715999007225,
+          "perplexity": 71,
+          "sentence": "Bahrain's commitment to the New Urban agenda is critical to the achievement of the SDGs and its own Vision 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1136327013373375,
+          "perplexity": 59,
+          "sentence": "Participation in the High-level meeting in New York was a valuable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "An Arabic version of this op-ed by Fernanda Leonardi, Head of the UN-Habitat Country Programme in Bahrain, was published in Al Watan on 10 May 2022. The United Nations Human Settlements Programme (UN-Habitat) congratulates the Government of Bahrain on the presentation of its National Report before the General Assembly High-Level Meeting on the implementation of the New Urban Agenda and commends its support to a joint multilateral effort to revitalize the New Urban Agenda in order to accelerate the achievement of the 2030 Sustainable Development Goals (SDGs). The COVID-19 pandemic has underlined the importance of urban public spaces and parks for public health. The density of urban areas did not exacerbate the COVID-19 crisis, in fact, walkable neighborhoods provided better social safety nets and liveability during the lockdown[1]. Nevertheless, urban sprawl continues to accelerate over the last decades. It threatens sustainable urban financing and biodiversity while increasing car dependency, emissions-related diseases, and traffic accidents. The contribution of cities to the realization of the global targets on climate change is therefore essential. Cities that account for 67-76% of global energy use and for 71-76% of man-made CO2 emissions can also offer the most sustainable form of human settlement [2]. While climate impacts are mostly felt in urban communities, sustainable urbanization can provide an opportunity to advance climate-resilient development [3]. Generating specialized and cutting-edge knowledge in support of urban climate change mitigation and climate resilience has never been more critical. Cities must strive to harness the benefits of technology, and ensure that people are at the center to ensure automation, digitalization, and other structural economic changes do not lead to unemployment. Bahrain\u2019s commitment to the New Urban agenda is critical to the achievement of the SDGs and its own Vision 2030. Participation in the High-level meeting in New York was a valuable",
+  "date": "10 May 2022"
+}

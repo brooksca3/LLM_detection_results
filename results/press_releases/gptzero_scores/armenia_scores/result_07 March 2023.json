@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "656ddbc6-366f-4155-9c6b-4e06e9644fa2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.903488159179688,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001643593277549371,
+          "perplexity": 16,
+          "sentence": "The number of pregnant and breastfeeding adolescent girls and women suffering from acute malnutrition has soared from 5.5 million to 6.9 million - or 25 per cent - since 2020 in 12 countries hardest hit by the global food and nutrition crisis, according to a new report released by UNICEF today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018615600129123777,
+          "perplexity": 12,
+          "sentence": "The 12 countries - including Afghanistan, Burkina Faso, Chad, Ethiopia, Kenya, Mali, Niger, Nigeria, Somalia, South Sudan, Sudan and Yemen - represent the epicentre of a global nutrition crisis that has been exacerbated by the war in Ukraine and ongoing drought, conflict, and instability in some countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001776568533387035,
+          "perplexity": 34,
+          "sentence": "Undernourished and Overlooked: A Global Nutrition Crisis in Adolescent Girls and Women - issued ahead of International Women's Day - warns that the ongoing crises, aggravated by ongoing gender inequality, are deepening a nutrition crisis among adolescent girls and women that had already shown little improvement in the last two decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014647624630015343,
+          "perplexity": 18,
+          "sentence": "According to the report - an unprecedented and comprehensive look at the state of adolescent girls' and women's nutrition globally - more than one billion adolescent girls and women suffer from undernutrition (including underweight and short height), deficiencies in essential micronutrients, and anaemia, with devastating consequences for their lives and wellbeing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001421070919604972,
+          "perplexity": 30,
+          "sentence": "Inadequate nutrition during girls' and women's lives can lead to weakened immunity, poor cognitive development, and an increased risk of life-threatening complications - including during pregnancy and childbirth - with dangerous and irreversible consequences for their children's survival, growth, learning, and future earning capacity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012268898717593402,
+          "perplexity": 37,
+          "sentence": "Globally, 51 million children under 2 years suffer stunting, meaning they are too short for their age due to malnutrition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011801627988461405,
+          "perplexity": 34,
+          "sentence": "Of those, about half become stunted during pregnancy and the first six months of life, the 500-day period when a child is fully dependent on maternal nutrition, according to a new analysis in the report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012551799591165036,
+          "perplexity": 1,
+          "sentence": "Global",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The number of pregnant and breastfeeding adolescent girls and women suffering from acute malnutrition has soared from 5.5 million to 6.9 million \u2013 or 25 per cent \u2013 since 2020 in 12 countries hardest hit by the global food and nutrition crisis, according to a new report released by UNICEF today. The 12 countries \u2013 including Afghanistan, Burkina Faso, Chad, Ethiopia, Kenya, Mali, Niger, Nigeria, Somalia, South Sudan, Sudan and Yemen \u2013 represent the epicentre of a global nutrition crisis that has been exacerbated by the war in Ukraine and ongoing drought, conflict, and instability in some countries. Undernourished and Overlooked: A Global Nutrition Crisis in Adolescent Girls and Women \u2013 issued ahead of International Women\u2019s Day \u2013 warns that the ongoing crises, aggravated by ongoing gender inequality, are deepening a nutrition crisis among adolescent girls and women that had already shown little improvement in the last two decades. According to the report \u2013 an unprecedented and comprehensive look at the state of adolescent girls\u2019 and women\u2019s nutrition globally \u2013 more than one billion adolescent girls and women suffer from undernutrition (including underweight and short height), deficiencies in essential micronutrients, and anaemia, with devastating consequences for their lives and wellbeing. Inadequate nutrition during girls\u2019 and women\u2019s lives can lead to weakened immunity, poor cognitive development, and an increased risk of life-threatening complications \u2013 including during pregnancy and childbirth \u2013 with dangerous and irreversible consequences for their children\u2019s survival, growth, learning, and future earning capacity. Globally, 51 million children under 2 years suffer stunting, meaning they are too short for their age due to malnutrition. Of those, about half become stunted during pregnancy and the first six months of life, the 500-day period when a child is fully dependent on maternal nutrition, according to a new analysis in the report. Global",
+  "date": "07 March 2023"
+}

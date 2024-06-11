@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6f6c994f-7e43-479b-848d-2235aa10be35",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03761998870694522,
+        "human": 0.8649538866930171,
+        "mixed": 0.0974261246000376
+      },
+      "completely_generated_prob": 0.0487130623000188,
+      "confidence_category": "medium",
+      "confidence_score": 0.8649538866930171,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03761998870694522,
+          "human": 0.8649538866930171,
+          "mixed": 0.0974261246000376
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.93976974487305,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.5572004914283752,
+          "perplexity": 140,
+          "sentence": "The workshop aimed to provide an overview of the System of Health Accounts 2011 methodology and discuss the preliminary data needed to produce a health accounts study in Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.47784659266471863,
+          "perplexity": 36,
+          "sentence": "As global health spending continues to increase, assessing how resources are used and comparing health systems across countries is critical.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5021514296531677,
+          "perplexity": 100,
+          "sentence": "Providing technical support to countries introducing the System of Health Accounts is one of WHO's priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.35500362515449524,
+          "perplexity": 99,
+          "sentence": "Taking the global leadership in health expenditure tracking and providing data and international comparisons, WHO is providing technical support to Azerbaijan to help them study their country context, build local capacity, and ensure the sustainability of the SHA procedures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2783712148666382,
+          "perplexity": 41,
+          "sentence": "To further support Azerbaijan's efforts, WHO conducted a two-day workshop on Introducing the System of Health Accounts, with representatives of the national working group from the Ministry of Finance, the Ministry of Health, the State Agency on Mandatory Health Insurance, TABIB and the State Statistics Committee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03447416052222252,
+          "perplexity": 140,
+          "sentence": "The workshop aimed to provide an overview of the System of Health Accounts 2011 methodology and discuss the preliminary data needed to produce a health accounts study in Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04210583120584488,
+          "perplexity": 92,
+          "sentence": "The workshop covered topics such as overview of the Health Accounts Production Tool (HAPT), country-tailored health expenditure tracking methodology, country examples of producing health accounts and discussing available data from the national partners for the health accounts study.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03651580587029457,
+          "perplexity": 35,
+          "sentence": "The System of Health Accounts (SHA) is an internationally accepted methodology for summarising, describing, and analysing the financing of health systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026702260598540306,
+          "perplexity": 57,
+          "sentence": "By systematically tracking the flow of expenditures in the health system SHA is critical for improving governance and accountability at the national and international levels of policymaking.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The workshop aimed to provide an overview of the System of Health Accounts 2011 methodology and discuss the preliminary data needed to produce a health accounts study in Azerbaijan. As global health spending continues to increase, assessing how resources are used and comparing health systems across countries is critical. Providing technical support to countries introducing the System of Health Accounts is one of WHO\u2019s priorities. Taking the global leadership in health expenditure tracking and providing data and international comparisons, WHO is providing technical support to Azerbaijan to help them study their country context, build local capacity, and ensure the sustainability of the SHA procedures. To further support Azerbaijan's efforts, WHO conducted a two-day workshop on Introducing the System of Health Accounts, with representatives of the national working group from the Ministry of Finance, the Ministry of Health, the State Agency on Mandatory Health Insurance, TABIB and the State Statistics Committee. The workshop aimed to provide an overview of the System of Health Accounts 2011 methodology and discuss the preliminary data needed to produce a health accounts study in Azerbaijan. The workshop covered topics such as overview of the Health Accounts Production Tool (HAPT), country-tailored health expenditure tracking methodology, country examples of producing health accounts and discussing available data from the national partners for the health accounts study. The System of Health Accounts (SHA) is an internationally accepted methodology for summarising, describing, and analysing the financing of health systems. By systematically tracking the flow of expenditures in the health system SHA is critical for improving governance and accountability at the national and international levels of policymaking.",
+  "date": "31 March 2023"
+}

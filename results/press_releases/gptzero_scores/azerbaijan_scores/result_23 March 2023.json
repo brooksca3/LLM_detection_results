@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "aadf1400-b905-4688-83ba-700853069c4a",
+  "documents": [
+    {
+      "average_generated_prob": 1,
+      "class_probabilities": {
+        "ai": 0.19647398843930636,
+        "human": 0.07121387283236993,
+        "mixed": 0.7323121387283238
+      },
+      "completely_generated_prob": 0.3661560693641619,
+      "confidence_category": "low",
+      "confidence_score": 0.7323121387283238,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.19647398843930636,
+          "human": 0.07121387283236993,
+          "mixed": 0.7323121387283238
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.910913467407227,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.2447301708663247,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.9939054846763611,
+          "perplexity": 60,
+          "sentence": "The assessment mission observed emergency, intensive care, and radiology units, as well as laboratories, wards, and operating rooms, and informed hospital heads about the assessment process.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9871429800987244,
+          "perplexity": 31,
+          "sentence": "During the COVID-19 pandemic, the demand for emergency services in hospitals rose dramatically, exceeding their capacity and highlighting the need to improve the organization and management of the emergency care system (ECS), as well as to enhance medical education and preparedness for health emergencies.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.979555070400238,
+          "perplexity": 14,
+          "sentence": "To address this need and improve service quality, the World Health Organization (WHO), with the support of the U.S. Agency for International Development (USAID), is implementing a plan of measures to support strengthening the ECS in Azerbaijan.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9673469066619873,
+          "perplexity": 81,
+          "sentence": "As part of these measures, an expert mission from WHO conducted a strategic assessment between February 22 and March 18, using WHO's Hospital Emergency Unit Assessment Tool (HEAT) in eight public health facilities in Baku and Shamakhi district.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9660852551460266,
+          "perplexity": 39,
+          "sentence": "This tool was presented to national health authorities at a meeting on February 23 and aims to identify key gaps and areas for improvement in emergency care provision within the facility, as well as develop a customized action plan for improvement for each hospital.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.913355827331543,
+          "perplexity": 54,
+          "sentence": "The assessment covers four areas, including facility characteristics, human resources, clinical services, and signaling functions, and is carried out in three stages.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.7463295459747314,
+          "perplexity": 60,
+          "sentence": "The assessment mission observed emergency, intensive care, and radiology units, as well as laboratories, wards, and operating rooms, and informed hospital heads about the assessment process.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.7570480108261108,
+          "perplexity": 39,
+          "sentence": "The final report, which will include recommendations for immediate interventions to improve service quality and update national quality standards on emergency care in medical facilities, will be presented to national health authorities in April 2023.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.6994457244873047,
+          "perplexity": 34,
+          "sentence": "This assessment mission is part of the Azerbaijan Pandemic Response (APR) Activity funded by USAID and implemented by WHO in collaboration with the Ministry of Health, the State",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The assessment mission observed emergency, intensive care, and radiology units, as well as laboratories, wards, and operating rooms, and informed hospital heads about the assessment process. During the COVID-19 pandemic, the demand for emergency services in hospitals rose dramatically, exceeding their capacity and highlighting the need to improve the organization and management of the emergency care system (ECS), as well as to enhance medical education and preparedness for health emergencies. To address this need and improve service quality, the World Health Organization (WHO), with the support of the U.S. Agency for International Development (USAID), is implementing a plan of measures to support strengthening the ECS in Azerbaijan. As part of these measures, an expert mission from WHO conducted a strategic assessment between February 22 and March 18, using WHO\u2019s Hospital Emergency Unit Assessment Tool (HEAT) in eight public health facilities in Baku and Shamakhi district. This tool was presented to national health authorities at a meeting on February 23 and aims to identify key gaps and areas for improvement in emergency care provision within the facility, as well as develop a customized action plan for improvement for each hospital. The assessment covers four areas, including facility characteristics, human resources, clinical services, and signaling functions, and is carried out in three stages. The assessment mission observed emergency, intensive care, and radiology units, as well as laboratories, wards, and operating rooms, and informed hospital heads about the assessment process. The final report, which will include recommendations for immediate interventions to improve service quality and update national quality standards on emergency care in medical facilities, will be presented to national health authorities in April 2023. This assessment mission is part of the Azerbaijan Pandemic Response (APR) Activity funded by USAID and implemented by WHO in collaboration with the Ministry of Health, the State",
+  "date": "23 March 2023"
+}

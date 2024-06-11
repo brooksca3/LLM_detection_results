@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9563ade4-59d8-4dbb-bc2e-7d9f3538f2a9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07607402826014557,
+        "human": 0.9005185784290404,
+        "mixed": 0.023407393310814026
+      },
+      "completely_generated_prob": 0.07607402826014557,
+      "confidence_category": "medium",
+      "confidence_score": 0.9005185784290404,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07607402826014557,
+          "human": 0.9005185784290404,
+          "mixed": 0.023407393310814026
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 103.47114562988281,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.18982380628585815,
+          "perplexity": 54,
+          "sentence": "This workshop is organized under the public health focus areas of the Azerbaijan Pandemic Response Activity funded by USAID and implemented by WHO in collaboration with the Ministry of Health of the Republic of Azerbaijan, the State Agency for Mandatory Health Insurance, T\u018fB\u0130B.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16175268590450287,
+          "perplexity": 361,
+          "sentence": "The current event is also supported by Nasimi District Executive Power of Baku.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20468799769878387,
+          "perplexity": 18,
+          "sentence": "With the support of United States Agency for International Development (USAID), World Health Organization (WHO) Azerbaijan organized a five-day workshop from April 10-14 with national health partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19091106951236725,
+          "perplexity": 58,
+          "sentence": "The workshop aimed to plan small-scale Community-oriented primary care (COPC) interventions in Nasimi, a district of Baku, with a population of around 300 000.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.18789169192314148,
+          "perplexity": 22,
+          "sentence": "COPC is a healthcare delivery model that prioritizes collaboration between healthcare providers and the community, taking into account the unique characteristics of the population to improve health outcomes and address social determinants of health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15631592273712158,
+          "perplexity": 52,
+          "sentence": "The objective of the activity was to identify the most common health problems of the community and develop evidence-based COPC interventions to address them in Nasimi district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13227640092372894,
+          "perplexity": 27,
+          "sentence": "On the first day, a group of 65 health workers, including representatives from local health authorities, faculty members of the Public Health Faculty and other departments of Azerbaijan Medical University (AMU), Public Health Capacity Group (PHCG), and Public Health Coordination Group (PHCG), were presented with the principles and methods of COPC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13203437626361847,
+          "perplexity": 29,
+          "sentence": "They were divided into three groups and visited the district's health centers to gather data on the population's health and identify the most common health issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13288363814353943,
+          "perplexity": 50,
+          "sentence": "For the remaining days of the workshop, using their observations from the first day and studying other health and population data on the district, the participants worked on community characterization, prioritization of health issues, and a detailed assessment of the health problems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13593165576457977,
+          "perplexity": 124,
+          "sentence": "The working groups then developed a comprehensive COPC intervention plan for the district.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This workshop is organized under the public health focus areas of the Azerbaijan Pandemic Response Activity funded by USAID and implemented by WHO in collaboration with the Ministry of Health of the Republic of Azerbaijan, the State Agency for Mandatory Health Insurance, T\u018fB\u0130B. The current event is also supported by Nasimi District Executive Power of Baku. With the support of United States Agency for International Development (USAID), World Health Organization (WHO) Azerbaijan organized a five-day workshop from April 10-14 with national health partners. The workshop aimed to plan small-scale Community-oriented primary care (COPC) interventions in Nasimi, a district of Baku, with a population of around 300 000. COPC is a healthcare delivery model that prioritizes collaboration between healthcare providers and the community, taking into account the unique characteristics of the population to improve health outcomes and address social determinants of health. The objective of the activity was to identify the most common health problems of the community and develop evidence-based COPC interventions to address them in Nasimi district. On the first day, a group of 65 health workers, including representatives from local health authorities, faculty members of the Public Health Faculty and other departments of Azerbaijan Medical University (AMU), Public Health Capacity Group (PHCG), and Public Health Coordination Group (PHCG), were presented with the principles and methods of COPC. They were divided into three groups and visited the district's health centers to gather data on the population\u2019s health and identify the most common health issues. For the remaining days of the workshop, using their observations from the first day and studying other health and population data on the district, the participants worked on community characterization, prioritization of health issues, and a detailed assessment of the health problems. The working groups then developed a comprehensive COPC intervention plan for the district.",
+  "date": "14 April 2023"
+}

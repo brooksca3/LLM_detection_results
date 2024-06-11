@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "98a451b5-4a5a-4387-b5dc-94167faa2a6e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4444388531746531,
+        "human": 0.5529444325629961,
+        "mixed": 0.0026167142623507657
+      },
+      "completely_generated_prob": 0.4444388531746531,
+      "confidence_category": "low",
+      "confidence_score": 0.5529444325629961,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4444388531746531,
+          "human": 0.5529444325629961,
+          "mixed": 0.0026167142623507657
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 7.801098823547363,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.7003375291824341,
+          "perplexity": 19,
+          "sentence": "The Government of Bangladesh and the United Nations Country Team conducted a comprehensive review of their collaborative efforts to accelerate progress towards the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7206401228904724,
+          "perplexity": 34,
+          "sentence": "This discussion took place on 11 June at the second Joint Steering Committee meeting of the UN Sustainable Development Cooperation Framework (UNSDCF) 2022-26, co-chaired by the Secretary of the Economic Relations Division of the Ministry of Finance and the UN Resident Coordinator in Bangladesh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7169792056083679,
+          "perplexity": 34,
+          "sentence": "The UNSDCF 2022-26, co-signed by the Government of Bangladesh and all UN agencies, funds and programmes working in Bangladesh, is the UN's five-year plan to accelerate progress towards the sustainable development goals in line with the Country's 8th Five-Year Plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7061305046081543,
+          "perplexity": 39,
+          "sentence": "The Joint Steering Committee meeting, attended by 22 ministries of the Government of Bangladesh and 17 UN agencies, funds and programmes, discussed how in 2022, UN agencies, funds, and programmes provided over USD 241.2 million in assistance to support inclusive and sustainable economic development, equitable human development and well-being, a sustainable, healthy, and resilient environment, transformative, participatory and inclusive governance and gender equality and efforts to eliminate gender-based violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.686176061630249,
+          "perplexity": 24,
+          "sentence": "During the meeting, the Secretary of the Economic Relations Division, Ms. Sharifa Khan, emphasized the significant role played by the partnership between the United Nations and the Government of Bangladesh in advancing the nation's development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6988212466239929,
+          "perplexity": 29,
+          "sentence": "As Bangladesh prepares to graduate from its status as a Least Developed Country in 2026, Ms. Khan expressed confidence that the collaboration would gain further momentum in the coming year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6853658556938171,
+          "perplexity": 41,
+          "sentence": "In her remarks, the UN Resident Coordinator in Bangladesh, Ms. Gwyn Lewis, said that \u201cThe United Nations in Bangladesh stands ready to help the Government and the people of Bangladesh navigate the path towards inclusive sustainable development which leaves no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6316574215888977,
+          "perplexity": 24,
+          "sentence": "We need to work together to not only advance development, but to accelerate",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Bangladesh and the United Nations Country Team conducted a comprehensive review of their collaborative efforts to accelerate progress towards the Sustainable Development Goals (SDGs). This discussion took place on 11 June at the second Joint Steering Committee meeting of the UN Sustainable Development Cooperation Framework (UNSDCF) 2022-26, co-chaired by the Secretary of the Economic Relations Division of the Ministry of Finance and the UN Resident Coordinator in Bangladesh. The UNSDCF 2022-26, co-signed by the Government of Bangladesh and all UN agencies, funds and programmes working in Bangladesh, is the UN\u2019s five-year plan to accelerate progress towards the sustainable development goals in line with the Country\u2019s 8th Five-Year Plan. The Joint Steering Committee meeting, attended by 22 ministries of the Government of Bangladesh and 17 UN agencies, funds and programmes, discussed how in 2022, UN agencies, funds, and programmes provided over USD 241.2 million in assistance to support inclusive and sustainable economic development, equitable human development and well-being, a sustainable, healthy, and resilient environment, transformative, participatory and inclusive governance and gender equality and efforts to eliminate gender-based violence. During the meeting, the Secretary of the Economic Relations Division, Ms. Sharifa Khan, emphasized the significant role played by the partnership between the United Nations and the Government of Bangladesh in advancing the nation's development. As Bangladesh prepares to graduate from its status as a Least Developed Country in 2026, Ms. Khan expressed confidence that the collaboration would gain further momentum in the coming year. In her remarks, the UN Resident Coordinator in Bangladesh, Ms. Gwyn Lewis, said that \u201cThe United Nations in Bangladesh stands ready to help the Government and the people of Bangladesh navigate the path towards inclusive sustainable development which leaves no one behind. We need to work together to not only advance development, but to accelerate",
+  "date": "11 June 2023"
+}

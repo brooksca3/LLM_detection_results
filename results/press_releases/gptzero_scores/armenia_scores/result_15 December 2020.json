@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1148fa31-2aa4-41e1-933e-8ea6c7d25387",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.065895080566406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00029390756390057504,
+          "perplexity": 60,
+          "sentence": "NEW YORK, 14 December 2020 - The number of schoolchildren affected by COVID-19-related school closures soared by 38 per cent in November, placing significant strain on the learning progress and well-being of an additional 90 million students globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024354428751394153,
+          "perplexity": 46,
+          "sentence": "According to data collected by UNESCO, classrooms for nearly 1 in 5 schoolchildren globally - or 320 million - are closed as of 1 December, an increase of nearly 90 million from 232 million on 1 November.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027700859936885536,
+          "perplexity": 22,
+          "sentence": "In contrast, the month of October saw the number of schoolchildren affected by school closures decrease nearly three-fold.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024353824846912175,
+          "perplexity": 61,
+          "sentence": "\u201cIn spite of everything we have learned about COVID-19, the role of schools in community transmission, and the steps we can take to keep children safe at school, we are moving in the wrong direction\u1173and doing so very quickly,\u201d said Robert Jenkins, UNICEF Global Chief of Education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002911851042881608,
+          "perplexity": 111,
+          "sentence": "\u201cEvidence shows that schools are not the main drivers of this pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002523250295780599,
+          "perplexity": 34,
+          "sentence": "Yet, we are seeing an alarming trend whereby governments are once again closing down schools as a first recourse rather than a last resort.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002293710713274777,
+          "perplexity": 33,
+          "sentence": "In some cases, this is being done nationwide, rather than community by community, and children are continuing to suffer the devastating impacts on their learning, mental and physical well-being and safety.\u201d When schools close, children risk losing their learning, support system, food and safety, with the most marginalized children - who are the most likely to drop out altogether - paying the heaviest price.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020123276044614613,
+          "perplexity": 42,
+          "sentence": "And, as millions of children remain out of their classrooms for more than nine months, and many more are re-living the upheaval, UNICEF fears that too many schools are closing unnecessarily, and not enough emphasis has been placed on taking the necessary steps to make schools safe from COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000245406903559342,
+          "perplexity": 84,
+          "sentence": "A recent global study using data from 191 countries showed no",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NEW YORK, 14 December 2020 \u2013 The number of schoolchildren affected by COVID-19-related school closures soared by 38 per cent in November, placing significant strain on the learning progress and well-being of an additional 90 million students globally. According to data collected by UNESCO, classrooms for nearly 1 in 5 schoolchildren globally \u2013 or 320 million \u2013 are closed as of 1 December, an increase of nearly 90 million from 232 million on 1 November. In contrast, the month of October saw the number of schoolchildren affected by school closures decrease nearly three-fold. \u201cIn spite of everything we have learned about COVID-19, the role of schools in community transmission, and the steps we can take to keep children safe at school, we are moving in the wrong direction\u2014and doing so very quickly,\u201d said Robert Jenkins, UNICEF Global Chief of Education. \u201cEvidence shows that schools are not the main drivers of this pandemic. Yet, we are seeing an alarming trend whereby governments are once again closing down schools as a first recourse rather than a last resort. In some cases, this is being done nationwide, rather than community by community, and children are continuing to suffer the devastating impacts on their learning, mental and physical well-being and safety.\u201d When schools close, children risk losing their learning, support system, food and safety, with the most marginalized children \u2013 who are the most likely to drop out altogether \u2013 paying the heaviest price. And, as millions of children remain out of their classrooms for more than nine months, and many more are re-living the upheaval, UNICEF fears that too many schools are closing unnecessarily, and not enough emphasis has been placed on taking the necessary steps to make schools safe from COVID-19. A recent global study using data from 191 countries showed no",
+  "date": "15 December 2020"
+}

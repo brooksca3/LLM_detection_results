@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "97014d03-b8f0-440e-bf2b-9fd879c75c25",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.44032287597656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014349761477205902,
+          "perplexity": 40,
+          "sentence": "GENEVA/NEW YORK, 15th July 2021 - 23 million children missed out on basic vaccines through routine immunization services in 2020 - 3.7 million more than in 2019 - according to official data published today by WHO and UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014689711679238826,
+          "perplexity": 106,
+          "sentence": "This latest set of comprehensive worldwide childhood immunization figures, the first official figures to reflect global service disruptions due to COVID-19, show a majority of countries last year experienced drops in childhood vaccination rates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015504991461057216,
+          "perplexity": 76,
+          "sentence": "Concerningly, most of these - up to 17 million children - likely did not receive a single vaccine during the year, widening already immense inequities in vaccine access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014623746392317116,
+          "perplexity": 36,
+          "sentence": "Most of these children live in communities affected by conflict, in under-served remote places, or in informal or slum settings where they face multiple deprivations including limited access to basic health and key social services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014962026034481823,
+          "perplexity": 95,
+          "sentence": "\u201cEven as countries clamour to get their hands on COVID-19 vaccines, we have gone backwards on other vaccinations, leaving children at risk from devastating but preventable diseases like measles, polio or meningitis,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000147968516102992,
+          "perplexity": 121,
+          "sentence": "Disruptions in immunization services were widespread in 2020, with the WHO Southeast Asian and Eastern Mediterranean Regions most affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013718892296310514,
+          "perplexity": 36,
+          "sentence": "As access to health services and immunization outreach were curtailed, the number of children not receiving even their very first vaccinations increased in all regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001318479626206681,
+          "perplexity": 16,
+          "sentence": "As compared with 2019, 3.5 million more children missed their first dose of diphtheria, tetanus and pertussis vaccine (DTP-1) while 3 million more children missed their first measles dose.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013851984112989157,
+          "perplexity": 113,
+          "sentence": "\u201cThis evidence should be a clear warning - the COVID-19 pandemic and related disruptions cost us valuable ground we cannot afford to lose - and the consequences will be paid in the lives and wellbeing of the most vulnerable,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016755332762841135,
+          "perplexity": 81,
+          "sentence": "\u201cEven before the pandemic, there were worrying signs",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA/NEW YORK, 15th July 2021 - 23 million children missed out on basic vaccines through routine immunization services in 2020 \u2013 3.7 million more than in 2019 - according to official data published today by WHO and UNICEF. This latest set of comprehensive worldwide childhood immunization figures, the first official figures to reflect global service disruptions due to COVID-19, show a majority of countries last year experienced drops in childhood vaccination rates. Concerningly, most of these \u2013 up to 17 million children \u2013 likely did not receive a single vaccine during the year, widening already immense inequities in vaccine access. Most of these children live in communities affected by conflict, in under-served remote places, or in informal or slum settings where they face multiple deprivations including limited access to basic health and key social services. \u201cEven as countries clamour to get their hands on COVID-19 vaccines, we have gone backwards on other vaccinations, leaving children at risk from devastating but preventable diseases like measles, polio or meningitis,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. Disruptions in immunization services were widespread in 2020, with the WHO Southeast Asian and Eastern Mediterranean Regions most affected. As access to health services and immunization outreach were curtailed, the number of children not receiving even their very first vaccinations increased in all regions. As compared with 2019, 3.5 million more children missed their first dose of diphtheria, tetanus and pertussis vaccine (DTP-1) while 3 million more children missed their first measles dose. \u201cThis evidence should be a clear warning \u2013 the COVID-19 pandemic and related disruptions cost us valuable ground we cannot afford to lose \u2013 and the consequences will be paid in the lives and wellbeing of the most vulnerable,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cEven before the pandemic, there were worrying signs",
+  "date": "16 July 2021"
+}

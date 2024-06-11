@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b74870dd-f6f1-4d77-8bbc-539e68fe51a8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.35923957824707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00027265454991720617,
+          "perplexity": 30,
+          "sentence": "BEIJING, 31 October - To call for more focus on the importance of literacy and education for social inclusion and sustainable development, the Embassy of Mexico in China, the Embassy of Germany in China and the United Nations in China, co-organized a seminar at the UN Compound in Beijing on 30 October.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027131676324643195,
+          "perplexity": 36,
+          "sentence": "Quality education, as one of the Sustainable Development Goals (SDGs) in itself and an enabler for achieving other SDGs, is well understood to be pivotal in shaping societies, fostering inclusion and driving sustainable development, with the seminar well attended by representatives of Member States, the Host Country, the UN in China, the World Bank, academia and research institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003609287668950856,
+          "perplexity": 29,
+          "sentence": "As acknowledged during the seminar, significant progress has been achieved globally; however, millions of people still face barriers to quality education, with an estimated 773 million adults worldwide lacking basic literacy skills, limiting their ability to realize their potential and participate fully in their societies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002652861876413226,
+          "perplexity": 58,
+          "sentence": "His Excellency Mr. Jes\u00fas Seade, Ambassador of Mexico to China, during his remarks, said, \u201cBut the fight against poverty cannot possibly be sent to the back seat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003142839123029262,
+          "perplexity": 94,
+          "sentence": "It is vital and urgent to address poverty comprehensively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028225223650224507,
+          "perplexity": 51,
+          "sentence": "And hand in hand with this need, as both its major cause and its effect, is the absolute need we have to bring and ensure quality, inclusive, and equitable education for all.\u201d The seminar sought to provide a platform that analyzes and discusses the experiences and lessons learned in literacy and education within China, Mexico and Germany, for participants to gain a broader understanding of strategies that have worked globally to promote inclusion and reduce inequalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000209457881283015,
+          "perplexity": 86,
+          "sentence": "Her Excellency Ms. Patricia Flor, Ambassador of Germany to China, during her remarks, said, \u201cA gifted child that has to stay home to help or cannot go to school because of fees or",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 31 October \u2013 To call for more focus on the importance of literacy and education for social inclusion and sustainable development, the Embassy of Mexico in China, the Embassy of Germany in China and the United Nations in China, co-organized a seminar at the UN Compound in Beijing on 30 October. Quality education, as one of the Sustainable Development Goals (SDGs) in itself and an enabler for achieving other SDGs, is well understood to be pivotal in shaping societies, fostering inclusion and driving sustainable development, with the seminar well attended by representatives of Member States, the Host Country, the UN in China, the World Bank, academia and research institutions. As acknowledged during the seminar, significant progress has been achieved globally; however, millions of people still face barriers to quality education, with an estimated 773 million adults worldwide lacking basic literacy skills, limiting their ability to realize their potential and participate fully in their societies. His Excellency Mr. Jes\u00fas Seade, Ambassador of Mexico to China, during his remarks, said, \u201cBut the fight against poverty cannot possibly be sent to the back seat. It is vital and urgent to address poverty comprehensively. And hand in hand with this need, as both its major cause and its effect, is the absolute need we have to bring and ensure quality, inclusive, and equitable education for all.\u201d The seminar sought to provide a platform that analyzes and discusses the experiences and lessons learned in literacy and education within China, Mexico and Germany, for participants to gain a broader understanding of strategies that have worked globally to promote inclusion and reduce inequalities. Her Excellency Ms. Patricia Flor, Ambassador of Germany to China, during her remarks, said, \u201cA gifted child that has to stay home to help or cannot go to school because of fees or",
+  "date": "31 October 2023"
+}

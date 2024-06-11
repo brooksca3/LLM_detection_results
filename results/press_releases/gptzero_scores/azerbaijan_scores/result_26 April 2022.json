@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9a29d4e9-29eb-46b6-9a29-0eb59a1b9ecf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.147735595703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002225985808763653,
+          "perplexity": 35,
+          "sentence": "The event jointly carried out with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI) and the Administration of Regional Medical Divisions (TABIB) under the motto \u201cGet vaccinated, stay healthy, live longer!\u201d will be held on April 24th to 30th, 2022.The main goal of the campaign is to raise public awareness on the importance of immunization and vaccination coverage to prevent severe diseases for ensuring long lives and protecting health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002099175180774182,
+          "perplexity": 68,
+          "sentence": "Students from the Azerbaijan Medical University, the Baku Nursing Schools No 1 and 2, as well as village community leaders are involved in activities within the campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021973159164190292,
+          "perplexity": 132,
+          "sentence": "The campaign covers awareness-raising activities among people on COVID-19 and routine vaccines, as well as the vaccination of adult population and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021910732903052121,
+          "perplexity": 197,
+          "sentence": "The health risk assessment among adult population and growth and weight monitoring of children also are incorporated into the campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021238009503576905,
+          "perplexity": 43,
+          "sentence": "Students and community leaders will travel to the villages to meet residents, offer a chance to receive the missed vaccines to adults and children, and offer screening for heart disease risk factors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001993527839658782,
+          "perplexity": 185,
+          "sentence": "Throughout the campaign, printed informative materials on COVID-19 vaccination and routine immunization will be disseminated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016482324281241745,
+          "perplexity": 71,
+          "sentence": "On 27 April, in the framework of his official tour to Azerbaijan, Dr Hans Kluge, WHO Regional Director for Europe, will visit the Shamakhi Region and meet with the students and observe the week's activities in the Goylar village.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001916627079481259,
+          "perplexity": 128,
+          "sentence": "The EU-funded COVID-19 Vaccination Support project implemented by WHO Azerbaijan Country Office since June 2021 covers three years and aims to fight the COVID-19 pandemic and strengthen the routine immunization programs in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021110133093316108,
+          "perplexity": 65,
+          "sentence": "The project is part of the continued support of the EU and WHO to Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event jointly carried out with the Ministry of Health of the Republic of Azerbaijan, the State Agency on Mandatory Health Insurance (SAMHI) and the Administration of Regional Medical Divisions (TABIB) under the motto \u201cGet vaccinated, stay healthy, live longer!\u201d will be held on April 24th to 30th, 2022.The main goal of the campaign is to raise public awareness on the importance of immunization and vaccination coverage to prevent severe diseases for ensuring long lives and protecting health. Students from the Azerbaijan Medical University, the Baku Nursing Schools No 1 and 2, as well as village community leaders are involved in activities within the campaign. The campaign covers awareness-raising activities among people on COVID-19 and routine vaccines, as well as the vaccination of adult population and children. The health risk assessment among adult population and growth and weight monitoring of children also are incorporated into the campaign. Students and community leaders will travel to the villages to meet residents, offer a chance to receive the missed vaccines to adults and children, and offer screening for heart disease risk factors. Throughout the campaign, printed informative materials on COVID-19 vaccination and routine immunization will be disseminated. On 27 April, in the framework of his official tour to Azerbaijan, Dr Hans Kluge, WHO Regional Director for Europe, will visit the Shamakhi Region and meet with the students and observe the week\u2019s activities in the Goylar village. The EU-funded COVID-19 Vaccination Support project implemented by WHO Azerbaijan Country Office since June 2021 covers three years and aims to fight the COVID-19 pandemic and strengthen the routine immunization programs in the country. The project is part of the continued support of the EU and WHO to Azerbaijan.",
+  "date": "26 April 2022"
+}

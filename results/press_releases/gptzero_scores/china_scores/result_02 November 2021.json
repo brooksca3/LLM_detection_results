@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1a4da33a-228e-4e38-b72d-56169a8fb94c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.72077751159668,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014517668751068413,
+          "perplexity": 18,
+          "sentence": "Beijing, 2 November 2021 - The United Nations in China and the Center for China and Globalization (CCG) co-hosted a symposium to celebrate the 50th Anniversary of the restoration of the lawful seat of the People's Republic of China in the UN today in Beijing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014440312224905938,
+          "perplexity": 19,
+          "sentence": "This year marks 50 years since the General Assembly adopted Resolution 2758, deciding to \u201crestore all its rights to the People's Republic of China and to recognize the representatives of its Government as the only legitimate representatives of China in the United Nations.\u201d \u201cIn the decades since, China has become an increasingly important contributor to the work of the Organization and a major pillar of international cooperation,\u201d said UN Secretary-General Ant\u00f3nio Guterres on the occasion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001346323115285486,
+          "perplexity": 19,
+          "sentence": "Since the introduction of reform and opening-up in 1978, China has experienced remarkable economic and social transformations, rising to become the world's second-largest economy and an upper-middle-income country over just four decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013376878632698208,
+          "perplexity": 92,
+          "sentence": "With China and the world now striving to recover from the impact of the COVID-19 pandemic and \u201cbuild back better\u201d in the Decade of Action to achieve the SDGs, leading experts from government, international organizations, think tanks, and academia met today to discuss the road ahead.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001335084525635466,
+          "perplexity": 40,
+          "sentence": "Participants to the symposium took part in two roundtable discussions entitled \u201cTowards a new development model for common prosperity\u201d and \u201cTowards 2030 and 2060: sustainable development and climate\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013516226317733526,
+          "perplexity": 54,
+          "sentence": "\u201cThe UN has been a trusted development partner of China, with the first UN office in China opened back in 1979.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012324134877417237,
+          "perplexity": 45,
+          "sentence": "In the four decades following that year, the role of the UN in China has shifted from that of a traditional donor to that of a partner providing technical expertise and support, both within and beyond its national boundaries, including in its activities under the framework of South-South Cooperation,\u201d said UN Resident Coordinator",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 2 November 2021 \u2013 The United Nations in China and the Center for China and Globalization (CCG) co-hosted a symposium to celebrate the 50th Anniversary of the restoration of the lawful seat of the People\u2019s Republic of China in the UN today in Beijing. This year marks 50 years since the General Assembly adopted Resolution 2758, deciding to \u201crestore all its rights to the People\u2019s Republic of China and to recognize the representatives of its Government as the only legitimate representatives of China in the United Nations.\u201d \u201cIn the decades since, China has become an increasingly important contributor to the work of the Organization and a major pillar of international cooperation,\u201d said UN Secretary-General Ant\u00f3nio Guterres on the occasion. Since the introduction of reform and opening-up in 1978, China has experienced remarkable economic and social transformations, rising to become the world\u2019s second-largest economy and an upper-middle-income country over just four decades. With China and the world now striving to recover from the impact of the COVID-19 pandemic and \u201cbuild back better\u201d in the Decade of Action to achieve the SDGs, leading experts from government, international organizations, think tanks, and academia met today to discuss the road ahead. Participants to the symposium took part in two roundtable discussions entitled \u201cTowards a new development model for common prosperity\u201d and \u201cTowards 2030 and 2060: sustainable development and climate\u201d. \u201cThe UN has been a trusted development partner of China, with the first UN office in China opened back in 1979. In the four decades following that year, the role of the UN in China has shifted from that of a traditional donor to that of a partner providing technical expertise and support, both within and beyond its national boundaries, including in its activities under the framework of South-South Cooperation,\u201d said UN Resident Coordinator",
+  "date": "02 November 2021"
+}

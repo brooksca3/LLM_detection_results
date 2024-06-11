@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "98af390a-7266-48df-916e-a649fd651f83",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 55.69388961791992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006284617120400071,
+          "perplexity": 37,
+          "sentence": "The UNODC-WCO Container Control Programme (CCP) in Albania organized a one-day workshop on the enhancement of cooperation and partnership between the Air Cargo Control Unit (ACCU) operating at Tirana International Airport (TIA) and the private business operators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005666426150128245,
+          "perplexity": 64,
+          "sentence": "The workshop, which was held in a hybrid manner brought together the officers of the ACCU, representatives from the Customs Administration and State Police, teams of experts from UNODC and WCO and representatives from the operators of fast parcels and postal correspondence couriers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008004619157873094,
+          "perplexity": 74,
+          "sentence": "The workshop was also attended and opened by the Director General of the Albanian Customs Administration, who acknowledged the importance of Customs-ACCU-Business partnership as an integral part of a broader undertake for good governance and effective border controls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005713826976716518,
+          "perplexity": 85,
+          "sentence": "The workshop constituted a good opportunity to foster the networking among ACCU officers and business operators and the sharing of knowledge on the ACCU role in the context of improved controls, accountability and facilitation of legitimate trade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005130634526722133,
+          "perplexity": 199,
+          "sentence": "The UNODC and WCO experts demonstrated through various examples the different scenarios which would assist the ACCU officers and the business operators in elaborating a continued consultative process and a robust partnership.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004646891902666539,
+          "perplexity": 127,
+          "sentence": "The workshop also promoted the Standard Operating Procedures related to the functioning of the ACCU while familiarizing the business representatives with the new approaches in handling pre-arrival information for building risk profiles and undertaking effective and timely cargo controls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000440644274931401,
+          "perplexity": 50,
+          "sentence": "Following active discussions, the participants agreed on producing an action plan for the cooperation and exchange of information and agreed to organize follow-up meetings to build a solid partnership aimed at facilitating border control procedures and securing borders.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UNODC-WCO Container Control Programme (CCP) in Albania organized a one-day workshop on the enhancement of cooperation and partnership between the Air Cargo Control Unit (ACCU) operating at Tirana International Airport (TIA) and the private business operators. The workshop, which was held in a hybrid manner brought together the officers of the ACCU, representatives from the Customs Administration and State Police, teams of experts from UNODC and WCO and representatives from the operators of fast parcels and postal correspondence couriers. The workshop was also attended and opened by the Director General of the Albanian Customs Administration, who acknowledged the importance of Customs-ACCU-Business partnership as an integral part of a broader undertake for good governance and effective border controls. The workshop constituted a good opportunity to foster the networking among ACCU officers and business operators and the sharing of knowledge on the ACCU role in the context of improved controls, accountability and facilitation of legitimate trade. The UNODC and WCO experts demonstrated through various examples the different scenarios which would assist the ACCU officers and the business operators in elaborating a continued consultative process and a robust partnership. The workshop also promoted the Standard Operating Procedures related to the functioning of the ACCU while familiarizing the business representatives with the new approaches in handling pre-arrival information for building risk profiles and undertaking effective and timely cargo controls. Following active discussions, the participants agreed on producing an action plan for the cooperation and exchange of information and agreed to organize follow-up meetings to build a solid partnership aimed at facilitating border control procedures and securing borders.",
+  "date": "28 January 2021"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d6c271b5-3ad7-40c6-966f-0d8fa6248445",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.54467010498047,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016724001034162939,
+          "perplexity": 45,
+          "sentence": "The Minister of Foreign Affairs opened the meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016878015594556928,
+          "perplexity": 64,
+          "sentence": "The participants representing 22 national entities at the level of Deputy ministers and the Heads of UN Agencies discussed the development of new National Action Plans in the area of human rights, the results of the Survey of health and status of women in the family and further cooperation to implement the UN Secretary-General's Call to Action on Human Rights titled \"The Highest Aspiration\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019820273155346513,
+          "perplexity": 33,
+          "sentence": "\u201cOur cooperation with Inter-Ministerial Commission is focused on the provision of technical and expert support in the preparation of reports to the UN mechanisms on human rights and gender equality, raising public awareness of human rights, as well as improving existing and developing new national legislation in accordance with international standards and implementing national action plans in the field of human rights, developed on the basis of the recommendations of the UN mechanisms\u201d, noted Dmitry Shlapachenko, UN Resident Coordinator in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002060019178315997,
+          "perplexity": 36,
+          "sentence": "The following priorities for cooperation of UN and Government were suggested: - Strengthening the capacity of the Office of the Ombudsman to comply with Paris Principles, with the focus on protection of the rights of children and women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018247478874400258,
+          "perplexity": 57,
+          "sentence": "- Integration of Human Rights Education and increasing public awareness on human rights through the media, radio and TV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016574296751059592,
+          "perplexity": 74,
+          "sentence": "- Cooperation with UNESCO in the field of education and culture, Notable agreements included enhanced support to the Office of the Ombudsmen and development of the new Plan on rights of children until 2028.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001542592071928084,
+          "perplexity": 81,
+          "sentence": "The National Plan on human rights will be aligned with National programme of socio-economic development of Turkmenistan until 2052.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Minister of Foreign Affairs opened the meeting. The participants representing 22 national entities at the level of Deputy ministers and the Heads of UN Agencies discussed the development of new National Action Plans in the area of human rights, the results of the Survey of health and status of women in the family and further cooperation to implement the UN Secretary-General\u2019s Call to Action on Human Rights titled \"The Highest Aspiration\". \u201cOur cooperation with Inter-Ministerial Commission is focused on the provision of technical and expert support in the preparation of reports to the UN mechanisms on human rights and gender equality, raising public awareness of human rights, as well as improving existing and developing new national legislation in accordance with international standards and implementing national action plans in the field of human rights, developed on the basis of the recommendations of the UN mechanisms\u201d, noted Dmitry Shlapachenko, UN Resident Coordinator in Turkmenistan. The following priorities for cooperation of UN and Government were suggested: - Strengthening the capacity of the Office of the Ombudsman to comply with Paris Principles, with the focus on protection of the rights of children and women. - Integration of Human Rights Education and increasing public awareness on human rights through the media, radio and TV. - Cooperation with UNESCO in the field of education and culture, Notable agreements included enhanced support to the Office of the Ombudsmen and development of the new Plan on rights of children until 2028. The National Plan on human rights will be aligned with National programme of socio-economic development of Turkmenistan until 2052.",
+  "date": "10 May 2022"
+}

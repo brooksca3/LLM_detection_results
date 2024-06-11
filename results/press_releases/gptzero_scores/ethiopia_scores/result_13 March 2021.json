@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1e4142f5-e27f-4b50-9741-35a601410103",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05167003447046238,
+        "human": 0.9472839652918104,
+        "mixed": 0.0010460002377273268
+      },
+      "completely_generated_prob": 0.05167003447046238,
+      "confidence_category": "medium",
+      "confidence_score": 0.9472839652918104,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05167003447046238,
+          "human": 0.9472839652918104,
+          "mixed": 0.0010460002377273268
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 69.38505554199219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010659585677785799,
+          "perplexity": 157,
+          "sentence": "The Ministry of Health of Ethiopia launched COVID-19 vaccine introduction at Eka Kotebe COVID-19 Hospital to mark the beginning of the vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011140527931274846,
+          "perplexity": 106,
+          "sentence": "The Ministry of Health of Ethiopia launched COVID-19 vaccine introduction in a high-level national event held at Eka Kotebe COVID-19 Hospital where frontline health workers were vaccinated to mark the beginning of the vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010800093878060579,
+          "perplexity": 65,
+          "sentence": "Present at the event were the Guest of Honor Excellency Dr Getahun Mekuria, Minister of Education, Excellency Dr Dereje Duguma, State Minister of Health, Dr Boureima Hama Sambo, Representative of the World Health Organization (WHO) in Ethiopia, Athlete Commander Derartu Tulu, Kesis Tagay Tadele, Secretary General of Inter-Religious Council of Ethiopia, representatives from the UN, CDC, non-governmental organizations and health workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011658846779027954,
+          "perplexity": 250,
+          "sentence": "Education Minister Excellency Dr Getahun Mekuria appreciated the contribution of the global community, WHO and others for their role in providing vaccines to Ethiopia through COVAX initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05489746853709221,
+          "perplexity": 54,
+          "sentence": "He further expressed his appreciation to the Ethiopian health professionals for their service in fighting the pandemic over the last one year, and reiterated the notable investment that government, health institutes and universities have made towards making the country self-sufficient in COVID testing and treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0539478100836277,
+          "perplexity": 95,
+          "sentence": "The Minister further underscored, \u201cWith the introduction of vaccines, we are now at a landmark stage in the response to COVID-19, but vaccines will be of sideline use if face masks, keeping distance and hand hygiene are not maintained,\u201d expressing his concern that the continued reluctance in implementing those precautions would be a threat to the country's health system, and economic and social fabrics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06123052164912224,
+          "perplexity": 68,
+          "sentence": "Speaking at the event, WHO Representative Dr Boureima Hama Sambo said, \u201cThe arrival of the first batch of COVID-19 vaccines through COVAX provides an effective tool to end the acute phase of the pandemic,\u201d adding, \u201cTo maximise the public health benefit of the vaccine, the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Ministry of Health of Ethiopia launched COVID-19 vaccine introduction at Eka Kotebe COVID-19 Hospital to mark the beginning of the vaccination campaign. The Ministry of Health of Ethiopia launched COVID-19 vaccine introduction in a high-level national event held at Eka Kotebe COVID-19 Hospital where frontline health workers were vaccinated to mark the beginning of the vaccination campaign. Present at the event were the Guest of Honor Excellency Dr Getahun Mekuria, Minister of Education, Excellency Dr Dereje Duguma, State Minister of Health, Dr Boureima Hama Sambo, Representative of the World Health Organization (WHO) in Ethiopia, Athlete Commander Derartu Tulu, Kesis Tagay Tadele, Secretary General of Inter-Religious Council of Ethiopia, representatives from the UN, CDC, non-governmental organizations and health workers. Education Minister Excellency Dr Getahun Mekuria appreciated the contribution of the global community, WHO and others for their role in providing vaccines to Ethiopia through COVAX initiative. He further expressed his appreciation to the Ethiopian health professionals for their service in fighting the pandemic over the last one year, and reiterated the notable investment that government, health institutes and universities have made towards making the country self-sufficient in COVID testing and treatment. The Minister further underscored, \u201cWith the introduction of vaccines, we are now at a landmark stage in the response to COVID-19, but vaccines will be of sideline use if face masks, keeping distance and hand hygiene are not maintained,\u201d expressing his concern that the continued reluctance in implementing those precautions would be a threat to the country's health system, and economic and social fabrics. Speaking at the event, WHO Representative Dr Boureima Hama Sambo said, \u201cThe arrival of the first batch of COVID-19 vaccines through COVAX provides an effective tool to end the acute phase of the pandemic,\u201d adding, \u201cTo maximise the public health benefit of the vaccine, the",
+  "date": "13 March 2021"
+}

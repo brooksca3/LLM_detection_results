@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a735dbe9-8046-4cc6-84ea-966fc30e4b63",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.964262008666992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.737236541695893e-05,
+          "perplexity": 61,
+          "sentence": "Ethiopian Government and the United Nations in Ethiopia signed the United Nations Sustainable Development Cooperation Framework (2020-2025).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.946504724211991e-05,
+          "perplexity": 38,
+          "sentence": "The Government of Federal Democratic Republic of Ethiopia and the United Nations in Ethiopia today signed a strategic framework document, the United Nations Sustainable Development Cooperation Framework (2020-2025) that describes the collective response of the UN System in Ethiopia to national development priorities and helps achieve the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.701895760372281e-05,
+          "perplexity": 49,
+          "sentence": "The UNSDCF, which seeks a total estimated budget of USD 7.1 billion, mostly to be mobilized during the implementation period through the UN Agencies, guides the entire planning and implementation of all UN development interventions in Ethiopia in support of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.537243022350594e-05,
+          "perplexity": 108,
+          "sentence": "It is anchored in Ethiopia's development priorities as outlined in the 10-Year Perspective Plan and the Home Grown Economic Reform agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.749221499077976e-05,
+          "perplexity": 76,
+          "sentence": "The UN development system in Ethiopia has identified four critical priorities structured around the \u201c4Ps\u201d of the 2030 Agenda for Sustainable Development: People, Peace, Prosperity and Planet, helping to address the four big structural transformations of the country over the coming five years: demographic; governance; economic; and environmental.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.331537876278162e-05,
+          "perplexity": 32,
+          "sentence": "The four identified areas of change for Ethiopia to make progress on these transformations and progress towards the SDGs, includes the need to: improve human development and enhance the resilience of the people living in Ethiopia; strengthen social cohesion, peace and security and human rights; accelerate the economic transformation and create employment opportunities; and enhance the country's resilience against natural disasters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.432877413928509e-05,
+          "perplexity": 50,
+          "sentence": "\u201cThe cooperation framework represents the renewed commitment of the UN development system to support Ethiopia's development priorities and contribute to the achievement of the Sustainable Development Goals in the country in an integrated manner, with a commitment to leave no one behind, human rights and other international standards and obligations,\u201d said Dr. Catherine Sozi, UN",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ethiopian Government and the United Nations in Ethiopia signed the United Nations Sustainable Development Cooperation Framework (2020-2025). The Government of Federal Democratic Republic of Ethiopia and the United Nations in Ethiopia today signed a strategic framework document, the United Nations Sustainable Development Cooperation Framework (2020-2025) that describes the collective response of the UN System in Ethiopia to national development priorities and helps achieve the 2030 Agenda for Sustainable Development. The UNSDCF, which seeks a total estimated budget of USD 7.1 billion, mostly to be mobilized during the implementation period through the UN Agencies, guides the entire planning and implementation of all UN development interventions in Ethiopia in support of the 2030 Agenda for Sustainable Development. It is anchored in Ethiopia\u2019s development priorities as outlined in the 10-Year Perspective Plan and the Home Grown Economic Reform agenda. The UN development system in Ethiopia has identified four critical priorities structured around the \u201c4Ps\u201d of the 2030 Agenda for Sustainable Development: People, Peace, Prosperity and Planet, helping to address the four big structural transformations of the country over the coming five years: demographic; governance; economic; and environmental. The four identified areas of change for Ethiopia to make progress on these transformations and progress towards the SDGs, includes the need to: improve human development and enhance the resilience of the people living in Ethiopia; strengthen social cohesion, peace and security and human rights; accelerate the economic transformation and create employment opportunities; and enhance the country\u2019s resilience against natural disasters. \u201cThe cooperation framework represents the renewed commitment of the UN development system to support Ethiopia\u2019s development priorities and contribute to the achievement of the Sustainable Development Goals in the country in an integrated manner, with a commitment to leave no one behind, human rights and other international standards and obligations,\u201d said Dr. Catherine Sozi, UN",
+  "date": "09 September 2020"
+}

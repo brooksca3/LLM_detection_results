@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0b8b36db-3628-4eca-81e0-6fc724c5197e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012456316603696832,
+        "human": 0.9869643198333405,
+        "mixed": 0.0005793635629626434
+      },
+      "completely_generated_prob": 0.012456316603696832,
+      "confidence_category": "high",
+      "confidence_score": 0.9869643198333405,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012456316603696832,
+          "human": 0.9869643198333405,
+          "mixed": 0.0005793635629626434
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.418766021728516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002648203633725643,
+          "perplexity": 55,
+          "sentence": "COVID-19 has affected us all, but some have fared worse than others simply because of the jobs they do and the insecurity of their living conditions and livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026917268987745047,
+          "perplexity": 89,
+          "sentence": "For instance, the effects of COVID-19 containment measures were felt unequally, with people from lower income groups at higher risk of losing their jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012985261855646968,
+          "perplexity": 25,
+          "sentence": "Estimates suggest that in the first month of the pandemic alone, informal workers, including those working in warehouses and call centres, domestic workers, seasonal workers and low-paid contract workers in the health and care sectors in Europe and Central Asia lost 70% of their income.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013636208605021238,
+          "perplexity": 59,
+          "sentence": "This World Health Day, marked each year on 7 April, WHO is calling on leaders to put inclusiveness and equity at the heart of all recovery responses to create a fairer, healthier world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014450984308496118,
+          "perplexity": 149,
+          "sentence": "\u201cWhy is it that some people have felt the effects of COVID-19 more sharply?\u201d said Dr Hans Kluge, WHO Regional Director for Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015319249359890819,
+          "perplexity": 42,
+          "sentence": "\u201cQuite simply, the cards have been stacked against them in terms of jobs, housing, community, social support and health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015661371871829033,
+          "perplexity": 57,
+          "sentence": "It's time that everyone is dealt a fair hand, and we rebuild from the pandemic, setting our sights higher than surviving, to thriving.\u201d Action is urgently needed by the health sector and across government to remove the barriers to a fairer and healthier life for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008306601666845381,
+          "perplexity": 44,
+          "sentence": "80% of Europeans believe that reducing inequities should be top of their government's agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000600815808866173,
+          "perplexity": 46,
+          "sentence": "When governments implement the right policies, gaps in health can be reduced in as little as 4 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006531267426908016,
+          "perplexity": 88,
+          "sentence": "A WHO health equity policy tool has shown that policies in the following areas have the highest potential to close health gaps and positively impact health and well-being, especially if they are implemented together: \u201cOur world was already an unequal one when COVID-19 hit, and the pandemic has brought",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "COVID-19 has affected us all, but some have fared worse than others simply because of the jobs they do and the insecurity of their living conditions and livelihoods. For instance, the effects of COVID-19 containment measures were felt unequally, with people from lower income groups at higher risk of losing their jobs. Estimates suggest that in the first month of the pandemic alone, informal workers, including those working in warehouses and call centres, domestic workers, seasonal workers and low-paid contract workers in the health and care sectors in Europe and Central Asia lost 70% of their income. This World Health Day, marked each year on 7 April, WHO is calling on leaders to put inclusiveness and equity at the heart of all recovery responses to create a fairer, healthier world. \u201cWhy is it that some people have felt the effects of COVID-19 more sharply?\u201d said Dr Hans Kluge, WHO Regional Director for Europe. \u201cQuite simply, the cards have been stacked against them in terms of jobs, housing, community, social support and health care. It\u2019s time that everyone is dealt a fair hand, and we rebuild from the pandemic, setting our sights higher than surviving, to thriving.\u201d Action is urgently needed by the health sector and across government to remove the barriers to a fairer and healthier life for all. 80% of Europeans believe that reducing inequities should be top of their government\u2019s agenda. When governments implement the right policies, gaps in health can be reduced in as little as 4 years. A WHO health equity policy tool has shown that policies in the following areas have the highest potential to close health gaps and positively impact health and well-being, especially if they are implemented together: \u201cOur world was already an unequal one when COVID-19 hit, and the pandemic has brought",
+  "date": "07 April 2021"
+}

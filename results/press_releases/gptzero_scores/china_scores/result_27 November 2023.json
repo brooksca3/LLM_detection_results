@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f53ac9f9-fb22-4a52-923e-2cbe05146ef4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 134.7860107421875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0056065842509269714,
+          "perplexity": 39,
+          "sentence": "Shanghai, 27 November 2023 - The 2023 United Nations/International Organizations Capacity Building Workshop on Sustainable Procurement and Supplier Sustainability was held last week in Shanghai convening over 70 participants from the Government of China, UN agencies, academia, local suppliers and businesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006891236640512943,
+          "perplexity": 38,
+          "sentence": "The capacity-building workshop was hosted by the United Nations Office for Project Services (UNOPS) and United Nations Development Programme (UNDP), with support from the China International Centre for Economic & Technical Exchanges of the Ministry of Commerce and Project Management Office of Knowledge Sharing, Capacity Building and Supporting Service Programme on Sustainable Procurement of UN/International Organisations (hereafter referred as 'Sustainable Procurement Project').",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00911669060587883,
+          "perplexity": 22,
+          "sentence": "As part of the Sustainable Procurement Project, this capacity-building workshop aimed to support Chinese suppliers, especially small and medium-sized enterprises (SMEs) and women-owned businesses (WOBs) to understand sustainable procurement standards and align with international best practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008243989199399948,
+          "perplexity": 84,
+          "sentence": "In her opening remarks, Ms. Anne-Claire Howard, Director of the UNOPS Procurement Group introduced the participation of Chinese suppliers in UN procurements, \u201cChina was the 15th largest supplier country with a total procurement amount of 501 million dollars (in 2022).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009453853592276573,
+          "perplexity": 62,
+          "sentence": "Over 10,000 suppliers in China have registered on the United Nations Global Marketplace, the official procurement portal in the United Nations system.\u201d The workshop also marks an important milestone for Delivering Responsibility in Vendor Engagement (DRiVE), a supplier sustainability programme launched in 2018 driven by UNOPS' commitment to sustainability and risk management in procurement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010448516346514225,
+          "perplexity": 125,
+          "sentence": "Through vendor assessment, inspection and corrective action planning, DRiVE ensures that UNOPS vendors operate responsibly and in accordance with high standards of integrity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009346075356006622,
+          "perplexity": 435,
+          "sentence": "In early 2023, the initiative began a pilot in China with 13 UNOPS LTA suppliers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011960501782596111,
+          "perplexity": 90,
+          "sentence": "Through data collection, assessment, inspection and corrective action planning with Chinese suppliers, this pilot provided practical insights into sustainable procurement, enabling the participating companies to better engage with the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Shanghai, 27 November 2023 - The 2023 United Nations/International Organizations Capacity Building Workshop on Sustainable Procurement and Supplier Sustainability was held last week in Shanghai convening over 70 participants from the Government of China, UN agencies, academia, local suppliers and businesses. The capacity-building workshop was hosted by the United Nations Office for Project Services (UNOPS) and United Nations Development Programme (UNDP), with support from the China International Centre for Economic & Technical Exchanges of the Ministry of Commerce and Project Management Office of Knowledge Sharing, Capacity Building and Supporting Service Programme on Sustainable Procurement of UN/International Organisations (hereafter referred as \u2018Sustainable Procurement Project\u2019). As part of the Sustainable Procurement Project, this capacity-building workshop aimed to support Chinese suppliers, especially small and medium-sized enterprises (SMEs) and women-owned businesses (WOBs) to understand sustainable procurement standards and align with international best practices. In her opening remarks, Ms. Anne-Claire Howard, Director of the UNOPS Procurement Group introduced the participation of Chinese suppliers in UN procurements, \u201cChina was the 15th largest supplier country with a total procurement amount of 501 million dollars (in 2022). Over 10,000 suppliers in China have registered on the United Nations Global Marketplace, the official procurement portal in the United Nations system.\u201d The workshop also marks an important milestone for Delivering Responsibility in Vendor Engagement (DRiVE), a supplier sustainability programme launched in 2018 driven by UNOPS\u2019 commitment to sustainability and risk management in procurement. Through vendor assessment, inspection and corrective action planning, DRiVE ensures that UNOPS vendors operate responsibly and in accordance with high standards of integrity. In early 2023, the initiative began a pilot in China with 13 UNOPS LTA suppliers. Through data collection, assessment, inspection and corrective action planning with Chinese suppliers, this pilot provided practical insights into sustainable procurement, enabling the participating companies to better engage with the",
+  "date": "27 November 2023"
+}

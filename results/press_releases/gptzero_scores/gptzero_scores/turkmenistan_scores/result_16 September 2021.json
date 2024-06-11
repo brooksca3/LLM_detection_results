@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "08c62f69-b8fe-4a17-a432-4491a1e0bb3b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002753428249972066,
+        "human": 0.9967494006633975,
+        "mixed": 0.0004971710866304887
+      },
+      "completely_generated_prob": 0.002753428249972066,
+      "confidence_category": "high",
+      "confidence_score": 0.9967494006633975,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002753428249972066,
+          "human": 0.9967494006633975,
+          "mixed": 0.0004971710866304887
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.03378677368164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002012592158280313,
+          "perplexity": 53,
+          "sentence": "Objective of the seminar was to enhance the capacity of the Government of Turkmenistan in strengthening the effectiveness of border control management, good governance of border integrity through the use of passenger data for the benefit of migrants, society and sustainable socio-economic development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018669851124286652,
+          "perplexity": 49,
+          "sentence": "The workshop brought together representatives from all national agencies of Turkmenistan involved in air passenger data processing, including national police and intelligence service, national customs administration, migration service, airport security officers, civil aviation, Turkmenistan airlines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020080551621504128,
+          "perplexity": 149,
+          "sentence": "The seminar featured presentations by Head of IOM mission in Ashgabat - Azat Atajanov, Erik Slavenas -an international expert on Border Management, API and PNR systems, Mr. Adylbek Kadaraliyev - Head of API working group in Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001698097330518067,
+          "perplexity": 79,
+          "sentence": "During the seminar the participants touched upon such topics as dynamics of inter-agency cooperation and information sharing, some lessons learned internationally, a single window approach, Passenger Information Unit (PIU), the technical aspect of airlines' systems, legal frameworks, a crucial importance of privacy, data protection and respect to human rights in a successful API implementation process.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015070071094669402,
+          "perplexity": 144,
+          "sentence": "International experts shared with their technical knowledge and competencies to understand the modalities of passenger data applications (API/iAPI/PNR) and talked about the current international laws and guidance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015015348617453128,
+          "perplexity": 126,
+          "sentence": "National partners could discuss about further direction and steps of the API working group in the process of API implementation process in Turkmenistan, and agreed with Mr. Kadaraliyev that: \u201cUnderstanding of the role of the API Working Group is a key national mechanism for implementing and using an API system\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017201891751028597,
+          "perplexity": 81,
+          "sentence": "This seminar is one of the series of events related to API system organized by IOM in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018047641788143665,
+          "perplexity": 52,
+          "sentence": "IOM is committed to continue working with the Government of Turkmenistan providing technical expertise and advice on the multitude of issues relating to API implementation.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Objective of the seminar was to enhance the capacity of the Government of Turkmenistan in strengthening the effectiveness of border control management, good governance of border integrity through the use of passenger data for the benefit of migrants, society and sustainable socio-economic development. The workshop brought together representatives from all national agencies of Turkmenistan involved in air passenger data processing, including national police and intelligence service, national customs administration, migration service, airport security officers, civil aviation, Turkmenistan airlines. The seminar featured presentations by Head of IOM mission in Ashgabat - Azat Atajanov, Erik Slavenas -an international expert on Border Management, API and PNR systems, Mr. Adylbek Kadaraliyev - Head of API working group in Kyrgyzstan. During the seminar the participants touched upon such topics as dynamics of inter-agency cooperation and information sharing, some lessons learned internationally, a single window approach, Passenger Information Unit (PIU), the technical aspect of airlines\u2019 systems, legal frameworks, a crucial importance of privacy, data protection and respect to human rights in a successful API implementation process. International experts shared with their technical knowledge and competencies to understand the modalities of passenger data applications (API/iAPI/PNR) and talked about the current international laws and guidance. National partners could discuss about further direction and steps of the API working group in the process of API implementation process in Turkmenistan, and agreed with Mr. Kadaraliyev that: \u201cUnderstanding of the role of the API Working Group is a key national mechanism for implementing and using an API system\u201d. This seminar is one of the series of events related to API system organized by IOM in Turkmenistan. IOM is committed to continue working with the Government of Turkmenistan providing technical expertise and advice on the multitude of issues relating to API implementation.",
+  "date": "16 September 2021"
+}

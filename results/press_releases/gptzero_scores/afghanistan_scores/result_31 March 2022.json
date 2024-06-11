@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3568f9bc-697a-4d08-8611-b54c2999e804",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05362152918762895,
+        "human": 0.9457949897669803,
+        "mixed": 0.0005834810453909104
+      },
+      "completely_generated_prob": 0.05362152918762895,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457949897669803,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05362152918762895,
+          "human": 0.9457949897669803,
+          "mixed": 0.0005834810453909104
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1041.1109619140625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0648360624909401,
+          "perplexity": 25,
+          "sentence": "UNFPA calls on international community to increase funding for lifesaving maternal health and protection services in Afghanistan Kabul, Afghanistan - The people of Afghanistan are facing unprecedented levels of suffering with more than half the population - 24.4 million people - in dire need of humanitarian assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06838443875312805,
+          "perplexity": 21,
+          "sentence": "The country is facing an economic crisis that has sent prices skyrocketing, driving food insecurity and a malnutrition crisis of unparalleled proportions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06670117378234863,
+          "perplexity": 34,
+          "sentence": "The situation of women and girls is particularly dire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06525671482086182,
+          "perplexity": 65,
+          "sentence": "Their rights and opportunities have been increasingly restricted and the impacts of recent upheavals and the current crisis are resting disproportionately on their narrow shoulders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.055122267454862595,
+          "perplexity": 32,
+          "sentence": "Interim funding at the end of 2021 prevented the total collapse of the health system in the country following the withdrawal of development assistance, but women and girls' access to lifesaving sexual and reproductive health services has been severely diminished especially in remote parts of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05809614807367325,
+          "perplexity": 17,
+          "sentence": "Over the last two decades, important gains have been made for women and girls including significant declines in one of the highest maternal mortality rates in the world and increases in the provision of prenatal and antenatal care, the use of modern methods of birth spacing, and the number of attended births.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.054347068071365356,
+          "perplexity": 144,
+          "sentence": "These gains are now in peril.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05678687244653702,
+          "perplexity": 81,
+          "sentence": "\u201cToday in Afghanistan, a woman dies every two hours during pregnancy and childbirth from causes that are almost entirely preventable,\u201d said Dr. Aleksandar Sasha Bodiroza, UNFPA Representative in Afghanistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05687087029218674,
+          "perplexity": 31,
+          "sentence": "\u201cUNFPA is committed and ready to expand and scale up our existing sexual and reproductive health service delivery points to reach more women, girls and young people, especially those in the most remote and underserved areas of Afghanistan.\u201d In spite of the challenging context, UNFPA continues to provide essential and life-saving maternal health and protection services, with support from local communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050621915608644485,
+          "perplexity": 3340,
+          "sentence": "Between August",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNFPA calls on international community to increase funding for lifesaving maternal health and protection services in Afghanistan Kabul, Afghanistan - The people of Afghanistan are facing unprecedented levels of suffering with more than half the population \u2013 24.4 million people \u2013 in dire need of humanitarian assistance. The country is facing an economic crisis that has sent prices skyrocketing, driving food insecurity and a malnutrition crisis of unparalleled proportions. The situation of women and girls is particularly dire. Their rights and opportunities have been increasingly restricted and the impacts of recent upheavals and the current crisis are resting disproportionately on their narrow shoulders. Interim funding at the end of 2021 prevented the total collapse of the health system in the country following the withdrawal of development assistance, but women and girls\u2019 access to lifesaving sexual and reproductive health services has been severely diminished especially in remote parts of the country. Over the last two decades, important gains have been made for women and girls including significant declines in one of the highest maternal mortality rates in the world and increases in the provision of prenatal and antenatal care, the use of modern methods of birth spacing, and the number of attended births. These gains are now in peril. \u201cToday in Afghanistan, a woman dies every two hours during pregnancy and childbirth from causes that are almost entirely preventable,\u201d said Dr. Aleksandar Sasha Bodiroza, UNFPA Representative in Afghanistan. \u201cUNFPA is committed and ready to expand and scale up our existing sexual and reproductive health service delivery points to reach more women, girls and young people, especially those in the most remote and underserved areas of Afghanistan.\u201d In spite of the challenging context, UNFPA continues to provide essential and life-saving maternal health and protection services, with support from local communities. Between August",
+  "date": "31 March 2022"
+}

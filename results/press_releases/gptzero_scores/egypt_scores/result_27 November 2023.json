@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b5578b35-cdb1-4a23-97ad-97eed3e9ff0d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.136992454528809,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01412394642829895,
+          "perplexity": 28,
+          "sentence": "Seven weeks of hostilities in Gaza and Israel have taken an appalling toll that has shocked the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014058914966881275,
+          "perplexity": 26,
+          "sentence": "For the past four days, the guns have fallen silent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012947320006787777,
+          "perplexity": 23,
+          "sentence": "We have seen the release of Israeli and foreign hostages held by Hamas and others since 7 October, and the release of Palestinian prisoners from Israeli jails.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01350115891546011,
+          "perplexity": 19,
+          "sentence": "The Secretary General commends the Governments of Qatar, Egypt and the United States for facilitating this arrangement and he recognizes the critical role of the International Committee of the Red Cross.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01349069643765688,
+          "perplexity": 18,
+          "sentence": "The United Nations will continue to support these efforts in every possible way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012524477206170559,
+          "perplexity": 30,
+          "sentence": "During these four days, the United Nations has scaled up the entry of humanitarian aid into Gaza and sent aid to some northern areas that have been largely cut off for weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012907599098980427,
+          "perplexity": 68,
+          "sentence": "But this aid barely registers against the huge needs of 1.7 million displaced people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01329856738448143,
+          "perplexity": 20,
+          "sentence": "The humanitarian catastrophe in Gaza is getting worse by the day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012769618071615696,
+          "perplexity": 21,
+          "sentence": "The dialogue that led to the agreement must continue, resulting in a full humanitarian ceasefire, for the benefit of the people of Gaza, Israel and the wider region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012536470778286457,
+          "perplexity": 31,
+          "sentence": "The Secretary General once again calls for the remaining hostages to be released immediately and unconditionally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011343561112880707,
+          "perplexity": 20,
+          "sentence": "He urges all States to use their influence to end this tragic conflict and support irreversible steps towards the only sustainable future for the region: a two-state solution, with Israel and Palestine living side by side, in peace and security.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Seven weeks of hostilities in Gaza and Israel have taken an appalling toll that has shocked the world. For the past four days, the guns have fallen silent. We have seen the release of Israeli and foreign hostages held by Hamas and others since 7 October, and the release of Palestinian prisoners from Israeli jails. The Secretary General commends the Governments of Qatar, Egypt and the United States for facilitating this arrangement and he recognizes the critical role of the International Committee of the Red Cross. The United Nations will continue to support these efforts in every possible way. During these four days, the United Nations has scaled up the entry of humanitarian aid into Gaza and sent aid to some northern areas that have been largely cut off for weeks. But this aid barely registers against the huge needs of 1.7 million displaced people. The humanitarian catastrophe in Gaza is getting worse by the day. The dialogue that led to the agreement must continue, resulting in a full humanitarian ceasefire, for the benefit of the people of Gaza, Israel and the wider region. The Secretary General once again calls for the remaining hostages to be released immediately and unconditionally. He urges all States to use their influence to end this tragic conflict and support irreversible steps towards the only sustainable future for the region: a two-state solution, with Israel and Palestine living side by side, in peace and security.",
+  "date": "27 November 2023"
+}

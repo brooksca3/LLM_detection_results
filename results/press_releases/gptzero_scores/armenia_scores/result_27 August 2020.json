@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9a574dd9-274b-4c2a-8485-3e72bf6bdab8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.08256912231445,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005677699809893966,
+          "perplexity": 34,
+          "sentence": "At least a third of the world's schoolchildren - 463 million children globally - were unable to access remote learning when COVID-19 shuttered their schools, according to a new UNICEF report released today as countries across the world grapple with their 'back-to-school' plans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005481496918946505,
+          "perplexity": 154,
+          "sentence": "\u201cFor at least 463 million children whose schools closed due to COVID-19, there was no such a thing as remote learning,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006495177512988448,
+          "perplexity": 117,
+          "sentence": "\u201cThe sheer number of children whose education was completely disrupted for months on end is a global education emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006604849477298558,
+          "perplexity": 52,
+          "sentence": "The repercussions could be felt in economies and societies for decades to come.\u201d At the height of nationwide and local lockdowns, nearly 1.5 billion schoolchildren were affected by school closures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008499426185153425,
+          "perplexity": 208,
+          "sentence": "The Remote Learning Reachability report outlines the limitations of remote learning and exposes deep inequalities in access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006623021909035742,
+          "perplexity": 49,
+          "sentence": "The report uses a globally representative analysis on the availability of home-based technology and tools needed for remote learning among pre-primary, primary, lower-secondary and upper-secondary schoolchildren, with data from 100 countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007418886525556445,
+          "perplexity": 93,
+          "sentence": "Data include access to television, radio and internet, and the availability of curriculum delivered across these platforms during school closures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007719385321252048,
+          "perplexity": 57,
+          "sentence": "Although the numbers in the report present a concerning picture on the lack of remote learning during school closures, UNICEF warns the situation is likely far worse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005413977196440101,
+          "perplexity": 59,
+          "sentence": "Even when children have the technology and tools at home, they may not be able to learn remotely through those platforms due to competing factors in the home including pressure to do chores, being forced to work, a poor environment for learning and lack of support in using the online or broadcast curriculum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007264390587806702,
+          "perplexity": 190,
+          "sentence": "The report highlights significant inequality across regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006763612036593258,
+          "perplexity": 51,
+          "sentence": "Schoolchildren in sub-Saharan Africa are the most affected, with half of all students cannot be reached with remote learning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006393050425685942,
+          "perplexity": 115,
+          "sentence": "Minimum proportion of schoolchildren unable to access",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "At least a third of the world\u2019s schoolchildren \u2013 463 million children globally \u2013 were unable to access remote learning when COVID-19 shuttered their schools, according to a new UNICEF report released today as countries across the world grapple with their \u2018back-to-school\u2019 plans. \u201cFor at least 463 million children whose schools closed due to COVID-19, there was no such a thing as remote learning,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cThe sheer number of children whose education was completely disrupted for months on end is a global education emergency. The repercussions could be felt in economies and societies for decades to come.\u201d At the height of nationwide and local lockdowns, nearly 1.5 billion schoolchildren were affected by school closures. The Remote Learning Reachability report outlines the limitations of remote learning and exposes deep inequalities in access. The report uses a globally representative analysis on the availability of home-based technology and tools needed for remote learning among pre-primary, primary, lower-secondary and upper-secondary schoolchildren, with data from 100 countries. Data include access to television, radio and internet, and the availability of curriculum delivered across these platforms during school closures. Although the numbers in the report present a concerning picture on the lack of remote learning during school closures, UNICEF warns the situation is likely far worse. Even when children have the technology and tools at home, they may not be able to learn remotely through those platforms due to competing factors in the home including pressure to do chores, being forced to work, a poor environment for learning and lack of support in using the online or broadcast curriculum. The report highlights significant inequality across regions. Schoolchildren in sub-Saharan Africa are the most affected, with half of all students cannot be reached with remote learning. Minimum proportion of schoolchildren unable to access",
+  "date": "27 August 2020"
+}

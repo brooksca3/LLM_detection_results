@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "44beb222-128f-4429-a776-affbbb7d932e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.92414474487305,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013437784218695015,
+          "perplexity": 45,
+          "sentence": "NEW YORK/COPENHAGEN, 9 September 2020 - UNICEF is leading efforts to procure and supply COVID-19 vaccines in what could possibly be the world's largest and fastest ever procurement and supply of vaccines, as part of the global vaccine plan of the COVID-19 Vaccine Global Access Facility (COVAX Facility) led by Gavi, the Vaccine Alliance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012682081433013082,
+          "perplexity": 103,
+          "sentence": "With several vaccine candidates showing promise, UNICEF, in collaboration with the PAHO Revolving Fund, will lead efforts to procure and supply doses of COVID-19 vaccines on behalf of the COVAX Facility for 92 low- and lower middle-income countries whose vaccine purchases will be supported by the mechanism through the Gavi COVAX AMC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012557892478071153,
+          "perplexity": 113,
+          "sentence": "In addition, UNICEF will also serve as procurement coordinator to support procurement by 80 higher-income economies, which have expressed their intent to participate in the COVAX Facility and would finance the vaccines from their own public finance budgets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001276923285331577,
+          "perplexity": 24,
+          "sentence": "UNICEF will undertake these efforts in close collaboration with WHO, Gavi, CEPI, PAHO, World Bank, the Bill and Melinda Gates Foundation and other partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001261529978364706,
+          "perplexity": 126,
+          "sentence": "The COVAX Facility is open to all countries to ensure that no country is left without access to a future COVID-19 vaccine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001290596555918455,
+          "perplexity": 109,
+          "sentence": "\u201cThis is an all-hands on deck partnership between governments, manufacturers and multilateral partners to continue the high-stakes fight against the COVID-19 pandemic,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012727583816740662,
+          "perplexity": 30,
+          "sentence": "\u201cIn our collective pursuit of a vaccine, UNICEF is leveraging its unique strengths in vaccine supply to make sure that all countries have safe, fast and equitable access to the initial doses when they are available.\u201d UNICEF is the largest single vaccine buyer in the world, procuring more than 2 billion doses of vaccines annually for routine immunization and outbreak response on behalf of nearly 100 countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012779110693372786,
+          "perplexity": 60,
+          "sentence": "It is the main procurement partner of Gavi, the Vaccine Alliance, which over the last",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NEW YORK/COPENHAGEN, 9 September 2020 \u2013 UNICEF is leading efforts to procure and supply COVID-19 vaccines in what could possibly be the world\u2019s largest and fastest ever procurement and supply of vaccines, as part of the global vaccine plan of the COVID-19 Vaccine Global Access Facility (COVAX Facility) led by Gavi, the Vaccine Alliance. With several vaccine candidates showing promise, UNICEF, in collaboration with the PAHO Revolving Fund, will lead efforts to procure and supply doses of COVID-19 vaccines on behalf of the COVAX Facility for 92 low- and lower middle-income countries whose vaccine purchases will be supported by the mechanism through the Gavi COVAX AMC. In addition, UNICEF will also serve as procurement coordinator to support procurement by 80 higher-income economies, which have expressed their intent to participate in the COVAX Facility and would finance the vaccines from their own public finance budgets. UNICEF will undertake these efforts in close collaboration with WHO, Gavi, CEPI, PAHO, World Bank, the Bill and Melinda Gates Foundation and other partners. The COVAX Facility is open to all countries to ensure that no country is left without access to a future COVID-19 vaccine. \u201cThis is an all-hands on deck partnership between governments, manufacturers and multilateral partners to continue the high-stakes fight against the COVID-19 pandemic,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cIn our collective pursuit of a vaccine, UNICEF is leveraging its unique strengths in vaccine supply to make sure that all countries have safe, fast and equitable access to the initial doses when they are available.\u201d UNICEF is the largest single vaccine buyer in the world, procuring more than 2 billion doses of vaccines annually for routine immunization and outbreak response on behalf of nearly 100 countries. It is the main procurement partner of Gavi, the Vaccine Alliance, which over the last",
+  "date": "09 September 2020"
+}

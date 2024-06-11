@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "51bb545b-9341-469e-8258-9c444814a2e5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.71952247619629,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016736891120672226,
+          "perplexity": 66,
+          "sentence": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017121316341217607,
+          "perplexity": 19,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honor the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015616838936693966,
+          "perplexity": 47,
+          "sentence": "Among the peacekeepers to be honored posthumously are four from Egypt: Police Colonel Sherif Lotfy Saad Mansour who served with the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA); and SGT Shaban Ahmed Shaban Hebeshi, SGT Mostafa Elazab Khalil, and 1st Lt Abdalla Mahmoud Elbahnsy who all served with United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016382905596401542,
+          "perplexity": 33,
+          "sentence": "Egypt is the 7th largest contributor of uniformed personnel to UN Peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046661694068461657,
+          "perplexity": 51,
+          "sentence": "It currently deploys nearly 2,800 military and police personnel to the UN operations in Abyei, the Central African Republic, Democratic Republic of the Congo, Mali, South Sudan and the Western Sahara During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005952334613539279,
+          "perplexity": 32,
+          "sentence": "The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005584998871199787,
+          "perplexity": 35,
+          "sentence": "This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honor in 2016.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005545782041735947,
+          "perplexity": 74,
+          "sentence": "The Secretary-General will also award the '2021 Military Gender Advocate of the Year Award' to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006995558505877852,
+          "perplexity": 117,
+          "sentence": "Created in 2016, the Award \u201crecognizes the dedication and effort of an",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honor the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year. Among the peacekeepers to be honored posthumously are four from Egypt: Police Colonel Sherif Lotfy Saad Mansour who served with the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA); and SGT Shaban Ahmed Shaban Hebeshi, SGT Mostafa Elazab Khalil, and 1st Lt Abdalla Mahmoud Elbahnsy who all served with United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA). Egypt is the 7th largest contributor of uniformed personnel to UN Peacekeeping. It currently deploys nearly 2,800 military and police personnel to the UN operations in Abyei, the Central African Republic, Democratic Republic of the Congo, Mali, South Sudan and the Western Sahara During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA). The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives. This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honor in 2016. The Secretary-General will also award the \u20182021 Military Gender Advocate of the Year Award\u2019 to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan. Created in 2016, the Award \u201crecognizes the dedication and effort of an",
+  "date": "25 May 2022"
+}

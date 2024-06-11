@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9e07ba91-709b-40fc-bd0b-4674a9df6da4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 52.14910888671875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011841056402772665,
+          "perplexity": 133,
+          "sentence": "Eight months ago we left COP26 with 1.5 on life support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001025224570184946,
+          "perplexity": 53,
+          "sentence": "Greenhouse gas concentrations, sea level rise and ocean heat have broken new records.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009113941923715174,
+          "perplexity": 19,
+          "sentence": "Half of humanity is in the danger zone from floods, droughts, extreme storms and wildfires.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012306425487622619,
+          "perplexity": 23,
+          "sentence": "What troubles me most is that, in facing this global crisis, we are failing to work together as a multilateral community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012474675895646214,
+          "perplexity": 40,
+          "sentence": "Nations continue to play the blame game instead of taking responsibility for our collective future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010223356075584888,
+          "perplexity": 70,
+          "sentence": "We must rebuild trust and come together -- to keep 1.5 alive and to build climate-resilient communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008652155520394444,
+          "perplexity": 22,
+          "sentence": "To protect people and the planet we need an all-of-the-above approach that delivers on each of these pillars of the Paris Agreement -- at pace and at scale.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010146672138944268,
+          "perplexity": 75,
+          "sentence": "We need to demonstrate at COP27 that a renewables revolution is under way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009905097540467978,
+          "perplexity": 63,
+          "sentence": "There is enormous potential for a just energy transition that accelerates coal phase-out with a corresponding deployment of renewables.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013088987907394767,
+          "perplexity": 71,
+          "sentence": "The agreement with South Africa last November sets a good precedent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013946832623332739,
+          "perplexity": 100,
+          "sentence": "Partnerships under discussion with Indonesia and Vietnam are also significant.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014376197941601276,
+          "perplexity": 48,
+          "sentence": "They embody the potential of working together in a multilateral and collaborative spirit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000839887245092541,
+          "perplexity": 33,
+          "sentence": "But let me be clear: these efforts should be additional - not a replacement -- to the support that developing countries need to ensure their transition to a net-zero and climate-resilient future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006249805446714163,
+          "perplexity": 51,
+          "sentence": "I look to the G7 and the G20 to show leadership - on NDCs, on renewables and on working together in good faith.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007094614556990564,
+          "perplexity": 106,
+          "sentence": "Second, we must treat adaptation with the urgency it needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004995437921024859,
+          "perplexity": 12,
+          "sentence": "People in Africa, South Asia and Central and South America are fifteen times more likely to die from extreme weather events.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006041324813850224,
+          "perplexity": 93,
+          "sentence": "Let's ensure universal early warning systems coverage in the next five years, as a start.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000585659989155829,
+          "perplexity": 230,
+          "sentence": "And let's demonstrate how we can double adaptation finance to $40 billion dollars",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Eight months ago we left COP26 with 1.5 on life support. Greenhouse gas concentrations, sea level rise and ocean heat have broken new records. Half of humanity is in the danger zone from floods, droughts, extreme storms and wildfires. What troubles me most is that, in facing this global crisis, we are failing to work together as a multilateral community. Nations continue to play the blame game instead of taking responsibility for our collective future. We must rebuild trust and come together -- to keep 1.5 alive and to build climate-resilient communities. To protect people and the planet we need an all-of-the-above approach that delivers on each of these pillars of the Paris Agreement -- at pace and at scale. We need to demonstrate at COP27 that a renewables revolution is under way. There is enormous potential for a just energy transition that accelerates coal phase-out with a corresponding deployment of renewables. The agreement with South Africa last November sets a good precedent. Partnerships under discussion with Indonesia and Vietnam are also significant. They embody the potential of working together in a multilateral and collaborative spirit. But let me be clear: these efforts should be additional \u2013 not a replacement -- to the support that developing countries need to ensure their transition to a net-zero and climate-resilient future. I look to the G7 and the G20 to show leadership \u2013 on NDCs, on renewables and on working together in good faith. Second, we must treat adaptation with the urgency it needs. People in Africa, South Asia and Central and South America are fifteen times more likely to die from extreme weather events. Let\u2019s ensure universal early warning systems coverage in the next five years, as a start. And let\u2019s demonstrate how we can double adaptation finance to $40 billion dollars",
+  "date": "18 July 2022"
+}

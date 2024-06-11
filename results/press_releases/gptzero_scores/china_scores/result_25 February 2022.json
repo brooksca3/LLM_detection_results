@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2be68d89-515b-442d-9136-82e6e699f01f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.3539924621582,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005232993862591684,
+          "perplexity": 46,
+          "sentence": "Beijing, 25 February 2022 - On Friday, 25 February 2022, the United Nations in China and the Center for International Knowledge on Development (CIKD) jointly organized a salon to discuss the formation process of China's economic policies and the outcomes of the 2021 China Annual Central Economic Work Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006227781414054334,
+          "perplexity": 67,
+          "sentence": "Participants at the salon were provided with an insight into how China's economic policies are formulated, the discussions and outputs seen from the 2021 Central Economic Work Conference, and their implications to the UN's work in China, in relation to the UN Sustainable Development Cooperation Framework for China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000919245823752135,
+          "perplexity": 19,
+          "sentence": "\u201cIn the past year, both China and the world have struggled with the pandemic, which continues to deteriorate the global economy and threaten the realization of the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006515128188766539,
+          "perplexity": 68,
+          "sentence": "But through its successful management of the pandemic, China led the world in economic recovery during 2021,\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000892527517862618,
+          "perplexity": 44,
+          "sentence": "\u201cAfter four decades of rapid growth, China is now transitioning to high-quality development, aiming to address social and environmental challenges while pursuing growth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007144575356505811,
+          "perplexity": 59,
+          "sentence": "Through the conference, China has set the tone for its development in 2022, with many priorities highly relevant to the UN's work in China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005696436855942011,
+          "perplexity": 103,
+          "sentence": "I think it's important and helpful for the UN Country Team in China to have a robust perspective on the Conference.\u201d said Mr. Chatterjee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003287030558567494,
+          "perplexity": 136,
+          "sentence": "After remarks from the Resident Coordinator, participants both in-person at the UN Compound in Beijing and remotely joined the two sharing sessions, on \u201cThe Logic and Process of China's Economic Policy Making\u201d and the \u201cInterpretation of the 2021 Annual Central Economic Working Conference\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003349245525896549,
+          "perplexity": 60,
+          "sentence": "\u201cSince reform and opening-up, China's economic decision-making has been continuously improved and innovated in practice, and the scientific, democratic, and institutionalized nature has been continuously enhanced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036279132473282516,
+          "perplexity": 92,
+          "sentence": "Especially since the 18th National Congress,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 25 February 2022 \u2013 On Friday, 25 February 2022, the United Nations in China and the Center for International Knowledge on Development (CIKD) jointly organized a salon to discuss the formation process of China\u2019s economic policies and the outcomes of the 2021 China Annual Central Economic Work Conference. Participants at the salon were provided with an insight into how China\u2019s economic policies are formulated, the discussions and outputs seen from the 2021 Central Economic Work Conference, and their implications to the UN\u2019s work in China, in relation to the UN Sustainable Development Cooperation Framework for China. \u201cIn the past year, both China and the world have struggled with the pandemic, which continues to deteriorate the global economy and threaten the realization of the Sustainable Development Goals (SDGs). But through its successful management of the pandemic, China led the world in economic recovery during 2021,\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China. \u201cAfter four decades of rapid growth, China is now transitioning to high-quality development, aiming to address social and environmental challenges while pursuing growth. Through the conference, China has set the tone for its development in 2022, with many priorities highly relevant to the UN\u2019s work in China. I think it\u2019s important and helpful for the UN Country Team in China to have a robust perspective on the Conference.\u201d said Mr. Chatterjee. After remarks from the Resident Coordinator, participants both in-person at the UN Compound in Beijing and remotely joined the two sharing sessions, on \u201cThe Logic and Process of China\u2019s Economic Policy Making\u201d and the \u201cInterpretation of the 2021 Annual Central Economic Working Conference\u201d. \u201cSince reform and opening-up, China's economic decision-making has been continuously improved and innovated in practice, and the scientific, democratic, and institutionalized nature has been continuously enhanced. Especially since the 18th National Congress,",
+  "date": "25 February 2022"
+}

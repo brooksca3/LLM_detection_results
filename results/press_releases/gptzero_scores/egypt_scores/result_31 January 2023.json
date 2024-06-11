@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2fbf144b-6aa1-41a2-ae52-70d9f37e80fd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 62.66331481933594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03429528325796127,
+          "perplexity": 28,
+          "sentence": "UNFPA Egypt launched the Guardian Girls Global Karate Project, in partnership with the Koyamada International Foundation (KIF), and the World Karate Federation (WKF) on January 28, to empower girls and young women to overcome gender-based violence through Karate training.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0339900366961956,
+          "perplexity": 50,
+          "sentence": "The project includes a series of self-defense seminars where girls and young women can learn tools to confront situations of violence on January 28-29.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.035845644772052765,
+          "perplexity": 48,
+          "sentence": "This comes as part of the Guardian Girls project, which is the result of a global agreement between UNFPA and KIF in 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03419816493988037,
+          "perplexity": 247,
+          "sentence": "The Guardian Girls project activities have been implemented in several countries in Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03409630060195923,
+          "perplexity": 60,
+          "sentence": "The activities kicked off with a self-defense Karate Seminar by Amy Connell of Scotland, a two-time European Championships medalist, Commonwealth champion, and a specialist in women's empowerment activities, together with two-time World champion and Olympic Games medalist Giana Farouk of Egypt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.032830141484737396,
+          "perplexity": 94,
+          "sentence": "The launch was attended by Minister of Youth and Sports Dr. Ashraf Sobhy, UNFPA Representative in Egypt Frederika Meijer, Ambassador of Japan to Egypt, Oka Hiroshi, President of WFK Antonio Espinos, youth KIF Co-Founder and President Nia Lyte, and President of the Egyptian Karate Federation Mohamed Al Dahrawy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031837403774261475,
+          "perplexity": 39,
+          "sentence": "Lastly, a special demonstration to showcase Karate's social contribution to eradicate Gender-Based Violence will take place at the Cairo International Stadium on Sunday, January 29 during the finals of the Karate 1-Premier League, which is currently taking place in Cairo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02955845184624195,
+          "perplexity": 35,
+          "sentence": "The Koyamada International Foundation is an international non-profit organization founded in 2008 by international celebrity Shin Koyamada and his wife, Nia Lyte.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027663888409733772,
+          "perplexity": 36,
+          "sentence": "With headquarters in Los Angeles and national chapters around the world, KIF manages global initiatives and operations in strategic partnerships with the United Nations and other international organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02682703360915184,
+          "perplexity": 37,
+          "sentence": "UNFPA is the United Nations sexual and reproductive health agency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0316835381090641,
+          "perplexity": 84,
+          "sentence": "UNFPA's mission is to deliver a world where every pregnancy is wanted,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNFPA Egypt launched the Guardian Girls Global Karate Project, in partnership with the Koyamada International Foundation (KIF), and the World Karate Federation (WKF) on January 28, to empower girls and young women to overcome gender-based violence through Karate training. The project includes a series of self-defense seminars where girls and young women can learn tools to confront situations of violence on January 28-29. This comes as part of the Guardian Girls project, which is the result of a global agreement between UNFPA and KIF in 2019. The Guardian Girls project activities have been implemented in several countries in Africa. The activities kicked off with a self-defense Karate Seminar by Amy Connell of Scotland, a two\u2010time European Championships medalist, Commonwealth champion, and a specialist in women\u2019s empowerment activities, together with two\u2010time World champion and Olympic Games medalist Giana Farouk of Egypt. The launch was attended by Minister of Youth and Sports Dr. Ashraf Sobhy, UNFPA Representative in Egypt Frederika Meijer, Ambassador of Japan to Egypt, Oka Hiroshi, President of WFK Antonio Espinos, youth KIF Co-Founder and President Nia Lyte, and President of the Egyptian Karate Federation Mohamed Al Dahrawy. Lastly, a special demonstration to showcase Karate\u2019s social contribution to eradicate Gender\u2010Based Violence will take place at the Cairo International Stadium on Sunday, January 29 during the finals of the Karate 1\u2010Premier League, which is currently taking place in Cairo. The Koyamada International Foundation is an international non\u2010profit organization founded in 2008 by international celebrity Shin Koyamada and his wife, Nia Lyte. With headquarters in Los Angeles and national chapters around the world, KIF manages global initiatives and operations in strategic partnerships with the United Nations and other international organizations. UNFPA is the United Nations sexual and reproductive health agency. UNFPA's mission is to deliver a world where every pregnancy is wanted,",
+  "date": "31 January 2023"
+}

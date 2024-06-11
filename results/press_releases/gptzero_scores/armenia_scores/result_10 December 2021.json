@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8e762bb6-8461-4ce5-986f-3c807d82a9b3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 87.8974609375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000205060830921866,
+          "perplexity": 25,
+          "sentence": "COVID-19 has affected children at an unprecedented scale, making it the worst crisis for children UNICEF has seen in its 75-year history, the United Nations Children's agency said in a report released today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021909354836679995,
+          "perplexity": 35,
+          "sentence": "The report Preventing a lost decade: Urgent action to reverse the devastating impact of COVID-19 on children and young people highlights the various ways in which COVID-19 is challenging decades of progress on key childhood challenges such as poverty, health, access to education, nutrition, child protection and mental well-being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002634444390423596,
+          "perplexity": 76,
+          "sentence": "It warns that, almost two years into the pandemic, the widespread impact of COVID-19 continues to deepen, increasing poverty, entrenching inequality and threatening the rights of children at previously unseen levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022596657800022513,
+          "perplexity": 61,
+          "sentence": "\u201cThroughout our history, UNICEF has helped to shape healthier and safer environments for children across the globe, with great results for millions,\u201d said UNICEF Executive Director Henrietta Fore.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021312820899765939,
+          "perplexity": 331,
+          "sentence": "\u201cThese gains are now at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001963409740710631,
+          "perplexity": 80,
+          "sentence": "The COVID-19 pandemic has been the biggest threat to progress for children in our 75-year history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015819529653526843,
+          "perplexity": 16,
+          "sentence": "While the number of children who are hungry, out of school, abused, living in poverty or forced into marriage is going up, the number of children with access to health care, vaccines, sufficient food and essential services is going down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001642139395698905,
+          "perplexity": 46,
+          "sentence": "In a year in which we should be looking forward, we are going backward.\u201d The report says a staggering 100 million additional children are estimated to now be living in multidimensional poverty because of the pandemic, a 10 per cent increase since 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018089334480464458,
+          "perplexity": 81,
+          "sentence": "This corresponds to approximately 1.8 children every second since mid-March, 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001853386202128604,
+          "perplexity": 37,
+          "sentence": "Further, the report warns of a long path toward regaining lost ground - even in a best-case scenario, it will take seven to eight years to recover and return to pre-COVID child poverty levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017123142606578767,
+          "perplexity": 35,
+          "sentence": "Citing further evidence of backsliding, the report says that",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "COVID-19 has affected children at an unprecedented scale, making it the worst crisis for children UNICEF has seen in its 75-year history, the United Nations Children\u2019s agency said in a report released today. The report Preventing a lost decade: Urgent action to reverse the devastating impact of COVID-19 on children and young people highlights the various ways in which COVID-19 is challenging decades of progress on key childhood challenges such as poverty, health, access to education, nutrition, child protection and mental well-being. It warns that, almost two years into the pandemic, the widespread impact of COVID-19 continues to deepen, increasing poverty, entrenching inequality and threatening the rights of children at previously unseen levels. \u201cThroughout our history, UNICEF has helped to shape healthier and safer environments for children across the globe, with great results for millions,\u201d said UNICEF Executive Director Henrietta Fore. \u201cThese gains are now at risk. The COVID-19 pandemic has been the biggest threat to progress for children in our 75-year history. While the number of children who are hungry, out of school, abused, living in poverty or forced into marriage is going up, the number of children with access to health care, vaccines, sufficient food and essential services is going down. In a year in which we should be looking forward, we are going backward.\u201d The report says a staggering 100 million additional children are estimated to now be living in multidimensional poverty because of the pandemic, a 10 per cent increase since 2019. This corresponds to approximately 1.8 children every second since mid-March, 2020. Further, the report warns of a long path toward regaining lost ground \u2013 even in a best-case scenario, it will take seven to eight years to recover and return to pre-COVID child poverty levels. Citing further evidence of backsliding, the report says that",
+  "date": "10 December 2021"
+}

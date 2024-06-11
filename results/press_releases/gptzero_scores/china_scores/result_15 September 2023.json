@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "179a9148-c30e-492e-b070-da314f3dcd62",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.78466033935547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002400683588348329,
+          "perplexity": 26,
+          "sentence": "BEIJING, 15 September - The United Nations (UN) in China and the Center for China and Globalization (CCG) cohosted a seminar yesterday at the CCG Headquarters in Beijing titled \u201cAccelerating progress towards the 2030 Agenda: China's Progress, Challenges, and Path Forward\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002410307206446305,
+          "perplexity": 27,
+          "sentence": "The seminar was organized ahead of the upcoming 2023 SDG Summit taking place on 18-19 September 2023 in New York, with the aim to galvanize local momentum in China and mark the beginning of a new phase of accelerated progress towards the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023057749785948545,
+          "perplexity": 37,
+          "sentence": "Against the background of exacerbating global challenges and at the midpoint of the 2030 deadline for achieving the SDGs, the event sought to provide a platform for discussions on China's progress and challenges and to establish a roadmap for the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022419265587814152,
+          "perplexity": 88,
+          "sentence": "The outcomes of the discussions at the seminar will be transmitted to UN Headquarters as an informal input to the 2023 SDG Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020296237198635936,
+          "perplexity": 63,
+          "sentence": "During his remarks at the seminar, UN Resident Coordinator Siddharth Chatterjee said, \u201cThe UN family has a Cooperation Framework with China, to ensure that around its three pillars of People and Prosperity, Planet and Partnerships, we do everything possible to make sure the country can be a best-in-class exemplar in the achievement of the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002228772355010733,
+          "perplexity": 25,
+          "sentence": "At the same time, we use our knowledge to push for more South-South cooperation and North-South collaboration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023874695762060583,
+          "perplexity": 44,
+          "sentence": "Ultimately, it is about resurrecting the spirit of multilateralism.\u201d In the context of the upcoming SDG Summit, the seminar sought to identify the key transformative actions and commitments that China could take and the need to fully align these efforts with the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023118351236917078,
+          "perplexity": 46,
+          "sentence": "During his remarks at the seminar, Dr. Henry Huiyao Wang, President of CCG, said, \u201cDue to the multiple interacting crises, climate change, poverty, inequality, and conflicts, the world is facing a critical moment to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 15 September \u2013 The United Nations (UN) in China and the Center for China and Globalization (CCG) cohosted a seminar yesterday at the CCG Headquarters in Beijing titled \u201cAccelerating progress towards the 2030 Agenda: China\u2019s Progress, Challenges, and Path Forward\u201d. The seminar was organized ahead of the upcoming 2023 SDG Summit taking place on 18-19 September 2023 in New York, with the aim to galvanize local momentum in China and mark the beginning of a new phase of accelerated progress towards the Sustainable Development Goals (SDGs). Against the background of exacerbating global challenges and at the midpoint of the 2030 deadline for achieving the SDGs, the event sought to provide a platform for discussions on China\u2019s progress and challenges and to establish a roadmap for the future. The outcomes of the discussions at the seminar will be transmitted to UN Headquarters as an informal input to the 2023 SDG Summit. During his remarks at the seminar, UN Resident Coordinator Siddharth Chatterjee said, \u201cThe UN family has a Cooperation Framework with China, to ensure that around its three pillars of People and Prosperity, Planet and Partnerships, we do everything possible to make sure the country can be a best-in-class exemplar in the achievement of the SDGs. At the same time, we use our knowledge to push for more South-South cooperation and North-South collaboration. Ultimately, it is about resurrecting the spirit of multilateralism.\u201d In the context of the upcoming SDG Summit, the seminar sought to identify the key transformative actions and commitments that China could take and the need to fully align these efforts with the SDGs. During his remarks at the seminar, Dr. Henry Huiyao Wang, President of CCG, said, \u201cDue to the multiple interacting crises, climate change, poverty, inequality, and conflicts, the world is facing a critical moment to",
+  "date": "15 September 2023"
+}

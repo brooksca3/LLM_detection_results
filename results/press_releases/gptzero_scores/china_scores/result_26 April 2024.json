@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed23555e-3237-4e1e-9345-597ca7f11147",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.41983985900879,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015282048843801022,
+          "perplexity": 15,
+          "sentence": "BANGKOK, 26 April - On Wednesday, the United Nations (UN) in China, the China International Development Cooperation Agency (CIDCA) and the Permanent Mission of the People's Republic of China to the UN Economic and Social Commission of Asia and the Pacific (ESCAP), co-hosted a dialogue to raise the need for renewed efforts to deliver on the Sustainable Development Goals (SDGs) and inform deliberations for the upcoming Summit of the Future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014647736679762602,
+          "perplexity": 45,
+          "sentence": "The dialogue, a side event of the 80th session of ESCAP held in Bangkok, Thailand, saw the participation of representatives from the Government of China, Member and Associate Members of ESCAP, UN entities, academia, development partners, foundations, research institutes and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001437444007024169,
+          "perplexity": 24,
+          "sentence": "In highlighting perspectives from the Asia Pacific region on the current state of progress on the SDGs, it is intended for the dialogue in Bangkok to be one of a series of events ahead of the Summit of the Future to be convened by the UN Secretary-General this September, a once-in-a-generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001422667846782133,
+          "perplexity": 97,
+          "sentence": "During her remarks, UN Under-Secretary-General and Executive Secretary of ESCAP, Ms. Armida Salsiah Alisjahbana, said, \"With a changing donor landscape and new emerging donors, we need to adapt partnerships towards more integrated, effective, and networked development cooperation strategies.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000144905352499336,
+          "perplexity": 72,
+          "sentence": "During his remarks, UN Resident Coordinator in China, Mr. Siddharth Chatterjee, said, \u201cOur dialogue today serves as part of our concerted efforts to better inform this Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014225635095499456,
+          "perplexity": 54,
+          "sentence": "The purpose of these engagements, including today's event with our two co-hosts, is to forge mutual understanding, establish and consolidate partnerships, and mobilize much-needed resources for the SDGs.\u201d With current ESCAP estimates putting the achievement of the SDGs more than three decades behind schedule in Asia and the Pacific,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BANGKOK, 26 April \u2013 On Wednesday, the United Nations (UN) in China, the China International Development Cooperation Agency (CIDCA) and the Permanent Mission of the People\u2019s Republic of China to the UN Economic and Social Commission of Asia and the Pacific (ESCAP), co-hosted a dialogue to raise the need for renewed efforts to deliver on the Sustainable Development Goals (SDGs) and inform deliberations for the upcoming Summit of the Future. The dialogue, a side event of the 80th session of ESCAP held in Bangkok, Thailand, saw the participation of representatives from the Government of China, Member and Associate Members of ESCAP, UN entities, academia, development partners, foundations, research institutes and the private sector. In highlighting perspectives from the Asia Pacific region on the current state of progress on the SDGs, it is intended for the dialogue in Bangkok to be one of a series of events ahead of the Summit of the Future to be convened by the UN Secretary-General this September, a once-in-a-generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system. During her remarks, UN Under-Secretary-General and Executive Secretary of ESCAP, Ms. Armida Salsiah Alisjahbana, said, \"With a changing donor landscape and new emerging donors, we need to adapt partnerships towards more integrated, effective, and networked development cooperation strategies.\" During his remarks, UN Resident Coordinator in China, Mr. Siddharth Chatterjee, said, \u201cOur dialogue today serves as part of our concerted efforts to better inform this Summit. The purpose of these engagements, including today\u2019s event with our two co-hosts, is to forge mutual understanding, establish and consolidate partnerships, and mobilize much-needed resources for the SDGs.\u201d With current ESCAP estimates putting the achievement of the SDGs more than three decades behind schedule in Asia and the Pacific,",
+  "date": "26 April 2024"
+}

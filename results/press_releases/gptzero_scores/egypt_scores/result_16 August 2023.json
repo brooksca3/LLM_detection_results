@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f09e48f9-ee00-433f-92e2-37ef244c02a7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.37265396118164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.17671795189380646,
+          "perplexity": 46,
+          "sentence": "Cairo, August 16, 2023 - The Egyptian Ministry of Youth and Sports and the United Nations in Egypt and joined forces on 14 August 2023, to mark the International Youth Day in the Olympic City in Maadi, with a resounding call to action under the theme \"Green Skills for Youth: Towards a Sustainable World.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21127066016197205,
+          "perplexity": 40,
+          "sentence": "The event served as a vibrant platform to underscore the critical role of youth in creating a better and more sustainable world for all on a healthier planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19273719191551208,
+          "perplexity": 38,
+          "sentence": "The youth-led celebration was attended by representatives from the Ministry of Youth and Sports, UN system in Egypt with the participation of 200 Egyptian and non-Egyptian young women and men, who engaged in different activities designed to highlight the urgency of equipping youth with indispensable green skills in the face of pressing environmental challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1793079823255539,
+          "perplexity": 37,
+          "sentence": "The event started with a joint-video message from the Egyptian Minister of Youth and Sports, Dr. Ashraf Sobhy, and the United Nations Resident Coordinator in Egypt, Ms. Elena Panova, that reflected a shared commitment to empower the younger generation with essential skills that will be pivotal in shaping a greener and more sustainable global landscape.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20023149251937866,
+          "perplexity": 85,
+          "sentence": "\"Our National Youth Strategy places paramount emphasis on fostering technological innovation, economic empowerment, and entrepreneurship.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1590166538953781,
+          "perplexity": 61,
+          "sentence": "We are equally committed to the principles of environmental sustainability, health, community engagement, and effective governance, all of which converge to shape a prosperous and skilled young populace in Egypt,\u201d the Minister of Youth and Sports, Dr. Ashraf Sobhy reaffirmed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09682904183864594,
+          "perplexity": 156,
+          "sentence": "Echoing this sentiment, the UN Resident Coordinator in Egypt, Ms. Elena Panova said, \u201cnobody has a greater stake \u1173 and more bold solutions to offer \u1173 than young people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08871863782405853,
+          "perplexity": 36,
+          "sentence": "Young people want their voices to be heard on the existential issues our world is facing today, from conflicts and climate chaos, to poverty, inequality,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo, August 16, 2023 - The Egyptian Ministry of Youth and Sports and the United Nations in Egypt and joined forces on 14 August 2023, to mark the International Youth Day in the Olympic City in Maadi, with a resounding call to action under the theme \"Green Skills for Youth: Towards a Sustainable World.\" The event served as a vibrant platform to underscore the critical role of youth in creating a better and more sustainable world for all on a healthier planet. The youth-led celebration was attended by representatives from the Ministry of Youth and Sports, UN system in Egypt with the participation of 200 Egyptian and non-Egyptian young women and men, who engaged in different activities designed to highlight the urgency of equipping youth with indispensable green skills in the face of pressing environmental challenges. The event started with a joint-video message from the Egyptian Minister of Youth and Sports, Dr. Ashraf Sobhy, and the United Nations Resident Coordinator in Egypt, Ms. Elena Panova, that reflected a shared commitment to empower the younger generation with essential skills that will be pivotal in shaping a greener and more sustainable global landscape. \"Our National Youth Strategy places paramount emphasis on fostering technological innovation, economic empowerment, and entrepreneurship. We are equally committed to the principles of environmental sustainability, health, community engagement, and effective governance, all of which converge to shape a prosperous and skilled young populace in Egypt,\u201d the Minister of Youth and Sports, Dr. Ashraf Sobhy reaffirmed. Echoing this sentiment, the UN Resident Coordinator in Egypt, Ms. Elena Panova said, \u201cnobody has a greater stake \u2014 and more bold solutions to offer \u2014 than young people. Young people want their voices to be heard on the existential issues our world is facing today, from conflicts and climate chaos, to poverty, inequality,",
+  "date": "16 August 2023"
+}

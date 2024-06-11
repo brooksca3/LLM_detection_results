@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "735cf45f-3fc0-4053-bfeb-bf912a134cc2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 111.07633209228516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007590841851197183,
+          "perplexity": 131,
+          "sentence": "The expert met with farmers grouped in commodity-based advisory platforms, which are the part of the new agricultural advisory services model proposed by the Project to the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007875204319134355,
+          "perplexity": 57,
+          "sentence": "During the meetings in Agstafa, Samukh, and Shamkir regions - sorghum and sunflower fields, tomato greenhouses, apple, cherry and plum orchards in Guba region, and tomato fields in Khachmaz region, it was noticed that most of the farmers' problems were caused by not using professional agronomist's advice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000663190265186131,
+          "perplexity": 46,
+          "sentence": "\"Unfortunately, today in Samukh district where farmers can sow 4 kg of certified sunflower seeds per hectare, while sowing 14 kg of uncertified seeds per hectare, they increase their costs more than 3 times\" - Huseyn Idrisov, Associate Professor of the Department of Horticulture of Azerbaijan State Agrarian University said who was involved as agronomist expert of the project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005684103816747665,
+          "perplexity": 93,
+          "sentence": "The agronomist noted that apple orchards in Guba were replaced by cherry orchards without taking into account climate and soil factors, fertilizers and elements were used without soil analysis: \"On the sour cherry based advisory platform the farmer gave the iron element to the soil without analysis, and as a result of the analysis, it was determined that this element exceeds normal indicator 7 times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000522746006026864,
+          "perplexity": 163,
+          "sentence": "The owner of the orchard explained it by the opportunity to buy this element at an affordable price\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004229515907354653,
+          "perplexity": 83,
+          "sentence": "It was also noted that the cases such as non-planting of pollinated varieties in sour cherry orchards, not thinning of flowers during flowering, frequent inter-row plowing in apple orchards and, as a result, drying the roots of the trees earlier, improper use of water, non-compliance with pruning rules show that the farmers treat their farms with the spontaneous habits, not informed skills.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002975198731292039,
+          "perplexity": 369,
+          "sentence": "At the meeting of the open field tomatoes` advisory platform in Khachmaz the development of seed production of the local tomato",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The expert met with farmers grouped in commodity-based advisory platforms, which are the part of the new agricultural advisory services model proposed by the Project to the country. During the meetings in Agstafa, Samukh, and Shamkir regions - sorghum and sunflower fields, tomato greenhouses, apple, cherry and plum orchards in Guba region, and tomato fields in Khachmaz region, it was noticed that most of the farmers' problems were caused by not using professional agronomist's advice. \"Unfortunately, today in Samukh district where farmers can sow 4 kg of certified sunflower seeds per hectare, while sowing 14 kg of uncertified seeds per hectare, they increase their costs more than 3 times\" - Huseyn Idrisov, Associate Professor of the Department of Horticulture of Azerbaijan State Agrarian University said who was involved as agronomist expert of the project. The agronomist noted that apple orchards in Guba were replaced by cherry orchards without taking into account climate and soil factors, fertilizers and elements were used without soil analysis: \"On the sour cherry based advisory platform the farmer gave the iron element to the soil without analysis, and as a result of the analysis, it was determined that this element exceeds normal indicator 7 times. The owner of the orchard explained it by the opportunity to buy this element at an affordable price\u201d. It was also noted that the cases such as non-planting of pollinated varieties in sour cherry orchards, not thinning of flowers during flowering, frequent inter-row plowing in apple orchards and, as a result, drying the roots of the trees earlier, improper use of water, non-compliance with pruning rules show that the farmers treat their farms with the spontaneous habits, not informed skills. At the meeting of the open field tomatoes` advisory platform in Khachmaz the development of seed production of the local tomato",
+  "date": "31 March 2022"
+}

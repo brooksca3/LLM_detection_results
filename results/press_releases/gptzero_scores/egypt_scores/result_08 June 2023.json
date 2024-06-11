@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d06262d6-b681-4760-8115-65d0662e9b67",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.823833465576172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003444116155151278,
+          "perplexity": 39,
+          "sentence": "It supplies the air we breathe and food we eat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028564236708916724,
+          "perplexity": 73,
+          "sentence": "Its resources sustain communities, prosperity and human health around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000307409034576267,
+          "perplexity": 23,
+          "sentence": "Human-induced climate change is heating our planet, disrupting weather patterns and ocean currents, and altering marine ecosystems and the species living there.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002638418518472463,
+          "perplexity": 13,
+          "sentence": "Marine biodiversity is under attack from overfishing, over-exploitation and ocean acidification.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028969094273634255,
+          "perplexity": 29,
+          "sentence": "Over one-third of fish stocks are being harvested at unsustainable levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003073935804422945,
+          "perplexity": 32,
+          "sentence": "And we are polluting our coastal waters with chemicals, plastics and human waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002950119669549167,
+          "perplexity": 28,
+          "sentence": "But this year's World Oceans Day reminds us that the tides are changing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002532065554987639,
+          "perplexity": 35,
+          "sentence": "Last year, we adopted an ambitious global target to conserve and manage 30 per cent of land and marine and coastal areas by 2030, as well as a landmark agreement on fisheries subsidies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002608195645734668,
+          "perplexity": 70,
+          "sentence": "At the UN Ocean Conference in Lisbon, the world agreed to push for more positive ocean action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002698902681004256,
+          "perplexity": 59,
+          "sentence": "A global, legally binding agreement to end plastic pollution is under negotiation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002553577651269734,
+          "perplexity": 58,
+          "sentence": "And in March, countries agreed to the historic High Seas Treaty on the conservation and sustainable use of marine biodiversity in areas beyond national jurisdiction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031387817580252886,
+          "perplexity": 114,
+          "sentence": "Realizing the great promise of these initiatives requires collective commitment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035460179788060486,
+          "perplexity": 108,
+          "sentence": "Sustainable Development Goal 14 \u1173 to conserve and sustainably use the ocean's resources \u1173 hangs in the balance.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "It supplies the air we breathe and food we eat. Its resources sustain communities, prosperity and human health around the world. Human-induced climate change is heating our planet, disrupting weather patterns and ocean currents, and altering marine ecosystems and the species living there. Marine biodiversity is under attack from overfishing, over-exploitation and ocean acidification. Over one-third of fish stocks are being harvested at unsustainable levels. And we are polluting our coastal waters with chemicals, plastics and human waste. But this year\u2019s World Oceans Day reminds us that the tides are changing. Last year, we adopted an ambitious global target to conserve and manage 30 per cent of land and marine and coastal areas by 2030, as well as a landmark agreement on fisheries subsidies. At the UN Ocean Conference in Lisbon, the world agreed to push for more positive ocean action. A global, legally binding agreement to end plastic pollution is under negotiation. And in March, countries agreed to the historic High Seas Treaty on the conservation and sustainable use of marine biodiversity in areas beyond national jurisdiction. Realizing the great promise of these initiatives requires collective commitment. Sustainable Development Goal 14 \u2014 to conserve and sustainably use the ocean\u2019s resources \u2014 hangs in the balance.",
+  "date": "08 June 2023"
+}

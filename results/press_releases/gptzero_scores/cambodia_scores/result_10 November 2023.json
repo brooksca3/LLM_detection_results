@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "acbb38d6-c449-45b4-8713-6cbfe132c152",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.970428466796875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03613007813692093,
+          "perplexity": 67,
+          "sentence": "Phnom Penh, November 10, 2023, with endorsement by Samdech Moha Borvor Thipadei HUN MANET, Prime Minister of the Kingdom of Cambodia, Dr. Chhieng Yanara, Senior Minister and Second Vice-Chairman of the Council for the Development of Cambodia, together with his counterpart Mr. Jo Scheuer, United Nations Resident Coordinator (UNRC) signed the United Nations Sustainable Development Cooperation Framework for Cambodia (Cooperation Framework) 2024-2028 at the Council for the Development of Cambodia (CDC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.052447520196437836,
+          "perplexity": 30,
+          "sentence": "The ceremony was attended by senior representatives of the relevant line ministries and institutions of the Royal Government of Cambodia (RGC) and representatives of the United Nations system in Cambodia, with a total of 60 participants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05108834058046341,
+          "perplexity": 75,
+          "sentence": "The Cooperation Framework serves as the strategic document that provides guidance to the UN system at the country level, enabling the UN Country Team (UNCT) to effectively support the Royal Government of Cambodia in contributing to national development priorities as articulated in the Pentagonal Strategy - Phase I and making significant progress towards the Cambodian Sustainable Development Goals (CSDGs), LDC Graduation, and Cambodia's vision 2050.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.047866396605968475,
+          "perplexity": 29,
+          "sentence": "The Cooperation Framework was formulated through a series of consultations between the RGC and the UN Country Team, in addition to consultations with development partners, civil society organizations, the private sector, and youth representatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04232066497206688,
+          "perplexity": 105,
+          "sentence": "As a result, this Cooperation Framework 2024-2028 was endorsed, in principle, at the successful Validation Workshop on September 21, 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04575769975781441,
+          "perplexity": 41,
+          "sentence": "A Joint Steering Committee, co-chaired by the Second-Vice Chairman of CDC and UNRC, will be established to monitor the implementation of this cooperation framework, provide strategic direction, and coordinate the implementation between relevant ministries/institutions of the Royal Government of Cambodia and all key stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05685187876224518,
+          "perplexity": 83,
+          "sentence": "While the signing of the framework marks a significant milestone, the success of this strategic development policy lies ahead in the implementation and requires active engagement by government institutions, sustained",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Phnom Penh, November 10, 2023, with endorsement by Samdech Moha Borvor Thipadei HUN MANET, Prime Minister of the Kingdom of Cambodia, Dr. Chhieng Yanara, Senior Minister and Second Vice-Chairman of the Council for the Development of Cambodia, together with his counterpart Mr. Jo Scheuer, United Nations Resident Coordinator (UNRC) signed the United Nations Sustainable Development Cooperation Framework for Cambodia (Cooperation Framework) 2024-2028 at the Council for the Development of Cambodia (CDC). The ceremony was attended by senior representatives of the relevant line ministries and institutions of the Royal Government of Cambodia (RGC) and representatives of the United Nations system in Cambodia, with a total of 60 participants. The Cooperation Framework serves as the strategic document that provides guidance to the UN system at the country level, enabling the UN Country Team (UNCT) to effectively support the Royal Government of Cambodia in contributing to national development priorities as articulated in the Pentagonal Strategy \u2013 Phase I and making significant progress towards the Cambodian Sustainable Development Goals (CSDGs), LDC Graduation, and Cambodia\u2019s vision 2050. The Cooperation Framework was formulated through a series of consultations between the RGC and the UN Country Team, in addition to consultations with development partners, civil society organizations, the private sector, and youth representatives. As a result, this Cooperation Framework 2024-2028 was endorsed, in principle, at the successful Validation Workshop on September 21, 2023. A Joint Steering Committee, co-chaired by the Second-Vice Chairman of CDC and UNRC, will be established to monitor the implementation of this cooperation framework, provide strategic direction, and coordinate the implementation between relevant ministries/institutions of the Royal Government of Cambodia and all key stakeholders. While the signing of the framework marks a significant milestone, the success of this strategic development policy lies ahead in the implementation and requires active engagement by government institutions, sustained",
+  "date": "10 November 2023"
+}

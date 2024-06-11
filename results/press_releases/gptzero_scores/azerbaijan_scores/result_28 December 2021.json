@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "805bc9e1-f29a-4b24-b8d7-d2257d3964e7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012456702985317349,
+        "human": 0.9869949344111022,
+        "mixed": 0.0005483626035804014
+      },
+      "completely_generated_prob": 0.012456702985317349,
+      "confidence_category": "high",
+      "confidence_score": 0.9869949344111022,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012456702985317349,
+          "human": 0.9869949344111022,
+          "mixed": 0.0005483626035804014
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 62.85842514038086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001681076013483107,
+          "perplexity": 82,
+          "sentence": "The survey was conducted among 1031 respondents across all regions of Azerbaijan in November with the technical support of WHO experts in collaboration with Public Health and Reforms Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015215591993182898,
+          "perplexity": 78,
+          "sentence": "The purpose of this study was to conduct monitoring of COVID-19 and vaccination risk perception, behavioural and other factors over time and to assess the relations between them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016599170630797744,
+          "perplexity": 193,
+          "sentence": "The survey also assessed disruption of the essential health services during pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015420634299516678,
+          "perplexity": 166,
+          "sentence": "Results of the survey were presented by the WHO experts Martha Scherzer and Ardita Tahirukaj.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016172981122508645,
+          "perplexity": 198,
+          "sentence": "The survey will help decision-makers tailor COVID-19-response strategies, identify key areas to focus on and select messages to communicate for encouraging collective behaviour change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015435612294822931,
+          "perplexity": 70,
+          "sentence": "According to the survey results, health workers remain the most trusted source of information about COVID-19 and vaccination while the rate of those who feel the virus is media-hyped accounts for only 7% which is 5% lower than August.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001493218238465488,
+          "perplexity": 70,
+          "sentence": "The share of respondents that think current restrictions are greatly exaggerated remains roughly unchanged from August, with 23% strongly agree, meanwhile 52% strongly disagree with restrictions being exaggerated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016443789936602116,
+          "perplexity": 66,
+          "sentence": "89% of respondents report having been vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013415131252259016,
+          "perplexity": 45,
+          "sentence": "Among those unvaccinated, fewer than 5% reported that they would definitely not get vaccinated, whereas the share of undecided respondents increased to 35% compare to August (25 %).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012896746629849076,
+          "perplexity": 34,
+          "sentence": "Regarding the continuity of essential health services, about 20% of respondents reported that they postponed healthcare in general and about 22% of respondents were not able to obtain the needed medicines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011857281206175685,
+          "perplexity": 20,
+          "sentence": "Respondents with a chronic disease compared to respondents without a chronic disease were 3.5 times more likely to need care, almost twice as likely to postpone the needed care, about twice as likely to report increase in expenses for healthcare.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012913572136312723,
+          "perplexity": 28,
+          "sentence": "Respondents with worsened income (compared to previous periods in their life) were 3.5 times more likely to need care,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The survey was conducted among 1031 respondents across all regions of Azerbaijan in November with the technical support of WHO experts in collaboration with Public Health and Reforms Center. The purpose of this study was to conduct monitoring of COVID-19 and vaccination risk perception, behavioural and other factors over time and to assess the relations between them. The survey also assessed disruption of the essential health services during pandemic. Results of the survey were presented by the WHO experts Martha Scherzer and Ardita Tahirukaj. The survey will help decision-makers tailor COVID-19-response strategies, identify key areas to focus on and select messages to communicate for encouraging collective behaviour change. According to the survey results, health workers remain the most trusted source of information about COVID-19 and vaccination while the rate of those who feel the virus is media-hyped accounts for only 7% which is 5% lower than August. The share of respondents that think current restrictions are greatly exaggerated remains roughly unchanged from August, with 23% strongly agree, meanwhile 52% strongly disagree with restrictions being exaggerated. 89% of respondents report having been vaccinated. Among those unvaccinated, fewer than 5% reported that they would definitely not get vaccinated, whereas the share of undecided respondents increased to 35% compare to August (25 %). Regarding the continuity of essential health services, about 20% of respondents reported that they postponed healthcare in general and about 22% of respondents were not able to obtain the needed medicines. Respondents with a chronic disease compared to respondents without a chronic disease were 3.5 times more likely to need care, almost twice as likely to postpone the needed care, about twice as likely to report increase in expenses for healthcare. Respondents with worsened income (compared to previous periods in their life) were 3.5 times more likely to need care,",
+  "date": "28 December 2021"
+}

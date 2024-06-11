@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7d555647-92d0-4991-a440-96a9f6ec370b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047255511555901,
+        "human": 0.9688736085837036,
+        "mixed": 0.0006538363007373658
+      },
+      "completely_generated_prob": 0.03047255511555901,
+      "confidence_category": "high",
+      "confidence_score": 0.9688736085837036,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047255511555901,
+          "human": 0.9688736085837036,
+          "mixed": 0.0006538363007373658
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.41790008544922,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.031645119190216064,
+          "perplexity": 32,
+          "sentence": "The initiative aims to expand investments and enhance solutions to support the countries of this sub-region in the transformation of agriculture to adapt to climate change and improve food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013498430140316486,
+          "perplexity": 35,
+          "sentence": "Placencia, Belize, June 27, 2023 - The Food and Agriculture Organization of the United Nations (FAO) and the Central American Integration System (SICA) signed an unprecedented Framework Cooperation Agreement whose main objective is to jointly support the transformation of agrifood systems in the countries of the dry corridor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013718893751502037,
+          "perplexity": 31,
+          "sentence": "This agreement enhances collaboration and joint efforts between FAO and SICA to promote economic, social, environmental, and cultural determinants of food and nutritional security in SICA member countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01170019805431366,
+          "perplexity": 18,
+          "sentence": "It also seeks to facilitate the exchange of knowledge and experience on issues such as resilient agriculture, climate change, and sustainable management of natural resources (including water, land, forests, and biodiversity).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007411617785692215,
+          "perplexity": 33,
+          "sentence": "In this context, FAO Assistant Director-General and Regional Representative for Latin America and the Caribbean, Mario Lubetkin, spoke at the LVII Ordinary Meeting of Heads of State and Government of the Central American Integration System, held in Placencia, Belize.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007140341214835644,
+          "perplexity": 27,
+          "sentence": "During his speech, Lubetkin stressed the importance of organizations such as FAO being able to work in coordination with member states and thus work together to address the impact that hunger, malnutrition, and poverty have caused in nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005067902617156506,
+          "perplexity": 56,
+          "sentence": "In addition, the FAO Assistant Director-General stressed that \"food security and nutrition have been consolidated as central axes in the development agendas of all regions of the world with notable actions that demand us to promote greater joint cooperation, through an open and permanent dialogue.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0052425554022192955,
+          "perplexity": 158,
+          "sentence": "In this line, Lubetkin highlighted the agreement reached between FAO and SICA, ensuring that \"this agreement adds cooperation efforts to expand investments and sustainable solutions in the large territory of the Dry Corridor, supporting countries in the transformation of agriculture, to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The initiative aims to expand investments and enhance solutions to support the countries of this sub-region in the transformation of agriculture to adapt to climate change and improve food security. Placencia, Belize, June 27, 2023 \u2013 The Food and Agriculture Organization of the United Nations (FAO) and the Central American Integration System (SICA) signed an unprecedented Framework Cooperation Agreement whose main objective is to jointly support the transformation of agrifood systems in the countries of the dry corridor. This agreement enhances collaboration and joint efforts between FAO and SICA to promote economic, social, environmental, and cultural determinants of food and nutritional security in SICA member countries. It also seeks to facilitate the exchange of knowledge and experience on issues such as resilient agriculture, climate change, and sustainable management of natural resources (including water, land, forests, and biodiversity). In this context, FAO Assistant Director-General and Regional Representative for Latin America and the Caribbean, Mario Lubetkin, spoke at the LVII Ordinary Meeting of Heads of State and Government of the Central American Integration System, held in Placencia, Belize. During his speech, Lubetkin stressed the importance of organizations such as FAO being able to work in coordination with member states and thus work together to address the impact that hunger, malnutrition, and poverty have caused in nations. In addition, the FAO Assistant Director-General stressed that \"food security and nutrition have been consolidated as central axes in the development agendas of all regions of the world with notable actions that demand us to promote greater joint cooperation, through an open and permanent dialogue.\" In this line, Lubetkin highlighted the agreement reached between FAO and SICA, ensuring that \"this agreement adds cooperation efforts to expand investments and sustainable solutions in the large territory of the Dry Corridor, supporting countries in the transformation of agriculture, to",
+  "date": "28 June 2023"
+}

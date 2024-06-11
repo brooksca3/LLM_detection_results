@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "95f3e3c8-f0e3-4060-bddb-66f58c76c47d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.97637939453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013171377941034734,
+          "perplexity": 59,
+          "sentence": "Beijing, 18 February 2022 - The United Nations in China convened a briefing yesterday afternoon to update Member States on recent progress with the work of the UN in China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001236505340784788,
+          "perplexity": 44,
+          "sentence": "More than 100 countries took part in the event online or in person, most at the Ambassador and Chief of Mission level, with 46 Ambassadors and Chiefs of Mission attending the briefing in person at the UN Compound in Beijing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001265020837308839,
+          "perplexity": 35,
+          "sentence": "The agenda at the briefing covered the recent visit of the UN Secretary-General, Mr. Ant\u00f3nio Guterres, to Beijing on the occasion of the XXIV Olympic Winter Games, the FOCAC follow-up symposium held as a joint event with the African Ambassadors Group in China on 18 January, and an update on recent discussions with the Host Country on the governance and monitoring of the Cooperation Framework implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011909261957043782,
+          "perplexity": 26,
+          "sentence": "\u201cIn line with the UN Secretary-General's reforms of the UN's development system, the UN in China is working hard towards fulfilling its responsibility to be 'fit for purpose' to support China in its development aspirations and achieve the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011692570114973933,
+          "perplexity": 31,
+          "sentence": "Through China's Global Development Initiative (GDI), we see enormous opportunities to leverage its resources, expertise, knowledge and experiences beyond its national borders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011866365821333602,
+          "perplexity": 82,
+          "sentence": "The COVID-19 pandemic has adversely affected the development gains the world has made, and I feel the GDI has great potential to accelerate the SDGs in the developing world.\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012322478869464248,
+          "perplexity": 21,
+          "sentence": "During his visit, the UN Secretary-General met with H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011760634515667334,
+          "perplexity": 12,
+          "sentence": "Mr. Xi Jinping, President of the People's Republic of China, and expressed the wish for enhanced cooperation between the United Nations and the People's Republic of China in all the pillars of the Organization's work - peace and security, sustainable development, including climate change and biodiversity, and human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013208971358835697,
+          "perplexity": 14,
+          "sentence": "H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001321548334090039,
+          "perplexity": 93,
+          "sentence": "Mr. Abdallah Abdillahi",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 18 February 2022 \u2013 The United Nations in China convened a briefing yesterday afternoon to update Member States on recent progress with the work of the UN in China. More than 100 countries took part in the event online or in person, most at the Ambassador and Chief of Mission level, with 46 Ambassadors and Chiefs of Mission attending the briefing in person at the UN Compound in Beijing. The agenda at the briefing covered the recent visit of the UN Secretary-General, Mr. Ant\u00f3nio Guterres, to Beijing on the occasion of the XXIV Olympic Winter Games, the FOCAC follow-up symposium held as a joint event with the African Ambassadors Group in China on 18 January, and an update on recent discussions with the Host Country on the governance and monitoring of the Cooperation Framework implementation. \u201cIn line with the UN Secretary-General\u2019s reforms of the UN\u2019s development system, the UN in China is working hard towards fulfilling its responsibility to be \u2018fit for purpose\u2019 to support China in its development aspirations and achieve the Sustainable Development Goals (SDGs). Through China\u2019s Global Development Initiative (GDI), we see enormous opportunities to leverage its resources, expertise, knowledge and experiences beyond its national borders. The COVID-19 pandemic has adversely affected the development gains the world has made, and I feel the GDI has great potential to accelerate the SDGs in the developing world.\u201d said Mr. Siddharth Chatterjee, UN Resident Coordinator in China. During his visit, the UN Secretary-General met with H.E. Mr. Xi Jinping, President of the People's Republic of China, and expressed the wish for enhanced cooperation between the United Nations and the People\u2019s Republic of China in all the pillars of the Organization\u2019s work \u2013 peace and security, sustainable development, including climate change and biodiversity, and human rights. H.E. Mr. Abdallah Abdillahi",
+  "date": "18 February 2022"
+}

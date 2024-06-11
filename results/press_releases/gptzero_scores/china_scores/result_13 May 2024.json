@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4ff392bc-a632-407e-8bbd-d215f42a260b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 93.2217788696289,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023124901053961366,
+          "perplexity": 25,
+          "sentence": "On Wednesday, 24 April 2024, the United Nations (UN) in China and the United Nations University (UNU) Institute in Macau co-hosted a dialogue to raise issues and solutions related to artificial intelligence (AI) and digital technologies in order to inform deliberations for the upcoming Summit of the Future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000243380171013996,
+          "perplexity": 34,
+          "sentence": "The dialogue, a side event of the UNU Macau AI Conference 2024, sought to provide a platform for stakeholders to share how innovations and best practices in AI and digital technology can address challenges stalling progress on the Sustainable Development Goals (SDGs), which saw participation from a range of AI and technology experts from the UN system, academia, civil society and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020793225849047303,
+          "perplexity": 30,
+          "sentence": "In facilitating national, regional and global cooperation on AI with the hope of fostering more diversity, equity and inclusion in the development and use of related technologies, it is intended for the dialogue to be one of a series of events ahead of the Summit of the Future to be convened by the UN Secretary-General this September, a once in a generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023036829952616245,
+          "perplexity": 244,
+          "sentence": "During her remarks, UN Resident Coordinator in China ad interim, Ms. Beate Trankmann, said, \u201cThe conversation surrounding AI governance must be a global one.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002027391892625019,
+          "perplexity": 65,
+          "sentence": "The UN is particularly well positioned to help establish international consensus on the principles that make AI and digital technologies more equally accessible, preventing further expansion of the digital divide, both between and within countries, and safeguarding against abuse.\u201d In advance of an anticipated Global Digital Compact to be agreed by Member States at the Summit as part of a Pact for the Future, the dialogue was framed around highlighting the applications in which digital technology can support the achievement",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On Wednesday, 24 April 2024, the United Nations (UN) in China and the United Nations University (UNU) Institute in Macau co-hosted a dialogue to raise issues and solutions related to artificial intelligence (AI) and digital technologies in order to inform deliberations for the upcoming Summit of the Future. The dialogue, a side event of the UNU Macau AI Conference 2024, sought to provide a platform for stakeholders to share how innovations and best practices in AI and digital technology can address challenges stalling progress on the Sustainable Development Goals (SDGs), which saw participation from a range of AI and technology experts from the UN system, academia, civil society and the private sector. In facilitating national, regional and global cooperation on AI with the hope of fostering more diversity, equity and inclusion in the development and use of related technologies, it is intended for the dialogue to be one of a series of events ahead of the Summit of the Future to be convened by the UN Secretary-General this September, a once in a generation opportunity to enhance cooperation, reaffirm existing commitments including to the UN Charter and the SDGs, and move towards a reinvigorated multilateral system. During her remarks, UN Resident Coordinator in China ad interim, Ms. Beate Trankmann, said, \u201cThe conversation surrounding AI governance must be a global one. The UN is particularly well positioned to help establish international consensus on the principles that make AI and digital technologies more equally accessible, preventing further expansion of the digital divide, both between and within countries, and safeguarding against abuse.\u201d In advance of an anticipated Global Digital Compact to be agreed by Member States at the Summit as part of a Pact for the Future, the dialogue was framed around highlighting the applications in which digital technology can support the achievement",
+  "date": "13 May 2024"
+}

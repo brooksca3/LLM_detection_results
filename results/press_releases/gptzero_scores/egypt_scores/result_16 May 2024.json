@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a774daf6-9db9-4989-81d5-c60784018046",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.65149688720703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002170943422242999,
+          "perplexity": 21,
+          "sentence": "Your Majesty, Hamad bin Isa Al Khalifa, King of Bahrain, thank you for your kind invitation and your warm hospitality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002073348965495825,
+          "perplexity": 48,
+          "sentence": "I was born in Lisbon - a city that for centuries was part of Al-Andalus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018245591782033443,
+          "perplexity": 21,
+          "sentence": "This was at a time when Cordoba was the centre of culture and civilization of the Iberian peninsula, just as Baghdad was the centre of culture and civilization of the world - reaching out from the Chinese border to the Atlantic coast.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002057079691439867,
+          "perplexity": 157,
+          "sentence": "History moved on.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016832782421261072,
+          "perplexity": 32,
+          "sentence": "And a number of transformations -- cultural, economic, technological and military -- changed the world to the detriment of the Arab people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016615362837910652,
+          "perplexity": 116,
+          "sentence": "It took decades of struggle for liberation - sometimes bloody wars - often with long periods of exploitation - and a legacy of lines arbitrarily drawn in the sand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017791534774005413,
+          "perplexity": 34,
+          "sentence": "But, today, once again, the world is changing and I see enormous potential in the Arab region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017220694571733475,
+          "perplexity": 60,
+          "sentence": "You have the resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018202437786385417,
+          "perplexity": 134,
+          "sentence": "You have the culture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022284830920398235,
+          "perplexity": 132,
+          "sentence": "You have the people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017942505655810237,
+          "perplexity": 33,
+          "sentence": "But there is one core condition for success in today's world: unity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017661703750491142,
+          "perplexity": 113,
+          "sentence": "Time and again, history has shown that divisions allow outsiders to intervene -- promoting conflicts, stoking sectarian tensions and inadvertently fueling terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018655086169019341,
+          "perplexity": 45,
+          "sentence": "These are obstacles to peaceful development and the well-being of your peoples.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017000716179609299,
+          "perplexity": 34,
+          "sentence": "Overcoming those obstacles requires breaking the vicious circle of division and foreign manipulation - and moving forward together to build a more peaceful and prosperous future for the people of the Arab world and beyond.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00172836659476161,
+          "perplexity": 104,
+          "sentence": "We gather as hearts are breaking for Palestinians in Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020119890104979277,
+          "perplexity": 18,
+          "sentence": "The war in Gaza is an open wound that threatens to infect the entire region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016661364352330565,
+          "perplexity": 47,
+          "sentence": "In its speed and scale, it is the deadliest conflict in my time as Secretary-General - for civilians, aid workers, journalists, and our own UN colleagues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020571828354150057,
+          "perplexity": 152,
+          "sentence": "Of course, nothing can justify the abhorrent 7",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Your Majesty, Hamad bin Isa Al Khalifa, King of Bahrain, thank you for your kind invitation and your warm hospitality. I was born in Lisbon \u2013 a city that for centuries was part of Al-Andalus. This was at a time when Cordoba was the centre of culture and civilization of the Iberian peninsula, just as Baghdad was the centre of culture and civilization of the world \u2013 reaching out from the Chinese border to the Atlantic coast. History moved on. And a number of transformations -- cultural, economic, technological and military -- changed the world to the detriment of the Arab people. It took decades of struggle for liberation \u2013 sometimes bloody wars \u2013 often with long periods of exploitation \u2013 and a legacy of lines arbitrarily drawn in the sand. But, today, once again, the world is changing and I see enormous potential in the Arab region. You have the resources. You have the culture. You have the people. But there is one core condition for success in today\u2019s world: unity. Time and again, history has shown that divisions allow outsiders to intervene -- promoting conflicts, stoking sectarian tensions and inadvertently fueling terrorism. These are obstacles to peaceful development and the well-being of your peoples. Overcoming those obstacles requires breaking the vicious circle of division and foreign manipulation \u2013 and moving forward together to build a more peaceful and prosperous future for the people of the Arab world and beyond. We gather as hearts are breaking for Palestinians in Gaza. The war in Gaza is an open wound that threatens to infect the entire region. In its speed and scale, it is the deadliest conflict in my time as Secretary-General \u2013 for civilians, aid workers, journalists, and our own UN colleagues. Of course, nothing can justify the abhorrent 7",
+  "date": "16 May 2024"
+}

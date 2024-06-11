@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9215c668-dca3-4461-bbd0-07aafc0487ed",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.97140884399414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011112244101241231,
+          "perplexity": 44,
+          "sentence": "\u201cRise for All\u201d calls on all leaders to meet the human crisis of the COVID-19 pandemic and fully fund the UN Response and Recovery Trust Fund New York, 27 April 2020 - Supporting the UN Secretary-General's call for solidarity and urgent action in response to the socio-economic impacts of COVID-19, an initial group of prominent women today joined a global advocacy effort to save lives and protect livelihoods, urging leaders in all countries, across all sectors, to address the human crisis of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010462814680067822,
+          "perplexity": 80,
+          "sentence": "Convened by UN Deputy Secretary-General Amina Mohammed, Rise for All brings together women leaders to mobilize support for the UN roadmap to tackle the development emergency, as laid out in the United Nations Framework for the immediate socio-economic response to COVID-19: Shared responsibility, global solidarity and urgent action for people in need, issued today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011706236546160653,
+          "perplexity": 74,
+          "sentence": "\u201cLike no other time in recent history, women are on the frontlines of COVID-19 and bearing the brunt of this human crisis,\u201d said the UN Deputy Secretary-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018389864126220345,
+          "perplexity": 42,
+          "sentence": "\u201cIt is time for us to rise as women leaders, taking action to conquer the pandemic and come out stronger so as to keep the world on track to achieve the Sustainable Development Goals by 2030.\u201d The first to join this cohort today are the President of Ethiopia, Sahle-Work Zewde, the Prime Minister of Norway and Sustainable Development Goals Advocate of the Secretary-General, Erna Solberg, Sustainable Development Goals Advocate of the Secretary-General Her Highness Sheikha Moza bint Nasser, the Prime Minister of Barbados, Mia Mottley, Sustainable Development Goals Advocate of the Secretary-General Dia Mirza, UN Women Goodwill Ambassador of Pakistan Muniba Mazari, along with the Executive Directors of UNICEF, Henrietta Fore, of UN Women, Phumzile Mlambo-Ngcuka, and of UNFPA, Natalia Kanem.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017674436094239354,
+          "perplexity": 33,
+          "sentence": "Together, the women are supporting the United Nations' call for an extraordinary scale-up of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cRise for All\u201d calls on all leaders to meet the human crisis of the COVID-19 pandemic and fully fund the UN Response and Recovery Trust Fund New York, 27 April 2020 \u2013 Supporting the UN Secretary-General\u2019s call for solidarity and urgent action in response to the socio-economic impacts of COVID-19, an initial group of prominent women today joined a global advocacy effort to save lives and protect livelihoods, urging leaders in all countries, across all sectors, to address the human crisis of the pandemic. Convened by UN Deputy Secretary-General Amina Mohammed, Rise for All brings together women leaders to mobilize support for the UN roadmap to tackle the development emergency, as laid out in the United Nations Framework for the immediate socio-economic response to COVID-19: Shared responsibility, global solidarity and urgent action for people in need, issued today. \u201cLike no other time in recent history, women are on the frontlines of COVID-19 and bearing the brunt of this human crisis,\u201d said the UN Deputy Secretary-General. \u201cIt is time for us to rise as women leaders, taking action to conquer the pandemic and come out stronger so as to keep the world on track to achieve the Sustainable Development Goals by 2030.\u201d The first to join this cohort today are the President of Ethiopia, Sahle-Work Zewde, the Prime Minister of Norway and Sustainable Development Goals Advocate of the Secretary-General, Erna Solberg, Sustainable Development Goals Advocate of the Secretary-General Her Highness Sheikha Moza bint Nasser, the Prime Minister of Barbados, Mia Mottley, Sustainable Development Goals Advocate of the Secretary-General Dia Mirza, UN Women Goodwill Ambassador of Pakistan Muniba Mazari, along with the Executive Directors of UNICEF, Henrietta Fore, of UN Women, Phumzile Mlambo-Ngcuka, and of UNFPA, Natalia Kanem. Together, the women are supporting the United Nations\u2019 call for an extraordinary scale-up of",
+  "date": "27 April 2020"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c6d93f1e-2847-4ff8-bb78-24212a5ed410",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012456316603696832,
+        "human": 0.9869643198333405,
+        "mixed": 0.0005793635629626434
+      },
+      "completely_generated_prob": 0.012456316603696832,
+      "confidence_category": "high",
+      "confidence_score": 0.9869643198333405,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012456316603696832,
+          "human": 0.9869643198333405,
+          "mixed": 0.0005793635629626434
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.068429946899414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016209101304411888,
+          "perplexity": 34,
+          "sentence": "The seminar was organized by FAO and supported by the Ministry of Agriculture within the framework of the \"Improved water management in Azerbaijan: Towards Sustainable Development of Agriculture\" project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013634837232530117,
+          "perplexity": 20,
+          "sentence": "On March 22-24, 2023, the world's countries gathered at the United Nations (UN) Conference on Water Issues in New York, USA.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001281229080632329,
+          "perplexity": 23,
+          "sentence": "The purpose of the event held at the UN headquarters was to eliminate the water crisis in the world, to discuss the issues that the world's countries are responsible for, and to draw everyone's attention to this issue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001382464193738997,
+          "perplexity": 56,
+          "sentence": "Within the framework of the conference, a unique parallel session on Azerbaijan's experiences in this field was held.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011032652109861374,
+          "perplexity": 39,
+          "sentence": "At the event, a discussion of the country's expertise in water sector reforms, involvement of stakeholders and innovations to accelerate the achievement of the Sustainable Development Goals (SDGs) was held in Azerbaijan through various measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001082597766071558,
+          "perplexity": 18,
+          "sentence": "Within the framework of the conference, a bilateral meeting was held between Mukhtar Babayev, Minister of the Ministry of Ecology and Natural Resources, Qu Dongyu, Director General of the UN Food and Agriculture Organization (FAO), and Daniels Ugochi, Deputy Director General of the International Organization for Migration (IOM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009493943653069437,
+          "perplexity": 40,
+          "sentence": "During the meeting, issues of forest protection, protection of biological diversity, effective management of water resources and Azerbaijan's activities in this context were discussed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001031986204907298,
+          "perplexity": 62,
+          "sentence": "During the bilateral meetings, views were also exchanged on reducing water resources, efficient management, the fight against global climate change, the importance of early warning and modern observation systems, and possibilities of future cooperation with Azerbaijan discussed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007781609310768545,
+          "perplexity": 21,
+          "sentence": "The organization of the Azerbaijan office of the UN Food and Agriculture Organization (FAO), the coordination of the Ministry of Ecology and Natural Resources, the organization of the International Organization for Migration, the Azerbaijan Reclamation Scientific Research Institute, and the Arizona State University of the United States gave an opening",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The seminar was organized by FAO and supported by the Ministry of Agriculture within the framework of the \"Improved water management in Azerbaijan: Towards Sustainable Development of Agriculture\" project. On March 22-24, 2023, the world's countries gathered at the United Nations (UN) Conference on Water Issues in New York, USA. The purpose of the event held at the UN headquarters was to eliminate the water crisis in the world, to discuss the issues that the world's countries are responsible for, and to draw everyone's attention to this issue. Within the framework of the conference, a unique parallel session on Azerbaijan's experiences in this field was held. At the event, a discussion of the country's expertise in water sector reforms, involvement of stakeholders and innovations to accelerate the achievement of the Sustainable Development Goals (SDGs) was held in Azerbaijan through various measures. Within the framework of the conference, a bilateral meeting was held between Mukhtar Babayev, Minister of the Ministry of Ecology and Natural Resources, Qu Dongyu, Director General of the UN Food and Agriculture Organization (FAO), and Daniels Ugochi, Deputy Director General of the International Organization for Migration (IOM). During the meeting, issues of forest protection, protection of biological diversity, effective management of water resources and Azerbaijan's activities in this context were discussed. During the bilateral meetings, views were also exchanged on reducing water resources, efficient management, the fight against global climate change, the importance of early warning and modern observation systems, and possibilities of future cooperation with Azerbaijan discussed. The organization of the Azerbaijan office of the UN Food and Agriculture Organization (FAO), the coordination of the Ministry of Ecology and Natural Resources, the organization of the International Organization for Migration, the Azerbaijan Reclamation Scientific Research Institute, and the Arizona State University of the United States gave an opening",
+  "date": "28 March 2023"
+}

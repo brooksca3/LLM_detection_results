@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7fde94de-9385-4c87-bfb2-c99f3db6f6e2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053614093211430035,
+        "human": 0.9456638314591231,
+        "mixed": 0.0007220753294468692
+      },
+      "completely_generated_prob": 0.053614093211430035,
+      "confidence_category": "medium",
+      "confidence_score": 0.9456638314591231,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053614093211430035,
+          "human": 0.9456638314591231,
+          "mixed": 0.0007220753294468692
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.1525239944458,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.06255723536014557,
+          "perplexity": 25,
+          "sentence": "Since the 9 August presidential election, Belarusians have taken to the streets across the country in peaceful mass demonstrations to voice their grievances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0661809891462326,
+          "perplexity": 43,
+          "sentence": "In response, they have frequently been met by unnecessary or excessive use of force by law enforcement officials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.051956404000520706,
+          "perplexity": 22,
+          "sentence": "Arbitrary mass detentions continue - to date, it is estimated more than 25,000 people have been detained, including more than 1,000 who took part in solidarity protests in the capital, Minsk, and throughout Belarus on 8 November.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05484159290790558,
+          "perplexity": 25,
+          "sentence": "Many of those detained have faced administrative charges, in some cases being held for up to 15 days, but the Belarusian authorities are increasingly bringing criminal charges against people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050581395626068115,
+          "perplexity": 62,
+          "sentence": "For example, some 231 individuals, including three journalists, were reportedly detained on 1 November as suspects in a criminal case concerning the organization and active participation in actions that \u201cgrossly violate public order\u201d - a charge that potentially carries a prison term of three years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06426901370286942,
+          "perplexity": 37,
+          "sentence": "In recent weeks, the authorities have broadened the scope of those being targeted, with students and medical workers in particular now facing undue restrictions and pressure.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06334685534238815,
+          "perplexity": 22,
+          "sentence": "Students, who have rallied in support of people on strike, have been threatened with expulsion from their educational institutions, and since 26 October, at least 127 have reportedly been expelled from their courses, jeopardizing their right to education and prospects for employment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04427525773644447,
+          "perplexity": 46,
+          "sentence": "Medical workers and doctors who have taken part in solidarity chains and professional marches to denounce the violence and ill-treatment perpetrated against protesters have also been detained.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020887590944767,
+          "perplexity": 32,
+          "sentence": "During a peaceful protest in Minsk on 7 November, at least 57 medical workers were reportedly detained within five minutes of the demonstration beginning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013151213526725769,
+          "perplexity": 45,
+          "sentence": "And this week reports have surfaced that some 60 victims of violence and torture who had received financial assistance from a charity fund had had their bank accounts frozen",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Since the 9 August presidential election, Belarusians have taken to the streets across the country in peaceful mass demonstrations to voice their grievances. In response, they have frequently been met by unnecessary or excessive use of force by law enforcement officials. Arbitrary mass detentions continue \u2013 to date, it is estimated more than 25,000 people have been detained, including more than 1,000 who took part in solidarity protests in the capital, Minsk, and throughout Belarus on 8 November. Many of those detained have faced administrative charges, in some cases being held for up to 15 days, but the Belarusian authorities are increasingly bringing criminal charges against people. For example, some 231 individuals, including three journalists, were reportedly detained on 1 November as suspects in a criminal case concerning the organization and active participation in actions that \u201cgrossly violate public order\u201d \u2013 a charge that potentially carries a prison term of three years. In recent weeks, the authorities have broadened the scope of those being targeted, with students and medical workers in particular now facing undue restrictions and pressure. Students, who have rallied in support of people on strike, have been threatened with expulsion from their educational institutions, and since 26 October, at least 127 have reportedly been expelled from their courses, jeopardizing their right to education and prospects for employment. Medical workers and doctors who have taken part in solidarity chains and professional marches to denounce the violence and ill-treatment perpetrated against protesters have also been detained. During a peaceful protest in Minsk on 7 November, at least 57 medical workers were reportedly detained within five minutes of the demonstration beginning. And this week reports have surfaced that some 60 victims of violence and torture who had received financial assistance from a charity fund had had their bank accounts frozen",
+  "date": "13 November 2020"
+}

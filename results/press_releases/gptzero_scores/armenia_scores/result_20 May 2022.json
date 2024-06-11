@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d3ae0f64-24c7-4f37-aef2-2127a35aa3f4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.860389709472656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006938801379874349,
+          "perplexity": 28,
+          "sentence": "GENEVA/NEW YORK, 20 May 2022 - A new report published today by WHO and UNICEF reveals that more than 2.5 billion people need one or more assistive products, such as wheelchairs, hearing aids, or apps that support communication and cognition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007410470861941576,
+          "perplexity": 21,
+          "sentence": "Yet nearly one billion of them are denied access, particularly in low- and middle-income countries, where access can be as low as 3% of the need for these life-changing products.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007036786992102861,
+          "perplexity": 30,
+          "sentence": "The Global Report on Assistive Technology presents evidence for the first time on the global need for and access to assistive products and provides a series of recommendations to expand availability and access, raise awareness of the need, and implement inclusion policies to improve the lives of millions of people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007404513307847083,
+          "perplexity": 73,
+          "sentence": "\u201cAssistive technology is a life changer - it opens the door to education for children with impairments, employment and social interaction for adults living with disabilities, and an independent life of dignity for older persons,\u201d said WHO Director-General, Dr Tedros Adhanom Ghebreyesus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008416252094320953,
+          "perplexity": 35,
+          "sentence": "\u201cDenying people access to these life-changing tools is not only an infringement of human rights, it's economically shortsighted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007054701563902199,
+          "perplexity": 64,
+          "sentence": "We call on all countries to fund and prioritize access to assistive technology and give everyone a chance to live up to their potential.\u201d \u201cNearly 240 million children have disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007195532671175897,
+          "perplexity": 39,
+          "sentence": "Denying children the right to the products they need to thrive doesn't only harm individual children, it deprives families and their communities of everything they could contribute if their needs were met,\u201d said UNICEF Executive Director Catherine Russell.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008485878934152424,
+          "perplexity": 26,
+          "sentence": "\u201cWithout access to assistive technology, children with disabilities will continue to miss out on their education, continue to be at a greater risk of child labor and continue to be subjected to stigma and discrimination, undermining their confidence and wellbeing.\u201d The report notes that the number of people in need of one",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA/NEW YORK, 20 May 2022 - A new report published today by WHO and UNICEF reveals that more than 2.5 billion people need one or more assistive products, such as wheelchairs, hearing aids, or apps that support communication and cognition. Yet nearly one billion of them are denied access, particularly in low- and middle-income countries, where access can be as low as 3% of the need for these life-changing products. The Global Report on Assistive Technology presents evidence for the first time on the global need for and access to assistive products and provides a series of recommendations to expand availability and access, raise awareness of the need, and implement inclusion policies to improve the lives of millions of people. \u201cAssistive technology is a life changer \u2013 it opens the door to education for children with impairments, employment and social interaction for adults living with disabilities, and an independent life of dignity for older persons,\u201d said WHO Director-General, Dr Tedros Adhanom Ghebreyesus. \u201cDenying people access to these life-changing tools is not only an infringement of human rights, it\u2019s economically shortsighted. We call on all countries to fund and prioritize access to assistive technology and give everyone a chance to live up to their potential.\u201d \u201cNearly 240 million children have disabilities. Denying children the right to the products they need to thrive doesn\u2019t only harm individual children, it deprives families and their communities of everything they could contribute if their needs were met,\u201d said UNICEF Executive Director Catherine Russell. \u201cWithout access to assistive technology, children with disabilities will continue to miss out on their education, continue to be at a greater risk of child labor and continue to be subjected to stigma and discrimination, undermining their confidence and wellbeing.\u201d The report notes that the number of people in need of one",
+  "date": "20 May 2022"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "86c173b3-66dd-4601-95e1-5808e6e95eb1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.439529418945312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0036767092533409595,
+          "perplexity": 36,
+          "sentence": "Opening the event with a speech, Deputy Minister of Agriculture Ilhama Gadimova highlighted that raising productivity in the agricultural sector and increasing the employment level of women in the agricultural industry are the main goals of the project: \"To ensure the stability and sustainability of WEP, in the next stage, with the close cooperation of state institutions, women in the agricultural sector will be its activity will be supported by a comprehensive approach.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038731826934963465,
+          "perplexity": 24,
+          "sentence": "As the Ministry of Agriculture, we are interested in increasing the economic power of women in the agricultural sector in cooperation with international and local institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035278729628771544,
+          "perplexity": 65,
+          "sentence": "This is one of our future activities.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004054958466440439,
+          "perplexity": 25,
+          "sentence": "Bariz Mehdiyev, Deputy Head of the Partnership and Coordination Office of the UN Food and Agriculture Organization (FAO) in Azerbaijan, noted that this project was successfully implemented due to cooperation with various government agencies implementation of this project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035747648216784,
+          "perplexity": 28,
+          "sentence": "Hijran Huseynova, Chairman of the Family, Women and Children's Affairs Committee of the Milli Majlis, said that the project plays a vital role in terms of increasing the role of women in public life, protecting gender equality, increasing the participation of female farmers, entrepreneurs and female leaders in the creation of sustainable agricultural and food security systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003992512822151184,
+          "perplexity": 26,
+          "sentence": "Sadagat Gahramanova, the deputy chairman of the State Committee for Family, Women and Children Affairs of the Republic of Azerbaijan, expressed her confidence that increasing the activity of women in the agricultural sector will make essential contributions to the development of the agricultural industry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034538223408162594,
+          "perplexity": 21,
+          "sentence": "Orkhan Mammadov, Chairman of the Board of the Small and Medium Business Development Agency (KOBIA), said that the importance of women's entrepreneurship in our country is increasing day by day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003184264525771141,
+          "perplexity": 41,
+          "sentence": "The head of KOBIA reported on measures taken to promote the development of women's entrepreneurship in various fields, including the agricultural sector, and to increase",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Opening the event with a speech, Deputy Minister of Agriculture Ilhama Gadimova highlighted that raising productivity in the agricultural sector and increasing the employment level of women in the agricultural industry are the main goals of the project: \"To ensure the stability and sustainability of WEP, in the next stage, with the close cooperation of state institutions, women in the agricultural sector will be its activity will be supported by a comprehensive approach. As the Ministry of Agriculture, we are interested in increasing the economic power of women in the agricultural sector in cooperation with international and local institutions. This is one of our future activities.\" Bariz Mehdiyev, Deputy Head of the Partnership and Coordination Office of the UN Food and Agriculture Organization (FAO) in Azerbaijan, noted that this project was successfully implemented due to cooperation with various government agencies implementation of this project. Hijran Huseynova, Chairman of the Family, Women and Children's Affairs Committee of the Milli Majlis, said that the project plays a vital role in terms of increasing the role of women in public life, protecting gender equality, increasing the participation of female farmers, entrepreneurs and female leaders in the creation of sustainable agricultural and food security systems. Sadagat Gahramanova, the deputy chairman of the State Committee for Family, Women and Children Affairs of the Republic of Azerbaijan, expressed her confidence that increasing the activity of women in the agricultural sector will make essential contributions to the development of the agricultural industry. Orkhan Mammadov, Chairman of the Board of the Small and Medium Business Development Agency (KOBIA), said that the importance of women's entrepreneurship in our country is increasing day by day. The head of KOBIA reported on measures taken to promote the development of women's entrepreneurship in various fields, including the agricultural sector, and to increase",
+  "date": "31 October 2022"
+}

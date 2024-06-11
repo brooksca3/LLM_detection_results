@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cee725cb-db6a-4844-a7d5-35f4e22c019f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.38134765625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00032629171619191766,
+          "perplexity": 34,
+          "sentence": "Dhaka, November 20, 2022: The implementation of the UN Sustainable Development Cooperation Framework (UNSDCF) was discussed at the Joint Steering Committee meeting, co-chaired by the Secretary of the Economic Relations Division of the Bangladesh Ministry of Finance and the UN Resident Coordinator in Bangladesh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003398303815629333,
+          "perplexity": 48,
+          "sentence": "Launched in November 2021, the United Nations Sustainable Development Cooperation Framework (UNSDCF) 2022-2026 aims to assist Bangladesh in overcoming the impact of the Covid-19 pandemic and accelerating progress towards the sustainable development goals in line with the Eighth Five Year Plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003097425797022879,
+          "perplexity": 64,
+          "sentence": "At the meeting, the Joint Steering Committee consisting of Government officials from 16 ministries and 15 UN Agencies Focal points in Bangladesh, approved the 2023 joint work plan of the UNSDCF, detailing the activities that the UN will undertake during the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029667693888768554,
+          "perplexity": 30,
+          "sentence": "In their opening remarks, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, and the Secretary of the Economic Relations Division of the Bangladesh Ministry of Finance, Sharifa Khan, spoke about the importance of the framework and strengthening of the UN-Bangladesh cooperation to support development that leaves no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000274879188509658,
+          "perplexity": 195,
+          "sentence": "The UN Resident Coordinator Ms. Gwyn Lewis said that \u201cThis is a critical time globally, and in Bangladesh's development trajectory.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002621588355395943,
+          "perplexity": 51,
+          "sentence": "In face of the triple crises driven by the Covid pandemic, the Ukraine war, and catastrophic climate change, the policy choices we make today will determine the development prospects of the country for years to come.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002248875971417874,
+          "perplexity": 50,
+          "sentence": "The UN in Bangladesh is committed to support the Government and the people of Bangladesh in ensuring sustainable and inclusive development as the country proceeds to graduate out of least developed countries (LDCs) category.\u201d Recalling Bangladesh's five decades of close partnership with the United Nations, Secretary Sharifa Khan stated that \u201cIn these difficult global circumstances we have to go the extra mile to make sure that no one",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Dhaka, November 20, 2022: The implementation of the UN Sustainable Development Cooperation Framework (UNSDCF) was discussed at the Joint Steering Committee meeting, co-chaired by the Secretary of the Economic Relations Division of the Bangladesh Ministry of Finance and the UN Resident Coordinator in Bangladesh. Launched in November 2021, the United Nations Sustainable Development Cooperation Framework (UNSDCF) 2022-2026 aims to assist Bangladesh in overcoming the impact of the Covid-19 pandemic and accelerating progress towards the sustainable development goals in line with the Eighth Five Year Plan. At the meeting, the Joint Steering Committee consisting of Government officials from 16 ministries and 15 UN Agencies Focal points in Bangladesh, approved the 2023 joint work plan of the UNSDCF, detailing the activities that the UN will undertake during the year. In their opening remarks, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, and the Secretary of the Economic Relations Division of the Bangladesh Ministry of Finance, Sharifa Khan, spoke about the importance of the framework and strengthening of the UN-Bangladesh cooperation to support development that leaves no one behind. The UN Resident Coordinator Ms. Gwyn Lewis said that \u201cThis is a critical time globally, and in Bangladesh\u2019s development trajectory. In face of the triple crises driven by the Covid pandemic, the Ukraine war, and catastrophic climate change, the policy choices we make today will determine the development prospects of the country for years to come. The UN in Bangladesh is committed to support the Government and the people of Bangladesh in ensuring sustainable and inclusive development as the country proceeds to graduate out of least developed countries (LDCs) category.\u201d Recalling Bangladesh\u2019s five decades of close partnership with the United Nations, Secretary Sharifa Khan stated that \u201cIn these difficult global circumstances we have to go the extra mile to make sure that no one",
+  "date": "20 November 2022"
+}

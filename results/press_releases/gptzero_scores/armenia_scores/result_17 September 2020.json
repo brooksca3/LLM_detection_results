@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8541f0b9-fdc4-43bd-a730-dc3337e71924",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.654842376708984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000292521232040599,
+          "perplexity": 11,
+          "sentence": "The number of global under-five deaths dropped to its lowest point on record in 2019 - down to 5.2 million from 12.5 million in 1990, according to new mortality estimates released by UNICEF, the World Health Organization (WHO), the Population Division of the United Nations Department of Economic and Social Affairs and the World Bank Group.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033501716097816825,
+          "perplexity": 40,
+          "sentence": "Since then, however, surveys by UNICEF and WHO reveal that the COVID-19 pandemic has resulted in major disruptions to health services that threaten to undo decades of hard-won progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032497200299985707,
+          "perplexity": 127,
+          "sentence": "\u201cThe global community has come too far towards eliminating preventable child deaths to allow the COVID-19 pandemic to stop us in our tracks,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003163195797242224,
+          "perplexity": 48,
+          "sentence": "\u201cWhen children are denied access to health services because the system is overrun, and when women are afraid to give birth at the hospital for fear of infection, they, too, may become casualties of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002691582194529474,
+          "perplexity": 28,
+          "sentence": "Without urgent investments to re-start disrupted health systems and services, millions of children under five, especially newborns, could die.\u201d Over the past 30 years, health services to prevent or treat causes of child death such as preterm, low birthweight, complications during birth, neonatal sepsis, pneumonia, diarrhea and malaria, as well as vaccination, have played a large role in saving millions of lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002212330000475049,
+          "perplexity": 46,
+          "sentence": "Now countries worldwide are experiencing disruptions in child and maternal health services, such as health checkups, vaccinations and prenatal and post-natal care, due to resource constraints and a general uneasiness with using health services due to a fear of getting COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021011535136494786,
+          "perplexity": 38,
+          "sentence": "A UNICEF survey conducted over the summer across 77 countries found that almost 68 per cent of countries reported at least some disruption in health checks for children and immunization services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002007754665100947,
+          "perplexity": 77,
+          "sentence": "In addition, 63 per cent of countries reported disruptions in antenatal checkups and 59 per cent in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The number of global under-five deaths dropped to its lowest point on record in 2019 \u2013 down to 5.2 million from 12.5 million in 1990, according to new mortality estimates released by UNICEF, the World Health Organization (WHO), the Population Division of the United Nations Department of Economic and Social Affairs and the World Bank Group. Since then, however, surveys by UNICEF and WHO reveal that the COVID-19 pandemic has resulted in major disruptions to health services that threaten to undo decades of hard-won progress. \u201cThe global community has come too far towards eliminating preventable child deaths to allow the COVID-19 pandemic to stop us in our tracks,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cWhen children are denied access to health services because the system is overrun, and when women are afraid to give birth at the hospital for fear of infection, they, too, may become casualties of COVID-19. Without urgent investments to re-start disrupted health systems and services, millions of children under five, especially newborns, could die.\u201d Over the past 30 years, health services to prevent or treat causes of child death such as preterm, low birthweight, complications during birth, neonatal sepsis, pneumonia, diarrhea and malaria, as well as vaccination, have played a large role in saving millions of lives. Now countries worldwide are experiencing disruptions in child and maternal health services, such as health checkups, vaccinations and prenatal and post-natal care, due to resource constraints and a general uneasiness with using health services due to a fear of getting COVID-19. A UNICEF survey conducted over the summer across 77 countries found that almost 68 per cent of countries reported at least some disruption in health checks for children and immunization services. In addition, 63 per cent of countries reported disruptions in antenatal checkups and 59 per cent in",
+  "date": "17 September 2020"
+}

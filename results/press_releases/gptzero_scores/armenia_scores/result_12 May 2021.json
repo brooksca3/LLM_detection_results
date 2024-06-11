@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "410c7824-e2cf-40f9-ba75-8989a2c6c1be",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.169668197631836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1019630953669548,
+          "perplexity": 43,
+          "sentence": "12 May 2021, Budapest, Hungary - Although severe hunger has not been a major issue in Europe and Central Asia in the past 20 years, the region is in part facing an increase of moderate food insecurity - understood as irregular access to nutritious and sufficient food -, while also dealing with the widespread rapid growth of obesity, challenging its ability to achieve food security and improved nutrition, as outlined in the Sustainable Development Goal (SDG) 2.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11802063882350922,
+          "perplexity": 50,
+          "sentence": "Lowering the costs of healthy diets can be crucial to achieving better nutrition and sustainability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10525500774383545,
+          "perplexity": 24,
+          "sentence": "According to the Europe and Central Asia Regional Overview of Food Security and Nutrition 2020, the COVID-19 pandemic has posed serious threats to food security and nutrition, especially for low-income and vulnerable populations in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0866534635424614,
+          "perplexity": 8,
+          "sentence": "The annual report, produced jointly by FAO, United Nations Economic Commission for Europe (UNECE), United Nations Children's Fund (UNICEF), World Food Programme (WFP), World Health Organization (WHO), and the World Meteorological Organization (WMO), provides a comprehensive analysis of the topic, including all forms of malnutrition, current dietary patterns, and the costs of diets for individuals, society, and the planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05659185349941254,
+          "perplexity": 28,
+          "sentence": "Of particular concern in Europe and Central Asia overall is the rapidly worsening situation in some countries of Central Asia, the Commonwealth of Independent States and the Caucasus, which is keeping the region as a whole from achieving the 2030 targets of the SDGs on the prevalence of severe and moderate food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04953915625810623,
+          "perplexity": 67,
+          "sentence": "\u201cThe past 12 months have shown that our health and the functioning of our agrifood systems are fundamental - and that more effort is needed,\u201d said Vladimir Rakhmanin, FAO Assistant Director-General and Regional Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.034925222396850586,
+          "perplexity": 40,
+          "sentence": "\u201cWe all - including decision makers, the development community, civil society, academia, the private sector and individuals - have to do our part to achieve the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "12 May 2021, Budapest, Hungary \u2013 Although severe hunger has not been a major issue in Europe and Central Asia in the past 20 years, the region is in part facing an increase of moderate food insecurity \u2013 understood as irregular access to nutritious and sufficient food \u2013, while also dealing with the widespread rapid growth of obesity, challenging its ability to achieve food security and improved nutrition, as outlined in the Sustainable Development Goal (SDG) 2. Lowering the costs of healthy diets can be crucial to achieving better nutrition and sustainability. According to the Europe and Central Asia Regional Overview of Food Security and Nutrition 2020, the COVID-19 pandemic has posed serious threats to food security and nutrition, especially for low-income and vulnerable populations in the region. The annual report, produced jointly by FAO, United Nations Economic Commission for Europe (UNECE), United Nations Children's Fund (UNICEF), World Food Programme (WFP), World Health Organization (WHO), and the World Meteorological Organization (WMO), provides a comprehensive analysis of the topic, including all forms of malnutrition, current dietary patterns, and the costs of diets for individuals, society, and the planet. Of particular concern in Europe and Central Asia overall is the rapidly worsening situation in some countries of Central Asia, the Commonwealth of Independent States and the Caucasus, which is keeping the region as a whole from achieving the 2030 targets of the SDGs on the prevalence of severe and moderate food insecurity. \u201cThe past 12 months have shown that our health and the functioning of our agrifood systems are fundamental \u2013 and that more effort is needed,\u201d said Vladimir Rakhmanin, FAO Assistant Director-General and Regional Representative. \u201cWe all \u2013 including decision makers, the development community, civil society, academia, the private sector and individuals \u2013 have to do our part to achieve the",
+  "date": "12 May 2021"
+}

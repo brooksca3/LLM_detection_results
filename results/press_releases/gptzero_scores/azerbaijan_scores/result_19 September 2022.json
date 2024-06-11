@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "87f36083-d0fb-467b-8970-22d447a36584",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07484666256767092,
+        "human": 0.9239136411579162,
+        "mixed": 0.001239696274412769
+      },
+      "completely_generated_prob": 0.07484666256767092,
+      "confidence_category": "medium",
+      "confidence_score": 0.9239136411579162,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07484666256767092,
+          "human": 0.9239136411579162,
+          "mixed": 0.001239696274412769
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.4411678314209,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11589737981557846,
+          "perplexity": 70,
+          "sentence": "World Health Organisation, in close partnership with national counterparts, has been actively supporting Azerbaijan in this area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11270662397146225,
+          "perplexity": 55,
+          "sentence": "As part of this support, WHO Country Office organized a 5-day expert mission to assess the needs and determine areas for further assistance in primary health care, hospital service delivery, and training of the healthcare workforce.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11429121345281601,
+          "perplexity": 125,
+          "sentence": "The mission team consists of 9 international experts and 8 health professionals from WHO Country Office in Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11593086272478104,
+          "perplexity": 19,
+          "sentence": "On the first day of the visit, the mission team met with Dr. Teymur Musayev, Minister of Health of the Republic of Azerbaijan, and Dr. Vugar Gurbanov, Executive Director of TABIB, to discuss the activities within the mission, as well as plans for technical assistance to be provided to the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11355295032262802,
+          "perplexity": 88,
+          "sentence": "The mission plans to have meetings at the Azerbaijan Medical University, State Advanced Training Institute for Doctors, medical colleges in Baku, and Baku Main Healthcare Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11367117613554001,
+          "perplexity": 52,
+          "sentence": "Moreover, field visits will be conducted to 10 public and private hospitals and primary care centers in Baku and Shamakhi districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10489353537559509,
+          "perplexity": 85,
+          "sentence": "The mission also aims to contribute to the vision of the future organization of primary health care in Azerbaijan by providing recommendations to the other ongoing WHO initiative - the Primary Health Care Demonstration project in Shamakhi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10068117082118988,
+          "perplexity": 54,
+          "sentence": "The mission will end with a workshop with national counterparts in Baku on September 23 with the participation of more than 30 Azerbaijani healthcare professionals to further discuss and specify the areas of technical assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10392562299966812,
+          "perplexity": 56,
+          "sentence": "WHO implemented a number of projects to assist Azerbaijan's efforts to strengthen health systems and build up the capacities for effectively detecting and preventing public health emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1082390621304512,
+          "perplexity": 53,
+          "sentence": "The current mission is a part of WHO's continuing support to the country's healthcare.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "World Health Organisation, in close partnership with national counterparts, has been actively supporting Azerbaijan in this area. As part of this support, WHO Country Office organized a 5-day expert mission to assess the needs and determine areas for further assistance in primary health care, hospital service delivery, and training of the healthcare workforce. The mission team consists of 9 international experts and 8 health professionals from WHO Country Office in Azerbaijan. On the first day of the visit, the mission team met with Dr. Teymur Musayev, Minister of Health of the Republic of Azerbaijan, and Dr. Vugar Gurbanov, Executive Director of TABIB, to discuss the activities within the mission, as well as plans for technical assistance to be provided to the country. The mission plans to have meetings at the Azerbaijan Medical University, State Advanced Training Institute for Doctors, medical colleges in Baku, and Baku Main Healthcare Center. Moreover, field visits will be conducted to 10 public and private hospitals and primary care centers in Baku and Shamakhi districts. The mission also aims to contribute to the vision of the future organization of primary health care in Azerbaijan by providing recommendations to the other ongoing WHO initiative - the Primary Health Care Demonstration project in Shamakhi. The mission will end with a workshop with national counterparts in Baku on September 23 with the participation of more than 30 Azerbaijani healthcare professionals to further discuss and specify the areas of technical assistance. WHO implemented a number of projects to assist Azerbaijan\u2019s efforts to strengthen health systems and build up the capacities for effectively detecting and preventing public health emergencies. The current mission is a part of WHO\u2019s continuing support to the country\u2019s healthcare.",
+  "date": "19 September 2022"
+}

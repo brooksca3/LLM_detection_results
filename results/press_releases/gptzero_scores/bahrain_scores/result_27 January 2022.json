@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "75541c82-cbee-470a-8f21-59c847bc9231",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.313358306884766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00024102612223941833,
+          "perplexity": 17,
+          "sentence": "Manama, 27 January 2022 - Today, on the occasion of the annual celebration of the International Holocaust Remembrance Day, the humanity honours the six million Jewish men, women and children, the Roma and Sinti, and the countless other victims who perished at the hands of the Nazi regime and its collaborators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022508193796966225,
+          "perplexity": 22,
+          "sentence": "We - the United Nations in Bahrain, the Embassy of the Republic of Germany in Manama, and the Embassy of the State of Israel in Manama - come together today to remember and promise never to forget those victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021240641945041716,
+          "perplexity": 65,
+          "sentence": "On this occasion, the United Nations Resident Coordinator in Bahrain a.i., Mohamed El Zarkani, the German Ambassador to Bahrain, Kai Boeckmann, and the Israeli Ambassador to Bahrain, Eitan Na'eh, will take part on 31 January 2022 in a virtual session with a Holocaust victim who survived 12 death camps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022263338905759156,
+          "perplexity": 42,
+          "sentence": "The testimony will be followed by a discussion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022263085702434182,
+          "perplexity": 197,
+          "sentence": "The session is organized by \u201cMemories in the Living Room (Zikaron BaSalon)\u201d, an Israeli program featuring testimony from Holocaust survivors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020738814782816917,
+          "perplexity": 102,
+          "sentence": "\"As stated by our Secretary-General, the Holocaust defined the United Nations as our very name was coined to describe the alliance fighting the Nazi regime and its allies\", said the UN Resident Coordinator a.i in Bahrain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022844002523925155,
+          "perplexity": 47,
+          "sentence": "\"It is our moral responsibility to never forget what happened or let it be forgotten by others''.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022419565357267857,
+          "perplexity": 31,
+          "sentence": "\"We will always remember and commemorate the victims of the Holocaust and keep their legacy alive\", said the German Ambassador to Bahrain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020997515821363777,
+          "perplexity": 87,
+          "sentence": "\u201cWe remember and will never forget those who died, suffered, and survived'', said the Israeli Ambassador to Bahrain.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Manama, 27 January 2022 - Today, on the occasion of the annual celebration of the International Holocaust Remembrance Day, the humanity honours the six million Jewish men, women and children, the Roma and Sinti, and the countless other victims who perished at the hands of the Nazi regime and its collaborators. We - the United Nations in Bahrain, the Embassy of the Republic of Germany in Manama, and the Embassy of the State of Israel in Manama - come together today to remember and promise never to forget those victims. On this occasion, the United Nations Resident Coordinator in Bahrain a.i., Mohamed El Zarkani, the German Ambassador to Bahrain, Kai Boeckmann, and the Israeli Ambassador to Bahrain, Eitan Na\u2019eh, will take part on 31 January 2022 in a virtual session with a Holocaust victim who survived 12 death camps. The testimony will be followed by a discussion. The session is organized by \u201cMemories in the Living Room (Zikaron BaSalon)\u201d, an Israeli program featuring testimony from Holocaust survivors. \"As stated by our Secretary-General, the Holocaust defined the United Nations as our very name was coined to describe the alliance fighting the Nazi regime and its allies\", said the UN Resident Coordinator a.i in Bahrain. \"It is our moral responsibility to never forget what happened or let it be forgotten by others\u2019\u2019. \"We will always remember and commemorate the victims of the Holocaust and keep their legacy alive\", said the German Ambassador to Bahrain. \u201cWe remember and will never forget those who died, suffered, and survived\u2019\u2019, said the Israeli Ambassador to Bahrain.",
+  "date": "27 January 2022"
+}

@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e88461d0-d66c-498f-b342-93cb140fa6c9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 108.34249114990234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001873379515018314,
+          "perplexity": 150,
+          "sentence": "How many Ukrainians and Russians will be killed before everyone realizes that this war has no winners \u1173 only losers?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017847641720436513,
+          "perplexity": 15,
+          "sentence": "One month ago, the Russian Federation launched a massive invasion of the sovereign territory of Ukraine in violation of the UN Charter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017455247871112078,
+          "perplexity": 86,
+          "sentence": "It was done after months of building up a military force of overwhelming proportion along the Ukrainian border.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018648036348167807,
+          "perplexity": 20,
+          "sentence": "Since then, we have seen appalling human suffering and destruction in cities, towns and villages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016930256970226765,
+          "perplexity": 48,
+          "sentence": "And all of it is intensifying -- getting more destructive and more unpredictable by the hour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018467307381797582,
+          "perplexity": 15,
+          "sentence": "Ten million Ukrainians have been forced from their homes and are on the move.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017357294564135373,
+          "perplexity": 32,
+          "sentence": "For more than two weeks, Mariupol has been encircled by the Russian army and relentlessly bombed, shelled and attacked.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016909523401409388,
+          "perplexity": 53,
+          "sentence": "Even if Mariupol falls, Ukraine cannot be conquered city by city, street by street, house by house.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017429006402380764,
+          "perplexity": 26,
+          "sentence": "The only outcome to all this is more suffering, more destruction, and more horror as far as the eye can see.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017507688608020544,
+          "perplexity": 41,
+          "sentence": "The Ukrainian people are enduring a living hell - and the reverberations are being felt worldwide with skyrocketing food, energy and fertilizer prices threatening to spiral into a global hunger crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001984799891943112,
+          "perplexity": 88,
+          "sentence": "Developing countries were already suffocating under the burden of COVID and lack of access to adequate financing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016851451073307544,
+          "perplexity": 22,
+          "sentence": "Now they are also paying a heavy price as a result of this war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001676771935308352,
+          "perplexity": 143,
+          "sentence": "From my outreach with various actors, elements of diplomatic progress are coming into view on several key issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015341078687924892,
+          "perplexity": 287,
+          "sentence": "There is enough on the table to cease hostilities - now \u2026 and seriously negotiate -- now.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021677211043424904,
+          "perplexity": 27,
+          "sentence": "This war is unwinnable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017482065595686436,
+          "perplexity": 21,
+          "sentence": "Sooner or later, it will have to move from the battlefield to the peace table.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017146884056273848,
+          "perplexity": 150,
+          "sentence": "How many Ukrainians and Russians will be killed before everyone realizes that this war has no winners \u1173 only losers?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018236313189845532,
+          "perplexity": 419,
+          "sentence": "How many",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "How many Ukrainians and Russians will be killed before everyone realizes that this war has no winners \u2014 only losers? One month ago, the Russian Federation launched a massive invasion of the sovereign territory of Ukraine in violation of the UN Charter. It was done after months of building up a military force of overwhelming proportion along the Ukrainian border. Since then, we have seen appalling human suffering and destruction in cities, towns and villages. And all of it is intensifying -- getting more destructive and more unpredictable by the hour. Ten million Ukrainians have been forced from their homes and are on the move. For more than two weeks, Mariupol has been encircled by the Russian army and relentlessly bombed, shelled and attacked. Even if Mariupol falls, Ukraine cannot be conquered city by city, street by street, house by house. The only outcome to all this is more suffering, more destruction, and more horror as far as the eye can see. The Ukrainian people are enduring a living hell \u2013 and the reverberations are being felt worldwide with skyrocketing food, energy and fertilizer prices threatening to spiral into a global hunger crisis. Developing countries were already suffocating under the burden of COVID and lack of access to adequate financing. Now they are also paying a heavy price as a result of this war. From my outreach with various actors, elements of diplomatic progress are coming into view on several key issues. There is enough on the table to cease hostilities \u2013 now \u2026 and seriously negotiate -- now. This war is unwinnable. Sooner or later, it will have to move from the battlefield to the peace table. How many Ukrainians and Russians will be killed before everyone realizes that this war has no winners \u2014 only losers? How many",
+  "date": "22 March 2022"
+}

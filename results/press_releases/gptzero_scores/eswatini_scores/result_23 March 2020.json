@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed2be5fd-e0f2-4adc-80c0-0aa9e91d727c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.88523292541504,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014568286132998765,
+          "perplexity": 83,
+          "sentence": "The United Nations in Eswatini has decided to undertake teleworking on a temporary basis as a main mode of operation to avoid risks exposure in line with the measures for preventing the spread of coronavirus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013190254685468972,
+          "perplexity": 79,
+          "sentence": "The United Nations Development System in the Kingdom of Eswatini wishes to inform all partners that, with effect from Monday 23 March 2020, UN personnel will be working from home as part of UN Eswatini COVID-19 measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013801186287309974,
+          "perplexity": 40,
+          "sentence": "The United Nations in Eswatini has decided to undertake teleworking on a temporary basis as a main mode of operation to avoid risks exposure in line with the measures imposed by the Government of Eswatini and the guidelines for UN personnel received from the World Health Organisations (WHO) as well as the United Nations Headquarters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012816855451092124,
+          "perplexity": 37,
+          "sentence": "As the UN in Eswatini moves to a new phase of its activation plan and in order to enhance the quality of its services under the prevailing circumstances, all UN personnel in Eswatini will continue to work remotely from home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012206140672788024,
+          "perplexity": 64,
+          "sentence": "Arrangements are being made to facilitate, as and where feasible, virtual meetings including with development partners, national counterparts from the Government, civil society and communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012838530528824776,
+          "perplexity": 58,
+          "sentence": "Our main priorities, including continuity of UN operations and support to national authorities, remain unchanged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012845681339967996,
+          "perplexity": 47,
+          "sentence": "We praise the Government, all partners, communities and individuals for their tireless efforts to protect and save lives, and put in place robust mechanisms to respond to the challenges and demands incurred as a result of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011655333219096065,
+          "perplexity": 57,
+          "sentence": "All UN agencies, funds and programs will continue to work closely with the Government and partners in the National Emergency Management Task Force set up by the Prime Minister and through other existing mechanisms in which efforts towards COVID-19 prevention, preparedness, response and support to communities are deployed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001241868594661355,
+          "perplexity": 40,
+          "sentence": "We call upon everyone to take responsibility in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations in Eswatini has decided to undertake teleworking on a temporary basis as a main mode of operation to avoid risks exposure in line with the measures for preventing the spread of coronavirus. The United Nations Development System in the Kingdom of Eswatini wishes to inform all partners that, with effect from Monday 23 March 2020, UN personnel will be working from home as part of UN Eswatini COVID-19 measures. The United Nations in Eswatini has decided to undertake teleworking on a temporary basis as a main mode of operation to avoid risks exposure in line with the measures imposed by the Government of Eswatini and the guidelines for UN personnel received from the World Health Organisations (WHO) as well as the United Nations Headquarters. As the UN in Eswatini moves to a new phase of its activation plan and in order to enhance the quality of its services under the prevailing circumstances, all UN personnel in Eswatini will continue to work remotely from home. Arrangements are being made to facilitate, as and where feasible, virtual meetings including with development partners, national counterparts from the Government, civil society and communities. Our main priorities, including continuity of UN operations and support to national authorities, remain unchanged. We praise the Government, all partners, communities and individuals for their tireless efforts to protect and save lives, and put in place robust mechanisms to respond to the challenges and demands incurred as a result of COVID-19. All UN agencies, funds and programs will continue to work closely with the Government and partners in the National Emergency Management Task Force set up by the Prime Minister and through other existing mechanisms in which efforts towards COVID-19 prevention, preparedness, response and support to communities are deployed. We call upon everyone to take responsibility in",
+  "date": "23 March 2020"
+}

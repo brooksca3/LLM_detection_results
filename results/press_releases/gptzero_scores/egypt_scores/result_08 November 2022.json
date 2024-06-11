@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a62a8966-d14c-4a38-b5aa-2b0fb7bd3ceb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 174.97564697265625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005715925944969058,
+          "perplexity": 35,
+          "sentence": "Sharm Al shiekh - from 6 November to 18 November 2022 Arab Republic of Egypt, 7 November 2022 (United Nations Information Centre in Cairo) - As part of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP27) taking place in Sharm el-Sheikh, Egypt, from November 6 to 18, 2022, The UN family in Egypt will be represented at COP 27 by the \"UN Pavilion in Egypt\" in the conference Blue Zone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006376985111273825,
+          "perplexity": 45,
+          "sentence": "Starting from 9 November to 17 November 2022, UN Egypt Pavilion side events are aligned with COP27 international agenda, with a special focus on the various programs, activities, and initiatives of the UN in Egypt, all coming under the theme \"One Pavilion for One United Nations in Egypt\" to highlight the policy of the UN system in Egypt in dealing with climate issues counting on the pillars of the work of the United Nations in Egypt, are: human capital, key social services, economic development, governance and empowerment of women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010976013727486134,
+          "perplexity": 24,
+          "sentence": "COP27 will build on the outcomes of COP26 to deliver action on a range of critical issues to address the climate emergency, including urgently reducing greenhouse gas emissions, strengthening resilience and adaptation to the inevitable effects of climate change, and meeting commitments to finance climate action in developing countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009190636337734759,
+          "perplexity": 52,
+          "sentence": "COP27 aims to renew international solidarity in order to achieve the historic goals of the Paris Agreement for people and the planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006668008281849325,
+          "perplexity": 24,
+          "sentence": "Heads of state, ministers, and negotiators, from governments, regional organizations, and intergovernmental organizations, along with climate activists, civil society representatives and CEOs, will gather in the Egyptian city of Sharm el-Sheikh for the largest annual gathering on climate action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008603159803897142,
+          "perplexity": 420,
+          "sentence": "COP27 is the \u201cimplementation\u201d COP, focused on moving from words to actions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007693824591115117,
+          "perplexity": 365,
+          "sentence": "\u201cImplementation\u201d is also the area where the international climate",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sharm Al shiekh \u2013 from 6 November to 18 November 2022 Arab Republic of Egypt, 7 November 2022 (United Nations Information Centre in Cairo) \u2013 As part of the Conference of the Parties to the United Nations Framework Convention on Climate Change (COP27) taking place in Sharm el-Sheikh, Egypt, from November 6 to 18, 2022, The UN family in Egypt will be represented at COP 27 by the \"UN Pavilion in Egypt\" in the conference Blue Zone. Starting from 9 November to 17 November 2022, UN Egypt Pavilion side events are aligned with COP27 international agenda, with a special focus on the various programs, activities, and initiatives of the UN in Egypt, all coming under the theme \"One Pavilion for One United Nations in Egypt\" to highlight the policy of the UN system in Egypt in dealing with climate issues counting on the pillars of the work of the United Nations in Egypt , are: human capital, key social services, economic development, governance and empowerment of women and girls. COP27 will build on the outcomes of COP26 to deliver action on a range of critical issues to address the climate emergency, including urgently reducing greenhouse gas emissions, strengthening resilience and adaptation to the inevitable effects of climate change, and meeting commitments to finance climate action in developing countries. COP27 aims to renew international solidarity in order to achieve the historic goals of the Paris Agreement for people and the planet. Heads of state, ministers, and negotiators, from governments, regional organizations, and intergovernmental organizations, along with climate activists, civil society representatives and CEOs, will gather in the Egyptian city of Sharm el-Sheikh for the largest annual gathering on climate action. COP27 is the \u201cimplementation\u201d COP, focused on moving from words to actions. \u201cImplementation\u201d is also the area where the international climate",
+  "date": "08 November 2022"
+}

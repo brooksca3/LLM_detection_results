@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d3bdfd07-d001-413f-ace5-eff40d74f67f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009397720965525646,
+        "human": 0.9896453494198783,
+        "mixed": 0.0009569296145961556
+      },
+      "completely_generated_prob": 0.009397720965525646,
+      "confidence_category": "high",
+      "confidence_score": 0.9896453494198783,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009397720965525646,
+          "human": 0.9896453494198783,
+          "mixed": 0.0009569296145961556
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.432422637939453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04004373028874397,
+          "perplexity": 52,
+          "sentence": "The agreement provides a structured framework for Afghanistan and Tajikistan to practically address the threats of climate change and biodiversity loss.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025601961533538997,
+          "perplexity": 27,
+          "sentence": "Dushanbe/Kabul, 24 September - The Islamic Republic of Afghanistan and the Republic of Tajikistan have taken an important step in strengthening joint efforts to protect their unique, shared mountain ecosystem of the Panj Amu Darya river basin with the signing of the two nations' first-ever bilateral Memorandum of Understanding (MoU) on environmental protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003016593982465565,
+          "perplexity": 24,
+          "sentence": "The agreement, which was signed in Dushanbe on 17 September 2020 and has a five-year duration, focuses on five key areas: climate change adaptation; biodiversity conservation; monitoring of water quality; environmental assessment and sharing of knowledge and expertise on ecosystem management.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028454806306399405,
+          "perplexity": 35,
+          "sentence": "It also includes a commitment by the two countries to undertake environmental impact assessments of joint projects and to notify each other in case of potential environmental impacts across borders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023180661082733423,
+          "perplexity": 78,
+          "sentence": "\u201cIt gives us great pleasure to welcome our friends and neighbours from Afghanistan in Dushanbe to conclude today's important agreement and join our hands in conserving the outstanding wildlife of our shared mountain ecosystems and help our peoples adapt to the growing impacts of climate change,\u201d said Sheralizoda Ahmadjon, Chairman of the Committee on Environmental Protection of Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002820340741891414,
+          "perplexity": 61,
+          "sentence": "The spectacular landscape of the Pamir and Wakhan mountains, whose glaciers give rise to the Amu Darya - Central Asia's largest river - is home to iconic species including the endangered snow leopard, mountain goats and sheep, and endemic vegetation communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023978538229130208,
+          "perplexity": 42,
+          "sentence": "With the ranges' strategic location at the crossroads of the historic Silk Road, the new agreement seeks to solidify the alliance between the two countries in protecting the fragile mountain ecosystem by mitigating the environmental impacts of future investment plans in infrastructure, extractives and trade, as well as supporting local communities in adapting to climate change",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The agreement provides a structured framework for Afghanistan and Tajikistan to practically address the threats of climate change and biodiversity loss. Dushanbe/Kabul, 24 September \u2013 The Islamic Republic of Afghanistan and the Republic of Tajikistan have taken an important step in strengthening joint efforts to protect their unique, shared mountain ecosystem of the Panj Amu Darya river basin with the signing of the two nations\u2019 first-ever bilateral Memorandum of Understanding (MoU) on environmental protection. The agreement, which was signed in Dushanbe on 17 September 2020 and has a five-year duration, focuses on five key areas: climate change adaptation; biodiversity conservation; monitoring of water quality; environmental assessment and sharing of knowledge and expertise on ecosystem management. It also includes a commitment by the two countries to undertake environmental impact assessments of joint projects and to notify each other in case of potential environmental impacts across borders. \u201cIt gives us great pleasure to welcome our friends and neighbours from Afghanistan in Dushanbe to conclude today\u2019s important agreement and join our hands in conserving the outstanding wildlife of our shared mountain ecosystems and help our peoples adapt to the growing impacts of climate change,\u201d said Sheralizoda Ahmadjon, Chairman of the Committee on Environmental Protection of Tajikistan. The spectacular landscape of the Pamir and Wakhan mountains, whose glaciers give rise to the Amu Darya \u2013 Central Asia\u2019s largest river \u2013 is home to iconic species including the endangered snow leopard, mountain goats and sheep, and endemic vegetation communities. With the ranges\u2019 strategic location at the crossroads of the historic Silk Road, the new agreement seeks to solidify the alliance between the two countries in protecting the fragile mountain ecosystem by mitigating the environmental impacts of future investment plans in infrastructure, extractives and trade, as well as supporting local communities in adapting to climate change",
+  "date": "24 September 2020"
+}

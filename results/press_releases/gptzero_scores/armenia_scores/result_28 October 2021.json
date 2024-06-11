@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "201a155d-92c7-4e25-8f67-4b183a721c7f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03238168231461966,
+        "human": 0.9434278597432458,
+        "mixed": 0.02419045794213451
+      },
+      "completely_generated_prob": 0.03238168231461966,
+      "confidence_category": "medium",
+      "confidence_score": 0.9434278597432458,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03238168231461966,
+          "human": 0.9434278597432458,
+          "mixed": 0.02419045794213451
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.345693588256836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007904726080596447,
+          "perplexity": 43,
+          "sentence": "At least 200 million schoolchildren live in 31 low- and middle-income countries that remain unprepared to deploy remote learning in future emergency school closures, according to a new UNICEF report released today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005779859609901905,
+          "perplexity": 60,
+          "sentence": "Among that group of students, 102 million live in 14 countries that have kept their schools fully or partially closed for at least half of the COVID-19 pandemic - locking many schoolchildren out of any kind of education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01309150643646717,
+          "perplexity": 40,
+          "sentence": "The Remote Learning Readiness Index measures countries' readiness to deliver remote learning in response to disruptions of in-person education, covering almost 90 per cent of students in low- and lower-middle-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015061646699905396,
+          "perplexity": 46,
+          "sentence": "The analysis focuses on three domains: the availability of home-based assets and parents' education levels; deployment of policies and training for teachers; and the education sector's preparedness for emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010999675840139389,
+          "perplexity": 43,
+          "sentence": "\u201cEven in the midst of an ongoing emergency, we know there will be another one, but we aren't making enough progress to ensure the next time students are forced out of the classroom, they have better options,\u201d said Henrietta Fore, UNICEF Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01320323720574379,
+          "perplexity": 46,
+          "sentence": "\u201cWhile disruptive, the past 19 months have given us a glimpse of what is possible during and after the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01317849662154913,
+          "perplexity": 19,
+          "sentence": "Together with partners, we have been hard at work to leverage the power of technology and to provide learning opportunities for children and young people everywhere.\u201d Benin, Burundi, Cote d'Ivoire, Congo, Ethiopia, Madagascar, Malawi, Niger and Togo are among the countries with the most significant need for improvement within the education sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07004394382238388,
+          "perplexity": 62,
+          "sentence": "During the COVID-19 pandemic, the impact of lack of remote learning readiness was especially felt by students living in countries where schools were fully or partially closed for at least half of the past 19 months, such as Congo and Madagascar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.058290280401706696,
+          "perplexity": 128,
+          "sentence": "The report outlines the limitations of remote learning and inequalities of access, warning that",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "At least 200 million schoolchildren live in 31 low- and middle-income countries that remain unprepared to deploy remote learning in future emergency school closures, according to a new UNICEF report released today. Among that group of students, 102 million live in 14 countries that have kept their schools fully or partially closed for at least half of the COVID-19 pandemic \u2013 locking many schoolchildren out of any kind of education. The Remote Learning Readiness Index measures countries\u2019 readiness to deliver remote learning in response to disruptions of in-person education, covering almost 90 per cent of students in low- and lower-middle-income countries. The analysis focuses on three domains: the availability of home-based assets and parents\u2019 education levels; deployment of policies and training for teachers; and the education sector\u2019s preparedness for emergencies. \u201cEven in the midst of an ongoing emergency, we know there will be another one, but we aren\u2019t making enough progress to ensure the next time students are forced out of the classroom, they have better options,\u201d said Henrietta Fore, UNICEF Executive Director. \u201cWhile disruptive, the past 19 months have given us a glimpse of what is possible during and after the pandemic. Together with partners, we have been hard at work to leverage the power of technology and to provide learning opportunities for children and young people everywhere.\u201d Benin, Burundi, Cote d\u2019Ivoire, Congo, Ethiopia, Madagascar, Malawi, Niger and Togo are among the countries with the most significant need for improvement within the education sector. During the COVID-19 pandemic, the impact of lack of remote learning readiness was especially felt by students living in countries where schools were fully or partially closed for at least half of the past 19 months, such as Congo and Madagascar. The report outlines the limitations of remote learning and inequalities of access, warning that",
+  "date": "28 October 2021"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "545ea640-0d2a-41e1-a4e9-6fb9ef380238",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013179384251979913,
+        "human": 0.986241676388114,
+        "mixed": 0.0005789393599060944
+      },
+      "completely_generated_prob": 0.013179384251979913,
+      "confidence_category": "high",
+      "confidence_score": 0.986241676388114,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013179384251979913,
+          "human": 0.986241676388114,
+          "mixed": 0.0005789393599060944
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.94231033325195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001672313897870481,
+          "perplexity": 87,
+          "sentence": "Due to the unpredictable conditions dictated by the coronavirus, WFP, in partnership with the House of Hope Foundation, initiated required food assistance, mostly to the vulnerable families in border communities of Armenia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014119476545602083,
+          "perplexity": 58,
+          "sentence": "Now, when the Foundation's beneficiaries are facing economic hardship due to the coronavirus situation, providing them food assistance has become a priority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009715784690342844,
+          "perplexity": 82,
+          "sentence": "WFP has promptly reacted to the Foundation's call to support vulnerable families by providing them with necessary assistance and delivered 867 liters of oil, thus supplementing the food packages to be distributed to the beneficiaries (3 liters of oil for each child).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011511687189340591,
+          "perplexity": 26,
+          "sentence": "The Foundation's goal is to promote the improvement of the social and educational situation of RA citizens, the development of their professional abilities, the skills of acting in emergency situations, and the development of a culture of resilience in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007124551339074969,
+          "perplexity": 211,
+          "sentence": "The Foundation and WFP will deliver food packages to Berd, Ijevan, Koti, Voskevan, Berkaber, Nerqin Karmiraghbyur, Artsvaberd, Navur and Parvaqar communities of Tavush province, as well as to Gyumri in Shirak, Talin in Aragatsotn and Armavir in Armavir provinces, total of 289 children and their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010648273164406419,
+          "perplexity": 28,
+          "sentence": "Such assistance, provided in conjunction with WFP and the charitable Foundation, aims to alleviate the current crisis as much as possible, to promote the well-being of the most vulnerable families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000862956396304071,
+          "perplexity": 44,
+          "sentence": "Throughout the crisis, in Armenia and around the world, WFP continues supporting the food security of individuals with the mobilization of additional resources, relying on its expertise in logistics and supply chain, as well as identifying new partners and encouraging them to 'come together' in joining forces amidst the pandemic.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Due to the unpredictable conditions dictated by the coronavirus, WFP, in partnership with the House of Hope Foundation, initiated required food assistance, mostly to the vulnerable families in border communities of Armenia. Now, when the Foundation\u2019s beneficiaries are facing economic hardship due to the coronavirus situation, providing them food assistance has become a priority. WFP has promptly reacted to the Foundation's call to support vulnerable families by providing them with necessary assistance and delivered 867 liters of oil, thus supplementing the food packages to be distributed to the beneficiaries (3 liters of oil for each child). The Foundation\u2019s goal is to promote the improvement of the social and educational situation of RA citizens, the development of their professional abilities, the skills of acting in emergency situations, and the development of a culture of resilience in the country. The Foundation and WFP will deliver food packages to Berd, Ijevan, Koti, Voskevan, Berkaber, Nerqin Karmiraghbyur, Artsvaberd, Navur and Parvaqar communities of Tavush province, as well as to Gyumri in Shirak, Talin in Aragatsotn and Armavir in Armavir provinces, total of 289 children and their families. Such assistance, provided in conjunction with WFP and the charitable Foundation, aims to alleviate the current crisis as much as possible, to promote the well-being of the most vulnerable families. Throughout the crisis, in Armenia and around the world, WFP continues supporting the food security of individuals with the mobilization of additional resources, relying on its expertise in logistics and supply chain, as well as identifying new partners and encouraging them to 'come together' in joining forces amidst the pandemic.",
+  "date": "31 July 2020"
+}

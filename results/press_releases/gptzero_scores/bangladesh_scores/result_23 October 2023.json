@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cdb2c885-926e-42de-bc58-0785d380d5db",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.12619361211722097,
+        "human": 0.7836680935133356,
+        "mixed": 0.09013829436944355
+      },
+      "completely_generated_prob": 0.12619361211722097,
+      "confidence_category": "low",
+      "confidence_score": 0.7836680935133356,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.12619361211722097,
+          "human": 0.7836680935133356,
+          "mixed": 0.09013829436944355
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.093629837036133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.5778079032897949,
+          "perplexity": 60,
+          "sentence": "Dozens of journalists participated in the workshop \u201cClimate Action in Bangladesh: from Resilience to Prosperity\u201d, organised by the United Nations (UN) in Bangladesh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5535805821418762,
+          "perplexity": 33,
+          "sentence": "The workshop was a unique opportunity for journalists and UN experts to meet, exchange views on climate action and policies, establish collaborations, and receive first-hand information on climate action initiatives and activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5730279088020325,
+          "perplexity": 54,
+          "sentence": "During the workshop, held on 22 October, journalists and UN experts discussed various aspects of climate action in Bangladesh, including climate resilient and green development, institutional and climate finance reforms, gender-responsive climate action, climate action in Rohingya refugee response, and the role of media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5412192344665527,
+          "perplexity": 29,
+          "sentence": "Highlighting the importance of media coverage of climate action in the country, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, said, \u201cIn Bangladesh, one of the most climate-vulnerable countries, the media's role in providing accurate reporting and shaping public opinion on climate is particularly important.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.48575326800346375,
+          "perplexity": 50,
+          "sentence": "That is why in our engagement with media we aim to provide journalists with all necessary information to address sustainable development goals and drive climate action across all levels of society.\u201d \u201cWith the escalating climate crisis, accurate and fair reporting is needed more than ever, and I am grateful that journalists in Bangladesh are thoroughly covering climate change, which is the greatest challenge of sustainable development,\u201d said the UN Resident Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19575145840644836,
+          "perplexity": 9,
+          "sentence": "Over 20 journalists from print, broadcast, and digital national and international media participated in the workshop, organised by the UN Resident Coordinator's Office and different UN agencies, funds and programmes based in Bangladesh, including the Food and Agriculture Organisation (FAO), the International Labour Organisation (ILO), the International Organisation for Migration (IOM), an entity for gender equality and the empowerment of women, UN Women, the UN Development Programme (UNDP), the UN Educational, Scientific and Cultural Organisation (UNESCO), the UN Population Fund (UNFPA), the UN Refugee Agency",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Dozens of journalists participated in the workshop \u201cClimate Action in Bangladesh: from Resilience to Prosperity\u201d, organised by the United Nations (UN) in Bangladesh. The workshop was a unique opportunity for journalists and UN experts to meet, exchange views on climate action and policies, establish collaborations, and receive first-hand information on climate action initiatives and activities. During the workshop, held on 22 October, journalists and UN experts discussed various aspects of climate action in Bangladesh, including climate resilient and green development, institutional and climate finance reforms, gender-responsive climate action, climate action in Rohingya refugee response, and the role of media. Highlighting the importance of media coverage of climate action in the country, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, said, \u201cIn Bangladesh, one of the most climate-vulnerable countries, the media's role in providing accurate reporting and shaping public opinion on climate is particularly important. That is why in our engagement with media we aim to provide journalists with all necessary information to address sustainable development goals and drive climate action across all levels of society.\u201d \u201cWith the escalating climate crisis, accurate and fair reporting is needed more than ever, and I am grateful that journalists in Bangladesh are thoroughly covering climate change, which is the greatest challenge of sustainable development,\u201d said the UN Resident Coordinator. Over 20 journalists from print, broadcast, and digital national and international media participated in the workshop, organised by the UN Resident Coordinator\u2019s Office and different UN agencies, funds and programmes based in Bangladesh, including the Food and Agriculture Organisation (FAO), the International Labour Organisation (ILO), the International Organisation for Migration (IOM), an entity for gender equality and the empowerment of women, UN Women, the UN Development Programme (UNDP), the UN Educational, Scientific and Cultural Organisation (UNESCO), the UN Population Fund (UNFPA), the UN Refugee Agency",
+  "date": "23 October 2023"
+}

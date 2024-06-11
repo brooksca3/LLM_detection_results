@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0df12dcf-7c89-4d19-95f0-c2094a0f19bc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 8.315217971801758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00026255956618115306,
+          "perplexity": 35,
+          "sentence": "BEIJING, 29 September - As part of a joint initiative, the Embassy of the Czech Republic in China (in its role as the Presidency of the Council of the European Union) and the United Nations (UN) in China held an event titled, \u201cRoundtable on Food Security: Call for Global, Regional and Country Level Actions\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028986227698624134,
+          "perplexity": 36,
+          "sentence": "The roundtable sought to maintain the momentum of different streams of work towards achieving global food security, including recent efforts made at the 77th Session of the UN General Assembly in New York, through a substantive, expert-level discussion to enhance dialogue and cooperation in this area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002514479565434158,
+          "perplexity": 39,
+          "sentence": "With less than eight years left to deliver on the 2030 Agenda for Sustainable Development, the combined impacts of the COVID-19 pandemic, the climate emergency, new and existing conflicts, and rising inequalities have reversed and jeopardized global progress on the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023105417494662106,
+          "perplexity": 32,
+          "sentence": "As a result, as many as 828 million people may have suffered hunger last year, with countries in regions such as Africa still bearing the heaviest burden, as highlighted by UN Deputy Secretary-General Amina J. Mohammed at this month's Meeting of Friends of Food Security and Nutrition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002330931747565046,
+          "perplexity": 41,
+          "sentence": "These tragic outcomes put a further strain on the global economy, triggering poverty that threatens to place people in more vulnerable situations, especially women, who were already 27 per cent more at risk of severe food insecurity than men before the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002089119516313076,
+          "perplexity": 51,
+          "sentence": "Given these circumstances, instability in global food and energy markets, and tightened financing, the roundtable set out to collectively map the needs and gaps in food security, while cataloguing relevant global, regional and Member State initiatives, in order to identify overlaps, gaps and opportunities for further joint efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005313918809406459,
+          "perplexity": 24,
+          "sentence": "The roundtable brought together a diverse range of stakeholders to call for further action on global food security, while",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 29 September \u2013 As part of a joint initiative, the Embassy of the Czech Republic in China (in its role as the Presidency of the Council of the European Union) and the United Nations (UN) in China held an event titled, \u201cRoundtable on Food Security: Call for Global, Regional and Country Level Actions\u201d. The roundtable sought to maintain the momentum of different streams of work towards achieving global food security, including recent efforts made at the 77th Session of the UN General Assembly in New York, through a substantive, expert-level discussion to enhance dialogue and cooperation in this area. With less than eight years left to deliver on the 2030 Agenda for Sustainable Development, the combined impacts of the COVID-19 pandemic, the climate emergency, new and existing conflicts, and rising inequalities have reversed and jeopardized global progress on the Sustainable Development Goals (SDGs). As a result, as many as 828 million people may have suffered hunger last year, with countries in regions such as Africa still bearing the heaviest burden, as highlighted by UN Deputy Secretary-General Amina J. Mohammed at this month\u2019s Meeting of Friends of Food Security and Nutrition. These tragic outcomes put a further strain on the global economy, triggering poverty that threatens to place people in more vulnerable situations, especially women, who were already 27 per cent more at risk of severe food insecurity than men before the pandemic. Given these circumstances, instability in global food and energy markets, and tightened financing, the roundtable set out to collectively map the needs and gaps in food security, while cataloguing relevant global, regional and Member State initiatives, in order to identify overlaps, gaps and opportunities for further joint efforts. The roundtable brought together a diverse range of stakeholders to call for further action on global food security, while",
+  "date": "29 September 2022"
+}

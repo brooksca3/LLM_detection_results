@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "aa6e6fe4-3b59-4937-8a57-de5e74cca4a9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.45513916015625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005111804348416626,
+          "perplexity": 40,
+          "sentence": "Paris/New York/Washington D.C., 17 July 2021 - Around one in three countries where schools are or have been closed are not yet implementing remedial programmes post-COVID-19 school closures, according to a UNESCO, UNICEF, World Bank and OECD global \"Survey on National Education Responses to COVID-19 School Closures\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009141440968960524,
+          "perplexity": 41,
+          "sentence": "At the same time, only one-third of countries are taking steps to measure learning losses in primary and lower secondary levels - mostly among high-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024486714974045753,
+          "perplexity": 100,
+          "sentence": "\"Measuring learning loss is a critical first step towards mitigating its consequences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016799353761598468,
+          "perplexity": 46,
+          "sentence": "It is vital that countries invest in assessing the magnitude of such losses to implement the appropriate remedial measures,\" said Silvia Montoya, Director, UNESCO Institute for Statistics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012555711437016726,
+          "perplexity": 36,
+          "sentence": "Fewer than a third of low- and middle-income countries reported that all students had returned to in-person schooling, heightening their risk of learning loss and drop-out.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008790009305812418,
+          "perplexity": 48,
+          "sentence": "However, the majority of countries reported using at least one form of outreach to encourage students' return to school, including community engagement, school-based tracking, modification to water, sanitation and hygiene services, financial incentives and review of access policies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011690257815644145,
+          "perplexity": 35,
+          "sentence": "\"Remedial instruction is vital to help those children who have missed out on school to get back on track and reduce long-term learning losses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009742017136886716,
+          "perplexity": 66,
+          "sentence": "This requires an urgent effort to measure students' learning levels today and collect good quality data to inform classroom practices, as envisioned under the UNICEF, UNESCO, and World Bank's Learning Data Compact,\" stressed Jaime Saavedra, Global Director for Education, World Bank.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016011381521821022,
+          "perplexity": 172,
+          "sentence": "The survey documents how countries are monitoring and mitigating learning losses, addressing the challenge of reopening schools and deploying distance learning strategies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012000695569440722,
+          "perplexity": 57,
+          "sentence": "In total, 142 countries responded to the survey that covers the period from February to May 2021 and spans pre-primary, primary, lower secondary and upper secondary.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017139128176495433,
+          "perplexity": 71,
+          "sentence": "\"Remote learning has been a lifeline for many children around the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Paris/New York/Washington D.C., 17 July 2021 \u2013 Around one in three countries where schools are or have been closed are not yet implementing remedial programmes post-COVID-19 school closures, according to a UNESCO, UNICEF, World Bank and OECD global \"Survey on National Education Responses to COVID-19 School Closures\". At the same time, only one-third of countries are taking steps to measure learning losses in primary and lower secondary levels \u2013 mostly among high-income countries. \"Measuring learning loss is a critical first step towards mitigating its consequences. It is vital that countries invest in assessing the magnitude of such losses to implement the appropriate remedial measures,\" said Silvia Montoya, Director, UNESCO Institute for Statistics. Fewer than a third of low- and middle-income countries reported that all students had returned to in-person schooling, heightening their risk of learning loss and drop-out. However, the majority of countries reported using at least one form of outreach to encourage students' return to school, including community engagement, school-based tracking, modification to water, sanitation and hygiene services, financial incentives and review of access policies. \"Remedial instruction is vital to help those children who have missed out on school to get back on track and reduce long-term learning losses. This requires an urgent effort to measure students' learning levels today and collect good quality data to inform classroom practices, as envisioned under the UNICEF, UNESCO, and World Bank's Learning Data Compact,\" stressed Jaime Saavedra, Global Director for Education, World Bank. The survey documents how countries are monitoring and mitigating learning losses, addressing the challenge of reopening schools and deploying distance learning strategies. In total, 142 countries responded to the survey that covers the period from February to May 2021 and spans pre-primary, primary, lower secondary and upper secondary. \"Remote learning has been a lifeline for many children around the",
+  "date": "19 July 2021"
+}

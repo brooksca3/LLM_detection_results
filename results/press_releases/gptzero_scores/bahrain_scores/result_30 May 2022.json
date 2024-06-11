@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d3f51553-b5ab-4ce9-86a7-c3fb2ba29d7a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03046253450449943,
+        "human": 0.9685550036764128,
+        "mixed": 0.0009824618190877544
+      },
+      "completely_generated_prob": 0.03046253450449943,
+      "confidence_category": "high",
+      "confidence_score": 0.9685550036764128,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03046253450449943,
+          "human": 0.9685550036764128,
+          "mixed": 0.0009824618190877544
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 64.02105712890625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0180309247225523,
+          "perplexity": 52,
+          "sentence": "Despite our best efforts to keep personnel safe, more peacekeepers are being injured or killed in these volatile conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018347397446632385,
+          "perplexity": 63,
+          "sentence": "The frequency of malicious attacks against peacekeepers increased from 280 in 2020 to 463 last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018003636971116066,
+          "perplexity": 87,
+          "sentence": "In 2021, there were 24 fatalities due to these violent acts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010288971476256847,
+          "perplexity": 16,
+          "sentence": "Every day, United Nations peacekeepers work to protect hundreds of thousands of vulnerable people in the world's most fragile political and security situations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010043555870652199,
+          "perplexity": 34,
+          "sentence": "Our civilian and uniformed personnel support ceasefires, prevent and respond to violence, investigate human rights violations and abuses, and help build peace, recovery, and development in conflict-affected countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012293975800275803,
+          "perplexity": 38,
+          "sentence": "There is no doubt that lives are saved and changed by their presence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013206450268626213,
+          "perplexity": 22,
+          "sentence": "In South Sudan, more than 80 percent of respondents to a recent perception survey reported feeling safer due to the presence of UN peacekeepers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014589844271540642,
+          "perplexity": 83,
+          "sentence": "Communities in other conflict zones also testify about the impact of peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011106532998383045,
+          "perplexity": 80,
+          "sentence": "During operation \u201cLet Peace Reign\u201d in the Central African Republic, local leaders reported that increased patrols were deterring armed groups while the provision of clean water, medical assistance, and road rehabilitation by peacekeepers had significantly improved their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009312797337770462,
+          "perplexity": 284,
+          "sentence": "\u201cIt prevents the enemies of peace in our region so that peace returns, allowing us to move freely,\u201d said Iyo Feikoumon from Doyi Village.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008515408262610435,
+          "perplexity": 40,
+          "sentence": "In some peace operations, a primary task is to provide robust protection of civilians due to the nature of the threat on the ground.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00700029032304883,
+          "perplexity": 49,
+          "sentence": "Our military and police personnel make every effort to carry out this mandate in challenging and, often dangerous, conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008125269785523415,
+          "perplexity": 35,
+          "sentence": "However, the ultimate objective is to create the conditions for political solutions and sustainable peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008407052606344223,
+          "perplexity": 22,
+          "sentence": "That is the true measure of our success.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006370131857693195,
+          "perplexity": 38,
+          "sentence": "Achieving that outcome is becoming more difficult in an increasingly tense global political and security climate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007326582446694374,
+          "perplexity": 110,
+          "sentence": "Conflicts are more complex and multi-layered with local tensions fueled",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Despite our best efforts to keep personnel safe, more peacekeepers are being injured or killed in these volatile conditions. The frequency of malicious attacks against peacekeepers increased from 280 in 2020 to 463 last year. In 2021, there were 24 fatalities due to these violent acts. Every day, United Nations peacekeepers work to protect hundreds of thousands of vulnerable people in the world\u2019s most fragile political and security situations. Our civilian and uniformed personnel support ceasefires, prevent and respond to violence, investigate human rights violations and abuses, and help build peace, recovery, and development in conflict-affected countries. There is no doubt that lives are saved and changed by their presence. In South Sudan, more than 80 percent of respondents to a recent perception survey reported feeling safer due to the presence of UN peacekeepers. Communities in other conflict zones also testify about the impact of peacekeeping. During operation \u201cLet Peace Reign\u201d in the Central African Republic, local leaders reported that increased patrols were deterring armed groups while the provision of clean water, medical assistance, and road rehabilitation by peacekeepers had significantly improved their lives. \u201cIt prevents the enemies of peace in our region so that peace returns, allowing us to move freely,\u201d said Iyo Feikoumon from Doyi Village. In some peace operations, a primary task is to provide robust protection of civilians due to the nature of the threat on the ground. Our military and police personnel make every effort to carry out this mandate in challenging and, often dangerous, conditions. However, the ultimate objective is to create the conditions for political solutions and sustainable peace. That is the true measure of our success. Achieving that outcome is becoming more difficult in an increasingly tense global political and security climate. Conflicts are more complex and multi-layered with local tensions fueled",
+  "date": "30 May 2022"
+}

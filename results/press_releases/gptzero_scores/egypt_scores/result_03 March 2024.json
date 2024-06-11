@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "da560ef6-fa75-4338-949b-4b0896e15785",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.937461853027344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014151913637761027,
+          "perplexity": 21,
+          "sentence": "The UN Secretary-General said on Thursday he was \u201cappalled by the tragic human toll of the conflict in Gaza\u201d where more than 30,000 people have now reportedly been killed and over 70,000 injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001344596385024488,
+          "perplexity": 32,
+          "sentence": "\u201cTragically, an unknown number of people lie under rubble,\" Ant\u00f3nio Guterres added, in a statement issued by his spokesperson, reiterating his call for an immediate humanitarian ceasefire and unconditional release of all the hostages seized during the Hamas-led terror attack of 7 October.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012725302076432854,
+          "perplexity": 53,
+          "sentence": "\u201cHe once again calls for urgent steps so that critical humanitarian aid can get into and across Gaza to all those in need\u201d, UN Spokesperson St\u00e9phane Dujarric said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013256401871331036,
+          "perplexity": 59,
+          "sentence": "As the death toll passed another chilling total, conflicting reports emerged on Thursday over the death of more than 100 Palestinians waiting for desperately needed aid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013722320727538317,
+          "perplexity": 168,
+          "sentence": "\u201cEven after close to five months of brutal hostilities, Gaza still has the ability to shock us,\u201d said UN relief chief Martin Griffiths in a post on X.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013533199671655893,
+          "perplexity": 95,
+          "sentence": "\u201cI am appalled at the reported killing and injury of hundreds of people during a transfer of aid supplies west of Gaza City today,\u201d he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012498888827394694,
+          "perplexity": 26,
+          "sentence": "\u201cLife is draining out of Gaza at terrifying speed.\u201d \u201cThe desperate civilians in Gaza need urgent help, including those in the besieged north where the United Nations has not been able to deliver aid in more than a week\u201d, said the statement released by Spokesperson St\u00e9phane Dujarric.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011406950216041878,
+          "perplexity": 17,
+          "sentence": "Intense Israeli bombardment from air, land and sea continues to be reported across much of the Gaza Strip, resulting in further civilian casualties, displacement and destruction of civilian infrastructure, according to the latest situation report from UN humanitarian agency OCHA.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011507156159495935,
+          "perplexity": 15,
+          "sentence": "Ground operations and heavy fighting between Israeli forces and Palestinian armed groups also continue to be reported, particularly in northern Gaza, Deir Al-Balah and Khan Younis, the report said.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Secretary-General said on Thursday he was \u201cappalled by the tragic human toll of the conflict in Gaza\u201d where more than 30,000 people have now reportedly been killed and over 70,000 injured. \u201cTragically, an unknown number of people lie under rubble,\" Ant\u00f3nio Guterres added, in a statement issued by his spokesperson, reiterating his call for an immediate humanitarian ceasefire and unconditional release of all the hostages seized during the Hamas-led terror attack of 7 October. \u201cHe once again calls for urgent steps so that critical humanitarian aid can get into and across Gaza to all those in need\u201d, UN Spokesperson St\u00e9phane Dujarric said. As the death toll passed another chilling total, conflicting reports emerged on Thursday over the death of more than 100 Palestinians waiting for desperately needed aid. \u201cEven after close to five months of brutal hostilities, Gaza still has the ability to shock us,\u201d said UN relief chief Martin Griffiths in a post on X. \u201cI am appalled at the reported killing and injury of hundreds of people during a transfer of aid supplies west of Gaza City today,\u201d he said. \u201cLife is draining out of Gaza at terrifying speed.\u201d \u201cThe desperate civilians in Gaza need urgent help, including those in the besieged north where the United Nations has not been able to deliver aid in more than a week\u201d, said the statement released by Spokesperson St\u00e9phane Dujarric. Intense Israeli bombardment from air, land and sea continues to be reported across much of the Gaza Strip, resulting in further civilian casualties, displacement and destruction of civilian infrastructure, according to the latest situation report from UN humanitarian agency OCHA. Ground operations and heavy fighting between Israeli forces and Palestinian armed groups also continue to be reported, particularly in northern Gaza, Deir Al-Balah and Khan Younis, the report said.",
+  "date": "03 March 2024"
+}

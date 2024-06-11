@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "60aea75d-a735-44d9-9fc7-82e398b2b026",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03444832750873689,
+        "human": 0.9645531702446329,
+        "mixed": 0.000998502246630055
+      },
+      "completely_generated_prob": 0.03444832750873689,
+      "confidence_category": "high",
+      "confidence_score": 0.9645531702446329,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03444832750873689,
+          "human": 0.9645531702446329,
+          "mixed": 0.000998502246630055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.71299934387207,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002512663195375353,
+          "perplexity": 21,
+          "sentence": "Cairo, Arab Republic of Egypt - The United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA) has held today an official ceremony to launch the Youth Network to support youth leaders from Algeria, Egypt, Lebanon, Libya, Palestine, and Sudan1 as active agents of change against drugs, violence, and crime.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026990906917490065,
+          "perplexity": 22,
+          "sentence": "The event was hosted by the Arab Republic of Egypt and supported by the Federal Republic of Germany.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026939233066514134,
+          "perplexity": 46,
+          "sentence": "The launch was attended by H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002433142508380115,
+          "perplexity": 30,
+          "sentence": "Dr. Nivine El Kabbag, the Egyptian Minister of Social Solidarity, Dr. Amr Osman, Director of the Egyptian Fund Drug Control and Treatment of Addiction, Mr. Mostafa Ezz Elarab, Assistant Minister of Youth and Sports for Youth Policies, Ms. Cristina Albertin, the UNODC Regional Representative for the Middle East and North Africa, Mr. Holger Illi, the Representative of the German Federal Ministry of Development and Economic Cooperation (BMZ), UNFPA representatives, youth, anti-corruption and drug prevention experts, representatives from the League of Arab States (LAS) and other relevant stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05067213624715805,
+          "perplexity": 119,
+          "sentence": "Addressing the youth, Dr. Nivine El Kabbag, the Minister of Social Solidarity, noted \u201cYou are carrying a noble mission to spread peace, and combat drugs and their associated societal violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05214127525687218,
+          "perplexity": 60,
+          "sentence": "I am confident that your rich participation will have a significant impact in spreading this message among your peers.'\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.042078711092472076,
+          "perplexity": 39,
+          "sentence": "The UNODC MENA Youth Network aims to empower young people to become active agents of change in their communities against drugs, violence and crime through three pillars: empowerment, meaningful participation and youth-focused partnerships and networking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.046900518238544464,
+          "perplexity": 55,
+          "sentence": "The youth passionately declared during their speech, \"Launching the network stems from the belief in our right to participate in shaping the presence and the future, and it reinforces the active role of youth on both the national and regional levels, especially amidst the circumstances and challenges",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo, Arab Republic of Egypt \u2013 The United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA) has held today an official ceremony to launch the Youth Network to support youth leaders from Algeria, Egypt, Lebanon, Libya, Palestine, and Sudan1 as active agents of change against drugs, violence, and crime. The event was hosted by the Arab Republic of Egypt and supported by the Federal Republic of Germany. The launch was attended by H.E. Dr. Nivine El Kabbag, the Egyptian Minister of Social Solidarity, Dr. Amr Osman, Director of the Egyptian Fund Drug Control and Treatment of Addiction, Mr. Mostafa Ezz Elarab, Assistant Minister of Youth and Sports for Youth Policies, Ms. Cristina Albertin, the UNODC Regional Representative for the Middle East and North Africa, Mr. Holger Illi, the Representative of the German Federal Ministry of Development and Economic Cooperation (BMZ), UNFPA representatives, youth, anti-corruption and drug prevention experts, representatives from the League of Arab States (LAS) and other relevant stakeholders. Addressing the youth, Dr. Nivine El Kabbag, the Minister of Social Solidarity, noted \u201cYou are carrying a noble mission to spread peace, and combat drugs and their associated societal violence. I am confident that your rich participation will have a significant impact in spreading this message among your peers.'\" The UNODC MENA Youth Network aims to empower young people to become active agents of change in their communities against drugs, violence and crime through three pillars: empowerment, meaningful participation and youth-focused partnerships and networking. The youth passionately declared during their speech, \"Launching the network stems from the belief in our right to participate in shaping the presence and the future, and it reinforces the active role of youth on both the national and regional levels, especially amidst the circumstances and challenges",
+  "date": "17 April 2024"
+}

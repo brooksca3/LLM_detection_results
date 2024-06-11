@@ -1,0 +1,87 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d6ca57ce-c17e-49fd-b77f-23635eeafe1e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013686815369632534,
+        "human": 0.9981461872250941,
+        "mixed": 0.00048513123794269856
+      },
+      "completely_generated_prob": 0.0013686815369632534,
+      "confidence_category": "high",
+      "confidence_score": 0.9981461872250941,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013686815369632534,
+          "human": 0.9981461872250941,
+          "mixed": 0.00048513123794269856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.641010284423828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010848430974874645,
+          "perplexity": 23,
+          "sentence": "The United Nations Development System in the Kingdom of Eswatini joins the world in congratulating the World Food Programme (WFP) for the 2020 Nobel Peace Prize it was awarded on 9 October 2020 by the Norwegian Nobel Peace Committee in recognition of WFP's efforts to combat hunger, fight the use of hunger as a weapon of war, and alleviate sufferings across the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011118909606011584,
+          "perplexity": 30,
+          "sentence": "Mbabane (15 October 2020) - The United Nations Development System in the Kingdom of Eswatini joins the world in congratulating the World Food Programme (WFP) for the 2020 Nobel Peace Prize it was awarded on 9 October 2020 by the Norwegian Nobel Peace Committee in recognition of WFP's efforts to combat hunger, fight the use of hunger as a weapon of war, and alleviate sufferings across the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010490258864592761,
+          "perplexity": 41,
+          "sentence": "\u201cIt is with pride and pleasure that we congratulate WFP for this prestigious award, which is a recognition of WFP's and our collective humanitarian efforts to end hunger, restore hope and dignity among the needy, and serve mankind with pride and humility at a time when the world is facing so many crises from fragile economies, health pandemics, climate change, growing inequalities and conflict, to name only a few,\u201d says the UN Resident Coordinator in Eswatini, Ms. Nathalie Ndongo-Seh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.902300371322781e-05,
+          "perplexity": 72,
+          "sentence": "\u201cWe believe that, in line with similar recognitions of the UN Organization by the Nobel Peace Committee over the past years, this prestigious award will give the UN Development System in Eswatini impetus to increase our efforts and support to Emaswati people, in particular as we prepare our programmes for the next cycle of the United Nations Sustainable Development Cooperation Framework 2021-2025.\u201d In Eswatini, WFP provides technical assistance, services and coordination support for national food and nutrition security policies and programmes through approaches that enable progress on gender equality and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Development System in the Kingdom of Eswatini joins the world in congratulating the World Food Programme (WFP) for the 2020 Nobel Peace Prize it was awarded on 9 October 2020 by the Norwegian Nobel Peace Committee in recognition of WFP\u2019s efforts to combat hunger, fight the use of hunger as a weapon of war, and alleviate sufferings across the world. Mbabane (15 October 2020) \u2013 The United Nations Development System in the Kingdom of Eswatini joins the world in congratulating the World Food Programme (WFP) for the 2020 Nobel Peace Prize it was awarded on 9 October 2020 by the Norwegian Nobel Peace Committee in recognition of WFP\u2019s efforts to combat hunger, fight the use of hunger as a weapon of war, and alleviate sufferings across the world. \u201cIt is with pride and pleasure that we congratulate WFP for this prestigious award, which is a recognition of WFP\u2019s and our collective humanitarian efforts to end hunger, restore hope and dignity among the needy, and serve mankind with pride and humility at a time when the world is facing so many crises from fragile economies, health pandemics, climate change, growing inequalities and conflict, to name only a few,\u201d says the UN Resident Coordinator in Eswatini, Ms. Nathalie Ndongo-Seh. \u201cWe believe that, in line with similar recognitions of the UN Organization by the Nobel Peace Committee over the past years, this prestigious award will give the UN Development System in Eswatini impetus to increase our efforts and support to Emaswati people, in particular as we prepare our programmes for the next cycle of the United Nations Sustainable Development Cooperation Framework 2021-2025.\u201d In Eswatini, WFP provides technical assistance, services and coordination support for national food and nutrition security policies and programmes through approaches that enable progress on gender equality and",
+  "date": "15 October 2020"
+}

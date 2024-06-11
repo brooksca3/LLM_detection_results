@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "af96520c-809c-42cd-a1b9-96579015b784",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.875883102416992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010521253570914268,
+          "perplexity": 55,
+          "sentence": "The International Organization for Migration (IOM) in the Kingdom of Bahrain, in cooperation with the Naif Arab University of Security Sciences (NAUSS), today organized an Arab-region workshop on Legal Identity, Border Security and Safe Mobility.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001022787531837821,
+          "perplexity": 58,
+          "sentence": "This workshop follows a new project recently signed between IOM and NAUSS, which is aimed at establishing the region's first Arab Centre for Technical Cooperation on Migration and Border Management and sets out a comprehensive framework to strengthen technical, legal, operational and policy cooperation in the Arab region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013169629964977503,
+          "perplexity": 90,
+          "sentence": "\u201cThe United Nations strategy for Legal Identity continues to guide IOM's collaboration efforts in the Arab region, noting that identity management remains a critical component of fulfilling the 2030 Sustainable Development Agenda.\u201d said Othman Belbeisi, IOM Regional Director for MENA, speaking at the workshop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012741333339363337,
+          "perplexity": 50,
+          "sentence": "\u201cIOM's continued commitment aims to support ongoing efforts of relevant authorities from governments of Arab States to ensure a harmonized and coordinated approach on migration and border governance, at a time when states are increasingly looking for technical advice on evidence-driven policies to effectively manage human mobility and enhance identity management.\u201d The workshop, hosted by the Ministry of Interior of the Kingdom of Bahrain, brought together over thirty regional government officials and focused on strengthening cooperation on border security and identity management to improve safe migration across the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010150858433917165,
+          "perplexity": 62,
+          "sentence": "The workshop also outlined recommendations on cross border cooperation as well as measures aimed at strengthening access to legal identity, consular support and protection of migrants, and technical capacities of governments in risk analysis, including document verification and use of biometrics technologies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010795944835990667,
+          "perplexity": 12,
+          "sentence": "Participants at the workshop represented border and immigration authorities from Bahrain, Egypt, Iraq, Jordan, Kuwait, Libya, Mauritania, Morocco, Oman, United Arab Emirates, Kingdom of Saudi Arabia, Tunisia, and Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011355383321642876,
+          "perplexity": 29,
+          "sentence": "Local and international experts from IOM, UNICEF, UNOCT, ICAO, and various Arab countries",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The International Organization for Migration (IOM) in the Kingdom of Bahrain, in cooperation with the Naif Arab University of Security Sciences (NAUSS), today organized an Arab-region workshop on Legal Identity, Border Security and Safe Mobility. This workshop follows a new project recently signed between IOM and NAUSS, which is aimed at establishing the region\u2019s first Arab Centre for Technical Cooperation on Migration and Border Management and sets out a comprehensive framework to strengthen technical, legal, operational and policy cooperation in the Arab region. \u201cThe United Nations strategy for Legal Identity continues to guide IOM\u2019s collaboration efforts in the Arab region, noting that identity management remains a critical component of fulfilling the 2030 Sustainable Development Agenda.\u201d said Othman Belbeisi, IOM Regional Director for MENA, speaking at the workshop. \u201cIOM\u2019s continued commitment aims to support ongoing efforts of relevant authorities from governments of Arab States to ensure a harmonized and coordinated approach on migration and border governance, at a time when states are increasingly looking for technical advice on evidence-driven policies to effectively manage human mobility and enhance identity management.\u201d The workshop, hosted by the Ministry of Interior of the Kingdom of Bahrain, brought together over thirty regional government officials and focused on strengthening cooperation on border security and identity management to improve safe migration across the region. The workshop also outlined recommendations on cross border cooperation as well as measures aimed at strengthening access to legal identity, consular support and protection of migrants, and technical capacities of governments in risk analysis, including document verification and use of biometrics technologies. Participants at the workshop represented border and immigration authorities from Bahrain, Egypt, Iraq, Jordan, Kuwait, Libya, Mauritania, Morocco, Oman, United Arab Emirates, Kingdom of Saudi Arabia, Tunisia, and Yemen. Local and international experts from IOM, UNICEF, UNOCT, ICAO, and various Arab countries",
+  "date": "17 January 2023"
+}

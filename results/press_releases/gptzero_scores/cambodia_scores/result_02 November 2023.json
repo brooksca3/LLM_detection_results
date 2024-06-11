@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e541f94a-5257-4b1e-a328-657489828275",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17971418694341718,
+        "human": 0.8192474585792531,
+        "mixed": 0.001038354477329771
+      },
+      "completely_generated_prob": 0.17971418694341718,
+      "confidence_category": "low",
+      "confidence_score": 0.8192474585792531,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17971418694341718,
+          "human": 0.8192474585792531,
+          "mixed": 0.001038354477329771
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.845232963562012,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.32565635442733765,
+          "perplexity": 53,
+          "sentence": "PHNOM PENH (2 November 2023) - The United Nations Human Rights and UNESCO jointly convened a multi-stakeholder consultation on the implementation of International Human Rights Standards on Press Freedom to commemorate the \"International Day to End Impunity for Crimes against Journalists\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.36673659086227417,
+          "perplexity": 19,
+          "sentence": "The consultation was attended by more than 150 participants, including government officials, diplomatic community, United Nations representatives, international and regional experts, civil society organisations, media and journalists, academics, and youth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.34323355555534363,
+          "perplexity": 22,
+          "sentence": "The consultation aimed at a) raising awareness about the freedom of the press in light of international human rights obligations of Cambodia, b) creating a space for authorities and stakeholders to discuss challenges to the freedom of the press and opportunities to comply with international human rights obligations, and c) highlighting the safety mechanisms and measures implemented by Cambodian authorities to address the gaps and challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3256474733352661,
+          "perplexity": 17,
+          "sentence": "The consultation included two panel discussions focusing on a) the role of parliament and judiciary in safeguarding and advancing the freedom of the press, b) the role of State institutions and law enforcement agencies in protecting and promoting the freedom of the press in its three key aspects: freedom of expression, safety of journalists, and access to information.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3233056664466858,
+          "perplexity": 31,
+          "sentence": "These topics have created a unique opportunity for State authorities and civil society representatives to exchange their experiences, address challenges, and explore avenues for enhanced cooperation, coordination, and concerted efforts in upholding the freedom of the press.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2957891821861267,
+          "perplexity": 37,
+          "sentence": "This endeavour aligns with the provisions outlined in the Cambodian Constitution and adheres to international human rights standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2570936381816864,
+          "perplexity": 38,
+          "sentence": "Addressing the closing ceremony, Roueida El Hage, Country Representative of the United Nations Human Rights Office, she stated that \u201ctogether with the stakeholders, we should continue to strengthen efforts to raise awareness about the rights to freedom of opinion and expression under the International Covenant on Civil and Political Rights",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "PHNOM PENH (2 November 2023) \u2013 The United Nations Human Rights and UNESCO jointly convened a multi-stakeholder consultation on the implementation of International Human Rights Standards on Press Freedom to commemorate the \"International Day to End Impunity for Crimes against Journalists\". The consultation was attended by more than 150 participants, including government officials, diplomatic community, United Nations representatives, international and regional experts, civil society organisations, media and journalists, academics, and youth. The consultation aimed at a) raising awareness about the freedom of the press in light of international human rights obligations of Cambodia, b) creating a space for authorities and stakeholders to discuss challenges to the freedom of the press and opportunities to comply with international human rights obligations, and c) highlighting the safety mechanisms and measures implemented by Cambodian authorities to address the gaps and challenges. The consultation included two panel discussions focusing on a) the role of parliament and judiciary in safeguarding and advancing the freedom of the press, b) the role of State institutions and law enforcement agencies in protecting and promoting the freedom of the press in its three key aspects: freedom of expression, safety of journalists, and access to information. These topics have created a unique opportunity for State authorities and civil society representatives to exchange their experiences, address challenges, and explore avenues for enhanced cooperation, coordination, and concerted efforts in upholding the freedom of the press. This endeavour aligns with the provisions outlined in the Cambodian Constitution and adheres to international human rights standards. Addressing the closing ceremony, Roueida El Hage, Country Representative of the United Nations Human Rights Office, she stated that \u201ctogether with the stakeholders, we should continue to strengthen efforts to raise awareness about the rights to freedom of opinion and expression under the International Covenant on Civil and Political Rights",
+  "date": "02 November 2023"
+}

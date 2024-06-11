@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "27cd44a1-0db1-4e6c-b1ca-21d4b42e7b95",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.959232330322266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002469592960551381,
+          "perplexity": 38,
+          "sentence": "To support Infection, Prevention and Control (IPC) measures in the workplace especially during COVID-19, the Pan American Health Organization/World Health Organization (PAHO/WHO), through funding from the Government of Germany, donated several Personal Protective Equipment (PPEs) to the Belize Tourism Board (BTB).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029694591648876667,
+          "perplexity": 215,
+          "sentence": "\u201cThe COVID-19 pandemic has created new challenges particularly in the workplace where IPC measures are crucial to reducing the risk and spread of the virus,\u201d said Lealou Reballos, PAHO/WHO Technical Officer for Health Emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032942991238087416,
+          "perplexity": 37,
+          "sentence": "\u201cBy collaborating with the BTB, we can strengthen the prevention measures for businesses within the tourism industry in Belize.\u201d In a country that is highly dependent on tourism, Belize's tourism industry is one of the industries particularly affected by the effects of the coronavirus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030682494398206472,
+          "perplexity": 51,
+          "sentence": "As Belize begins reopening its economy, occupational safety and health must be taken into consideration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025735667441040277,
+          "perplexity": 99,
+          "sentence": "Through this donation of PPEs, 300 micro and small enterprises (MSEs) will benefit from having additional supplies to reduce the risk of COVID-19 infection in their workplace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002889960305765271,
+          "perplexity": 134,
+          "sentence": "The donated items included: Mr. Jose Carballo, BTB's Director of Industry Development noted, \u201cWith the devastating impact of the COVID-19 pandemic on Belize's tourism sector; the BTB remains committed to aiding in its recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021666823886334896,
+          "perplexity": 75,
+          "sentence": "This support from PAHO will contribute to this effort as these donations of PPEs will be distributed to MSEs throughout the country and will increase standards and quality of public health and safety plans for all tourism sectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001934557338245213,
+          "perplexity": 162,
+          "sentence": "Further, combined with extensive training components this distribution will allow our stakeholders and partners to achieve certification and other pertinent growth opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036811053287237883,
+          "perplexity": 129,
+          "sentence": "The BTB expresses its gratitude for PAHO's generous contribution and remains confident that through strengthened partnership and collaboration on promoting health and safety we can aid in reducing the risk of COVID-19 in Belize.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "To support Infection, Prevention and Control (IPC) measures in the workplace especially during COVID-19, the Pan American Health Organization/World Health Organization (PAHO/WHO), through funding from the Government of Germany, donated several Personal Protective Equipment (PPEs) to the Belize Tourism Board (BTB). \u201cThe COVID-19 pandemic has created new challenges particularly in the workplace where IPC measures are crucial to reducing the risk and spread of the virus,\u201d said Lealou Reballos, PAHO/WHO Technical Officer for Health Emergencies. \u201cBy collaborating with the BTB, we can strengthen the prevention measures for businesses within the tourism industry in Belize.\u201d In a country that is highly dependent on tourism, Belize\u2019s tourism industry is one of the industries particularly affected by the effects of the coronavirus. As Belize begins reopening its economy, occupational safety and health must be taken into consideration. Through this donation of PPEs, 300 micro and small enterprises (MSEs) will benefit from having additional supplies to reduce the risk of COVID-19 infection in their workplace. The donated items included: Mr. Jose Carballo, BTB\u2019s Director of Industry Development noted, \u201cWith the devastating impact of the COVID-19 pandemic on Belize\u2019s tourism sector; the BTB remains committed to aiding in its recovery. This support from PAHO will contribute to this effort as these donations of PPEs will be distributed to MSEs throughout the country and will increase standards and quality of public health and safety plans for all tourism sectors. Further, combined with extensive training components this distribution will allow our stakeholders and partners to achieve certification and other pertinent growth opportunities. The BTB expresses its gratitude for PAHO\u2019s generous contribution and remains confident that through strengthened partnership and collaboration on promoting health and safety we can aid in reducing the risk of COVID-19 in Belize.\u201d",
+  "date": "23 November 2021"
+}

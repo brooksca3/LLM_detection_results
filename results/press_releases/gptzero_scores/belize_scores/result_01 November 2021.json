@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a73abd7-0bb5-4ea6-9de3-f2b917ba4d25",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01353722315958228,
+        "human": 0.9855098460175901,
+        "mixed": 0.0009529308228277382
+      },
+      "completely_generated_prob": 0.01353722315958228,
+      "confidence_category": "high",
+      "confidence_score": 0.9855098460175901,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01353722315958228,
+          "human": 0.9855098460175901,
+          "mixed": 0.0009529308228277382
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 86.75910949707031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017371501598972827,
+          "perplexity": 268,
+          "sentence": "As the country tries to balance preparedness response actions including continuity of essential services while simultaneously managing case surges within the current economic reality, Belize must continue to strengthen its COVID-19 response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001683108857832849,
+          "perplexity": 11,
+          "sentence": "For that reason, the Ministry of Foreign Affairs, Foreign Trade and Immigration (MoFATI) and the Ministry of Health and Wellness (MoHW) submitted a proposal to the Permanent Mission of India to the United Nations on 23 June 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017187822959385812,
+          "perplexity": 87,
+          "sentence": "\u201cOnce again, this affirms the great and solid relationship shared between India and Belize and with that brotherhood spirit we are honored to be a part of it this donation,\u201d commented Mr. Arun Hotchandani, Honorary Consul of India.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017150693747680634,
+          "perplexity": 49,
+          "sentence": "Through the India-UN Development Partnership Fund, a dedicated facility within the United Nations Fund for South-South Cooperation established in 2017, the Government of the Republic of India approved this US$1 million fund for Belize.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018055265536531806,
+          "perplexity": 60,
+          "sentence": "\u201cThe Pan American Health Organization/World Health Organization (PAHO/WHO) is the implementing agency for the India-UN Development Partnership Fund,\u201d said Dr. Noreen Jack, PAHO/WHO Representative in Belize.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003944923169910908,
+          "perplexity": 24,
+          "sentence": "\u201cThe fund specifically aims to strengthen clinical management of COVID-19 patients, and, most importantly, to fund actions that will reduce the risk of the transmission of COVID-19 among health workers in Belize.\u201d Also, in collaboration with the United Nations Office of South-South Cooperation (UNOSSC), the project is centered around 'Strengthening Clinical Management of COVID-19 Patients and Reducing of Risk of COVID-19 Transmission among Health Workers in Belize' targeting three main objectives: \u201cWe in the United Nations stand in solidarity and remain committed to supporting the people and Government of Belize to address the continued impact of the COVID-19 pandemic,\u201d said UN Resident Coordinator to Belize, Birgit Gerstenberg.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002813629573211074,
+          "perplexity": 109,
+          "sentence": "\u201cWe reaffirm our pledge to continue accompanying all necessary actions to reduce the health and socio-economic impact of the COVID-19 pandemic to allow for Belize's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As the country tries to balance preparedness response actions including continuity of essential services while simultaneously managing case surges within the current economic reality, Belize must continue to strengthen its COVID-19 response. For that reason, the Ministry of Foreign Affairs, Foreign Trade and Immigration (MoFATI) and the Ministry of Health and Wellness (MoHW) submitted a proposal to the Permanent Mission of India to the United Nations on 23 June 2020. \u201cOnce again, this affirms the great and solid relationship shared between India and Belize and with that brotherhood spirit we are honored to be a part of it this donation,\u201d commented Mr. Arun Hotchandani, Honorary Consul of India. Through the India-UN Development Partnership Fund, a dedicated facility within the United Nations Fund for South-South Cooperation established in 2017, the Government of the Republic of India approved this US$1 million fund for Belize. \u201cThe Pan American Health Organization/World Health Organization (PAHO/WHO) is the implementing agency for the India-UN Development Partnership Fund,\u201d said Dr. Noreen Jack, PAHO/WHO Representative in Belize. \u201cThe fund specifically aims to strengthen clinical management of COVID-19 patients, and, most importantly, to fund actions that will reduce the risk of the transmission of COVID-19 among health workers in Belize.\u201d Also, in collaboration with the United Nations Office of South-South Cooperation (UNOSSC), the project is centered around \u2018Strengthening Clinical Management of COVID-19 Patients and Reducing of Risk of COVID-19 Transmission among Health Workers in Belize\u2019 targeting three main objectives: \u201cWe in the United Nations stand in solidarity and remain committed to supporting the people and Government of Belize to address the continued impact of the COVID-19 pandemic,\u201d said UN Resident Coordinator to Belize, Birgit Gerstenberg. \u201cWe reaffirm our pledge to continue accompanying all necessary actions to reduce the health and socio-economic impact of the COVID-19 pandemic to allow for Belize\u2019s",
+  "date": "01 November 2021"
+}

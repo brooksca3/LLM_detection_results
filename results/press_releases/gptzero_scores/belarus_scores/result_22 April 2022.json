@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6dee26fc-e6bb-4a10-a744-7a337748ca98",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05212952854862654,
+        "human": 0.9472119301777187,
+        "mixed": 0.0006585412736547712
+      },
+      "completely_generated_prob": 0.05212952854862654,
+      "confidence_category": "medium",
+      "confidence_score": 0.9472119301777187,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05212952854862654,
+          "human": 0.9472119301777187,
+          "mixed": 0.0006585412736547712
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.34444522857666,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03262845426797867,
+          "perplexity": 27,
+          "sentence": "ILO Director-General Guy Ryder has expressed deep concern over reports of the arrests of trade union leaders in Belarus and has called for a halt to the intimidation of those peacefully exercising their freedom of association rights in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028507793322205544,
+          "perplexity": 30,
+          "sentence": "The arrests are reported to have been made as officials of the State Security Committee of the Republic of Belarus searched trade union offices and their leaders' homes, seizing computers, personal documents, passports, union flags, leaflets and other items.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030856851488351822,
+          "perplexity": 24,
+          "sentence": "Those arrested include Alexander Yaroshuk, President of the Belarusian Congress of Democratic Trade Unions (BKDP), who is also vice-president of the International Trade Union Confederation (ITUC) and a member of the ILO Governing Body; Siarhei Antusevich, BKDP Vice-President; Oleg Podolinski, BKDP International Secretary, and Elena Yeskova the Unions' lawyer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030414829030632973,
+          "perplexity": 49,
+          "sentence": "Mikola Sharakh, Chairperson of the Belarusian Free Trade Union, was also arrested on his way to a court hearing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029229765757918358,
+          "perplexity": 23,
+          "sentence": "There are reports that more than a dozen other trade union leaders have also been arrested.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027111554518342018,
+          "perplexity": 23,
+          "sentence": "The arrest, even briefly, of trade union leaders for exercising their legitimate right to freedom of association constitutes a grave violation of the principles of freedom of association.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019552526995539665,
+          "perplexity": 8,
+          "sentence": "Trade union rights lose all meaning in the absence of full and meaningful respect for those civil liberties enunciated in the Universal Declaration of Human Rights and in the International Covenant on Civil and Political Rights, in particular the right to freedom and security of the individual, freedom from arbitrary arrest and detention, freedom of opinion and expression, freedom of assembly, the right to a fair trial and the right to protection of trade union property.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024604516103863716,
+          "perplexity": 23,
+          "sentence": "The Director-General calls on the responsible Belarusian authorities to immediately release the trade union leaders and any others still detained, and to take all necessary measures to ensure that they can carry out",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "ILO Director-General Guy Ryder has expressed deep concern over reports of the arrests of trade union leaders in Belarus and has called for a halt to the intimidation of those peacefully exercising their freedom of association rights in the country. The arrests are reported to have been made as officials of the State Security Committee of the Republic of Belarus searched trade union offices and their leaders\u2019 homes, seizing computers, personal documents, passports, union flags, leaflets and other items. Those arrested include Alexander Yaroshuk, President of the Belarusian Congress of Democratic Trade Unions (BKDP), who is also vice-president of the International Trade Union Confederation (ITUC) and a member of the ILO Governing Body; Siarhei Antusevich, BKDP Vice-President; Oleg Podolinski, BKDP International Secretary, and Elena Yeskova the Unions\u2019 lawyer. Mikola Sharakh, Chairperson of the Belarusian Free Trade Union, was also arrested on his way to a court hearing. There are reports that more than a dozen other trade union leaders have also been arrested. The arrest, even briefly, of trade union leaders for exercising their legitimate right to freedom of association constitutes a grave violation of the principles of freedom of association. Trade union rights lose all meaning in the absence of full and meaningful respect for those civil liberties enunciated in the Universal Declaration of Human Rights and in the International Covenant on Civil and Political Rights, in particular the right to freedom and security of the individual, freedom from arbitrary arrest and detention, freedom of opinion and expression, freedom of assembly, the right to a fair trial and the right to protection of trade union property. The Director-General calls on the responsible Belarusian authorities to immediately release the trade union leaders and any others still detained, and to take all necessary measures to ensure that they can carry out",
+  "date": "22 April 2022"
+}

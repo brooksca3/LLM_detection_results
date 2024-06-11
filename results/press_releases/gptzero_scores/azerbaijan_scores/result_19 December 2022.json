@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e925dbbd-e440-4578-9126-43691f7dbaa0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.649803161621094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00047562530380673707,
+          "perplexity": 78,
+          "sentence": "In the opening speech Mr Vladimir Gjorgjiev, Chief of Mission for IOM Azerbaijan noted that IOM is well positioned to be an honest partner with contributions to Azerbaijan development and to build capacity for the governance of migration within the local context that are linked with all regional and international frameworks for cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006939548766240478,
+          "perplexity": 57,
+          "sentence": "\u201cTo demonstrate its commitments to the global migration management frameworks, the United Nations Sustainable Development Agenda 2030 and the Global Compact for Safe, Orderly and Regular Migration, the Government of Azerbaijan under the leadership of the State Migration Service - one of the key partner to IOM in the field of migration, has invested core resources in key areas, such as policy capacity, data, and research, knowledge management, staff development, training, and communications to respond effectively to the migration phenomenon,\u201d said Gjorgjiev.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005882534896954894,
+          "perplexity": 70,
+          "sentence": "He went on to add that the IOM will continue to foster effective collaboration in support of the government's initiatives, efforts, and implementation of the GCM and SDG 2030 within the newly developed Strategy of the IOM Mission in Azerbaijan which strategic priorities are Resilience, Mobility, Governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005704663344658911,
+          "perplexity": 66,
+          "sentence": "\u201cThis Strategy is a key tool in clearly articulating trends and challenges and how IOM will work with governments, migrant communities, and our main partners to achieve a positive impact over the course of the next four years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004173151683062315,
+          "perplexity": 195,
+          "sentence": "The Strategy affirms IOM's mandate and core priorities as laid out in its, Strategic Vision and related governance documents as well the priorities defined in the United Nations Sustainable Development Cooperation Framework 2021-2025 for Azerbaijan\u201d said Gjorgjiev.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007726825424470007,
+          "perplexity": 29,
+          "sentence": "Ms Vladanka Andreeva, the UN Resident Coordinator, noted that International Migrants' Day is an opportunity to reflect on the role of migrants in our societies, their positive contributions, and the challenges they face in achieving their full potential - over 280 million people",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In the opening speech Mr Vladimir Gjorgjiev, Chief of Mission for IOM Azerbaijan noted that IOM is well positioned to be an honest partner with contributions to Azerbaijan development and to build capacity for the governance of migration within the local context that are linked with all regional and international frameworks for cooperation. \u201cTo demonstrate its commitments to the global migration management frameworks, the United Nations Sustainable Development Agenda 2030 and the Global Compact for Safe, Orderly and Regular Migration, the Government of Azerbaijan under the leadership of the State Migration Service - one of the key partner to IOM in the field of migration, has invested core resources in key areas, such as policy capacity, data, and research, knowledge management, staff development, training, and communications to respond effectively to the migration phenomenon,\u201d said Gjorgjiev. He went on to add that the IOM will continue to foster effective collaboration in support of the government\u2019s initiatives, efforts, and implementation of the GCM and SDG 2030 within the newly developed Strategy of the IOM Mission in Azerbaijan which strategic priorities are Resilience, Mobility, Governance. \u201cThis Strategy is a key tool in clearly articulating trends and challenges and how IOM will work with governments, migrant communities, and our main partners to achieve a positive impact over the course of the next four years. The Strategy affirms IOM\u2019s mandate and core priorities as laid out in its, Strategic Vision and related governance documents as well the priorities defined in the United Nations Sustainable Development Cooperation Framework 2021-2025 for Azerbaijan\u201d said Gjorgjiev. Ms Vladanka Andreeva, the UN Resident Coordinator, noted that International Migrants\u2019 Day is an opportunity to reflect on the role of migrants in our societies, their positive contributions, and the challenges they face in achieving their full potential \u2013 over 280 million people",
+  "date": "19 December 2022"
+}

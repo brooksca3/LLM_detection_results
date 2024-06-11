@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b16c290e-d8a7-4e9f-bd94-d976383704f0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.72601318359375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00027999148005619645,
+          "perplexity": 22,
+          "sentence": "In his first official visit to the Kingdom of Bahrain, the Director General of International Organization for Migration (IOM), Mr. Ant\u00f3nio Vitorino heads an IOM delegation to conduct several bilateral meetings with senior officials to build on and enhance the strong partnership with Bahrain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003015464171767235,
+          "perplexity": 52,
+          "sentence": "During his visit, the Director General will also participate in the 146th assembly of the Inter-Parliamentary Union, which is being held at the Exhibition World Bahrain with the overarching theme of ''Promoting peaceful coexistence and inclusive societies: Fighting intolerance.''",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003782583517022431,
+          "perplexity": 53,
+          "sentence": "\u201cBahrain has been an important global crossroads dating back to the Dilmun civilization, and is today a vibrant multi-cultural and multi-religious hub.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035399835905991495,
+          "perplexity": 127,
+          "sentence": "This rich history underpins Bahrain's role today as a model of tolerance and coexistence Said Ant\u00f3nio Vitorino, IOM Director General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027037475258111954,
+          "perplexity": 35,
+          "sentence": "\u201cIOM is keen to build on its excellent partnership with the government of Bahrain, which continues to play an integral role in enhancing and promoting international multilateralism.\u201d \u201cThe increasing number of global challenges continue to drive the movement of people, and we need to work together at an accelerated pace in order to utilize our resources and partnerships to enable a safe, orderly and regular migration for all.\u201d IOM's Director General will conduct several high-level meetings, including with HRH Prince Salman bin Hamad Al Khalifa the Crown Prince, Deputy Supreme Commander and Prime Minister, HE Lieutenant General Rashid bin Abdullah Al Khalifa, Interior Minister, and HE Dr. Abdullatif bin Rashid Alzayani, Foreign Minister, HE Jameel Bin Mohammed Ali Hamaidan, Minister of Labour, and the Chief Executive of the Bahrain Labour Market Authority (LMRA), HE Nouf Abdulrahman Jamsheer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025576500222086906,
+          "perplexity": 47,
+          "sentence": "The Director General is accompanied by the IOM Regional Director for MENA, Othman Belbeisi, The Director General Senior Regional Advisor for MENA, Hassan Mostafa Abdel-Moneim, the Chief of Mission of IOM Bahrain, Mohamed EL Zarkani, and other senior",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In his first official visit to the Kingdom of Bahrain, the Director General of International Organization for Migration (IOM), Mr. Ant\u00f3nio Vitorino heads an IOM delegation to conduct several bilateral meetings with senior officials to build on and enhance the strong partnership with Bahrain. During his visit, the Director General will also participate in the 146th assembly of the Inter-Parliamentary Union, which is being held at the Exhibition World Bahrain with the overarching theme of \u2018\u2019Promoting peaceful coexistence and inclusive societies: Fighting intolerance.\u2019\u2019 \u201cBahrain has been an important global crossroads dating back to the Dilmun civilization, and is today a vibrant multi-cultural and multi-religious hub. This rich history underpins Bahrain\u2019s role today as a model of tolerance and coexistence Said Ant\u00f3nio Vitorino, IOM Director General. \u201cIOM is keen to build on its excellent partnership with the government of Bahrain, which continues to play an integral role in enhancing and promoting international multilateralism.\u201d \u201cThe increasing number of global challenges continue to drive the movement of people, and we need to work together at an accelerated pace in order to utilize our resources and partnerships to enable a safe, orderly and regular migration for all.\u201d IOM\u2019s Director General will conduct several high-level meetings, including with HRH Prince Salman bin Hamad Al Khalifa the Crown Prince, Deputy Supreme Commander and Prime Minister, HE Lieutenant General Rashid bin Abdullah Al Khalifa, Interior Minister, and HE Dr. Abdullatif bin Rashid Alzayani, Foreign Minister, HE Jameel Bin Mohammed Ali Hamaidan, Minister of Labour, and the Chief Executive of the Bahrain Labour Market Authority (LMRA), HE Nouf Abdulrahman Jamsheer. The Director General is accompanied by the IOM Regional Director for MENA, Othman Belbeisi, The Director General Senior Regional Advisor for MENA, Hassan Mostafa Abdel-Moneim, the Chief of Mission of IOM Bahrain, Mohamed EL Zarkani, and other senior",
+  "date": "12 March 2023"
+}

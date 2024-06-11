@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3c513c92-cf48-4be9-aa94-cc6460b0e5cc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.63420486450195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010335200931876898,
+          "perplexity": 27,
+          "sentence": "The UN Global Network on Migration was launched in May 2018 as a collaborative community of UN entities working together to provide effective and coordinated system-wide support to Member States in the implementation, monitoring, and review of the Global Compact for Safe, Orderly, and Regular Migration (GCM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009971861727535725,
+          "perplexity": 57,
+          "sentence": "During the launching event the participants had a chance to obtain a greater understanding of the support mechanisms the Network will bring to the UN system in terms of migration, and to present the Network as a mechanism to assist the Government of Armenia in implementation of commitments, undertaken within the GCM and engaging other stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000937885430175811,
+          "perplexity": 61,
+          "sentence": "The event was launched with the opening remarks by Mr. Shombi Sharp, UN Resident Coordinator in Armenia Co-Chair of UNMN in Armenia, Ms. Irina Davtyan, Deputy Head of Migration Service of the Ministry of Territorial Administration and Infrastructure of the Republic of Armenia, Mr. Amr Taha, Co-chair of the Regional UNMN, Senior Regional Liaison and Policy Officer, IOM RO Vienna and Ms. Amy Muedin, Migration Network Policy Officer from UN Global Network on Migration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009366539889015257,
+          "perplexity": 52,
+          "sentence": "During his speech Mr. Sharp emphasized the importance of the Network's 360-degree approach, that will incorporate Government, academia, NGOs, and civil society, as well as emphasized the role of the IOM Armenia as the country's Network coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007962657837197185,
+          "perplexity": 135,
+          "sentence": "\u201cThe Network is expanding to 15+ networks around the globe, which is a significant achievement as the Network prepares to host the forthcoming International Migration Review Forum in May 2022,\u201d - says Mr. Amr Taha.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006675046170130372,
+          "perplexity": 21,
+          "sentence": "The country Network's actions will be guided by the UN Charter, international law, the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005829808651469648,
+          "perplexity": 74,
+          "sentence": "\u201cIt is highly important to have such a wide discussion to determine what the Network's global vision is as well as to understand various modalities of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Global Network on Migration was launched in May 2018 as a collaborative community of UN entities working together to provide effective and coordinated system-wide support to Member States in the implementation, monitoring, and review of the Global Compact for Safe, Orderly, and Regular Migration (GCM). During the launching event the participants had a chance to obtain a greater understanding of the support mechanisms the Network will bring to the UN system in terms of migration, and to present the Network as a mechanism to assist the Government of Armenia in implementation of commitments, undertaken within the GCM and engaging other stakeholders. The event was launched with the opening remarks by Mr. Shombi Sharp, UN Resident Coordinator in Armenia Co-Chair of UNMN in Armenia, Ms. Irina Davtyan, Deputy Head of Migration Service of the Ministry of Territorial Administration and Infrastructure of the Republic of Armenia, Mr. Amr Taha, Co-chair of the Regional UNMN, Senior Regional Liaison and Policy Officer, IOM RO Vienna and Ms. Amy Muedin, Migration Network Policy Officer from UN Global Network on Migration. During his speech Mr. Sharp emphasized the importance of the Network's 360-degree approach, that will incorporate Government, academia, NGOs, and civil society, as well as emphasized the role of the IOM Armenia as the country\u2019s Network coordinator. \u201cThe Network is expanding to 15+ networks around the globe, which is a significant achievement as the Network prepares to host the forthcoming International Migration Review Forum in May 2022,\u201d - says Mr. Amr Taha. The country Network's actions will be guided by the UN Charter, international law, the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs). \u201cIt is highly important to have such a wide discussion to determine what the Network's global vision is as well as to understand various modalities of",
+  "date": "24 June 2021"
+}

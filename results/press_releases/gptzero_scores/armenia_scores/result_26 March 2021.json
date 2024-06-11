@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9afcbe32-b1f5-415c-8e5e-e297b728bf01",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.779043197631836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013915266026742756,
+          "perplexity": 39,
+          "sentence": "UNHCR, the UN Refugee Agency, today announced the appointment of Alphonso Davies, FC Bayern Munich's left-back and player for Canada Men's National Football Team, as its newest Global Goodwill Ambassador.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001450790005037561,
+          "perplexity": 29,
+          "sentence": "Accepting his new role as UNHCR Goodwill Ambassador, Davies said: \u201cI am proud to join the UN Refugee Agency, as a Goodwill Ambassador.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015017783152870834,
+          "perplexity": 32,
+          "sentence": "My own experiences make me want to speak up for refugees, to share their stories and to help make a difference.\u201d Welcoming Davies on UNHCR's Goodwill Ambassador team, Filippo Grandi, the United Nations High Commissioner for Refugees, said: \u201cAlphonso Davies personifies the power of sport and we are truly honored to have him joining us.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014793238369747996,
+          "perplexity": 37,
+          "sentence": "Sport has the incredible power to bring hope, to heal and to help shape the future for those forced to flee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013144350668881088,
+          "perplexity": 77,
+          "sentence": "In our work with refugees we see daily what uplifting difference sports can make in their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014347188698593527,
+          "perplexity": 93,
+          "sentence": "\u201cHis personal story, his talent and triumph as a professional footballer and his commitment to help refugees is impressive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012578746827784926,
+          "perplexity": 22,
+          "sentence": "I am looking forward to working with him.\u201d Born in a refugee camp in Ghana, to Liberian parents who fled the civil war in their home country, Davies knows first-hand what it means to be a refugee: \u201cWhilst the refugee camp provided a safe place for my family when they fled war, I often wonder where I would have been if I had stayed there and not benefited from the opportunities I got thanks to resettlement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012875629181507975,
+          "perplexity": 37,
+          "sentence": "I don't think I would have made it to where I am today.\u201d Davies and his family were resettled to Canada when he was five.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000123297082609497,
+          "perplexity": 24,
+          "sentence": "At 15, Davies began playing professional football and only a year later he had his national team debut, making him the youngest player ever on Canada's Men's National Team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012017474364256486,
+          "perplexity": 97,
+          "sentence": "Now at 20, Alphonso is",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNHCR, the UN Refugee Agency, today announced the appointment of Alphonso Davies, FC Bayern Munich\u2019s left-back and player for Canada Men\u2019s National Football Team, as its newest Global Goodwill Ambassador. Accepting his new role as UNHCR Goodwill Ambassador, Davies said: \u201cI am proud to join the UN Refugee Agency, as a Goodwill Ambassador. My own experiences make me want to speak up for refugees, to share their stories and to help make a difference.\u201d Welcoming Davies on UNHCR\u2019s Goodwill Ambassador team, Filippo Grandi, the United Nations High Commissioner for Refugees, said: \u201cAlphonso Davies personifies the power of sport and we are truly honored to have him joining us. Sport has the incredible power to bring hope, to heal and to help shape the future for those forced to flee. In our work with refugees we see daily what uplifting difference sports can make in their lives. \u201cHis personal story, his talent and triumph as a professional footballer and his commitment to help refugees is impressive. I am looking forward to working with him.\u201d Born in a refugee camp in Ghana, to Liberian parents who fled the civil war in their home country, Davies knows first-hand what it means to be a refugee: \u201cWhilst the refugee camp provided a safe place for my family when they fled war, I often wonder where I would have been if I had stayed there and not benefited from the opportunities I got thanks to resettlement. I don\u2019t think I would have made it to where I am today.\u201d Davies and his family were resettled to Canada when he was five. At 15, Davies began playing professional football and only a year later he had his national team debut, making him the youngest player ever on Canada\u2019s Men\u2019s National Team. Now at 20, Alphonso is",
+  "date": "26 March 2021"
+}

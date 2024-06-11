@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "99d19efe-4803-47d1-9f27-3de192f63c61",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.40299415588379,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016063431394286454,
+          "perplexity": 13,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) in partnership with the International Fund for Agricultural Development (IFAD) and the Government of Egypt have launched a new project to strengthen the capacities of smallholder farmers to adopt sustainable management of water, soil and agronomic practices that will contribute to increase productivity and the quality of production in terms of nutrient content and economic value.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015365408034995198,
+          "perplexity": 63,
+          "sentence": "The inception workshop, held in hybrid mode with virtual and physical participants, brought together stakeholders from government, national research institutes and development organizations operating in the agriculture, water and nutrition sectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015593804710078984,
+          "perplexity": 35,
+          "sentence": "The project, \"Increasing water productivity for nutrition-sensitive agriculture and improved food security and nutrition,\" is being implemented in six pilot countries: Benin, Niger, Mozambique, Rwanda, Egypt and Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001422494533471763,
+          "perplexity": 53,
+          "sentence": "The project aims to work with between 600 and 1 000 smallholder farmers as well as 200 to 300 extension agents, field supervisors, decision-makers and technicians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015011198411229998,
+          "perplexity": 32,
+          "sentence": "To support the acceleration of progress towards the achievement of sustainable development goals on water (SDG 6) and nutrition (SDG 2), the project will promote the coordination of actions among water, agriculture and nutrition sectors at national level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013922445941716433,
+          "perplexity": 68,
+          "sentence": "In addition, the project aims to provide farmers with the technical knowledge necessary to achieve \"more nutrients and better economic prospects per drop\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014415425539482385,
+          "perplexity": 36,
+          "sentence": "Mr. Mohamed Abdelgadir, IFAD Country Director in Egypt said \u201cThere is a need to continue our collaborative efforts to provide tailored intervention, promote strategies and policies in the region that can mitigate the exacerbating social, economic and environmental conditions of family farmers and, especially, increase their resilience and food security.\u201d Prof. Dr. Mohamed Soliman, President of the Agriculture Research Centre (ARC) of the Ministry of Agriculture and Land Reclamation (MALR) of Egypt said \u201cFood system transformation is needed to address the hundreds of millions of people without adequate",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations (FAO) in partnership with the International Fund for Agricultural Development (IFAD) and the Government of Egypt have launched a new project to strengthen the capacities of smallholder farmers to adopt sustainable management of water, soil and agronomic practices that will contribute to increase productivity and the quality of production in terms of nutrient content and economic value. The inception workshop, held in hybrid mode with virtual and physical participants, brought together stakeholders from government, national research institutes and development organizations operating in the agriculture, water and nutrition sectors. The project, \"Increasing water productivity for nutrition-sensitive agriculture and improved food security and nutrition,\" is being implemented in six pilot countries: Benin, Niger, Mozambique, Rwanda, Egypt and Jordan. The project aims to work with between 600 and 1 000 smallholder farmers as well as 200 to 300 extension agents, field supervisors, decision-makers and technicians. To support the acceleration of progress towards the achievement of sustainable development goals on water (SDG 6) and nutrition (SDG 2), the project will promote the coordination of actions among water, agriculture and nutrition sectors at national level. In addition, the project aims to provide farmers with the technical knowledge necessary to achieve \"more nutrients and better economic prospects per drop\". Mr. Mohamed Abdelgadir, IFAD Country Director in Egypt said \u201cThere is a need to continue our collaborative efforts to provide tailored intervention, promote strategies and policies in the region that can mitigate the exacerbating social, economic and environmental conditions of family farmers and, especially, increase their resilience and food security.\u201d Prof. Dr. Mohamed Soliman, President of the Agriculture Research Centre (ARC) of the Ministry of Agriculture and Land Reclamation (MALR) of Egypt said \u201cFood system transformation is needed to address the hundreds of millions of people without adequate",
+  "date": "15 June 2022"
+}

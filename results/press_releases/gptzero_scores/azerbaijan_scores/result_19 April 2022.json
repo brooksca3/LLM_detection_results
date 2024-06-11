@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "211bd178-f187-4062-af89-4d7fe9d29fc8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.960670471191406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0041508967988193035,
+          "perplexity": 84,
+          "sentence": "This new digital solution for return and readmission case management developed by the International Organization for Migration (IOM) has intuitive interfaces and is adapted to the context of Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037524269428104162,
+          "perplexity": 37,
+          "sentence": "Therefore, it did not take long for the future users of the electronic RCMS to start exploring and probing the full functionality of the RCMS during the training and testing sessions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003287439001724124,
+          "perplexity": 95,
+          "sentence": "The two training and testing sessions delivered by IOM Azerbaijan's service provider Technofusion LLC were tailored to the needs of different groups of the future RCMS users: those who will process readmission and transit cases through their individual regular user accounts and those who will adjust various settings in the RCMS through the primary user accounts to ensure the correct workflow and access rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035609642509371042,
+          "perplexity": 64,
+          "sentence": "The participants were provided with test scenarios that they can later apply in the RCMS, to check how the System responds, and to share the outcomes of the testing with the RCMS developers and IOM.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003656777087599039,
+          "perplexity": 81,
+          "sentence": "The future users' feedback and change requests will also be essential for the next releases of the System.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025090468116104603,
+          "perplexity": 168,
+          "sentence": "While future users are acquiring skills for operating the electronic RCMS, the IT staff of the State Migration Service is testing the newly installed IT equipment and software purchased and handed over by IOM Azerbaijan to ensure security and integrity of the RCMS when operations go live.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002149091335013509,
+          "perplexity": 48,
+          "sentence": "Deployment of the electronic Readmission Case Management System and related activities are implemented by IOM Azerbaijan in partnership with the State Migration Service and the Ministry of Foreign Affairs of the Republic of Azerbaijan under the \u201cStrengthening Readmission Management in Azerbaijan\u201d project funded by the European Union via the EURCAP Facility.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This new digital solution for return and readmission case management developed by the International Organization for Migration (IOM) has intuitive interfaces and is adapted to the context of Azerbaijan. Therefore, it did not take long for the future users of the electronic RCMS to start exploring and probing the full functionality of the RCMS during the training and testing sessions. The two training and testing sessions delivered by IOM Azerbaijan\u2019s service provider Technofusion LLC were tailored to the needs of different groups of the future RCMS users: those who will process readmission and transit cases through their individual regular user accounts and those who will adjust various settings in the RCMS through the primary user accounts to ensure the correct workflow and access rights. The participants were provided with test scenarios that they can later apply in the RCMS, to check how the System responds, and to share the outcomes of the testing with the RCMS developers and IOM. The future users\u2019 feedback and change requests will also be essential for the next releases of the System. While future users are acquiring skills for operating the electronic RCMS, the IT staff of the State Migration Service is testing the newly installed IT equipment and software purchased and handed over by IOM Azerbaijan to ensure security and integrity of the RCMS when operations go live. Deployment of the electronic Readmission Case Management System and related activities are implemented by IOM Azerbaijan in partnership with the State Migration Service and the Ministry of Foreign Affairs of the Republic of Azerbaijan under the \u201cStrengthening Readmission Management in Azerbaijan\u201d project funded by the European Union via the EURCAP Facility.",
+  "date": "19 April 2022"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4cf62541-50cf-4afe-bc5a-5293058355ca",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.593889236450195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003840959398075938,
+          "perplexity": 28,
+          "sentence": "The United Nations in Afghanistan issued today its Strategic Framework for Afghanistan for the period 2023-2025, outlining the priorities of the organization in support of the Afghan people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003290905733592808,
+          "perplexity": 21,
+          "sentence": "The UN Strategic Framework articulates the UN's approach to addressing basic human needs in Afghanistan, prioritizing the needs and rights of those most vulnerable, including women and girls, children and youth, internally displaced persons, returnees, refugees, ethnic and religious minorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031352616497315466,
+          "perplexity": 55,
+          "sentence": "\u201cOur Strategic Framework is a robust offer of assistance to the people of Afghanistan to address their basic human needs and complement the ongoing delivery of lifesaving humanitarian assistance,\u201d said the Special Representative of the Secretary-General for Afghanistan, Roza Otunbayeva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003033670363947749,
+          "perplexity": 61,
+          "sentence": "The UN Strategic Framework was developed in close consultations with Member States, partners, and stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002665338106453419,
+          "perplexity": 45,
+          "sentence": "The United Nations Country Team and partners have identified three complementary and mutually reinforcing joint priorities as it supports the basic human needs of the Afghan people: \u201cThe United Nations and its partners recognize that humanitarian aid alone will not be enough to sustainably address the large-scale and increasing human suffering of the Afghan people in the medium and long term,\u201d said the Deputy Special Representative of the Secretary-General and Resident and Humanitarian Coordinator ad interim, Daniel Endres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024682891671545804,
+          "perplexity": 70,
+          "sentence": "The UN Strategic Framework has a special focus on the delivery of principled assistance in response to the increasingly restrictive environment facing all Afghans, in particular women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019589104340411723,
+          "perplexity": 36,
+          "sentence": "The ban against Afghan women working for the UN adds to earlier restrictions placed on Afghan women and girls by the de facto authorities: against women working for NGOs, against women working for other diplomatic entities; preventing girls from attending secondary and tertiary education institutions; against girls and women visiting public parks, baths, and gyms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021053649834357202,
+          "perplexity": 46,
+          "sentence": "These and other edicts limit the physical movement of women and girls and their participation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations in Afghanistan issued today its Strategic Framework for Afghanistan for the period 2023-2025, outlining the priorities of the organization in support of the Afghan people. The UN Strategic Framework articulates the UN\u2019s approach to addressing basic human needs in Afghanistan, prioritizing the needs and rights of those most vulnerable, including women and girls, children and youth, internally displaced persons, returnees, refugees, ethnic and religious minorities. \u201cOur Strategic Framework is a robust offer of assistance to the people of Afghanistan to address their basic human needs and complement the ongoing delivery of lifesaving humanitarian assistance,\u201d said the Special Representative of the Secretary-General for Afghanistan, Roza Otunbayeva. The UN Strategic Framework was developed in close consultations with Member States, partners, and stakeholders. The United Nations Country Team and partners have identified three complementary and mutually reinforcing joint priorities as it supports the basic human needs of the Afghan people: \u201cThe United Nations and its partners recognize that humanitarian aid alone will not be enough to sustainably address the large-scale and increasing human suffering of the Afghan people in the medium and long term,\u201d said the Deputy Special Representative of the Secretary-General and Resident and Humanitarian Coordinator ad interim, Daniel Endres. The UN Strategic Framework has a special focus on the delivery of principled assistance in response to the increasingly restrictive environment facing all Afghans, in particular women and girls. The ban against Afghan women working for the UN adds to earlier restrictions placed on Afghan women and girls by the de facto authorities: against women working for NGOs, against women working for other diplomatic entities; preventing girls from attending secondary and tertiary education institutions; against girls and women visiting public parks, baths, and gyms. These and other edicts limit the physical movement of women and girls and their participation",
+  "date": "03 July 2023"
+}

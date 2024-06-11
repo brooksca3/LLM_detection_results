@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7830e8ac-12d0-4d45-9de1-a5af5f28e2c7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 213.5538330078125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0031465147621929646,
+          "perplexity": 24,
+          "sentence": "Coal, oil, and gas are fueling the cost-of-living crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018519555451348424,
+          "perplexity": 371,
+          "sentence": "The COP28 Climate Conference can see a climate action surge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012416316894814372,
+          "perplexity": 15,
+          "sentence": "Over the last couple of years inflation has caused a cost-of-living crisis across large parts of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011955827940255404,
+          "perplexity": 64,
+          "sentence": "Some fearmongers have used the hardship this has caused billions of people to propagate rhetoric that climate change action is unaffordable and running against the interests of ordinary people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014570651110261679,
+          "perplexity": 3,
+          "sentence": "Nothing could be further from the truth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015675886534154415,
+          "perplexity": 49,
+          "sentence": "Propagating a Green vs. Poor narrative is divisive, and it is often used to mask short-term, profit-driven self-interest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00116068497300148,
+          "perplexity": 45,
+          "sentence": "The only stable, economically sustainable future is one of energy security, resilience to disasters, well-funded coordinated recovery from them, and ultimately a cap on temperature rise at 1.5 degrees centigrade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012489014770835638,
+          "perplexity": 14,
+          "sentence": "Fossil fuels, including coal, oil, and gas are a major driver of the cost-of-living crisis, which is stretching billions of household budgets to breaking point.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012040570145472884,
+          "perplexity": 100,
+          "sentence": "Prices have swung wildly, as they frequently do, driven higher by uncertainty and conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001201752806082368,
+          "perplexity": 26,
+          "sentence": "In turn, this pushes up the costs of transport, food, electricity, and basic household necessities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000875481404364109,
+          "perplexity": 67,
+          "sentence": "In some heavily fossil fuel-dependent countries, household bills rose as much as US$1000 in 2022 due to fossil fuel energy costs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000855065940413624,
+          "perplexity": 18,
+          "sentence": "Consumer costs will rise even further and economic growth will slow as climate impacts become more intense, according to economic authorities, such as the United States Treasury, the Reserve Bank of India and the European Central Bank.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000839735905174166,
+          "perplexity": 72,
+          "sentence": "High energy prices also shrink profit margins for businesses and hurt economic growth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007701882277615368,
+          "perplexity": 54,
+          "sentence": "High energy prices also shrink profit margins for businesses, hurt economic growth, and impede the right to energy access across the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007463759975507855,
+          "perplexity": 104,
+          "sentence": "Inflation hurts the poorest households the most.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007014971924945712,
+          "perplexity": 66,
+          "sentence": "This comes as climate disasters are also getting worse in every country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006886342889629304,
+          "perplexity": 58,
+          "sentence": "This year will likely be the hottest for 125,000 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007398496381938457,
+          "perplexity": 906,
+          "sentence": "More destructive storms,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Coal, oil, and gas are fueling the cost-of-living crisis. The COP28 Climate Conference can see a climate action surge. Over the last couple of years inflation has caused a cost-of-living crisis across large parts of the world. Some fearmongers have used the hardship this has caused billions of people to propagate rhetoric that climate change action is unaffordable and running against the interests of ordinary people. Nothing could be further from the truth. Propagating a Green vs. Poor narrative is divisive, and it is often used to mask short-term, profit-driven self-interest. The only stable, economically sustainable future is one of energy security, resilience to disasters, well-funded coordinated recovery from them, and ultimately a cap on temperature rise at 1.5 degrees centigrade. Fossil fuels, including coal, oil, and gas are a major driver of the cost-of-living crisis, which is stretching billions of household budgets to breaking point. Prices have swung wildly, as they frequently do, driven higher by uncertainty and conflict. In turn, this pushes up the costs of transport, food, electricity, and basic household necessities. In some heavily fossil fuel-dependent countries, household bills rose as much as US$1000 in 2022 due to fossil fuel energy costs. Consumer costs will rise even further and economic growth will slow as climate impacts become more intense, according to economic authorities, such as the United States Treasury, the Reserve Bank of India and the European Central Bank. High energy prices also shrink profit margins for businesses and hurt economic growth. High energy prices also shrink profit margins for businesses, hurt economic growth, and impede the right to energy access across the world. Inflation hurts the poorest households the most. This comes as climate disasters are also getting worse in every country. This year will likely be the hottest for 125,000 years. More destructive storms,",
+  "date": "23 November 2023"
+}

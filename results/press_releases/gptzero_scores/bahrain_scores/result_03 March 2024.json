@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "638b15e5-04e5-44f9-a679-904e54421bae",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 80.00672149658203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0021478941198438406,
+          "perplexity": 235,
+          "sentence": "Human activities have devastated our wildlife.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020622126758098602,
+          "perplexity": 128,
+          "sentence": "Human ingenuity can help to save it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026297899894416332,
+          "perplexity": 28,
+          "sentence": "Pollution, climate chaos, habitat loss, and exploitation of nature, have pushed a million plant and animal species to the brink of extinction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025109320413321257,
+          "perplexity": 77,
+          "sentence": "This is horrifying in itself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00286581227555871,
+          "perplexity": 19,
+          "sentence": "It is also a direct threat to the health and livelihoods of billions of people around the world - particularly the most vulnerable.. As the theme of this year's World Wildlife Day reminds us, digital technologies can help to turn things around.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003486144822090864,
+          "perplexity": 126,
+          "sentence": "Already, satellites are helping to track animals under threat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003268711967393756,
+          "perplexity": 88,
+          "sentence": "And data is charting wildlife migration and land use, supporting efforts to protect them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003417938482016325,
+          "perplexity": 30,
+          "sentence": "When used responsibly, sustainably and equitably, digital technologies have the potential to revolutionize conservation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003599344054237008,
+          "perplexity": 22,
+          "sentence": "But they are a tool in our arsenal, not a silver bullet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002986549399793148,
+          "perplexity": 26,
+          "sentence": "We still need concerted efforts by countries, companies, and individuals to help pull the world's wildlife back from the brink and build a just, sustainable future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001898546819575131,
+          "perplexity": 62,
+          "sentence": "At this year's Summit of the Future, Members States will discuss our proposals to develop new metrics to complement gross domestic product.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016493196599185467,
+          "perplexity": 312,
+          "sentence": "Activities like overfishing and forest clearance increase GDP while devastating nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018247492844238877,
+          "perplexity": 82,
+          "sentence": "Complementary metrics can provide balance, by measuring the things that really matter to people and planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021355231292545795,
+          "perplexity": 36,
+          "sentence": "I also urge countries to take urgent action to drastically reduce emissions, adapt to climate extremes, prevent pollution, and put the brakes on biodiversity loss, including recognizing the role Indigenous Peoples play in protecting biodiversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016492020804435015,
+          "perplexity": 52,
+          "sentence": "Developed countries must invest in biodiversity and climate action in developing countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014194335089996457,
+          "perplexity": 49,
+          "sentence": "And all governments must create new national climate plans that align with limiting global temperature rise to 1.5 degrees Celsius, as well as national biodiversity strategies that implement the Kunming-Montreal Global Biodiversity Framework.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002142768120393157,
+          "perplexity": 169,
+          "sentence": "We depend on nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017189908539876342,
+          "perplexity": 54,
+          "sentence": "Let's show that nature can depend on us - and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Human activities have devastated our wildlife. Human ingenuity can help to save it. Pollution, climate chaos, habitat loss, and exploitation of nature, have pushed a million plant and animal species to the brink of extinction. This is horrifying in itself. It is also a direct threat to the health and livelihoods of billions of people around the world \u2013 particularly the most vulnerable.. As the theme of this year\u2019s World Wildlife Day reminds us, digital technologies can help to turn things around. Already, satellites are helping to track animals under threat. And data is charting wildlife migration and land use, supporting efforts to protect them. When used responsibly, sustainably and equitably, digital technologies have the potential to revolutionize conservation. But they are a tool in our arsenal, not a silver bullet. We still need concerted efforts by countries, companies, and individuals to help pull the world\u2019s wildlife back from the brink and build a just, sustainable future. At this year\u2019s Summit of the Future, Members States will discuss our proposals to develop new metrics to complement gross domestic product. Activities like overfishing and forest clearance increase GDP while devastating nature. Complementary metrics can provide balance, by measuring the things that really matter to people and planet. I also urge countries to take urgent action to drastically reduce emissions, adapt to climate extremes, prevent pollution, and put the brakes on biodiversity loss, including recognizing the role Indigenous Peoples play in protecting biodiversity. Developed countries must invest in biodiversity and climate action in developing countries. And all governments must create new national climate plans that align with limiting global temperature rise to 1.5 degrees Celsius, as well as national biodiversity strategies that implement the Kunming-Montreal Global Biodiversity Framework. We depend on nature. Let\u2019s show that nature can depend on us \u2013 and",
+  "date": "03 March 2024"
+}

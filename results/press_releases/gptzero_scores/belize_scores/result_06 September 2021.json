@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "93697226-569b-4572-9ca6-a543d33e3fc0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.19326400756836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004018216277472675,
+          "perplexity": 54,
+          "sentence": "As part of the country's ongoing COVID-19 response, the Pan American Health Organization/World Health Organization (PAHO/WHO) donated a Bi-Level Positive Airway Pressure (BPap/BiPap) Unit to Belize's national referral hospital for COVID-19, the Karl Heusner Memorial Hospital (KHMH).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004080157377757132,
+          "perplexity": 67,
+          "sentence": "With the KHMH now kicked into emergency mode due to the pandemic, this much-needed equipment is crucial at this time to assist the critical care unit of the KHMH to save lives by providing timely and appropriate oxygen therapy support to patients affected by COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003986050433013588,
+          "perplexity": 134,
+          "sentence": "The donated BiPap machine is the only type of positive pressure ventilator, meaning persons receive higher air pressure when breathing in and thus, opening the lungs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038819597102701664,
+          "perplexity": 51,
+          "sentence": "With the lungs being one of the organs most affected by COVID-19, this machine can help patients breathe better by pushing the air into the lungs through a mask or nasal plug while supplying pressurized air into the airways.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033590110251680017,
+          "perplexity": 47,
+          "sentence": "To allow the KHMH to use the full capacity of the machine, the donation of the BiPAP also came with a bundle of accessories that include, but are not limited to, antibacterial filters, reusable masks, disposable masks, oxygen ports, leak valves, and other accessories.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030095645342953503,
+          "perplexity": 25,
+          "sentence": "\"This machine allows us to get oxygen into the lungs of the patient, it is to be used mainly when the patient has obstruction in their lungs and in the early stages when they have difficulty breathing,\" said Dr. Pedro Arriaga, Head of Intensive Care at KHMH.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002852776669897139,
+          "perplexity": 95,
+          "sentence": "PAHO/WHO Belize continues to support the country, the Ministry of Health and Wellness and health facilities like the KHMH with technical cooperation and equipment as we continue the fight against this pandemic.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As part of the country's ongoing COVID-19 response, the Pan American Health Organization/World Health Organization (PAHO/WHO) donated a Bi-Level Positive Airway Pressure (BPap/BiPap) Unit to Belize's national referral hospital for COVID-19, the Karl Heusner Memorial Hospital (KHMH). With the KHMH now kicked into emergency mode due to the pandemic, this much-needed equipment is crucial at this time to assist the critical care unit of the KHMH to save lives by providing timely and appropriate oxygen therapy support to patients affected by COVID-19. The donated BiPap machine is the only type of positive pressure ventilator, meaning persons receive higher air pressure when breathing in and thus, opening the lungs. With the lungs being one of the organs most affected by COVID-19, this machine can help patients breathe better by pushing the air into the lungs through a mask or nasal plug while supplying pressurized air into the airways. To allow the KHMH to use the full capacity of the machine, the donation of the BiPAP also came with a bundle of accessories that include, but are not limited to, antibacterial filters, reusable masks, disposable masks, oxygen ports, leak valves, and other accessories. \"This machine allows us to get oxygen into the lungs of the patient, it is to be used mainly when the patient has obstruction in their lungs and in the early stages when they have difficulty breathing,\" said Dr. Pedro Arriaga, Head of Intensive Care at KHMH. PAHO/WHO Belize continues to support the country, the Ministry of Health and Wellness and health facilities like the KHMH with technical cooperation and equipment as we continue the fight against this pandemic.",
+  "date": "06 September 2021"
+}

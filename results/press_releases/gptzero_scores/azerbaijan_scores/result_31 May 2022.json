@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "440d65d0-17f5-4fba-a036-a339ed177af9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.689903259277344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00028341414872556925,
+          "perplexity": 119,
+          "sentence": "Within the joint EU-WHO COVID-19 Vaccination Support Project, cold chain inventory training courses supported by WHO has started for the Republican Hygiene and Epidemiology Center (RHEC) of the Ministry of Health of the Republic of Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029574555810540915,
+          "perplexity": 58,
+          "sentence": "The main purpose of the training courses is to be able to use the WHO Inventory and Gap Analysis (IGAS) instrument, which is used for conducting an analysis of cold chain equipment inventory.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028233189368620515,
+          "perplexity": 53,
+          "sentence": "The use of this tool is helpful for decision-making on replacements of cold chain equipment and spare parts based on type, working status, and age, and estimating maintenance and running cost of such equipment according to the current vaccination schedule, as well as in case of new vaccines' introduction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002874377532862127,
+          "perplexity": 85,
+          "sentence": "Trainees from RHEC, the State Advanced Training Institute for Doctors, and the Administration of Regional Medical Divisions (TABIB) participate in the training courses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025898782769218087,
+          "perplexity": 59,
+          "sentence": "After the completion of the program, ten master trainers assigned by the Ministry of Health will travel to the regions to teach the local HEC staff the use of the IGAS tool.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002483633579686284,
+          "perplexity": 107,
+          "sentence": "At the end of the cycle, the trained regional staff will visit vaccination sites to perform the cold chain inventory.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021969871886540204,
+          "perplexity": 81,
+          "sentence": "Over the course of the training courses, participants will get acquainted with general information, and specific characteristics and functions of the IGAS instrument by improving their knowledge about identification of equipment, measurements, gas types, definition of models, active and passive cold chain equipment, temperature measuring device, auxiliary equipment etc.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021804426796734333,
+          "perplexity": 128,
+          "sentence": "To practice using the instrument the trainees will visit the Innovation and Supply Center under the Ministry of Health and vaccination sites in Baku.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003047530190087855,
+          "perplexity": 135,
+          "sentence": "The EU-funded COVID-19 Vaccination Support project implemented by WHO Azerbaijan Country Office since June 2021 covers three years and aims to fight against the COVID-19 pandemic and strengthen routine immunization programs across the country.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Within the joint EU-WHO COVID-19 Vaccination Support Project, cold chain inventory training courses supported by WHO has started for the Republican Hygiene and Epidemiology Center (RHEC) of the Ministry of Health of the Republic of Azerbaijan. The main purpose of the training courses is to be able to use the WHO Inventory and Gap Analysis (IGAS) instrument, which is used for conducting an analysis of cold chain equipment inventory. The use of this tool is helpful for decision-making on replacements of cold chain equipment and spare parts based on type, working status, and age, and estimating maintenance and running cost of such equipment according to the current vaccination schedule, as well as in case of new vaccines\u2032 introduction. Trainees from RHEC, the State Advanced Training Institute for Doctors, and the Administration of Regional Medical Divisions (TABIB) participate in the training courses. After the completion of the program, ten master trainers assigned by the Ministry of Health will travel to the regions to teach the local HEC staff the use of the IGAS tool. At the end of the cycle, the trained regional staff will visit vaccination sites to perform the cold chain inventory. Over the course of the training courses, participants will get acquainted with general information, and specific characteristics and functions of the IGAS instrument by improving their knowledge about identification of equipment, measurements, gas types, definition of models, active and passive cold chain equipment, temperature measuring device, auxiliary equipment etc. To practice using the instrument the trainees will visit the Innovation and Supply Center under the Ministry of Health and vaccination sites in Baku. The EU-funded COVID-19 Vaccination Support project implemented by WHO Azerbaijan Country Office since June 2021 covers three years and aims to fight against the COVID-19 pandemic and strengthen routine immunization programs across the country.",
+  "date": "31 May 2022"
+}

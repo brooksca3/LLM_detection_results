@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "34d374bb-bb7c-460e-b6d3-004f08902464",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.21955108642578,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019826979842036963,
+          "perplexity": 33,
+          "sentence": "The severe crackdown against workers demanding fair wages and political activists calling for free and fair elections, judicial harassment of journalists, human rights defenders and civil society leaders, and failure to reform laws suppressing freedom of expression in Bangladesh are grave concerns, UN experts* said today, as the Human Rights Council completed its periodic review of the human rights situation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00207138666883111,
+          "perplexity": 42,
+          "sentence": "\u201cAs Bangladesh heads towards national elections in early 2024, we are deeply disturbed by the sharp rise in political violence, arrests of senior opposition leaders, mass arbitrary detention of thousands of political activists, use of excessive force by the authorities and internet shutdowns to disrupt protests, and allegations of harassment, intimidation and unlawful detention of family members as a retaliatory measure,\u201d the experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025246208533644676,
+          "perplexity": 20,
+          "sentence": "They expressed alarm at the threats to media freedom, noting that attacks, surveillance, intimidation and judicial harassment of the press over the past several years have led to widespread self-censorship in the media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025105990935117006,
+          "perplexity": 35,
+          "sentence": "The weaponisation of the judicial system to attack journalists, human rights defenders and civil society leaders diminishes the independence of the judiciary and erodes fundamental human rights,\u201d the experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012636010069400072,
+          "perplexity": 51,
+          "sentence": "As an example of judicial harassment, the experts highlighted the case of investigative journalist, Rozina Islam, in which the prosecution has failed to produce material evidence after two years of investigation, repeated hearings and a travel ban that is affecting her work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031987103284336627,
+          "perplexity": 53,
+          "sentence": "In September the secretary and director of the leading the human rights organisation, Odhikar, were convicted and imprisoned on charges of publishing \u201cfake information\u201d when in fact they had documented extrajudicial killings and excessive use of force by security forces in 2013 which the Bangladeshi government has never investigated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003306730941403657,
+          "perplexity": 135,
+          "sentence": "Odhikar was denied renewal of its registration last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003521509643178433,
+          "perplexity": 146,
+          "sentence": "\u201cWhen prominent civil society leaders like Nobel laureate Muhammad Yunus",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The severe crackdown against workers demanding fair wages and political activists calling for free and fair elections, judicial harassment of journalists, human rights defenders and civil society leaders, and failure to reform laws suppressing freedom of expression in Bangladesh are grave concerns, UN experts* said today, as the Human Rights Council completed its periodic review of the human rights situation in the country. \u201cAs Bangladesh heads towards national elections in early 2024, we are deeply disturbed by the sharp rise in political violence, arrests of senior opposition leaders, mass arbitrary detention of thousands of political activists, use of excessive force by the authorities and internet shutdowns to disrupt protests, and allegations of harassment, intimidation and unlawful detention of family members as a retaliatory measure,\u201d the experts said. They expressed alarm at the threats to media freedom, noting that attacks, surveillance, intimidation and judicial harassment of the press over the past several years have led to widespread self-censorship in the media. The weaponisation of the judicial system to attack journalists, human rights defenders and civil society leaders diminishes the independence of the judiciary and erodes fundamental human rights,\u201d the experts said. As an example of judicial harassment, the experts highlighted the case of investigative journalist, Rozina Islam, in which the prosecution has failed to produce material evidence after two years of investigation, repeated hearings and a travel ban that is affecting her work. In September the secretary and director of the leading the human rights organisation, Odhikar, were convicted and imprisoned on charges of publishing \u201cfake information\u201d when in fact they had documented extrajudicial killings and excessive use of force by security forces in 2013 which the Bangladeshi government has never investigated. Odhikar was denied renewal of its registration last year. \u201cWhen prominent civil society leaders like Nobel laureate Muhammad Yunus",
+  "date": "15 November 2023"
+}

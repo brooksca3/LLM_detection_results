@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6ba01a60-ca21-42d9-997f-1b503429dca8",
+  "documents": [
+    {
+      "average_generated_prob": 0.5555555555555556,
+      "class_probabilities": {
+        "ai": 0.14705882352941177,
+        "human": 0.1830065359477124,
+        "mixed": 0.6699346405228759
+      },
+      "completely_generated_prob": 0.33496732026143794,
+      "confidence_category": "low",
+      "confidence_score": 0.6699346405228759,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.14705882352941177,
+          "human": 0.1830065359477124,
+          "mixed": 0.6699346405228759
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.125242233276367,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00582506229637609,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.233193501830101,
+          "perplexity": 24,
+          "sentence": "The Quartet highlights the urgent need for all parties to take additional steps to address these challenges directly through fiscal and other reforms, as well as to avoid unilateral steps that exacerbate tensions and undermine the prospects for peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09324876219034195,
+          "perplexity": 21,
+          "sentence": "The Envoys of the Middle East Quartet from the European Union, the Russian Federation, the United States, and the United Nations met in person in Oslo, Norway following an important meeting of the Ad-Hoc Liaison Committee addressing the Palestinian economic situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10114889591932297,
+          "perplexity": 99,
+          "sentence": "Oslo - The Envoys welcome steps announced by Israel to reach out to the Palestinian Authority and to assist with the fiscal crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1989533007144928,
+          "perplexity": 25,
+          "sentence": "The Envoys remain deeply concerned by developments in the West Bank, Jerusalem and the Gaza Strip, including ongoing acts of violence in the West Bank, the advancement of new settlement units, the untenable fiscal crisis within the Palestinian Authority and threats of violence from the Gaza Strip.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7440049052238464,
+          "perplexity": 21,
+          "sentence": "In this context, the Quartet highlights the urgent need for all parties to take additional steps to address these challenges directly through fiscal and other reforms, as well as to avoid unilateral steps that exacerbate tensions and undermine the prospects for peace.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9287383556365967,
+          "perplexity": 38,
+          "sentence": "The Envoys noted the pressing need to address the fragile situation in Gaza -- with the support of all relevant stakeholders, including in the region -- by ensuring continued humanitarian efforts and an easing of access and movement restrictions for people and goods.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9664269089698792,
+          "perplexity": 32,
+          "sentence": "The Quartet Envoys highlighted the urgency of the situation and the importance of taking constructive steps to advance a two-State solution.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9855007529258728,
+          "perplexity": 17,
+          "sentence": "They further underscored the importance of respect for human rights and the actions of civil society groups.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.972711980342865,
+          "perplexity": 34,
+          "sentence": "Finally, the Envoys agreed to work toward a resolution of the conflict and continue consultations with the parties and key regional actors.",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Quartet highlights the urgent need for all parties to take additional steps to address these challenges directly through fiscal and other reforms, as well as to avoid unilateral steps that exacerbate tensions and undermine the prospects for peace. The Envoys of the Middle East Quartet from the European Union, the Russian Federation, the United States, and the United Nations met in person in Oslo, Norway following an important meeting of the Ad-Hoc Liaison Committee addressing the Palestinian economic situation. Oslo - The Envoys welcome steps announced by Israel to reach out to the Palestinian Authority and to assist with the fiscal crisis. The Envoys remain deeply concerned by developments in the West Bank, Jerusalem and the Gaza Strip, including ongoing acts of violence in the West Bank, the advancement of new settlement units, the untenable fiscal crisis within the Palestinian Authority and threats of violence from the Gaza Strip. In this context, the Quartet highlights the urgent need for all parties to take additional steps to address these challenges directly through fiscal and other reforms, as well as to avoid unilateral steps that exacerbate tensions and undermine the prospects for peace. The Envoys noted the pressing need to address the fragile situation in Gaza -- with the support of all relevant stakeholders, including in the region -- by ensuring continued humanitarian efforts and an easing of access and movement restrictions for people and goods. The Quartet Envoys highlighted the urgency of the situation and the importance of taking constructive steps to advance a two-State solution. They further underscored the importance of respect for human rights and the actions of civil society groups. Finally, the Envoys agreed to work toward a resolution of the conflict and continue consultations with the parties and key regional actors.",
+  "date": "18 November 2021"
+}

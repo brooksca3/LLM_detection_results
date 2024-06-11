@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "899e4239-f73c-4df9-844b-4318fff69a2c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.016996383666992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010797734139487147,
+          "perplexity": 25,
+          "sentence": "In her annual report to the Human Rights Council, Ana\u00efs Marin said she had been informed about massive police violence against protesters, cases of enforced disappearance, allegations of torture and ill-treatment and the continuous intimidation and harassment of civil society actors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009765750728547573,
+          "perplexity": 31,
+          "sentence": "\u201cThe Belarusian authorities have launched a full-scale assault against civil society, curtailing a broad spectrum of rights and freedoms, targeting people from all walks of life, while systematically persecuting human rights defenders, journalists, media workers and lawyers in particular,\u201d Marin told the Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010082708904519677,
+          "perplexity": 44,
+          "sentence": "\u201cThe crackdown is such that thousands of Belarusians have been forced or otherwise compelled to leave their homeland and seek safety abroad; yet the downing of a civilian plane in Minsk on 23 May, for the apparent sole purpose of arresting a dissident who was on board, signaled that no opponent to the current Government is safe anywhere.\u201d, the expert added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011655560228973627,
+          "perplexity": 37,
+          "sentence": "The significant deterioration of the human rights situation in Belarus started in late spring 2020 and climaxed in the aftermath of the presidential election of 9 August, the results of which were widely contested.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011761249043047428,
+          "perplexity": 42,
+          "sentence": "Malpractices were reported during the election campaign, as most opposition candidates were forced out of the race, whereas vote-count was marred by allegations of fraud.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007262217113748193,
+          "perplexity": 55,
+          "sentence": "\u201cDistrust in the legitimacy of the electoral outcome triggered spontaneous and largely peaceful popular protests to which the authorities responded with unjustified, disproportionate and often arbitrary force,\u201d said Marin, who reminded that over 35,000 people have been detained since then for trying to exert their right to freedom of peaceful assembly, including women and children arrested for peacefully demonstrating solidarity with victims of police violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007858577300794423,
+          "perplexity": 66,
+          "sentence": "\u201cSince August 2020 I received innumerable allegations of beatings and ill-treatment, including torture in detention, but also allegations of rapes, enforced disappearances and even killings - all remain to be investigated.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In her annual report to the Human Rights Council, Ana\u00efs Marin said she had been informed about massive police violence against protesters, cases of enforced disappearance, allegations of torture and ill-treatment and the continuous intimidation and harassment of civil society actors. \u201cThe Belarusian authorities have launched a full-scale assault against civil society, curtailing a broad spectrum of rights and freedoms, targeting people from all walks of life, while systematically persecuting human rights defenders, journalists, media workers and lawyers in particular,\u201d Marin told the Council. \u201cThe crackdown is such that thousands of Belarusians have been forced or otherwise compelled to leave their homeland and seek safety abroad; yet the downing of a civilian plane in Minsk on 23 May, for the apparent sole purpose of arresting a dissident who was on board, signaled that no opponent to the current Government is safe anywhere.\u201d, the expert added. The significant deterioration of the human rights situation in Belarus started in late spring 2020 and climaxed in the aftermath of the presidential election of 9 August, the results of which were widely contested. Malpractices were reported during the election campaign, as most opposition candidates were forced out of the race, whereas vote-count was marred by allegations of fraud. \u201cDistrust in the legitimacy of the electoral outcome triggered spontaneous and largely peaceful popular protests to which the authorities responded with unjustified, disproportionate and often arbitrary force,\u201d said Marin, who reminded that over 35,000 people have been detained since then for trying to exert their right to freedom of peaceful assembly, including women and children arrested for peacefully demonstrating solidarity with victims of police violence. \u201cSince August 2020 I received innumerable allegations of beatings and ill-treatment, including torture in detention, but also allegations of rapes, enforced disappearances and even killings \u2013 all remain to be investigated.\u201d",
+  "date": "06 July 2021"
+}

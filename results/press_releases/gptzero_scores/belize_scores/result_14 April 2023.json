@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c669cb1f-e371-47db-a205-5c142d585aca",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.07813835144043,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0017230033408850431,
+          "perplexity": 51,
+          "sentence": "City of Belmopan, 14 April 2023 \u1173 Friday 14th April marked another historic day as Belize formally inaugurated its new UN premise in Belize, bringing together various UN agencies in one building, standing as a symbol of collective efforts to work towards a more peaceful, prosperous and sustainable world for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012592714047059417,
+          "perplexity": 130,
+          "sentence": "This new UN House is located on the 2nd floor of the David L. Mckoy Business Centre, Bliss Parade, Belmopan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013266868190839887,
+          "perplexity": 52,
+          "sentence": "The opening was celebrated by the Prime Minister of Belize, Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010975479381158948,
+          "perplexity": 47,
+          "sentence": "John Bricen\u0303o; and included the UN Resident Coordinator to Belize and El Salvador, RC Birgit Gerstenberg; UNDP Deputy Regional Director for Latin America and the Caribbean, Linda Maguire; and UNDP's Resident Representative for Jamaica, Belize, Bermuda, Cayman Islands, The Bahamas, and Turks and Caicos, Ms Denise Antonio.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010462531354278326,
+          "perplexity": 61,
+          "sentence": "Also in attendance was the Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000887854490429163,
+          "perplexity": 63,
+          "sentence": "Chief Justice, Madam Louise Blenman, members of Cabinet and members of Parliament, members of the Diplomatic Corps and other government, UN and other partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011869496665894985,
+          "perplexity": 83,
+          "sentence": "In her opening remarks, RC Gerstenberg welcomed guests on behalf of the UN Family noting this was consistent with the global commitment to a more coherent and efficient UN, specifically she noted: \u201cIn his December 2017 report, the UN Secretary General Anto\u0301nio Guterres presented his vision and proposals to reposition the UN development system to better respond to the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015871904324740171,
+          "perplexity": 40,
+          "sentence": "He noted that the code for achieving the United Nations objectives, it needs to be nimble, efficient, and effective.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012827556347474456,
+          "perplexity": 105,
+          "sentence": "It must focus more on delivery and less on process, more on people, and less on bureaucracy.\u201d Following up with RC Gerstenberg's remarks, UNDP's Deputy Regional Director for Latin America and the Caribbean, Linda Maguire also highlighted what this inauguration means for UN Cooperation, \u201cThe diverse and intuitive interactions among and between agencies provide a platform for enhanced",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "City of Belmopan, 14 April 2023 \u2014 Friday 14th April marked another historic day as Belize formally inaugurated its new UN premise in Belize, bringing together various UN agencies in one building, standing as a symbol of collective efforts to work towards a more peaceful, prosperous and sustainable world for all. This new UN House is located on the 2nd floor of the David L. Mckoy Business Centre, Bliss Parade, Belmopan. The opening was celebrated by the Prime Minister of Belize, Hon. John Bricen\u0303o; and included the UN Resident Coordinator to Belize and El Salvador, RC Birgit Gerstenberg; UNDP Deputy Regional Director for Latin America and the Caribbean, Linda Maguire; and UNDP\u2019s Resident Representative for Jamaica, Belize, Bermuda, Cayman Islands, The Bahamas, and Turks and Caicos, Ms Denise Antonio. Also in attendance was the Hon. Chief Justice, Madam Louise Blenman, members of Cabinet and members of Parliament, members of the Diplomatic Corps and other government, UN and other partners. In her opening remarks, RC Gerstenberg welcomed guests on behalf of the UN Family noting this was consistent with the global commitment to a more coherent and efficient UN, specifically she noted: \u201cIn his December 2017 report, the UN Secretary General Anto\u0301nio Guterres presented his vision and proposals to reposition the UN development system to better respond to the 2030 Agenda for Sustainable Development. He noted that the code for achieving the United Nations objectives, it needs to be nimble, efficient, and effective. It must focus more on delivery and less on process, more on people, and less on bureaucracy.\u201d Following up with RC Gerstenberg\u2019s remarks, UNDP\u2019s Deputy Regional Director for Latin America and the Caribbean, Linda Maguire also highlighted what this inauguration means for UN Cooperation, \u201cThe diverse and intuitive interactions among and between agencies provide a platform for enhanced",
+  "date": "14 April 2023"
+}

@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c9bd9530-3320-4e93-80fc-3eef67d7565c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002753428249972066,
+        "human": 0.9967494006633975,
+        "mixed": 0.0004971710866304887
+      },
+      "completely_generated_prob": 0.002753428249972066,
+      "confidence_category": "high",
+      "confidence_score": 0.9967494006633975,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002753428249972066,
+          "human": 0.9967494006633975,
+          "mixed": 0.0004971710866304887
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 141.72088623046875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001684566814219579,
+          "perplexity": 130,
+          "sentence": "NEW YORK/COPENHAGEN, 12 July 2021 - UNICEF and Sinopharm have signed a long-term agreement for the supply of the BBIBP-CorV inactivated virus vaccine against COVID-19 on behalf of the COVAX Facility.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015764671843498945,
+          "perplexity": 52,
+          "sentence": "Through the agreement, UNICEF will have access to up to 120 million doses of the vaccine by the end of 2021 to supply participating countries and territories in the COVAX Facility's Advance Market Commitment (AMC), as well as self-financing participants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001700624852674082,
+          "perplexity": 171,
+          "sentence": "This is the 7th supply agreement UNICEF has signed for COVID-19 vaccines on behalf of COVAX.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015891160001046956,
+          "perplexity": 41,
+          "sentence": "Previous agreements have been announced with the Serum Institute of India, Pfizer, AstraZeneca, Human Vaccine, Moderna and Janssen Pharmaceutica NV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001571477041579783,
+          "perplexity": 313,
+          "sentence": "The Sinopharm COVID-19 vaccine received a WHO Emergency Use Listing (EUL) in May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015926110791042447,
+          "perplexity": 58,
+          "sentence": "On 12 July, Gavi, the Vaccine Alliance announced that it had signed an Advance Purchase Agreement with Sinopharm on behalf of the COVAX Facility for the purchase of up to 60 million doses to be made available from July through October 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014892779290676117,
+          "perplexity": 28,
+          "sentence": "The agreement also includes an option to purchase a further 60 million doses in Q4 2021 and 50 million more doses in the first half of 2022, if necessary.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014910382742527872,
+          "perplexity": 497,
+          "sentence": "This totals a potential 170 million doses of the Sinopharm vaccine available to COVAX participants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014588635531254113,
+          "perplexity": 53,
+          "sentence": "Deliveries could start as early as August providing countries are ready to receive them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001660701382206753,
+          "perplexity": 149,
+          "sentence": "The COVAX Allocation Framework will determine the dose allocations to COVAX participants taking into consideration access, country readiness, vaccine supply through COVAX to date, operating and supply aspects, and other parameters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023847303236834705,
+          "perplexity": 30,
+          "sentence": "The goal of the COVAX Facility is to help address the acute phase of the global pandemic by the end of 2021 by providing rapid, fair and equitable access to safe and effective vaccines for all participating countries and territories regardless of income level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040878262370824814,
+          "perplexity": 219,
+          "sentence": "The COVAX Facility, co-led by",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NEW YORK/COPENHAGEN, 12 July 2021 - UNICEF and Sinopharm have signed a long-term agreement for the supply of the BBIBP-CorV inactivated virus vaccine against COVID-19 on behalf of the COVAX Facility. Through the agreement, UNICEF will have access to up to 120 million doses of the vaccine by the end of 2021 to supply participating countries and territories in the COVAX Facility\u2019s Advance Market Commitment (AMC), as well as self-financing participants. This is the 7th supply agreement UNICEF has signed for COVID-19 vaccines on behalf of COVAX. Previous agreements have been announced with the Serum Institute of India, Pfizer, AstraZeneca, Human Vaccine, Moderna and Janssen Pharmaceutica NV. The Sinopharm COVID-19 vaccine received a WHO Emergency Use Listing (EUL) in May. On 12 July, Gavi, the Vaccine Alliance announced that it had signed an Advance Purchase Agreement with Sinopharm on behalf of the COVAX Facility for the purchase of up to 60 million doses to be made available from July through October 2021. The agreement also includes an option to purchase a further 60 million doses in Q4 2021 and 50 million more doses in the first half of 2022, if necessary. This totals a potential 170 million doses of the Sinopharm vaccine available to COVAX participants. Deliveries could start as early as August providing countries are ready to receive them. The COVAX Allocation Framework will determine the dose allocations to COVAX participants taking into consideration access, country readiness, vaccine supply through COVAX to date, operating and supply aspects, and other parameters. The goal of the COVAX Facility is to help address the acute phase of the global pandemic by the end of 2021 by providing rapid, fair and equitable access to safe and effective vaccines for all participating countries and territories regardless of income level. The COVAX Facility, co-led by",
+  "date": "15 July 2021"
+}

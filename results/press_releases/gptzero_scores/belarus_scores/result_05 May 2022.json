@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "aaae7b6b-36e0-430e-ac1b-c849d633ecb1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0131870187361661,
+        "human": 0.986812981263834,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.0131870187361661,
+      "confidence_category": "high",
+      "confidence_score": 0.986812981263834,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0131870187361661,
+          "human": 0.986812981263834,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.45926284790039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008603577734902501,
+          "perplexity": 23,
+          "sentence": "The new WHO European Regional Obesity Report 2022, published on 3 May by the WHO Regional Office for Europe, reveals that overweight and obesity rates have reached epidemic proportions across the Region and are still escalating, with none of the 53 Member States of the Region currently on track to meet the WHO Global Noncommunicable Disease (NCD) target of halting the rise of obesity by 2025.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008201056043617427,
+          "perplexity": 20,
+          "sentence": "The report, launched at a press event on 3 May and presented at the European Congress on Obesity, reveals that in the European Region, 59% of adults and almost 1 in 3 children (29% of boys and 27% of girls) are overweight or living with obesity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008633659454062581,
+          "perplexity": 26,
+          "sentence": "Obesity prevalence for adults in the European Region is higher than in any other WHO region except for the Americas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000777900277171284,
+          "perplexity": 13,
+          "sentence": "Overweight and obesity are among the leading causes of death and disability in the European Region, with recent estimates suggesting they cause more than 1.2 million deaths annually, corresponding to more than 13% of total mortality in the Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006914805271662772,
+          "perplexity": 15,
+          "sentence": "Obesity increases the risk for many NCDs, including cancers, cardiovascular diseases, type 2 diabetes mellitus and chronic respiratory diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007131449528969824,
+          "perplexity": 18,
+          "sentence": "For example, obesity is considered a cause of at least 13 different types of cancer, and is likely to be directly responsible for at least 200 000 new cancer cases annually across the Region, with this figure set to rise further in the coming years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007113746833056211,
+          "perplexity": 62,
+          "sentence": "Overweight and obesity are also the leading risk factor for disability, causing 7% of total years lived with disability in the Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007412625127471983,
+          "perplexity": 73,
+          "sentence": "Overweight people and those living with obesity have been disproportionately affected by the consequences of the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006807213649153709,
+          "perplexity": 32,
+          "sentence": "There have been unfavourable shifts in food consumption and physical activity patterns during the pandemic that will have effects on population health in the years",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The new WHO European Regional Obesity Report 2022, published on 3 May by the WHO Regional Office for Europe, reveals that overweight and obesity rates have reached epidemic proportions across the Region and are still escalating, with none of the 53 Member States of the Region currently on track to meet the WHO Global Noncommunicable Disease (NCD) target of halting the rise of obesity by 2025. The report, launched at a press event on 3 May and presented at the European Congress on Obesity, reveals that in the European Region, 59% of adults and almost 1 in 3 children (29% of boys and 27% of girls) are overweight or living with obesity. Obesity prevalence for adults in the European Region is higher than in any other WHO region except for the Americas. Overweight and obesity are among the leading causes of death and disability in the European Region, with recent estimates suggesting they cause more than 1.2 million deaths annually, corresponding to more than 13% of total mortality in the Region. Obesity increases the risk for many NCDs, including cancers, cardiovascular diseases, type 2 diabetes mellitus and chronic respiratory diseases. For example, obesity is considered a cause of at least 13 different types of cancer, and is likely to be directly responsible for at least 200 000 new cancer cases annually across the Region, with this figure set to rise further in the coming years. Overweight and obesity are also the leading risk factor for disability, causing 7% of total years lived with disability in the Region. Overweight people and those living with obesity have been disproportionately affected by the consequences of the COVID-19 pandemic. There have been unfavourable shifts in food consumption and physical activity patterns during the pandemic that will have effects on population health in the years",
+  "date": "05 May 2022"
+}

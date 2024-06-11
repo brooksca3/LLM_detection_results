@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "143a14bc-3ac3-482a-97ce-415dcf70729f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 113.08656311035156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005341147189028561,
+          "perplexity": 8,
+          "sentence": "The United States Agency for International Development (USAID) and the United Nations Development Programme (UNDP) for Latin America and the Caribbean agreed to a three-year renewal of the strategic partnership to strengthen evidence-based policies on citizen security in Central America and the Dominican Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000514512590598315,
+          "perplexity": 104,
+          "sentence": "This partnership set in motion the Infosegura Regional Project in 2014, mobilizing $21 million for national and regional public institutions responsible for information management in the area of citizen security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005098923575133085,
+          "perplexity": 49,
+          "sentence": "This new stage involves the deployment of $10 million to the countries in the region to continue to demonstrate results and sustain the progress that countries have achieved in institutionalizing the use of evidence in public policymaking on the matter of people-centered citizen security with a focus on prevention.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000463233474874869,
+          "perplexity": 98,
+          "sentence": "The new $10 million investment will strengthen and help ensure sustainability for progress the countries have achieved in institutionalizing the use of evidence in policymaking and following up on public policies for citizen security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004322583554312587,
+          "perplexity": 43,
+          "sentence": "\"We work in close collaboration with the UNDP on the programme called Infosegura, and it is a really important tool to help certain governments compile data on crime and violence, and governments and civil society in those countries are using the data to inform public policy,\" stated Peter Natiello, USAID Deputy Assistant Administrator, Latin America and the Caribbean Bureau.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003694897168315947,
+          "perplexity": 116,
+          "sentence": "InfoSegura is the first USAID and UNDP regional strategic partnership in the matter of citizen security, enhancing work the UNDP does with strategic partner institutions in the sector, and a robust model for regional integration, spotlighting the inclusion of voices from civil society and academia by consolidating the CONOSE network.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037625301047228277,
+          "perplexity": 148,
+          "sentence": "This new phase will see InfoSegura continuing to enhance the knowledge, capacities, and lessons learned in the institutions that specialize in citizen security and justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003633502929005772,
+          "perplexity": 374,
+          "sentence": "This coordinated work involves 42 public institutions, 27 civil",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United States Agency for International Development (USAID) and the United Nations Development Programme (UNDP) for Latin America and the Caribbean agreed to a three-year renewal of the strategic partnership to strengthen evidence-based policies on citizen security in Central America and the Dominican Republic. This partnership set in motion the Infosegura Regional Project in 2014, mobilizing $21 million for national and regional public institutions responsible for information management in the area of citizen security. This new stage involves the deployment of $10 million to the countries in the region to continue to demonstrate results and sustain the progress that countries have achieved in institutionalizing the use of evidence in public policymaking on the matter of people-centered citizen security with a focus on prevention. The new $10 million investment will strengthen and help ensure sustainability for progress the countries have achieved in institutionalizing the use of evidence in policymaking and following up on public policies for citizen security. \"We work in close collaboration with the UNDP on the programme called Infosegura, and it is a really important tool to help certain governments compile data on crime and violence, and governments and civil society in those countries are using the data to inform public policy,\" stated Peter Natiello, USAID Deputy Assistant Administrator, Latin America and the Caribbean Bureau. InfoSegura is the first USAID and UNDP regional strategic partnership in the matter of citizen security, enhancing work the UNDP does with strategic partner institutions in the sector, and a robust model for regional integration, spotlighting the inclusion of voices from civil society and academia by consolidating the CONOSE network. This new phase will see InfoSegura continuing to enhance the knowledge, capacities, and lessons learned in the institutions that specialize in citizen security and justice. This coordinated work involves 42 public institutions, 27 civil",
+  "date": "05 October 2021"
+}

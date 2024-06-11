@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "eda6b5dd-d502-4ed5-81ed-bc1e0eecb7e8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002085282195198005,
+        "human": 0.997914717804802,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002085282195198005,
+      "confidence_category": "high",
+      "confidence_score": 0.997914717804802,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002085282195198005,
+          "human": 0.997914717804802,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.28101348876953,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019047815294470638,
+          "perplexity": 52,
+          "sentence": "With spiking global food and fuel prices, UN fears conflict in Ukraine dramatically worsens the economic outlook and the risk of widespread debt crises NEW YORK, 12 April 2022 -The crippling cost of debt financing for many developing countries has hamstrung their recovery from the COVID-19 pandemic, forced cutbacks in development spending, and constrained their ability to respond to further shocks, according to a new report launched by the United Nations today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017546680464874953,
+          "perplexity": 50,
+          "sentence": "The 2022 Financing for Sustainable Development Report: Bridging the Finance Divide finds that while rich countries were able to support their pandemic recovery with record sums borrowed at ultra-low interest rates, the poorest countries spent billions servicing debt, preventing them from investing in sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014703796477988362,
+          "perplexity": 71,
+          "sentence": "The pandemic shock plunged 77 million more people into extreme poverty in 2021, and by the end of the year many economies remained below pre-2019 levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014788527914788574,
+          "perplexity": 39,
+          "sentence": "The report estimates that in 1 in 5 developing countries' GDP per capita would not return to 2019 levels by the end of 2023, even before absorbing the impacts of the Ukraine war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013485498493537307,
+          "perplexity": 71,
+          "sentence": "\u201cAs we are coming up to the halfway point of financing the world's Sustainable Development Goals, the findings are alarming,\u201d UN Deputy Secretary-General Amina Mohammed said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012786411389242858,
+          "perplexity": 43,
+          "sentence": "\u201cThere is no excuse for inaction at this defining moment of collective responsibility, to ensure hundreds of millions of people are lifted out of hunger and poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011688723316183314,
+          "perplexity": 54,
+          "sentence": "We must invest in access for decent and green jobs, social protection, healthcare and education leaving no one behind.\u201c Bridging the Finance Divide says on average, the poorest developing countries pay 14 per cent of revenue for interest on their debt, almost 4 times higher than developed countries, at 3.5 per cent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011983077274635434,
+          "perplexity": 22,
+          "sentence": "Globally, many developing countries were forced to cut budgets for education, infrastructure and other capital spending as a result",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "With spiking global food and fuel prices, UN fears conflict in Ukraine dramatically worsens the economic outlook and the risk of widespread debt crises NEW YORK, 12 April 2022 \u2013The crippling cost of debt financing for many developing countries has hamstrung their recovery from the COVID-19 pandemic, forced cutbacks in development spending, and constrained their ability to respond to further shocks, according to a new report launched by the United Nations today. The 2022 Financing for Sustainable Development Report: Bridging the Finance Divide finds that while rich countries were able to support their pandemic recovery with record sums borrowed at ultra-low interest rates, the poorest countries spent billions servicing debt, preventing them from investing in sustainable development. The pandemic shock plunged 77 million more people into extreme poverty in 2021, and by the end of the year many economies remained below pre-2019 levels. The report estimates that in 1 in 5 developing countries\u2019 GDP per capita would not return to 2019 levels by the end of 2023, even before absorbing the impacts of the Ukraine war. \u201cAs we are coming up to the halfway point of financing the world\u2019s Sustainable Development Goals, the findings are alarming,\u201d UN Deputy Secretary-General Amina Mohammed said. \u201cThere is no excuse for inaction at this defining moment of collective responsibility, to ensure hundreds of millions of people are lifted out of hunger and poverty. We must invest in access for decent and green jobs, social protection, healthcare and education leaving no one behind.\u201c Bridging the Finance Divide says on average, the poorest developing countries pay 14 per cent of revenue for interest on their debt, almost 4 times higher than developed countries, at 3.5 per cent. Globally, many developing countries were forced to cut budgets for education, infrastructure and other capital spending as a result",
+  "date": "12 April 2022"
+}

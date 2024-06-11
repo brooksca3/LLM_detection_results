@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca1d7c35-d029-4e47-9fb0-39f6e22d18d4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1027.84716796875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017465971177443862,
+          "perplexity": 27,
+          "sentence": "Beijing, 6 June 2022 - Ahead of the upcoming 2022 UN Ocean Conference (UNOC) to be held from 27 June to 1 July in Lisbon, Portugal, the United Nations in China, the Embassy of Kenya in Beijing, and the Embassy of Portugal in Beijing co-hosted the Beijing Blue Talks last Friday, 3 June, to highlight the importance of Ocean-related issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000191712417290546,
+          "perplexity": 41,
+          "sentence": "The UN Ocean Conference, co-hosted by the Governments of Kenya and Portugal, comes at a critical time as the world is seeking to address the deep-rooted problems of our societies laid bare by the COVID-19 pandemic and which will require major structural transformations and common shared solutions that are anchored in the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016919976042117923,
+          "perplexity": 82,
+          "sentence": "The Beijing Blue Talks were held under the theme \u201cLeveraging Interlinkages Between Sustainable Development Goal 14 (Life Below Water) and other Goals Towards the Implementation of the 2030 Agenda\u201d in recognition of the importance of oceans, seas, and marine resources to sustainable development and to enhance active participation from public institutions and the private sector in the UN Ocean Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016160495579242706,
+          "perplexity": 2575,
+          "sentence": "\u201cOceans matter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001419575564796105,
+          "perplexity": 72,
+          "sentence": "They underpin poverty eradication and food security, are a source of employment and livelihoods and support the well-being of humans and the planet\u2026I hope that the Beijing Blue Talks can humbly contribute locally to that aim, raising awareness in China to the highly important subjects and goals of the UNOC and, with that, trigger the debate and strengthen the interest in China about Ocean-related issues,\u201d said Jos\u00e9 Augusto Duarte, Ambassador of Portugal to China, in his welcoming remarks at the Blue Talks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013642589328810573,
+          "perplexity": 67,
+          "sentence": "Attendees and speakers from government, diplomatic missions in China, international and intergovernmental organizations, academia, and think tanks joined the Blue Talks, held in a primarily online format and moderated by Shahbaz Khan, Director and Representative of UNESCO Beijing Cluster Office.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beijing, 6 June 2022 \u2013 Ahead of the upcoming 2022 UN Ocean Conference (UNOC) to be held from 27 June to 1 July in Lisbon, Portugal, the United Nations in China, the Embassy of Kenya in Beijing, and the Embassy of Portugal in Beijing co-hosted the Beijing Blue Talks last Friday, 3 June, to highlight the importance of Ocean-related issues. The UN Ocean Conference, co-hosted by the Governments of Kenya and Portugal, comes at a critical time as the world is seeking to address the deep-rooted problems of our societies laid bare by the COVID-19 pandemic and which will require major structural transformations and common shared solutions that are anchored in the Sustainable Development Goals (SDGs). The Beijing Blue Talks were held under the theme \u201cLeveraging Interlinkages Between Sustainable Development Goal 14 (Life Below Water) and other Goals Towards the Implementation of the 2030 Agenda\u201d in recognition of the importance of oceans, seas, and marine resources to sustainable development and to enhance active participation from public institutions and the private sector in the UN Ocean Conference. \u201cOceans matter. They underpin poverty eradication and food security, are a source of employment and livelihoods and support the well-being of humans and the planet\u2026I hope that the Beijing Blue Talks can humbly contribute locally to that aim, raising awareness in China to the highly important subjects and goals of the UNOC and, with that, trigger the debate and strengthen the interest in China about Ocean-related issues,\u201d said Jos\u00e9 Augusto Duarte, Ambassador of Portugal to China, in his welcoming remarks at the Blue Talks. Attendees and speakers from government, diplomatic missions in China, international and intergovernmental organizations, academia, and think tanks joined the Blue Talks, held in a primarily online format and moderated by Shahbaz Khan, Director and Representative of UNESCO Beijing Cluster Office.",
+  "date": "06 June 2022"
+}

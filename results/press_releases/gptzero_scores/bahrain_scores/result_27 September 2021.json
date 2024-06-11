@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "80aa3cff-0ced-4f90-8731-8a69f6a59829",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.988319396972656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00026437165797688067,
+          "perplexity": 61,
+          "sentence": "(New York / Dubai, 27 September 2021) - After years of preparations and engagement, and a postponement of one full year due to COVID-19, Expo 2020 will open its doors to in-person visitors on 1 October 2021 for six months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002443697885610163,
+          "perplexity": 37,
+          "sentence": "In keeping with past practice and the great value of convening at world Expos, and at the invitation of the Government of the United Arab Emirates, the United Nations will be present at Expo 2020 in Dubai.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004416164883878082,
+          "perplexity": 61,
+          "sentence": "The United Nations presence at Expo 2020 in Dubai is focused on programming and activities around the Sustainable Development Goals (SDGs), international days, and thematic weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003028910723514855,
+          "perplexity": 50,
+          "sentence": "In addition, and with thanks to the generous support of Expo 2020 and the UAE Government, the United Nations will have a dedicated space, #UNHub, in the thematic pavilion dedicated to the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002668304950930178,
+          "perplexity": 59,
+          "sentence": "Mission Possible - The Opportunity Pavilion, is one of three thematic pavilions curated by Expo 2020 that showcases how small actions can make a big impact on communities and inspires visitors to become agents of change for a better future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002156757254851982,
+          "perplexity": 58,
+          "sentence": "In addition to a relatively small team led by Maher Nasser, the Commissioner-General of the United Nations at Expo 2020 and Dena Assaf, Deputy Commissioner-General and United Nations Resident Coordinator in the UAE, relevant UN agencies, funds and programmes are taking the lead on international days and thematic events and activities during the six months of Expo 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002978587872348726,
+          "perplexity": 25,
+          "sentence": "Expo 2020 is an opportunity to showcase how the United Nations System works to deal with global challenges and to create a world in which everyone thrives in peace, dignity and equality on a healthy planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029333116253837943,
+          "perplexity": 50,
+          "sentence": "The United Nations has invited participating countries to highlight their own work to achieve the Sustainable Development Goals, especially during the planned Global Goals week from 16 to 22 January",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(New York / Dubai, 27 September 2021) - After years of preparations and engagement, and a postponement of one full year due to COVID-19, Expo 2020 will open its doors to in-person visitors on 1 October 2021 for six months. In keeping with past practice and the great value of convening at world Expos, and at the invitation of the Government of the United Arab Emirates, the United Nations will be present at Expo 2020 in Dubai. The United Nations presence at Expo 2020 in Dubai is focused on programming and activities around the Sustainable Development Goals (SDGs), international days, and thematic weeks. In addition, and with thanks to the generous support of Expo 2020 and the UAE Government, the United Nations will have a dedicated space, #UNHub, in the thematic pavilion dedicated to the SDGs. Mission Possible \u2013 The Opportunity Pavilion, is one of three thematic pavilions curated by Expo 2020 that showcases how small actions can make a big impact on communities and inspires visitors to become agents of change for a better future. In addition to a relatively small team led by Maher Nasser, the Commissioner-General of the United Nations at Expo 2020 and Dena Assaf, Deputy Commissioner-General and United Nations Resident Coordinator in the UAE, relevant UN agencies, funds and programmes are taking the lead on international days and thematic events and activities during the six months of Expo 2020. Expo 2020 is an opportunity to showcase how the United Nations System works to deal with global challenges and to create a world in which everyone thrives in peace, dignity and equality on a healthy planet. The United Nations has invited participating countries to highlight their own work to achieve the Sustainable Development Goals, especially during the planned Global Goals week from 16 to 22 January",
+  "date": "27 September 2021"
+}

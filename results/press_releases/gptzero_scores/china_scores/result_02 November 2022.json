@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "814da6fa-15af-4bcf-abdd-64a6ac7019f7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02235780005035932,
+        "human": 0.9776421999496407,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.02235780005035932,
+      "confidence_category": "high",
+      "confidence_score": 0.9776421999496407,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02235780005035932,
+          "human": 0.9776421999496407,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.85346031188965,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016801705351099372,
+          "perplexity": 23,
+          "sentence": "BEIJING, China, 2 November 2022 - Yesterday, the Embassy of Belgium in China and the United Nations (UN) in China hosted a joint event at the UN Compound to celebrate the 30th anniversary of Belgium-China cooperation in maternal health and women's rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017707605147734284,
+          "perplexity": 20,
+          "sentence": "Both parties used the occasion to emphasize that universal access to healthcare for women and the rights over their own bodies are central to the realization of the 2030 Agenda for Sustainable Development and the achievement of the Sustainable Development Goals (SDGs), requiring partnerships between all countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016671925550326705,
+          "perplexity": 34,
+          "sentence": "Over 100 people from national and international organizations in China and Belgium, academia, diplomatic missions in Beijing, and the public and private sectors attended the event in person and online.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018594444263726473,
+          "perplexity": 39,
+          "sentence": "The event featured six experts from Belgium and China who shared their research and practices in promoting women's health and rights, covering topics of maternal health care, HIV prevention, gender-based violence, sexual and reproductive health services provision during emergencies, and women's empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017223646864295006,
+          "perplexity": 39,
+          "sentence": "During his speech, Mr. Siddharth Chatterjee, UN Resident Coordinator in China, highlighted past successes and remaining challenges: \u201cOver the last century, there have been remarkable achievements concerning women's social, economic, political, and cultural progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017740187468007207,
+          "perplexity": 13,
+          "sentence": "However, in many parts of the world, there are girls and women who still lack the knowledge and tools to help them understand their rights and take charge of their bodies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014441711828112602,
+          "perplexity": 41,
+          "sentence": "Here, it is clear that in achieving SDG 3 and SDG 5, we will need to see political will and public policy working in tandem with new partnerships, including public-private partnerships, to ensure that we leave no one behind.\u201d During his speech, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016228541499003768,
+          "perplexity": 98,
+          "sentence": "Dr. Jan Hoogmartens, Belgian Ambassador to China and Mongolia, pointed out the following statement: \u201cWhenever a conflict or crisis occurs, women are vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016324082389473915,
+          "perplexity": 51,
+          "sentence": "We are still far from a world free",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, China, 2 November 2022 \u2013 Yesterday, the Embassy of Belgium in China and the United Nations (UN) in China hosted a joint event at the UN Compound to celebrate the 30th anniversary of Belgium-China cooperation in maternal health and women\u2019s rights. Both parties used the occasion to emphasize that universal access to healthcare for women and the rights over their own bodies are central to the realization of the 2030 Agenda for Sustainable Development and the achievement of the Sustainable Development Goals (SDGs), requiring partnerships between all countries. Over 100 people from national and international organizations in China and Belgium, academia, diplomatic missions in Beijing, and the public and private sectors attended the event in person and online. The event featured six experts from Belgium and China who shared their research and practices in promoting women\u2019s health and rights, covering topics of maternal health care, HIV prevention, gender-based violence, sexual and reproductive health services provision during emergencies, and women\u2019s empowerment. During his speech, Mr. Siddharth Chatterjee, UN Resident Coordinator in China, highlighted past successes and remaining challenges: \u201cOver the last century, there have been remarkable achievements concerning women\u2019s social, economic, political, and cultural progress. However, in many parts of the world, there are girls and women who still lack the knowledge and tools to help them understand their rights and take charge of their bodies. Here, it is clear that in achieving SDG 3 and SDG 5, we will need to see political will and public policy working in tandem with new partnerships, including public-private partnerships, to ensure that we leave no one behind.\u201d During his speech, H.E. Dr. Jan Hoogmartens, Belgian Ambassador to China and Mongolia, pointed out the following statement: \u201cWhenever a conflict or crisis occurs, women are vulnerable. We are still far from a world free",
+  "date": "02 November 2022"
+}

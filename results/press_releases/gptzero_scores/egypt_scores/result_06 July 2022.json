@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4c5f892b-cc8c-4548-99d3-99426a1ed419",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10115518494434456,
+        "human": 0.8980606663351567,
+        "mixed": 0.000784148720498795
+      },
+      "completely_generated_prob": 0.10115518494434456,
+      "confidence_category": "medium",
+      "confidence_score": 0.8980606663351567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10115518494434456,
+          "human": 0.8980606663351567,
+          "mixed": 0.000784148720498795
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.919252395629883,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1270194947719574,
+          "perplexity": 27,
+          "sentence": "The members of the Security Council condemned in the strongest terms the attack perpetrated against the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) on 5 July between Tessalit and Gao, following which two peacekeepers from Egypt were killed and five wounded.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12453143298625946,
+          "perplexity": 10,
+          "sentence": "The members of the Security Council expressed their deepest condolences and sympathy to the families of the victims, as well as to Egypt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12651227414608002,
+          "perplexity": 42,
+          "sentence": "They also expressed condolences to the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12488061934709549,
+          "perplexity": 30,
+          "sentence": "They wished a speedy and full recovery to those who were injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1282106637954712,
+          "perplexity": 81,
+          "sentence": "They paid tribute to all peacekeepers who risk their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1192234456539154,
+          "perplexity": 28,
+          "sentence": "The members of the Security Council called on the Transitional Government of Mali to swiftly investigate the attack against peacekeepers and bring the perpetrators to justice, and keep the relevant troop-contributing country informed of the progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.118150494992733,
+          "perplexity": 39,
+          "sentence": "They underlined that attacks targeting peacekeepers may constitute war crimes under international law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11138781160116196,
+          "perplexity": 94,
+          "sentence": "They stressed that involvement in planning, directing, sponsoring or conducting attacks against MINUSMA peacekeepers constitutes a basis for sanctions designations pursuant to United Nations Security Council resolutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11094314604997635,
+          "perplexity": 41,
+          "sentence": "They underscored that the primary responsibility of the safety and security of United Nations personnel and assets rests with host States and highlighted the importance of engagement and communications between MINUSMA and the Transitional Government of Mali.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11658532917499542,
+          "perplexity": 8,
+          "sentence": "The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11950565129518509,
+          "perplexity": 21,
+          "sentence": "They underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11086247861385345,
+          "perplexity": 11,
+          "sentence": "They stressed that those responsible for these killings should be held accountable, and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with all relevant authorities in this regard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1159021183848381,
+          "perplexity": 25,
+          "sentence": "The members of the Security Council",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The members of the Security Council condemned in the strongest terms the attack perpetrated against the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) on 5 July between Tessalit and Gao, following which two peacekeepers from Egypt were killed and five wounded. The members of the Security Council expressed their deepest condolences and sympathy to the families of the victims, as well as to Egypt. They also expressed condolences to the United Nations. They wished a speedy and full recovery to those who were injured. They paid tribute to all peacekeepers who risk their lives. The members of the Security Council called on the Transitional Government of Mali to swiftly investigate the attack against peacekeepers and bring the perpetrators to justice, and keep the relevant troop-contributing country informed of the progress. They underlined that attacks targeting peacekeepers may constitute war crimes under international law. They stressed that involvement in planning, directing, sponsoring or conducting attacks against MINUSMA peacekeepers constitutes a basis for sanctions designations pursuant to United Nations Security Council resolutions. They underscored that the primary responsibility of the safety and security of United Nations personnel and assets rests with host States and highlighted the importance of engagement and communications between MINUSMA and the Transitional Government of Mali. The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security. They underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice. They stressed that those responsible for these killings should be held accountable, and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with all relevant authorities in this regard. The members of the Security Council",
+  "date": "06 July 2022"
+}

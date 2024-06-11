@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a98f8749-4a9a-4733-9312-c6d5cd6108ed",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0131870187361661,
+        "human": 0.986812981263834,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.0131870187361661,
+      "confidence_category": "high",
+      "confidence_score": 0.986812981263834,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0131870187361661,
+          "human": 0.986812981263834,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.436832427978516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009432327351532876,
+          "perplexity": 72,
+          "sentence": "BEIJING, CHINA, 6 November 2023 - The Second International Forum on Sci-Tech Empowering Rural Transformation was held at the UN Compound.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009192711440846324,
+          "perplexity": 14,
+          "sentence": "The event was hosted by the China Offices of the three Rome-based agencies - the International Fund for Agricultural Development (IFAD), the Food and Agriculture Organization of the United Nations (FAO), the World Food Programme (WFP) China, in partnership with the Centre for Sustainable Agricultural Mechanization of the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP-CSAM) and the China Internet Information Center (CIIC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001027298392727971,
+          "perplexity": 94,
+          "sentence": "Using the First Forum, which focused on agri value chains as a cornerstone, the Second Forum on the International Forum on Sci-Tech Empowering Rural Transformation, shifted its focus on empowering youths, who are the key agents in pushing the rural transformation agenda through digital technologies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007592342444695532,
+          "perplexity": 33,
+          "sentence": "Around 100 representatives of social groups, research institutions, enterprises, government institutions, the media, UN agencies, and other international institutions from China and abroad, as well as farmers who have benefited from various rural development programs and undertakings, attended in person and online.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010603514965623617,
+          "perplexity": 22,
+          "sentence": "While there are 600 million rural youths in the world, their limited access to education, land, natural resources, finance, technology, information, and education has impeded them from contributing to the rural economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009068482904694974,
+          "perplexity": 98,
+          "sentence": "Nii Quaye-Kumah, IFAD Country Director and Head of IFAD East Asia Hub, highlighted that we need to scale up investment in rural youth, if we are to reap the demographic dividend and accelerate the 2030 Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009282866958528757,
+          "perplexity": 22,
+          "sentence": "He observed that an increasing number of young people have been using innovative technologies to start-up businesses in rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008298413595184684,
+          "perplexity": 91,
+          "sentence": "Nii Quaye-Kumah indicated that IFAD always places young people at the forefront of its development actions and will continue to ensure their access to resources and services and increase their representation in decision-making roles through its joint",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, CHINA, 6 November 2023 - The Second International Forum on Sci-Tech Empowering Rural Transformation was held at the UN Compound. The event was hosted by the China Offices of the three Rome-based agencies - the International Fund for Agricultural Development (IFAD), the Food and Agriculture Organization of the United Nations (FAO), the World Food Programme (WFP) China, in partnership with the Centre for Sustainable Agricultural Mechanization of the United Nations Economic and Social Commission for Asia and the Pacific (ESCAP-CSAM) and the China Internet Information Center (CIIC). Using the First Forum, which focused on agri value chains as a cornerstone, the Second Forum on the International Forum on Sci-Tech Empowering Rural Transformation, shifted its focus on empowering youths, who are the key agents in pushing the rural transformation agenda through digital technologies. Around 100 representatives of social groups, research institutions, enterprises, government institutions, the media, UN agencies, and other international institutions from China and abroad, as well as farmers who have benefited from various rural development programs and undertakings, attended in person and online. While there are 600 million rural youths in the world, their limited access to education, land, natural resources, finance, technology, information, and education has impeded them from contributing to the rural economy. Nii Quaye-Kumah, IFAD Country Director and Head of IFAD East Asia Hub, highlighted that we need to scale up investment in rural youth, if we are to reap the demographic dividend and accelerate the 2030 Agenda. He observed that an increasing number of young people have been using innovative technologies to start-up businesses in rural areas. Nii Quaye-Kumah indicated that IFAD always places young people at the forefront of its development actions and will continue to ensure their access to resources and services and increase their representation in decision-making roles through its joint",
+  "date": "06 November 2023"
+}

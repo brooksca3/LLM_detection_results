@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "80c12372-6fe5-46b6-9478-41683c48130f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.807262420654297,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0030590191017836332,
+          "perplexity": 33,
+          "sentence": "(Kabul, 25 February 2022): Concluding a five-day field mission to observe the dire humanitarian situation in Afghanistan, a delegation of senior UN and NGO representatives have found that humanitarian organizations have shown their ability to scale up operations to provide life-saving assistance to people who desperately need aid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026466224808245897,
+          "perplexity": 76,
+          "sentence": "In Kabul and travelling to humanitarian projects in Kandahar, Panjwai, and Spin-Boldak, the team met with frontline aid workers, healthcare professionals, and humanitarian coordination teams.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026150494813919067,
+          "perplexity": 101,
+          "sentence": "They also spoke with women and men directly affected by decades of conflict and displacement, climate events including recurrent drought, and the severe economic decline in Afghanistan since 15 August.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027354329358786345,
+          "perplexity": 40,
+          "sentence": "\u201cThe enormity of human suffering and the urgent needs of Afghans was tragically evident from what we saw and the people we spoke with during our mission, but it was also clear that humanitarians remain absolutely committed to deliver principled and unconditional humanitarian assistance to the people of Afghanistan,\u201d said Reena Ghelani, Director of Operations and Advocacy Division at OCHA.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030855529475957155,
+          "perplexity": 39,
+          "sentence": "\u201cAs the humanitarian and economic crises in Afghanistan grow, the resolve of the international community must remain steadfast in support of humanitarians, health-workers, and other frontline responders.\u201d The group of senior humanitarian professionals visiting Afghanistan represent the Emergency Directors Group, an advisory body that provides recommendations to the international humanitarian community on strategic and operational issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002789427526295185,
+          "perplexity": 56,
+          "sentence": "\u201cI met a woman who told us she has not cooked in the last 14 days because her kitchen is empty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030961432494223118,
+          "perplexity": 72,
+          "sentence": "I have seen first-hand women skipping meals to ensure their children and families are fed first, and this is simply unacceptable,\u201d said Deepmala Mahla, Vice President of Humanitarian Affairs at CARE.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003392081242054701,
+          "perplexity": 41,
+          "sentence": "\u201cPeople need access to basic services like food, education, the ability to heat their homes in freezing temperatures, and people need cash to pay for their needs and choices.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(Kabul, 25 February 2022): Concluding a five-day field mission to observe the dire humanitarian situation in Afghanistan, a delegation of senior UN and NGO representatives have found that humanitarian organizations have shown their ability to scale up operations to provide life-saving assistance to people who desperately need aid. In Kabul and travelling to humanitarian projects in Kandahar, Panjwai, and Spin-Boldak, the team met with frontline aid workers, healthcare professionals, and humanitarian coordination teams. They also spoke with women and men directly affected by decades of conflict and displacement, climate events including recurrent drought, and the severe economic decline in Afghanistan since 15 August. \u201cThe enormity of human suffering and the urgent needs of Afghans was tragically evident from what we saw and the people we spoke with during our mission, but it was also clear that humanitarians remain absolutely committed to deliver principled and unconditional humanitarian assistance to the people of Afghanistan,\u201d said Reena Ghelani, Director of Operations and Advocacy Division at OCHA. \u201cAs the humanitarian and economic crises in Afghanistan grow, the resolve of the international community must remain steadfast in support of humanitarians, health-workers, and other frontline responders.\u201d The group of senior humanitarian professionals visiting Afghanistan represent the Emergency Directors Group, an advisory body that provides recommendations to the international humanitarian community on strategic and operational issues. \u201cI met a woman who told us she has not cooked in the last 14 days because her kitchen is empty. I have seen first-hand women skipping meals to ensure their children and families are fed first, and this is simply unacceptable,\u201d said Deepmala Mahla, Vice President of Humanitarian Affairs at CARE. \u201cPeople need access to basic services like food, education, the ability to heat their homes in freezing temperatures, and people need cash to pay for their needs and choices.",
+  "date": "25 February 2022"
+}

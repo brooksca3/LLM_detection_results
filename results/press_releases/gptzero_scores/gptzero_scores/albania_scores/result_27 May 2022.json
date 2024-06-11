@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "eff64584-a75e-4c13-a40c-639f460ea9a3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.62248611450195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013497512554749846,
+          "perplexity": 47,
+          "sentence": "The International Labor Organization (ILO), through the project \"Access to Justice in Labour Disputes through Mediation and Conciliation\", implemented in Albania with the financial support of the Government of Sweden, developed and introduced in cooperation with the Quality Assurance Agency of Pre-University Education an optional learning module on prevention and resolution of disputes at work for general high school students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001383298949804157,
+          "perplexity": 88,
+          "sentence": "The new optional learning module was introduced to the official curricula of pre-university education in 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013566520647145808,
+          "perplexity": 48,
+          "sentence": "It aims to educate and build the capacities of students with skills in the field of prevention and effective resolution of disputes through negotiation and dialogue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001240982091985643,
+          "perplexity": 84,
+          "sentence": "Through this module general high school students are involved in practical activities that develop and build their capacities and skills to understand, prevent and resolve peacefully and effectively labour disputes and problems in their future workplaces (as employers or employees).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001247417094418779,
+          "perplexity": 169,
+          "sentence": "During 2021-2022 school year, the new module was delivered to 2040 general high school students in Tirana, Kor\u00e7a, Pogradec, Librazhd, Elbasan, Durres, Lushnje, Kurbin and Kam\u00ebz.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011381309013813734,
+          "perplexity": 105,
+          "sentence": "More than 400 general high school teachers from 11 Local Education Offices were trained in cascade on the implementation of the new module and use of teachers' manual.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011051071487599984,
+          "perplexity": 83,
+          "sentence": "On 27 May 2022, the ILO and ASCAP trained another group of 40 teachers and local education offices representatives (70% women) from other 20 local education offices so that the implementation of the module is expanded during the 2022-2023 school year to other districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012597267050296068,
+          "perplexity": 107,
+          "sentence": "Click here for more information (in Albanian) on the optional module on prevention and resolution of disputes at work.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The International Labor Organization (ILO), through the project \"Access to Justice in Labour Disputes through Mediation and Conciliation\", implemented in Albania with the financial support of the Government of Sweden, developed and introduced in cooperation with the Quality Assurance Agency of Pre-University Education an optional learning module on prevention and resolution of disputes at work for general high school students. The new optional learning module was introduced to the official curricula of pre-university education in 2021. It aims to educate and build the capacities of students with skills in the field of prevention and effective resolution of disputes through negotiation and dialogue. Through this module general high school students are involved in practical activities that develop and build their capacities and skills to understand, prevent and resolve peacefully and effectively labour disputes and problems in their future workplaces (as employers or employees). During 2021-2022 school year, the new module was delivered to 2040 general high school students in Tirana, Kor\u00e7a, Pogradec, Librazhd, Elbasan, Durres, Lushnje, Kurbin and Kam\u00ebz. More than 400 general high school teachers from 11 Local Education Offices were trained in cascade on the implementation of the new module and use of teachers\u2019 manual. On 27 May 2022, the ILO and ASCAP trained another group of 40 teachers and local education offices representatives (70% women) from other 20 local education offices so that the implementation of the module is expanded during the 2022-2023 school year to other districts. Click here for more information (in Albanian) on the optional module on prevention and resolution of disputes at work.",
+  "date": "27 May 2022"
+}

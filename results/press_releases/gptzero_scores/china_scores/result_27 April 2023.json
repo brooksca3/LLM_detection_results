@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d5eb407e-2a65-4df9-8439-50b0c05cd9ee",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.14847183227539,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016752982628531754,
+          "perplexity": 21,
+          "sentence": "BEIJING, 27 April - Last week, the United Nations (UN) in China, at the invitation of the Permanent Mission of the People's Republic of China to the UN and the China International Development Cooperation Agency (CIDCA), co-hosted a high-level event titled \u201cNew Progress of the Global Development Initiative, New Actions to Support the 2030 Agenda\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001611923798918724,
+          "perplexity": 24,
+          "sentence": "The event held at UN Headquarters in New York was joined by representatives of the UN System, Member States, Permanent Observers and other relevant entities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015762404655106366,
+          "perplexity": 46,
+          "sentence": "The event was organized during the occasion of the 2023 Economic and Social Council (ECOSOC) Financing for Development Forum, where Member States discussed difficult economic policy trade-offs and recent shocks that have threatened to further reverse progress on the 2030 Agenda for Sustainable Development, and the need for both immediate and longer-term measure to effectively finance responses to multiple overlapping crises while scaling up essential investments in the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001596737711224705,
+          "perplexity": 27,
+          "sentence": "Given this context, the UN System has welcomed the potential of China's Global Development Initiative (GDI), announced by President Xi Jinping during his address to the 76th Session of the UN General Assembly in September 2021, while encouraging its alignment with the SDGs and supporting its implementation through the offer of technical assistance to ensure compliance with international norms and standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014853791799396276,
+          "perplexity": 48,
+          "sentence": "In closing remarks, Siddharth Chatterjee, UN Resident Coordinator in China, said, \u201cWe are here today to learn more about and explore the potential of GDI, CIDCA and China's development cooperation efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001413066202076152,
+          "perplexity": 44,
+          "sentence": "There is enormous opportunity for them to help us deliver on the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001483451051171869,
+          "perplexity": 62,
+          "sentence": "Multilateral engagement, learning and collaboration are essential, and the UN stands ready to support China in these efforts.\u201d Whilst taking place in the United States, the event intends to form part of country-level programming and results between the UN in China and the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 27 April \u2013 Last week, the United Nations (UN) in China, at the invitation of the Permanent Mission of the People\u2019s Republic of China to the UN and the China International Development Cooperation Agency (CIDCA), co-hosted a high-level event titled \u201cNew Progress of the Global Development Initiative, New Actions to Support the 2030 Agenda\u201d. The event held at UN Headquarters in New York was joined by representatives of the UN System, Member States, Permanent Observers and other relevant entities. The event was organized during the occasion of the 2023 Economic and Social Council (ECOSOC) Financing for Development Forum, where Member States discussed difficult economic policy trade-offs and recent shocks that have threatened to further reverse progress on the 2030 Agenda for Sustainable Development, and the need for both immediate and longer-term measure to effectively finance responses to multiple overlapping crises while scaling up essential investments in the Sustainable Development Goals (SDGs). Given this context, the UN System has welcomed the potential of China\u2019s Global Development Initiative (GDI), announced by President Xi Jinping during his address to the 76th Session of the UN General Assembly in September 2021, while encouraging its alignment with the SDGs and supporting its implementation through the offer of technical assistance to ensure compliance with international norms and standards. In closing remarks, Siddharth Chatterjee, UN Resident Coordinator in China, said, \u201cWe are here today to learn more about and explore the potential of GDI, CIDCA and China\u2019s development cooperation efforts. There is enormous opportunity for them to help us deliver on the SDGs. Multilateral engagement, learning and collaboration are essential, and the UN stands ready to support China in these efforts.\u201d Whilst taking place in the United States, the event intends to form part of country-level programming and results between the UN in China and the",
+  "date": "27 April 2023"
+}

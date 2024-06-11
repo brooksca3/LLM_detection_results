@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a9c02e6f-d91c-4f02-996b-1b0712267c48",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.22317886352539,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016075415769591928,
+          "perplexity": 16,
+          "sentence": "Following is UN Secretary-General Ant\u00f3nio Guterres' message for the International Day against Drug Abuse and Illicit Trafficking, observed on 26 June: Tens of millions of people suffer from drug use disorders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018020630814135075,
+          "perplexity": 77,
+          "sentence": "Less than one fifth are in treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037872595712542534,
+          "perplexity": 19,
+          "sentence": "Drug users are doubly victimized: first by the harmful effects of the drugs themselves, and second by the stigma and discrimination they face.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004091513808816671,
+          "perplexity": 28,
+          "sentence": "People who use drugs can often face significant barriers to treatment and even health services for infectious diseases like HIV/AIDS and hepatitis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005042748060077429,
+          "perplexity": 31,
+          "sentence": "Meanwhile, drug traffickers continue to prey on drug users, rapidly escalating the production of dangerous, highly addictive synthetic drugs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004231085069477558,
+          "perplexity": 31,
+          "sentence": "This year's International Day Against Drug Abuse and Illicit Trafficking focuses on the need to put people first by ending stigma and discrimination, and strengthening prevention.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004387776367366314,
+          "perplexity": 124,
+          "sentence": "This means stressing rehabilitation, rather than punishment and incarceration for minor drug offences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004048104397952557,
+          "perplexity": 40,
+          "sentence": "It means upholding the human rights of people who use drugs, including by expanding prevention and treatment programmes and health services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029439881909638643,
+          "perplexity": 76,
+          "sentence": "It means protecting people and communities alike by ending impunity for drug traffickers profiting from people's pain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002831515623256564,
+          "perplexity": 157,
+          "sentence": "Above all, it means governments leading the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001567018567584455,
+          "perplexity": 30,
+          "sentence": "When I was Prime Minister of Portugal, we implemented non-criminal responses to drug possession for personal use, while cracking down on traffickers and re-allocating resources to prevention, treatment and harm-reduction measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001332376035861671,
+          "perplexity": 70,
+          "sentence": "As a result, drug consumption and associated infectious disease rates plummeted, more drugs were seized by police and customs, and \u1173 most importantly \u1173 lives were saved.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015801499830558896,
+          "perplexity": 36,
+          "sentence": "Today, Portugal has one of Europe's lowest overdose and death rates from drug use.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003028447972610593,
+          "perplexity": 24,
+          "sentence": "As a global community, let's continue our work to end drug abuse, illicit trafficking, and the stigma endured by drug users around the world.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is UN Secretary-General Ant\u00f3nio Guterres\u2019 message for the International Day against Drug Abuse and Illicit Trafficking, observed on 26 June: Tens of millions of people suffer from drug use disorders. Less than one fifth are in treatment. Drug users are doubly victimized: first by the harmful effects of the drugs themselves, and second by the stigma and discrimination they face. People who use drugs can often face significant barriers to treatment and even health services for infectious diseases like HIV/AIDS and hepatitis. Meanwhile, drug traffickers continue to prey on drug users, rapidly escalating the production of dangerous, highly addictive synthetic drugs. This year\u2019s International Day Against Drug Abuse and Illicit Trafficking focuses on the need to put people first by ending stigma and discrimination, and strengthening prevention. This means stressing rehabilitation, rather than punishment and incarceration for minor drug offences. It means upholding the human rights of people who use drugs, including by expanding prevention and treatment programmes and health services. It means protecting people and communities alike by ending impunity for drug traffickers profiting from people\u2019s pain. Above all, it means governments leading the way. When I was Prime Minister of Portugal, we implemented non-criminal responses to drug possession for personal use, while cracking down on traffickers and re-allocating resources to prevention, treatment and harm-reduction measures. As a result, drug consumption and associated infectious disease rates plummeted, more drugs were seized by police and customs, and \u2014 most importantly \u2014 lives were saved. Today, Portugal has one of Europe\u2019s lowest overdose and death rates from drug use. As a global community, let\u2019s continue our work to end drug abuse, illicit trafficking, and the stigma endured by drug users around the world.",
+  "date": "26 June 2023"
+}

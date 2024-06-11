@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b824d51f-72fc-4a54-ae11-1dea821f8358",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.840875625610352,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006625417736358941,
+          "perplexity": 46,
+          "sentence": "UNICEF was able to respond immediately following the explosion, distributing pre-positioned supplies that were in stock in the immediate aftermath.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005266953376121819,
+          "perplexity": 25,
+          "sentence": "At the same time, UNICEF worked to procure additional humanitarian supplies locally, wherever possible, including personal protective equipment (PPE), infection prevention and control (IPC) kits and other hygiene items, as well as supplies to support psycho-social assistance to children affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005526671884581447,
+          "perplexity": 39,
+          "sentence": "To compliment the locally procured supplies, additional supplies were sent from UNICEF's global supply hub in Copenhagen to Beirut, with further shipments planned in the coming days and weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004530267615336925,
+          "perplexity": 57,
+          "sentence": "\u201cBefore the dust had begun to settle, UNICEF teams were working to ensure that urgently needed humanitarian supplies could reach children and families affected as soon as possible,\u201d said UNICEF Lebanon Representative Yukie Mokuo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005713195423595607,
+          "perplexity": 72,
+          "sentence": "\u201cChildren have had their lives turned upside-down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041637616232037544,
+          "perplexity": 40,
+          "sentence": "Making sure that families have their basic needs met will allow them to start rebuilding their lives and look to the future,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004042159125674516,
+          "perplexity": 44,
+          "sentence": "As the number of COVID-19 cases in the country continues to surge, UNICEF was also able to deliver more than US$3.5 million worth of critical PPE and IPC kits - especially critical as 10 containers of PPE were destroyed in the explosions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038724977639503777,
+          "perplexity": 34,
+          "sentence": "The humanitarian supplies were delivered with the assistance of the European Union's European Civil Protection and Humanitarian Aid Operations (ECHO) and the Government of Belgium and through a donation from the Sanofi Foundation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038268553907983005,
+          "perplexity": 20,
+          "sentence": "UNICEF requires more than US$46.7 million to respond to the immediate needs of children and families over the next three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036939571145921946,
+          "perplexity": 59,
+          "sentence": "The response focuses on keeping children safe; rehabilitating basic essential services; and equipping adolescents and young people with skills they need to be part of the effort to rebuild their country - all while limiting the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF was able to respond immediately following the explosion, distributing pre-positioned supplies that were in stock in the immediate aftermath. At the same time, UNICEF worked to procure additional humanitarian supplies locally, wherever possible, including personal protective equipment (PPE), infection prevention and control (IPC) kits and other hygiene items, as well as supplies to support psycho-social assistance to children affected. To compliment the locally procured supplies, additional supplies were sent from UNICEF\u2019s global supply hub in Copenhagen to Beirut, with further shipments planned in the coming days and weeks. \u201cBefore the dust had begun to settle, UNICEF teams were working to ensure that urgently needed humanitarian supplies could reach children and families affected as soon as possible,\u201d said UNICEF Lebanon Representative Yukie Mokuo. \u201cChildren have had their lives turned upside-down. Making sure that families have their basic needs met will allow them to start rebuilding their lives and look to the future,\u201d she added. As the number of COVID-19 cases in the country continues to surge, UNICEF was also able to deliver more than US$3.5 million worth of critical PPE and IPC kits - especially critical as 10 containers of PPE were destroyed in the explosions. The humanitarian supplies were delivered with the assistance of the European Union\u2019s European Civil Protection and Humanitarian Aid Operations (ECHO) and the Government of Belgium and through a donation from the Sanofi Foundation. UNICEF requires more than US$46.7 million to respond to the immediate needs of children and families over the next three months. The response focuses on keeping children safe; rehabilitating basic essential services; and equipping adolescents and young people with skills they need to be part of the effort to rebuild their country \u2013 all while limiting the spread of COVID-19.",
+  "date": "25 August 2020"
+}

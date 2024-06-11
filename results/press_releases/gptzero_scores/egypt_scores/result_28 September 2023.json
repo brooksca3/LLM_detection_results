@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6def3dd3-1dd9-4df4-830d-84a81180dbb6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.99980926513672,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031317543471232057,
+          "perplexity": 45,
+          "sentence": "Cairo, Egypt - The United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA) held today in Cairo the \u201cParticipate4Impact\u201d competition winners awarding event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003114244609605521,
+          "perplexity": 37,
+          "sentence": "The competition aims at discovering youth and community-led initiatives to prevent and combat drugs, violence and crime, in collaboration with national Governments of Algeria, Egypt, Lebanon, Libya, Palestine and Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003307992301415652,
+          "perplexity": 22,
+          "sentence": "The event was hosted by the Arab Republic of Egypt and supported by the Federal Republic of Germany.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031699248938821256,
+          "perplexity": 103,
+          "sentence": "The evaluation committee recognized the winners in two categories: youth individuals aged 15-29, and youth-focused organizations: Ahmed Abdulghani from Libya and Al-Abrahemiya Media Center from Egypt, respectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003112988779321313,
+          "perplexity": 26,
+          "sentence": "The event was attended by Dr. Ashraf Sobhy, the Egyptian Minister of Youth and Sports and Ms. Cristina Albertin, the UNODC Regional Representative for the Middle East and North Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029212216031737626,
+          "perplexity": 31,
+          "sentence": "The event included a number of representatives of Algeria, Lebanon, Libya, Palestine and Sudan and representatives of youth targeting organizations, non-governmental organizations, youth groups, the media and relevant stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031452131224796176,
+          "perplexity": 31,
+          "sentence": "Dr. Ashraf Sobhy, Minister of Youth and Sports, noted that \"our young people face many challenges to their social security but the most important challenge in our Arab region remains to raise young people's awareness of the dangers of drugs, crime and related violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029254748369567096,
+          "perplexity": 32,
+          "sentence": "This drives us to make a lot of efforts to provide the right and clear information to youth about the effects of these negative phenomena on their physical and psychological health and on their future. \"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030949228676036,
+          "perplexity": 94,
+          "sentence": "Sobhy further added that \"enhanced cooperation between the Government and community and youth institutions is a priority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003221353981643915,
+          "perplexity": 28,
+          "sentence": "We must achieve this by building strong partnerships and sharing knowledge and expertise, providing resources for the implementation of programmes and projects aimed at combating drugs and crime, and that we must work together as a society",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo, Egypt - The United Nations Office on Drugs and Crime (UNODC) Regional Office for the Middle East and North Africa (ROMENA) held today in Cairo the \u201cParticipate4Impact\u201d competition winners awarding event. The competition aims at discovering youth and community-led initiatives to prevent and combat drugs, violence and crime, in collaboration with national Governments of Algeria, Egypt, Lebanon, Libya, Palestine and Sudan. The event was hosted by the Arab Republic of Egypt and supported by the Federal Republic of Germany. The evaluation committee recognized the winners in two categories: youth individuals aged 15-29, and youth-focused organizations: Ahmed Abdulghani from Libya and Al-Abrahemiya Media Center from Egypt, respectively. The event was attended by Dr. Ashraf Sobhy, the Egyptian Minister of Youth and Sports and Ms. Cristina Albertin, the UNODC Regional Representative for the Middle East and North Africa. The event included a number of representatives of Algeria, Lebanon, Libya, Palestine and Sudan and representatives of youth targeting organizations, non-governmental organizations, youth groups, the media and relevant stakeholders. Dr. Ashraf Sobhy, Minister of Youth and Sports, noted that \"our young people face many challenges to their social security but the most important challenge in our Arab region remains to raise young people's awareness of the dangers of drugs, crime and related violence. This drives us to make a lot of efforts to provide the right and clear information to youth about the effects of these negative phenomena on their physical and psychological health and on their future. \" Sobhy further added that \"enhanced cooperation between the Government and community and youth institutions is a priority. We must achieve this by building strong partnerships and sharing knowledge and expertise, providing resources for the implementation of programmes and projects aimed at combating drugs and crime, and that we must work together as a society",
+  "date": "28 September 2023"
+}

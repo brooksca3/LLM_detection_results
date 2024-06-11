@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d430c8ae-123b-4d5b-985e-27ab18ab3427",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.370080947875977,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0015157877933233976,
+          "perplexity": 24,
+          "sentence": "This day is declared by the United Nations General Assembly resolution of 2018, and it is a great chance to reiterate that remittances are vital source of income for many people, particularly in rural areas, and an engine for socio-economic growth and development of the countries around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001042561256326735,
+          "perplexity": 56,
+          "sentence": "\u201cIn addition to the economic benefits from sending remittances, migrants are also contributing with their 'social and cultural remittances' - which is the constant flow and transfer of their knowledge, experiences, skills, ideas, and cultural values that they regularly transmit back to their people in the country of origin, and this have even more wider development impact to the larger community,\u201d said Vladimir Gjorgjiev, Chief of IOM Azerbaijan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007920499774627388,
+          "perplexity": 70,
+          "sentence": "\u201cWhile paying for essential items and funding human capital development is arguably the most important function of remittances, studies also show that up to $190 billion can be leveraged for local investment and development.\u201d -IOM Director General Ant\u00f3nio Vitorino on International Day of Family Remittances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005694205756299198,
+          "perplexity": 68,
+          "sentence": "The IOM Azerbaijan in collaboration with the State Migration Service of the Republic of Azerbaijan also contribute to achieving the Sustainable Development Goals related to remittances (SDG 8 on Decent Work and Economic Growth) via implementation of \u201cEnhancing the Socioeconomic Benefits of Remittances in Azerbaijan\u201d project, which is fully in line with the Azerbaijan UNSDCF Priority area 1: Inclusive Growth that reduces Vulnerabilities and Build Resilience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040955771692097187,
+          "perplexity": 68,
+          "sentence": "On this occasion IOM Azerbaijan commends the work of the government, banks, private sector and development partners on promotion of digital and financial inclusion and calls upon them to spare no effort in continuing to improve the digital money transfers and assist migrants to send their remittances in a safe and less costly settings.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This day is declared by the United Nations General Assembly resolution of 2018, and it is a great chance to reiterate that remittances are vital source of income for many people, particularly in rural areas, and an engine for socio-economic growth and development of the countries around the world. \u201cIn addition to the economic benefits from sending remittances, migrants are also contributing with their \u2018social and cultural remittances\u2019 \u2013 which is the constant flow and transfer of their knowledge, experiences, skills, ideas, and cultural values that they regularly transmit back to their people in the country of origin, and this have even more wider development impact to the larger community,\u201d said Vladimir Gjorgjiev, Chief of IOM Azerbaijan. \u201cWhile paying for essential items and funding human capital development is arguably the most important function of remittances, studies also show that up to $190 billion can be leveraged for local investment and development.\u201d -IOM Director General Ant\u00f3nio Vitorino on International Day of Family Remittances. The IOM Azerbaijan in collaboration with the State Migration Service of the Republic of Azerbaijan also contribute to achieving the Sustainable Development Goals related to remittances (SDG 8 on Decent Work and Economic Growth) via implementation of \u201cEnhancing the Socioeconomic Benefits of Remittances in Azerbaijan\u201d project, which is fully in line with the Azerbaijan UNSDCF Priority area 1: Inclusive Growth that reduces Vulnerabilities and Build Resilience. On this occasion IOM Azerbaijan commends the work of the government, banks, private sector and development partners on promotion of digital and financial inclusion and calls upon them to spare no effort in continuing to improve the digital money transfers and assist migrants to send their remittances in a safe and less costly settings.",
+  "date": "16 June 2022"
+}

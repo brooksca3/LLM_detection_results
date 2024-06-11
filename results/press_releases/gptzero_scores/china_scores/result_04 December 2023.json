@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "61cb9204-a044-4cea-8306-6aa99f6a8008",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 85.6270980834961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017130051855929196,
+          "perplexity": 31,
+          "sentence": "BEIJING, 5 December - To build local awareness and momentum for the International Drought Resilience Alliance (IDRA), the Embassy of Spain in China, the Embassy of Senegal in China and the United Nations in China, co-organized a seminar at the UN Compound in Beijing on 30 November.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022509739210363477,
+          "perplexity": 21,
+          "sentence": "Recent drought events have been unprecedented in frequency and severity, with far-reaching economic, social and environmental impacts for all sectors of society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002472149790264666,
+          "perplexity": 57,
+          "sentence": "The consequences and duration of such droughts are further aggravated by increasing climate change, affecting areas not previously impacted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001616848021512851,
+          "perplexity": 47,
+          "sentence": "As a global response to drought, on 7 November 2022, at COP27, Prime Minister Pedro S\u00e1nchez of Spain and President Macky Sall of Senegal, along with leaders from over 30 countries and 20 organizations, with the support of the United Nations Convention to Combat Desertification, launched the IDRA.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016560366202611476,
+          "perplexity": 58,
+          "sentence": "His Excellency Mr. Rafael Dezcallar de Mazarredo, Ambassador of Spain to China, said, \u201cI would like to highlight that one of the two co-founders of IDRA is an African country, Senegal, together with an European one, Spain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016894441796466708,
+          "perplexity": 286,
+          "sentence": "IDRA wants to go beyond conventional divisions and mobilize global support for a global problem\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015206071839202195,
+          "perplexity": 74,
+          "sentence": "The seminar sought to bring focus to the IDRA as a collaborative platform which aims to catalyse momentum and action that supports countries, cities, and communities to go beyond disaster responses and reduce vulnerability to droughts by mainstreaming preparedness and adaptation measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001567996951052919,
+          "perplexity": 50,
+          "sentence": "His Excellency Mr. Ibragima Sory Sylla, Ambassador of Senegal to China, said, \u201cI would like to reaffirm my Government's commitment to work hand in hand with all stakeholders, including Spain, UN, African countries and Chinese authorities to promote IDRA in the hope that it will expand for the common good of humanity.\u201d The seminar aimed to promote the IDRA in China, find shared priorities for cooperation to build drought resilience",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 5 December \u2013 To build local awareness and momentum for the International Drought Resilience Alliance (IDRA), the Embassy of Spain in China, the Embassy of Senegal in China and the United Nations in China, co-organized a seminar at the UN Compound in Beijing on 30 November. Recent drought events have been unprecedented in frequency and severity, with far-reaching economic, social and environmental impacts for all sectors of society. The consequences and duration of such droughts are further aggravated by increasing climate change, affecting areas not previously impacted. As a global response to drought, on 7 November 2022, at COP27, Prime Minister Pedro S\u00e1nchez of Spain and President Macky Sall of Senegal, along with leaders from over 30 countries and 20 organizations, with the support of the United Nations Convention to Combat Desertification, launched the IDRA. His Excellency Mr. Rafael Dezcallar de Mazarredo, Ambassador of Spain to China, said, \u201cI would like to highlight that one of the two co-founders of IDRA is an African country, Senegal, together with an European one, Spain. IDRA wants to go beyond conventional divisions and mobilize global support for a global problem\u201d. The seminar sought to bring focus to the IDRA as a collaborative platform which aims to catalyse momentum and action that supports countries, cities, and communities to go beyond disaster responses and reduce vulnerability to droughts by mainstreaming preparedness and adaptation measures. His Excellency Mr. Ibragima Sory Sylla, Ambassador of Senegal to China, said, \u201cI would like to reaffirm my Government's commitment to work hand in hand with all stakeholders, including Spain, UN, African countries and Chinese authorities to promote IDRA in the hope that it will expand for the common good of humanity.\u201d The seminar aimed to promote the IDRA in China, find shared priorities for cooperation to build drought resilience",
+  "date": "04 December 2023"
+}

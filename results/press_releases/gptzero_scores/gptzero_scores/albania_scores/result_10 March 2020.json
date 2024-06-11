@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f9506290-4269-461a-8fd9-dc7f357da15e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 54.79121398925781,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0023823969531804323,
+          "perplexity": 101,
+          "sentence": "UN Country Team in Albania is following closely the situation of COVID-19 breakout and is working with health authorities through the World Health Organization (WHO) country office in Albania.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002417752519249916,
+          "perplexity": 71,
+          "sentence": "The situation requires from all citizens to follow the guidance provided by the health authorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024686416145414114,
+          "perplexity": 219,
+          "sentence": "Particular attention must be placed on respecting hygiene advice and contact health emergency number 127 in case of concerns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025960265193134546,
+          "perplexity": 15,
+          "sentence": "The measures that have been taken by the government are necessary to contain the spread of the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00205494393594563,
+          "perplexity": 80,
+          "sentence": "In this situation, with the first COVID-19 cases confirmed in Albania it is normal for people to worry but as long as the advised measures are applied there is no reason to panic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022203295957297087,
+          "perplexity": 17,
+          "sentence": "Be informed: It is very important that people have all the necessary information about the disease and how the virus is transmitted and how it can be contained.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020007200073450804,
+          "perplexity": 54,
+          "sentence": "Be careful: Be careful but do not panic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017281833570450544,
+          "perplexity": 37,
+          "sentence": "Protect yourself, your family and others from getting infected and if you have fever and cough contact the health authorities to get support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019512148573994637,
+          "perplexity": 49,
+          "sentence": "Be alert: Use the information that you have received to prevent taking unnecessary risks that can expose you to the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016668918542563915,
+          "perplexity": 55,
+          "sentence": "Be kind: Be considerate and kind with other people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014290226390585303,
+          "perplexity": 92,
+          "sentence": "No one wishes to be infected but if this happens be supportive and empathic to another people's situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015050640795379877,
+          "perplexity": 18,
+          "sentence": "Everyone's rights must be respected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014887904981151223,
+          "perplexity": 23,
+          "sentence": "At the same time make sure that all protective measures are taken.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Country Team in Albania is following closely the situation of COVID-19 breakout and is working with health authorities through the World Health Organization (WHO) country office in Albania. The situation requires from all citizens to follow the guidance provided by the health authorities. Particular attention must be placed on respecting hygiene advice and contact health emergency number 127 in case of concerns. The measures that have been taken by the government are necessary to contain the spread of the virus. In this situation, with the first COVID-19 cases confirmed in Albania it is normal for people to worry but as long as the advised measures are applied there is no reason to panic. Be informed: It is very important that people have all the necessary information about the disease and how the virus is transmitted and how it can be contained. Be careful: Be careful but do not panic. Protect yourself, your family and others from getting infected and if you have fever and cough contact the health authorities to get support. Be alert: Use the information that you have received to prevent taking unnecessary risks that can expose you to the virus. Be kind: Be considerate and kind with other people. No one wishes to be infected but if this happens be supportive and empathic to another people\u2019s situation. Everyone\u2019s rights must be respected. At the same time make sure that all protective measures are taken.",
+  "date": "10 March 2020"
+}

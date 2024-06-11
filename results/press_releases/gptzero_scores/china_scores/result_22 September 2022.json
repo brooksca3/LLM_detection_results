@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "16e7c727-3ae3-4a16-82e2-7284014a663d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0131870187361661,
+        "human": 0.986812981263834,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.0131870187361661,
+      "confidence_category": "high",
+      "confidence_score": 0.986812981263834,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0131870187361661,
+          "human": 0.986812981263834,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 77.35164642333984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010928951669484377,
+          "perplexity": 60,
+          "sentence": "BEIJING, 22 September - At the request of representatives of Horn of Africa (HoA) countries, the United Nations (UN) in China supported an event today themed, \u201cDialogue on Agricultural Cooperation and Food Security: Toward a more resilient and sustainable Horn of Africa\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012816968373954296,
+          "perplexity": 57,
+          "sentence": "The Greater HoA Region continues to face a dire food security crisis driven by several evolving factors, including conflicts, the COVID-19 pandemic, and extreme weather events such as floods and droughts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001354648033156991,
+          "perplexity": 9,
+          "sentence": "The number of people at risk of starvation in the region has increased to 22 million, according to the UN's World Food Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011797244660556316,
+          "perplexity": 24,
+          "sentence": "Insufficient rainfall across countries such as Kenya, Somalia, and Ethiopia has caused the worst drought in 40 years and famine-like conditions in the hardest-hit areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010160717647522688,
+          "perplexity": 55,
+          "sentence": "The dialogue sets out to convene, connect and catalyze action from relevant stakeholders to address this dire humanitarian situation, the catastrophic levels of hunger and starvation, and to be an inflection point that encourages the needed political will, public policies, and new partnerships, including Public-Private partnerships, to leapfrog the green revolution in Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012182779610157013,
+          "perplexity": 150,
+          "sentence": "The dialogue serves as an important pillar of the UN in China's South-South Cooperation and learning efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010926489485427737,
+          "perplexity": 255,
+          "sentence": "The dialogue brought together diverse stakeholders to explore concrete areas for project-based cooperation toward greater food security in HoA countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008747514802962542,
+          "perplexity": 42,
+          "sentence": "Participants in the dialogue included Ambassadors to China from the HoA region and beyond, the African Union, Chinese ministries and departments, academia, UN representatives from China and Africa, research institutes, Multilateral Development Banks, foundations, American and British Chambers of Commerce, as well as businesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008234806591644883,
+          "perplexity": 45,
+          "sentence": "The dialogue is the first in a series of targeted activities through which the UN in China will promote technical assistance in support of South-South Cooperation efforts, with the aim of achieving a strong and balanced partnership between China and Africa, one that places African",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 22 September \u2013 At the request of representatives of Horn of Africa (HoA) countries, the United Nations (UN) in China supported an event today themed, \u201cDialogue on Agricultural Cooperation and Food Security: Toward a more resilient and sustainable Horn of Africa\u201d. The Greater HoA Region continues to face a dire food security crisis driven by several evolving factors, including conflicts, the COVID-19 pandemic, and extreme weather events such as floods and droughts. The number of people at risk of starvation in the region has increased to 22 million, according to the UN\u2019s World Food Programme. Insufficient rainfall across countries such as Kenya, Somalia, and Ethiopia has caused the worst drought in 40 years and famine-like conditions in the hardest-hit areas. The dialogue sets out to convene, connect and catalyze action from relevant stakeholders to address this dire humanitarian situation, the catastrophic levels of hunger and starvation, and to be an inflection point that encourages the needed political will, public policies, and new partnerships, including Public-Private partnerships, to leapfrog the green revolution in Africa. The dialogue serves as an important pillar of the UN in China\u2019s South-South Cooperation and learning efforts. The dialogue brought together diverse stakeholders to explore concrete areas for project-based cooperation toward greater food security in HoA countries. Participants in the dialogue included Ambassadors to China from the HoA region and beyond, the African Union, Chinese ministries and departments, academia, UN representatives from China and Africa, research institutes, Multilateral Development Banks, foundations, American and British Chambers of Commerce, as well as businesses. The dialogue is the first in a series of targeted activities through which the UN in China will promote technical assistance in support of South-South Cooperation efforts, with the aim of achieving a strong and balanced partnership between China and Africa, one that places African",
+  "date": "22 September 2022"
+}

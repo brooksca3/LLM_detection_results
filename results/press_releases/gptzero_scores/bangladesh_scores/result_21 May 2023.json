@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c92e0445-9ad9-4ae1-9f6c-8625b09c090d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.430131912231445,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008025859715417027,
+          "perplexity": 54,
+          "sentence": "The Human Rights 75 campaign marks the anniversary year of the Universal Declaration of Human Rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006575844017788768,
+          "perplexity": 50,
+          "sentence": "To commemorate the anniversary, the United Nations Resident Coordinator's Office in Bangladesh in partnership with the Department of Law at BRAC University organised a panel discussion on the digital laws and freedom of expression and opinion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007466577226296067,
+          "perplexity": 17,
+          "sentence": "The roundtable, held on 21 May, brought together independent experts, human rights activists, journalists, and students and was attended by the Minister of Law, Justice and Parliamentary Affairs, Anisul Huq, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, and a technical expert from the UN Office of the High Commissioner for Human Rights (OHCHR), who joined the roundtable via video link.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007844817009754479,
+          "perplexity": 21,
+          "sentence": "In his remarks, Minister Anisul Huq reaffirmed the government's commitment to safeguarding human rights and said that by September 2023 the country's Digital Security Act (DSA) will be amended after consultations with civil society and other stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006812736974097788,
+          "perplexity": 29,
+          "sentence": "Addressing the roundtable, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, noted that the UN Office of the High Commissioner for Human Rights (OHCHR) provided the Government of Bangladesh with detailed technical comments to assist with a revision of the DSA and underlined the necessity to have a dialogue with the youth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005496148951351643,
+          "perplexity": 62,
+          "sentence": "\u201cI am grateful that the Honourable Minister Anisul Huq and respected guests are participating in this dialogue between the government, civil society, and the youth to exchange perspectives on progress and challenges related to the digital laws of Bangladesh and international standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005302929203025997,
+          "perplexity": 32,
+          "sentence": "Only by having these discussions and listening to each other we can build a just and inclusive society.\u201d Earlier this year, the UN High Commissioner for Human Rights, Volker T\u00fcrk, called for immediate suspension of the Digital Security Act (DSA), as more than 2,000 cases have been filed under this law including the case against Matiur",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Human Rights 75 campaign marks the anniversary year of the Universal Declaration of Human Rights. To commemorate the anniversary, the United Nations Resident Coordinator\u2019s Office in Bangladesh in partnership with the Department of Law at BRAC University organised a panel discussion on the digital laws and freedom of expression and opinion. The roundtable, held on 21 May, brought together independent experts, human rights activists, journalists, and students and was attended by the Minister of Law, Justice and Parliamentary Affairs, Anisul Huq, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, and a technical expert from the UN Office of the High Commissioner for Human Rights (OHCHR), who joined the roundtable via video link. In his remarks, Minister Anisul Huq reaffirmed the government's commitment to safeguarding human rights and said that by September 2023 the country\u2019s Digital Security Act (DSA) will be amended after consultations with civil society and other stakeholders. Addressing the roundtable, the UN Resident Coordinator in Bangladesh, Gwyn Lewis, noted that the UN Office of the High Commissioner for Human Rights (OHCHR) provided the Government of Bangladesh with detailed technical comments to assist with a revision of the DSA and underlined the necessity to have a dialogue with the youth. \u201cI am grateful that the Honourable Minister Anisul Huq and respected guests are participating in this dialogue between the government, civil society, and the youth to exchange perspectives on progress and challenges related to the digital laws of Bangladesh and international standards. Only by having these discussions and listening to each other we can build a just and inclusive society.\u201d Earlier this year, the UN High Commissioner for Human Rights, Volker T\u00fcrk, called for immediate suspension of the Digital Security Act (DSA), as more than 2,000 cases have been filed under this law including the case against Matiur",
+  "date": "21 May 2023"
+}

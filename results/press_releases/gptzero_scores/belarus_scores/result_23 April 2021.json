@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9e7e11b4-8646-4274-9768-e74c0127f955",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023040260959309875,
+        "human": 0.9544774331188566,
+        "mixed": 0.02248230592183371
+      },
+      "completely_generated_prob": 0.023040260959309875,
+      "confidence_category": "high",
+      "confidence_score": 0.9544774331188566,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023040260959309875,
+          "human": 0.9544774331188566,
+          "mixed": 0.02248230592183371
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 62.501285552978516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0018261524382978678,
+          "perplexity": 90,
+          "sentence": "During the meeting, co-chaired by United Nations Resident Coordinator Mrs. Joanna Kazana-Wisniowiecki and the IOM Chief of Mission in Belarus Mrs. Mahym Orazmuhammedova, the progress on the GCM implementation in Belarus has been presented from the government, non-government, and UN perspectives as well as GCM link with National Concept on Migration Policy and SDGs have been discussed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021729946602135897,
+          "perplexity": 130,
+          "sentence": "The important contributions have been done by the government of Belarus as proving inputs to the \u201cUN SG Biennial Report on the implementation of the Global Compact on Migration 2020\u201d and submission of the national Voluntary Report of the Implementation of the Global Compact with the UN Network's support in Belarus was underlined by UN Resident Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002308972179889679,
+          "perplexity": 131,
+          "sentence": "Mrs. Joanna Kazana-Wisniowiecki noted that the UN Belarus Network on Migration would like to both support national policy discussions and formulation of the national migration policy and action plan in Belarus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024906217586249113,
+          "perplexity": 29,
+          "sentence": "The national concept of migration policy of the Republic of Belarus and the national plan for its implementation will play a key role in the implementation of the GCM, as well as the 2030 Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020571984350681305,
+          "perplexity": 63,
+          "sentence": "\u201cAt the national level, one of the main tasks of the UN Country Network on Migration will be to provide a forum and platform for multilateral discussion and consultation on migration issues, as well as support in the implementation, follow-up and review of the GCM\u201d- said Mrs. Mahym Orazmuhammedova - IOM Chief of Mission in Belarus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004302371293306351,
+          "perplexity": 225,
+          "sentence": "The Network's functioning was also reviewed from the perspective of the impact of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017423225566744804,
+          "perplexity": 90,
+          "sentence": "While the pandemic is not a crisis of migration, it nevertheless has fundamentally impacted mobility and migrants' human rights and raised unexpected policy challenges for governments everywhere.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01799960620701313,
+          "perplexity": 43,
+          "sentence": "The UN Country Team in Belarus has contributed to these efforts by providing assistance to different vulnerable groups, including victims of trafficking, asylum-seekers,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "During the meeting, co-chaired by United Nations Resident Coordinator Mrs. Joanna Kazana-Wisniowiecki and the IOM Chief of Mission in Belarus Mrs. Mahym Orazmuhammedova, the progress on the GCM implementation in Belarus has been presented from the government, non-government, and UN perspectives as well as GCM link with National Concept on Migration Policy and SDGs have been discussed. The important contributions have been done by the government of Belarus as proving inputs to the \u201cUN SG Biennial Report on the implementation of the Global Compact on Migration 2020\u201d and submission of the national Voluntary Report of the Implementation of the Global Compact with the UN Network\u2019s support in Belarus was underlined by UN Resident Coordinator. Mrs. Joanna Kazana-Wisniowiecki noted that the UN Belarus Network on Migration would like to both support national policy discussions and formulation of the national migration policy and action plan in Belarus. The national concept of migration policy of the Republic of Belarus and the national plan for its implementation will play a key role in the implementation of the GCM, as well as the 2030 Agenda. \u201cAt the national level, one of the main tasks of the UN Country Network on Migration will be to provide a forum and platform for multilateral discussion and consultation on migration issues, as well as support in the implementation, follow-up and review of the GCM\u201d- said Mrs. Mahym Orazmuhammedova \u2013 IOM Chief of Mission in Belarus. The Network\u2019s functioning was also reviewed from the perspective of the impact of COVID-19. While the pandemic is not a crisis of migration, it nevertheless has fundamentally impacted mobility and migrants\u2019 human rights and raised unexpected policy challenges for governments everywhere. The UN Country Team in Belarus has contributed to these efforts by providing assistance to different vulnerable groups, including victims of trafficking, asylum-seekers,",
+  "date": "23 April 2021"
+}

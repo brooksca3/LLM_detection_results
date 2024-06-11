@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "adff4594-40d2-4cb8-aad2-64acd240161a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 112.86585235595703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00042089304770343006,
+          "perplexity": 34,
+          "sentence": "Inspiring collective action around the open-ended consultative process for the United Nations Sustainable Development Cooperation Framework 2023-2027, the Ministry of Cooperation launched the second round of consultative meetings with other key stakeholders from the private sector, civil society, development partners, think tanks and academia, to put forward a common agenda that provides a powerful vision for a more secure, inclusive, and prosperous future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045473361387848854,
+          "perplexity": 37,
+          "sentence": "Tackling development challenges requires an \u201call-hands-on-deck\u201d effort that leverages the comparative advantage of every stakeholder, which is why the Ministry of International Cooperation and the United Nations Office in Egypt, as co-chairs of the Joint Steering Committee, held multiple meetings with civil society and trade union institutions, multilateral and bilateral development partners, the private sector, entrepreneurs, think tanks, and research institutions in order to unlock innovative solutions that accelerate progress and boost the capacity and performance of policy implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004547045973595232,
+          "perplexity": 17,
+          "sentence": "Over the course of a week, the meetings witnessed the participation of 36 multilateral and bilateral development partners, including the World Bank, the African Development Bank, the European Bank for Reconstruction and Development, the European Investment Bank, the European Union, and 38 civil society organizations, including the Egyptian Network for Integrated Development, the Egyptian Center for Women's Rights, Caritas Egypt, 31 private sector institutions including the Bank of Alexandria, the American Chamber of Commerce, Coca-Cola, the Egyptian Businessmen Association, and Falak Startup, as well as 20 representatives of academic and research organizations including Cairo University and the American University in Cairo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044188665924593806,
+          "perplexity": 42,
+          "sentence": "The Minister of International Cooperation, Dr. Rania A. Al-Mashat, noted that the Ministry launched extensive consultations for the new development cooperation framework in May 2021, which included the participation of more than 30 national bodies and around 28 United Nations agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004143303376622498,
+          "perplexity": 284,
+          "sentence": "She added that \u201cthe participation of research and academic bodies is an important and main link",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Inspiring collective action around the open-ended consultative process for the United Nations Sustainable Development Cooperation Framework 2023-2027, the Ministry of Cooperation launched the second round of consultative meetings with other key stakeholders from the private sector, civil society, development partners, think tanks and academia, to put forward a common agenda that provides a powerful vision for a more secure, inclusive, and prosperous future. Tackling development challenges requires an \u201call-hands-on-deck\u201d effort that leverages the comparative advantage of every stakeholder, which is why the Ministry of International Cooperation and the United Nations Office in Egypt, as co-chairs of the Joint Steering Committee, held multiple meetings with civil society and trade union institutions, multilateral and bilateral development partners, the private sector, entrepreneurs, think tanks, and research institutions in order to unlock innovative solutions that accelerate progress and boost the capacity and performance of policy implementation. Over the course of a week, the meetings witnessed the participation of 36 multilateral and bilateral development partners, including the World Bank, the African Development Bank, the European Bank for Reconstruction and Development, the European Investment Bank, the European Union, and 38 civil society organizations, including the Egyptian Network for Integrated Development, the Egyptian Center for Women\u2019s Rights, Caritas Egypt, 31 private sector institutions including the Bank of Alexandria, the American Chamber of Commerce, Coca-Cola, the Egyptian Businessmen Association, and Falak Startup, as well as 20 representatives of academic and research organizations including Cairo University and the American University in Cairo. The Minister of International Cooperation, Dr. Rania A. Al-Mashat, noted that the Ministry launched extensive consultations for the new development cooperation framework in May 2021, which included the participation of more than 30 national bodies and around 28 United Nations agencies. She added that \u201cthe participation of research and academic bodies is an important and main link",
+  "date": "06 April 2022"
+}

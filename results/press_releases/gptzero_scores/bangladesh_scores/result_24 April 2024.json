@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "099f2a13-683a-46b9-992e-e3d318d73d62",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.118993759155273,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00368690537288785,
+          "perplexity": 21,
+          "sentence": "The health consequences of climate change can include cancer, cardiovascular disease, respiratory illnesses, kidney disfunction and mental health conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002119717886671424,
+          "perplexity": 18,
+          "sentence": "GENEVA (ILO News) - A \u201cstaggering\u201d number of workers, amounting to more than 70 per cent of the global workforce, are likely to be exposed to climate-change-related health hazards, and existing occupational safety and health (OSH) protections are struggling to keep up with the resulting risks, according to a new report by the International Labour Organization (ILO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028430570382624865,
+          "perplexity": 16,
+          "sentence": "The report, Ensuring safety and health at work in a changing climate, says that climate change is already having a serious impact on the safety and health of workers in all regions of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021802110131829977,
+          "perplexity": 15,
+          "sentence": "The ILO estimates that more than 2.4 billion workers (out of a global workforce of 3.4 billion) are likely to be exposed to excessive heat at some point during their work, according to the most recent figures available (2020).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023784812074154615,
+          "perplexity": 11,
+          "sentence": "When calculated as a share of the global workforce, the proportion has increased from 65.5 per cent to 70.9 per cent since 2000.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020777794998139143,
+          "perplexity": 33,
+          "sentence": "In addition, the report estimates that 18,970 lives and 2.09 million disability-adjusted life years are lost annually due to the 22.87 million occupational injuries, which are attributable to excessive heat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002549076220020652,
+          "perplexity": 60,
+          "sentence": "This is not to mention the 26.2 million people worldwide living with chronic kidney disease linked to workplace heat stress (2020 figures).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038340804167091846,
+          "perplexity": 56,
+          "sentence": "However, the impact of climate change on workers goes well beyond exposure to excessive heat, the report says, creating a \u201ccocktail of hazards\u201d, which result in a range of dangerous health conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003985018935054541,
+          "perplexity": 19,
+          "sentence": "The report notes that numerous health conditions in workers have been linked to climate change, including cancer, cardiovascular disease, respiratory illnesses, kidney disfunction and mental health conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004302262794226408,
+          "perplexity": 98,
+          "sentence": "The impact includes: \u201cIt's clear that climate change is already creating significant additional health hazards for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The health consequences of climate change can include cancer, cardiovascular disease, respiratory illnesses, kidney disfunction and mental health conditions. GENEVA (ILO News) \u2013 A \u201cstaggering\u201d number of workers, amounting to more than 70 per cent of the global workforce, are likely to be exposed to climate-change-related health hazards, and existing occupational safety and health (OSH) protections are struggling to keep up with the resulting risks, according to a new report by the International Labour Organization (ILO). The report, Ensuring safety and health at work in a changing climate, says that climate change is already having a serious impact on the safety and health of workers in all regions of the world. The ILO estimates that more than 2.4 billion workers (out of a global workforce of 3.4 billion) are likely to be exposed to excessive heat at some point during their work, according to the most recent figures available (2020). When calculated as a share of the global workforce, the proportion has increased from 65.5 per cent to 70.9 per cent since 2000. In addition, the report estimates that 18,970 lives and 2.09 million disability-adjusted life years are lost annually due to the 22.87 million occupational injuries, which are attributable to excessive heat. This is not to mention the 26.2 million people worldwide living with chronic kidney disease linked to workplace heat stress (2020 figures). However, the impact of climate change on workers goes well beyond exposure to excessive heat, the report says, creating a \u201ccocktail of hazards\u201d, which result in a range of dangerous health conditions. The report notes that numerous health conditions in workers have been linked to climate change, including cancer, cardiovascular disease, respiratory illnesses, kidney disfunction and mental health conditions. The impact includes: \u201cIt\u2019s clear that climate change is already creating significant additional health hazards for",
+  "date": "24 April 2024"
+}

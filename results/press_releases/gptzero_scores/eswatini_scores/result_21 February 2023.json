@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e1a73cdc-2eca-4803-8879-9d82975f9a14",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.482585906982422,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006567288655787706,
+          "perplexity": 60,
+          "sentence": "UN Chief reiterates call for G20 countries to agree on $500 billion annual stimulus for Sustainable Development Agenda 17 February 2023, New York - With the failure of the global financial system to effectively cushion the impacts of current global crises on the Global South \u1173 the COVID-19 pandemic, the war in Ukraine and the ongoing climate emergency \u1173 the UN today called for the urgent need for a significant increase of finance for sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004714589740615338,
+          "perplexity": 60,
+          "sentence": "\u201cToday's poly-crises are compounding shocks on developing countries - in large part because of an unfair global financial system that is short-term, crisis-prone, and that further exacerbates inequalities,\u201d warned UN Secretary-General Ant\u00f3nio Guterres on the occasion of the launch of the SDG Stimulus released today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040444641490466893,
+          "perplexity": 96,
+          "sentence": "\u201cWe need to massively scale up affordable long-term financing by aligning all financing flows to the SDGs and improving the terms of lending of multilateral development banks,\u201d stressed the Secretary-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003849694912787527,
+          "perplexity": 44,
+          "sentence": "\u201cThe high cost of debt and increasing risks of debt distress demand decisive action to make at least $500 billion dollars available annually to developing countries and convert short term lending into long term debt at lower interest rates.\u201d Halfway to the 2030 Agenda deadline, progress on the Sustainable Development Goals (SDGs) - our roadmap out of crises - is not where it needs to be.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002889203024096787,
+          "perplexity": 51,
+          "sentence": "To reverse course and make steady progress on the Goals, the SDG Stimulus outlines the need for the international community to come together to mobilize investments for the SDGs - but, in so doing, create a new international financial architecture that would ensure that finance is automatically invested to support just, inclusive and equitable transitions for all countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034574628807604313,
+          "perplexity": 29,
+          "sentence": "The current global financial system - originally created to provide a global safety net during shocks - is one in which most of the world's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Chief reiterates call for G20 countries to agree on $500 billion annual stimulus for Sustainable Development Agenda 17 February 2023, New York - With the failure of the global financial system to effectively cushion the impacts of current global crises on the Global South \u2014 the COVID-19 pandemic, the war in Ukraine and the ongoing climate emergency \u2014 the UN today called for the urgent need for a significant increase of finance for sustainable development. \u201cToday\u2019s poly-crises are compounding shocks on developing countries \u2013 in large part because of an unfair global financial system that is short-term, crisis-prone, and that further exacerbates inequalities,\u201d warned UN Secretary-General Ant\u00f3nio Guterres on the occasion of the launch of the SDG Stimulus released today. \u201cWe need to massively scale up affordable long-term financing by aligning all financing flows to the SDGs and improving the terms of lending of multilateral development banks,\u201d stressed the Secretary-General. \u201cThe high cost of debt and increasing risks of debt distress demand decisive action to make at least $500 billion dollars available annually to developing countries and convert short term lending into long term debt at lower interest rates.\u201d Halfway to the 2030 Agenda deadline, progress on the Sustainable Development Goals (SDGs) \u2013 our roadmap out of crises \u2013 is not where it needs to be. To reverse course and make steady progress on the Goals, the SDG Stimulus outlines the need for the international community to come together to mobilize investments for the SDGs \u2013 but, in so doing, create a new international financial architecture that would ensure that finance is automatically invested to support just, inclusive and equitable transitions for all countries. The current global financial system \u2013 originally created to provide a global safety net during shocks \u2013 is one in which most of the world\u2019s",
+  "date": "21 February 2023"
+}

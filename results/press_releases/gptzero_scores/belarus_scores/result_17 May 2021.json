@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b43bb8ef-d998-4e6e-b796-b822a610b949",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 134.51864624023438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00041264703031629324,
+          "perplexity": 13,
+          "sentence": "On the eve of the International Day Against Homophobia, Transphobia and Biphobia (IDAHOBIT), which will be held on 17 May 2021, a group of United Nations and international human rights experts* calls on States, faith-based institutions, religious leaders and other stakeholders to consider the negative impact of exclusionary or stigmatizing narratives on violence and discrimination against lesbian, gay, bisexual, transgender, and gender diverse (LGBT) persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004373461415525526,
+          "perplexity": 20,
+          "sentence": "LGBT and gender diverse persons are and have always been part of all faith traditions around the world and, as all human beings, must be recognized as worthy of love and belonging.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004036396858282387,
+          "perplexity": 19,
+          "sentence": "Freedom in general, and freedom of thought, conscience and religion or belief in particular, are cornerstones of the international human rights framework, and the right to freedom of religion or belief of all human beings during their life course, including that of LGBT persons, must be recognized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005518152611330152,
+          "perplexity": 14,
+          "sentence": "Religious authorities have a responsibility to ensure that religion and tradition are not utilized to promote discrimination of persons based on their sexual orientation and gender identity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004012993013020605,
+          "perplexity": 43,
+          "sentence": "However, imputations of sin to the conduct and choices of LGBT individuals in the name of religion are often used as the justification for criminalization and other punitive measures in legal systems that, in many cases, derive from colonial structures that were superimposed on cultural views that were more accepting of diversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004320798034314066,
+          "perplexity": 20,
+          "sentence": "Currently, 69 countries continue to criminalize same-sex relationships or forms of gender expression, with some even prescribing the death penalty for same-sex relationships.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030562415486201644,
+          "perplexity": 21,
+          "sentence": "Several of them in the Middle East and North Africa, South and South-East Asia, and sub-Saharan Africa justify the maintenance of legal prohibitions of homosexuality, introduced in most cases by colonial authorities, on the grounds that they uphold the tenets of Islam or Christianity, and therefore are necessary to maintain public morals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030194365535862744,
+          "perplexity": 401,
+          "sentence": "Further, incitement",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On the eve of the International Day Against Homophobia, Transphobia and Biphobia (IDAHOBIT), which will be held on 17 May 2021, a group of United Nations and international human rights experts* calls on States, faith-based institutions, religious leaders and other stakeholders to consider the negative impact of exclusionary or stigmatizing narratives on violence and discrimination against lesbian, gay, bisexual, transgender, and gender diverse (LGBT) persons. LGBT and gender diverse persons are and have always been part of all faith traditions around the world and, as all human beings, must be recognized as worthy of love and belonging. Freedom in general, and freedom of thought, conscience and religion or belief in particular, are cornerstones of the international human rights framework, and the right to freedom of religion or belief of all human beings during their life course, including that of LGBT persons, must be recognized. Religious authorities have a responsibility to ensure that religion and tradition are not utilized to promote discrimination of persons based on their sexual orientation and gender identity. However, imputations of sin to the conduct and choices of LGBT individuals in the name of religion are often used as the justification for criminalization and other punitive measures in legal systems that, in many cases, derive from colonial structures that were superimposed on cultural views that were more accepting of diversity. Currently, 69 countries continue to criminalize same-sex relationships or forms of gender expression, with some even prescribing the death penalty for same-sex relationships. Several of them in the Middle East and North Africa, South and South-East Asia, and sub-Saharan Africa justify the maintenance of legal prohibitions of homosexuality, introduced in most cases by colonial authorities, on the grounds that they uphold the tenets of Islam or Christianity, and therefore are necessary to maintain public morals. Further, incitement",
+  "date": "17 May 2021"
+}

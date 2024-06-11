@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4c43c56d-1539-46c6-8041-24dd34a9fbfd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 76.71467590332031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007584102568216622,
+          "perplexity": 23,
+          "sentence": "UNHCR, the UN Refugee Agency, is appealing for US$205 million to deliver life-saving assistance and protection to over 1.6 million people displaced due to the conflict in northern Ethiopia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000569286523386836,
+          "perplexity": 39,
+          "sentence": "Sixteen months of conflict in northern Ethiopia has created a humanitarian crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006275376072153449,
+          "perplexity": 15,
+          "sentence": "Civilians, including refugees and internally displaced people (IDPs) have been displaced, amid widespread reports of gender-based violence, human rights abuses, loss of shelter and access to basic services, and critical levels of food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005017275107093155,
+          "perplexity": 16,
+          "sentence": "More than 2 million Ethiopians have fled in search of safety within the country, and almost 60,000 across the border into Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005411105812527239,
+          "perplexity": 37,
+          "sentence": "Several camps and settlements hosting Eritrean refugees have been attacked or destroyed, further displacing tens of thousands within Ethiopia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005402283859439194,
+          "perplexity": 29,
+          "sentence": "Funds raised will help us to provide essential protection and humanitarian assistance to those impacted by the violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003951647668145597,
+          "perplexity": 117,
+          "sentence": "At least 60,000 IDP households will be assisted with shelter and emergency relief items.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034325208980590105,
+          "perplexity": 45,
+          "sentence": "We will establish additional protection desks -adding to the more than 60 already set up - to identify people with specific needs and to refer survivors of gender-based violence to services, and we will support the reintegration of 75,000 IDP families, who wish to return to their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035081064561381936,
+          "perplexity": 119,
+          "sentence": "We welcome the quick response of the Ethiopian government to identify new sites to settle the displaced refugees, which requires resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027383543783798814,
+          "perplexity": 39,
+          "sentence": "UNHCR will support the government's Refugees and Returnees Service (RRS) and partners to complete the Alemwach site, in the Amhara region, so that Eritrean refugees can be relocated as soon as it is possible to do so, and to ensure essential services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002755837340373546,
+          "perplexity": 51,
+          "sentence": "A new temporary site for Eritrean refugees caught up in the fighting in Afar region is similarly in need of urgent investment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025611239834688604,
+          "perplexity": 42,
+          "sentence": "Together with RRS and partners, we are aiming to get 20,000 refugee children back into school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002962930884677917,
+          "perplexity": 297,
+          "sentence": "In eastern Sudan,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNHCR, the UN Refugee Agency, is appealing for US$205 million to deliver life-saving assistance and protection to over 1.6 million people displaced due to the conflict in northern Ethiopia. Sixteen months of conflict in northern Ethiopia has created a humanitarian crisis. Civilians, including refugees and internally displaced people (IDPs) have been displaced, amid widespread reports of gender-based violence, human rights abuses, loss of shelter and access to basic services, and critical levels of food insecurity. More than 2 million Ethiopians have fled in search of safety within the country, and almost 60,000 across the border into Sudan. Several camps and settlements hosting Eritrean refugees have been attacked or destroyed, further displacing tens of thousands within Ethiopia. Funds raised will help us to provide essential protection and humanitarian assistance to those impacted by the violence. At least 60,000 IDP households will be assisted with shelter and emergency relief items. We will establish additional protection desks \u2013adding to the more than 60 already set up \u2013 to identify people with specific needs and to refer survivors of gender-based violence to services, and we will support the reintegration of 75,000 IDP families, who wish to return to their homes. We welcome the quick response of the Ethiopian government to identify new sites to settle the displaced refugees, which requires resources. UNHCR will support the government\u2019s Refugees and Returnees Service (RRS) and partners to complete the Alemwach site, in the Amhara region, so that Eritrean refugees can be relocated as soon as it is possible to do so, and to ensure essential services. A new temporary site for Eritrean refugees caught up in the fighting in Afar region is similarly in need of urgent investment. Together with RRS and partners, we are aiming to get 20,000 refugee children back into school. In eastern Sudan,",
+  "date": "04 March 2022"
+}

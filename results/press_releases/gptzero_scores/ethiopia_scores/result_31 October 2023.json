@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5a17cac6-db6c-4eac-9a37-bba136080f7a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07484666256767092,
+        "human": 0.9239136411579162,
+        "mixed": 0.001239696274412769
+      },
+      "completely_generated_prob": 0.07484666256767092,
+      "confidence_category": "medium",
+      "confidence_score": 0.9239136411579162,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07484666256767092,
+          "human": 0.9239136411579162,
+          "mixed": 0.001239696274412769
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.3320198059082,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11438671499490738,
+          "perplexity": 40,
+          "sentence": "UNOPS and Ethiopia's Ministry of Health have partnered to support the implementation of the Health Sector Transformation Plan (HSTP) II plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11205300688743591,
+          "perplexity": 54,
+          "sentence": "The United Nations Office for Project Services (UNOPS) and the Federal Ministry of Health (FMOH) had their first official kick-off meeting for a project known as \u201cStrengthening the Capacity of MOH for the Realization of Health Sector Transformation Plan (HSTP)II Selected Priorities.''",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1104220524430275,
+          "perplexity": 27,
+          "sentence": "The three-year project, with a targeted budget of $10.2M, aims to contribute towards the realization of selected strategic priorities of the HSTP-II through the establishment of a project management unit that will put in place systems, processes, tools and technical resources for the realization of the identified activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09908940643072128,
+          "perplexity": 80,
+          "sentence": "The project will also establish the procedures, methods, tools, and necessary instructions and manuals for its successful execution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11096195131540298,
+          "perplexity": 71,
+          "sentence": "The workshop organized by the Ministry of Health was attended by Dr. Ruth Nigatu, Chief of Staff for the Ministry of Health, Worknesh Mekonnen UNOPS Multi-Country Office Director, as well as technical personnel from both organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09882665425539017,
+          "perplexity": 23,
+          "sentence": "Also in attendance were representatives of the development partners supporting the project: the Italian Agency for Development Cooperation, the Bill and Melinda Gates Foundation, the Foreign, Commonwealth and Development Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1018374115228653,
+          "perplexity": 48,
+          "sentence": "In her opening remarks, Dr. Ruth emphasized the significance of the project and its contribution towards the achievement of the HSTP-II strategic priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10548102855682373,
+          "perplexity": 36,
+          "sentence": "UNOPS Multi-Country Office Director also noted the contribution of the project towards meeting SDG 3 which aims at ensuring healthy lives and promoting well-being for all at all ages, including reducing premature mortality from non-communicable diseases, increasing access to sexual and reproductive health care and services, and reducing the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11211753636598587,
+          "perplexity": 161,
+          "sentence": "The project is designed with extensive consultation with the technical teams of FMoH and UNOPS.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNOPS and Ethiopia's Ministry of Health have partnered to support the implementation of the Health Sector Transformation Plan (HSTP) II plan. The United Nations Office for Project Services (UNOPS) and the Federal Ministry of Health (FMOH) had their first official kick-off meeting for a project known as \u201cStrengthening the Capacity of MOH for the Realization of Health Sector Transformation Plan (HSTP)II Selected Priorities.\u2019\u2019 The three-year project, with a targeted budget of $10.2M, aims to contribute towards the realization of selected strategic priorities of the HSTP-II through the establishment of a project management unit that will put in place systems, processes, tools and technical resources for the realization of the identified activities. The project will also establish the procedures, methods, tools, and necessary instructions and manuals for its successful execution. The workshop organized by the Ministry of Health was attended by Dr. Ruth Nigatu, Chief of Staff for the Ministry of Health, Worknesh Mekonnen UNOPS Multi-Country Office Director, as well as technical personnel from both organizations. Also in attendance were representatives of the development partners supporting the project: the Italian Agency for Development Cooperation, the Bill and Melinda Gates Foundation, the Foreign, Commonwealth and Development Office. In her opening remarks, Dr. Ruth emphasized the significance of the project and its contribution towards the achievement of the HSTP-II strategic priorities. UNOPS Multi-Country Office Director also noted the contribution of the project towards meeting SDG 3 which aims at ensuring healthy lives and promoting well-being for all at all ages, including reducing premature mortality from non-communicable diseases, increasing access to sexual and reproductive health care and services, and reducing the number of deaths and illnesses from hazardous chemicals and air, water, and soil pollution. The project is designed with extensive consultation with the technical teams of FMoH and UNOPS.",
+  "date": "31 October 2023"
+}

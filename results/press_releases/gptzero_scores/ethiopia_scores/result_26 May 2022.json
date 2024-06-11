@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5b065e7a-ffb0-4ac4-aca3-b74b247190dd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.407100677490234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013573946489486843,
+          "perplexity": 83,
+          "sentence": "Three peacekeepers from Ethiopia to be honoured posthumously at United Nations ceremony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012938250438310206,
+          "perplexity": 65,
+          "sentence": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015324089326895773,
+          "perplexity": 20,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016279707779176533,
+          "perplexity": 176,
+          "sentence": "Among the peacekeepers to be honooured posthumously are three Ethiopian peacekeepers who served with United Nations Interim Security Force for Abyei (UNISFA): Cpl Solomon Ayalew Gared, Sgt Abebe Tesfaye Masiresha, and Sgt Tekelargay Tinikshu Haile.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016799727745819837,
+          "perplexity": 84,
+          "sentence": "During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018644145166035742,
+          "perplexity": 32,
+          "sentence": "The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016949429118540138,
+          "perplexity": 34,
+          "sentence": "This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honour in 2016.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016296248941216618,
+          "perplexity": 74,
+          "sentence": "The Secretary-General will also award the '2021 Military Gender Advocate of the Year Award' to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000187130703125149,
+          "perplexity": 30,
+          "sentence": "Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In his message, the Secretary-General said: \u201cToday, we honour the more than one million women and men who have served as UN peacekeepers since 1948.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034267493174411356,
+          "perplexity": 21,
+          "sentence": "We pay tribute to the nearly 4,200 heroes and heroines who sacrificed their lives in the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Three peacekeepers from Ethiopia to be honoured posthumously at United Nations ceremony. UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year. Among the peacekeepers to be honooured posthumously are three Ethiopian peacekeepers who served with United Nations Interim Security Force for Abyei (UNISFA): Cpl Solomon Ayalew Gared, Sgt Abebe Tesfaye Masiresha, and Sgt Tekelargay Tinikshu Haile. During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA). The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives. This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honour in 2016. The Secretary-General will also award the \u20182021 Military Gender Advocate of the Year Award\u2019 to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan. Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In his message, the Secretary-General said: \u201cToday, we honour the more than one million women and men who have served as UN peacekeepers since 1948. We pay tribute to the nearly 4,200 heroes and heroines who sacrificed their lives in the",
+  "date": "26 May 2022"
+}

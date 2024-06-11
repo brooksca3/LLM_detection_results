@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "43470c21-498a-44c2-8e2d-efb0d2877212",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.377443313598633,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00027068244526162744,
+          "perplexity": 14,
+          "sentence": "August 2023- Kabul, Afghanistan: The Food and Agriculture Organization of the United Nations (FAO) in partnership with the Government of Japan, facilitated by the Japan International Cooperation Agency (JICA), has launched a four-year project with a budget of USD 9.5 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026136692031286657,
+          "perplexity": 36,
+          "sentence": "The project aims to increase the amount of irrigated land, boost local food production and strengthen the food security and livelihood resilience of more than 12 600 poor food insecure men, women and children in Kunar province in eastern Afghanistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028309147455729544,
+          "perplexity": 31,
+          "sentence": "The project will also provide direct environmental benefits to local communities, helping to protect fragile rangelands and recharge vital groundwater resources, particularly important in the context of increasing climate change impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023875763872638345,
+          "perplexity": 65,
+          "sentence": "Agriculture depends on water.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002363594830967486,
+          "perplexity": 35,
+          "sentence": "Increasing population and growing climate change impacts make access to water ever-more important across Afghanistan, a country where more than 70 percent of food production depends on irrigation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023377579054795206,
+          "perplexity": 37,
+          "sentence": "The project will rehabilitate the existing Nurgal irrigation canal in Kunar province, improving both the quantity and reliability of irrigation water for agricultural production and increasing the total command area - the agricultural land irrigated by the canal - by 70 hectares to a total of 643 hectares, leading to both increases in overall agricultural production and increases in productivity of at least 12 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023737754963804036,
+          "perplexity": 40,
+          "sentence": "Importantly, the project will enable poor food insecure rural households to plant two crops a year, rather than just a single wheat crop, boosting incomes, resilience and food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022665965661872178,
+          "perplexity": 53,
+          "sentence": "The project will also deliver benefits to communities, helping to protect more than 2 000 hectares of fragile rangelands through improved and adapted plant varieties, and recharging vital groundwater resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023942030384205282,
+          "perplexity": 91,
+          "sentence": "The project builds on and enhances the Green Ground Project initiated by Dr. Tetsu Nakamura and Peace (Japan) Medical Services (PMS) to build irrigation systems in the Kunar River Basin from 2003.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "August 2023- Kabul, Afghanistan: The Food and Agriculture Organization of the United Nations (FAO) in partnership with the Government of Japan, facilitated by the Japan International Cooperation Agency (JICA), has launched a four\u2013year project with a budget of USD 9.5 million. The project aims to increase the amount of irrigated land, boost local food production and strengthen the food security and livelihood resilience of more than 12 600 poor food insecure men, women and children in Kunar province in eastern Afghanistan. The project will also provide direct environmental benefits to local communities, helping to protect fragile rangelands and recharge vital groundwater resources, particularly important in the context of increasing climate change impacts. Agriculture depends on water. Increasing population and growing climate change impacts make access to water ever-more important across Afghanistan, a country where more than 70 percent of food production depends on irrigation. The project will rehabilitate the existing Nurgal irrigation canal in Kunar province, improving both the quantity and reliability of irrigation water for agricultural production and increasing the total command area \u2013 the agricultural land irrigated by the canal \u2013 by 70 hectares to a total of 643 hectares, leading to both increases in overall agricultural production and increases in productivity of at least 12 percent. Importantly, the project will enable poor food insecure rural households to plant two crops a year, rather than just a single wheat crop, boosting incomes, resilience and food security. The project will also deliver benefits to communities, helping to protect more than 2 000 hectares of fragile rangelands through improved and adapted plant varieties, and recharging vital groundwater resources. The project builds on and enhances the Green Ground Project initiated by Dr. Tetsu Nakamura and Peace (Japan) Medical Services (PMS) to build irrigation systems in the Kunar River Basin from 2003.",
+  "date": "29 August 2023"
+}

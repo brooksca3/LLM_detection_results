@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "628af12f-a9ae-4064-8c93-cfea6cae1b3b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.199113845825195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003006444312632084,
+          "perplexity": 48,
+          "sentence": "BEIJING, 25 October - As part of celebrations for the 77th United Nations Day, the United Nations in China convened the \u201cDialogue on Youth Solidarity and Engagement to Accelerate the Sustainable Development Goals (SDGs)\u201d yesterday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003419749264139682,
+          "perplexity": 20,
+          "sentence": "Celebrated every year, UN Day marks the anniversary of the day in 1945 when the UN Charter entered into force, offering an opportunity for the international community to reaffirm the purposes and principles of the Organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003336682275403291,
+          "perplexity": 24,
+          "sentence": "The UN in China, in collaboration with the All-China Youth Federation and Center for China and Globalization, used the occasion to create a space that puts youth at the centre, to share their hopes and aspirations for the future, while underscoring the importance of intergenerational solidarity in realizing the vision of the 2030 Agenda for Sustainable Development and achieving the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003033086541108787,
+          "perplexity": 40,
+          "sentence": "The youth-led Dialogue, in part, focused on how digital technologies can help deliver on the key commitments outlined in the SDGs, while highlighting the innovative work of related youth-led organizations working in the public interest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026616101968102157,
+          "perplexity": 44,
+          "sentence": "More than 160 participants attended the event in person and online, including youth representatives from several regions of the globe, representatives from the international community in China, the Host Government, and development partners with a mandate on youth engagement and empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024751140153966844,
+          "perplexity": 58,
+          "sentence": "Mr. Fu Zhenbang, Vice President of the All-China Youth Federation, shared opening remarks, noting: \u201cThe emergence of digital tools and platforms provides a convenient path for young people to participate in rural revitalization, act on environmental protection and help vulnerable groups, but also brings new challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025449367240071297,
+          "perplexity": 68,
+          "sentence": "We look forward to working with the UN system to help youth better adapt to the digital age and digital technologies.\u201d Youth from across the globe, as part of the Youth Leaders for the SDGs group, kicked off the event with flash presentations and offered their",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING, 25 October \u2013 As part of celebrations for the 77th United Nations Day, the United Nations in China convened the \u201cDialogue on Youth Solidarity and Engagement to Accelerate the Sustainable Development Goals (SDGs)\u201d yesterday. Celebrated every year, UN Day marks the anniversary of the day in 1945 when the UN Charter entered into force, offering an opportunity for the international community to reaffirm the purposes and principles of the Organization. The UN in China, in collaboration with the All-China Youth Federation and Center for China and Globalization, used the occasion to create a space that puts youth at the centre, to share their hopes and aspirations for the future, while underscoring the importance of intergenerational solidarity in realizing the vision of the 2030 Agenda for Sustainable Development and achieving the SDGs. The youth-led Dialogue, in part, focused on how digital technologies can help deliver on the key commitments outlined in the SDGs, while highlighting the innovative work of related youth-led organizations working in the public interest. More than 160 participants attended the event in person and online, including youth representatives from several regions of the globe, representatives from the international community in China, the Host Government, and development partners with a mandate on youth engagement and empowerment. Mr. Fu Zhenbang, Vice President of the All-China Youth Federation, shared opening remarks, noting: \u201cThe emergence of digital tools and platforms provides a convenient path for young people to participate in rural revitalization, act on environmental protection and help vulnerable groups, but also brings new challenges. We look forward to working with the UN system to help youth better adapt to the digital age and digital technologies.\u201d Youth from across the globe, as part of the Youth Leaders for the SDGs group, kicked off the event with flash presentations and offered their",
+  "date": "25 October 2022"
+}
