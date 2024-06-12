@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b56be06b-1136-4d60-b5cc-1e48cb970276",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 5328.681640625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012598311877809465,
+          "perplexity": 17,
+          "sentence": "Bishkek, Kyrgyz Republic - In honour of celebrating the World Food Day in the Kyrgyz Republic, the Ministry of Agriculture of the Kyrgyz Republic, together with FAO and WFP, is organising an agricultural fair and agriculture exhibition at the main square in the capital Bishkek.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012396987585816532,
+          "perplexity": 31,
+          "sentence": "The agriculture fair and exhibition was organized for all women, men, girls and boys of the country and will be attended by high level officials, including the President of the Kyrgyz Republic Sadyr Japarov, to reiterate the commitment of the Government to ensure safe and nutritious food for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001184917928185314,
+          "perplexity": 38,
+          "sentence": "Everyone is welcomed to join, and, during the fair, there will be the opportunity to see and buy organic products of local farmers and celebrate the 95th anniversary since the establishment of Ministry of Agriculture of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013336798292584717,
+          "perplexity": 40,
+          "sentence": "\u201cThis year, the World Food Day coincides with the 95th anniversary of the Ministry of Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001210624395753257,
+          "perplexity": 43,
+          "sentence": "During the fair, we will celebrate this important date by demonstrating our achievements and goals for the future, as well as provide the opportunity for the public to see over 200 Kyrgyz companies producing organic products with modern technologies, agricultural machinery, thoroughbred livestock and dozens of varieties of potatoes, apples, pears and various dairy products,\u201d said Askarbek Janybekov, the Minister of Agriculture of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011803001689258963,
+          "perplexity": 50,
+          "sentence": "In 2022, the main theme of the World Food Day is \u201cLeave No One Behind\u201d, a reminder to pay particular attention to those cohorts of the population that are most vulnerable in order for them to equally benefit from development, innovation and economic growth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011800896027125418,
+          "perplexity": 17,
+          "sentence": "Currently, millions of people around the world cannot afford a healthy diet, putting them at high risk of food insecurity and malnutrition which perpetuates poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011501122207846493,
+          "perplexity": 52,
+          "sentence": "\u201cOver 80 percent of the extreme poor live in rural areas around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011419423390179873,
+          "perplexity": 16022,
+          "sentence": "They mainly",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, Kyrgyz Republic - In honour of celebrating the World Food Day in the Kyrgyz Republic, the Ministry of Agriculture of the Kyrgyz Republic, together with FAO and WFP, is organising an agricultural fair and agriculture exhibition at the main square in the capital Bishkek. The agriculture fair and exhibition was organized for all women, men, girls and boys of the country and will be attended by high level officials, including the President of the Kyrgyz Republic Sadyr Japarov, to reiterate the commitment of the Government to ensure safe and nutritious food for all. Everyone is welcomed to join, and, during the fair, there will be the opportunity to see and buy organic products of local farmers and celebrate the 95th anniversary since the establishment of Ministry of Agriculture of the Kyrgyz Republic. \u201cThis year, the World Food Day coincides with the 95th anniversary of the Ministry of Agriculture. During the fair, we will celebrate this important date by demonstrating our achievements and goals for the future, as well as provide the opportunity for the public to see over 200 Kyrgyz companies producing organic products with modern technologies, agricultural machinery, thoroughbred livestock and dozens of varieties of potatoes, apples, pears and various dairy products,\u201d said Askarbek Janybekov, the Minister of Agriculture of the Kyrgyz Republic. In 2022, the main theme of the World Food Day is \u201cLeave No One Behind\u201d, a reminder to pay particular attention to those cohorts of the population that are most vulnerable in order for them to equally benefit from development, innovation and economic growth. Currently, millions of people around the world cannot afford a healthy diet, putting them at high risk of food insecurity and malnutrition which perpetuates poverty. \u201cOver 80 percent of the extreme poor live in rural areas around the world. They mainly",
+  "date": "18 October 2022"
+}

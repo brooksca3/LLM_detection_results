@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a1b45a34-1931-4ceb-85e5-3bb22c080436",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.47426986694336,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.921610762830824e-05,
+          "perplexity": 39,
+          "sentence": "The Meeting will also discuss how to ensure that both the formal and informal private sector effectively takes full advantage of the opportunities in technology and innovation to enhance trade in goods and services across national borders in the face of the opportunities offered by the African Continental Free Trade Area Agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010775364353321493,
+          "perplexity": 62,
+          "sentence": "Lusaka, Zambia, 27 October 2020 (ECA) - The Economic Commission for Africa (ECA) Office for Southern Africa will organize the 26th Meeting of the Intergovernmental Committee of Senior Officials and Experts (ICSOE) for Southern Africa virtually on the theme \u201cPolicies and Strategic Effective Private Sector Led Growth and Job Creation\u201d from October 28 to 29, 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010755408584373072,
+          "perplexity": 38,
+          "sentence": "The two-days Meeting which shall be presided over by the incoming Chair, the Government of the Kingdom of Lesotho, will focus on strategies and policies towards supporting the private sector as drivers of development, job creation, and growth in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.976541332434863e-05,
+          "perplexity": 31,
+          "sentence": "It will bring together senior government officials and experts in regional integration and trade in services and private sector development from the Southern African Development Community (SADC) member States, representatives of the SADC and Common Market for Eastern and Southern Africa (COMESA) Secretariats, representatives from the African Union Southern Africa Regional Office, academic and research institutions, civil society, professional organisations, financial institutions, the UN family and other ECA Divisions and Sub-Regional Offices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.737393702380359e-05,
+          "perplexity": 30,
+          "sentence": "Delegates and participants will discuss among other topics the private sectors' role, including micro, small and medium scale enterprises, in supporting economic growth, creating decent and sustainable jobs and the role of member States in promoting the private sector to be more competitive and sustainable, thereby contributing to reducing unemployment, hunger and poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.547170338919386e-05,
+          "perplexity": 135,
+          "sentence": "Deliberations at the 26th ICSOE of Southern Africa will not only enable delegates share experiences on how to fully exploit the potential of the private sector",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Meeting will also discuss how to ensure that both the formal and informal private sector effectively takes full advantage of the opportunities in technology and innovation to enhance trade in goods and services across national borders in the face of the opportunities offered by the African Continental Free Trade Area Agreement. Lusaka, Zambia, 27 October 2020 (ECA) \u2013 The Economic Commission for Africa (ECA) Office for Southern Africa will organize the 26th Meeting of the Intergovernmental Committee of Senior Officials and Experts (ICSOE) for Southern Africa virtually on the theme \u201cPolicies and Strategic Effective Private Sector Led Growth and Job Creation\u201d from October 28 to 29, 2020. The two-days Meeting which shall be presided over by the incoming Chair, the Government of the Kingdom of Lesotho, will focus on strategies and policies towards supporting the private sector as drivers of development, job creation, and growth in the region. It will bring together senior government officials and experts in regional integration and trade in services and private sector development from the Southern African Development Community (SADC) member States, representatives of the SADC and Common Market for Eastern and Southern Africa (COMESA) Secretariats, representatives from the African Union Southern Africa Regional Office, academic and research institutions, civil society, professional organisations, financial institutions, the UN family and other ECA Divisions and Sub-Regional Offices. Delegates and participants will discuss among other topics the private sectors\u2019 role, including micro, small and medium scale enterprises, in supporting economic growth, creating decent and sustainable jobs and the role of member States in promoting the private sector to be more competitive and sustainable, thereby contributing to reducing unemployment, hunger and poverty. Deliberations at the 26th ICSOE of Southern Africa will not only enable delegates share experiences on how to fully exploit the potential of the private sector",
+  "date": "27 October 2020"
+}

@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a15f76a-d4e5-4afc-8766-251cb386b172",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.515933990478516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0015306153800338507,
+          "perplexity": 23,
+          "sentence": "REMARKS BY THE HUMANITARIAN COORDINATOR FOR UKRAINE, DENISE BROWN, AT THE JOINT LAUNCH OF THE HUMANITARIAN NEEDS AND RESPONSE PLAN AND REGIONAL REFUGEE RESPONSE PLAN FOR 2024 IN UKRAINE I would like to take you to a place you have probably never heard of, a place which is called Hroza in the Kharkiv Region in eastern Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012841919669881463,
+          "perplexity": 58,
+          "sentence": "Hroza is a small community of 320 people, or was 320 people when on the 5 October, as people were sitting in their homes, a missile landed in the middle of that small town, killing outright 59 people and wiping out 20 per cent of the population in seconds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012777912197634578,
+          "perplexity": 84,
+          "sentence": "Absolutely devastating and happens almost every single day in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013382757315412164,
+          "perplexity": 10,
+          "sentence": "So, when that happens, what do we do?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013603047700598836,
+          "perplexity": 33,
+          "sentence": "What do we do together?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012141145998612046,
+          "perplexity": 34,
+          "sentence": "The first thing we do - what we try and do for many of these incidents - is go to those locations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001288071507588029,
+          "perplexity": 28,
+          "sentence": "The very next day we were there.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012942675966769457,
+          "perplexity": 45,
+          "sentence": "I was there, UNHCR, WHO, OCHA - we were all there.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012408823240548372,
+          "perplexity": 188,
+          "sentence": "Why?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001078067347407341,
+          "perplexity": 65,
+          "sentence": "Because, as the Deputy Prime Minister said, first of all, it is that demonstration of support that despite all of the other tragedies in the world right now, which look completely overwhelming, Ukraine is still important, a small community of 320 minus 59 people in seconds is still important.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012505679624155164,
+          "perplexity": 45,
+          "sentence": "We go, first of all, to demonstrate that importance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011948073515668511,
+          "perplexity": 46,
+          "sentence": "Secondly, I would like to thank OHCHR who did an excellent report on that tragic incident.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011416792403906584,
+          "perplexity": 46,
+          "sentence": "It was not a military installation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012106270296499133,
+          "perplexity": 35,
+          "sentence": "It was 59 people sitting in a cafe mourning the loss of a loved one.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010070916032418609,
+          "perplexity": 39,
+          "sentence": "So that's the second reason why we go - we are part of a chain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009487270144745708,
+          "perplexity": 35,
+          "sentence": "What do we do in terms of assistance?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009503138717263937,
+          "perplexity": 23,
+          "sentence": "We do just that, and it works.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012272460153326392,
+          "perplexity": 49,
+          "sentence": "As the Deputy Prime Minister",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "REMARKS BY THE HUMANITARIAN COORDINATOR FOR UKRAINE, DENISE BROWN, AT THE JOINT LAUNCH OF THE HUMANITARIAN NEEDS AND RESPONSE PLAN AND REGIONAL REFUGEE RESPONSE PLAN FOR 2024 IN UKRAINE I would like to take you to a place you have probably never heard of, a place which is called Hroza in the Kharkiv Region in eastern Ukraine. Hroza is a small community of 320 people, or was 320 people when on the 5 October, as people were sitting in their homes, a missile landed in the middle of that small town, killing outright 59 people and wiping out 20 per cent of the population in seconds. Absolutely devastating and happens almost every single day in Ukraine. So, when that happens, what do we do? What do we do together? The first thing we do \u2013 what we try and do for many of these incidents \u2013 is go to those locations. The very next day we were there. I was there, UNHCR, WHO, OCHA \u2013 we were all there. Why? Because, as the Deputy Prime Minister said, first of all, it is that demonstration of support that despite all of the other tragedies in the world right now, which look completely overwhelming, Ukraine is still important, a small community of 320 minus 59 people in seconds is still important. We go, first of all, to demonstrate that importance. Secondly, I would like to thank OHCHR who did an excellent report on that tragic incident. It was not a military installation. It was 59 people sitting in a cafe mourning the loss of a loved one. So that's the second reason why we go \u2013 we are part of a chain. What do we do in terms of assistance? We do just that, and it works. As the Deputy Prime Minister",
+  "date": "15 January 2024"
+}

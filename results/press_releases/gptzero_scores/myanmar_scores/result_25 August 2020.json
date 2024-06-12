@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d681d583-9ef2-4950-b4b2-c073cf7fa4db",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.41376304626465,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006653918535448611,
+          "perplexity": 35,
+          "sentence": "BANGKOK - The UN Human Rights Office for South-East Asia urged the Myanmar Government to embrace the opportunity of a looming national election to take a new and fully inclusive democratic path, and to address the root causes of violations and abuses suffered by ethnic minorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005918062524870038,
+          "perplexity": 38,
+          "sentence": "On 25 August 2017, Myanmar's military launched a wave of brutal \u201cclearance operations\u201d against ethnic Rohingya in Rakhine state that resulted in mass killings, rape, burned homes and mass displacement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006188476108945906,
+          "perplexity": 23,
+          "sentence": "Meanwhile, a new conflict has flared between security forces and the Arakan Army (AA), which has negatively impacted civilians throughout central and northern Rakhine State, including the Rohingya.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006435328396037221,
+          "perplexity": 36,
+          "sentence": "\u201cThree years after the outbreak of violence that forced more than 720,000 ethnic Rohingya into neighbouring Bangladesh, conditions inside the country have deteriorated and little has been done to create viable conditions for their safe return,\u201d said James Rodehaver, a senior official with the Office of the High Commissioner for Human Rights in Bangkok.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007952156011015177,
+          "perplexity": 52,
+          "sentence": "National elections scheduled for November provide Myanmar the opportunity to restore political rights to the Rohingya, who were able to participate in all votes until 2010.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007703453302383423,
+          "perplexity": 36,
+          "sentence": "However, they were excluded from the 2015 ballot, and at least four Rohingya politicians who sought to stand in the upcoming vote have had their applications rejected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007597822113893926,
+          "perplexity": 85,
+          "sentence": "This continuing process of disenfranchisement effectively prevents Rohingya from enjoying their fundamental rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005378164350986481,
+          "perplexity": 30,
+          "sentence": "\u201cIt is crucial if the vote in November is to be inclusive, free and fair that Myanmar respect the right of all its people to participate fully and equally in the electoral processes and in all aspects of public life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006036843406036496,
+          "perplexity": 64,
+          "sentence": "The Government should take immediate steps to ensure that the Rohingya can meaningfully participate in the forthcoming election, both as candidates and as voters,\u201d said Rodehaver.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007119902293197811,
+          "perplexity": 39,
+          "sentence": "While the Government has focused its attention more on fighting",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BANGKOK \u2013 The UN Human Rights Office for South-East Asia urged the Myanmar Government to embrace the opportunity of a looming national election to take a new and fully inclusive democratic path, and to address the root causes of violations and abuses suffered by ethnic minorities. On 25 August 2017, Myanmar\u2019s military launched a wave of brutal \u201cclearance operations\u201d against ethnic Rohingya in Rakhine state that resulted in mass killings, rape, burned homes and mass displacement. Meanwhile, a new conflict has flared between security forces and the Arakan Army (AA), which has negatively impacted civilians throughout central and northern Rakhine State, including the Rohingya. \u201cThree years after the outbreak of violence that forced more than 720,000 ethnic Rohingya into neighbouring Bangladesh, conditions inside the country have deteriorated and little has been done to create viable conditions for their safe return,\u201d said James Rodehaver, a senior official with the Office of the High Commissioner for Human Rights in Bangkok. National elections scheduled for November provide Myanmar the opportunity to restore political rights to the Rohingya, who were able to participate in all votes until 2010. However, they were excluded from the 2015 ballot, and at least four Rohingya politicians who sought to stand in the upcoming vote have had their applications rejected. This continuing process of disenfranchisement effectively prevents Rohingya from enjoying their fundamental rights. \u201cIt is crucial if the vote in November is to be inclusive, free and fair that Myanmar respect the right of all its people to participate fully and equally in the electoral processes and in all aspects of public life. The Government should take immediate steps to ensure that the Rohingya can meaningfully participate in the forthcoming election, both as candidates and as voters,\u201d said Rodehaver. While the Government has focused its attention more on fighting",
+  "date": "25 August 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0715dbd2-8118-4970-8184-9f1d435219ad",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.057743072509766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.029109228402376175,
+          "perplexity": 27,
+          "sentence": "Geneva - Spokesperson for the UN High Commissioner for Human Rights: Ravina Shamdasani We urgently call on both the Russian and Ukrainian authorities to investigate and to swiftly and publicly condemn audio recordings that have emerged over the weekend in which people with apparent connections on both sides of the conflict in Ukraine appear to order the summary execution of prisoners of war or declare that there shall be no survivors on the battlefield.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029162006452679634,
+          "perplexity": 85,
+          "sentence": "Audio material emerged on 23 April on several Telegram channels urging combatants not to take prisoners of war or to summarily execute those they captured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027245232835412025,
+          "perplexity": 34,
+          "sentence": "One recording is alleged to be of a member of the Ukrainian armed forces ordering the killing of a prisoner of war from the so-called Wagner Group that provides military and security contractors to fight for the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028273550793528557,
+          "perplexity": 42,
+          "sentence": "A subsequent audio statement was issued, apparently from the head of the Wagner Group, indicating that they would no longer take prisoners of war on the battlefield.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029361722990870476,
+          "perplexity": 32,
+          "sentence": "While we have not yet been able to verify the authenticity of these recordings, such statements could provoke or encourage summary executions of prisoners of war or those hors de combat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0261611957103014,
+          "perplexity": 54,
+          "sentence": "If verified, the order to summarily execute persons hors de combat, including prisoners of war, followed by their killing or an attempt to do so amounts to a war crime, as does the declaration that no quarter will be given.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02721402235329151,
+          "perplexity": 16,
+          "sentence": "We call on Russian and Ukrainian authorities to comply with their obligations under international law to investigate the statements in these recordings and to identify and prosecute those responsible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028524035587906837,
+          "perplexity": 34,
+          "sentence": "We also call on military commanders and other superiors to issue clear and unambiguous orders to protect and treat humanely POWs and persons hors de combat, and to ensure that these orders are strictly complied",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Geneva - Spokesperson for the UN High Commissioner for Human Rights: Ravina Shamdasani We urgently call on both the Russian and Ukrainian authorities to investigate and to swiftly and publicly condemn audio recordings that have emerged over the weekend in which people with apparent connections on both sides of the conflict in Ukraine appear to order the summary execution of prisoners of war or declare that there shall be no survivors on the battlefield. Audio material emerged on 23 April on several Telegram channels urging combatants not to take prisoners of war or to summarily execute those they captured. One recording is alleged to be of a member of the Ukrainian armed forces ordering the killing of a prisoner of war from the so-called Wagner Group that provides military and security contractors to fight for the Russian Federation. A subsequent audio statement was issued, apparently from the head of the Wagner Group, indicating that they would no longer take prisoners of war on the battlefield. While we have not yet been able to verify the authenticity of these recordings, such statements could provoke or encourage summary executions of prisoners of war or those hors de combat. If verified, the order to summarily execute persons hors de combat, including prisoners of war, followed by their killing or an attempt to do so amounts to a war crime, as does the declaration that no quarter will be given. We call on Russian and Ukrainian authorities to comply with their obligations under international law to investigate the statements in these recordings and to identify and prosecute those responsible. We also call on military commanders and other superiors to issue clear and unambiguous orders to protect and treat humanely POWs and persons hors de combat, and to ensure that these orders are strictly complied",
+  "date": "25 April 2023"
+}

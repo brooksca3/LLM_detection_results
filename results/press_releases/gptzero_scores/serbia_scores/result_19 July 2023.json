@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5f21f153-11cd-4aee-ba2c-1222fc4358d8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 298.54693603515625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013743730960413814,
+          "perplexity": 31,
+          "sentence": "New York, 18 July 2023 - Minister of Science, Technological Development and Innovation in the Government of the Republic of Serbia Dr Jelena Begovi\u0107, presented the \"UN Sustainable Development Goals (SDGs) Investor Map\" for Serbia, at an event held as a part of the High-Level Political Forum in the United Nations (UN).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013755308464169502,
+          "perplexity": 43,
+          "sentence": "Dr Begovi\u0107 presented the Map at the event titled \u201cTurning Financing Frameworks into Action\u201d, jointly organised by the UN missions of Serbia, Bosnia and Herzegovina and Indonesia, Swedish Agency for International Development and Cooperation (SIDA) and United Nations Development Programme (UNDP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013078763731755316,
+          "perplexity": 74,
+          "sentence": "\u201cI believe that the Republic of Serbia is somehow a leader in the region, but if I may as well add, also on a wider scale, globally,\u201d said Minister Begovi\u0107 and added that the Map was developed for the crucial sectors that require investment if we wish to attain the SDGs defined for 2030, so as to make the world a better place.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001343145704595372,
+          "perplexity": 59,
+          "sentence": "\u201cSerbia identified the five key sectors, including agriculture, food production, infrastructure, renewable and new energy resources, and information technology, and these are the fields that contribute to improving the living conditions on the entire planet,\u201d said Dr Begovi\u0107.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011980311683146283,
+          "perplexity": 82,
+          "sentence": "The UN SDGs Investor Map had been jointly developed by the Government and UNDP Office in Serbia which also provided support to the institutions of the Republic of Serbia in organising this event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001203352803713642,
+          "perplexity": 77,
+          "sentence": "UNDP Resident Representative in the Republic of Serbia Yakup Beris said that, by presenting the Map in the UN, Serbia also presented itself as a country dedicated to accelerating sustainable development, in line with the Agenda 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011978713155258447,
+          "perplexity": 904,
+          "sentence": "\u201cThe SDGs Investor Map helps Serbia present its opportunities for sustainable investments to worldwide investors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011643602920230478,
+          "perplexity": 61,
+          "sentence": "UNDP will continue to support the Government, business sector and investors, so as to accelerate sustainable development which in turn contributes",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 18 July 2023 \u2013 Minister of Science, Technological Development and Innovation in the Government of the Republic of Serbia Dr Jelena Begovi\u0107, presented the \"UN Sustainable Development Goals (SDGs) Investor Map\" for Serbia, at an event held as a part of the High-Level Political Forum in the United Nations (UN). Dr Begovi\u0107 presented the Map at the event titled \u201cTurning Financing Frameworks into Action\u201d, jointly organised by the UN missions of Serbia, Bosnia and Herzegovina and Indonesia, Swedish Agency for International Development and Cooperation (SIDA) and United Nations Development Programme (UNDP). \u201cI believe that the Republic of Serbia is somehow a leader in the region, but if I may as well add, also on a wider scale, globally,\u201d said Minister Begovi\u0107 and added that the Map was developed for the crucial sectors that require investment if we wish to attain the SDGs defined for 2030, so as to make the world a better place. \u201cSerbia identified the five key sectors, including agriculture, food production, infrastructure, renewable and new energy resources, and information technology, and these are the fields that contribute to improving the living conditions on the entire planet,\u201d said Dr Begovi\u0107. The UN SDGs Investor Map had been jointly developed by the Government and UNDP Office in Serbia which also provided support to the institutions of the Republic of Serbia in organising this event. UNDP Resident Representative in the Republic of Serbia Yakup Beris said that, by presenting the Map in the UN, Serbia also presented itself as a country dedicated to accelerating sustainable development, in line with the Agenda 2030. \u201cThe SDGs Investor Map helps Serbia present its opportunities for sustainable investments to worldwide investors. UNDP will continue to support the Government, business sector and investors, so as to accelerate sustainable development which in turn contributes",
+  "date": "19 July 2023"
+}

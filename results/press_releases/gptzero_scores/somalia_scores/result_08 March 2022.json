@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "111c7f91-8eb8-4912-8dd5-8b016ac2a7d9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.04994199948753308,
+        "human": 0.9495145581580364,
+        "mixed": 0.0005434423544306726
+      },
+      "completely_generated_prob": 0.04994199948753308,
+      "confidence_category": "medium",
+      "confidence_score": 0.9495145581580364,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.04994199948753308,
+          "human": 0.9495145581580364,
+          "mixed": 0.0005434423544306726
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.565059661865234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01961221545934677,
+          "perplexity": 16,
+          "sentence": "Mogadishu - On the occasion of International Women's Day, the United Nations in Somalia congratulates Somali women for their tireless efforts and immense contributions to promoting peace, political stability and development in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014923150651156902,
+          "perplexity": 28,
+          "sentence": "\u201cSomali women have shown bravery, resilience and unwavering resolve to ensure gender equality and full participation of women in all spheres of life, said the UN Secretary-General's Special Representative for Somalia, James Swan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014008288271725178,
+          "perplexity": 132,
+          "sentence": "\u201cI commend Somali women's active role and advocacy in the ongoing federal electoral process to achieve the minimum 30 per cent quota for women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017778294160962105,
+          "perplexity": 76,
+          "sentence": "Women's representation can change the political landscape in Somalia, making it more inclusive and pluralist,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018885644152760506,
+          "perplexity": 40,
+          "sentence": "The theme of this year's International Women's Day is 'Gender Equality Today For a Sustainable Tomorrow.'",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015398886986076832,
+          "perplexity": 35,
+          "sentence": "As Somalia prepares for a new government, there is an opportunity to advance gender equality and women's political empowerment and leadership for sustainable peace and development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015832917764782906,
+          "perplexity": 55,
+          "sentence": "\u201cIt is vital that Somali women are given their fair share in politics, as well as in economic and social development,\u201d Mr Swan said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0151028698310256,
+          "perplexity": 35,
+          "sentence": "\u201cIt is important that their contributions are recognised together with their rightful place in leadership and decision-making in peace and political processes.\u201d The United Nations in Somalia acknowledges the tremendous efforts and contribution of Somali women over the years and urges all Somali stakeholders, particularly the country's leaders, to ensure greater inclusion, voice and participation of women in all national and state-level bodies to realise and sustain peace and development in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02080581896007061,
+          "perplexity": 12,
+          "sentence": "International Women's Day has been observed around the world since 1975, to celebrate the social, economic, cultural and political achievements of women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021443502977490425,
+          "perplexity": 135,
+          "sentence": "The day marks a call to action for accelerating gender equality.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu \u2013 On the occasion of International Women\u2019s Day, the United Nations in Somalia congratulates Somali women for their tireless efforts and immense contributions to promoting peace, political stability and development in the country. \u201cSomali women have shown bravery, resilience and unwavering resolve to ensure gender equality and full participation of women in all spheres of life, said the UN Secretary-General\u2019s Special Representative for Somalia, James Swan. \u201cI commend Somali women\u2019s active role and advocacy in the ongoing federal electoral process to achieve the minimum 30 per cent quota for women. Women\u2019s representation can change the political landscape in Somalia, making it more inclusive and pluralist,\u201d he added. The theme of this year\u2019s International Women\u2019s Day is \u2018Gender Equality Today For a Sustainable Tomorrow.\u2019 As Somalia prepares for a new government, there is an opportunity to advance gender equality and women\u2019s political empowerment and leadership for sustainable peace and development. \u201cIt is vital that Somali women are given their fair share in politics, as well as in economic and social development,\u201d Mr Swan said. \u201cIt is important that their contributions are recognised together with their rightful place in leadership and decision-making in peace and political processes.\u201d The United Nations in Somalia acknowledges the tremendous efforts and contribution of Somali women over the years and urges all Somali stakeholders, particularly the country\u2019s leaders, to ensure greater inclusion, voice and participation of women in all national and state-level bodies to realise and sustain peace and development in Somalia. International Women\u2019s Day has been observed around the world since 1975, to celebrate the social, economic, cultural and political achievements of women. The day marks a call to action for accelerating gender equality.",
+  "date": "08 March 2022"
+}

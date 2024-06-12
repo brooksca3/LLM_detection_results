@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9cf7bdab-db8c-4aac-8988-575b518745a1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 237.45706176757812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004770975094288588,
+          "perplexity": 79,
+          "sentence": "Even amid a pandemic, 2021 can go down as the year we made peace with nature and set the planet to healing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004949359223246574,
+          "perplexity": 140,
+          "sentence": "As COVID-19 upends our lives, a more persistent crisis demands urgent action on a global scale.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004497077316045761,
+          "perplexity": 52,
+          "sentence": "Three environmental crises - climate change, nature loss, and the collapse of nature, and the pollution of air, soil and water add up to a planetary emergency that will cause far more pain than COVID-19 in the long-term.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005993159022182226,
+          "perplexity": 59,
+          "sentence": "For years, scientists have detailed how humanity is degrading Earth and its natural systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004978059325367212,
+          "perplexity": 28,
+          "sentence": "Yet the actions we are taking - from governments and financial institutions to businesses and individuals - fall far short of what is needed to protect current and future generations from a hothouse Earth, beset by mass species extinctions and poisonous air and water.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00462803989648819,
+          "perplexity": 13,
+          "sentence": "In 2020, the UN Environment Programme (UNEP) announced that, despite a dip in greenhouse gas emissions caused by the pandemic, the world is still headed for global warming of more than 3\u00b0C this century.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003990351688116789,
+          "perplexity": 47,
+          "sentence": "This month, the Dasgupta review reminded us what UNEP has long warned: the per capita stock of natural capital - the resources and services nature provides to humanity - has fallen 40 per cent in just over two decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005525249056518078,
+          "perplexity": 43,
+          "sentence": "And we know that a staggering 9 out of 10 people worldwide breathe polluted air.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006697249598801136,
+          "perplexity": 102,
+          "sentence": "Finding answers to such daunting problems is complex.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008000768721103668,
+          "perplexity": 58,
+          "sentence": "It takes time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006246152333915234,
+          "perplexity": 336,
+          "sentence": "But experts have developed solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006876977626234293,
+          "perplexity": 72,
+          "sentence": "The economic rationale is clear.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006871475838124752,
+          "perplexity": 35,
+          "sentence": "And the mechanisms and institutions to implement them are already in place.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0066717397421598434,
+          "perplexity": 44,
+          "sentence": "There are no more excuses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0047043319791555405,
+          "perplexity": 55,
+          "sentence": "This year, the UN will bring governments and other players together for crunch talks on climate action, biodiversity and land degradation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0058479527942836285,
+          "perplexity": 723,
+          "sentence": "COVID-19 has delayed these summits and complicated their preparation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006341763772070408,
+          "perplexity": 17,
+          "sentence": "Again, this is no excuse for inaction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005256397649645805,
+          "perplexity": 820,
+          "sentence": "These summits must",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Even amid a pandemic, 2021 can go down as the year we made peace with nature and set the planet to healing. As COVID-19 upends our lives, a more persistent crisis demands urgent action on a global scale. Three environmental crises - climate change, nature loss, and the collapse of nature, and the pollution of air, soil and water add up to a planetary emergency that will cause far more pain than COVID-19 in the long-term. For years, scientists have detailed how humanity is degrading Earth and its natural systems. Yet the actions we are taking \u2013 from governments and financial institutions to businesses and individuals \u2013 fall far short of what is needed to protect current and future generations from a hothouse Earth, beset by mass species extinctions and poisonous air and water. In 2020, the UN Environment Programme (UNEP) announced that, despite a dip in greenhouse gas emissions caused by the pandemic, the world is still headed for global warming of more than 3\u00b0C this century. This month, the Dasgupta review reminded us what UNEP has long warned: the per capita stock of natural capital \u2013 the resources and services nature provides to humanity \u2013 has fallen 40 per cent in just over two decades. And we know that a staggering 9 out of 10 people worldwide breathe polluted air. Finding answers to such daunting problems is complex. It takes time. But experts have developed solutions. The economic rationale is clear. And the mechanisms and institutions to implement them are already in place. There are no more excuses. This year, the UN will bring governments and other players together for crunch talks on climate action, biodiversity and land degradation. COVID-19 has delayed these summits and complicated their preparation. Again, this is no excuse for inaction. These summits must",
+  "date": "19 February 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "69fa58bb-828d-4001-b94d-ea77d6e9ada4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013775206101803098,
+        "human": 0.9981342151290252,
+        "mixed": 0.00048826426079443577
+      },
+      "completely_generated_prob": 0.0013775206101803098,
+      "confidence_category": "high",
+      "confidence_score": 0.9981342151290252,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013775206101803098,
+          "human": 0.9981342151290252,
+          "mixed": 0.00048826426079443577
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.786617279052734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.111430699704215e-05,
+          "perplexity": 184,
+          "sentence": "Today, 108,000 doses of the Oxford/AstraZeneca COVID-19 vaccine arrived in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.607593528926373e-05,
+          "perplexity": 28,
+          "sentence": "The vaccines were donated by the Government of France through the COVAX Facility, a partnership between the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance, the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), in continued efforts to protect Somalia's population from COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.581399353919551e-05,
+          "perplexity": 139,
+          "sentence": "Mogadishu, 8 August 2021 - Today, 108,000 doses of the Oxford/AstraZeneca COVID-19 vaccine arrived in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010458286851644516,
+          "perplexity": 28,
+          "sentence": "The vaccines were donated by the Government of France through the COVAX Facility, a partnership between the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance, the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO), in continued efforts to protect Somalia's population from COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010901431232923642,
+          "perplexity": 103,
+          "sentence": "\u201cThe Government of France is committed, along with the EU and COVAX partners, to help Somalia bolster vaccination efforts so that additional frontline workers and other high-risk populations in Somalia can be protected from COVID-19,\u201d said Aline Kuster-Menager, the French Ambassador to Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013096035399939865,
+          "perplexity": 59,
+          "sentence": "\u201cThis donation is part of a global effort from France: President Macron has pledged to give 60 million doses of the vaccine before the end of 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016095969476737082,
+          "perplexity": 88,
+          "sentence": "This is a global pandemic and France is committed to ensuring the equitable distribution of the COVID-19 vaccine around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001353241241304204,
+          "perplexity": 49,
+          "sentence": "If we are to contain the spread of COVID-19, we have to work together.\u201d Since the outbreak began on March 2020, Somalia has reported a total of 15,257 laboratory-confirmed cases of COVID-19 including 789 deaths as of 24 July 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012786252773366868,
+          "perplexity": 42,
+          "sentence": "Owing to low vaccination coverage in the country where less than 1% of the country's population are fully vaccinated, the country faces the dual challenge of improving the uptake amongst its general population as well as to ensure an equitable and predictable supply of COVID-19 vaccines",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, 108,000 doses of the Oxford/AstraZeneca COVID-19 vaccine arrived in Somalia. The vaccines were donated by the Government of France through the COVAX Facility, a partnership between the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance, the United Nations Children\u2019s Fund (UNICEF) and the World Health Organization (WHO), in continued efforts to protect Somalia\u2019s population from COVID-19. Mogadishu, 8 August 2021 \u2013 Today, 108,000 doses of the Oxford/AstraZeneca COVID-19 vaccine arrived in Somalia. The vaccines were donated by the Government of France through the COVAX Facility, a partnership between the Coalition for Epidemic Preparedness Innovations (CEPI), Gavi, the Vaccine Alliance, the United Nations Children\u2019s Fund (UNICEF) and the World Health Organization (WHO), in continued efforts to protect Somalia\u2019s population from COVID-19. \u201cThe Government of France is committed, along with the EU and COVAX partners, to help Somalia bolster vaccination efforts so that additional frontline workers and other high-risk populations in Somalia can be protected from COVID-19,\u201d said Aline Kuster-Menager, the French Ambassador to Somalia. \u201cThis donation is part of a global effort from France: President Macron has pledged to give 60 million doses of the vaccine before the end of 2021. This is a global pandemic and France is committed to ensuring the equitable distribution of the COVID-19 vaccine around the world. If we are to contain the spread of COVID-19, we have to work together.\u201d Since the outbreak began on March 2020, Somalia has reported a total of 15,257 laboratory-confirmed cases of COVID-19 including 789 deaths as of 24 July 2021. Owing to low vaccination coverage in the country where less than 1% of the country\u2019s population are fully vaccinated, the country faces the dual challenge of improving the uptake amongst its general population as well as to ensure an equitable and predictable supply of COVID-19 vaccines",
+  "date": "08 August 2021"
+}

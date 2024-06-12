@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "26567094-9c58-4734-8f81-b15bef83fc6d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 3243.60205078125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006475515547208488,
+          "perplexity": 137,
+          "sentence": "The novel coronavirus (COVID-19) pandemic rages worldwide with 465,915 confirmed cases and 21,031 deaths - an unprecedented scale and speed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005751429707743227,
+          "perplexity": 57,
+          "sentence": "Guyana is not insulated from the pandemic and even with the 5 cases and 1 death till today, there is no room for complacency as we have seen rapid acceleration from low numbers in many countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005913267377763987,
+          "perplexity": 121,
+          "sentence": "Prevention is critical and urgent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004976119962520897,
+          "perplexity": 119,
+          "sentence": "The Ministry of Public Health and national authorities initiated preventive measures in late January starting with health and border quarantine procedures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004831778060179204,
+          "perplexity": 75,
+          "sentence": "With the confirmation of the first case on 11 March, health response capacities have been enhanced and other measures were taken including the suspension of international commercial flights, temporary closure of schools, border closures and public information and advisories for hygiene and social distancing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004668162437155843,
+          "perplexity": 68,
+          "sentence": "The private sector and religious community have started to take some voluntary measures to protect their staff and congregation and to help health workers and citizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005171004449948668,
+          "perplexity": 168,
+          "sentence": "Linden and New Amsterdam have taken the initiative to enforce lockdown measures to limit social gathering and movements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000537524523679167,
+          "perplexity": 21,
+          "sentence": "We commend the health workers who are working around the clock in a high-stress and high-risk environment to respond to the outbreak.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047228368930518627,
+          "perplexity": 32,
+          "sentence": "We have to protect the physical and mental health of these health workers and to keep the caseload manageable by stemming the spread.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042052529170177877,
+          "perplexity": 145,
+          "sentence": "Prevention is critical.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004748610663227737,
+          "perplexity": 188,
+          "sentence": "Social gatherings and movements of people are the biggest risk in the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039512215880677104,
+          "perplexity": 97,
+          "sentence": "We are very concerned that social gatherings are continuing despite public advisories discouraging this for some time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003929197555407882,
+          "perplexity": 210,
+          "sentence": "Reinforcing the advice from PAHO/WHO Representative in Guyana Dr. William Adu-Krow, the United Nations System calls on the Government to urgently introduce more stringent measures to stem COVID19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003789506445173174,
+          "perplexity": 107,
+          "sentence": "This includes work-from-home in public and private institutions except for essential services, limiting people's movements to essential errands.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003880738513544202,
+          "perplexity": 12671,
+          "sentence": "The UN System stands",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The novel coronavirus (COVID-19) pandemic rages worldwide with 465,915 confirmed cases and 21,031 deaths - an unprecedented scale and speed. Guyana is not insulated from the pandemic and even with the 5 cases and 1 death till today, there is no room for complacency as we have seen rapid acceleration from low numbers in many countries. Prevention is critical and urgent. The Ministry of Public Health and national authorities initiated preventive measures in late January starting with health and border quarantine procedures. With the confirmation of the first case on 11 March, health response capacities have been enhanced and other measures were taken including the suspension of international commercial flights, temporary closure of schools, border closures and public information and advisories for hygiene and social distancing. The private sector and religious community have started to take some voluntary measures to protect their staff and congregation and to help health workers and citizens. Linden and New Amsterdam have taken the initiative to enforce lockdown measures to limit social gathering and movements. We commend the health workers who are working around the clock in a high-stress and high-risk environment to respond to the outbreak. We have to protect the physical and mental health of these health workers and to keep the caseload manageable by stemming the spread. Prevention is critical. Social gatherings and movements of people are the biggest risk in the spread of COVID-19. We are very concerned that social gatherings are continuing despite public advisories discouraging this for some time. Reinforcing the advice from PAHO/WHO Representative in Guyana Dr. William Adu-Krow, the United Nations System calls on the Government to urgently introduce more stringent measures to stem COVID19. This includes work-from-home in public and private institutions except for essential services, limiting people\u2019s movements to essential errands. The UN System stands",
+  "date": "27 March 2020"
+}

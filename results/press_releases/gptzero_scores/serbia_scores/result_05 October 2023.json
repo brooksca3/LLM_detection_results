@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1cb61403-03c5-47b5-abdf-f687abfb9649",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075705112649612,
+        "human": 0.9686254847185095,
+        "mixed": 0.0006174641549942572
+      },
+      "completely_generated_prob": 0.03075705112649612,
+      "confidence_category": "high",
+      "confidence_score": 0.9686254847185095,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075705112649612,
+          "human": 0.9686254847185095,
+          "mixed": 0.0006174641549942572
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.184846878051758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.015201223082840443,
+          "perplexity": 26,
+          "sentence": "Nemanja Andjelkovic, 26, is a second-year PhD student in Political Sciences and is working as a Junior Researcher at the Institute for Philosophy and Social Theory where he focuses on democratic innovations that enhance the level of democratic participation of citizens, especially among young citizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014759222976863384,
+          "perplexity": 37,
+          "sentence": "He is also a member of the UN Youth Advisory Group and with other members, in the past three months, has been empowering his peers in Kragujevac, Sremski Karlovci, Sombor, Novi Pazar, Knja\u017eevac and Bajina Ba\u0161ta, to create and implement initiatives in the domain of human rights, gender equality, environmental issues, anti-discrimination, media literacy, youth engagement and social entrepreneurship, and working on greater participation of young people and the creation of space for social engagement of young people at the local level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015504978597164154,
+          "perplexity": 21,
+          "sentence": "The goal of this project is to show young people how important their voice is, while also supporting them in articulating that voice and showing what they can do when they mobilize together.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014328503049910069,
+          "perplexity": 45,
+          "sentence": "Peer support is crucial because they can relate more to us and vice versa, since we know better what bothers them and what difficulties they face.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013923306949436665,
+          "perplexity": 24,
+          "sentence": "It is easier for them to open up to us.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012866195291280746,
+          "perplexity": 48,
+          "sentence": "On the workshop I participated, we were focused on environmental issues as those issues are proved to be high on young people's list of priorities and concerns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01185014471411705,
+          "perplexity": 111,
+          "sentence": "We found that they were fully engaged in these topics once we started to learn ad work together and they had no reservations regarding the potential to stop and decrease the negative environmental trends in their local municipality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012462440878152847,
+          "perplexity": 19,
+          "sentence": "I think that young people are generally aware of the importance of the topics of human rights, gender equality, but they are not encouraged to get to know more about these issues or get involved in fighting for their",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Nemanja Andjelkovic, 26, is a second-year PhD student in Political Sciences and is working as a Junior Researcher at the Institute for Philosophy and Social Theory where he focuses on democratic innovations that enhance the level of democratic participation of citizens, especially among young citizens. He is also a member of the UN Youth Advisory Group and with other members, in the past three months, has been empowering his peers in Kragujevac, Sremski Karlovci, Sombor, Novi Pazar, Knja\u017eevac and Bajina Ba\u0161ta, to create and implement initiatives in the domain of human rights, gender equality, environmental issues, anti-discrimination, media literacy, youth engagement and social entrepreneurship, and working on greater participation of young people and the creation of space for social engagement of young people at the local level. The goal of this project is to show young people how important their voice is, while also supporting them in articulating that voice and showing what they can do when they mobilize together. Peer support is crucial because they can relate more to us and vice versa, since we know better what bothers them and what difficulties they face. It is easier for them to open up to us. On the workshop I participated, we were focused on environmental issues as those issues are proved to be high on young people\u2019s list of priorities and concerns. We found that they were fully engaged in these topics once we started to learn ad work together and they had no reservations regarding the potential to stop and decrease the negative environmental trends in their local municipality. I think that young people are generally aware of the importance of the topics of human rights, gender equality, but they are not encouraged to get to know more about these issues or get involved in fighting for their",
+  "date": "05 October 2023"
+}

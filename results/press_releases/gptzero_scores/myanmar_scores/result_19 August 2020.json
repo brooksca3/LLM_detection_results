@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "74949cc2-23da-4842-9d0d-19ddb5272ca6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.796024322509766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03644251078367233,
+          "perplexity": 58,
+          "sentence": "This year, COVID-19 has been one of the biggest challenges to humanitarian operations in Myanmar and around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03440214321017265,
+          "perplexity": 39,
+          "sentence": "Civil society organizations and community volunteers - the local humanitarian heroes we are now celebrating - are at the forefront of the humanitarian response, even more so than usual due to the preventive measures put in place to contain the spread of the virus, which limited national and international travel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0340135358273983,
+          "perplexity": 42,
+          "sentence": "While working hard with the Government and relevant actors to scale-up COVID-19 preparedness and response, the United Nations and its national and international partners were able to pursue critical life-saving humanitarian operations to address the needs of the most vulnerable men, women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03185255825519562,
+          "perplexity": 31,
+          "sentence": "This was possible only thanks to the immense efforts and commitment of frontline responders, members within the affected communities, the men and women working for national and international non-governmental organizations, the Red Cross movement and the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031320735812187195,
+          "perplexity": 62,
+          "sentence": "They are making a unique contribution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03473508730530739,
+          "perplexity": 78,
+          "sentence": "Today and every day, we salute them for their efforts and say \u201cthank you\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.034573256969451904,
+          "perplexity": 17,
+          "sentence": "They often put their own lives at risk to provide essential support to people in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02932720072567463,
+          "perplexity": 16,
+          "sentence": "The United Nations, therefore, reminds all parties to conflict of their obligations under international humanitarian law to protect civilians and humanitarian and medical workers and to facilitate the safe provision of relief to all people in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031556934118270874,
+          "perplexity": 47,
+          "sentence": "The United Nations also wishes to express its appreciation to the donors who have maintained and even scaled-up their support in these challenging times, while facing themselves the impact of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03221724182367325,
+          "perplexity": 12,
+          "sentence": "The United Nations and its partners will continue to work with the Government of Myanmar to respond to the needs of close to one million people in need of assistance this year.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This year, COVID-19 has been one of the biggest challenges to humanitarian operations in Myanmar and around the world. Civil society organizations and community volunteers \u2013 the local humanitarian heroes we are now celebrating \u2013 are at the forefront of the humanitarian response, even more so than usual due to the preventive measures put in place to contain the spread of the virus, which limited national and international travel. While working hard with the Government and relevant actors to scale-up COVID-19 preparedness and response, the United Nations and its national and international partners were able to pursue critical life-saving humanitarian operations to address the needs of the most vulnerable men, women and children. This was possible only thanks to the immense efforts and commitment of frontline responders, members within the affected communities, the men and women working for national and international non-governmental organizations, the Red Cross movement and the United Nations. They are making a unique contribution. Today and every day, we salute them for their efforts and say \u201cthank you\u201d. They often put their own lives at risk to provide essential support to people in need. The United Nations, therefore, reminds all parties to conflict of their obligations under international humanitarian law to protect civilians and humanitarian and medical workers and to facilitate the safe provision of relief to all people in need. The United Nations also wishes to express its appreciation to the donors who have maintained and even scaled-up their support in these challenging times, while facing themselves the impact of the pandemic. The United Nations and its partners will continue to work with the Government of Myanmar to respond to the needs of close to one million people in need of assistance this year.",
+  "date": "19 August 2020"
+}

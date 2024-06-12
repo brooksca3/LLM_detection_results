@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "76737f91-cd3e-4d21-86cc-cb64cd9e564f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.05550765991211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015535390411969274,
+          "perplexity": 49,
+          "sentence": "Kuwait, March 8th, 2022 The Resident Coordinator's office in Kuwait and the Office of the United Nations High Commissioner for Human Rights, participated in a workshop to discuss the commitment of the State of Kuwait to implement its voluntary pledge presented in its third national periodic report within the universal periodic review of 2020, which includes preparing a comprehensive national plan for human right through providing technical support in cooperation with the Kuwait's Ministry of Foreign Affairs represented in the Permanent Committee for Human Rights in writing and reviewing reports.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001450192357879132,
+          "perplexity": 26,
+          "sentence": "The State of Kuwait works to promote and protect human rights through its constitution, which includes many articles that comply with the Universal Declaration of Human Rights and relevant international charters and conventions, and through Kuwait's close cooperation with the United Nations Office and the Office of the United Nations High Commissioner for Human Rights represented in The Middle East and North Africa Department, as these provide technical support for the implementation of the international set recommendations issued through the periodic review and the concluding observations of the human rights treaty bodies.Kuwait has set several laws and legislations that display the state's commitments to human rights as well as Its establishment of national mechanisms that contribute to the implementation of those laws and legislations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001336800487479195,
+          "perplexity": 57,
+          "sentence": "The State of Kuwait also established the Permanent National Committee to prepare and review reports on the basis of international set standards related to human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013889401452615857,
+          "perplexity": 36,
+          "sentence": "The committee will be lead by the Ministry of Foreign Affairs and the membership of other governmental agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013746759213972837,
+          "perplexity": 71,
+          "sentence": "The Assistant Minister of Foreign Affairs, Talal AlMutairi, stated that the workshop was designed to enhance the committee's members on reporting and following-up as well as promoting better implementation of Recently established recommendations regarding human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014167845074553043,
+          "perplexity": 119,
+          "sentence": "The state of Kuwait has made",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait, March 8th, 2022 The Resident Coordinator\u2019s office in Kuwait and the Office of the United Nations High Commissioner for Human Rights, participated in a workshop to discuss the commitment of the State of Kuwait to implement its voluntary pledge presented in its third national periodic report within the universal periodic review of 2020, which includes preparing a comprehensive national plan for human right through providing technical support in cooperation with the Kuwait\u2019s Ministry of Foreign Affairs represented in the Permanent Committee for Human Rights in writing and reviewing reports. The State of Kuwait works to promote and protect human rights through its constitution, which includes many articles that comply with the Universal Declaration of Human Rights and relevant international charters and conventions, and through Kuwait\u2019s close cooperation with the United Nations Office and the Office of the United Nations High Commissioner for Human Rights represented in The Middle East and North Africa Department, as these provide technical support for the implementation of the international set recommendations issued through the periodic review and the concluding observations of the human rights treaty bodies.Kuwait has set several laws and legislations that display the state\u2019s commitments to human rights as well as Its establishment of national mechanisms that contribute to the implementation of those laws and legislations. The State of Kuwait also established the Permanent National Committee to prepare and review reports on the basis of international set standards related to human rights. The committee will be lead by the Ministry of Foreign Affairs and the membership of other governmental agencies. The Assistant Minister of Foreign Affairs, Talal AlMutairi, stated that the workshop was designed to enhance the committee\u2019s members on reporting and following-up as well as promoting better implementation of Recently established recommendations regarding human rights. The state of Kuwait has made",
+  "date": "08 March 2022"
+}

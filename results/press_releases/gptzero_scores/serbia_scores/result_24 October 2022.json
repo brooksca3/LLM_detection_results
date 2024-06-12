@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a8ef0a70-30ed-4ff3-923d-b3c74f89150e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009030837884374913,
+        "human": 0.9909691621156251,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009030837884374913,
+      "confidence_category": "high",
+      "confidence_score": 0.9909691621156251,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009030837884374913,
+          "human": 0.9909691621156251,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.87920379638672,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016972748562693596,
+          "perplexity": 47,
+          "sentence": "Belgrade, 24 - October 2022 - On the occasion of 77th anniversary of the United Nations, the UN in Serbia, jointly with the Government of Serbia, launch the Music for Peace concert, for a moment to celebrate peace, diversity and solidarity among citizens, communities and nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017549206677358598,
+          "perplexity": 27,
+          "sentence": "This unique event brings together more than 15 talented artists of different cultural, social and national backgrounds from 10 countries - within the Balkans region and beyond - in a unique performance in Belgrade, calling for Peace around the world, silencing the guns, and promoting international solidarity and cooperation to build a better, safer, and more sustainable world and future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017644307808950543,
+          "perplexity": 70,
+          "sentence": "\u201cI would like to renew the UN call for all responsible parties to shape solutions, policies, political and diplomatic decisions that bring people together, and build social cohesion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018030611681751907,
+          "perplexity": 55,
+          "sentence": "We call for citizens and their representatives to nurture solidarity, diversity, dignity and non-discrimination for all, in other words, to promote a culture of peace, dialog, tolerance, and equality - every day, in every circumstance,\u201d says Francoise Jacob, UN Resident Coordinator in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017590618517715484,
+          "perplexity": 59,
+          "sentence": "\u201cAs we mark UN Day, we renew our hope, trust and conviction in what we can achieve when we work together.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016554712783545256,
+          "perplexity": 127,
+          "sentence": "The UN team is committed to support the new government and all our partners here, towards an accelerated implementation of Agenda 2030,\u201d she stressed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017133026267401874,
+          "perplexity": 48,
+          "sentence": "One of the important roles of the United Nations is in conflict prevention, using diplomacy, good offices and mediation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016275022062473,
+          "perplexity": 47,
+          "sentence": "\u201cTo have a chance at peace, lasting, sustaining peace here in the region, in Europe and in the world, we have to be committed, persistent, inclusive in our quest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015050625370349735,
+          "perplexity": 66,
+          "sentence": "We have to acknowledge and be at peace with our differences, engage all champions of peace, with participation of the youngest and the oldest, women and men, businesses,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 24 \u2013 October 2022 \u2013 On the occasion of 77th anniversary of the United Nations, the UN in Serbia, jointly with the Government of Serbia, launch the Music for Peace concert, for a moment to celebrate peace, diversity and solidarity among citizens, communities and nations. This unique event brings together more than 15 talented artists of different cultural, social and national backgrounds from 10 countries \u2013 within the Balkans region and beyond - in a unique performance in Belgrade, calling for Peace around the world, silencing the guns, and promoting international solidarity and cooperation to build a better, safer, and more sustainable world and future for all. \u201cI would like to renew the UN call for all responsible parties to shape solutions, policies, political and diplomatic decisions that bring people together, and build social cohesion. We call for citizens and their representatives to nurture solidarity, diversity, dignity and non-discrimination for all, in other words, to promote a culture of peace, dialog, tolerance, and equality \u2013 every day, in every circumstance,\u201d says Francoise Jacob, UN Resident Coordinator in Serbia. \u201cAs we mark UN Day, we renew our hope, trust and conviction in what we can achieve when we work together. The UN team is committed to support the new government and all our partners here, towards an accelerated implementation of Agenda 2030,\u201d she stressed. One of the important roles of the United Nations is in conflict prevention, using diplomacy, good offices and mediation. \u201cTo have a chance at peace, lasting, sustaining peace here in the region, in Europe and in the world, we have to be committed, persistent, inclusive in our quest. We have to acknowledge and be at peace with our differences, engage all champions of peace, with participation of the youngest and the oldest, women and men, businesses,",
+  "date": "24 October 2022"
+}

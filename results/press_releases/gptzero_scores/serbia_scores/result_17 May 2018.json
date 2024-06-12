@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "344c6de5-7442-4ca1-9afd-f7e0313c8e24",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.006589535487750334,
+        "human": 0.9929117969618254,
+        "mixed": 0.0004986675504243496
+      },
+      "completely_generated_prob": 0.006589535487750334,
+      "confidence_category": "high",
+      "confidence_score": 0.9929117969618254,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.006589535487750334,
+          "human": 0.9929117969618254,
+          "mixed": 0.0004986675504243496
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 256.68194580078125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023952395713422447,
+          "perplexity": 39,
+          "sentence": "Belgrade, 17 May 2018 - First International Men and Gender Equality Survey (IMAGES) in Serbia, the most comprehensive survey carried out to date on men's attitudes and practices on a wide variety of topics related to gender equality, was presented on the national MAN 2018 Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022650712344329804,
+          "perplexity": 51,
+          "sentence": "The conference was jointly opened by State Secretary, Mr. Darko Stanic, Ministry of Youth and Sports, Ms. Ljiljana Loncar, Gender Equality Advisor to the Deputy Prime Minister, Mr. Andrea Orizio, Head of the OSCE Mission to Serbia, Mr. Ola Andersson, Counselor at Swedish International Development Cooperation Agency (SIDA), Ms. Marija Rakovic, Programme Coordinator at UNFPA, Ms. Sumka Bucan, Regional Coordinator at CARE International Balkans and Mr. Vojkan Arsic, Director at Center E8.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023420772049576044,
+          "perplexity": 732,
+          "sentence": "Prof. Dr Marina Hughson presented the key finding of the IMAGES Serbia Research highlighting that this is a \u201cmen-friendly research\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022260665718931705,
+          "perplexity": 36,
+          "sentence": "Some of the key results indicated that almost 90% of men in Serbia wish they could spend more time with their children, while 68,1 percent of men believe that child related decisions are a joint responsibility of both parents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019052208517678082,
+          "perplexity": 105,
+          "sentence": "After the panel discussion, international experts Ms. Nurgul Kinderbaeva, UNFPA Regional Office for Eastern Europe and Central Asia, Mr. Natko Gere\u0161, Promundo, Ms. Elli Scambor (Austria) and Ms. Majda Hrzenjak (Slovenia) gave presentations on caring masculinities, fathers and caregiving and men related research in EU and worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017808798293117434,
+          "perplexity": 37,
+          "sentence": "IMAGES Serbia was coordinated by UNFPA, Ministry of Youth and Sports and Center E8 within the joint project Integrated Response to Violence against Women and Girls in Serbia II, through the partnership of UNICEF, UN Women, UNFPA and UNDP and the Government of the Republic of Serbia and led by the Coordination Body for Gender Equality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018315495981369168,
+          "perplexity": 68,
+          "sentence": "The overall objective of the Integrated Response to Violence against Women and Girls in Serbia II is development of social",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 17 May 2018 - First International Men and Gender Equality Survey (IMAGES) in Serbia, the most comprehensive survey carried out to date on men\u2019s attitudes and practices on a wide variety of topics related to gender equality, was presented on the national MAN 2018 Conference. The conference was jointly opened by State Secretary, Mr. Darko Stanic, Ministry of Youth and Sports, Ms. Ljiljana Loncar, Gender Equality Advisor to the Deputy Prime Minister, Mr. Andrea Orizio, Head of the OSCE Mission to Serbia, Mr. Ola Andersson, Counselor at Swedish International Development Cooperation Agency (SIDA), Ms. Marija Rakovic, Programme Coordinator at UNFPA, Ms. Sumka Bucan, Regional Coordinator at CARE International Balkans and Mr. Vojkan Arsic, Director at Center E8. Prof. Dr Marina Hughson presented the key finding of the IMAGES Serbia Research highlighting that this is a \u201cmen-friendly research\u201d. Some of the key results indicated that almost 90% of men in Serbia wish they could spend more time with their children, while 68,1 percent of men believe that child related decisions are a joint responsibility of both parents. After the panel discussion, international experts Ms. Nurgul Kinderbaeva, UNFPA Regional Office for Eastern Europe and Central Asia, Mr. Natko Gere\u0161, Promundo, Ms. Elli Scambor (Austria) and Ms. Majda Hrzenjak (Slovenia) gave presentations on caring masculinities, fathers and caregiving and men related research in EU and worldwide. IMAGES Serbia was coordinated by UNFPA, Ministry of Youth and Sports and Center E8 within the joint project Integrated Response to Violence against Women and Girls in Serbia II, through the partnership of UNICEF, UN Women, UNFPA and UNDP and the Government of the Republic of Serbia and led by the Coordination Body for Gender Equality. The overall objective of the Integrated Response to Violence against Women and Girls in Serbia II is development of social",
+  "date": "17 May 2018"
+}

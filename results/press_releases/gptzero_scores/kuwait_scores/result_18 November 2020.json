@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3866da20-ff1c-45aa-9c7e-486388ea7a92",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093166425844408,
+        "human": 0.9909068335741557,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093166425844408,
+      "confidence_category": "high",
+      "confidence_score": 0.9909068335741557,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093166425844408,
+          "human": 0.9909068335741557,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.766841888427734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00029104441637173295,
+          "perplexity": 75,
+          "sentence": "Kuwait City, Kuwait, November 18th, 2020: UNHCR, The UN Refugee Agency, held yesterday a strategic dialogue titled \u201cThe Private Sector and its Humanitarian Role During the Pandemic\u201d to discuss best practices, success stories, and shaping policies and processes to support vulnerable refugees and internally displaced populations worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032459115027450025,
+          "perplexity": 17,
+          "sentence": "The strategic dialogue is part of a series of in-depth and collaborative dialogues organized by UNHCR to highlight the role of the private sector in supporting refugees and internally displaced people (IDP) across the globe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002731705317273736,
+          "perplexity": 49,
+          "sentence": "The first virtual event of the series was held on November 17th and brought together high-level decision makers from the UN refugee agency and international private sector companies including Tarek Abdulaziz Sultan Al Essa, Vice Chairman & CEO of Agility from Kuwait, H.R.H.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024884764570742846,
+          "perplexity": 214,
+          "sentence": "Prince Jaime de Bourbon de Parme, Senior Advisor to UNHCR from Switzerland; Iman Al Barwani Director & Vice Chairperson of MB Holdings and Foundation from Oman; and Jim Estill, Chairman of DDE Media from Canada.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027740158839151263,
+          "perplexity": 74,
+          "sentence": "At the heart of these discussions participants shared experiences and shaping actions to generate long-term solutions and impact in support of refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025742381694726646,
+          "perplexity": 48,
+          "sentence": "\u201cPrivate sector engagement and cross-sector partnerships are more important than ever when it comes to the support of vulnerable refugees, especially with the current pandemic and its economic repercussions, which has disproportionately affected those living on the margins of society and in low to mid income countries, where 85% of refugees globally live \u201d explained Dr. Samer Haddadin, Head of UNHCR Kuwait Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002677708980627358,
+          "perplexity": 72,
+          "sentence": "\u201cTherefore, we are delighted to be providing this platform in Kuwait, which will enable us to find long-term solutions to support forcibly displaced worldwide as well as to foster their economic inclusion,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036081820144318044,
+          "perplexity": 23,
+          "sentence": "Improving the livelihoods of refugees and displaced persons through economic inclusion is a key component of UNHCR's operations as part of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait City, Kuwait, November 18th, 2020: UNHCR, The UN Refugee Agency, held yesterday a strategic dialogue titled \u201cThe Private Sector and its Humanitarian Role During the Pandemic\u201d to discuss best practices, success stories, and shaping policies and processes to support vulnerable refugees and internally displaced populations worldwide. The strategic dialogue is part of a series of in-depth and collaborative dialogues organized by UNHCR to highlight the role of the private sector in supporting refugees and internally displaced people (IDP) across the globe. The first virtual event of the series was held on November 17th and brought together high-level decision makers from the UN refugee agency and international private sector companies including Tarek Abdulaziz Sultan Al Essa, Vice Chairman & CEO of Agility from Kuwait, H.R.H. Prince Jaime de Bourbon de Parme, Senior Advisor to UNHCR from Switzerland; Iman Al Barwani Director & Vice Chairperson of MB Holdings and Foundation from Oman; and Jim Estill, Chairman of DDE Media from Canada. At the heart of these discussions participants shared experiences and shaping actions to generate long-term solutions and impact in support of refugees. \u201cPrivate sector engagement and cross-sector partnerships are more important than ever when it comes to the support of vulnerable refugees, especially with the current pandemic and its economic repercussions, which has disproportionately affected those living on the margins of society and in low to mid income countries, where 85% of refugees globally live \u201d explained Dr. Samer Haddadin, Head of UNHCR Kuwait Office. \u201cTherefore, we are delighted to be providing this platform in Kuwait, which will enable us to find long-term solutions to support forcibly displaced worldwide as well as to foster their economic inclusion,\u201d he added. Improving the livelihoods of refugees and displaced persons through economic inclusion is a key component of UNHCR\u2019s operations as part of",
+  "date": "18 November 2020"
+}

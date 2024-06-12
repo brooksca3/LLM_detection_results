@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2abcb2a3-2d39-4e05-a9a8-4b55fa117e34",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.47203254699707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1484939604997635,
+          "perplexity": 44,
+          "sentence": "New York - The members of the Security Council expressed their deep concern about the continued political impasse and disagreement among Somalia's political leaders on the model for elections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14210061728954315,
+          "perplexity": 31,
+          "sentence": "The members of the Security Council recalled the significant progress made during the past decade in Somalia, including in terms of security provision, democracy, political reforms and economic development, in particular debt relief.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14781008660793304,
+          "perplexity": 20,
+          "sentence": "They commended the Somali people, the Somali authorities, the African Union, the African Union Mission in Somalia (AMISOM) and its troop contributing countries, the United Nations and Somalia's other international partners for their role in this endeavour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16133783757686615,
+          "perplexity": 50,
+          "sentence": "The members of the Security Council emphasised that ongoing disagreement over the electoral model is not only undoing this hard-earned progress but is also diverting attention from pressing problems such as floods, drought, desert locusts, the COVID-19 pandemic, and combatting the terrorist threat of Al-Shabaab.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16324499249458313,
+          "perplexity": 77,
+          "sentence": "They stressed that reaching consensus on elections would support and facilitate the continued development and progress of Somalia and its people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15668967366218567,
+          "perplexity": 67,
+          "sentence": "The members of the Security Council underscored that consensus would be vital for any electoral model to be successfully delivered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1394403874874115,
+          "perplexity": 117,
+          "sentence": "They noted the 17 September agreement has remained the only basis so far endorsed by the Federal Government of Somalia and all Federal Member States.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13502542674541473,
+          "perplexity": 20,
+          "sentence": "The members of the Security Council therefore called on all parties to reject violence and resume dialogue as a matter of urgency and without precondition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.118784599006176,
+          "perplexity": 28,
+          "sentence": "They called on Somalia's leaders to recognise and build upon the many areas of agreement already reached, to resolve their remaining differences and to put the interests of the people of Somalia first, within a Somali-owned, Somali-led electoral process, and with an agreed timetable, as soon as possible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10516635328531265,
+          "perplexity": 22,
+          "sentence": "They reiterated that, through the United Nations Assistance Mission in Somalia (UNSOM) and in conjunction with AMISOM,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York - The members of the Security Council expressed their deep concern about the continued political impasse and disagreement among Somalia\u2019s political leaders on the model for elections. The members of the Security Council recalled the significant progress made during the past decade in Somalia, including in terms of security provision, democracy, political reforms and economic development, in particular debt relief. They commended the Somali people, the Somali authorities, the African Union, the African Union Mission in Somalia (AMISOM) and its troop contributing countries, the United Nations and Somalia\u2019s other international partners for their role in this endeavour. The members of the Security Council emphasised that ongoing disagreement over the electoral model is not only undoing this hard-earned progress but is also diverting attention from pressing problems such as floods, drought, desert locusts, the COVID-19 pandemic, and combatting the terrorist threat of Al-Shabaab. They stressed that reaching consensus on elections would support and facilitate the continued development and progress of Somalia and its people. The members of the Security Council underscored that consensus would be vital for any electoral model to be successfully delivered. They noted the 17 September agreement has remained the only basis so far endorsed by the Federal Government of Somalia and all Federal Member States. The members of the Security Council therefore called on all parties to reject violence and resume dialogue as a matter of urgency and without precondition. They called on Somalia\u2019s leaders to recognise and build upon the many areas of agreement already reached, to resolve their remaining differences and to put the interests of the people of Somalia first, within a Somali-owned, Somali-led electoral process, and with an agreed timetable, as soon as possible. They reiterated that, through the United Nations Assistance Mission in Somalia (UNSOM) and in conjunction with AMISOM,",
+  "date": "23 April 2021"
+}

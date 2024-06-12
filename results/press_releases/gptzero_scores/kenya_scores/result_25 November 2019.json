@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0cb114b7-e63a-4266-bde7-de53d1b74126",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.19557189941406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004878599429503083,
+          "perplexity": 80,
+          "sentence": "The 2018-2022 UNDAF for Kenya was officially signed and launched by the three UNDAF co-chairs, Cabinet Secretary National Treasury, Cabinet Secretary Devolution, planning and ASALs and the UN Resident Coordinator (RC) on 26th June 2018.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005807406851090491,
+          "perplexity": 78,
+          "sentence": "The UNDAF was developed and is implemented within the context of Delivering as One, as a collective response of the UN agencies and the Government of Kenya to coherently, effectively and efficiently realize the national development priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005719405598938465,
+          "perplexity": 81,
+          "sentence": "The Cooperation framework is embedded on the country's blue print for development, the vision 2030 and national priorities as outlined in the Medium-Term Plan (MTP) III, the Big 4 Agenda and the Sustainable development goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005313012516126037,
+          "perplexity": 40,
+          "sentence": "This UNDAF has three Strategic Priority Areas that are aligned to the three MTP III Pillars (Political, Social and Economic) of the Government's Vision 2030: 1) Transformational Governance encompassing respect for the rule of law, improved security, and effective implementation of devolution, 2) Human capital development comprised of education,training and learning, health, Multi-sectoral HIV and AIDS response, access to safe water and sanitation, social protection, gender based violence and violence against children, access to adequate housing and strengthening capacities for addressing disaster and emergencies and 3) Sustainable and inclusive growth focusing on a competitive and sustainable economic growth that is increasingly resilient, green, inclusive, equitable, and creating decent jobs and quality livelihoods for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005143696325831115,
+          "perplexity": 46,
+          "sentence": "Through this framework, the UN in Kenya will in the coming five years, commit a total of Ksh.197 billion (approximately $1.9 billion) to support the government realize development needs of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047510332660749555,
+          "perplexity": 183,
+          "sentence": "58% of the estimate budget (about Ksh.116 billion) will support human capital development contributing to two of the GOK Big Four Agenda, namely housing and universal health coverage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004660073318518698,
+          "perplexity": 171,
+          "sentence": "27% (about Ksh.50 billion) will support sustainable development and growth contributing to the other two agendas of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The 2018-2022 UNDAF for Kenya was officially signed and launched by the three UNDAF co-chairs, Cabinet Secretary National Treasury, Cabinet Secretary Devolution, planning and ASALs and the UN Resident Coordinator (RC) on 26th June 2018. The UNDAF was developed and is implemented within the context of Delivering as One, as a collective response of the UN agencies and the Government of Kenya to coherently, effectively and efficiently realize the national development priorities. The Cooperation framework is embedded on the country\u2019s blue print for development, the vision 2030 and national priorities as outlined in the Medium-Term Plan (MTP) III, the Big 4 Agenda and the Sustainable development goals. This UNDAF has three Strategic Priority Areas that are aligned to the three MTP III Pillars (Political, Social and Economic) of the Government\u2019s Vision 2030 : 1) Transformational Governance encompassing respect for the rule of law, improved security, and effective implementation of devolution, 2) Human capital development comprised of education ,training and learning, health, Multi-sectoral HIV and AIDS response, access to safe water and sanitation, social protection, gender based violence and violence against children, access to adequate housing and strengthening capacities for addressing disaster and emergencies and 3) Sustainable and inclusive growth focusing on a competitive and sustainable economic growth that is increasingly resilient, green, inclusive, equitable, and creating decent jobs and quality livelihoods for all. Through this framework, the UN in Kenya will in the coming five years, commit a total of Ksh.197 billion (approximately $1.9 billion) to support the government realize development needs of the country. 58% of the estimate budget (about Ksh.116 billion) will support human capital development contributing to two of the GOK Big Four Agenda, namely housing and universal health coverage. 27% (about Ksh.50 billion) will support sustainable development and growth contributing to the other two agendas of",
+  "date": "25 November 2019"
+}

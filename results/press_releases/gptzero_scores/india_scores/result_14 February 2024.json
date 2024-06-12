@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f4507663-6d5d-4a7f-987e-74cbf0579031",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 386.86407470703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00029255892150104046,
+          "perplexity": 14,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks for the Security Council high-level open debate on the impact of climate change and food insecurity on the maintenance of international peace and security, in New York on 13 February: I thank the Government of Guyana for bringing us together to focus on the impact of the climate crisis and food insecurity on global peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000345752079738304,
+          "perplexity": 35,
+          "sentence": "Climate chaos and food crises are serious and mounting threats to global peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003242793900426477,
+          "perplexity": 43,
+          "sentence": "It is only right that they are addressed by this Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027959185536019504,
+          "perplexity": 19,
+          "sentence": "A global food crisis is creating a hellscape of hunger and heartache for many of the world's poorest people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024836501688696444,
+          "perplexity": 69,
+          "sentence": "And the climate crisis is accelerating with a deadly force -- last year was the hottest ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025138253113254905,
+          "perplexity": 705,
+          "sentence": "Both these facts undermine peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002777575282379985,
+          "perplexity": 1316,
+          "sentence": "Empty bellies fuel unrest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030973224784247577,
+          "perplexity": 71,
+          "sentence": "In Portugal, we have a saying: \u201cIn a house with no bread, everyone argues, and no one is right.\u201d Climate disasters and conflict both inflame inequalities, imperil livelihoods, and force people from their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002876315265893936,
+          "perplexity": 85,
+          "sentence": "That can strain relations, stoke mistrust and sow discontent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000258960179053247,
+          "perplexity": 645,
+          "sentence": "While diminished resources and mass displacement can intensify competition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000285594433080405,
+          "perplexity": 59,
+          "sentence": "Conflict can easily be sparked where tensions are high, institutions are weak, and people are marginalized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002602705790195614,
+          "perplexity": 43,
+          "sentence": "And women and girls pay the highest price.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002695266739465296,
+          "perplexity": 122,
+          "sentence": "Just as they do when food is short and climate disasters hit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024331518216058612,
+          "perplexity": 44,
+          "sentence": "At the same time, climate and conflict are two leading drivers of [our] global food crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002326875110156834,
+          "perplexity": 59,
+          "sentence": "Where wars rage, hunger reigns -- whether due to displacement of people, destruction of agriculture, damage to infrastructure or deliberate policies of denial.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022557178454007953,
+          "perplexity": 69,
+          "sentence": "Meanwhile, climate chaos is imperilling food production the world over.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021960926824249327,
+          "perplexity": 63,
+          "sentence": "Floods and droughts destroy crops, ocean changes disrupt fishing, rising seas degrade land and freshwater, and shifting weather patterns ruin harvests and spawn pests.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021460535936057568,
+          "perplexity": 966,
+          "sentence": "Climate and conflict were",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks for the Security Council high-level open debate on the impact of climate change and food insecurity on the maintenance of international peace and security, in New York on 13 February: I thank the Government of Guyana for bringing us together to focus on the impact of the climate crisis and food insecurity on global peace and security. Climate chaos and food crises are serious and mounting threats to global peace and security. It is only right that they are addressed by this Council. A global food crisis is creating a hellscape of hunger and heartache for many of the world\u2019s poorest people. And the climate crisis is accelerating with a deadly force -- last year was the hottest ever. Both these facts undermine peace. Empty bellies fuel unrest. In Portugal, we have a saying: \u201cIn a house with no bread, everyone argues, and no one is right.\u201d Climate disasters and conflict both inflame inequalities, imperil livelihoods, and force people from their homes. That can strain relations, stoke mistrust and sow discontent. While diminished resources and mass displacement can intensify competition. Conflict can easily be sparked where tensions are high, institutions are weak, and people are marginalized. And women and girls pay the highest price. Just as they do when food is short and climate disasters hit. At the same time, climate and conflict are two leading drivers of [our] global food crisis. Where wars rage, hunger reigns -- whether due to displacement of people, destruction of agriculture, damage to infrastructure or deliberate policies of denial. Meanwhile, climate chaos is imperilling food production the world over. Floods and droughts destroy crops, ocean changes disrupt fishing, rising seas degrade land and freshwater, and shifting weather patterns ruin harvests and spawn pests. Climate and conflict were",
+  "date": "14 February 2024"
+}

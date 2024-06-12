@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d2476426-fa1c-48a8-9366-c3b5bb337aa0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28166.130859375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006172700668685138,
+          "perplexity": 80,
+          "sentence": "A unique collection by Italian-Haitian fashion designer Stella Jean and craftswomen from the mountains of Kyrgyzstan will be highlighted at Milan Fashion Week today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005784910754300654,
+          "perplexity": 35,
+          "sentence": "The collaboration is supported by the Food and Agriculture Organization of the United Nations (FAO) through its Women's Committee and the Mountain Partnership Products initiative, a global branding scheme promoting products from small-scale producers in mountain areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005787122063338757,
+          "perplexity": 60,
+          "sentence": "The initiative builds resilience of mountain people, many of whom live with threats of climate change and are poor and marginalized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005195143166929483,
+          "perplexity": 123,
+          "sentence": "Stella Jean, a champion of ethical fashion, partnered with the Mountain Partnership Products initiative after being introduced by the FAO Women's Committee to the work of the Kyrgyz women from Barskoon, a settlement at 1750 meters elevation in the northeast of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005749444826506078,
+          "perplexity": 75,
+          "sentence": "\u201cWhen I saw the women's silk and felt work, I immediately knew that they are the backbone of eco-sustainable fashion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004713891539722681,
+          "perplexity": 162,
+          "sentence": "They are custodians of a circular economy which is equitable and has a low environmental impact,\u201d Jean said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004353646363597363,
+          "perplexity": 122,
+          "sentence": "The women create carpets, wall hangings and silk-and-felt scarves using traditional feltwork handed down through generations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045270216651260853,
+          "perplexity": 191,
+          "sentence": "In 2017, with support from the Mountain Partnership Products initiative, they formed an artisan group called Topchu to produce and market products collectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004748690116684884,
+          "perplexity": 25,
+          "sentence": "Thanks to the sales of their scarves around the world, the women have been able to boost their incomes, support their children's education and expand their vegetable gardens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035226409090682864,
+          "perplexity": 191,
+          "sentence": "Inspired by the women's products, Jean worked online amid a COVID-19 lockdown with a local designer based in Bishkek on a sustainable fashion collection featuring traditional Kyrgyz embroidery in feltwork.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040959109901450574,
+          "perplexity": 128,
+          "sentence": "The women of Topchu then used the designs to create the items, before shipping them back to Italy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036349339643493295,
+          "perplexity": 125,
+          "sentence": "\u201cAll the garments are embroidered with designs in felt, an organic fibre integral to Kyrgyz culture and way of life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003368573961779475,
+          "perplexity": 101664,
+          "sentence": "By preserving",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A unique collection by Italian-Haitian fashion designer Stella Jean and craftswomen from the mountains of Kyrgyzstan will be highlighted at Milan Fashion Week today. The collaboration is supported by the Food and Agriculture Organization of the United Nations (FAO) through its Women\u2019s Committee and the Mountain Partnership Products initiative, a global branding scheme promoting products from small-scale producers in mountain areas. The initiative builds resilience of mountain people, many of whom live with threats of climate change and are poor and marginalized. Stella Jean, a champion of ethical fashion, partnered with the Mountain Partnership Products initiative after being introduced by the FAO Women\u2019s Committee to the work of the Kyrgyz women from Barskoon, a settlement at 1750 meters elevation in the northeast of the country. \u201cWhen I saw the women's silk and felt work, I immediately knew that they are the backbone of eco-sustainable fashion. They are custodians of a circular economy which is equitable and has a low environmental impact,\u201d Jean said. The women create carpets, wall hangings and silk-and-felt scarves using traditional feltwork handed down through generations. In 2017, with support from the Mountain Partnership Products initiative, they formed an artisan group called Topchu to produce and market products collectively. Thanks to the sales of their scarves around the world, the women have been able to boost their incomes, support their children\u2019s education and expand their vegetable gardens. Inspired by the women\u2019s products, Jean worked online amid a COVID-19 lockdown with a local designer based in Bishkek on a sustainable fashion collection featuring traditional Kyrgyz embroidery in feltwork. The women of Topchu then used the designs to create the items, before shipping them back to Italy. \u201cAll the garments are embroidered with designs in felt, an organic fibre integral to Kyrgyz culture and way of life. By preserving",
+  "date": "10 March 2021"
+}

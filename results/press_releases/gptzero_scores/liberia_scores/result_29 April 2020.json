@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "04875f67-0a4c-4df1-8835-54ab51253cf4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.0849609375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.006279217544943094,
+          "perplexity": 45,
+          "sentence": "As the COVID-19 crisis pushes up levels of hunger among the global poor, the World Food Programme (WFP) and UNICEF are urging national governments to prevent devastating nutrition and health consequences for the 370 million children missing out on school meals amid school closures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004456381779164076,
+          "perplexity": 71,
+          "sentence": "\u201cIn Liberia, as part of its COVID-19 emergency response programme, WFP in collaboration with the Ministry of Education is providing take-home dry rations to all the nearly 100,000 girls and boys for use by their entire households as a way of averting child hunger and encouraging the children to continue studying their lessons at home,\u201d said Karla Hershey, World Food Programme Representative and Country Director in Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0071520330384373665,
+          "perplexity": 199,
+          "sentence": "School meals in Liberia are especially critical for girls as a conduit for increased retention and learning, paving a pathway for alleviating poverty and reaching Zero Hunger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00560277933254838,
+          "perplexity": 124,
+          "sentence": "WFP has therefore prioritized the provision of school meals through an inclusive approach involving the Government of Liberia and key stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002951440867036581,
+          "perplexity": 65,
+          "sentence": "WFP's school meals programme is one of the largest social safety net programmes in Liberia reaching almost 100,000 boys and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00290277018211782,
+          "perplexity": 96,
+          "sentence": "\u201cA school in Liberia is much more than a place for learning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002621755003929138,
+          "perplexity": 36,
+          "sentence": "For many children it is a safe environment where children thrive, play and enjoy a healthy growth with their peers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002902593230828643,
+          "perplexity": 104,
+          "sentence": "Now is the time to act, lifesaving services must be provided for the most vulnerable children to avoid a devastating fallout caused by COVID-19 that could affect generations,\u201d said Laila O. Gad, UNICEF Representative in Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021108004730194807,
+          "perplexity": 67,
+          "sentence": "Alongside school meal programmes, children often benefit from health services - such as vaccinations - delivered through their schools.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018179285107180476,
+          "perplexity": 43,
+          "sentence": "In Liberia, 1.5 million children are currently out of school as a result of the COVID-19 Pandemic, out of which a total of 270,000 school children were provided with school feeding in 12",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As the COVID-19 crisis pushes up levels of hunger among the global poor, the World Food Programme (WFP) and UNICEF are urging national governments to prevent devastating nutrition and health consequences for the 370 million children missing out on school meals amid school closures. \u201cIn Liberia, as part of its COVID-19 emergency response programme, WFP in collaboration with the Ministry of Education is providing take-home dry rations to all the nearly 100,000 girls and boys for use by their entire households as a way of averting child hunger and encouraging the children to continue studying their lessons at home,\u201d said Karla Hershey, World Food Programme Representative and Country Director in Liberia. School meals in Liberia are especially critical for girls as a conduit for increased retention and learning, paving a pathway for alleviating poverty and reaching Zero Hunger. WFP has therefore prioritized the provision of school meals through an inclusive approach involving the Government of Liberia and key stakeholders. WFP\u2019s school meals programme is one of the largest social safety net programmes in Liberia reaching almost 100,000 boys and girls. \u201cA school in Liberia is much more than a place for learning. For many children it is a safe environment where children thrive, play and enjoy a healthy growth with their peers. Now is the time to act, lifesaving services must be provided for the most vulnerable children to avoid a devastating fallout caused by COVID-19 that could affect generations,\u201d said Laila O. Gad, UNICEF Representative in Liberia. Alongside school meal programmes, children often benefit from health services - such as vaccinations - delivered through their schools. In Liberia, 1.5 million children are currently out of school as a result of the COVID-19 Pandemic, out of which a total of 270,000 school children were provided with school feeding in 12",
+  "date": "29 April 2020"
+}

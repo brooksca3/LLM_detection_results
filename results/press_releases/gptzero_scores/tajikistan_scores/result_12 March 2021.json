@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "94738e06-b95b-4ce0-b3e8-1709a19ec43f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.085784912109375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002969687047880143,
+          "perplexity": 12,
+          "sentence": "On 11 March 2021, the Ministry of Foreign Affairs of the Republic of Tajikistan hosted a Comprehensive Dialogue between the United Nations and the Government of Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026296640862710774,
+          "perplexity": 29,
+          "sentence": "Senior representatives of key ministries and state agencies and the United Nations (UN) Country Team gathered to have a discussion on the UN Reform, proposed by the UN Secretary-General Antonio Guterres and mandated by UN Member States.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022831415117252618,
+          "perplexity": 31,
+          "sentence": "UN Reform Dialogue event brought together representatives of 40 state organizations including the Executive Office of the President, Ministry of Foreign Affairs, Ministry of Economic Development and Trade, Transport, Energy and Water Resources, Justice, Education and Science, other sectoral ministries and committees, Academy of Science, Chamber of Commerce and Industry and UN Country Team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023333620629273355,
+          "perplexity": 35,
+          "sentence": "Permanent Representative of Tajikistan to the UN in NY, Permanent Mission of the Republic of Tajikistan to the United Nations Office and other international organizations in Geneva, Permanent Representative to the OSCE, United Nations and other International Organizations in Vienna, Tajikistan Embassy in Malaysia (in charge of coordination with ESCAP), Resident and Non-Resident UN Agencies, Regional Platforms/Commissions ( UNECE and UNESCAP), Regional DCO, attended the meeting online.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036212991108186543,
+          "perplexity": 35,
+          "sentence": "The Dialogue aimed at raising awareness of government representatives on the UN Reform, its goals and objectives, as well as promoting efficient cooperation between the Government of Tajikistan and the United Nations to develop the next Sustainable Development Cooperation Framework between the UN and the Government of Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041301065357401967,
+          "perplexity": 58,
+          "sentence": "Ms. Sezin Sinanoglu, UN Resident Coordinator in Tajikistan noted in her opening remarks: \u201cIn a very divided world, the UN Reform helps us reaffirm the importance of multilateralism for peace, security, and development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003683007089421153,
+          "perplexity": 30,
+          "sentence": "For us to succeed in any area of work, we need active, consistent, constructive, and timely engagement and partnership from all levels of Government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036155074485577643,
+          "perplexity": 91,
+          "sentence": "The UN can only be successful in its work or",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 11 March 2021, the Ministry of Foreign Affairs of the Republic of Tajikistan hosted a Comprehensive Dialogue between the United Nations and the Government of Tajikistan. Senior representatives of key ministries and state agencies and the United Nations (UN) Country Team gathered to have a discussion on the UN Reform, proposed by the UN Secretary-General Antonio Guterres and mandated by UN Member States. UN Reform Dialogue event brought together representatives of 40 state organizations including the Executive Office of the President, Ministry of Foreign Affairs, Ministry of Economic Development and Trade, Transport, Energy and Water Resources, Justice, Education and Science, other sectoral ministries and committees, Academy of Science, Chamber of Commerce and Industry and UN Country Team. Permanent Representative of Tajikistan to the UN in NY, Permanent Mission of the Republic of Tajikistan to the United Nations Office and other international organizations in Geneva, Permanent Representative to the OSCE, United Nations and other International Organizations in Vienna, Tajikistan Embassy in Malaysia (in charge of coordination with ESCAP), Resident and Non-Resident UN Agencies, Regional Platforms/Commissions ( UNECE and UNESCAP), Regional DCO, attended the meeting online. The Dialogue aimed at raising awareness of government representatives on the UN Reform, its goals and objectives, as well as promoting efficient cooperation between the Government of Tajikistan and the United Nations to develop the next Sustainable Development Cooperation Framework between the UN and the Government of Tajikistan. Ms. Sezin Sinanoglu, UN Resident Coordinator in Tajikistan noted in her opening remarks: \u201cIn a very divided world, the UN Reform helps us reaffirm the importance of multilateralism for peace, security, and development. For us to succeed in any area of work, we need active, consistent, constructive, and timely engagement and partnership from all levels of Government. The UN can only be successful in its work or",
+  "date": "12 March 2021"
+}

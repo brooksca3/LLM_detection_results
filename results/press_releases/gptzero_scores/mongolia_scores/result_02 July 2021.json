@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8cae3472-22b2-4192-a125-167995f5b221",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.3425235748291,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0037546432577073574,
+          "perplexity": 21,
+          "sentence": "The United Nations (UN) in Mongolia applauds the Government of Mongolia for its progressive efforts in the protection of children's rights through investment in children, the enactment and enforcement of legislation and public policies and the establishment of institutions to safeguard children's rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003737102495506406,
+          "perplexity": 8,
+          "sentence": "As a Member State of the United Nations that has ratified many of the core international human rights treaties, including the Convention on the Rights of the Child, International Covenant on Civil and Political Rights; International Covenant on Economic, Social and Cultural Rights, Mongolia commits to adhering to internationally recognized principles and standards in protecting and promoting children's rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035945349372923374,
+          "perplexity": 81,
+          "sentence": "During two consecutive decades, Mongolia's ratification of ILO Convention No.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003602943615987897,
+          "perplexity": 46,
+          "sentence": "182 assures that all children of Mongolia now have legal protection against the worst forms of child labour that may harm children's safety, health or morals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038563376292586327,
+          "perplexity": 21,
+          "sentence": "These international standards have been reflected in domestic legislation in Mongolia, including the Law on the Rights of the Child (2016) and Law on Child Protection (2016) which prohibits violence and exploitation of children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029229922220110893,
+          "perplexity": 55,
+          "sentence": "The UN Country Team in Mongolia has earlier issued a statement on 20 December 2019, which was sent along with letters to the President, Prime Minister and Parliament Speaker of Mongolia by the UN Resident Coordinator on 23 December 2019, based on the reports and observations UN human rights experts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034018249716609716,
+          "perplexity": 67,
+          "sentence": "The United Nations in Mongolia reiterates its position with its deep concern regarding the situation of child jockeys exposed to serious injuries and fatalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024035032838582993,
+          "perplexity": 19,
+          "sentence": "Noting that horse racing is inherently dangerous to the health and safety of children, the UN Mongolia urges the Government to take, as a matter of urgency, the necessary measures in law and in practice to ensure that no child under 18 years of age is recruited as a horse jockey, at any time",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations (UN) in Mongolia applauds the Government of Mongolia for its progressive efforts in the protection of children\u2019s rights through investment in children, the enactment and enforcement of legislation and public policies and the establishment of institutions to safeguard children\u2019s rights. As a Member State of the United Nations that has ratified many of the core international human rights treaties, including the Convention on the Rights of the Child, International Covenant on Civil and Political Rights; International Covenant on Economic, Social and Cultural Rights, Mongolia commits to adhering to internationally recognized principles and standards in protecting and promoting children\u2019s rights. During two consecutive decades, Mongolia\u2019s ratification of ILO Convention No. 182 assures that all children of Mongolia now have legal protection against the worst forms of child labour that may harm children\u2019s safety, health or morals. These international standards have been reflected in domestic legislation in Mongolia, including the Law on the Rights of the Child (2016) and Law on Child Protection (2016) which prohibits violence and exploitation of children. The UN Country Team in Mongolia has earlier issued a statement on 20 December 2019, which was sent along with letters to the President, Prime Minister and Parliament Speaker of Mongolia by the UN Resident Coordinator on 23 December 2019, based on the reports and observations UN human rights experts. The United Nations in Mongolia reiterates its position with its deep concern regarding the situation of child jockeys exposed to serious injuries and fatalities. Noting that horse racing is inherently dangerous to the health and safety of children, the UN Mongolia urges the Government to take, as a matter of urgency, the necessary measures in law and in practice to ensure that no child under 18 years of age is recruited as a horse jockey, at any time",
+  "date": "02 July 2021"
+}

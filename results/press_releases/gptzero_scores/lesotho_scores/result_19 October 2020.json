@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f57fb951-b74b-408a-abc8-6d19fc2f83fc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 71.81767272949219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002783529635053128,
+          "perplexity": 35,
+          "sentence": "MASERU - The United Nations World Food Programme (WFP) welcomes the European Union's (EU) contribution of \u04042.8 million (M55.5 million) to provide much needed relief assistance to the most vulnerable people in Lesotho affected by three consecutive years of drought and the socio-economic impacts of the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000274533435003832,
+          "perplexity": 26,
+          "sentence": "The contribution is part of a larger EU grant of \u04044.4 million (M87.3 million) to support joint emergency response interventions led by WFP in conjunction with the Food and Agriculture Organisation (FAO) and the International Organisation of Migration (IOM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002582468732725829,
+          "perplexity": 85,
+          "sentence": "WFP will assist 34,000 severely food insecure people living in urban areas of the five worst affected districts by expanding the government's Public Assistance Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002574560057837516,
+          "perplexity": 272,
+          "sentence": "Each household will receive \u040447 (M831) per month via MPESA, a mobile money platform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000286649854388088,
+          "perplexity": 54,
+          "sentence": "This cash assistance will give them a choice to purchase what they need most at local markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026901246747002006,
+          "perplexity": 118,
+          "sentence": "\u201cWe thank the EU for their continuous support to the emergency response operations WFP is rolling out across the country to complement the government's COVID-19 Food Security Response Plan,\u201d said Aurore Rusiga, WFP's Country Director in Lesotho.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002964877930935472,
+          "perplexity": 68,
+          "sentence": "\u201cWFP's operations in Lesotho are only 23 percent funded and require an additional \u040418.5 million to assist communities affected by emergency levels of food insecurity and the impacts of the COVID-19 pandemic.\u201d The EU's funding comes at a crucial time when over 40 percent of the population across the country is experiencing acute food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002850400342140347,
+          "perplexity": 112,
+          "sentence": "Food production has continued to decline for the third consecutive year whilst food prices have increased due to COVID-19 lockdown measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003055105044040829,
+          "perplexity": 36,
+          "sentence": "Border closures have severely reduced remittances and many migrant workers are returning to Lesotho after losing their jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003200940554961562,
+          "perplexity": 104,
+          "sentence": "Moreover, the Government of Lesotho's COVID-19 Food Security Response Plan has estimated a resource gap of \u040432.7 million (M643 million) that hinders an adequate response to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MASERU \u2013 The United Nations World Food Programme (WFP) welcomes the European Union\u2019s (EU) contribution of \u20ac2.8 million (M55.5 million) to provide much needed relief assistance to the most vulnerable people in Lesotho affected by three consecutive years of drought and the socio-economic impacts of the COVID-19 pandemic. The contribution is part of a larger EU grant of \u20ac4.4 million (M87.3 million) to support joint emergency response interventions led by WFP in conjunction with the Food and Agriculture Organisation (FAO) and the International Organisation of Migration (IOM). WFP will assist 34,000 severely food insecure people living in urban areas of the five worst affected districts by expanding the government\u2019s Public Assistance Programme. Each household will receive \u20ac47 (M831) per month via MPESA, a mobile money platform. This cash assistance will give them a choice to purchase what they need most at local markets. \u201cWe thank the EU for their continuous support to the emergency response operations WFP is rolling out across the country to complement the government\u2019s COVID-19 Food Security Response Plan,\u201d said Aurore Rusiga, WFP\u2019s Country Director in Lesotho. \u201cWFP\u2019s operations in Lesotho are only 23 percent funded and require an additional \u20ac18.5 million to assist communities affected by emergency levels of food insecurity and the impacts of the COVID-19 pandemic.\u201d The EU\u2019s funding comes at a crucial time when over 40 percent of the population across the country is experiencing acute food insecurity. Food production has continued to decline for the third consecutive year whilst food prices have increased due to COVID-19 lockdown measures. Border closures have severely reduced remittances and many migrant workers are returning to Lesotho after losing their jobs. Moreover, the Government of Lesotho\u2019s COVID-19 Food Security Response Plan has estimated a resource gap of \u20ac32.7 million (M643 million) that hinders an adequate response to",
+  "date": "19 October 2020"
+}

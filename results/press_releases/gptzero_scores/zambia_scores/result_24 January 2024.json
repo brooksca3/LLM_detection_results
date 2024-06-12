@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "13d3e576-0a5c-41c3-8573-b289f544a597",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.774906158447266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017404460231773555,
+          "perplexity": 25,
+          "sentence": "UNICEF and UNESCO called on the Government of the Republic of Zambia to ensure safe re-opening of schools on 29 January.as the country continues to respond to the Cholera outbreak which has affected more than 13,000 people, and necessitated a delay in the re-opening of schools for the 2024 school calendar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024783634580671787,
+          "perplexity": 53,
+          "sentence": "\u201cAs we mark the International Day of Education which falls today, 24th January, we emphasize the dual significance of education: for children to reach their full potential and for Zambia's critical human capital, pivotal for socio-economic development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002786482509691268,
+          "perplexity": 24,
+          "sentence": "Now, more than ever, keeping children in school is paramount.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024374756321776658,
+          "perplexity": 150,
+          "sentence": "During challenges like climatic shocks and health emergencies, such as the current cholera outbreak, maintaining education safeguards children from additional risks, reinforcing the urgency of our commitment to their continuous learning and our nation's resilient future,\u201d said UNICEF Zambia Country Representative, Dr Penelope Campbell.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020542954734992236,
+          "perplexity": 41,
+          "sentence": "\u201cToday's children are facing a global learning crisis of startling proportions: the data shows us that, in Sub Saharan Africa specifically, 9 out of 10 children cannot read or understand a simple text by the age of 10,\u201d said United Nations Educational, Scientific and Cultural Organisation (UNESCO) Team Lead, Alice Saili.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002745010133367032,
+          "perplexity": 59,
+          "sentence": "\u201cThe introduction of free education in Zambia in 2022 and the subsequent teacher recruitment exercise of over 4,000 teachers in 2023 was a first step towards mitigating the global learning crisis within the Zambian context.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002678576856851578,
+          "perplexity": 24,
+          "sentence": "However, there remains a need for greater investment in education - including towards the infrastructure that will ensure schools are resilient in the event of public health emergencies such as we are currently facing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002051109040621668,
+          "perplexity": 40,
+          "sentence": "The future of Zambia's children rests on the commitments and actions that we take today.\u201d Owing to the current cholera outbreak, over 10,000 schools remain closed in what should have been the first three weeks of the new",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF and UNESCO called on the Government of the Republic of Zambia to ensure safe re-opening of schools on 29 January.as the country continues to respond to the Cholera outbreak which has affected more than 13,000 people, and necessitated a delay in the re-opening of schools for the 2024 school calendar. \u201cAs we mark the International Day of Education which falls today, 24th January, we emphasize the dual significance of education: for children to reach their full potential and for Zambia's critical human capital, pivotal for socio-economic development. Now, more than ever, keeping children in school is paramount. During challenges like climatic shocks and health emergencies, such as the current cholera outbreak, maintaining education safeguards children from additional risks, reinforcing the urgency of our commitment to their continuous learning and our nation's resilient future,\u201d said UNICEF Zambia Country Representative, Dr Penelope Campbell. \u201cToday\u2019s children are facing a global learning crisis of startling proportions: the data shows us that, in Sub Saharan Africa specifically, 9 out of 10 children cannot read or understand a simple text by the age of 10,\u201d said United Nations Educational, Scientific and Cultural Organisation (UNESCO) Team Lead, Alice Saili. \u201cThe introduction of free education in Zambia in 2022 and the subsequent teacher recruitment exercise of over 4,000 teachers in 2023 was a first step towards mitigating the global learning crisis within the Zambian context. However, there remains a need for greater investment in education \u2013 including towards the infrastructure that will ensure schools are resilient in the event of public health emergencies such as we are currently facing. The future of Zambia\u2019s children rests on the commitments and actions that we take today.\u201d Owing to the current cholera outbreak, over 10,000 schools remain closed in what should have been the first three weeks of the new",
+  "date": "24 January 2024"
+}

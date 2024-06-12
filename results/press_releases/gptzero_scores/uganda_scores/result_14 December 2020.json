@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "37f2f238-9d5d-4faf-957c-65776da5adbe",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.997467041015625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022274551156442612,
+          "perplexity": 35,
+          "sentence": "The United Nations in Uganda remains committed to sustaining its operations in support of the national vision 2040 and the implementation of the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002002710971282795,
+          "perplexity": 67,
+          "sentence": "As part of the normal prevention measures, since the onset of the COVID-19 pandemic in Uganda in March 2020, the UN adjusted its operations to focus on programmes critical to address COVID-19 and its implications as well as humanitarian life-saving services in addition to maintaining an air bridge to support UN peace and political missions in Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002020933898165822,
+          "perplexity": 216,
+          "sentence": "The UN has extended this programme criticality approach to official missions from abroad in order to remain focused on life-saving and COVID-19 related operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018636519962456077,
+          "perplexity": 36,
+          "sentence": "UN critical programmes include operations in health, food security, livelihoods and nutrition; life-saving services; elimination of gender-based violence and hate speech; social protection, justice and civic education; refugees, displaced persons and vulnerable returning migrants; immediate economic support for vulnerable people in remote areas and in the informal sector; as well as coordination and common services including safety and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001956213527591899,
+          "perplexity": 120,
+          "sentence": "Programme criticality will be reviewed after the elections, taking into consideration the COVID-19 situation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001726698101265356,
+          "perplexity": 43,
+          "sentence": "All UN offices in Uganda remain open operating in accordance with the COVID-19 Standard Operating Procedures issued by the Ministry of Health and the World Health Organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001789748785085976,
+          "perplexity": 51,
+          "sentence": "We wish to use this opportunity to call on all stakeholders to be champions of tolerance and peaceful co-existence during the coming days and to support those around you to comply with the COVID-19 SOPs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001792960101738572,
+          "perplexity": 58,
+          "sentence": "We must avoid a repetition of recent events in different parts of the country including physical confrontations, incitement and hate speech by promoting peace & inclusive development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020252453396096826,
+          "perplexity": 39,
+          "sentence": "Sustaining peace is a shared responsibility and a common good.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001890162966446951,
+          "perplexity": 41,
+          "sentence": "The UN reiterates our commitment to work with the people and Government of Uganda to provide humanitarian",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations in Uganda remains committed to sustaining its operations in support of the national vision 2040 and the implementation of the Sustainable Development Goals (SDGs). As part of the normal prevention measures, since the onset of the COVID-19 pandemic in Uganda in March 2020, the UN adjusted its operations to focus on programmes critical to address COVID-19 and its implications as well as humanitarian life-saving services in addition to maintaining an air bridge to support UN peace and political missions in Africa. The UN has extended this programme criticality approach to official missions from abroad in order to remain focused on life-saving and COVID-19 related operations. UN critical programmes include operations in health, food security, livelihoods and nutrition; life-saving services; elimination of gender-based violence and hate speech; social protection, justice and civic education; refugees, displaced persons and vulnerable returning migrants; immediate economic support for vulnerable people in remote areas and in the informal sector; as well as coordination and common services including safety and security. Programme criticality will be reviewed after the elections, taking into consideration the COVID-19 situation in the country. All UN offices in Uganda remain open operating in accordance with the COVID-19 Standard Operating Procedures issued by the Ministry of Health and the World Health Organization. We wish to use this opportunity to call on all stakeholders to be champions of tolerance and peaceful co-existence during the coming days and to support those around you to comply with the COVID-19 SOPs. We must avoid a repetition of recent events in different parts of the country including physical confrontations, incitement and hate speech by promoting peace & inclusive development. Sustaining peace is a shared responsibility and a common good. The UN reiterates our commitment to work with the people and Government of Uganda to provide humanitarian",
+  "date": "14 December 2020"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "24ef7682-a28f-41ab-8c6d-726f9aa73285",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009148289656105485,
+        "human": 0.9902704060563735,
+        "mixed": 0.0005813042875209147
+      },
+      "completely_generated_prob": 0.009148289656105485,
+      "confidence_category": "high",
+      "confidence_score": 0.9902704060563735,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009148289656105485,
+          "human": 0.9902704060563735,
+          "mixed": 0.0005813042875209147
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 91.42671966552734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000917056982871145,
+          "perplexity": 34,
+          "sentence": "UNICEF calls on its partners in the Government to prioritize equal access to quality education and to ensure that every child, including those from ethnic minorities and from remote areas has access to quality and safe formal and non-formal education, as well as extracurricular and social cohesion activities, innovative educational resources and uninterrupted support from educators and school community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010732592782005668,
+          "perplexity": 34,
+          "sentence": "UNICEF calls on its partners in the Government to prioritize equal access to quality education and to ensure that every child, including those from ethnic minorities and from remote areas has access to quality and safe formal and non-formal education, as well as extracurricular and social cohesion activities, innovative educational resources and uninterrupted support from educators and school community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018113695550709963,
+          "perplexity": 47,
+          "sentence": "The results of the 2022 PISA assessment of 81 countries show an overall decline in the performance of students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013202789705246687,
+          "perplexity": 87,
+          "sentence": "Very few countries managed to maintain or raise levels of students' performance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013368490617722273,
+          "perplexity": 57,
+          "sentence": "The results of students in Georgia remained at a similar level to the 2018 PISA results, and well below the OECD average.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010701606515794992,
+          "perplexity": 33,
+          "sentence": "Georgian students are placed 59th in math, 66th in reading and 65th in sciences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001398766878992319,
+          "perplexity": 33,
+          "sentence": "Results of 2022 PISA underscore inequalities in the education system - students living in cities outperform those living in villages; socio-economically advantaged students have better academic outcomes than their disadvantaged peers; students with Georgian language instruction outperform their peers learning in Azerbaijani language; and children studying in private schools have better results than public school students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017592523945495486,
+          "perplexity": 332,
+          "sentence": "COVID-19 contributed to inequalities in accessing quality education in recent years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012279079528525472,
+          "perplexity": 57,
+          "sentence": "More than half of students in Georgia reported that their school building was closed for more than three months due to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000823064474388957,
+          "perplexity": 48,
+          "sentence": "During distance learning, 32% of students had problems at least once a week with understanding school assignments and 30% of students struggled with finding someone who",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF calls on its partners in the Government to prioritize equal access to quality education and to ensure that every child, including those from ethnic minorities and from remote areas has access to quality and safe formal and non-formal education, as well as extracurricular and social cohesion activities, innovative educational resources and uninterrupted support from educators and school community. UNICEF calls on its partners in the Government to prioritize equal access to quality education and to ensure that every child, including those from ethnic minorities and from remote areas has access to quality and safe formal and non-formal education, as well as extracurricular and social cohesion activities, innovative educational resources and uninterrupted support from educators and school community. The results of the 2022 PISA assessment of 81 countries show an overall decline in the performance of students. Very few countries managed to maintain or raise levels of students\u2019 performance. The results of students in Georgia remained at a similar level to the 2018 PISA results, and well below the OECD average. Georgian students are placed 59th in math, 66th in reading and 65th in sciences. Results of 2022 PISA underscore inequalities in the education system \u2013 students living in cities outperform those living in villages; socio-economically advantaged students have better academic outcomes than their disadvantaged peers; students with Georgian language instruction outperform their peers learning in Azerbaijani language; and children studying in private schools have better results than public school students. COVID-19 contributed to inequalities in accessing quality education in recent years. More than half of students in Georgia reported that their school building was closed for more than three months due to COVID-19. During distance learning, 32% of students had problems at least once a week with understanding school assignments and 30% of students struggled with finding someone who",
+  "date": "24 January 2024"
+}

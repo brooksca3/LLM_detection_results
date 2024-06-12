@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b8d433f6-e2cb-47f9-8a3e-f337697d729f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0131870187361661,
+        "human": 0.986812981263834,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.0131870187361661,
+      "confidence_category": "high",
+      "confidence_score": 0.986812981263834,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0131870187361661,
+          "human": 0.986812981263834,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.321229934692383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008431242313235998,
+          "perplexity": 81,
+          "sentence": "On September 28, 2022, UN Resident Coordinator in the Kyrgyz Republic Antje Grawe discussed with Minister of Emergency Situations (MES) of the Kyrgyz Republic Boobek Azhikeev the ongoing humanitarian activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009105817880481482,
+          "perplexity": 28,
+          "sentence": "The Minister of Emergency Situations provided detailed information on the casualties and damaged infrastructure on the territory of the Kyrgyz Republic as a result of the violence on the Kyrgyz-Tajik border, the ongoing work of the MES related to evacuation, the provision of humanitarian assistance to residents of the affected villages, and also announced priority and long-term needs necessary to restore the livelihoods of the population in Batken.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009348067687824368,
+          "perplexity": 34,
+          "sentence": "The Minister of Emergency Situations also acknowledged the role of Antje Grawe in urgently convening two meetings of the Councils of the Disaster Response Coordination Unit (DRCU) and thanked for the humanitarian assistance provided by the UN agencies and other international organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008314283913932741,
+          "perplexity": 29,
+          "sentence": "The UN Resident Coordinator expressed her gratitude to the Minister for his leadership in the coordination of the delivery of humanitarian needs, reconfirmed the UN system's commitment to supporting the humanitarian and early recovery efforts and informed of the ongoing work of the rapid assessment team, which is identifying the immediate needs of the affected people of Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007893833098933101,
+          "perplexity": 24,
+          "sentence": "She further informed that the results of the work would be presented at the next meeting of the DRCU Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006283882539719343,
+          "perplexity": 45,
+          "sentence": "The sides also discussed further joint steps of the Cabinet of Ministers of the Kyrgyz Republic and the UN Country Team in providing immediate humanitarian assistance to the affected population as well as strengthening peace and ensuring long-term humanitarian preparedness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000791153812315315,
+          "perplexity": 56,
+          "sentence": "Antje Grawe expressed readiness to consider the list of needs announced by the Minister of Emergency Situations of the Kyrgyz Republic and mobilize humanitarian assistance from UN agencies and other international organizations in accordance with their mandates.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On September 28, 2022, UN Resident Coordinator in the Kyrgyz Republic Antje Grawe discussed with Minister of Emergency Situations (MES) of the Kyrgyz Republic Boobek Azhikeev the ongoing humanitarian activities. The Minister of Emergency Situations provided detailed information on the casualties and damaged infrastructure on the territory of the Kyrgyz Republic as a result of the violence on the Kyrgyz-Tajik border, the ongoing work of the MES related to evacuation, the provision of humanitarian assistance to residents of the affected villages, and also announced priority and long-term needs necessary to restore the livelihoods of the population in Batken. The Minister of Emergency Situations also acknowledged the role of Antje Grawe in urgently convening two meetings of the Councils of the Disaster Response Coordination Unit (DRCU) and thanked for the humanitarian assistance provided by the UN agencies and other international organizations. The UN Resident Coordinator expressed her gratitude to the Minister for his leadership in the coordination of the delivery of humanitarian needs, reconfirmed the UN system\u2019s commitment to supporting the humanitarian and early recovery efforts and informed of the ongoing work of the rapid assessment team, which is identifying the immediate needs of the affected people of Kyrgyzstan. She further informed that the results of the work would be presented at the next meeting of the DRCU Council. The sides also discussed further joint steps of the Cabinet of Ministers of the Kyrgyz Republic and the UN Country Team in providing immediate humanitarian assistance to the affected population as well as strengthening peace and ensuring long-term humanitarian preparedness. Antje Grawe expressed readiness to consider the list of needs announced by the Minister of Emergency Situations of the Kyrgyz Republic and mobilize humanitarian assistance from UN agencies and other international organizations in accordance with their mandates.",
+  "date": "28 September 2022"
+}

@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "93c3fe71-ae7c-4de7-8a72-41347703427e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 136.25997924804688,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002878524246625602,
+          "perplexity": 25,
+          "sentence": "MANILA, Philippines -- On the third floor of a nondescript building along Shaw Boulevard in Mandaluyong, Philippines, is a community centre that offers comprehensive HIV-related services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026082005933858454,
+          "perplexity": 83,
+          "sentence": "This centre is just one of the six in Mega Manila and another one in Cebu by the community-based organization LoveYourself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026258561410941184,
+          "perplexity": 84,
+          "sentence": "Each community centre caters to 60 to 100 clients every day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023844095994718373,
+          "perplexity": 374,
+          "sentence": "\u201cWe have different programmes, different types of services for each and every aspect of the HIV care cascade,\u201d said LoveYourself Program Manager Danvic Rosadi\u00f1o.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024186636437661946,
+          "perplexity": 116,
+          "sentence": "\u201cThat includes awareness, testing, prevention initiatives, treatment, care, and support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023270832025445998,
+          "perplexity": 58,
+          "sentence": "And we provide all of the services here for free.\u201d LoveYourself was established in 2012 by six people and has now grown with more locations, 90 full-time staff and 1,200 volunteers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002351277507841587,
+          "perplexity": 80,
+          "sentence": "In 2018, 20% of all HIV-positive diagnosis in the Philippines were made through LoveYourself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022458506282418966,
+          "perplexity": 71,
+          "sentence": "They also have 5,000 clients enrolled in treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023710841196589172,
+          "perplexity": 65,
+          "sentence": "LoveYourself is also partnering with 12 other community-based organizations spread across the country to share their lessons learnt and applying it to their context.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002682272170204669,
+          "perplexity": 62,
+          "sentence": "When asked about his thoughts on why LoveYourself has been successful in reaching their clients, Danvic explained, \u201cWe are the community, so we know how to reach out to the community.\u201d As a community of volunteers, feedback is important to the organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025697360979393125,
+          "perplexity": 528,
+          "sentence": "\"We always listen to the community,\u201d said Danvic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019094801973551512,
+          "perplexity": 106,
+          "sentence": "\u201cWe have mechanisms to facilitate feedback of clients confidentially and in a manner that they won't also be judged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022993600578047335,
+          "perplexity": 53,
+          "sentence": "If they have issues with their privacy, then they could email privacy@loveyourself.ph.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021754359477199614,
+          "perplexity": 54,
+          "sentence": "If they need feedback that needs to be reported, it can be reported on our social media sites\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025575319887138903,
+          "perplexity": 210,
+          "sentence": "\u201cAnd we will improve our services based on the feedback that we receive.\u201d Danvic himself has evolved with LoveYourself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003029188374057412,
+          "perplexity": 49,
+          "sentence": "He started as a volunteer in the organization back in 2014",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MANILA, Philippines -- On the third floor of a nondescript building along Shaw Boulevard in Mandaluyong, Philippines, is a community centre that offers comprehensive HIV-related services. This centre is just one of the six in Mega Manila and another one in Cebu by the community-based organization LoveYourself. Each community centre caters to 60 to 100 clients every day. \u201cWe have different programmes, different types of services for each and every aspect of the HIV care cascade,\u201d said LoveYourself Program Manager Danvic Rosadi\u00f1o. \u201cThat includes awareness, testing, prevention initiatives, treatment, care, and support. And we provide all of the services here for free.\u201d LoveYourself was established in 2012 by six people and has now grown with more locations, 90 full-time staff and 1,200 volunteers. In 2018, 20% of all HIV-positive diagnosis in the Philippines were made through LoveYourself. They also have 5,000 clients enrolled in treatment. LoveYourself is also partnering with 12 other community-based organizations spread across the country to share their lessons learnt and applying it to their context. When asked about his thoughts on why LoveYourself has been successful in reaching their clients, Danvic explained, \u201cWe are the community, so we know how to reach out to the community.\u201d As a community of volunteers, feedback is important to the organization. \"We always listen to the community,\u201d said Danvic. \u201cWe have mechanisms to facilitate feedback of clients confidentially and in a manner that they won\u2019t also be judged. If they have issues with their privacy, then they could email privacy@loveyourself.ph. If they need feedback that needs to be reported, it can be reported on our social media sites\u201d he added. \u201cAnd we will improve our services based on the feedback that we receive.\u201d Danvic himself has evolved with LoveYourself. He started as a volunteer in the organization back in 2014",
+  "date": "01 December 2019"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fef058d8-c3fa-4b3b-b773-b849672b2e20",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.089048385620117,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.09056312590837479,
+          "perplexity": 32,
+          "sentence": "\"The Security Council, recalling its Press Statement SC/14430 of 4 February 2021, reiterates its deep concern at developments in Myanmar following the declaration of the state of emergency imposed by the military on 1 February and the arbitrary detention of members of the Government, including State Counsellor Aung San Suu Kyi and President Win Myint and others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09113262593746185,
+          "perplexity": 25,
+          "sentence": "The Security Council reiterates its call for their immediate release.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1079389750957489,
+          "perplexity": 38,
+          "sentence": "\u201cThe Security Council strongly condemns the violence against peaceful protestors, including against women, youth and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09864605963230133,
+          "perplexity": 36,
+          "sentence": "It expresses deep concern at restrictions on medical personnel, civil society, labour union members, journalists and media workers, and calls for the immediate release of all those detained arbitrarily.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0993180051445961,
+          "perplexity": 44,
+          "sentence": "The Council calls for the military to exercise utmost restraint and emphasises that it is following the situation closely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09416988492012024,
+          "perplexity": 15,
+          "sentence": "\u201cThe Security Council expresses its continued support for the democratic transition in Myanmar, and stresses the need to uphold democratic institutions and processes, refrain from violence, fully respect human rights and fundamental freedoms and uphold the rule of law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09742829948663712,
+          "perplexity": 39,
+          "sentence": "It encourages the pursuance of constructive dialogue and reconciliation in accordance with the will and interests of the people of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07573768496513367,
+          "perplexity": 21,
+          "sentence": "\u201cThe Security Council reiterates its strong support for regional organisations, in particular the Association of Southeast Asian Nations (ASEAN) and its readiness to assist Myanmar in a positive, peaceful and constructive manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07618968188762665,
+          "perplexity": 36,
+          "sentence": "It commends ASEAN's continued efforts to engage with all relevant parties in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04024236276745796,
+          "perplexity": 17,
+          "sentence": "The Council welcomes the recent informal ASEAN Ministerial meeting on 2 March, and the statements made by the ASEAN Chair on 2 March and 1 February, which recalled the purposes and principles of the ASEAN Charter, notably the principle of democracy, adherence to the rule of law, good governance, the protection of human rights and respect for fundamental freedoms, called on all parties to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\"The Security Council, recalling its Press Statement SC/14430 of 4 February 2021, reiterates its deep concern at developments in Myanmar following the declaration of the state of emergency imposed by the military on 1 February and the arbitrary detention of members of the Government, including State Counsellor Aung San Suu Kyi and President Win Myint and others. The Security Council reiterates its call for their immediate release. \u201cThe Security Council strongly condemns the violence against peaceful protestors, including against women, youth and children. It expresses deep concern at restrictions on medical personnel, civil society, labour union members, journalists and media workers, and calls for the immediate release of all those detained arbitrarily. The Council calls for the military to exercise utmost restraint and emphasises that it is following the situation closely. \u201cThe Security Council expresses its continued support for the democratic transition in Myanmar, and stresses the need to uphold democratic institutions and processes, refrain from violence, fully respect human rights and fundamental freedoms and uphold the rule of law. It encourages the pursuance of constructive dialogue and reconciliation in accordance with the will and interests of the people of Myanmar. \u201cThe Security Council reiterates its strong support for regional organisations, in particular the Association of Southeast Asian Nations (ASEAN) and its readiness to assist Myanmar in a positive, peaceful and constructive manner. It commends ASEAN\u2019s continued efforts to engage with all relevant parties in Myanmar. The Council welcomes the recent informal ASEAN Ministerial meeting on 2 March, and the statements made by the ASEAN Chair on 2 March and 1 February, which recalled the purposes and principles of the ASEAN Charter, notably the principle of democracy, adherence to the rule of law, good governance, the protection of human rights and respect for fundamental freedoms, called on all parties to",
+  "date": "10 March 2021"
+}

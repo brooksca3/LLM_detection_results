@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d22da163-2815-4877-a338-67048a134320",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.46221923828125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006248406134545803,
+          "perplexity": 23,
+          "sentence": "The reconstruction and recovery of the south of Haiti which was devastated by an earthquake in August last year needs to accelerate according to the UN Humanitarian Coordinator, the organization's most senior humanitarian official in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005585792241618037,
+          "perplexity": 43,
+          "sentence": "Speaking at the end of a two-day joint-UN trip to the earthquake-affected south of the country, Ulrika Richardson paid tribute to those people who lost their lives while encouraging more to be done to support the Government's integrated reconstruction and recovery plan for the south, known as PRIPS to allow for the urgent transition from humanitarian aid to reconstruction and recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006825785967521369,
+          "perplexity": 98,
+          "sentence": "\u201cThe reconstruction and recovery of the southern peninsula of Haiti needs to accelerate to allow the population full access to permanent housing, social services and to revitalize the local economy.,\u201d said Ms Richardson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006380571867339313,
+          "perplexity": 184,
+          "sentence": "\u201cThe Government produced the 5-year PRIPS reconstruction and recovery plan in February this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007297460688278079,
+          "perplexity": 69,
+          "sentence": "This plan needs now to be operationalized at the local level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008390312432311475,
+          "perplexity": 19,
+          "sentence": "The UN will continue to engage with technical and financial partners to support the implementation of the plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002239398192614317,
+          "perplexity": 36,
+          "sentence": "\u201cThis plan should also strengthen resilience to future shocks and to the growing food insecurity that currently in on the rise,\u201d she added \u201cas the economic situation continues to deteriorate and threaten the livelihoods of the mainly rural population.\u201d Ms Richardson added as part of the recovery process it was important that communication between the capital, Port-au-Prince and the south, which has been blocked due to insecurity, is opened, so that \u201cpeople, materials and commerce can flow in both directions, supporting the future livelihoods and prosperity of people living in the south.\u201d Some 2,250 people died and around 12,800 were injured in the earthquake which struck the southern peninsula of Haiti on 14 August 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001336051500402391,
+          "perplexity": 21,
+          "sentence": "Thousands of homes, schools and hospitals as well as key infrastructure",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The reconstruction and recovery of the south of Haiti which was devastated by an earthquake in August last year needs to accelerate according to the UN Humanitarian Coordinator, the organization\u2019s most senior humanitarian official in the country. Speaking at the end of a two-day joint-UN trip to the earthquake-affected south of the country, Ulrika Richardson paid tribute to those people who lost their lives while encouraging more to be done to support the Government\u2019s integrated reconstruction and recovery plan for the south, known as PRIPS to allow for the urgent transition from humanitarian aid to reconstruction and recovery. \u201cThe reconstruction and recovery of the southern peninsula of Haiti needs to accelerate to allow the population full access to permanent housing, social services and to revitalize the local economy.,\u201d said Ms Richardson. \u201cThe Government produced the 5-year PRIPS reconstruction and recovery plan in February this year. This plan needs now to be operationalized at the local level. The UN will continue to engage with technical and financial partners to support the implementation of the plan. \u201cThis plan should also strengthen resilience to future shocks and to the growing food insecurity that currently in on the rise,\u201d she added \u201cas the economic situation continues to deteriorate and threaten the livelihoods of the mainly rural population.\u201d Ms Richardson added as part of the recovery process it was important that communication between the capital, Port-au-Prince and the south, which has been blocked due to insecurity, is opened, so that \u201cpeople, materials and commerce can flow in both directions, supporting the future livelihoods and prosperity of people living in the south.\u201d Some 2,250 people died and around 12,800 were injured in the earthquake which struck the southern peninsula of Haiti on 14 August 2021. Thousands of homes, schools and hospitals as well as key infrastructure",
+  "date": "17 August 2022"
+}

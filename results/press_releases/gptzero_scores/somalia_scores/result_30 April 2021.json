@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f3f0cac2-1f85-4f33-befa-341115cd142d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.77414894104004,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018753779295366257,
+          "perplexity": 105,
+          "sentence": "Joint press release by UNICEF, WHO and Ministry of Health in Somalia MOGADISHU, 30 April 2021 - Vaccines protect us against preventable diseases, including COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018381715926807374,
+          "perplexity": 32,
+          "sentence": "They bring us closer to a healthier world and are permissible to be taken during the holy month of Ramadan -- these are the main messages the Federal Ministry of Health and Human Services, World Health Organization (WHO) and United Nations Children's Fund (UNICEF) in Somalia are sharing this World Immunization Week, running from 24 to 30 April 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002164344332413748,
+          "perplexity": 15,
+          "sentence": "On this occasion, the Federal Ministry of Health, WHO and UNICEF are renewing their commitments to ensure that every child is counted for vaccination against vaccine-preventable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002023394190473482,
+          "perplexity": 67,
+          "sentence": "This year, World Immunization Week comes at a time when the country is conducting one of its largest, much needed vaccination campaigns, against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021409729379229248,
+          "perplexity": 23,
+          "sentence": "Every year, during the last week of April, World Immunization Week is observed to encourage the use of vaccines to protect people of all ages against disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017991079948842525,
+          "perplexity": 43,
+          "sentence": "The theme for this year is 'vaccines bring us closer' - to encourage greater global participation around immunization and to demonstrate to communities, politicians and other audiences that vaccines do indeed bring families, communities and countries closer together.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016478647012263536,
+          "perplexity": 21,
+          "sentence": "With support from the Federal and State Governments of Somalia, WHO, UNICEF and other agencies have been providing vaccines - while observing COVID-19 protocol since last year-- to Somalis of all ages and backgrounds - against preventable diseases such as measles, pertussis, diphtheria, tetanus, hepatitis B, haemophilus influenza type b, cholera, tuberculosis, polio and now against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018221903883386403,
+          "perplexity": 44,
+          "sentence": "Since the resumption of mass vaccination campaigns, which had been paused due to the COVID-19 epidemic in 2020, Somali authorities, with support from WHO, UNICEF and other partners, have conducted five targeted campaigns and one nationwide campaign, where approximately three million children were",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Joint press release by UNICEF, WHO and Ministry of Health in Somalia MOGADISHU, 30 April 2021 \u2013 Vaccines protect us against preventable diseases, including COVID-19. They bring us closer to a healthier world and are permissible to be taken during the holy month of Ramadan -- these are the main messages the Federal Ministry of Health and Human Services, World Health Organization (WHO) and United Nations Children\u2019s Fund (UNICEF) in Somalia are sharing this World Immunization Week, running from 24 to 30 April 2021. On this occasion, the Federal Ministry of Health, WHO and UNICEF are renewing their commitments to ensure that every child is counted for vaccination against vaccine-preventable diseases. This year, World Immunization Week comes at a time when the country is conducting one of its largest, much needed vaccination campaigns, against COVID-19. Every year, during the last week of April, World Immunization Week is observed to encourage the use of vaccines to protect people of all ages against disease. The theme for this year is \u2018vaccines bring us closer\u2019 \u2013 to encourage greater global participation around immunization and to demonstrate to communities, politicians and other audiences that vaccines do indeed bring families, communities and countries closer together. With support from the Federal and State Governments of Somalia, WHO, UNICEF and other agencies have been providing vaccines \u2013 while observing COVID-19 protocol since last year-- to Somalis of all ages and backgrounds \u2013 against preventable diseases such as measles, pertussis, diphtheria, tetanus, hepatitis B, haemophilus influenza type b, cholera, tuberculosis, polio and now against COVID-19. Since the resumption of mass vaccination campaigns, which had been paused due to the COVID-19 epidemic in 2020, Somali authorities, with support from WHO, UNICEF and other partners, have conducted five targeted campaigns and one nationwide campaign, where approximately three million children were",
+  "date": "30 April 2021"
+}

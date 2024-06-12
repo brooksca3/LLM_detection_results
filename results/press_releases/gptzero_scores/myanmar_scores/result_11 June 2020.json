@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3eb1c55a-76bb-48ac-b05d-8511dd6014d8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03001131912628157,
+        "human": 0.9475127065009751,
+        "mixed": 0.022475974372743374
+      },
+      "completely_generated_prob": 0.03001131912628157,
+      "confidence_category": "medium",
+      "confidence_score": 0.9475127065009751,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03001131912628157,
+          "human": 0.9475127065009751,
+          "mixed": 0.022475974372743374
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.62644386291504,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1087520569562912,
+          "perplexity": 28,
+          "sentence": "Myanmar confirmed its commitment to addressing child labour by ratifying the International Labour Organization (ILO) Minimum Age Convention on 8 June, just ahead of the World Day Against Child Labour on 12 June.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09584087878465652,
+          "perplexity": 29,
+          "sentence": "The development has been heralded as a positive development, particularly in the context of the current COVID-19 crisis, which threatens the rights, safety and development of the estimated 1.13 million children in child labour across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08884274959564209,
+          "perplexity": 84,
+          "sentence": "The Minimum Age Convention 138 requires countries to set a minimum age aligned with the end of compulsory education and under which no one shall be admitted to work in any occupation except light work and artistic performances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10558411478996277,
+          "perplexity": 58,
+          "sentence": "It also prohibits hazardous activities for anyone under 18 years old.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09580181539058685,
+          "perplexity": 46,
+          "sentence": "In Myanmar, the minimum working age is 14 years old, as per the new Child Rights Law and existing Labour Law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09232067316770554,
+          "perplexity": 41,
+          "sentence": "The Convention also requires countries to establish national policies for the elimination of child labour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09306526929140091,
+          "perplexity": 25,
+          "sentence": "Myanmar is the 178th country to ratify the convention and has an estimated 9.3% of the child population aged 5 to 17 in child labour, including more than 600,000 working in hazardous work environments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0670374259352684,
+          "perplexity": 37,
+          "sentence": "According to a new report by the ILO and UNICEF, the 153 million children trapped in child labour around the world are at risk of entering hidden and more dangerous forms of work or working longer hours due to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011762524023652077,
+          "perplexity": 45,
+          "sentence": "Loss of livelihood, an illness or death in the family, displacement, and the raft of upheavals which are driving children out of school, orphaned or in financial troubles, are some of the COVID-19 related factors that are pushing millions of vulnerable children - even those at a very young age - to work in hazardous conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010892916470766068,
+          "perplexity": 22,
+          "sentence": "As of May 2020, more than 60,000 people have already lost their jobs in Myanmar;",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Myanmar confirmed its commitment to addressing child labour by ratifying the International Labour Organization (ILO) Minimum Age Convention on 8 June, just ahead of the World Day Against Child Labour on 12 June. The development has been heralded as a positive development, particularly in the context of the current COVID-19 crisis, which threatens the rights, safety and development of the estimated 1.13 million children in child labour across the country. The Minimum Age Convention 138 requires countries to set a minimum age aligned with the end of compulsory education and under which no one shall be admitted to work in any occupation except light work and artistic performances. It also prohibits hazardous activities for anyone under 18 years old. In Myanmar, the minimum working age is 14 years old, as per the new Child Rights Law and existing Labour Law. The Convention also requires countries to establish national policies for the elimination of child labour. Myanmar is the 178th country to ratify the convention and has an estimated 9.3% of the child population aged 5 to 17 in child labour, including more than 600,000 working in hazardous work environments. According to a new report by the ILO and UNICEF, the 153 million children trapped in child labour around the world are at risk of entering hidden and more dangerous forms of work or working longer hours due to COVID-19. Loss of livelihood, an illness or death in the family, displacement, and the raft of upheavals which are driving children out of school, orphaned or in financial troubles, are some of the COVID-19 related factors that are pushing millions of vulnerable children \u2013 even those at a very young age \u2013 to work in hazardous conditions. As of May 2020, more than 60,000 people have already lost their jobs in Myanmar;",
+  "date": "11 June 2020"
+}

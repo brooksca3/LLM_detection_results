@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0f942a1c-5c0e-49d8-aec9-30df061f68ea",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.32328414916992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00028457515873014927,
+          "perplexity": 53,
+          "sentence": "Belgrade, 13 December, 2022 - Investing in family support during early childhood is necessary for a fair, accessible and high-quality support system that enables the optimal development and inclusion of each child, and we have a road ahead of us to create the conditions for quality services for the early development of children provided by visiting nurses, pediatricians and development counseling centers, in cooperation with preschool and social institutions in the community, to reach every parent in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029786277445964515,
+          "perplexity": 59,
+          "sentence": "That is the conclusion of the sixth National Conference on early development and parenting entitled \"We are rooting for parents\", organized by UNICEF Serbia through a cooperation program with the Government of the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028724464937113225,
+          "perplexity": 41,
+          "sentence": "In the previous period, the Government of the Republic of Serbia and UNICEF introduced and tested innovative parenting support practices in the first, and most important years of a child's life, through the models of Playful parenting for all families and Family-Oriented Early Intervention (PORI) for families of children with developmental disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036942350561730564,
+          "perplexity": 26,
+          "sentence": "\"By joining forces, we achieved significant progress in improving the quality of services for the youngest children and their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002753066655714065,
+          "perplexity": 63,
+          "sentence": "Through cooperation with relevant ministries, we supported 50 percent of districts in Serbia to provide innovative, intersectoral and family-oriented early intervention services for children with disabilities and developmental disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023276382125914097,
+          "perplexity": 45,
+          "sentence": "Moreover, in one fifth of the municipalities in Serbia, we have strengthened primary health care services, as well as preschools, and social services, so that every new mother and father is reached with play and learning support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002286677190568298,
+          "perplexity": 170,
+          "sentence": "This shows that Serbia is as an example of good practice regionally and globally!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022626818099524826,
+          "perplexity": 58,
+          "sentence": "However, the time has come to move away from piloting new services in selected localities toward improved standards of all services that can reach young children and their parents in every town and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 13 December, 2022 - Investing in family support during early childhood is necessary for a fair, accessible and high-quality support system that enables the optimal development and inclusion of each child, and we have a road ahead of us to create the conditions for quality services for the early development of children provided by visiting nurses, pediatricians and development counseling centers, in cooperation with preschool and social institutions in the community, to reach every parent in Serbia. That is the conclusion of the sixth National Conference on early development and parenting entitled \"We are rooting for parents\" , organized by UNICEF Serbia through a cooperation program with the Government of the Republic of Serbia. In the previous period, the Government of the Republic of Serbia and UNICEF introduced and tested innovative parenting support practices in the first, and most important years of a child's life, through the models of Playful parenting for all families and Family-Oriented Early Intervention (PORI) for families of children with developmental disabilities. \"By joining forces, we achieved significant progress in improving the quality of services for the youngest children and their families. Through cooperation with relevant ministries, we supported 50 percent of districts in Serbia to provide innovative, intersectoral and family-oriented early intervention services for children with disabilities and developmental disabilities. Moreover, in one fifth of the municipalities in Serbia, we have strengthened primary health care services, as well as preschools, and social services, so that every new mother and father is reached with play and learning support. This shows that Serbia is as an example of good practice regionally and globally! However, the time has come to move away from piloting new services in selected localities toward improved standards of all services that can reach young children and their parents in every town and",
+  "date": "14 December 2022"
+}

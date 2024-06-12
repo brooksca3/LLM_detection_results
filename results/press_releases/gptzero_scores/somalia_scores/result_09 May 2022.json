@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ee2d5605-21a2-4d54-9c7e-f3e78c6b59d5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.1660099029541,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001618456735741347,
+          "perplexity": 40,
+          "sentence": "Mogadishu, 9 May 2022 - In their continued and collective efforts to improve health system resilience, the Ministry of Health and Human Services of the Federal Government of Somalia, World Health Organization (WHO) and the Embassy of Italy have joined forces and officially launched a \u04043 million multi-year project entitled 'Improving essential health services in Somalia using a secondary hospital-based care approach.'",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017347796529065818,
+          "perplexity": 76,
+          "sentence": "The project is designed to improve delivery of essential health services at the secondary level care in Somalia by focusing on building strong and resilient hospital-based care at Hudur General Hospital in South West state and Dhusamareb General Hospital in Galmudug state - both of which are currently unable to meet the health care demand and needs of populations within their respective catchment areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016343103197868913,
+          "perplexity": 24,
+          "sentence": "Developed under the leadership of the Federal Ministry of Health, in close partnership with WHO and the Italian Agency for Development Cooperation (AICS), the project aims to achieve universal health coverage (UHC) through strengthening hospital-based care for integrated delivery of secondary and critical care services, as well as improving hospital management system for better stewardship and effective service delivery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001611876068636775,
+          "perplexity": 52,
+          "sentence": "\u201cWe would like to express our sincere thanks to the Government of Italy for their very valuable support as they are a key donor supporting secondary care and hospital management in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013778096763417125,
+          "perplexity": 76,
+          "sentence": "This support will help Somalia to make strides in the provision of critical care for patients and strengthening of referral systems, as well as for improving the overall credibility of and trust in the public health facilities -a crucial goal for Somalia's health system,\u201d said HE Dr Fawziya Abikar Nur, Federal Minister of Health and Human Services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014870200539007783,
+          "perplexity": 68,
+          "sentence": "\u201cIn 2019, only 27% of Somalia's population had access to essential health services,\u201d said Dr Mamunur Rahman Malik, WHO Representative and Head of Mission to Somalia.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 9 May 2022 \u2013 In their continued and collective efforts to improve health system resilience, the Ministry of Health and Human Services of the Federal Government of Somalia, World Health Organization (WHO) and the Embassy of Italy have joined forces and officially launched a \u20ac3 million multi-year project entitled \u2018Improving essential health services in Somalia using a secondary hospital-based care approach.\u2019 The project is designed to improve delivery of essential health services at the secondary level care in Somalia by focusing on building strong and resilient hospital-based care at Hudur General Hospital in South West state and Dhusamareb General Hospital in Galmudug state \u2013 both of which are currently unable to meet the health care demand and needs of populations within their respective catchment areas. Developed under the leadership of the Federal Ministry of Health, in close partnership with WHO and the Italian Agency for Development Cooperation (AICS), the project aims to achieve universal health coverage (UHC) through strengthening hospital-based care for integrated delivery of secondary and critical care services, as well as improving hospital management system for better stewardship and effective service delivery. \u201cWe would like to express our sincere thanks to the Government of Italy for their very valuable support as they are a key donor supporting secondary care and hospital management in Somalia. This support will help Somalia to make strides in the provision of critical care for patients and strengthening of referral systems, as well as for improving the overall credibility of and trust in the public health facilities \u2013a crucial goal for Somalia\u2019s health system,\u201d said HE Dr Fawziya Abikar Nur, Federal Minister of Health and Human Services. \u201cIn 2019, only 27% of Somalia\u2019s population had access to essential health services,\u201d said Dr Mamunur Rahman Malik, WHO Representative and Head of Mission to Somalia.",
+  "date": "09 May 2022"
+}

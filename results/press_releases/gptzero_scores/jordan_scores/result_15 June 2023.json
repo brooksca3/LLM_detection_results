@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "61240973-9d82-4e6c-bd54-73bd7b1d6043",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17962035292222595,
+        "human": 0.8188197055749041,
+        "mixed": 0.0015599415028698788
+      },
+      "completely_generated_prob": 0.17962035292222595,
+      "confidence_category": "low",
+      "confidence_score": 0.8188197055749041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17962035292222595,
+          "human": 0.8188197055749041,
+          "mixed": 0.0015599415028698788
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.72357177734375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.4205545485019684,
+          "perplexity": 13,
+          "sentence": "Amman - The Ministry of Agriculture (MoA), in collaboration with the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO), is launching the first formative research focused on consumption practices that lead to food waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4330776333808899,
+          "perplexity": 45,
+          "sentence": "This research supports the No Food Waste Initiative - a national awareness campaign launched last year to address the critical issue of food waste in Jordan while promoting responsible consumption practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4255031645298004,
+          "perplexity": 48,
+          "sentence": "The research findings and insights will further guide the development of the national campaign by identifying target audiences, understanding consumption practices, identifying industries with high levels of food waste, and establishing impactful evidence-based interventions and initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.41732704639434814,
+          "perplexity": 67,
+          "sentence": "\u201cBy raising awareness about the economic and environmental consequences of food waste through evidence-based data, we inspire individuals, organizations, and the public to take ownership of and actively contribute to its reduction,\u201d said Laurene Goublet, WFP Deputy Country Director in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.40761634707450867,
+          "perplexity": 38,
+          "sentence": "\u201cReducing and preventing food waste is an important component of the National Food Security Strategy and contributes to achieving the UN Sustainable Development Goals.\u201d The staggering global facts on food waste highlight the urgency of this issue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3654862642288208,
+          "perplexity": 23,
+          "sentence": "Approximately one-third of all food produced for human consumption is wasted worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3681226968765259,
+          "perplexity": 22,
+          "sentence": "In Jordan, food waste is estimated at 93 kg per person per year, amounting to 955 thousand metric tons of food that could sustain 1.5 million people for an entire year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.34946879744529724,
+          "perplexity": 25,
+          "sentence": "Under the framework of the National Food Security Strategy (2022-2030), the Ministry of Agriculture, with the support of WFP and FAO, is working on multiple interventions to tackle food security challenges, including the No Food Waste Initiative and the first management information system on food security, among others.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman \u2013 The Ministry of Agriculture (MoA), in collaboration with the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO), is launching the first formative research focused on consumption practices that lead to food waste. This research supports the No Food Waste Initiative - a national awareness campaign launched last year to address the critical issue of food waste in Jordan while promoting responsible consumption practices. The research findings and insights will further guide the development of the national campaign by identifying target audiences, understanding consumption practices, identifying industries with high levels of food waste, and establishing impactful evidence-based interventions and initiatives. \u201cBy raising awareness about the economic and environmental consequences of food waste through evidence-based data, we inspire individuals, organizations, and the public to take ownership of and actively contribute to its reduction,\u201d said Laurene Goublet, WFP Deputy Country Director in Jordan. \u201cReducing and preventing food waste is an important component of the National Food Security Strategy and contributes to achieving the UN Sustainable Development Goals.\u201d The staggering global facts on food waste highlight the urgency of this issue. Approximately one-third of all food produced for human consumption is wasted worldwide. In Jordan, food waste is estimated at 93 kg per person per year, amounting to 955 thousand metric tons of food that could sustain 1.5 million people for an entire year. Under the framework of the National Food Security Strategy (2022-2030), the Ministry of Agriculture, with the support of WFP and FAO, is working on multiple interventions to tackle food security challenges, including the No Food Waste Initiative and the first management information system on food security, among others.",
+  "date": "15 June 2023"
+}

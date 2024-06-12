@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8fb43686-7fa0-4209-934e-ab76e6be218c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.059616088867188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011166108306497335,
+          "perplexity": 44,
+          "sentence": "Regional Director of the World Health Organization (WHO) European Region, Dr Hans Henri P. Kluge, visited Tajikistan from 30 October to 1 November 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001508447341620922,
+          "perplexity": 18,
+          "sentence": "During the visit, Dr Kluge presented an award to the President of Tajikistan, His Excellency Emomali Rahmon, in recognition of the Government's efforts to protect the health and wellbeing of the population by building a resilient health system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010776069248095155,
+          "perplexity": 54,
+          "sentence": "The official visit was an opportunity for Dr Kluge to meet His Excellency Emomali Rahmon, President of the Republic of Tajikistan, as well as discuss health priorities such as primary health care, human resources for health and vaccination with several high-level government officials, Chairman of the Majlisi Namoyandagon of Majlisi Oli, Mr. Mahmadtoir Zokirzoda, the Minister of Health and Social Protection of the Population Dr. Jamoliddin Abdullozoda and the Minister of Foreign Affairs, Mr. Sirojiddin Muhriddin.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001120279193855822,
+          "perplexity": 58,
+          "sentence": "The Regional Director also spoke with key partners and visited three health facilities in different parts of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01697652041912079,
+          "perplexity": 37,
+          "sentence": "At the end of his visit, Dr Kluge commented: \u201cI am delighted to be in Tajikistan this week, and to have seen first-hand the firm commitment to protect and promote health for all - from the highest level of Government to the health workers delivering care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01920231804251671,
+          "perplexity": 34,
+          "sentence": "My visit will further advance the World Health Organization's collaboration with the Government of Tajikistan, an important partner for us.\u201d Dr Kluge considered the meeting with His Excellency, President Emomali Rahmon, to be the highlight of his visit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022949302569031715,
+          "perplexity": 43,
+          "sentence": "They discussed about the importance of health investment, boosting the Primary Health Care system and access to essential medicines, prioritizing gender and reproductive health, and addressing non-communicable and communicable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014407644048333168,
+          "perplexity": 29,
+          "sentence": "In recognition of the efforts that the Government of Tajikistan has made to protect health and well-being and build a more resilient health system, the Regional Director presented His",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Regional Director of the World Health Organization (WHO) European Region, Dr Hans Henri P. Kluge, visited Tajikistan from 30 October to 1 November 2022. During the visit, Dr Kluge presented an award to the President of Tajikistan, His Excellency Emomali Rahmon, in recognition of the Government\u2019s efforts to protect the health and wellbeing of the population by building a resilient health system. The official visit was an opportunity for Dr Kluge to meet His Excellency Emomali Rahmon, President of the Republic of Tajikistan, as well as discuss health priorities such as primary health care, human resources for health and vaccination with several high-level government officials, Chairman of the Majlisi Namoyandagon of Majlisi Oli, Mr. Mahmadtoir Zokirzoda, the Minister of Health and Social Protection of the Population Dr. Jamoliddin Abdullozoda and the Minister of Foreign Affairs, Mr. Sirojiddin Muhriddin. The Regional Director also spoke with key partners and visited three health facilities in different parts of the country. At the end of his visit, Dr Kluge commented: \u201cI am delighted to be in Tajikistan this week, and to have seen first-hand the firm commitment to protect and promote health for all - from the highest level of Government to the health workers delivering care. My visit will further advance the World Health Organization\u2019s collaboration with the Government of Tajikistan, an important partner for us.\u201d Dr Kluge considered the meeting with His Excellency, President Emomali Rahmon, to be the highlight of his visit. They discussed about the importance of health investment, boosting the Primary Health Care system and access to essential medicines, prioritizing gender and reproductive health, and addressing non-communicable and communicable diseases. In recognition of the efforts that the Government of Tajikistan has made to protect health and well-being and build a more resilient health system, the Regional Director presented His",
+  "date": "01 November 2022"
+}

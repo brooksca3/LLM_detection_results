@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "da716df2-8ebd-439a-b292-2d93b085ae9c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.93351936340332,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012727899593301117,
+          "perplexity": 44,
+          "sentence": "Participants discuss the many challenges faced by Pakistani migrant workers and set out a strategy to recognize and enhance the skills and qualifications of returning workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013485652743838727,
+          "perplexity": 45,
+          "sentence": "ISLAMABAD, Pakistan (ILO News) - To many Pakistani migrant workers, the National Skills Passport initiative will prove to be a gateway to obtain recognition of their skills and ensure decent employment opportunities for returnee migrant workers, participants at a consultative dialogue concluded today in Islamabad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013743822637479752,
+          "perplexity": 39,
+          "sentence": "The National Skills Passport provides a comprehensive catalogue of an individual's skills, obtained through formal and informal channels, and provides a migrant worker with documentation of gained qualifications, skills, competencies, and experience in a systematic manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013575331831816584,
+          "perplexity": 85,
+          "sentence": "The National Skills Passport is linked with the Recognition of Prior Learning platform, which formally assesses, certifies, and recognizes the competencies, acquired through informal and unregulated processes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013885866792406887,
+          "perplexity": 23,
+          "sentence": "The consultation event was jointly organized by the International Labour Organization (ILO) and Employers Federation of Pakistan (EFP) in Islamabad in collaboration with the Ministry of Overseas Pakistanis and Human Resources Development (MOP&HRD) and was attended by representatives from Government departments, employers' and workers' organizations, and development partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012927938951179385,
+          "perplexity": 50,
+          "sentence": "The National Skills Passport initiative has been supported by the ILO project Governance of Labour Migration in South and Southeast Asia (GOALS), which is generously supported by the Swiss Agency for Development and Cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001254425005754456,
+          "perplexity": 54,
+          "sentence": "\u201cWe are pleased to acknowledge that the Government of Pakistan has taken commendable steps to protect the rights of migrant workers through digital registration, licensing of overseas employment promoters, authentication of foreign employment, grievance redressal mechanisms and welfare programmes for migrant workers and their families,\u201d said Geir Tonstol, Country Director of ILO Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013868148380424827,
+          "perplexity": 60,
+          "sentence": "\u201cSkilled labour is in increasing demand, including in the countries that received the largest share of Pakistan's migrant workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014414353063330054,
+          "perplexity": 69,
+          "sentence": "It is important to equip aspiring migrant workers with the right skill",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Participants discuss the many challenges faced by Pakistani migrant workers and set out a strategy to recognize and enhance the skills and qualifications of returning workers. ISLAMABAD, Pakistan (ILO News) \u2013 To many Pakistani migrant workers, the National Skills Passport initiative will prove to be a gateway to obtain recognition of their skills and ensure decent employment opportunities for returnee migrant workers, participants at a consultative dialogue concluded today in Islamabad. The National Skills Passport provides a comprehensive catalogue of an individual\u2019s skills, obtained through formal and informal channels, and provides a migrant worker with documentation of gained qualifications, skills, competencies, and experience in a systematic manner. The National Skills Passport is linked with the Recognition of Prior Learning platform, which formally assesses, certifies, and recognizes the competencies, acquired through informal and unregulated processes. The consultation event was jointly organized by the International Labour Organization (ILO) and Employers Federation of Pakistan (EFP) in Islamabad in collaboration with the Ministry of Overseas Pakistanis and Human Resources Development (MOP&HRD) and was attended by representatives from Government departments, employers\u2019 and workers\u2019 organizations, and development partners. The National Skills Passport initiative has been supported by the ILO project Governance of Labour Migration in South and Southeast Asia (GOALS), which is generously supported by the Swiss Agency for Development and Cooperation. \u201cWe are pleased to acknowledge that the Government of Pakistan has taken commendable steps to protect the rights of migrant workers through digital registration, licensing of overseas employment promoters, authentication of foreign employment, grievance redressal mechanisms and welfare programmes for migrant workers and their families,\u201d said Geir Tonstol, Country Director of ILO Pakistan. \u201cSkilled labour is in increasing demand, including in the countries that received the largest share of Pakistan\u2019s migrant workers. It is important to equip aspiring migrant workers with the right skill",
+  "date": "08 November 2023"
+}

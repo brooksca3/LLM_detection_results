@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "300203cd-096d-44ea-8602-0ece4f975544",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07488156391803412,
+        "human": 0.9243444664290662,
+        "mixed": 0.0007739696528995774
+      },
+      "completely_generated_prob": 0.07488156391803412,
+      "confidence_category": "medium",
+      "confidence_score": 0.9243444664290662,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07488156391803412,
+          "human": 0.9243444664290662,
+          "mixed": 0.0007739696528995774
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.80276107788086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11318321526050568,
+          "perplexity": 41,
+          "sentence": "Bishkek, September 4 - Today, the Kyrgyz Government hosted national consultations to shape Kyrgyzstan's commitments for the upcoming Sustainable Development Goals (SDG) Summit* in New York on 18-19 September 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12306802719831467,
+          "perplexity": 33,
+          "sentence": "Ms. Antje Grawe, the UN Resident Coordinator, on behalf of the United Nations Country Team in the Kyrgyz Republic, commended the Kyrgyz Government for its proactive approach in identifying SDG accelerators and following up on national commitments taken over the past years related to poverty reduction, education, climate change, the promotion of a green economy, food security, human rights and gender equality, among other.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13464535772800446,
+          "perplexity": 34,
+          "sentence": "She also commended the engagement of multiple stakeholders, including civil society, the private sector, and development partners in the identification of SDG commitments, which underscores Kyrgyzstan's dedication to both achieving the SDGs by 2030 and the creation of an enabling environment for SDG progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12263873219490051,
+          "perplexity": 24,
+          "sentence": "Kyrgyzstan's integration of SDGs into national policies and strategies, such as the National Development Strategy 2040 and the National Development Programme 2026, reflects the country's recognition of the SDGs as integral to its long-term development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10781415551900864,
+          "perplexity": 97,
+          "sentence": "Its commitments have been evident in its first Voluntary National Review and the establishment of a National SDG Coordinating Committee and an equivalent in Parliament.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12118422985076904,
+          "perplexity": 24,
+          "sentence": "Notably, Kyrgyzstan has made significant progress in numerous areas since the adoption of the SDGs in 2015.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11355993896722794,
+          "perplexity": 52,
+          "sentence": "The Government's envisaged focus on the reduction of poverty and inequalities, education system transformation and the promotion of an inclusive green economy including climate resilience aligns with the objective of leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1342393010854721,
+          "perplexity": 35,
+          "sentence": "The UN in Kyrgyzstan remains committed to continue to provide support to building a more sustainable and equitable future for all.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, September 4 \u2013 Today, the Kyrgyz Government hosted national consultations to shape Kyrgyzstan's commitments for the upcoming Sustainable Development Goals (SDG) Summit* in New York on 18-19 September 2023. Ms. Antje Grawe, the UN Resident Coordinator, on behalf of the United Nations Country Team in the Kyrgyz Republic, commended the Kyrgyz Government for its proactive approach in identifying SDG accelerators and following up on national commitments taken over the past years related to poverty reduction, education, climate change, the promotion of a green economy, food security, human rights and gender equality, among other. She also commended the engagement of multiple stakeholders, including civil society, the private sector, and development partners in the identification of SDG commitments, which underscores Kyrgyzstan's dedication to both achieving the SDGs by 2030 and the creation of an enabling environment for SDG progress. Kyrgyzstan\u2019s integration of SDGs into national policies and strategies, such as the National Development Strategy 2040 and the National Development Programme 2026, reflects the country's recognition of the SDGs as integral to its long-term development. Its commitments have been evident in its first Voluntary National Review and the establishment of a National SDG Coordinating Committee and an equivalent in Parliament. Notably, Kyrgyzstan has made significant progress in numerous areas since the adoption of the SDGs in 2015. The Government's envisaged focus on the reduction of poverty and inequalities, education system transformation and the promotion of an inclusive green economy including climate resilience aligns with the objective of leaving no one behind. The UN in Kyrgyzstan remains committed to continue to provide support to building a more sustainable and equitable future for all.",
+  "date": "04 September 2023"
+}

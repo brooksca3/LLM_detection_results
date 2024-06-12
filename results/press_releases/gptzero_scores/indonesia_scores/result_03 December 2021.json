@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "edb4d170-752e-4eef-b35d-2f56dc295e8a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022596518129625254,
+        "human": 0.9593262673666747,
+        "mixed": 0.018077214503700204
+      },
+      "completely_generated_prob": 0.022596518129625254,
+      "confidence_category": "high",
+      "confidence_score": 0.9593262673666747,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022596518129625254,
+          "human": 0.9593262673666747,
+          "mixed": 0.018077214503700204
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 453.46197509765625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003933753352612257,
+          "perplexity": 496,
+          "sentence": "Perwakilan Perserikatan Bangsa-Bangsa (PBB) di Indonesia hari ini meluncurkan program kerjasama lembaga PBB yang berjudul Mempercepat Investasi Tujuan Pembangunan Berkelanjutan (TPB) di Indonesia/Accelerating Sustainable Development Goals (SDGs) Investment in Indonesia - ASSIST, membuka jalan bagi mekanisme investasi dan pembiayaan baru yang sangat dibutuhkan untuk mengisi kesenjangan pendanaan SDGs di Indonesia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036231689155101776,
+          "perplexity": 918,
+          "sentence": "Program ini memanfaatkan berbagai instrumen pembiayaan inovatif dari sumber pemerintah dan non-pemerintah (misalnya, publik, swasta, dan Syariah) untuk mengisi kesenjangan pendanaan SDGs sebesar 4,7 triliun dolar AS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033545400947332382,
+          "perplexity": 191,
+          "sentence": "Dipimpin Kepala Perwakilan PBB di Indonesia, Valerie Julliand, empat lembaga PBB yaitu United Nations Development Programme (UNDP), United Nations Environment Programme (UNEP), United Nations Children's Fund (UNICEF), dan United Nations Industrial Development Organization (UNIDO) bekerja bersama Pemerintah Indonesia untuk menutup kesenjangan pendanaan untuk SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036937163677066565,
+          "perplexity": 1075,
+          "sentence": "Pada kesempatan ini, Julliand mengatakan, \u201cPencapaian SDGs membutuhkan sumber daya dan dana yang sangat besar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003973168320953846,
+          "perplexity": 287,
+          "sentence": "Kuncinya ada pada pemanfaatan pembiayaan yang telah ada dan sumber pembiayaan baru.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004134874790906906,
+          "perplexity": 1243,
+          "sentence": "Kita harus meneruskan semangat kolaborasi dan kemitraan untuk Dekade Aksi ini.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00406913086771965,
+          "perplexity": 1730,
+          "sentence": "Peluncuran program ini dilakukan hanya dua hari setelah Indonesia menjadi Presiden G20.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004790265578776598,
+          "perplexity": 512,
+          "sentence": "Ini adalah saat yang tepat untuk membahas pembiayaan SDGs, yang telah menjadi komitmen Indonesia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004570105578750372,
+          "perplexity": 646,
+          "sentence": "Saya mengucapkan terima kasih kepada Pemerintah Indonesia atas kerjasamanya dalam pelaksanaan Program ASSIST.\u201d Di bawah program ini, PBB akan berkolaborasi dengan pemerintah untuk penerbitan obligasi dan sukuk tematik bertema SDGs, instrumen blended finance, dan pinjaman terkait SDGs bersama pemangku kepentingan lainnya yang meliputi lembaga keuangan lokal, mitra pembangunan, serta asosiasi dan aktor non-pemerintah.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035442339722067118,
+          "perplexity": 873,
+          "sentence": "Program ini juga memberikan peningkatan kapasitas bagi pemangku kepentingan terkait, termasuk Usaha Kecil dan Menengah (UKM) yang dipimpin oleh perempuan dan pemuda, dan memberi mereka pengetahuan untuk mengakses pembiayaan guna mendorong bisnis hijau dan berkelanjutan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033661052584648132,
+          "perplexity": 1069,
+          "sentence": "Bapak Luky Alfirman, Direktur Jenderal Pengelolaan Pembiayaan dan Risiko Kementerian Keuangan Republik Indonesia menyampaikan \u201cSaya percaya program ini akan meningkatkan kolaborasi lintas pemangku kepentingan, mendorong lebih banyak",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Perwakilan Perserikatan Bangsa-Bangsa (PBB) di Indonesia hari ini meluncurkan program kerjasama lembaga PBB yang berjudul Mempercepat Investasi Tujuan Pembangunan Berkelanjutan (TPB) di Indonesia/Accelerating Sustainable Development Goals (SDGs) Investment in Indonesia \u2013 ASSIST, membuka jalan bagi mekanisme investasi dan pembiayaan baru yang sangat dibutuhkan untuk mengisi kesenjangan pendanaan SDGs di Indonesia. Program ini memanfaatkan berbagai instrumen pembiayaan inovatif dari sumber pemerintah dan non-pemerintah (misalnya, publik, swasta, dan Syariah) untuk mengisi kesenjangan pendanaan SDGs sebesar 4,7 triliun dolar AS. Dipimpin Kepala Perwakilan PBB di Indonesia, Valerie Julliand, empat lembaga PBB yaitu United Nations Development Programme (UNDP), United Nations Environment Programme (UNEP), United Nations Children's Fund (UNICEF), dan United Nations Industrial Development Organization (UNIDO) bekerja bersama Pemerintah Indonesia untuk menutup kesenjangan pendanaan untuk SDGs. Pada kesempatan ini, Julliand mengatakan, \u201cPencapaian SDGs membutuhkan sumber daya dan dana yang sangat besar. Kuncinya ada pada pemanfaatan pembiayaan yang telah ada dan sumber pembiayaan baru. Kita harus meneruskan semangat kolaborasi dan kemitraan untuk Dekade Aksi ini. Peluncuran program ini dilakukan hanya dua hari setelah Indonesia menjadi Presiden G20. Ini adalah saat yang tepat untuk membahas pembiayaan SDGs, yang telah menjadi komitmen Indonesia. Saya mengucapkan terima kasih kepada Pemerintah Indonesia atas kerjasamanya dalam pelaksanaan Program ASSIST.\u201d Di bawah program ini, PBB akan berkolaborasi dengan pemerintah untuk penerbitan obligasi dan sukuk tematik bertema SDGs, instrumen blended finance, dan pinjaman terkait SDGs bersama pemangku kepentingan lainnya yang meliputi lembaga keuangan lokal, mitra pembangunan, serta asosiasi dan aktor non-pemerintah. Program ini juga memberikan peningkatan kapasitas bagi pemangku kepentingan terkait, termasuk Usaha Kecil dan Menengah (UKM) yang dipimpin oleh perempuan dan pemuda, dan memberi mereka pengetahuan untuk mengakses pembiayaan guna mendorong bisnis hijau dan berkelanjutan. Bapak Luky Alfirman, Direktur Jenderal Pengelolaan Pembiayaan dan Risiko Kementerian Keuangan Republik Indonesia menyampaikan \u201cSaya percaya program ini akan meningkatkan kolaborasi lintas pemangku kepentingan, mendorong lebih banyak",
+  "date": "03 December 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2f2aec54-1a07-4551-9ad7-f8d225f419bf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.32570457458496,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00037040215102024376,
+          "perplexity": 38,
+          "sentence": "GENEVA --Adoption of the controversial 'Foreign Agents' law by the Georgian Parliament will have a chilling effect on civil society, journalists and human rights defenders and sends an extremely negative signal about the country's commitment to human rights, UN experts* said today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029069193988107145,
+          "perplexity": 63,
+          "sentence": "The experts said that despite the withdrawal of an identical draft law in March 2023, following large-scale protests, the Georgian Parliament in April 2024 considered a new draft of the Law on Transparency of Foreign Influence in three expedited readings and proceeded with its adoption on 14 May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003673644387163222,
+          "perplexity": 29,
+          "sentence": "The move follows assurances provided by high-ranking government officials and MPs to the Special Rapporteur on the situation of human rights defenders during her country visit in November 2023 that the draft law would not be reintroduced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003777448437176645,
+          "perplexity": 90,
+          "sentence": "\u201cWe are shocked that even in light of clear opposition by a significant segment of Georgia's people, the law was expedited through Parliament with media and civil society representatives denied access to the proceedings,\u201d the experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033476779935881495,
+          "perplexity": 42,
+          "sentence": "\u201cWe are seriously concerned at the speed of deliberations in Parliament, which appear to have taken place without inclusive, transparent and genuine consultations with civil society, society at large and opposition parties,\u201d said Mary Lawlor, the Special Rapporteur on the situation of human rights defenders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004177973896730691,
+          "perplexity": 41,
+          "sentence": "The Law on Transparency of Foreign Influence, more commonly known as the 'foreign agents bill' requires media and nongovernmental organisations and other nonprofits to register as \u201cpursuing the interests of a foreign power\u201d if they receive more than 20% of their funding from abroad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007710636127740145,
+          "perplexity": 26,
+          "sentence": "Georgia's opposition has denounced the legislation as an effort to crackdown on independent media, civil society, human rights activists and government critics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011152655351907015,
+          "perplexity": 33,
+          "sentence": "The experts said they had communicated their concerns to the government about the draft law and its expected destructive effect on civil society in Georgia.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA --Adoption of the controversial \u2018Foreign Agents\u2019 law by the Georgian Parliament will have a chilling effect on civil society, journalists and human rights defenders and sends an extremely negative signal about the country\u2019s commitment to human rights, UN experts* said today. The experts said that despite the withdrawal of an identical draft law in March 2023, following large-scale protests, the Georgian Parliament in April 2024 considered a new draft of the Law on Transparency of Foreign Influence in three expedited readings and proceeded with its adoption on 14 May. The move follows assurances provided by high-ranking government officials and MPs to the Special Rapporteur on the situation of human rights defenders during her country visit in November 2023 that the draft law would not be reintroduced. \u201cWe are shocked that even in light of clear opposition by a significant segment of Georgia\u2019s people, the law was expedited through Parliament with media and civil society representatives denied access to the proceedings,\u201d the experts said. \u201cWe are seriously concerned at the speed of deliberations in Parliament, which appear to have taken place without inclusive, transparent and genuine consultations with civil society, society at large and opposition parties,\u201d said Mary Lawlor, the Special Rapporteur on the situation of human rights defenders. The Law on Transparency of Foreign Influence, more commonly known as the \u2018foreign agents bill\u2019 requires media and nongovernmental organisations and other nonprofits to register as \u201cpursuing the interests of a foreign power\u201d if they receive more than 20% of their funding from abroad. Georgia\u2019s opposition has denounced the legislation as an effort to crackdown on independent media, civil society, human rights activists and government critics. The experts said they had communicated their concerns to the government about the draft law and its expected destructive effect on civil society in Georgia.",
+  "date": "16 May 2024"
+}

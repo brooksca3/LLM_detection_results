@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "28d6bc92-40b4-4e0e-8048-e24f5a91a34c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03001131912628157,
+        "human": 0.9475127065009751,
+        "mixed": 0.022475974372743374
+      },
+      "completely_generated_prob": 0.03001131912628157,
+      "confidence_category": "medium",
+      "confidence_score": 0.9475127065009751,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03001131912628157,
+          "human": 0.9475127065009751,
+          "mixed": 0.022475974372743374
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.487052917480469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02511584758758545,
+          "perplexity": 33,
+          "sentence": "On this special celebration, the UN Peacekeeping was given a prominent acknowledgement and the UN Resident Coordinator Tapan Mishra had the privilege to attend the ceremony to hand over the Medals of Honour to the Mongolian peacekeepers who served in the UN Peacekeeping Operations in the Republic of South Sudan and the Islamic Republic of Afghanistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016218354925513268,
+          "perplexity": 45,
+          "sentence": "Mongolia is among the first 24 nations that send troops to the UN's Peacekeeping missions with the deployment of 18,144 peacekeepers to date, 732 of whom are female personnel, since 2002 when Mongolia sent its first two military observers to the Democratic Republic of Congo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013115239329636097,
+          "perplexity": 16,
+          "sentence": "Currently, 1100 Mongolian peacekeepers are serving in the UN Peacekeeping Missions to provide security and peacebuilding support in the world's hot conflict zones including the Republic of South Sudan, Islamic Republic of Afghanistan, Abyei province of the Republic of Sudan, Yemen, Western Sahara, and the Democratic Republic of Congo, according to the General Staff of the Mongolian Armed Forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0234689824283123,
+          "perplexity": 35,
+          "sentence": "In his congratulatory message, Major General D. Ganzorig, Chief of the General Staff of the Armed Forces of Mongolia highlighted that the Mongolian military personnel are gaining more international recognition thanks to their commitment to world peacebuilding with their professional qualifications and skills, as well as their dedication and courage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.035352304577827454,
+          "perplexity": 33,
+          "sentence": "Tapan Mishra, the UN Resident Coordinator in Mongolia expressed his gratitude to the Mongolian Armed Forces on behalf of the UN Peacekeeping for their important contribution to establish peace and security in countries that are navigating the difficult path from conflict to peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03440138325095177,
+          "perplexity": 49,
+          "sentence": "On his congratulatory note, Mr. Mishra highlighted the invaluable sacrifice made by the Mongolian personnel while on their mission to pave the road to peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03387105092406273,
+          "perplexity": 23,
+          "sentence": "He highlighted that the UN pays tribute to all the men and women who have served in United Nations peacekeeping",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On this special celebration, the UN Peacekeeping was given a prominent acknowledgement and the UN Resident Coordinator Tapan Mishra had the privilege to attend the ceremony to hand over the Medals of Honour to the Mongolian peacekeepers who served in the UN Peacekeeping Operations in the Republic of South Sudan and the Islamic Republic of Afghanistan. Mongolia is among the first 24 nations that send troops to the UN\u2019s Peacekeeping missions with the deployment of 18,144 peacekeepers to date, 732 of whom are female personnel, since 2002 when Mongolia sent its first two military observers to the Democratic Republic of Congo. Currently, 1100 Mongolian peacekeepers are serving in the UN Peacekeeping Missions to provide security and peacebuilding support in the world\u2019s hot conflict zones including the Republic of South Sudan, Islamic Republic of Afghanistan, Abyei province of the Republic of Sudan, Yemen, Western Sahara, and the Democratic Republic of Congo, according to the General Staff of the Mongolian Armed Forces. In his congratulatory message, Major General D. Ganzorig, Chief of the General Staff of the Armed Forces of Mongolia highlighted that the Mongolian military personnel are gaining more international recognition thanks to their commitment to world peacebuilding with their professional qualifications and skills, as well as their dedication and courage. Tapan Mishra, the UN Resident Coordinator in Mongolia expressed his gratitude to the Mongolian Armed Forces on behalf of the UN Peacekeeping for their important contribution to establish peace and security in countries that are navigating the difficult path from conflict to peace. On his congratulatory note, Mr. Mishra highlighted the invaluable sacrifice made by the Mongolian personnel while on their mission to pave the road to peace and security. He highlighted that the UN pays tribute to all the men and women who have served in United Nations peacekeeping",
+  "date": "10 May 2021"
+}

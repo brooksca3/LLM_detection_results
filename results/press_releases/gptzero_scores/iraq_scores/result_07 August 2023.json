@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4d05ba4a-24e1-435d-8ad4-465d3a2ced85",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 740.302978515625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04942600429058075,
+          "perplexity": 53,
+          "sentence": "Sinjar, Iraq - On Thursday, 3 August 2023, nine years since the Yezidi genocide perpetrated by Daesh, survivor groups in Sinjar came together to mark the anniversary by holding their first ever public activities: a candle-lit vigil honouring the thousands who lost their lives, and a community afforestation campaign - a watershed moment towards the amplification of youth voices and leadership in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04932515323162079,
+          "perplexity": 43,
+          "sentence": "Survivors' Voices Network - initially launched in 2021 for Yezidi survivors residing in Iraqi Kurdistan and now expanded to include all Iraqi survivors who were held captive by Daesh - held a silent vigil in Sinjar, where participants lit candles to pay tribute to those who perished in the aftermath of the attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.054006438702344894,
+          "perplexity": 30,
+          "sentence": "This event served as a powerful reminder of the resilience and strength of the survivors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04922240599989891,
+          "perplexity": 39,
+          "sentence": "\u201cIt is challenging for us to participate in these activities, but we must make the effort and try.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050275612622499466,
+          "perplexity": 187,
+          "sentence": "All the pain and wounds converged upon us on this day,\u201d said Delal*, a member of the Network.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.045045673847198486,
+          "perplexity": 56,
+          "sentence": "\u201cWe want justice, the prosecution of Daesh members, the reconstruction of our regions, the unveiling of mass graves and the relentless search for missing individuals.\u201d In parallel, Hope Givers - a group of young male Yezidi survivors once held captive by Daesh and who now work together to bring attention to the plight of boys and young men who survived Daesh indoctrination attempts and enslavement - carried out an afforestation campaign in a village in Sinjar district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.047924406826496124,
+          "perplexity": 34,
+          "sentence": "The initiative aimed to transform the village's landscape by planting trees along public streets and homes, creating a greener environment and providing shade in the midst of a climate change-induced heat wave - thereby encouraging residents to be stewards of the environment and showing those still displaced that there is hope in return.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05195450410246849,
+          "perplexity": 2152,
+          "sentence": "\u201cLet this day",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sinjar, Iraq \u2013 On Thursday, 3 August 2023, nine years since the Yezidi genocide perpetrated by Daesh, survivor groups in Sinjar came together to mark the anniversary by holding their first ever public activities: a candle-lit vigil honouring the thousands who lost their lives, and a community afforestation campaign \u2013 a watershed moment towards the amplification of youth voices and leadership in Iraq. Survivors' Voices Network \u2013 initially launched in 2021 for Yezidi survivors residing in Iraqi Kurdistan and now expanded to include all Iraqi survivors who were held captive by Daesh \u2013 held a silent vigil in Sinjar, where participants lit candles to pay tribute to those who perished in the aftermath of the attacks. This event served as a powerful reminder of the resilience and strength of the survivors. \u201cIt is challenging for us to participate in these activities, but we must make the effort and try. All the pain and wounds converged upon us on this day,\u201d said Delal*, a member of the Network. \u201cWe want justice, the prosecution of Daesh members, the reconstruction of our regions, the unveiling of mass graves and the relentless search for missing individuals.\u201d In parallel, Hope Givers \u2013 a group of young male Yezidi survivors once held captive by Daesh and who now work together to bring attention to the plight of boys and young men who survived Daesh indoctrination attempts and enslavement \u2013 carried out an afforestation campaign in a village in Sinjar district. The initiative aimed to transform the village's landscape by planting trees along public streets and homes, creating a greener environment and providing shade in the midst of a climate change-induced heat wave \u2013 thereby encouraging residents to be stewards of the environment and showing those still displaced that there is hope in return. \u201cLet this day",
+  "date": "07 August 2023"
+}

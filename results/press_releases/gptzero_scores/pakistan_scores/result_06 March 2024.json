@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d840fc96-7c59-4e41-b657-c3aeca753fd3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03174011846663935,
+        "human": 0.9270573333830049,
+        "mixed": 0.04120254815035577
+      },
+      "completely_generated_prob": 0.03174011846663935,
+      "confidence_category": "medium",
+      "confidence_score": 0.9270573333830049,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03174011846663935,
+          "human": 0.9270573333830049,
+          "mixed": 0.04120254815035577
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.70838165283203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.07341468334197998,
+          "perplexity": 30,
+          "sentence": "ILO - MEDIA ADVISORY: Brown Bag Lunch: Towards a more inclusive world of work without violence and harassment UNICEF - PRESS RELEASE: ADB and UNICEF join hands to strengthen climate resilient water and sanitation services in two major cities of Pakistan Brown Bag Lunch: Towards a more inclusive world of work without violence and harassment What: The International Labour Organization cordially invites you to a panel discussion to learn about the challenges of violence and harassment in the world of work and to examine how laws and policy measures are required to shape a future of work based on dignity and respect for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08855787664651871,
+          "perplexity": 32,
+          "sentence": "The session will provide a platform for knowledge-sharing among stakeholders from government, social partners, civil society, development partners, and gender equality experts on effective ways to make workplaces more inclusive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08259695768356323,
+          "perplexity": 40,
+          "sentence": "Discrimination, violence, and harassment perpetuate inequalities in the world of work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08008422702550888,
+          "perplexity": 42,
+          "sentence": "The ILO has established a global standard aimed at ending violence and harassment in the world of work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.049996644258499146,
+          "perplexity": 30,
+          "sentence": "Convention No 190 is the first international treaty to recognize the right of everyone to a world of work free from violence and harassment, including gender-based violence and harassment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00735283549875021,
+          "perplexity": 20,
+          "sentence": "ADB and UNICEF join hands to strengthen climate resilient water and sanitation services in two major cities of Pakistan Islamabad, Pakistan, 6 March 2024 \u1173 The Asian Development Bank (ADB) and the United Nations Children's Fund (UNICEF) today signed a Letter of Understanding (LOU) to collaborate on Water, Sanitation and Hygiene (WASH) and solid waste management interventions under an ADB-funded project in the cities of Rawalpindi and Bahawalpur in Punjab province of Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004622964654117823,
+          "perplexity": 30,
+          "sentence": "The agreement was signed by Yong Ye, ADB Country Director for Pakistan, and Abdullah Fadil, UNICEF's Representative in Pakistan, at UNICEF's Pakistan office in Islamabad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038351223338395357,
+          "perplexity": 157,
+          "sentence": "\u201cADB and UNICEF are joining forces and renewing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "ILO - MEDIA ADVISORY : Brown Bag Lunch: Towards a more inclusive world of work without violence and harassment UNICEF - PRESS RELEASE : ADB and UNICEF join hands to strengthen climate resilient water and sanitation services in two major cities of Pakistan Brown Bag Lunch: Towards a more inclusive world of work without violence and harassment What: The International Labour Organization cordially invites you to a panel discussion to learn about the challenges of violence and harassment in the world of work and to examine how laws and policy measures are required to shape a future of work based on dignity and respect for all. The session will provide a platform for knowledge-sharing among stakeholders from government, social partners, civil society, development partners, and gender equality experts on effective ways to make workplaces more inclusive. Discrimination, violence, and harassment perpetuate inequalities in the world of work. The ILO has established a global standard aimed at ending violence and harassment in the world of work. Convention No 190 is the first international treaty to recognize the right of everyone to a world of work free from violence and harassment, including gender-based violence and harassment. ADB and UNICEF join hands to strengthen climate resilient water and sanitation services in two major cities of Pakistan Islamabad, Pakistan, 6 March 2024 \u2014 The Asian Development Bank (ADB) and the United Nations Children\u2019s Fund (UNICEF) today signed a Letter of Understanding (LOU) to collaborate on Water, Sanitation and Hygiene (WASH) and solid waste management interventions under an ADB-funded project in the cities of Rawalpindi and Bahawalpur in Punjab province of Pakistan. The agreement was signed by Yong Ye, ADB Country Director for Pakistan, and Abdullah Fadil, UNICEF\u2019s Representative in Pakistan, at UNICEF\u2019s Pakistan office in Islamabad. \u201cADB and UNICEF are joining forces and renewing",
+  "date": "06 March 2024"
+}

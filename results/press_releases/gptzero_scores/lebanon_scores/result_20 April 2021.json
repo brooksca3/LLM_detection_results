@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9a3fc31f-ea25-4903-9d98-9a09fba5494f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.16568660736084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00038779430906288326,
+          "perplexity": 66,
+          "sentence": "By using bikes, users can choose an alternative mode of transportation, that is not only green but can decrease exposure to COVID-19, while reducing traffic congestion, accidents and pollution in the city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002764745440799743,
+          "perplexity": 88,
+          "sentence": "\u201cThis project and its second phase - the launching of a \u201cPark and Ride\u201d - a low-cost and accessible bus shuttle service and parking lot, are key entry points to introducing alternative transportation modalities - for all population groups in the congested city of Tyre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002853149198926985,
+          "perplexity": 54,
+          "sentence": "The hope is to promote a culture of green commuting, that can contribute to long term benefits of improved health and well-being of the bikeshare users and improved air quality,\u201d said Taina Christiansen, Head of the UN-Habitat Lebanon Country Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025491724954918027,
+          "perplexity": 49,
+          "sentence": "The bike stations are one of the activities within the City-City Partnership whose main objectives are to: (1) enhance the technical and human resource capacities of Tyre's Regional Technical Office - a coordinating body established by UN-Habitat during project implementation that brings public and civil local actors together to address their designated area's needs; (2) facilitate knowledge exchange between the cities of Tyre and Zurich through workshops and dialogue; and, (3) implement tangible projects that respond to the city's needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024876458337530494,
+          "perplexity": 61,
+          "sentence": "\u201cI am very delighted to see that this cooperation that has started in 2017 is now established and first tangible results such as the bike rental station are being implemented.\u201d said Corine Mauch, Mayor of Zurich, Switzerland The City-to-City project partnership between Zurich and Tyre municipalities began in 2017, aiming at supporting the Municipality of Tyre in coping with the effects of the Syrian refugee crisis in the city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027916464023292065,
+          "perplexity": 74,
+          "sentence": "This project partnership is expected to improve the performance of Tyre and achieve a long-term positive impact in the field of soft mobility through sharing the experiences between both cities to address the needs",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "By using bikes, users can choose an alternative mode of transportation, that is not only green but can decrease exposure to COVID-19, while reducing traffic congestion, accidents and pollution in the city. \u201cThis project and its second phase \u2013 the launching of a \u201cPark and Ride\u201d \u2013 a low-cost and accessible bus shuttle service and parking lot, are key entry points to introducing alternative transportation modalities \u2013 for all population groups in the congested city of Tyre. The hope is to promote a culture of green commuting, that can contribute to long term benefits of improved health and well-being of the bikeshare users and improved air quality,\u201d said Taina Christiansen, Head of the UN-Habitat Lebanon Country Programme. The bike stations are one of the activities within the City-City Partnership whose main objectives are to: (1) enhance the technical and human resource capacities of Tyre\u2019s Regional Technical Office \u2013 a coordinating body established by UN-Habitat during project implementation that brings public and civil local actors together to address their designated area\u2019s needs; (2) facilitate knowledge exchange between the cities of Tyre and Zurich through workshops and dialogue; and, (3) implement tangible projects that respond to the city\u2019s needs. \u201cI am very delighted to see that this cooperation that has started in 2017 is now established and first tangible results such as the bike rental station are being implemented.\u201d said Corine Mauch, Mayor of Zurich, Switzerland The City-to-City project partnership between Zurich and Tyre municipalities began in 2017, aiming at supporting the Municipality of Tyre in coping with the effects of the Syrian refugee crisis in the city. This project partnership is expected to improve the performance of Tyre and achieve a long-term positive impact in the field of soft mobility through sharing the experiences between both cities to address the needs",
+  "date": "20 April 2021"
+}

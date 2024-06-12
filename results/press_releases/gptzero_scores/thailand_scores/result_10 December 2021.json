@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "57c2e529-20ea-4c78-9efb-7bb57753060e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 146.66799926757812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005325337406247854,
+          "perplexity": 33,
+          "sentence": "Bangkok - Cases of avian influenza are rising globally, with 272 additional events of outbreaks in birds recorded worldwide by the Food and Agriculture Organization of the United Nations (FAO) in little more than a month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004885891103185713,
+          "perplexity": 452,
+          "sentence": "The FAO data records the increase since 27 October 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005751369171775877,
+          "perplexity": 14,
+          "sentence": "Increased avian influenza activity has been seen in the Asia-Pacific region, but also in Africa and Europe during the past year and it is suspected that wild birds may play a role in spreading the virus globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000534765247721225,
+          "perplexity": 19,
+          "sentence": "In addition, according to the World Health Organization (WHO), influenza A(H5N6) has caused 52 human infections in the Asia-Pacific region since 2014, half of which have occurred in 2021, and mostly in people with close contact with poultry prior to infection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005488108145073056,
+          "perplexity": 85,
+          "sentence": "\u201cAvian influenza viruses are constantly evolving, and we must be vigilant to detact new subtypes of the virus that could devastate poultry production systems in the region or infect humans, which can lead to a pandemic,\u201d said FAO Emergency Centre for Transboundary Animal Diseases (ECTAD) Regional Manager Kachen Wongsathapornchai.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005549996858462691,
+          "perplexity": 33,
+          "sentence": "\u201cThere is an urgent need to better share information on what strains of influenza circulate in Asia and ensure countries take the necessary steps to protect the public health and the livelihoods of their communities.\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048473631613887846,
+          "perplexity": 25,
+          "sentence": "In response to this situation, FAO ECTAD has been consulting with more than 40 experts on avian influenza viruses to discuss what can be done to improve avian influenza surveillance and early warning systems in the Asia-Pacific region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005754233570769429,
+          "perplexity": 106,
+          "sentence": "The ideal early warning system: better data drive smarter decisions During the consultations, FAO and various experts emphasized the importance of information sharing to improve early warning, prevent the virus' spread and minimize the global impacts of avian influenza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004454153822734952,
+          "perplexity": 244,
+          "sentence": "\u201cBetter data would have helped countries and the international community determine preparedness and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bangkok \u2013 Cases of avian influenza are rising globally, with 272 additional events of outbreaks in birds recorded worldwide by the Food and Agriculture Organization of the United Nations (FAO) in little more than a month. The FAO data records the increase since 27 October 2021. Increased avian influenza activity has been seen in the Asia-Pacific region, but also in Africa and Europe during the past year and it is suspected that wild birds may play a role in spreading the virus globally. In addition, according to the World Health Organization (WHO), influenza A(H5N6) has caused 52 human infections in the Asia-Pacific region since 2014, half of which have occurred in 2021, and mostly in people with close contact with poultry prior to infection. \u201cAvian influenza viruses are constantly evolving, and we must be vigilant to detact new subtypes of the virus that could devastate poultry production systems in the region or infect humans, which can lead to a pandemic,\u201d said FAO Emergency Centre for Transboundary Animal Diseases (ECTAD) Regional Manager Kachen Wongsathapornchai. \u201cThere is an urgent need to better share information on what strains of influenza circulate in Asia and ensure countries take the necessary steps to protect the public health and the livelihoods of their communities.\u201d he added. In response to this situation, FAO ECTAD has been consulting with more than 40 experts on avian influenza viruses to discuss what can be done to improve avian influenza surveillance and early warning systems in the Asia-Pacific region. The ideal early warning system: better data drive smarter decisions During the consultations, FAO and various experts emphasized the importance of information sharing to improve early warning, prevent the virus\u2019 spread and minimize the global impacts of avian influenza. \u201cBetter data would have helped countries and the international community determine preparedness and",
+  "date": "10 December 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8ff7cbaf-2ac0-4dc6-bb9a-279ebf7a36ca",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05169036241132647,
+        "human": 0.9476566442076518,
+        "mixed": 0.0006529933810216378
+      },
+      "completely_generated_prob": 0.05169036241132647,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476566442076518,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05169036241132647,
+          "human": 0.9476566442076518,
+          "mixed": 0.0006529933810216378
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 65.04058837890625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.013769705779850483,
+          "perplexity": 35,
+          "sentence": "MASERU - The United Nations World Food Programme (WFP) has welcomed the European Union (EU) contribution of \u0404 1 million (equivalent to LSL 17 million) that will help meet the needs of 14,760 people through cash transfers for a period of six months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012628627941012383,
+          "perplexity": 239,
+          "sentence": "This follows a contribution of \u0404 2.8 million in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014103902503848076,
+          "perplexity": 125,
+          "sentence": "The funding, provided by the EU's Civil Protection and Humanitarian Aid Operations (ECHO) will be used to reach families worst affected by the impacts of rising climate shocks, food prices and the prolonged effects of COVID-19 in the capital Maseru and Qacha's Nek districts; including families badly affected by recent windstorms in Sehlaba-Thebe, Qacha`s Nek.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01771932654082775,
+          "perplexity": 63,
+          "sentence": "Each household will receive the equivalent of \u0404 54 in cash, per month, allowing them to buy food items from local markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02072465606033802,
+          "perplexity": 87,
+          "sentence": "\u201cThe EU continues to support partners such as WFP in order to provide life-saving food assistance to the most vulnerable people suffering the effects of climate shocks and the COVID-19 pandemic\u201d said Ms. Paola Amadei, EU Ambassador to Lesotho.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028277110308408737,
+          "perplexity": 33,
+          "sentence": "\u201cWe are aware that people in urban and peri-urban areas who lost their jobs or businesses have been hit hard by climate shocks, and we want to contribute to alleviating their suffering as a consequence of the pandemic.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027306070551276207,
+          "perplexity": 43,
+          "sentence": "The support from the EU comes at a crucial time, when hunger is peaking with over 470,000 of the population experiencing acute levels of food insecurity through March 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029070131480693817,
+          "perplexity": 53,
+          "sentence": "Food prices have increased, and households are still feeling the long-term impacts of COVID-19 control measures on their livelihoods such as loss of jobs and severe reduction in remittances, with many migrant workers returning to Lesotho after losing their jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02840893343091011,
+          "perplexity": 92,
+          "sentence": "\u201cWe thank the European Union for continuing their support, allowing WFP and the government to provide much-needed assistance to vulnerable people affected by COVID-19",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MASERU \u2013 The United Nations World Food Programme (WFP) has welcomed the European Union (EU) contribution of \u20ac 1 million (equivalent to LSL 17 million) that will help meet the needs of 14,760 people through cash transfers for a period of six months. This follows a contribution of \u20ac 2.8 million in 2020. The funding, provided by the EU\u2019s Civil Protection and Humanitarian Aid Operations (ECHO) will be used to reach families worst affected by the impacts of rising climate shocks, food prices and the prolonged effects of COVID-19 in the capital Maseru and Qacha\u2019s Nek districts; including families badly affected by recent windstorms in Sehlaba-Thebe, Qacha`s Nek. Each household will receive the equivalent of \u20ac 54 in cash, per month, allowing them to buy food items from local markets. \u201cThe EU continues to support partners such as WFP in order to provide life-saving food assistance to the most vulnerable people suffering the effects of climate shocks and the COVID-19 pandemic\u201d said Ms. Paola Amadei, EU Ambassador to Lesotho. \u201cWe are aware that people in urban and peri-urban areas who lost their jobs or businesses have been hit hard by climate shocks, and we want to contribute to alleviating their suffering as a consequence of the pandemic.\" The support from the EU comes at a crucial time, when hunger is peaking with over 470,000 of the population experiencing acute levels of food insecurity through March 2022. Food prices have increased, and households are still feeling the long-term impacts of COVID-19 control measures on their livelihoods such as loss of jobs and severe reduction in remittances, with many migrant workers returning to Lesotho after losing their jobs. \u201cWe thank the European Union for continuing their support, allowing WFP and the government to provide much-needed assistance to vulnerable people affected by COVID-19",
+  "date": "29 November 2021"
+}

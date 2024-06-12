@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d8760222-2cb3-4b0b-9487-f3de7e3ae788",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.119922637939453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011213599645998329,
+          "perplexity": 36,
+          "sentence": "Belgrade, 19 October 2023 - International conference \u201cBiotech Future Forum\u201d, organised by the Government of the Republic of Serbia in cooperation with the World Economic Forum, Centre for the Fourth Industrial Revolution and United Nations Development Programme (UNDP), and with the support of the BIO4 Campus, has been opened today in the Palace of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010949301213258877,
+          "perplexity": 24,
+          "sentence": "This year's second edition of the Forum gathers more than 500 participants from more than 30 countries, and more than 40 speakers - representatives of governments, academia, scientific and research institutions, and economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011223002366023138,
+          "perplexity": 46,
+          "sentence": "Serbian Prime Minister Ana Brnabi\u0107 emphasised at the opening ceremony of the Forum that positioning of Serbia as a biotech centre has been one of the main goals of the Government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011341526987962425,
+          "perplexity": 61,
+          "sentence": "She said that the foundation for this had already been placed by investing into strengthening of the ecosystem of innovations, consisting of scientific-technological parks, the Centre for the Fourth Industrial Revolution and Artificial Intelligence Institute, the digitalisation-support infrastructure, such as the Data Centre in Kragujevac, as well as by creating a stimulating environment for the development of IT companies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010769774962682277,
+          "perplexity": 34,
+          "sentence": "\u201cIn addition to cooperation with industry and bringing biotech giants to Serbia, it is crucial for us to provide support to our science and scientists, with the aim for the great scientific achievements developed in our universities and institutes to contribute to the growth of science and economy not only in Serbia, but also globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010602580005070195,
+          "perplexity": 57,
+          "sentence": "Serbia will soon become the home of the BIO4 Campus, a new European centre for the development of biotechnology and bioengineering, which would gather more than 1000 PhDs in more than 300 laboratories, and contribute to further strengthening of Serbian economy and its competitiveness,\u201d said Brnabi\u0107.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011780007480410859,
+          "perplexity": 80,
+          "sentence": "This year, the organisation of the \u201cBiotech Future Forum\u201d is once again supported by the World Economic Forum, within which the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 19 October 2023 \u2013 International conference \u201cBiotech Future Forum\u201d, organised by the Government of the Republic of Serbia in cooperation with the World Economic Forum, Centre for the Fourth Industrial Revolution and United Nations Development Programme (UNDP), and with the support of the BIO4 Campus, has been opened today in the Palace of Serbia. This year\u2019s second edition of the Forum gathers more than 500 participants from more than 30 countries, and more than 40 speakers \u2013 representatives of governments, academia, scientific and research institutions, and economy. Serbian Prime Minister Ana Brnabi\u0107 emphasised at the opening ceremony of the Forum that positioning of Serbia as a biotech centre has been one of the main goals of the Government. She said that the foundation for this had already been placed by investing into strengthening of the ecosystem of innovations, consisting of scientific-technological parks, the Centre for the Fourth Industrial Revolution and Artificial Intelligence Institute, the digitalisation-support infrastructure, such as the Data Centre in Kragujevac, as well as by creating a stimulating environment for the development of IT companies. \u201cIn addition to cooperation with industry and bringing biotech giants to Serbia, it is crucial for us to provide support to our science and scientists, with the aim for the great scientific achievements developed in our universities and institutes to contribute to the growth of science and economy not only in Serbia, but also globally. Serbia will soon become the home of the BIO4 Campus, a new European centre for the development of biotechnology and bioengineering, which would gather more than 1000 PhDs in more than 300 laboratories, and contribute to further strengthening of Serbian economy and its competitiveness,\u201d said Brnabi\u0107. This year, the organisation of the \u201cBiotech Future Forum\u201d is once again supported by the World Economic Forum, within which the",
+  "date": "19 October 2023"
+}

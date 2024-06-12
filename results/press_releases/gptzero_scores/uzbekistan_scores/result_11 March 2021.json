@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2276488e-6bfc-40c5-87c7-629b9ec8d58c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.06039631438721138,
+        "human": 0.9112122557726466,
+        "mixed": 0.028391429840142104
+      },
+      "completely_generated_prob": 0.06039631438721138,
+      "confidence_category": "medium",
+      "confidence_score": 0.9112122557726466,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.06039631438721138,
+          "human": 0.9112122557726466,
+          "mixed": 0.028391429840142104
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.615501403808594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3999170660972595,
+          "perplexity": 54,
+          "sentence": "The initiative underscores the need for global solidarity to ensure vaccines are accessible in all countries, initially targeting healthcare workers and the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.22287803888320923,
+          "perplexity": 23,
+          "sentence": "\u201cThe virus has killed more than 2.5 million people, and left millions more with debilitating long-term health effects\u201d, the UN Secretary-General Antonio Guterres said in a video message to launch the campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2078486979007721,
+          "perplexity": 44,
+          "sentence": "\"Over the past year, we've all missed out on doing the things we love to do with others\u1173eating, hugging, and going to school and work\u201d, said UN Deputy Secretary-General Amina J. Mohammed, adding that \u201cmillions of us have lost someone we love or had our livelihoods taken away.\u201d With the biggest vaccine roll out in history now underway, millions of doses are being delivered across the globe, including to some of the world's poorest countries, through the efforts of COVAX, the UN-led global vaccine equity mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1770453155040741,
+          "perplexity": 96,
+          "sentence": "The COVID-19 vaccines will stop people from dying, prevent new variants from emerging, reignite economies and offer the best hope to end the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01289619505405426,
+          "perplexity": 147,
+          "sentence": "Also highlighting that \u201can unprecedented global scientific effort for vaccines has given us hope to defeat the virus,\u201d Ms. Mohammed stressed that new momentum and hope will emerge \u201conly if we work together to ensure everyone, everywhere has access to COVID-19 vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014167177490890026,
+          "perplexity": 70,
+          "sentence": "Only together can we end the pandemic and transform a new era of hope.\u201d Expressing concern over \u201ca small number of rich countries are rolling out a majority of the doses,\u201d Mr. Guterres emphasized that \u201cCOVID-19 vaccines must be considered a global public good.\u201d By the end of 2021, COVAX aims to offer vaccines to about a third of each participating country's population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012668879702687263,
+          "perplexity": 87,
+          "sentence": "But that progress pales in comparison to the 10 richest countries who possess nearly 80 per cent of all COVID-19 vaccines, with some planning to vaccinate their entire population",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The initiative underscores the need for global solidarity to ensure vaccines are accessible in all countries, initially targeting healthcare workers and the most vulnerable. \u201cThe virus has killed more than 2.5 million people, and left millions more with debilitating long-term health effects\u201d, the UN Secretary-General Antonio Guterres said in a video message to launch the campaign. \"Over the past year, we\u2019ve all missed out on doing the things we love to do with others\u2014eating, hugging, and going to school and work\u201d, said UN Deputy Secretary-General Amina J. Mohammed, adding that \u201cmillions of us have lost someone we love or had our livelihoods taken away.\u201d With the biggest vaccine roll out in history now underway, millions of doses are being delivered across the globe, including to some of the world\u2019s poorest countries, through the efforts of COVAX, the UN-led global vaccine equity mechanism. The COVID-19 vaccines will stop people from dying, prevent new variants from emerging, reignite economies and offer the best hope to end the pandemic. Also highlighting that \u201can unprecedented global scientific effort for vaccines has given us hope to defeat the virus,\u201d Ms. Mohammed stressed that new momentum and hope will emerge \u201conly if we work together to ensure everyone, everywhere has access to COVID-19 vaccines. Only together can we end the pandemic and transform a new era of hope.\u201d Expressing concern over \u201ca small number of rich countries are rolling out a majority of the doses,\u201d Mr. Guterres emphasized that \u201cCOVID-19 vaccines must be considered a global public good.\u201d By the end of 2021, COVAX aims to offer vaccines to about a third of each participating country\u2019s population. But that progress pales in comparison to the 10 richest countries who possess nearly 80 per cent of all COVID-19 vaccines, with some planning to vaccinate their entire population",
+  "date": "11 March 2021"
+}

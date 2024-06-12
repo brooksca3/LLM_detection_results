@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a4b7fae2-7ccb-4acd-b575-966c209d7c9a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.626922607421875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019839280284941196,
+          "perplexity": 52,
+          "sentence": "The World Bank is providing $100 million to Ghana to assist the country in tackling the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015383375575765967,
+          "perplexity": 26,
+          "sentence": "This $100 million will be made available to the government and the people of Ghana as short, medium and long-term support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001475052209571004,
+          "perplexity": 45,
+          "sentence": "A press release issued by the World Bank indicates that this financing package includes $35 million in emergency support to help the country provide improved response systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001508129178546369,
+          "perplexity": 33,
+          "sentence": "Under this emergency package the World Bank will support the Government of Ghana to help prevent, detect, and respond to the COVID-19 pandemic through the Ghana Emergency Preparedness and Response Project (EPRP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015613441355526447,
+          "perplexity": 180,
+          "sentence": "The EPRP will help strengthen Ghana's National Laboratories by providing robust systems for the early detection of COVID-19 cases and providing real time disease surveillance and reporting systems of outbreaks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014507723972201347,
+          "perplexity": 90,
+          "sentence": "It will also improve response systems by providing social and financial support and free health services to COVID-19 patients and families who are isolated or quarantined.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011794401798397303,
+          "perplexity": 72,
+          "sentence": "Finally, the project will focus on risk communications and community engagement for increased awareness and compliance with prevention measures engaging the Ministry of Health, Ghana Health Service, Ministry of Information and other agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016374315600842237,
+          "perplexity": 67,
+          "sentence": "\u201cWe are working with the government through this fast track facility to support the country's efforts to slow transmission, prevent outbreaks and provide better-quality care for all patients, especially the seriously ill,\u201d said World Bank Country Director, Pierre Laporte.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014561691787093878,
+          "perplexity": 65,
+          "sentence": "\u201cIt's crucial that we all work together with other partners to help minimize the negative impact of the pandemic on health systems, social services and economic activities.\u201d In addition to the emergency facility, a $65 million contingency emergency response component) was triggered from the Greater Accra Resilient and Integrated Development Project (GARID).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010822656331583858,
+          "perplexity": 209,
+          "sentence": "This contingency financing will support critical activities such as laboratory equipment and chemicals essential medical equipment and supplies including test kits and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The World Bank is providing $100 million to Ghana to assist the country in tackling the COVID-19 pandemic. This $100 million will be made available to the government and the people of Ghana as short, medium and long-term support. A press release issued by the World Bank indicates that this financing package includes $35 million in emergency support to help the country provide improved response systems. Under this emergency package the World Bank will support the Government of Ghana to help prevent, detect, and respond to the COVID-19 pandemic through the Ghana Emergency Preparedness and Response Project (EPRP). The EPRP will help strengthen Ghana\u2019s National Laboratories by providing robust systems for the early detection of COVID-19 cases and providing real time disease surveillance and reporting systems of outbreaks. It will also improve response systems by providing social and financial support and free health services to COVID-19 patients and families who are isolated or quarantined. Finally, the project will focus on risk communications and community engagement for increased awareness and compliance with prevention measures engaging the Ministry of Health, Ghana Health Service, Ministry of Information and other agencies. \u201cWe are working with the government through this fast track facility to support the country\u2019s efforts to slow transmission, prevent outbreaks and provide better-quality care for all patients, especially the seriously ill,\u201d said World Bank Country Director, Pierre Laporte. \u201cIt\u2019s crucial that we all work together with other partners to help minimize the negative impact of the pandemic on health systems, social services and economic activities.\u201d In addition to the emergency facility, a $65 million contingency emergency response component) was triggered from the Greater Accra Resilient and Integrated Development Project (GARID). This contingency financing will support critical activities such as laboratory equipment and chemicals essential medical equipment and supplies including test kits and",
+  "date": "02 April 2020"
+}

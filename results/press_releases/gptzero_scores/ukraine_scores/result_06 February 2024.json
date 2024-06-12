@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bd18acc9-ff52-461e-9b1b-2df92cacfa73",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 134.56993103027344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031000401941128075,
+          "perplexity": 21,
+          "sentence": "The United Nations World Food Programme (WFP), as part of a programme developed in collaboration with the Ministry of Social Policy and with funding from Germany, will distribute complementary cash assistance to 310,000 people living with disabilities across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030068057822063565,
+          "perplexity": 74,
+          "sentence": "The programme is designed to complement the government's social assistance paid to the most vulnerable Ukrainians during the war while also supporting a sustainable transition from humanitarian response to more resilient national systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002692793495953083,
+          "perplexity": 53,
+          "sentence": "Since the programme was launched in August 2023, 400,000 pensioners living in areas of active or possible hostilities have received payments from WFP totalling US$28 million (UAH 1 billion).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002542502188589424,
+          "perplexity": 60,
+          "sentence": "In line with the decree of the Cabinet of the Ministers of Ukraine, WFP will now expand this complementary cash assistance - for at least 3 consecutive months - to adults with childhood-onset disabilities and children with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002608076320029795,
+          "perplexity": 64,
+          "sentence": "As a result, WFP will distribute approximately US$21 million (UAH 800 million).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002634843986015767,
+          "perplexity": 59,
+          "sentence": "To be eligible for the complementary payment from WFP, people in these categories should meet additional conditions: The payment from WFP is a top-up at a minimum of UAH 100.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002671206893865019,
+          "perplexity": 43,
+          "sentence": "It is calculated as the difference between UAH 3,250 and the amount of social allowance a person already receives from the state.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026231183437630534,
+          "perplexity": 62,
+          "sentence": "\u201cThe war is having a lasting effect on Ukraine's economy and continues to make life difficult for the most vulnerable families and those living near the frontline,\u201d said Marianne Ward, WFP Country Director a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027444184524938464,
+          "perplexity": 477,
+          "sentence": "in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002439665695419535,
+          "perplexity": 49,
+          "sentence": "\u201cWe are grateful to Germany, one of our major humanitarian partners, for enabling us to expand this programme and help more families make ends meet during this harsh winter.\u201d The complementary cash assistance from WFP is paid directly to the bank accounts of eligible recipients or delivered by the postal service for recipients without a bank account who already receive",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations World Food Programme (WFP), as part of a programme developed in collaboration with the Ministry of Social Policy and with funding from Germany, will distribute complementary cash assistance to 310,000 people living with disabilities across the country. The programme is designed to complement the government\u2019s social assistance paid to the most vulnerable Ukrainians during the war while also supporting a sustainable transition from humanitarian response to more resilient national systems. Since the programme was launched in August 2023, 400,000 pensioners living in areas of active or possible hostilities have received payments from WFP totalling US$28 million (UAH 1 billion). In line with the decree of the Cabinet of the Ministers of Ukraine, WFP will now expand this complementary cash assistance \u2013 for at least 3 consecutive months \u2013 to adults with childhood-onset disabilities and children with disabilities. As a result, WFP will distribute approximately US$21 million (UAH 800 million). To be eligible for the complementary payment from WFP, people in these categories should meet additional conditions: The payment from WFP is a top-up at a minimum of UAH 100. It is calculated as the difference between UAH 3,250 and the amount of social allowance a person already receives from the state. \u201cThe war is having a lasting effect on Ukraine\u2019s economy and continues to make life difficult for the most vulnerable families and those living near the frontline,\u201d said Marianne Ward, WFP Country Director a.i. in Ukraine. \u201cWe are grateful to Germany, one of our major humanitarian partners, for enabling us to expand this programme and help more families make ends meet during this harsh winter.\u201d The complementary cash assistance from WFP is paid directly to the bank accounts of eligible recipients or delivered by the postal service for recipients without a bank account who already receive",
+  "date": "06 February 2024"
+}

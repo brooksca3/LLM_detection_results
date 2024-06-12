@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "983034b2-33a4-45dd-843f-ecc1ac7d4ea8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.365354537963867,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005336445290595293,
+          "perplexity": 14,
+          "sentence": "Agriculture remains one of the most affected sectors by climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004666770808398724,
+          "perplexity": 29,
+          "sentence": "Droughts, floods, hail, and changes in precipitation have a major impact on agricultural population and hamper rural and economic development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004649328999221325,
+          "perplexity": 45,
+          "sentence": "In Serbia, agriculture makes up 15 percent of total employment, thus investing in the sector's resilience is crucial for boosting incomes and ensuring food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004343579988926649,
+          "perplexity": 10,
+          "sentence": "What can be done to make agriculture more resilient to climate change?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028209181036800146,
+          "perplexity": 20,
+          "sentence": "To answer this question the Food and Agriculture Organization of the United Nations (FAO) brought together representatives from the Ministry of Agriculture, Forestry and Water Management of Serbia, academia, advisory services, and farmers at this year's agricultural fair in Novi Sad, to share their expertise and knowledge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002717341296374798,
+          "perplexity": 54,
+          "sentence": "Participants identified ten actions and steps that could be taken to mitigate the negative impacts of climate change and increase competitiveness of the sector: Through joint and coordinated work, competent ministries, local self-governments, academia, research institutions, farmers and advisory services can help develop comprehensive resilience strategies and find solutions for sustainable rural development and implementation of measures adapted to the local level, for strengthening agricultural resilience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027547047939151525,
+          "perplexity": 31,
+          "sentence": "Practical training and knowledge-sharing programs can equip students and farmers, but also decision-makers, with the necessary skills and techniques to adapt to climate change and implement sustainable practices on their farms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002959268633276224,
+          "perplexity": 45,
+          "sentence": "Developing tailored financial and technical support mechanisms on the local level, helps farmers access all the necessary resources and advisory services, which in turn enhances their capacity to cope with climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032603058498352766,
+          "perplexity": 29,
+          "sentence": "Allocating resources to support climate-smart agricultural practices, such as precision agriculture, agroecology and efficient technologies for irrigation and protection of crops from natural disasters, enables farmers to mitigate climate risks, increase productivity and reduce the negative impact on the environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032845279201865196,
+          "perplexity": 63,
+          "sentence": "Maintaining existing and building new infrastructure, such as drainage and irrigation canals, hydroaccumulation, agricultural roads, can",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Agriculture remains one of the most affected sectors by climate change. Droughts, floods, hail, and changes in precipitation have a major impact on agricultural population and hamper rural and economic development. In Serbia, agriculture makes up 15 percent of total employment, thus investing in the sector's resilience is crucial for boosting incomes and ensuring food security. What can be done to make agriculture more resilient to climate change? To answer this question the Food and Agriculture Organization of the United Nations (FAO) brought together representatives from the Ministry of Agriculture, Forestry and Water Management of Serbia, academia, advisory services, and farmers at this year\u2019s agricultural fair in Novi Sad, to share their expertise and knowledge. Participants identified ten actions and steps that could be taken to mitigate the negative impacts of climate change and increase competitiveness of the sector: Through joint and coordinated work, competent ministries, local self-governments, academia, research institutions, farmers and advisory services can help develop comprehensive resilience strategies and find solutions for sustainable rural development and implementation of measures adapted to the local level, for strengthening agricultural resilience. Practical training and knowledge-sharing programs can equip students and farmers, but also decision-makers, with the necessary skills and techniques to adapt to climate change and implement sustainable practices on their farms. Developing tailored financial and technical support mechanisms on the local level, helps farmers access all the necessary resources and advisory services, which in turn enhances their capacity to cope with climate change. Allocating resources to support climate-smart agricultural practices, such as precision agriculture, agroecology and efficient technologies for irrigation and protection of crops from natural disasters, enables farmers to mitigate climate risks, increase productivity and reduce the negative impact on the environment. Maintaining existing and building new infrastructure, such as drainage and irrigation canals, hydroaccumulation, agricultural roads, can",
+  "date": "23 May 2023"
+}

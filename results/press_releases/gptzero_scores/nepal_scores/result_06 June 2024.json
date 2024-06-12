@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca425633-cd23-46d0-a1d6-d846c49b0661",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 6.0580525398254395,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011248699156567454,
+          "perplexity": 53,
+          "sentence": "6 June, Kathmandu: The UN Resident Coordinator in Nepal Madam Hanaa Singer Hamdy handed over a letter from the UN Secretary-General Mr Antonio Guterres to the Rt Honorable Prime Minister of Nepal, Mr. Pushpa Kamal Dahal for the upcoming Summit of the Future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019167527789250016,
+          "perplexity": 51,
+          "sentence": "The letter urges support and requests for the personal participation of the Prime Minister in the Summit of the Future taking place on the 22 and 23 September in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024386169388890266,
+          "perplexity": 52,
+          "sentence": "In the letter, the Secretary-General underscored the crucial importance of arriving at an ambitious, concise, action-oriented Pact for the Future as the summit's outcome.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019849203526973724,
+          "perplexity": 44,
+          "sentence": "The pact has five pillars- finance for sustainable development; international peace and security; science, technology, and innovation; youth and future generation; and reform global governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017442237585783005,
+          "perplexity": 61,
+          "sentence": "Speaking at the occasion, the UN Resident Coordinator Madam Hanaa Singer Hamdy said, \u201cThe Summit of the Future is a unique opportunity to change course and move away from the precipitous state the world is currently in and Nepal can leverage its extensive experience in climate action, conflict resolution, and disaster readiness to lead discussions on strategic importance and peace.\u201d In preparation for the summit in Nepal, the UN Resident Coordinator also met the Honorable Minister for Youth and Sports Mr Biraj Shrestha to mobilize the youth of Nepal through nationwide consultations and a digital advocacy campaign aiming to reach 1 million youth in Nepal fostering broader engagement and support for the summit's goals.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "6 June, Kathmandu: The UN Resident Coordinator in Nepal Madam Hanaa Singer Hamdy handed over a letter from the UN Secretary-General Mr Antonio Guterres to the Rt Honorable Prime Minister of Nepal, Mr. Pushpa Kamal Dahal for the upcoming Summit of the Future. The letter urges support and requests for the personal participation of the Prime Minister in the Summit of the Future taking place on the 22 and 23 September in New York. In the letter, the Secretary-General underscored the crucial importance of arriving at an ambitious, concise, action-oriented Pact for the Future as the summit's outcome. The pact has five pillars- finance for sustainable development; international peace and security; science, technology, and innovation; youth and future generation; and reform global governance. Speaking at the occasion, the UN Resident Coordinator Madam Hanaa Singer Hamdy said, \u201cThe Summit of the Future is a unique opportunity to change course and move away from the precipitous state the world is currently in and Nepal can leverage its extensive experience in climate action, conflict resolution, and disaster readiness to lead discussions on strategic importance and peace.\u201d In preparation for the summit in Nepal, the UN Resident Coordinator also met the Honorable Minister for Youth and Sports Mr Biraj Shrestha to mobilize the youth of Nepal through nationwide consultations and a digital advocacy campaign aiming to reach 1 million youth in Nepal fostering broader engagement and support for the summit's goals.",
+  "date": "06 June 2024"
+}

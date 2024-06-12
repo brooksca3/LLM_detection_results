@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0ac50df6-5fe5-4db2-a60a-bc059d103aec",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10562879617416508,
+        "human": 0.893121528627087,
+        "mixed": 0.0012496751987478862
+      },
+      "completely_generated_prob": 0.10562879617416508,
+      "confidence_category": "medium",
+      "confidence_score": 0.893121528627087,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10562879617416508,
+          "human": 0.893121528627087,
+          "mixed": 0.0012496751987478862
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.691216468811035,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.16172558069229126,
+          "perplexity": 20,
+          "sentence": "Ni\u0161, 13 October, 2023 - In Serbia, one-fifth of the workforce is employed in the agricultural sector, while 40% of the population lives in rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16563738882541656,
+          "perplexity": 21,
+          "sentence": "Recognizing the complexity of the food system, from production to consumption, there is a need to strengthen collaboration across sectors, exchange information, and share experiences to tackle existing challenges, including food loss and waste, water, air, and land pollution, poverty, biodiversity loss, and climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14857487380504608,
+          "perplexity": 25,
+          "sentence": "In pursuit of innovative solutions and outlining remaining gaps for creating sustainable food systems, the Food and Agriculture Organization of the United Nations (FAO), in collaboration with the Ministry of Agriculture, Forestry, and Water Management, the National Association Serbia Organika, and the Chamber of Commerce of Serbia, brought together representatives from small businesses, government institutions, educational organizations, policy makers, private sector, and civil society at the National Dialogue in Ni\u0161.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13831698894500732,
+          "perplexity": 41,
+          "sentence": "The event was organized as part of a series of dialogues for implementation of the National Pathways for Food System Transformation, that is mainly focused on \"those parts of society with the least resources and information and the most challenging access,\" as defined at the UN Food Systems Summit held in July 2023 at the UN Headquarters in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14974550902843475,
+          "perplexity": 30,
+          "sentence": "\"We must harness the power of knowledge to improve food systems that ensure safe, accessible food for all, while preserving natural resources and combating climate change,\" said Vedrana Ili\u0107, Assistant Minister at the Ministry of Agriculture, Forestry, and Water Management of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15235090255737305,
+          "perplexity": 67,
+          "sentence": "\"This year's global theme is water - essential for all living beings on Earth and for food, energy, and industry production.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15016523003578186,
+          "perplexity": 24,
+          "sentence": "Without water, there is no development, no progress, no future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14661729335784912,
+          "perplexity": 26,
+          "sentence": "We must encourage society to undergo systemic changes in thinking, culture, and resource management, and each one of us must do our part to ensure that",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ni\u0161, 13 October, 2023 - In Serbia, one-fifth of the workforce is employed in the agricultural sector, while 40% of the population lives in rural areas. Recognizing the complexity of the food system, from production to consumption, there is a need to strengthen collaboration across sectors, exchange information, and share experiences to tackle existing challenges, including food loss and waste, water, air, and land pollution, poverty, biodiversity loss, and climate change. In pursuit of innovative solutions and outlining remaining gaps for creating sustainable food systems, the Food and Agriculture Organization of the United Nations (FAO), in collaboration with the Ministry of Agriculture, Forestry, and Water Management, the National Association Serbia Organika, and the Chamber of Commerce of Serbia, brought together representatives from small businesses, government institutions, educational organizations, policy makers, private sector, and civil society at the National Dialogue in Ni\u0161. The event was organized as part of a series of dialogues for implementation of the National Pathways for Food System Transformation, that is mainly focused on \"those parts of society with the least resources and information and the most challenging access,\" as defined at the UN Food Systems Summit held in July 2023 at the UN Headquarters in New York. \"We must harness the power of knowledge to improve food systems that ensure safe, accessible food for all, while preserving natural resources and combating climate change,\" said Vedrana Ili\u0107, Assistant Minister at the Ministry of Agriculture, Forestry, and Water Management of Serbia. \"This year's global theme is water - essential for all living beings on Earth and for food, energy, and industry production. Without water, there is no development, no progress, no future. We must encourage society to undergo systemic changes in thinking, culture, and resource management, and each one of us must do our part to ensure that",
+  "date": "13 October 2023"
+}

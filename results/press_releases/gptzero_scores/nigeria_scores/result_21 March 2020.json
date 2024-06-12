@@ -1,0 +1,177 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "01b34047-3e6f-439b-8cec-0761ae61680b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 252.51666259765625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.95227250807639e-17,
+          "num_sentences": 19,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002809559926390648,
+          "perplexity": 36,
+          "sentence": "We are facing a global health crisis unlike any in the 75-year history of the United Nations \u1173 one that is spreading human suffering, infecting the global economy and upending people's lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025359010323882103,
+          "perplexity": 93,
+          "sentence": "A global recession - perhaps of record dimensions - is a near certainty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024071100633591413,
+          "perplexity": 11,
+          "sentence": "The International Labour Organization has just reported that workers around the world could lose as much as 3.4 trillion U.S. dollars in income by the end of this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002448855433613062,
+          "perplexity": 35,
+          "sentence": "This is, above all, a human crisis that calls for solidarity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002550446428358555,
+          "perplexity": 62,
+          "sentence": "Our human family is stressed and the social fabric is being torn.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002148325787857175,
+          "perplexity": 41,
+          "sentence": "People are suffering, sick and scared.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002587225753813982,
+          "perplexity": 46,
+          "sentence": "Current responses at the country level will not address the global scale and complexity of the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027191692497581244,
+          "perplexity": 40,
+          "sentence": "This is a moment that demands coordinated, decisive, and innovative policy action from the world's leading economies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022501295898109674,
+          "perplexity": 72,
+          "sentence": "We must recognize that the poorest countries and most vulnerable \u1173 especially women \u1173 will be the hardest hit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028040106408298016,
+          "perplexity": 40,
+          "sentence": "I welcome the decision by G20 leaders to convene an emergency summit next week to respond to the epic challenges posed by the COVID-19 pandemic - and I look forward to taking part.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029149986803531647,
+          "perplexity": 27,
+          "sentence": "My central message is clear: We are in an unprecedented situation and the normal rules no longer apply.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002656731056049466,
+          "perplexity": 128,
+          "sentence": "We cannot resort to the usual tools in such unusual times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024702062364667654,
+          "perplexity": 34,
+          "sentence": "The creativity of the response must match the unique nature of the crisis - and the magnitude of the response must match its scale.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002072487026453018,
+          "perplexity": 87,
+          "sentence": "Our world faces a common enemy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001796140568330884,
+          "perplexity": 36,
+          "sentence": "We are at war with a virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015209834091365337,
+          "perplexity": 89,
+          "sentence": "COVID-19 is killing people, as well as attacking the real economy at its core - trade, supply chains, businesses, jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014272205298766494,
+          "perplexity": 178,
+          "sentence": "Entire countries and cities are in lockdown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015546652721241117,
+          "perplexity": 1146,
+          "sentence": "Borders are closing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020347724203020334,
+          "perplexity": 22,
+          "sentence": "Companies are struggling to stay in business and families are simply struggling to stay afloat.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "We are facing a global health crisis unlike any in the 75-year history of the United Nations \u2014 one that is spreading human suffering, infecting the global economy and upending people\u2019s lives. A global recession \u2013 perhaps of record dimensions \u2013 is a near certainty. The International Labour Organization has just reported that workers around the world could lose as much as 3.4 trillion U.S. dollars in income by the end of this year. This is, above all, a human crisis that calls for solidarity. Our human family is stressed and the social fabric is being torn. People are suffering, sick and scared. Current responses at the country level will not address the global scale and complexity of the crisis. This is a moment that demands coordinated, decisive, and innovative policy action from the world\u2019s leading economies. We must recognize that the poorest countries and most vulnerable \u2014 especially women \u2014 will be the hardest hit. I welcome the decision by G20 leaders to convene an emergency summit next week to respond to the epic challenges posed by the COVID-19 pandemic \u2013 and I look forward to taking part. My central message is clear: We are in an unprecedented situation and the normal rules no longer apply. We cannot resort to the usual tools in such unusual times. The creativity of the response must match the unique nature of the crisis \u2013 and the magnitude of the response must match its scale. Our world faces a common enemy. We are at war with a virus. COVID-19 is killing people, as well as attacking the real economy at its core \u2013 trade, supply chains, businesses, jobs. Entire countries and cities are in lockdown. Borders are closing. Companies are struggling to stay in business and families are simply struggling to stay afloat.",
+  "date": "21 March 2020"
+}

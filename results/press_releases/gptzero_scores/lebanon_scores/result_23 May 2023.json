@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0752fb79-5cfa-40c7-9da5-738a416d8502",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.2950439453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010817060247063637,
+          "perplexity": 52,
+          "sentence": "Beirut, 23 May 2023 -- Statement on behalf of the United Nations Resident Coordinator and Humanitarian Coordinator for Lebanon Imran Riza, the United Nations High Commissioner for Refugees Representative in Lebanon Ivo Freijsen, and the World Food Programme Country Director and Representative in Lebanon Abdallah Alwardat on the return to disbursement of cash assistance in dual currency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013727059122174978,
+          "perplexity": 69,
+          "sentence": "Following close consultations with relevant counterparts, government stakeholders and the Central Bank in recent months, the United Nations and partners have now returned to the previous modality of disbursing cash assistance to refugees in dual currency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015578616876155138,
+          "perplexity": 44,
+          "sentence": "Given the operational challenges including the rapid depreciation of the local currency, increased fluctuations of the exchange rate, and the strain on the financial provider in supplying large volumes of cash in Lebanese Pounds, it has become impossible for the United Nations and partners to continue to disburse cash assistance only in Lebanese Pounds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011834093602374196,
+          "perplexity": 84,
+          "sentence": "By the end of 2022, most assistance programmes in the country, including the Government's National Poverty Targeting Programme supporting vulnerable Lebanese people, had shifted to USD or dual currency, allowing recipients to redeem their cash assistance either in USD or LBP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001171115436591208,
+          "perplexity": 108,
+          "sentence": "Dual currency payments for refugees are thus in line with this general approach.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015844044974073768,
+          "perplexity": 39,
+          "sentence": "Cash-based interventions are used to provide protection, assistance, and services to the most vulnerable people across Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001271117595024407,
+          "perplexity": 68,
+          "sentence": "It helps Lebanese and refugees meet a variety of basic needs and contributes to the local economy by purchasing directly from local markets and shops.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016365570481866598,
+          "perplexity": 33,
+          "sentence": "Cash assistance provided to vulnerable people across the country has always been based on assessments of needs that take into account the socio-economic realities and coping mechanisms.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 23 May 2023 -- Statement on behalf of the United Nations Resident Coordinator and Humanitarian Coordinator for Lebanon Imran Riza, the United Nations High Commissioner for Refugees Representative in Lebanon Ivo Freijsen, and the World Food Programme Country Director and Representative in Lebanon Abdallah Alwardat on the return to disbursement of cash assistance in dual currency. Following close consultations with relevant counterparts, government stakeholders and the Central Bank in recent months, the United Nations and partners have now returned to the previous modality of disbursing cash assistance to refugees in dual currency. Given the operational challenges including the rapid depreciation of the local currency, increased fluctuations of the exchange rate, and the strain on the financial provider in supplying large volumes of cash in Lebanese Pounds, it has become impossible for the United Nations and partners to continue to disburse cash assistance only in Lebanese Pounds. By the end of 2022, most assistance programmes in the country, including the Government\u2019s National Poverty Targeting Programme supporting vulnerable Lebanese people, had shifted to USD or dual currency, allowing recipients to redeem their cash assistance either in USD or LBP. Dual currency payments for refugees are thus in line with this general approach. Cash-based interventions are used to provide protection, assistance, and services to the most vulnerable people across Lebanon. It helps Lebanese and refugees meet a variety of basic needs and contributes to the local economy by purchasing directly from local markets and shops. Cash assistance provided to vulnerable people across the country has always been based on assessments of needs that take into account the socio-economic realities and coping mechanisms.",
+  "date": "23 May 2023"
+}

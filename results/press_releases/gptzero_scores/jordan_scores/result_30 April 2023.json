@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1092dc3b-f53a-49aa-b130-0cc1f822e7d4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.543582916259766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00035077432403340936,
+          "perplexity": 55,
+          "sentence": "The visit will spotlight solidarity with refugees from Syria and the Occupied Territories, and to discuss follow-up from the UN Water Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002049838367383927,
+          "perplexity": 28,
+          "sentence": "Amman - The President of the 77th session of the United Nations General Assembly, Csaba K\u0151r\u00f6si, will make an official visit to the Hashemite Kingdom of Jordan, starting on 1 May, to spotlight solidarity with refugees from Syria and the Occupied Territories, and to discuss follow-up from the UN Water Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021401931007858366,
+          "perplexity": 28,
+          "sentence": "During the visit, President K\u0151r\u00f6si will meet with high-ranking officials and senior leaders from the Government, to discuss topics of mutual interest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018374215869698673,
+          "perplexity": 139,
+          "sentence": "Those topics will include water sustainability and follow up from the 2023 UN Water Conference, including pledges related to Jordan in the Water Action Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002079435216728598,
+          "perplexity": 33,
+          "sentence": "While in Jordan, President K\u0151r\u00f6si will visit the Zaatari Refugee Camp, which is the world's largest camp for Syrian refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018686217663343996,
+          "perplexity": 55,
+          "sentence": "The President plans to hear directly from refugees about what they experienced, their lives in the camp and how the General Assembly can support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019817626161966473,
+          "perplexity": 7,
+          "sentence": "The President will be accompanied by colleagues from the UN Refugee Agency (UNHCR), UN Children's Fund (UNICEF), the World Food Programme (WFP), and others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001761950843501836,
+          "perplexity": 45,
+          "sentence": "In step with his priorities, the President's field visit will include interactions with civil society groups, women's groups and young people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015465670730918646,
+          "perplexity": 81,
+          "sentence": "The President will be accompanied by a delegation of four staff members including the Chef de Cabinet, Mr. Laszlo Szoke, and the Office Political Team Leader, Ms. Janina Hasse-Mohsine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016192762996070087,
+          "perplexity": 50,
+          "sentence": "Costs are covered by the Government and the OPGA Trust Fund.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The visit will spotlight solidarity with refugees from Syria and the Occupied Territories, and to discuss follow-up from the UN Water Conference. Amman - The President of the 77th session of the United Nations General Assembly, Csaba K\u0151r\u00f6si, will make an official visit to the Hashemite Kingdom of Jordan, starting on 1 May, to spotlight solidarity with refugees from Syria and the Occupied Territories, and to discuss follow-up from the UN Water Conference. During the visit, President K\u0151r\u00f6si will meet with high-ranking officials and senior leaders from the Government, to discuss topics of mutual interest. Those topics will include water sustainability and follow up from the 2023 UN Water Conference, including pledges related to Jordan in the Water Action Agenda. While in Jordan, President K\u0151r\u00f6si will visit the Zaatari Refugee Camp, which is the world\u2019s largest camp for Syrian refugees. The President plans to hear directly from refugees about what they experienced, their lives in the camp and how the General Assembly can support. The President will be accompanied by colleagues from the UN Refugee Agency (UNHCR), UN Children\u2019s Fund (UNICEF), the World Food Programme (WFP), and others. In step with his priorities, the President\u2019s field visit will include interactions with civil society groups, women\u2019s groups and young people. The President will be accompanied by a delegation of four staff members including the Chef de Cabinet, Mr. Laszlo Szoke, and the Office Political Team Leader, Ms. Janina Hasse-Mohsine. Costs are covered by the Government and the OPGA Trust Fund.",
+  "date": "30 April 2023"
+}

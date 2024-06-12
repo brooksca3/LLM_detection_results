@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e94fb23f-ecb6-42dd-9b0e-7648fe7aabcb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 209.73342895507812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011170431389473379,
+          "perplexity": 49,
+          "sentence": "More than 50 experts at an international conference in Belgrade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011528308823471889,
+          "perplexity": 22,
+          "sentence": "Belgrade, 13 October 2022 - The two-day conference titled \u201cDisaster Risk Reduction - Models and Practices at International and National Level\u201d was opened today in Belgrade, organised by the United Nations Development Programme (UNDP) in partnership with the Emergency Management Sector of the Ministry of the Interior of the Republic of Serbia and the Faculty of Security of the University of Belgrade, and with the support by the European Union (EU).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011064767750212923,
+          "perplexity": 32,
+          "sentence": "In order to provide answers concerning the ways to make our society less vulnerable to emergencies such as floods, landslides, earthquakes and forest fires, the conference has gathered more than 50 renowned experts from Serbia, the region and European countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011338478361722082,
+          "perplexity": 67,
+          "sentence": "Head of Operations in the EU Delegation to Serbia, Sakelaris Hourdas said that the disaster risk reduction project, implemented by UNDP, also envisages reconstruction of the facilities for training of civil protection units in Kraljevo, as well as new buildings for the headquarters of the Emergency Management Sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011036168871214613,
+          "perplexity": 163,
+          "sentence": "\u201cThe same building could also house the 112 Hotline Centre, so as to provide more efficient and urgent help to citizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010622994159348309,
+          "perplexity": 79,
+          "sentence": "Accordingly, in 2021, the EU funded preparations for the establishment of the Single European Emergency Number 112, its detailed design and analysis, thereby establishing necessary steps in order to make this service fully operative and in line with the EU standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010610056051518768,
+          "perplexity": 106,
+          "sentence": "Moreover, the project offered a series of workshops and study visits to different emergency hotline centres in EU member states to the Emergency Management Sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001104540133383125,
+          "perplexity": 682,
+          "sentence": "We hope that competent authorities would priorities the activation of the 112 number in the following months,\u201d said Hourdas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011254521814407781,
+          "perplexity": 23,
+          "sentence": "Assistant to the Minister of the Interior and Chief of the Emergency Management Sector, Luka \u010cau\u0161i\u0107, pointed out that this sector, as well as the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "More than 50 experts at an international conference in Belgrade. Belgrade, 13 October 2022 \u2013 The two-day conference titled \u201cDisaster Risk Reduction \u2013 Models and Practices at International and National Level\u201d was opened today in Belgrade, organised by the United Nations Development Programme (UNDP) in partnership with the Emergency Management Sector of the Ministry of the Interior of the Republic of Serbia and the Faculty of Security of the University of Belgrade, and with the support by the European Union (EU). In order to provide answers concerning the ways to make our society less vulnerable to emergencies such as floods, landslides, earthquakes and forest fires, the conference has gathered more than 50 renowned experts from Serbia, the region and European countries. Head of Operations in the EU Delegation to Serbia, Sakelaris Hourdas said that the disaster risk reduction project, implemented by UNDP, also envisages reconstruction of the facilities for training of civil protection units in Kraljevo, as well as new buildings for the headquarters of the Emergency Management Sector. \u201cThe same building could also house the 112 Hotline Centre, so as to provide more efficient and urgent help to citizens. Accordingly, in 2021, the EU funded preparations for the establishment of the Single European Emergency Number 112, its detailed design and analysis, thereby establishing necessary steps in order to make this service fully operative and in line with the EU standards. Moreover, the project offered a series of workshops and study visits to different emergency hotline centres in EU member states to the Emergency Management Sector. We hope that competent authorities would priorities the activation of the 112 number in the following months,\u201d said Hourdas. Assistant to the Minister of the Interior and Chief of the Emergency Management Sector, Luka \u010cau\u0161i\u0107, pointed out that this sector, as well as the",
+  "date": "13 October 2022"
+}

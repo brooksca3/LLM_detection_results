@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "64a30117-6ead-4a56-8dac-11e216ea81ba",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 229.32369995117188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00028677479713223875,
+          "perplexity": 49,
+          "sentence": "This is a summary of what was said by UNHCR spokesperson Matthew Saltmarsh - to whom quoted text may be attributed - at today's press briefing at the Palais des Nations in Geneva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002928996691480279,
+          "perplexity": 27,
+          "sentence": "UNHCR, the UN Refugee Agency, is stepping up its emergency response to assist hundreds of thousands of internally displaced people (IDPs) in Myanmar as their number crossed the 800,000 mark - doubling since February 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036294799065217376,
+          "perplexity": 24,
+          "sentence": "Security is deteriorating rapidly across the country as fighting and armed conflict intensifies with no sign of abating.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035324928467161953,
+          "perplexity": 63,
+          "sentence": "UNHCR forecasts an accelerating trend of displacements in the coming weeks and months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003561772173270583,
+          "perplexity": 28,
+          "sentence": "Some 440,000 people have been newly displaced since February 2021, according to UNHCR data, adding to an existing 370,000 who had fled their homes previously.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003078578447457403,
+          "perplexity": 41,
+          "sentence": "UNHCR and partners are scaling up operations and deploying additional resources to support as many of the displaced as possible, complementing local community responses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025902438210323453,
+          "perplexity": 67,
+          "sentence": "In the South-East of the country, Kayin, Kayah, Mon and Shan (South) states as well as Bago (East) and Tanintharyi regions collectively account for more than half of the 440,000 newly displaced civilians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003198140184395015,
+          "perplexity": 128,
+          "sentence": "Kayin and Kayah states remain the most affected as hostilities between various armed groups have triggered large-scale displacements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002895145444199443,
+          "perplexity": 113,
+          "sentence": "Another conflict-affected area with pressing humanitarian needs is Myanmar's North-West, where about 190,000 people remain displaced in Chin State, Magway Region and Sagaing Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003172981378156692,
+          "perplexity": 76,
+          "sentence": "Humanitarian access in many parts of Myanmar remains restricted due to insecurity, roadblocks and challenges in obtaining access approvals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002978755219373852,
+          "perplexity": 42,
+          "sentence": "As a result, host communities and local responders continue to play a leading role in assisting displaced populations - demonstrating solidarity with each other by donating what they can.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003166082897223532,
+          "perplexity": 41,
+          "sentence": "UNHCR has been working with UN agencies, local partners and communities to assist those affected wherever possible, including displaced and stateless populations and host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003221756487619132,
+          "perplexity": 877,
+          "sentence": "In 2021, UNHCR's emergency",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This is a summary of what was said by UNHCR spokesperson Matthew Saltmarsh \u2013 to whom quoted text may be attributed \u2013 at today's press briefing at the Palais des Nations in Geneva. UNHCR, the UN Refugee Agency, is stepping up its emergency response to assist hundreds of thousands of internally displaced people (IDPs) in Myanmar as their number crossed the 800,000 mark \u2013 doubling since February 2021. Security is deteriorating rapidly across the country as fighting and armed conflict intensifies with no sign of abating. UNHCR forecasts an accelerating trend of displacements in the coming weeks and months. Some 440,000 people have been newly displaced since February 2021, according to UNHCR data, adding to an existing 370,000 who had fled their homes previously. UNHCR and partners are scaling up operations and deploying additional resources to support as many of the displaced as possible, complementing local community responses. In the South-East of the country, Kayin, Kayah, Mon and Shan (South) states as well as Bago (East) and Tanintharyi regions collectively account for more than half of the 440,000 newly displaced civilians. Kayin and Kayah states remain the most affected as hostilities between various armed groups have triggered large-scale displacements. Another conflict-affected area with pressing humanitarian needs is Myanmar\u2019s North-West, where about 190,000 people remain displaced in Chin State, Magway Region and Sagaing Region. Humanitarian access in many parts of Myanmar remains restricted due to insecurity, roadblocks and challenges in obtaining access approvals. As a result, host communities and local responders continue to play a leading role in assisting displaced populations \u2013 demonstrating solidarity with each other by donating what they can. UNHCR has been working with UN agencies, local partners and communities to assist those affected wherever possible, including displaced and stateless populations and host communities. In 2021, UNHCR\u2019s emergency",
+  "date": "11 February 2022"
+}

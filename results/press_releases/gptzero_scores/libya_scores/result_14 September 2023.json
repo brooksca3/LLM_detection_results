@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "498cd820-9ae4-4599-871c-3eea514d65f7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.35669708251953,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.05197824910283089,
+          "perplexity": 26,
+          "sentence": "World Food Programme rolls out food assistance to families affected by Storm Daniel The World Food Programme (WFP) has begun providing desperately needed food assistance to more than 5,000 families displaced by massive flooding in Libya.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05312253162264824,
+          "perplexity": 53,
+          "sentence": "Entire neighbourhoods in the city of Derna have disappeared, along with many of their residents, after flood waters from Storm Daniel caused two ageing dams to collapse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04872126132249832,
+          "perplexity": 123,
+          "sentence": "On Tuesday, food distributions through WFP's partner LibAid had already reached 2,000 people who had fled Derna and arrived in the city of Benghazi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04545147344470024,
+          "perplexity": 118,
+          "sentence": "On Wednesday, WFP was distributing food to about 700 flood-affected families in four locations of Derna city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05057897791266441,
+          "perplexity": 59,
+          "sentence": "\u201cThese devastating floods have struck in a country where a profound political crisis has already left so many in a desperate situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050960492342710495,
+          "perplexity": 35,
+          "sentence": "Alongside the tragic loss of life, thousands of families in Derna are now without food or shelter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04953760653734207,
+          "perplexity": 42,
+          "sentence": "WFP is on the ground, supporting local efforts and providing assistance to the most vulnerable people as they try to get back on their feet,\u201d said WFP Executive Director, Cindy McCain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05182281509041786,
+          "perplexity": 13,
+          "sentence": "The flood waters in the east of the country have damaged critical infrastructure, including roads, bridges, and water supply systems, exacerbating the humanitarian situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04826755076646805,
+          "perplexity": 10,
+          "sentence": "It is estimated that tens of thousands of people have been displaced by the storm and subsequent flooding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04925113171339035,
+          "perplexity": 36,
+          "sentence": "WFP is part of the Libya Rapid Response Mechanism (RRM), which brings together local partners and UN agencies, and ensures the quick access needed to provide assistance within 72 hours of a disaster.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.047616034746170044,
+          "perplexity": 58,
+          "sentence": "WFP is working closely with local authorities and United Nations partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050107721239328384,
+          "perplexity": 45,
+          "sentence": "WFP's planned emergency operation will aim to provide monthly food assistance to 100,000 people in flood-affected areas for three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04729723930358887,
+          "perplexity": 141,
+          "sentence": "WFP is grateful to donors like Japan and Switzerland who provided the funds which allowed WFP to preposition the food",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "World Food Programme rolls out food assistance to families affected by Storm Daniel The World Food Programme (WFP) has begun providing desperately needed food assistance to more than 5,000 families displaced by massive flooding in Libya. Entire neighbourhoods in the city of Derna have disappeared, along with many of their residents, after flood waters from Storm Daniel caused two ageing dams to collapse. On Tuesday, food distributions through WFP\u2019s partner LibAid had already reached 2,000 people who had fled Derna and arrived in the city of Benghazi. On Wednesday, WFP was distributing food to about 700 flood-affected families in four locations of Derna city. \u201cThese devastating floods have struck in a country where a profound political crisis has already left so many in a desperate situation. Alongside the tragic loss of life, thousands of families in Derna are now without food or shelter. WFP is on the ground, supporting local efforts and providing assistance to the most vulnerable people as they try to get back on their feet,\u201d said WFP Executive Director, Cindy McCain. The flood waters in the east of the country have damaged critical infrastructure, including roads, bridges, and water supply systems, exacerbating the humanitarian situation. It is estimated that tens of thousands of people have been displaced by the storm and subsequent flooding. WFP is part of the Libya Rapid Response Mechanism (RRM), which brings together local partners and UN agencies, and ensures the quick access needed to provide assistance within 72 hours of a disaster. WFP is working closely with local authorities and United Nations partners. WFP\u2019s planned emergency operation will aim to provide monthly food assistance to 100,000 people in flood-affected areas for three months. WFP is grateful to donors like Japan and Switzerland who provided the funds which allowed WFP to preposition the food",
+  "date": "14 September 2023"
+}

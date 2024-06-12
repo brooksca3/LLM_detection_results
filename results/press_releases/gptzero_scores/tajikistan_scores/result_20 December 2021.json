@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a2932c8-5b2a-4ca9-b351-ad782bb960a7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002098745999265439,
+        "human": 0.9979012540007346,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002098745999265439,
+      "confidence_category": "high",
+      "confidence_score": 0.9979012540007346,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002098745999265439,
+          "human": 0.9979012540007346,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.991716384887695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001100741428672336,
+          "perplexity": 51,
+          "sentence": "The Government of Tajikistan and the United Nations launched the Global Partnership to eliminate all forms of Stigma and Discrimination related to HIV during official ceremony attended by government officials, UN and donors' representatives, CSOs, academia and media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011195929255336523,
+          "perplexity": 86,
+          "sentence": "The meeting was convened by Mr. Ziyovuddin Avgonov, Executive Secretary of the NCC to fight AIDS, TB and Malaria in Tajikistan, Ms. Sezin Sinanoglu, UN Resident Coordinator in Tajikistan with participation of Mr. Amanjolov Nurali, Head of the coalition of people living with HIV for the Central Asia, Ms Alexandra Volgina, GNP+ Coordinator of the Global Partnership initiative, Netherlands.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010562237730482593,
+          "perplexity": 72,
+          "sentence": "Key facts about the Global Partnership for Action to Eliminate all forms of HIV-related Stigma and Discrimination were presented during the conference, including its concept, experiences of other countries and recommendations on possible further steps that Tajikistan will undertake within the work plan to implement the Partnership recommendations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010606645810185,
+          "perplexity": 42,
+          "sentence": "Joining the global partnership allows governments, civil society organizations and others to strengthen partnership with various stakeholders to assess the situation of stigma and discrimination in the country, act and allocate resources and Monitor and report on the concrete steps taken to address HIV-related stigma and discrimination in the targeted settings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010964033572236076,
+          "perplexity": 56,
+          "sentence": "Mr. Ziyovuddin Avgonov thanked the UN and partners for cooperation in fighting HIV/AIDS and mentioned following: \u201cWithout addressing HIV-related stigma and discrimination, we won't achieve the goal of ending AIDS as a public health threat by 2030.\u201d Ms. Sezin Sinanoglu, UN Resident Coordinator noted: \u201cOnly together and only when we are speaking out on the harmful effect of stigma and discrimination on epidemic and the rights of people living with HIV, we can ensure negative effects of the epidemic are minimized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001077059714589268,
+          "perplexity": 34,
+          "sentence": "Tajikistan knows how to deal with HIV/AIDS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013504594971891493,
+          "perplexity": 96,
+          "sentence": "Let's just join hands, ring the alarm bells and refocus our efforts to the new situation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Tajikistan and the United Nations launched the Global Partnership to eliminate all forms of Stigma and Discrimination related to HIV during official ceremony attended by government officials, UN and donors\u2019 representatives, CSOs, academia and media. The meeting was convened by Mr. Ziyovuddin Avgonov, Executive Secretary of the NCC to fight AIDS, TB and Malaria in Tajikistan, Ms. Sezin Sinanoglu, UN Resident Coordinator in Tajikistan with participation of Mr. Amanjolov Nurali, Head of the coalition of people living with HIV for the Central Asia, Ms Alexandra Volgina, GNP+ Coordinator of the Global Partnership initiative, Netherlands. Key facts about the Global Partnership for Action to Eliminate all forms of HIV-related Stigma and Discrimination were presented during the conference, including its concept, experiences of other countries and recommendations on possible further steps that Tajikistan will undertake within the work plan to implement the Partnership recommendations. Joining the global partnership allows governments, civil society organizations and others to strengthen partnership with various stakeholders to assess the situation of stigma and discrimination in the country, act and allocate resources and Monitor and report on the concrete steps taken to address HIV-related stigma and discrimination in the targeted settings. Mr. Ziyovuddin Avgonov thanked the UN and partners for cooperation in fighting HIV/AIDS and mentioned following: \u201cWithout addressing HIV-related stigma and discrimination, we won't achieve the goal of ending AIDS as a public health threat by 2030.\u201d Ms. Sezin Sinanoglu, UN Resident Coordinator noted: \u201cOnly together and only when we are speaking out on the harmful effect of stigma and discrimination on epidemic and the rights of people living with HIV, we can ensure negative effects of the epidemic are minimized. Tajikistan knows how to deal with HIV/AIDS. Let\u2019s just join hands, ring the alarm bells and refocus our efforts to the new situation",
+  "date": "20 December 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9c5a1cec-d82b-4847-b465-cd62e912431e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.159135818481445,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023967841116245836,
+          "perplexity": 145,
+          "sentence": "The United Nations Joint Programme Leaving No One Behind (UN JP LNOB) on Tuesday, 7th February, 2023 held an information and mobilization session with the Ministry of Regional Development and Sports and key Programme stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023336513550020754,
+          "perplexity": 156,
+          "sentence": "The session aimed at creating awareness of the UN JP LNOB policy objectives among staff members of the various departments of the Ministry and other national stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023694885021541268,
+          "perplexity": 107,
+          "sentence": "It also aimed at identifying key policy gaps and potential areas for collaboration so as to tap into the available knowledge and resource base among stakeholders to enable the achievement of the UN JP LNOB objectives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022200384410098195,
+          "perplexity": 94,
+          "sentence": "Key sessions in the meeting included welcome remarks by the Permanent Secretary of the Ministry of Regional Development and Sports Mr. Maverick.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022800829901825637,
+          "perplexity": 86,
+          "sentence": "Boejoekoe; the UN JPLNOB overview which was presented by the UNDP Programme Officer for Social Development and SDG Integration Mr. Ruben Martoredjo, presentations of the various national policies including the Regional Development policy, the policy on the sustainable development of Indigenous peoples, the policy on the sustainable development of Surinamese of Afro descent, the policy on Agricultural Development in the Interior and the policy relating to other tribal peoples.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022633271873928607,
+          "perplexity": 118,
+          "sentence": "During the information session, representatives of government departments shared their success stories of similar interventions and raised salient issues for the successful implementation of the UN JPLNOB.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019579732907004654,
+          "perplexity": 130,
+          "sentence": "Some of the key success stories shared include the UNDP sponsored Cloth mask-making project for Indigenous and Tribal women whose skills were later used to make uniforms for indigenous school children after COVID-19 had been controlled, the introduction of a new highlight rice project among indigenous communities of West Suriname to supplement cassava that was originally grown, among other projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020152806246187538,
+          "perplexity": 141,
+          "sentence": "Session participants therefore called for interventions that can be adapted to alternative use or replicated in other communities to expand their reach and associated",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Joint Programme Leaving No One Behind (UN JP LNOB) on Tuesday, 7th February, 2023 held an information and mobilization session with the Ministry of Regional Development and Sports and key Programme stakeholders. The session aimed at creating awareness of the UN JP LNOB policy objectives among staff members of the various departments of the Ministry and other national stakeholders. It also aimed at identifying key policy gaps and potential areas for collaboration so as to tap into the available knowledge and resource base among stakeholders to enable the achievement of the UN JP LNOB objectives. Key sessions in the meeting included welcome remarks by the Permanent Secretary of the Ministry of Regional Development and Sports Mr. Maverick. Boejoekoe; the UN JPLNOB overview which was presented by the UNDP Programme Officer for Social Development and SDG Integration Mr. Ruben Martoredjo, presentations of the various national policies including the Regional Development policy, the policy on the sustainable development of Indigenous peoples, the policy on the sustainable development of Surinamese of Afro descent, the policy on Agricultural Development in the Interior and the policy relating to other tribal peoples. During the information session, representatives of government departments shared their success stories of similar interventions and raised salient issues for the successful implementation of the UN JPLNOB. Some of the key success stories shared include the UNDP sponsored Cloth mask-making project for Indigenous and Tribal women whose skills were later used to make uniforms for indigenous school children after COVID-19 had been controlled, the introduction of a new highlight rice project among indigenous communities of West Suriname to supplement cassava that was originally grown, among other projects. Session participants therefore called for interventions that can be adapted to alternative use or replicated in other communities to expand their reach and associated",
+  "date": "03 April 2023"
+}

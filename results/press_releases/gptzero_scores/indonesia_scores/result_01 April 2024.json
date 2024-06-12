@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "53b10274-acc3-49d3-820f-2296fe278a5d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.23428450668829462,
+        "human": 0.7643618418798048,
+        "mixed": 0.0013536514319004809
+      },
+      "completely_generated_prob": 0.23428450668829462,
+      "confidence_category": "low",
+      "confidence_score": 0.7643618418798048,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.23428450668829462,
+          "human": 0.7643618418798048,
+          "mixed": 0.0013536514319004809
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.030720710754395,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.48905596137046814,
+          "perplexity": 28,
+          "sentence": "The UN Human Rights Committee today issued its findings on Chile, Guyana, Indonesia, Namibia, Serbia, Somalia and the United Kingdom of Great Britain and Northern Ireland after examining the seven States parties in its latest session.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.49211597442626953,
+          "perplexity": 20,
+          "sentence": "The findings contain the Committee's main concerns and recommendations on the implementation of the International Covenant on Civil and Political Rights, as well as positive aspects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.48977652192115784,
+          "perplexity": 41,
+          "sentence": "Highlights include: The Committee noted with concern that a large number of human rights violations were committed in the context of \u201csocial outburst\u201d due to the disproportionate and arbitrary use of force and brutality by the police and armed forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.47392839193344116,
+          "perplexity": 55,
+          "sentence": "It regretted that only a few cases had been formally processed and resulted in convictions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4734748899936676,
+          "perplexity": 35,
+          "sentence": "The Committee urged Chile to set up a control mechanism to prevent the excessive use of force during law enforcement operations, ensure accountability at all levels, guarantee that victims receive comprehensive reparations, and consider adopting a law on comprehensive reparations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.46376121044158936,
+          "perplexity": 35,
+          "sentence": "While welcoming Chile's measures towards gender equality, the Committee, however, reflected its concern about the absence of comprehensive discrimination legislation explicitly guaranteeing the principle of equality between women and men, and the fact that parity has not yet been achieved at the electoral level, as well as the persistence of wage gaps and other inequalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4591464400291443,
+          "perplexity": 27,
+          "sentence": "It called upon Chile to intensify efforts to finalize legislative projects that explicitly guarantee equality between men and women, continue its efforts to increase women's participation in political and public life, and eliminate wage inequalities between men and women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4598163068294525,
+          "perplexity": 28,
+          "sentence": "The Committee was concerned about the insufficient recognition of indigenous peoples' rights to the lands and territories and the lack of progress in amending the Amerindian Act.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4639856517314911,
+          "perplexity": 63,
+          "sentence": "The Committee was also troubled by reports that inadequately regulated mining activities in Amerindian areas had caused environmental degradation and threatened Amerindians'",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Human Rights Committee today issued its findings on Chile, Guyana, Indonesia, Namibia, Serbia, Somalia and the United Kingdom of Great Britain and Northern Ireland after examining the seven States parties in its latest session. The findings contain the Committee\u2019s main concerns and recommendations on the implementation of the International Covenant on Civil and Political Rights, as well as positive aspects. Highlights include: The Committee noted with concern that a large number of human rights violations were committed in the context of \u201csocial outburst\u201d due to the disproportionate and arbitrary use of force and brutality by the police and armed forces. It regretted that only a few cases had been formally processed and resulted in convictions. The Committee urged Chile to set up a control mechanism to prevent the excessive use of force during law enforcement operations, ensure accountability at all levels, guarantee that victims receive comprehensive reparations, and consider adopting a law on comprehensive reparations. While welcoming Chile\u2019s measures towards gender equality, the Committee, however, reflected its concern about the absence of comprehensive discrimination legislation explicitly guaranteeing the principle of equality between women and men, and the fact that parity has not yet been achieved at the electoral level, as well as the persistence of wage gaps and other inequalities. It called upon Chile to intensify efforts to finalize legislative projects that explicitly guarantee equality between men and women, continue its efforts to increase women\u2019s participation in political and public life, and eliminate wage inequalities between men and women. The Committee was concerned about the insufficient recognition of indigenous peoples\u2019 rights to the lands and territories and the lack of progress in amending the Amerindian Act. The Committee was also troubled by reports that inadequately regulated mining activities in Amerindian areas had caused environmental degradation and threatened Amerindians\u2019",
+  "date": "01 April 2024"
+}

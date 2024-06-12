@@ -1,0 +1,81 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e73879fe-eaed-4762-b6bf-a1cb218cfebf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.36195945739746,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003284657374024391,
+          "perplexity": 62,
+          "sentence": "Human Resources Development and Advancement of the Legal Order of the World's Oceans Call for applications for the 2024 session of the Programme The Division for Ocean Affairs and the Law of the Sea of the Office of Legal Affairs of the United Nations (\u201cOLA/DOALOS\u201d), is now accepting applications for the 2024 session of the United Nations - The Nippon Foundation Fellowship Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002683273982256651,
+          "perplexity": 29,
+          "sentence": "The objective of the United Nations - The Nippon Foundation Fellowship is to provide funded opportunities for advanced training in the field of ocean affairs and the law of the sea, or related disciplines including marine science in support of management frameworks, to mid-level Government officials and other mid-level professionals from developing States so that they may obtain the necessary skills to assist their countries in the implementation of the legal framework set out in the United Nations Convention on the Law of the Sea (UNCLOS), and related instruments, as well as to formulate comprehensive ocean management regimes, including within the context of the 2030 The structure of the Programme consists of two phases: a three-month training phase with OLA/DOALOS at the United Nations Headquarters in New York (from approximately mid-March to June 2024), immediately followed by a six-month research and study phase with a host institution with demonstrated expertise in the Fellow's field of research (from July to December 2024).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14173895120620728,
+          "perplexity": 22,
+          "sentence": "\u00b7 Possess at least a first university degree or equivalent \u00b7 Demonstrate an ability to undertake advanced academic research and studies \u00b7 Be a mid-level government official or mid-level professional dealing directly with ocean affairs and/or the law of the sea such as, but not limited to, the implementation of the United Nations Convention on the Law of the Sea, including the establishment of maritime zones and the delimitation of maritime boundaries, sustainable development of oceans",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Human Resources Development and Advancement of the Legal Order of the World's Oceans Call for applications for the 2024 session of the Programme The Division for Ocean Affairs and the Law of the Sea of the Office of Legal Affairs of the United Nations (\u201cOLA/DOALOS\u201d), is now accepting applications for the 2024 session of the United Nations - The Nippon Foundation Fellowship Programme. The objective of the United Nations \u2013 The Nippon Foundation Fellowship is to provide funded opportunities for advanced training in the field of ocean affairs and the law of the sea, or related disciplines including marine science in support of management frameworks, to mid-level Government officials and other mid-level professionals from developing States so that they may obtain the necessary skills to assist their countries in the implementation of the legal framework set out in the United Nations Convention on the Law of the Sea (UNCLOS), and related instruments, as well as to formulate comprehensive ocean management regimes, including within the context of the 2030 The structure of the Programme consists of two phases: a three-month training phase with OLA/DOALOS at the United Nations Headquarters in New York (from approximately mid-March to June 2024), immediately followed by a six-month research and study phase with a host institution with demonstrated expertise in the Fellow\u2019s field of research (from July to December 2024). \u2022 Possess at least a first university degree or equivalent \u2022 Demonstrate an ability to undertake advanced academic research and studies \u2022 Be a mid-level government official or mid-level professional dealing directly with ocean affairs and/or the law of the sea such as, but not limited to, the implementation of the United Nations Convention on the Law of the Sea, including the establishment of maritime zones and the delimitation of maritime boundaries, sustainable development of oceans",
+  "date": "06 July 2023"
+}

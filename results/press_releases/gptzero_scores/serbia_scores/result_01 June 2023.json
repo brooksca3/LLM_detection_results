@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "df5fdec3-2fbb-453f-acc9-0dc644261cf8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.621009826660156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001518333883723244,
+          "perplexity": 38,
+          "sentence": "The network \u201cFor Refugees\u201d, which gathers representatives of the private sector with the aim of providing support for the integration of refugees and improving their living conditions in Serbia, was presented today at the conference \u201cThe role of the private sector in the refugee integration \u201c.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001405165676260367,
+          "perplexity": 28,
+          "sentence": "The initiative was launched by the UN Refugee Agency (UNHCR) in Serbia and IKEA Serbia, and membership in the network was signed by eight companies and business associations, among which are some of the largest employers in Serbia and key actors in the retail, tourism-catering and other industries, as well as sectors that provide capacity building and business consulting services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013604892592411488,
+          "perplexity": 65,
+          "sentence": "Members of the network have the opportunity to support refugees in one or more ways: employment and internships, training, product and expert time donations, advocacy, as well as supporting projects that help forcibly displaced people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014291481056716293,
+          "perplexity": 60,
+          "sentence": "\u201cPeople who were forced to flee their countries and are starting their lives from scratch in Serbia deserve the support of the entire society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013375260459724814,
+          "perplexity": 42,
+          "sentence": "The private sector can make an important contribution to building a better life for refugees, but refugees can also support the private sector - with their skills, talents, diverse knowledge and experiences,\u201d said Soufiane Adjali, UNHCR Representative to Serbia, adding: \u201cWe are convinced that participation in the network we are launching can help not only refugees, but also member companies - to further improve operations, dedication to local communities, diversity and inclusion, as well as the achievement of sustainable development goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012741134560201317,
+          "perplexity": 26,
+          "sentence": "We are immensely grateful to the partners from IKEA Serbia, as well as to the representatives of the private sector who became the first members of the network.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000130814325530082,
+          "perplexity": 60,
+          "sentence": "We invite all socially responsible business actors to join our initiative and be there for refugees, one of the most vulnerable groups in society\u201c.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014804894453845918,
+          "perplexity": 19,
+          "sentence": "To the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The network \u201cFor Refugees\u201d, which gathers representatives of the private sector with the aim of providing support for the integration of refugees and improving their living conditions in Serbia, was presented today at the conference \u201cThe role of the private sector in the refugee integration \u201c. The initiative was launched by the UN Refugee Agency (UNHCR) in Serbia and IKEA Serbia, and membership in the network was signed by eight companies and business associations, among which are some of the largest employers in Serbia and key actors in the retail, tourism-catering and other industries, as well as sectors that provide capacity building and business consulting services. Members of the network have the opportunity to support refugees in one or more ways: employment and internships, training, product and expert time donations, advocacy, as well as supporting projects that help forcibly displaced people. \u201cPeople who were forced to flee their countries and are starting their lives from scratch in Serbia deserve the support of the entire society. The private sector can make an important contribution to building a better life for refugees, but refugees can also support the private sector \u2013 with their skills, talents, diverse knowledge and experiences,\u201d said Soufiane Adjali, UNHCR Representative to Serbia, adding: \u201cWe are convinced that participation in the network we are launching can help not only refugees, but also member companies \u2013 to further improve operations, dedication to local communities, diversity and inclusion, as well as the achievement of sustainable development goals. We are immensely grateful to the partners from IKEA Serbia, as well as to the representatives of the private sector who became the first members of the network. We invite all socially responsible business actors to join our initiative and be there for refugees, one of the most vulnerable groups in society\u201c. To the",
+  "date": "01 June 2023"
+}

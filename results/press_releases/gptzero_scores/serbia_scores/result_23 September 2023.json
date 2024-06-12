@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f7544dc5-bf65-4278-9dbd-c8e519b32c89",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 52.12031936645508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015091583190951496,
+          "perplexity": 203,
+          "sentence": "Coca-Cola System and UNDP together stimulate sustainable development of the Vlasina region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014040886890143156,
+          "perplexity": 117,
+          "sentence": "Surdulica, 23 September 2023 - The tourist offer of the protected region along Vlasina Lake is enriched, as of today, with 47 kilometres of rebuilt and landscaped hiking trails, thanks to the initiative titled \u201cVlasina - Pure Love\u201d which is jointly realised by Coca-Cola System and United Nations Development Programme (UNDP) in cooperation with partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017303141066804528,
+          "perplexity": 21,
+          "sentence": "The aim of the initiative is to improve the economic and social development of the Vlasina area, along with the preservation of the environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001458909537177533,
+          "perplexity": 96,
+          "sentence": "The importance of the \u201cVlasina - Pure Love\u201d initiative for the development of the location was recognised and institutionally supported by the municipality of Surdulica, the Surdulica Tourist Organisation, as well as the Minister's Cabinet for the development of underdeveloped municipalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016764298197813332,
+          "perplexity": 48,
+          "sentence": "\"The 'Vlasina - Pure Love' project is an example of how we can work together to enhance the natural beauty and economic sustainability of a region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012865762982983142,
+          "perplexity": 67,
+          "sentence": "Coca-Cola System, UNDP, Surdulica local self-government, Tourist Organisation of Surdulica, and Hiking Union of Serbia, with the support of the Ministry that I lead, work on the improvement of the Vlasina Lake ecosystem, supporting local entrepreneurs and enabling tourists to enjoy this marvellous destination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013533291348721832,
+          "perplexity": 113,
+          "sentence": "The Vlasina has always been the jewel of the region and our country, but today, due to this project, it dazzles brighter than ever before,\u201d said the Minister without portfolio in charge of improving the development of underdeveloped municipalities, Novica Ton\u010dev.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012257532216608524,
+          "perplexity": 65,
+          "sentence": "In cooperation with the Mountaineering Association of Serbia, the already existing hiking trails leading to the mountaintops of \u010cemernik and Vrtop were renovated, while one new, tourist-educational trail was also made.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001244911109097302,
+          "perplexity": 93,
+          "sentence": "More than 80 information boards were installed, which acquaint the visitors in a catchy and interactive way, with rare, protected, and autochthonous species of plants and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Coca-Cola System and UNDP together stimulate sustainable development of the Vlasina region. Surdulica, 23 September 2023 \u2013 The tourist offer of the protected region along Vlasina Lake is enriched, as of today, with 47 kilometres of rebuilt and landscaped hiking trails, thanks to the initiative titled \u201cVlasina \u2013 Pure Love\u201d which is jointly realised by Coca-Cola System and United Nations Development Programme (UNDP) in cooperation with partners. The aim of the initiative is to improve the economic and social development of the Vlasina area, along with the preservation of the environment. The importance of the \u201cVlasina \u2013 Pure Love\u201d initiative for the development of the location was recognised and institutionally supported by the municipality of Surdulica, the Surdulica Tourist Organisation, as well as the Minister\u2019s Cabinet for the development of underdeveloped municipalities. \"The \u2018Vlasina \u2013 Pure Love\u2019 project is an example of how we can work together to enhance the natural beauty and economic sustainability of a region. Coca-Cola System, UNDP, Surdulica local self-government, Tourist Organisation of Surdulica, and Hiking Union of Serbia, with the support of the Ministry that I lead, work on the improvement of the Vlasina Lake ecosystem, supporting local entrepreneurs and enabling tourists to enjoy this marvellous destination. The Vlasina has always been the jewel of the region and our country, but today, due to this project, it dazzles brighter than ever before,\u201d said the Minister without portfolio in charge of improving the development of underdeveloped municipalities, Novica Ton\u010dev. In cooperation with the Mountaineering Association of Serbia, the already existing hiking trails leading to the mountaintops of \u010cemernik and Vrtop were renovated, while one new, tourist-educational trail was also made. More than 80 information boards were installed, which acquaint the visitors in a catchy and interactive way, with rare, protected, and autochthonous species of plants and",
+  "date": "23 September 2023"
+}

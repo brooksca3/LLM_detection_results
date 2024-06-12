@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "488350da-54c4-420a-baf2-6739f5505baa",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.400903701782227,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012337799125816673,
+          "perplexity": 66,
+          "sentence": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012871282524429262,
+          "perplexity": 17,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012183952640043572,
+          "perplexity": 39,
+          "sentence": "Among the fallen peacekeepers to be honoured are two from Zambia: WO1 Godfrey Philimon Mwape who served with the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA; and Ms. Norma Sialumba Mwambazi who served in a civilian capacity with the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001232426438946277,
+          "perplexity": 34,
+          "sentence": "Zambia is the 20th largest contributor of uniformed personnel to the UN Peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012444387539289892,
+          "perplexity": 16,
+          "sentence": "It currently deploys nearly 1,000 military and police personnel to the UN peace operations in Abyei, the Central African Republic, the Democratic Republic of the Congo, Lebanon, Mali, and South Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007173502817749977,
+          "perplexity": 90,
+          "sentence": "At the ceremony, the Secretary-General will also award the '2020 Military Gender Advocate of the Year Award' to Major Steplyne Nyaboga a Kenyan military officer who served with the African Union - United Nations Hybrid Operation in Darfur, (UNAMID).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008083405555225909,
+          "perplexity": 26,
+          "sentence": "Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In a message to mark the Day, the Secretary-General said of the fallen peacekeepers: \u201cTheir service and sacrifices will never be forgotten.\u201d He further said: \u201cI express my deep gratitude to the 85,000 civilian, police and military personnel currently deployed in some of the world's most challenging hotspots to protect the vulnerable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year. Among the fallen peacekeepers to be honoured are two from Zambia: WO1 Godfrey Philimon Mwape who served with the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA; and Ms. Norma Sialumba Mwambazi who served in a civilian capacity with the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO). Zambia is the 20th largest contributor of uniformed personnel to the UN Peacekeeping. It currently deploys nearly 1,000 military and police personnel to the UN peace operations in Abyei, the Central African Republic, the Democratic Republic of the Congo, Lebanon, Mali, and South Sudan. At the ceremony, the Secretary-General will also award the \u20182020 Military Gender Advocate of the Year Award\u2019 to Major Steplyne Nyaboga a Kenyan military officer who served with the African Union \u2013 United Nations Hybrid Operation in Darfur, (UNAMID). Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In a message to mark the Day, the Secretary-General said of the fallen peacekeepers: \u201cTheir service and sacrifices will never be forgotten.\u201d He further said: \u201cI express my deep gratitude to the 85,000 civilian, police and military personnel currently deployed in some of the world\u2019s most challenging hotspots to protect the vulnerable",
+  "date": "25 May 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2e3e071d-a587-4207-a4b9-38bdbd828a2f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17599832360568085,
+        "human": 0.8229847914703926,
+        "mixed": 0.0010168849239266281
+      },
+      "completely_generated_prob": 0.17599832360568085,
+      "confidence_category": "low",
+      "confidence_score": 0.8229847914703926,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17599832360568085,
+          "human": 0.8229847914703926,
+          "mixed": 0.0010168849239266281
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.496681213378906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.2627793252468109,
+          "perplexity": 11,
+          "sentence": "Bishkek, Kyrgyzstan - The Embassy of the Russian Federation in the Kyrgyz Republic and the World Health Organization (WHO) have donated emergency medical kits to the Ministry of Health of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.25090593099594116,
+          "perplexity": 27,
+          "sentence": "This humanitarian aid is provided by the Russian Federation through the WHO and includes medical supplies and a specialized medical module to provide primary health care to the affected population in emergencies, such as earthquakes and flash floods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.26678666472435,
+          "perplexity": 74,
+          "sentence": "The transferred cargo is enough for providing on site health care to 10,000 people for three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.24885737895965576,
+          "perplexity": 106,
+          "sentence": "Also, a special WHO injury and emergency surgery kit can provide materials and medicines to meet the needs of 50 patients, with 2 operations per patient (100 interventions) in need of surgery in emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2423674762248993,
+          "perplexity": 77,
+          "sentence": "The official handover ceremony of this humanitarian cargo was attended by the KR Deputy Minister of Health, WHO Representative to the KR, Russian Federation Minister Counselor to the KR and health care workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.22520634531974792,
+          "perplexity": 27,
+          "sentence": "The Deputy Minister of Health of the KR, Mr. Karataev has expressed gratitude to the Russian Federation and World Health Organization (WHO) for supporting and strengthening emergency preparedness in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.23000958561897278,
+          "perplexity": 75,
+          "sentence": "The representative of the Russian Federation Embassy has stressed the allied and strategic nature of the Russian-Kyrgyz relations, in which Moscow provides the republic with comprehensive and continuous assistance by the supply of medicines, PCR-tests, medical equipment, personal protective equipment as humanitarian cargo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.23765288293361664,
+          "perplexity": 32,
+          "sentence": "Mrs Nazira Artykova, WHO Representative to the Kyrgyz Republic, has emphasized the readiness to provide further support to Kyrgyzstan and noted the importance of strengthening emergency preparedness in the field of health care and implementation of international health regulations, which will help the country to respond effectively during emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.28952768445014954,
+          "perplexity": 89,
+          "sentence": "The cargo was shipped from the WHO regional logistics hub in Dubai, with the total weigh exceeding 4 tons and cost of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, Kyrgyzstan - The Embassy of the Russian Federation in the Kyrgyz Republic and the World Health Organization (WHO) have donated emergency medical kits to the Ministry of Health of the Kyrgyz Republic. This humanitarian aid is provided by the Russian Federation through the WHO and includes medical supplies and a specialized medical module to provide primary health care to the affected population in emergencies, such as earthquakes and flash floods. The transferred cargo is enough for providing on site health care to 10,000 people for three months. Also, a special WHO injury and emergency surgery kit can provide materials and medicines to meet the needs of 50 patients, with 2 operations per patient (100 interventions) in need of surgery in emergencies. The official handover ceremony of this humanitarian cargo was attended by the KR Deputy Minister of Health, WHO Representative to the KR, Russian Federation Minister Counselor to the KR and health care workers. The Deputy Minister of Health of the KR, Mr. Karataev has expressed gratitude to the Russian Federation and World Health Organization (WHO) for supporting and strengthening emergency preparedness in the country. The representative of the Russian Federation Embassy has stressed the allied and strategic nature of the Russian-Kyrgyz relations, in which Moscow provides the republic with comprehensive and continuous assistance by the supply of medicines, PCR-tests, medical equipment, personal protective equipment as humanitarian cargo. Mrs Nazira Artykova, WHO Representative to the Kyrgyz Republic, has emphasized the readiness to provide further support to Kyrgyzstan and noted the importance of strengthening emergency preparedness in the field of health care and implementation of international health regulations, which will help the country to respond effectively during emergencies. The cargo was shipped from the WHO regional logistics hub in Dubai, with the total weigh exceeding 4 tons and cost of",
+  "date": "26 November 2020"
+}

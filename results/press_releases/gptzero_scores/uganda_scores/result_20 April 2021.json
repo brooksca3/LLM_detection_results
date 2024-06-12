@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9ad52167-f12f-4ac7-841c-47ea31fd3332",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.51390838623047,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031560176284983754,
+          "perplexity": 64,
+          "sentence": "The Press Conference was held at the Uganda Media Centre KAMPALA, The Government of Japan in March committed approximately US$ 9.8 million to support refugees and host communities as well as border security, with a strong focus on mitigating the COVID-19 impacts, over a period of one year from April 2021 to March 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031266588484868407,
+          "perplexity": 5,
+          "sentence": "The support has been channeled through the United Nations and International Organizations: the United Nations High Commissioner for Refugees (UNHCR), the United Nations Population Fund (UNFPA), the United Nations Entity for Gender Equality and the empowerment of Women (UN Women), the United Nations Children's Fund (UNICEF), the United Nations World Food Programme (WFP), the United Nations Development Programme (UNDP), the International Organization for Migration (IOM), and the International Food Policy Research Institute (IFPRI).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004836436710320413,
+          "perplexity": 143,
+          "sentence": "\u201cJapan recognizes that the humanitarian situation in refugee-hosting areas is devastating, especially under the spread of the COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002992615045513958,
+          "perplexity": 73,
+          "sentence": "Therefore, the 2021's contribution has been made with a specific focus on mitigating the impacts of the COVID-19 to the vulnerable population, including refugees, host community members, women and children in Uganda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000244363269302994,
+          "perplexity": 88,
+          "sentence": "Acknowledging Uganda's generous progressive refugee policy and needs for humanitarian-development supports, the Government of Japan is determined to continue to support Uganda's solidarity with refugees and host communities,\u201d said Ambassador Fukuzawa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002225544594693929,
+          "perplexity": 27,
+          "sentence": "Honourable Hilary Onek, Minister of Relief, Disaster Preparedness and Refugees, who attended the press conference said, \u201cOn behalf of the Government of Uganda I would like to take this opportunity to thank the Government of Japan through the Ambassador of Japan in Uganda for the generosity exhibited towards the refugee community.The Government of Uganda commends the Government of Japan for their tireless efforts and support to Uganda, indeed Japan will always remain a true partner to Uganda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004124307306483388,
+          "perplexity": 113,
+          "sentence": "I am here to emphasize to the world Uganda's generosity despite the scarcity of resources",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Press Conference was held at the Uganda Media Centre KAMPALA, The Government of Japan in March committed approximately US$ 9.8 million to support refugees and host communities as well as border security, with a strong focus on mitigating the COVID-19 impacts, over a period of one year from April 2021 to March 2022. The support has been channeled through the United Nations and International Organizations: the United Nations High Commissioner for Refugees (UNHCR), the United Nations Population Fund (UNFPA), the United Nations Entity for Gender Equality and the empowerment of Women (UN Women), the United Nations Children's Fund (UNICEF), the United Nations World Food Programme (WFP), the United Nations Development Programme (UNDP), the International Organization for Migration (IOM), and the International Food Policy Research Institute (IFPRI). \u201cJapan recognizes that the humanitarian situation in refugee-hosting areas is devastating, especially under the spread of the COVID-19. Therefore, the 2021\u2019s contribution has been made with a specific focus on mitigating the impacts of the COVID-19 to the vulnerable population, including refugees, host community members, women and children in Uganda. Acknowledging Uganda\u2019s generous progressive refugee policy and needs for humanitarian\u2013development supports, the Government of Japan is determined to continue to support Uganda\u2019s solidarity with refugees and host communities,\u201d said Ambassador Fukuzawa. Honourable Hilary Onek, Minister of Relief, Disaster Preparedness and Refugees, who attended the press conference said, \u201cOn behalf of the Government of Uganda I would like to take this opportunity to thank the Government of Japan through the Ambassador of Japan in Uganda for the generosity exhibited towards the refugee community.The Government of Uganda commends the Government of Japan for their tireless efforts and support to Uganda, indeed Japan will always remain a true partner to Uganda. I am here to emphasize to the world Uganda\u2019s generosity despite the scarcity of resources",
+  "date": "20 April 2021"
+}

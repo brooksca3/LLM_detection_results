@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b0b97561-8b36-4ca8-8161-85d8d7618cff",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053614093211430035,
+        "human": 0.9456638314591231,
+        "mixed": 0.0007220753294468692
+      },
+      "completely_generated_prob": 0.053614093211430035,
+      "confidence_category": "medium",
+      "confidence_score": 0.9456638314591231,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053614093211430035,
+          "human": 0.9456638314591231,
+          "mixed": 0.0007220753294468692
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.361987113952637,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.07814404368400574,
+          "perplexity": 44,
+          "sentence": "We are grateful to all who have participated in today's conference, including those who have announced or pledged funding for the international humanitarian response, those who are supporting members of the Rohingya communities in other ways\u1173not least by hosting them\u1173and most importantly, representatives of Rohingya communities themselves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09256944060325623,
+          "perplexity": 15,
+          "sentence": "The situation in the region remains an acute humanitarian and human rights crisis more than three years after the August 2017 violence, which caused hundreds of thousands of Rohingya people to flee their homes in Myanmar to seek safety in Cox's Bazar, Bangladesh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08406446874141693,
+          "perplexity": 22,
+          "sentence": "There are currently 860,000 Rohingya refugees in Cox's Bazar district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07572776079177856,
+          "perplexity": 12,
+          "sentence": "There are an estimated 600,000 Rohingya people in Myanmar's Rakhine State who face ongoing violence and discrimination, and Malaysia, India, Indonesia, and other countries in the region are together hosting nearly 150,000 Rohingya refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06772511452436447,
+          "perplexity": 53,
+          "sentence": "The voluntary, safe, dignified, and sustainable return of Rohingya refugees and others internally displaced to their places of origin or of their own choosing in Myanmar is the comprehensive solution that we seek along with Rohingya people themselves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06420768052339554,
+          "perplexity": 20,
+          "sentence": "To that end, we underscore the Secretary General's call for a global ceasefire and the cessation of fighting to enable safe and unimpeded humanitarian access to all communities in need of assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09493103623390198,
+          "perplexity": 15,
+          "sentence": "To resolve the crisis in Myanmar, the Government of Myanmar must take steps to address the root causes of the violence and displacement in Rakhine State and create the conditions for voluntary, safe, dignified, and sustainable returns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09078637510538101,
+          "perplexity": 39,
+          "sentence": "This includes providing a pathway to citizenship and freedom of movement for Rohingya, guided by the Advisory Commission on Rakhine State's recommendations and encouraged and supported by countries in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0876004621386528,
+          "perplexity": 15,
+          "sentence": "Myanmar must provide justice for the victims of human rights abuses and ensure that those responsible are held accountable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08414574712514877,
+          "perplexity": 21,
+          "sentence": "We are grateful to the government and the people",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "We are grateful to all who have participated in today\u2019s conference, including those who have announced or pledged funding for the international humanitarian response, those who are supporting members of the Rohingya communities in other ways\u2014not least by hosting them\u2014and most importantly, representatives of Rohingya communities themselves. The situation in the region remains an acute humanitarian and human rights crisis more than three years after the August 2017 violence, which caused hundreds of thousands of Rohingya people to flee their homes in Myanmar to seek safety in Cox\u2019s Bazar, Bangladesh. There are currently 860,000 Rohingya refugees in Cox\u2019s Bazar district. There are an estimated 600,000 Rohingya people in Myanmar\u2019s Rakhine State who face ongoing violence and discrimination, and Malaysia, India, Indonesia, and other countries in the region are together hosting nearly 150,000 Rohingya refugees. The voluntary, safe, dignified, and sustainable return of Rohingya refugees and others internally displaced to their places of origin or of their own choosing in Myanmar is the comprehensive solution that we seek along with Rohingya people themselves. To that end, we underscore the Secretary General\u2019s call for a global ceasefire and the cessation of fighting to enable safe and unimpeded humanitarian access to all communities in need of assistance. To resolve the crisis in Myanmar, the Government of Myanmar must take steps to address the root causes of the violence and displacement in Rakhine State and create the conditions for voluntary, safe, dignified, and sustainable returns. This includes providing a pathway to citizenship and freedom of movement for Rohingya, guided by the Advisory Commission on Rakhine State\u2019s recommendations and encouraged and supported by countries in the region. Myanmar must provide justice for the victims of human rights abuses and ensure that those responsible are held accountable. We are grateful to the government and the people",
+  "date": "22 October 2020"
+}

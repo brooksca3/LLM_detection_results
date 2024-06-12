@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8b95a7e1-b7b9-406f-a298-4dbd7b18691f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.324827194213867,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013309300411492586,
+          "perplexity": 12,
+          "sentence": "On International Universal Health Coverage Day, the Somali Government, in collaboration with the United Nations Children's Fund (UNICEF), United Nations Population Fund (UNFPA), World Health Organization (WHO) and partners, renewed its commitment in accelerating efforts to provide universal health coverage (UHC) for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013373303227126598,
+          "perplexity": 36,
+          "sentence": "They also urged other health and development partners to do the same.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012929756194353104,
+          "perplexity": 69,
+          "sentence": "\u201cClose to 2.6 million of the most vulnerable Somalis are in need of health care,\u201d said Dr Mamunur Malik, WHO Representative for Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014584785094484687,
+          "perplexity": 39,
+          "sentence": "\u201cBy renewing our commitment to work closely together as agencies and with the Government, streamlining our efforts, and using innovative measures to provide health care and social security for all, we can ensure Somali households, particularly vulnerable populations, have access to life-saving health services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001023193122819066,
+          "perplexity": 45,
+          "sentence": "Somalia has already created a strong foundation of health personnel, some of whom deliver life-saving vaccines to children at the household level, respond to health emergencies and support women of reproductive age among other work they do.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011609658831730485,
+          "perplexity": 54,
+          "sentence": "We just need to support the country to build on existing systems and infrastructure -- but we must take bold actions together, and now, to build back better and stronger and advance universal health coverage.\u201d Universal health coverage ensures all people everywhere, no matter where they live, have equitable access to quality health services they need without suffering financial hardship.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011296506272628903,
+          "perplexity": 38,
+          "sentence": "It will strengthen health systems so that people can access vital health services even amid health emergencies, such as the ongoing COVID-19 pandemic, and will enable Somalis to access health services based on their needs, not on their ability to pay.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013203901471570134,
+          "perplexity": 43,
+          "sentence": "Given the challenges Somalia's nascent health systems have faced, the country has made incredible progress in recent years, also thanks to support from partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001093776896595955,
+          "perplexity": 24,
+          "sentence": "For instance, in less than 20 years, the under-five mortality rate decreased by more than 27%.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On International Universal Health Coverage Day, the Somali Government, in collaboration with the United Nations Children\u2019s Fund (UNICEF), United Nations Population Fund (UNFPA), World Health Organization (WHO) and partners, renewed its commitment in accelerating efforts to provide universal health coverage (UHC) for all. They also urged other health and development partners to do the same. \u201cClose to 2.6 million of the most vulnerable Somalis are in need of health care,\u201d said Dr Mamunur Malik, WHO Representative for Somalia. \u201cBy renewing our commitment to work closely together as agencies and with the Government, streamlining our efforts, and using innovative measures to provide health care and social security for all, we can ensure Somali households, particularly vulnerable populations, have access to life-saving health services. Somalia has already created a strong foundation of health personnel, some of whom deliver life-saving vaccines to children at the household level, respond to health emergencies and support women of reproductive age among other work they do. We just need to support the country to build on existing systems and infrastructure -- but we must take bold actions together, and now, to build back better and stronger and advance universal health coverage.\u201d Universal health coverage ensures all people everywhere, no matter where they live, have equitable access to quality health services they need without suffering financial hardship. It will strengthen health systems so that people can access vital health services even amid health emergencies, such as the ongoing COVID-19 pandemic, and will enable Somalis to access health services based on their needs, not on their ability to pay. Given the challenges Somalia\u2019s nascent health systems have faced, the country has made incredible progress in recent years, also thanks to support from partners. For instance, in less than 20 years, the under-five mortality rate decreased by more than 27%.",
+  "date": "14 December 2020"
+}

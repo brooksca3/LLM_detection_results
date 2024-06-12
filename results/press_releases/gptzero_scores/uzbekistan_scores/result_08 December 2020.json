@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b47e377f-ced6-40eb-b4f4-31fb1190ebf7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.04933166503906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007693090941756964,
+          "perplexity": 72,
+          "sentence": "This meeting aimed to help FAO member states in Central Asia achieve a shared understanding of the scope of the term \u201cdigital agriculture\u201d and of the requirements for developing and implementing a digital agriculture strategy to transform agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008429673500359058,
+          "perplexity": 40,
+          "sentence": "An additional objective was to identify potential areas where innovative applications of digital technologies can be implemented over the short-term.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007357011083513498,
+          "perplexity": 48,
+          "sentence": "In his speech, Jamshid Khodjaev, the Minister of Agriculture of Uzbekistan noted that the Ministry of Agriculture is working to create an integrated information system to raise the overall level of digitalization and focuses on supporting initiatives of agricultural and food products producers to introduce smart technologies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007172839716076851,
+          "perplexity": 116,
+          "sentence": "\u201cOur task as the official regulator of the agricultural sector is to prepare business entities for this inevitable transition to digital format.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007032156456261873,
+          "perplexity": 88,
+          "sentence": "One of the most important tasks is the creation of agrological centers and regional network for the dissemination of agricultural knowledge, which will be combined into a common complex through information technologies,\u201d said Jamshid Khodjaev.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007448919583112001,
+          "perplexity": 32,
+          "sentence": "The Minister of Agriculture of Uzbekistan has also expressed his gratitude to the entire FAO team for developing the concept for the creation of the International Digital Council for Food and Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007226665038615465,
+          "perplexity": 36,
+          "sentence": "According to the Minister, in order to have the maximum effect, this council should focus its work on making modern digital technologies widely available to developing countries and low-income farmers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008513757027685642,
+          "perplexity": 50,
+          "sentence": "The COVID-19 crisis has shown that governments and the private sector have the ability to rapidly scale up existing technologies and implement policies and frameworks to find solutions to the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007872243411839008,
+          "perplexity": 30,
+          "sentence": "Digital solutions such as mobile money and e-payments, e-commerce and ICT-enabled information and advisory services can enhance the resilience of the agri-food system and the provision of vital support services to farmers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008694550022482872,
+          "perplexity": 125,
+          "sentence": "\u201cOver the next 20 years, agriculture will actively embrace information technology in a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This meeting aimed to help FAO member states in Central Asia achieve a shared understanding of the scope of the term \u201cdigital agriculture\u201d and of the requirements for developing and implementing a digital agriculture strategy to transform agriculture. An additional objective was to identify potential areas where innovative applications of digital technologies can be implemented over the short-term. In his speech, Jamshid Khodjaev, the Minister of Agriculture of Uzbekistan noted that the Ministry of Agriculture is working to create an integrated information system to raise the overall level of digitalization and focuses on supporting initiatives of agricultural and food products producers to introduce smart technologies. \u201cOur task as the official regulator of the agricultural sector is to prepare business entities for this inevitable transition to digital format. One of the most important tasks is the creation of agrological centers and regional network for the dissemination of agricultural knowledge, which will be combined into a common complex through information technologies,\u201d said Jamshid Khodjaev. The Minister of Agriculture of Uzbekistan has also expressed his gratitude to the entire FAO team for developing the concept for the creation of the International Digital Council for Food and Agriculture. According to the Minister, in order to have the maximum effect, this council should focus its work on making modern digital technologies widely available to developing countries and low-income farmers. The COVID-19 crisis has shown that governments and the private sector have the ability to rapidly scale up existing technologies and implement policies and frameworks to find solutions to the crisis. Digital solutions such as mobile money and e-payments, e-commerce and ICT-enabled information and advisory services can enhance the resilience of the agri-food system and the provision of vital support services to farmers. \u201cOver the next 20 years, agriculture will actively embrace information technology in a",
+  "date": "08 December 2020"
+}

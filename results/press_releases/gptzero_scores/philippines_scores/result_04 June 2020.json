@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b3ea0d11-cc33-4c4e-9fd7-6c022430056e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.3743953704834,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002425684069748968,
+          "perplexity": 18,
+          "sentence": "BANGKOK/GENEVA (4 June 2020) - A heavy-handed focus on countering national security threats and illegal drugs has resulted in serious human rights violations in the Philippines, including killings and arbitrary detentions, as well as the vilification of dissent, a new report by the UN Human Rights Office said Thursday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003326464502606541,
+          "perplexity": 85,
+          "sentence": "Persistent impunity and formidable barriers to accessing justice need to be urgently addressed, the report said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002891944895964116,
+          "perplexity": 14,
+          "sentence": "The report, which was mandated by a UN Human Rights Council resolution, noted that many of the human rights concerns it has documented are long-standing, but have become more acute in recent years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003364767471794039,
+          "perplexity": 59,
+          "sentence": "This has been manifested particularly starkly in the widespread and systematic killing of thousands of alleged drug suspects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022968140547163785,
+          "perplexity": 21,
+          "sentence": "Numerous human rights defenders have also been killed over the past five years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023883504036348313,
+          "perplexity": 50,
+          "sentence": "\u201cWhile there have been important human rights gains in recent years, particularly in economic and social rights, the underpinning focus on national security threats - real and inflated - has led to serious human rights violations, reinforced by harmful rhetoric from high-level officials,\u201d the report stated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019185140263289213,
+          "perplexity": 24,
+          "sentence": "\u201cThis focus has permeated the implementation of existing laws and policies and the adoption of new measures - often at the expense of human rights, due process rights, the rule of law, and accountability.\u201d Since the Government launched its campaign against illegal drugs in 2016, official figures indicate that at least 8,663 people have been killed, with some estimates putting the real toll at more than triple that number.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014838078641332686,
+          "perplexity": 17,
+          "sentence": "The UN Human Rights Office has also documented that, between 2015 and 2019, at least 248 human rights defenders, legal professionals, journalists and trade unionists have been killed in relation to their work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019804177281912416,
+          "perplexity": 26,
+          "sentence": "There has been near impunity for these killings, with only one conviction for the killing of a drug suspect in a police operation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BANGKOK/GENEVA (4 June 2020) \u2013 A heavy-handed focus on countering national security threats and illegal drugs has resulted in serious human rights violations in the Philippines, including killings and arbitrary detentions, as well as the vilification of dissent, a new report by the UN Human Rights Office said Thursday. Persistent impunity and formidable barriers to accessing justice need to be urgently addressed, the report said. The report, which was mandated by a UN Human Rights Council resolution, noted that many of the human rights concerns it has documented are long-standing, but have become more acute in recent years. This has been manifested particularly starkly in the widespread and systematic killing of thousands of alleged drug suspects. Numerous human rights defenders have also been killed over the past five years. \u201cWhile there have been important human rights gains in recent years, particularly in economic and social rights, the underpinning focus on national security threats \u2013 real and inflated \u2013 has led to serious human rights violations, reinforced by harmful rhetoric from high-level officials,\u201d the report stated. \u201cThis focus has permeated the implementation of existing laws and policies and the adoption of new measures \u2013 often at the expense of human rights, due process rights, the rule of law, and accountability.\u201d Since the Government launched its campaign against illegal drugs in 2016, official figures indicate that at least 8,663 people have been killed, with some estimates putting the real toll at more than triple that number. The UN Human Rights Office has also documented that, between 2015 and 2019, at least 248 human rights defenders, legal professionals, journalists and trade unionists have been killed in relation to their work. There has been near impunity for these killings, with only one conviction for the killing of a drug suspect in a police operation",
+  "date": "04 June 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3591ad96-6abd-4bcd-a672-5ce561c4003f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.70957374572754,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003538393066264689,
+          "perplexity": 43,
+          "sentence": "UNDP and Switzerland assist Georgia to enact Article 6.2 of the Paris Climate Agreement More than 50 representatives from the Government of Georgia, the Georgia Climate Finance Working Group, regional authorities, and the private sector attended a strategy session and training this week to accelerate the implementation of the Paris Agreement on Climate Change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041406796663068235,
+          "perplexity": 41,
+          "sentence": "The event, organized by UNDP with the support of the Government of Switzerland and the Ministry of Environmental Protection and Agriculture of Georgia, introduced new opportunities for businesses that work for profit, people and the planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004146738792769611,
+          "perplexity": 23,
+          "sentence": "Georgia has committed to unconditionally reducing its total greenhouse gas (GHG) emissions to 35 percent below its 1990 baseline level (an approximately 16 percent per capita reduction) by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004655855300370604,
+          "perplexity": 32,
+          "sentence": "Article 6 of the Paris Climate Agreement provides a viable way to achieve this through incentives for businesses to innovate new ways to create products or deliver services while simultaneously reducing carbon emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041155642247758806,
+          "perplexity": 106,
+          "sentence": "\u201cThis is a great opportunity for Georgian investors and entrepreneurs to develop new businesses that serve the public and the planet while earning profits,\u201d said UNDP Resident Representative Nick Beresford.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038234892417676747,
+          "perplexity": 60,
+          "sentence": "\u201cOnce the reduction has been documented, the enterprise can receive back up to 25 percent of its initial investment as an ex-post subsidy.\u201d \u201cCarbon trade creates new prospects in our global effort to mitigate climate change,\u201d said Maia Tskhvaradze, Head of the Climate Change Division at Georgia's Ministry of Environmental Protection and Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003950477985199541,
+          "perplexity": 40,
+          "sentence": "\u201cAccess to carbon trade markets will support climate-friendly business development in Georgia, promote a low-emission economy and contribute to fulfilling Georgia's ambitious climate agenda.\u201d In this market-oriented approach, a private or state-owned enterprise must first identify and invest in a market opportunity that provides a product or service while helping to reduce Georgia's GHG emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003537731827236712,
+          "perplexity": 38,
+          "sentence": "This could be anything from developing a new solar power",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNDP and Switzerland assist Georgia to enact Article 6.2 of the Paris Climate Agreement More than 50 representatives from the Government of Georgia, the Georgia Climate Finance Working Group, regional authorities, and the private sector attended a strategy session and training this week to accelerate the implementation of the Paris Agreement on Climate Change. The event, organized by UNDP with the support of the Government of Switzerland and the Ministry of Environmental Protection and Agriculture of Georgia, introduced new opportunities for businesses that work for profit, people and the planet. Georgia has committed to unconditionally reducing its total greenhouse gas (GHG) emissions to 35 percent below its 1990 baseline level (an approximately 16 percent per capita reduction) by 2030. Article 6 of the Paris Climate Agreement provides a viable way to achieve this through incentives for businesses to innovate new ways to create products or deliver services while simultaneously reducing carbon emissions. \u201cThis is a great opportunity for Georgian investors and entrepreneurs to develop new businesses that serve the public and the planet while earning profits,\u201d said UNDP Resident Representative Nick Beresford. \u201cOnce the reduction has been documented, the enterprise can receive back up to 25 percent of its initial investment as an ex-post subsidy.\u201d \u201cCarbon trade creates new prospects in our global effort to mitigate climate change,\u201d said Maia Tskhvaradze, Head of the Climate Change Division at Georgia\u2019s Ministry of Environmental Protection and Agriculture. \u201cAccess to carbon trade markets will support climate-friendly business development in Georgia, promote a low-emission economy and contribute to fulfilling Georgia\u2019s ambitious climate agenda.\u201d In this market-oriented approach, a private or state-owned enterprise must first identify and invest in a market opportunity that provides a product or service while helping to reduce Georgia\u2019s GHG emissions. This could be anything from developing a new solar power",
+  "date": "09 February 2023"
+}

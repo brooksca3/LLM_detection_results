@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b2bca89f-e7b4-4c4e-b457-139efa699902",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.920204162597656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019585054542403668,
+          "perplexity": 42,
+          "sentence": "The United Nations office for Disaster Risk Reduction (UNDRR), in collaboration with the CIMA Research Foundation and the Asian Disaster Preparedness Center (ADPC), organized the first online introductory workshop for the countries of Central Asia on the \u201cDesInventar-Sendai\u201d system software for the systematic collection, analysis and reporting of data related to disaster losses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017828149429988116,
+          "perplexity": 73,
+          "sentence": "The support for the establishment of a mechanism for accounting the damage and losses resulting from disasters is part of the UNDRR regional Initiative \u201cStrengthening disaster resilience and accelerating implementation of Sendai Framework for Disaster Risk Reduction in Central Asia 2019-2022\u201d funded by the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001781409519026056,
+          "perplexity": 153,
+          "sentence": "Representatives of UNDRR, experts from the CIMA Research Foundation and ADPC presented the project \u201cNational Disaster Loss Databases implementation in Central Asia\u201d that has been developed under the UNDRR office aegis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019623131083790213,
+          "perplexity": 67,
+          "sentence": "The goal of the project is to support the use of the \u201cDesInventar-Sendai\u201d software for the systematic collection, documentation and analysis of data related to disaster losses and to facilitate national reporting on the targets of the Sendai Framework for Disaster Risk Reduction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016740208957344294,
+          "perplexity": 123,
+          "sentence": "The Sendai National Focal Points, experts from national emergency management organizations and national statistical offices took part in the regional workshop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019154176698066294,
+          "perplexity": 69,
+          "sentence": "The participants discussed and reviewed national systems for collecting and analyzing data on disaster losses, their strengths, and areas for improvement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001785223576007411,
+          "perplexity": 47,
+          "sentence": "They stressed on the importance of improving data collection and analysis systems for national reports on the implementation of Sendai Framework and Sustainable Development Goals 2015-2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016203359700739384,
+          "perplexity": 36,
+          "sentence": "Cooperation in implementing the project and achieving its goals will continue in the countries of the region, in coordination and in collaboration with national emergency management organizations and national statistical offices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017218233551830053,
+          "perplexity": 206,
+          "sentence": "The implementation of the \u201cDesInventar Sendai\u201d system software has helped more than 90 countries worldwide to develop a sustainable disaster information management system aligned with the Sendai Framework",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations office for Disaster Risk Reduction (UNDRR), in collaboration with the CIMA Research Foundation and the Asian Disaster Preparedness Center (ADPC), organized the first online introductory workshop for the countries of Central Asia on the \u201cDesInventar-Sendai\u201d system software for the systematic collection, analysis and reporting of data related to disaster losses. The support for the establishment of a mechanism for accounting the damage and losses resulting from disasters is part of the UNDRR regional Initiative \u201cStrengthening disaster resilience and accelerating implementation of Sendai Framework for Disaster Risk Reduction in Central Asia 2019-2022\u201d funded by the European Union. Representatives of UNDRR, experts from the CIMA Research Foundation and ADPC presented the project \u201cNational Disaster Loss Databases implementation in Central Asia\u201d that has been developed under the UNDRR office aegis. The goal of the project is to support the use of the \u201cDesInventar-Sendai\u201d software for the systematic collection, documentation and analysis of data related to disaster losses and to facilitate national reporting on the targets of the Sendai Framework for Disaster Risk Reduction. The Sendai National Focal Points, experts from national emergency management organizations and national statistical offices took part in the regional workshop. The participants discussed and reviewed national systems for collecting and analyzing data on disaster losses, their strengths, and areas for improvement. They stressed on the importance of improving data collection and analysis systems for national reports on the implementation of Sendai Framework and Sustainable Development Goals 2015-2030. Cooperation in implementing the project and achieving its goals will continue in the countries of the region, in coordination and in collaboration with national emergency management organizations and national statistical offices. The implementation of the \u201cDesInventar Sendai\u201d system software has helped more than 90 countries worldwide to develop a sustainable disaster information management system aligned with the Sendai Framework",
+  "date": "20 August 2020"
+}

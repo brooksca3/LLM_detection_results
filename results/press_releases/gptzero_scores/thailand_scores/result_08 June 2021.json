@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "06a78d65-4a8e-45ea-a919-fe3fa1798ddb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.95486068725586,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008186600171029568,
+          "perplexity": 23,
+          "sentence": "The United Nations Thailand (UN Thailand), in partnership with the Department of Digital Economy Promotion Agency (depa), has launched 'Decade of Action, Decade of Innovation', a campaign that promotes the use of technological and innovative solutions to reach the Sustainable Development Goals (SDGs) which are critical to the future development of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005503959255293012,
+          "perplexity": 25,
+          "sentence": "Bangkok, Thailand - 8 June, 2021: The United Nations Thailand (UN Thailand), in partnership with the Department of Digital Economy Promotion Agency (depa), has launched 'Decade of Action, Decade of Innovation', a campaign that promotes the use of technological and innovative solutions to reach the Sustainable Development Goals (SDGs) which are critical to the future development of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007340501761063933,
+          "perplexity": 41,
+          "sentence": "The SDGs are a collection of 17 interlinked Global Goals designed as a blueprint to achieve a better and more sustainable future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005466421134769917,
+          "perplexity": 20,
+          "sentence": "They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth - all while tackling climate change and working to preserve our oceans and forests.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004211743944324553,
+          "perplexity": 115,
+          "sentence": "In country, the UN's work is contributing towards the achievement of the SDGs and in alignment with the draft 13th NESDP which prioritizes transformation towards a high-value sustainable Thailand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004430000844877213,
+          "perplexity": 62,
+          "sentence": "UN Thailand is partnering with depa during this campaign with the belief that digital technology has the power to reduce inequality, produce innovative urban living solutions, and create opportunities for individuals and organisations to prosper in the digital economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003050783125218004,
+          "perplexity": 38,
+          "sentence": "depa will provide localized knowledge and expert input on topics as diverse as e-learning, e-agriculture and digital transformation for SMEs to support awareness of the Global Goals and inspire people from all walks of life to innovate and play their part in solving the world's future development needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003501620958559215,
+          "perplexity": 108,
+          "sentence": "\u201cAchieving the 2030 Agenda and the SDGs is an ambitious",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Thailand (UN Thailand), in partnership with the Department of Digital Economy Promotion Agency (depa), has launched \u2018Decade of Action, Decade of Innovation\u2019, a campaign that promotes the use of technological and innovative solutions to reach the Sustainable Development Goals (SDGs) which are critical to the future development of the world. Bangkok, Thailand \u2013 8 June, 2021: The United Nations Thailand (UN Thailand), in partnership with the Department of Digital Economy Promotion Agency (depa), has launched \u2018Decade of Action, Decade of Innovation\u2019, a campaign that promotes the use of technological and innovative solutions to reach the Sustainable Development Goals (SDGs) which are critical to the future development of the world. The SDGs are a collection of 17 interlinked Global Goals designed as a blueprint to achieve a better and more sustainable future for all. They recognize that ending poverty and other deprivations must go hand-in-hand with strategies that improve health and education, reduce inequality, and spur economic growth \u2013 all while tackling climate change and working to preserve our oceans and forests. In country, the UN\u2019s work is contributing towards the achievement of the SDGs and in alignment with the draft 13th NESDP which prioritizes transformation towards a high-value sustainable Thailand. UN Thailand is partnering with depa during this campaign with the belief that digital technology has the power to reduce inequality, produce innovative urban living solutions, and create opportunities for individuals and organisations to prosper in the digital economy. depa will provide localized knowledge and expert input on topics as diverse as e-learning, e-agriculture and digital transformation for SMEs to support awareness of the Global Goals and inspire people from all walks of life to innovate and play their part in solving the world\u2019s future development needs. \u201cAchieving the 2030 Agenda and the SDGs is an ambitious",
+  "date": "08 June 2021"
+}

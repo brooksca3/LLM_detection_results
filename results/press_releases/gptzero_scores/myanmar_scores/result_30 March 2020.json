@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bd57d732-3fa2-4869-8d04-8999e3d2f4c3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009041050841357142,
+        "human": 0.9909589491586429,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009041050841357142,
+      "confidence_category": "high",
+      "confidence_score": 0.9909589491586429,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009041050841357142,
+          "human": 0.9909589491586429,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.843109130859375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001781660976121202,
+          "perplexity": 22,
+          "sentence": "The United Nations is working in close consultation with the Union Ministry of Health and Sports, and other Government authorities, to define areas of support in relation to the prevention and control of infection, including the procurement of personal protective equipment, specialized medical equipment, and the expansion of health facility capacities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018391499179415405,
+          "perplexity": 58,
+          "sentence": "The World Health Organization (WHO) has called upon all nations to urgently increase COVID-19 testing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017636567645240575,
+          "perplexity": 72,
+          "sentence": "The United Nations in Myanmar is now in the process of purchasing 50,000 COVID-19 testing kits for the National Health Laboratory (NHL).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001640846603550017,
+          "perplexity": 71,
+          "sentence": "This total reflects the combined support of UNOPS, UNICEF, WFP and UNHCR, and builds upon earlier support provided by WHO and partners which gave 3,000 testing kits to the NHL.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016794921248219907,
+          "perplexity": 92,
+          "sentence": "\u201cThe UN remains committed to continue providing support to Government's efforts to scale-up testing,\u201d said Ola Almgren, the UN Resident Coordinator and Humanitarian Coordinator in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016486537060700357,
+          "perplexity": 70,
+          "sentence": "\u201cTesting is essential to allowing the Government to rapidly identify cases of COVID-19, and help contain the spread of the virus,\u201d Mr. Almgren said, adding that the UN stands ready to procure more test kits and support the planning, carrying out and analysis of the testing as required by the Government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014896826178301126,
+          "perplexity": 52,
+          "sentence": "\u201cThe United Nations is fully committed to support the efforts of the Government to contain this threat as well as to continue its work as a partner in humanitarian action, development assistance and peacebuilding unabated\u201d, said Mr. Almgren, noting the UN's readiness to work with the Government to accelerate COVID-19 prevention and response planning across all of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016676961968187243,
+          "perplexity": 122,
+          "sentence": "Mr. Almgren noted that very difficult experiences occurring across the world have underlined the utter importance of timely and decisive steps to contain the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016560951189603657,
+          "perplexity": 106,
+          "sentence": "\u201cIn these challenging times, the UN in Myanmar remains in solidarity with all people of Myanmar, across all areas.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations is working in close consultation with the Union Ministry of Health and Sports, and other Government authorities, to define areas of support in relation to the prevention and control of infection, including the procurement of personal protective equipment, specialized medical equipment, and the expansion of health facility capacities. The World Health Organization (WHO) has called upon all nations to urgently increase COVID-19 testing. The United Nations in Myanmar is now in the process of purchasing 50,000 COVID-19 testing kits for the National Health Laboratory (NHL). This total reflects the combined support of UNOPS, UNICEF, WFP and UNHCR, and builds upon earlier support provided by WHO and partners which gave 3,000 testing kits to the NHL. \u201cThe UN remains committed to continue providing support to Government\u2019s efforts to scale-up testing,\u201d said Ola Almgren, the UN Resident Coordinator and Humanitarian Coordinator in Myanmar. \u201cTesting is essential to allowing the Government to rapidly identify cases of COVID-19, and help contain the spread of the virus,\u201d Mr. Almgren said, adding that the UN stands ready to procure more test kits and support the planning, carrying out and analysis of the testing as required by the Government. \u201cThe United Nations is fully committed to support the efforts of the Government to contain this threat as well as to continue its work as a partner in humanitarian action, development assistance and peacebuilding unabated\u201d, said Mr. Almgren, noting the UN\u2019s readiness to work with the Government to accelerate COVID-19 prevention and response planning across all of Myanmar. Mr. Almgren noted that very difficult experiences occurring across the world have underlined the utter importance of timely and decisive steps to contain the spread of COVID-19. \u201cIn these challenging times, the UN in Myanmar remains in solidarity with all people of Myanmar, across all areas.\u201d",
+  "date": "30 March 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7e1d8dab-833f-43bd-a498-732109f48bf8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002085282195198005,
+        "human": 0.997914717804802,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002085282195198005,
+      "confidence_category": "high",
+      "confidence_score": 0.997914717804802,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002085282195198005,
+          "human": 0.997914717804802,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 71.41028594970703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012363909627310932,
+          "perplexity": 64,
+          "sentence": "FAO urgently requires $95.4 million to scale up response to save lives, enable access to food and protect vital livelihoods Rome/Khartoum - The current crisis in Sudan has worsened an already dire food insecurity situation, with hunger expected to increase substantially across the country as it heads into the typical lean season period from June to September.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001255479292012751,
+          "perplexity": 33,
+          "sentence": "To scale up its response, the Food and Agriculture Organization of the United Nations (FAO) urgently requires $95.4 million to reach 15 million people with multiple life-saving interventions including providing farmers with seeds and farming equipment and protecting and restocking pastoralists' livestock herds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011988814367214218,
+          "perplexity": 50,
+          "sentence": "FAO's immediate plan is to assist over one million vulnerable farmers and their families (totalling five million people) between now and the end of July with cereal seeds (sorghum, millet) and okra seeds for planting in June to July 2023 in the country's 14 states.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012298226647544652,
+          "perplexity": 27,
+          "sentence": "Additionally, from July until the end of the year, FAO aims to target 1.3 million pastoralists with livestock services and inputs to strengthen the food security and nutrition of 6.5 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011113716755062342,
+          "perplexity": 58,
+          "sentence": "The Organization's emergency seed distribution, totalling 9 600 tonnes to the most vulnerable farming households in June and July, will allow vulnerable farmers to plant and produce enough food (up to 3 million tonnes of cereals) in November-December 2023 to cover the cereal requirements of between 13 and 19 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011014491610694677,
+          "perplexity": 118,
+          "sentence": "\u201cWe are doing everything we can to utilize the relatively calm conditions in rural areas and the current planting season to rapidly increase local food production and availability, save lives and avoid more people sliding into acute food insecurity,\u201d said Adam Yao, FAO Representative a.i in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010315178224118426,
+          "perplexity": 225,
+          "sentence": "FAO remains operational in the country's 14 state offices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010344305337639526,
+          "perplexity": 169,
+          "sentence": "State authorities and local community leaders, as well as 40 national implementing partners continue to confirm",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "FAO urgently requires $95.4 million to scale up response to save lives, enable access to food and protect vital livelihoods Rome/Khartoum \u2013 The current crisis in Sudan has worsened an already dire food insecurity situation, with hunger expected to increase substantially across the country as it heads into the typical lean season period from June to September. To scale up its response, the Food and Agriculture Organization of the United Nations (FAO) urgently requires $95.4 million to reach 15 million people with multiple life-saving interventions including providing farmers with seeds and farming equipment and protecting and restocking pastoralists\u2019 livestock herds. FAO\u2019s immediate plan is to assist over one million vulnerable farmers and their families (totalling five million people) between now and the end of July with cereal seeds (sorghum, millet) and okra seeds for planting in June to July 2023 in the country\u2019s 14 states. Additionally, from July until the end of the year, FAO aims to target 1.3 million pastoralists with livestock services and inputs to strengthen the food security and nutrition of 6.5 million people. The Organization\u2019s emergency seed distribution, totalling 9 600 tonnes to the most vulnerable farming households in June and July, will allow vulnerable farmers to plant and produce enough food (up to 3 million tonnes of cereals) in November\u2013December 2023 to cover the cereal requirements of between 13 and 19 million people. \u201cWe are doing everything we can to utilize the relatively calm conditions in rural areas and the current planting season to rapidly increase local food production and availability, save lives and avoid more people sliding into acute food insecurity,\u201d said Adam Yao, FAO Representative a.i in Sudan. FAO remains operational in the country\u2019s 14 state offices. State authorities and local community leaders, as well as 40 national implementing partners continue to confirm",
+  "date": "19 June 2023"
+}

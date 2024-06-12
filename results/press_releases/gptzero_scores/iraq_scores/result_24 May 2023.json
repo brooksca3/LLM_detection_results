@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8ed2b22e-c0d8-4aae-855d-758003348ad5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.47128386028653235,
+        "human": 0.5271108740394824,
+        "mixed": 0.001605265673985135
+      },
+      "completely_generated_prob": 0.47128386028653235,
+      "confidence_category": "low",
+      "confidence_score": 0.5271108740394824,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.47128386028653235,
+          "human": 0.5271108740394824,
+          "mixed": 0.001605265673985135
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.59206008911133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9187750751329665,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8374068737030029,
+          "perplexity": 59,
+          "sentence": "Baghdad, Iraq \u1173 23 May 2023 \u1173 The Iraqi Prime Minister, His Excellency Mohammed Shiaa Al-Sudani officially launched Iraq's National Population Policy in Baghdad on 17 May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8747355341911316,
+          "perplexity": 12,
+          "sentence": "The occasion coincided with the annual conference of the Arab League's Council for Population and Development, which was hosted by the Government of Iraq in Baghdad, with support from the United Nations Population Fund (UNFPA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8866225481033325,
+          "perplexity": 70,
+          "sentence": "The Prime Minister, while acknowledging UNFPA as a trusted partner and appreciating its support in preparing the Policy, urged government institutions to prioritise requirements outlined in the Policy when formulating relevant development policies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8761569857597351,
+          "perplexity": 57,
+          "sentence": "He emphasised that contrary to misconceptions that the National Population Policy contains measures to reduce birth rates or limit population growth, the Policy promotes measures that will lead to a demographic bonus for Iraq and urged that these measures should be rooted in economic, educational, and training plans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8700113892555237,
+          "perplexity": 159,
+          "sentence": "He informed that experts and specialists caution that this demographic gift may become a curse if proper attention is not paid to current population changes and challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8475601673126221,
+          "perplexity": 27,
+          "sentence": "Representing the United Nations family in Iraq, Mr Ghulam Isaczai, the Deputy Special Representative of the Secretary-General and UN Resident and Humanitarian Coordinator for Iraq, observed that Iraq is currently experiencing a remarkable surge in the number of young people in its demographic structure, that present a unique opportunity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.861921489238739,
+          "perplexity": 55,
+          "sentence": "He emphasised that this opportunity can only be realised when Iraq Government invests in education, health, and employment programs for the youth right now to harness their productivity in the medium term and increase the positive economic impact leading to Iraq's achievement of Sustainable Development Goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8929795622825623,
+          "perplexity": 68,
+          "sentence": "The National Population Policy presents a significant milestone for Iraq, providing guiding principles that will shape the country's approach to population-related matters and connecting current demographic realities with sustainable national development plans.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq \u2014 23 May 2023 \u2014 The Iraqi Prime Minister, His Excellency Mohammed Shiaa Al-Sudani officially launched Iraq's National Population Policy in Baghdad on 17 May. The occasion coincided with the annual conference of the Arab League\u2019s Council for Population and Development, which was hosted by the Government of Iraq in Baghdad, with support from the United Nations Population Fund (UNFPA). The Prime Minister, while acknowledging UNFPA as a trusted partner and appreciating its support in preparing the Policy, urged government institutions to prioritise requirements outlined in the Policy when formulating relevant development policies. He emphasised that contrary to misconceptions that the National Population Policy contains measures to reduce birth rates or limit population growth, the Policy promotes measures that will lead to a demographic bonus for Iraq and urged that these measures should be rooted in economic, educational, and training plans. He informed that experts and specialists caution that this demographic gift may become a curse if proper attention is not paid to current population changes and challenges. Representing the United Nations family in Iraq, Mr Ghulam Isaczai, the Deputy Special Representative of the Secretary-General and UN Resident and Humanitarian Coordinator for Iraq, observed that Iraq is currently experiencing a remarkable surge in the number of young people in its demographic structure, that present a unique opportunity. He emphasised that this opportunity can only be realised when Iraq Government invests in education, health, and employment programs for the youth right now to harness their productivity in the medium term and increase the positive economic impact leading to Iraq\u2019s achievement of Sustainable Development Goals. The National Population Policy presents a significant milestone for Iraq, providing guiding principles that will shape the country's approach to population-related matters and connecting current demographic realities with sustainable national development plans.",
+  "date": "24 May 2023"
+}

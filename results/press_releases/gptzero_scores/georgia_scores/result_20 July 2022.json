@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a762c894-e529-477d-ad0b-e60ff5727b72",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.15304183959961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007239636033773422,
+          "perplexity": 36,
+          "sentence": "With the financial support of the Czech Republic, the United Nations Industrial Development Organization (UNIDO) conducted a cluster validation workshop in Zugdidi, Georgia, VIENNA, 19 JULY 2022 -- With the financial support of the Czech Republic and within in the framework of its project \u201cIncreasing the competitiveness of micro, small and medium-sized (MSMEs) enterprises in the Samegrelo-Zemo Svaneti region through a cluster development approach\u201d, the United Nations Industrial Development Organization (UNIDO) conducted a cluster validation workshop in Zugdidi, Georgia, to present the project's activities as well as the key findings of the cluster diagnostic studies of honey, greenhouses and cheese products in the target region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016610212624073029,
+          "perplexity": 71,
+          "sentence": "The studies allowed for a deeper insight into the clusters by exploring the structure of the value chains and discovering the main challenges and commonalities shared by the producers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008955943048931658,
+          "perplexity": 133,
+          "sentence": "Overall, the clusters' stakeholders provided useful feedback regarding the planned interventions and expressed strong interest in UNIDO's support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006396057433448732,
+          "perplexity": 74,
+          "sentence": "As the next steps, out of three clusters, UNIDO, in close consultations with national partners and the donor, will select one cluster with strong growth and employability potential, especially for women, and will develop a more comprehensive package of support tools to enhance the selected cluster's capacity to organize collective activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000716554990503937,
+          "perplexity": 24,
+          "sentence": "Ultimately, the project will strengthen the industrial fabric of the country as well as its potential for revenue and job creation and, by extension, it will contribute to the country's efforts to attain the objectives set forth in the Sustainable Development Goals, and especially SDG9 on inclusive and sustainable industrial development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014162389561533928,
+          "perplexity": 36,
+          "sentence": "In doing so, the project laid a strong foundation for future cooperation between UNIDO and the Czech Republic in Georgia and the wider region.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "With the financial support of the Czech Republic, the United Nations Industrial Development Organization (UNIDO) conducted a cluster validation workshop in Zugdidi, Georgia, VIENNA, 19 JULY 2022 -- With the financial support of the Czech Republic and within in the framework of its project \u201cIncreasing the competitiveness of micro, small and medium-sized (MSMEs) enterprises in the Samegrelo-Zemo Svaneti region through a cluster development approach\u201d, the United Nations Industrial Development Organization (UNIDO) conducted a cluster validation workshop in Zugdidi, Georgia, to present the project\u2019s activities as well as the key findings of the cluster diagnostic studies of honey, greenhouses and cheese products in the target region. The studies allowed for a deeper insight into the clusters by exploring the structure of the value chains and discovering the main challenges and commonalities shared by the producers. Overall, the clusters\u2019 stakeholders provided useful feedback regarding the planned interventions and expressed strong interest in UNIDO\u2019s support. As the next steps, out of three clusters, UNIDO, in close consultations with national partners and the donor, will select one cluster with strong growth and employability potential, especially for women, and will develop a more comprehensive package of support tools to enhance the selected cluster\u2019s capacity to organize collective activities. Ultimately, the project will strengthen the industrial fabric of the country as well as its potential for revenue and job creation and, by extension, it will contribute to the country\u2019s efforts to attain the objectives set forth in the Sustainable Development Goals, and especially SDG9 on inclusive and sustainable industrial development. In doing so, the project laid a strong foundation for future cooperation between UNIDO and the Czech Republic in Georgia and the wider region.",
+  "date": "20 July 2022"
+}

@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ce57ba89-39a5-40fb-9ee3-3e33c6d8cbb2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.49939727783203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002526533789932728,
+          "perplexity": 117,
+          "sentence": "Barcelona/Kyiv, 15 June 2023 - Around 2.5 million households in Ukraine experienced catastrophic health spending in 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002643252955749631,
+          "perplexity": 47,
+          "sentence": "This represents nearly 1 in 5 households - a share that is higher than in many other countries in Europe, according to a new report launched today during the session on Ukraine at the WHO Barcelona Forum on Financial Protection, featuring also an expert discussion on possible policies to further minimize the impact of the war and improve financial protection in health care in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031380250584334135,
+          "perplexity": 18,
+          "sentence": "Catastrophic health spending means a household can no longer afford to meet its basic needs - food, housing and electricity - because of having to pay out of pocket for health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002435027272440493,
+          "perplexity": 61,
+          "sentence": "In Ukraine households with catastrophic health spending are mainly those with low incomes and those headed by pensioners or in rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003519556485116482,
+          "perplexity": 168,
+          "sentence": "Launched at the 2023 WHO Barcelona Forum on Financial Protection, the new report \u201cCan people afford to pay for health care?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003825815219897777,
+          "perplexity": 65,
+          "sentence": "New evidence on financial protection in Ukraine\u201d, shows that financial hardship due to out-of-pocket payments is almost entirely driven by spending on medicines and inpatient care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037952238926663995,
+          "perplexity": 82,
+          "sentence": "Medicines are the main driver in poorer households and inpatient care in wealthier households.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005259115714579821,
+          "perplexity": 35,
+          "sentence": "Inpatient care plays a much larger role in driving catastrophic health spending in Ukraine than in most other countries in Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006711847963742912,
+          "perplexity": 72,
+          "sentence": "This new analysis reflects the state of financial protection (affordable access to health care) in Ukraine before the Russian Federation's invasion in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009156285668723285,
+          "perplexity": 46,
+          "sentence": "Drawing on survey data from 2009 to 2021, it explores the impact of health financing reforms initiated in 2017, finding that there was a small but consistent decline in catastrophic health spending between 2018 and 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041078118374571204,
+          "perplexity": 59,
+          "sentence": "This positive trend is likely to be reversed by the devastating effect of the invasion on economy, health system, household poverty and people's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Barcelona/Kyiv, 15 June 2023 - Around 2.5 million households in Ukraine experienced catastrophic health spending in 2021. This represents nearly 1 in 5 households \u2013 a share that is higher than in many other countries in Europe, according to a new report launched today during the session on Ukraine at the WHO Barcelona Forum on Financial Protection, featuring also an expert discussion on possible policies to further minimize the impact of the war and improve financial protection in health care in Ukraine. Catastrophic health spending means a household can no longer afford to meet its basic needs \u2013 food, housing and electricity \u2013 because of having to pay out of pocket for health care. In Ukraine households with catastrophic health spending are mainly those with low incomes and those headed by pensioners or in rural areas. Launched at the 2023 WHO Barcelona Forum on Financial Protection, the new report \u201cCan people afford to pay for health care? New evidence on financial protection in Ukraine\u201d, shows that financial hardship due to out-of-pocket payments is almost entirely driven by spending on medicines and inpatient care. Medicines are the main driver in poorer households and inpatient care in wealthier households. Inpatient care plays a much larger role in driving catastrophic health spending in Ukraine than in most other countries in Europe. This new analysis reflects the state of financial protection (affordable access to health care) in Ukraine before the Russian Federation\u2019s invasion in 2022. Drawing on survey data from 2009 to 2021, it explores the impact of health financing reforms initiated in 2017, finding that there was a small but consistent decline in catastrophic health spending between 2018 and 2021. This positive trend is likely to be reversed by the devastating effect of the invasion on economy, health system, household poverty and people\u2019s",
+  "date": "15 June 2023"
+}

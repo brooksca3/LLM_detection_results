@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "20b835a5-ff3a-42bf-b092-26d956d5b47c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.733810424804688,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003009943466167897,
+          "perplexity": 50,
+          "sentence": "The programme will place 20,000 young Nigerians annually in private and public sector organisations across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024384168500546366,
+          "perplexity": 94,
+          "sentence": "Applications will open September 6th for the Nigeria Jubilee Fellows Programme (NJFP), H.E, President Muhammadu Buhari announced today at the Aso Rock Villa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040800950955599546,
+          "perplexity": 23,
+          "sentence": "The NJFP is an initiative led by the Federal Government of Nigeria, with support from the United Nations Development Programme (UNDP) and the European Union (EU), to match 20,000 highly skilled graduates annually with yearlong job placements in public and private sectors across multiple industries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037534948205575347,
+          "perplexity": 84,
+          "sentence": "The programme is open to graduates and organisations that fit the requirements found here.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028197330539114773,
+          "perplexity": 50,
+          "sentence": "In attendance at the official launch was the Vice President of Nigeria, His Excellency, Prof. Yemi Osinbajo, SAN, and the Honourable Minister of Industry, Trade and Investment, His Excellency, Mr. Otunba Richard Adeniyi Adebayo CON.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002572008525021374,
+          "perplexity": 37,
+          "sentence": "Other development partners who attended the event included the Charg\u00e9 d'Affaires a.i Delegation of the European Union to Nigeria and ECOWAS, His Excellency, Alexandre Borges Gomes, United Nations Resident Humanitarian Coordinator in Nigeria, Mr. Edward Kallon and the UNDP Resident Representative, Mr. Mohamad Yahya.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005121680442243814,
+          "perplexity": 59,
+          "sentence": "According to one 2019 estimate, about 25 million graduates remain unemployed across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007388765807263553,
+          "perplexity": 68,
+          "sentence": "The NJFP aims to create a channel between graduates and industry, to help address this employment gap by identifying the emerging skills that companies need most, while guiding graduates to be more prepared for a constantly evolving work environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001181580126285553,
+          "perplexity": 38,
+          "sentence": "In his remarks, H.E President Muhammadu Buhari said, \u201cAn important part of our policies and strategies is to focus on employment and creating opportunities for young Nigerians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011285233777016401,
+          "perplexity": 62,
+          "sentence": "The Jubilee Fellows Programme will create new opportunities for 20,000 recent graduates annually and I encourage all eligible Nigerians to apply.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016347754281014204,
+          "perplexity": 50,
+          "sentence": "I also urge private and public sector organizations across the country to join us by providing work placement opportunities, mentors, and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The programme will place 20,000 young Nigerians annually in private and public sector organisations across the country. Applications will open September 6th for the Nigeria Jubilee Fellows Programme (NJFP), H.E, President Muhammadu Buhari announced today at the Aso Rock Villa. The NJFP is an initiative led by the Federal Government of Nigeria, with support from the United Nations Development Programme (UNDP) and the European Union (EU), to match 20,000 highly skilled graduates annually with yearlong job placements in public and private sectors across multiple industries. The programme is open to graduates and organisations that fit the requirements found here. In attendance at the official launch was the Vice President of Nigeria, His Excellency, Prof. Yemi Osinbajo, SAN, and the Honourable Minister of Industry, Trade and Investment, His Excellency, Mr. Otunba Richard Adeniyi Adebayo CON. Other development partners who attended the event included the Charg\u00e9 d'Affaires a.i Delegation of the European Union to Nigeria and ECOWAS, His Excellency, Alexandre Borges Gomes, United Nations Resident Humanitarian Coordinator in Nigeria, Mr. Edward Kallon and the UNDP Resident Representative, Mr. Mohamad Yahya. According to one 2019 estimate, about 25 million graduates remain unemployed across the country. The NJFP aims to create a channel between graduates and industry, to help address this employment gap by identifying the emerging skills that companies need most, while guiding graduates to be more prepared for a constantly evolving work environment. In his remarks, H.E President Muhammadu Buhari said, \u201cAn important part of our policies and strategies is to focus on employment and creating opportunities for young Nigerians. The Jubilee Fellows Programme will create new opportunities for 20,000 recent graduates annually and I encourage all eligible Nigerians to apply. I also urge private and public sector organizations across the country to join us by providing work placement opportunities, mentors, and",
+  "date": "01 September 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6f7b83c7-81b7-4699-ac0c-325cdab12022",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013686815369632534,
+        "human": 0.9981461872250941,
+        "mixed": 0.00048513123794269856
+      },
+      "completely_generated_prob": 0.0013686815369632534,
+      "confidence_category": "high",
+      "confidence_score": 0.9981461872250941,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013686815369632534,
+          "human": 0.9981461872250941,
+          "mixed": 0.00048513123794269856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.18770980834961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 8.677550795255229e-05,
+          "perplexity": 56,
+          "sentence": "The two Ghanaian fallen peacekeepers to be honoured posthumously are WO1 Patrick Ackah who served with the United Nations Interim Force in Lebanon (UNIFIL); and Mr. Emmanuel Mac Kwasi Dorbi who served in a civilian capacity with the United Nations Mission in South Sudan (UNMISS).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.262730989372358e-05,
+          "perplexity": 66,
+          "sentence": "UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.887711737770587e-05,
+          "perplexity": 17,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012651438009925187,
+          "perplexity": 49,
+          "sentence": "Among the fallen peacekeepers to be honoured posthumously are two from Ghana: WO1 Patrick Ackah who served with the United Nations Interim Force in Lebanon (UNIFIL); and Mr. Emmanuel Mac Kwasi Dorbi who served in a civilian capacity with the United Nations Mission in South Sudan (UNMISS).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001099046494346112,
+          "perplexity": 18,
+          "sentence": "The two Ghanaians will be honoured at a ceremony to be presided over by the United Nations Secretary-General, Antonio Guterres in New York on 27 May 2021 as part of events marking the 2021 International Day of UN Peacekeepers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010666895832400769,
+          "perplexity": 39,
+          "sentence": "Ghana is the 10th largest contributor of uniformed personnel to UN Peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011495716898934916,
+          "perplexity": 16,
+          "sentence": "It currently deploys nearly 2,300 military and police personnel to the UN peace operations in Abyei, the Central African Republic, Cyprus, the Democratic Republic of the Congo, Lebanon, Mali, the Middle East, Somalia, South Sudan and the Western Sahara.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001095393963623792,
+          "perplexity": 150,
+          "sentence": "During the ceremony, the Secretary-General will also award the '2020 Military Gender Advocate of the Year Award' to Major Steplyne Buyaki Nyaboga a Kenyan military officer who served with the African Union - United Nations Hybrid Operation in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The two Ghanaian fallen peacekeepers to be honoured posthumously are WO1 Patrick Ackah who served with the United Nations Interim Force in Lebanon (UNIFIL); and Mr. Emmanuel Mac Kwasi Dorbi who served in a civilian capacity with the United Nations Mission in South Sudan (UNMISS). UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year. Among the fallen peacekeepers to be honoured posthumously are two from Ghana: WO1 Patrick Ackah who served with the United Nations Interim Force in Lebanon (UNIFIL); and Mr. Emmanuel Mac Kwasi Dorbi who served in a civilian capacity with the United Nations Mission in South Sudan (UNMISS). The two Ghanaians will be honoured at a ceremony to be presided over by the United Nations Secretary-General, Antonio Guterres in New York on 27 May 2021 as part of events marking the 2021 International Day of UN Peacekeepers. Ghana is the 10th largest contributor of uniformed personnel to UN Peacekeeping. It currently deploys nearly 2,300 military and police personnel to the UN peace operations in Abyei, the Central African Republic, Cyprus, the Democratic Republic of the Congo, Lebanon, Mali, the Middle East, Somalia, South Sudan and the Western Sahara. During the ceremony, the Secretary-General will also award the \u20182020 Military Gender Advocate of the Year Award\u2019 to Major Steplyne Buyaki Nyaboga a Kenyan military officer who served with the African Union \u2013 United Nations Hybrid Operation in",
+  "date": "25 May 2021"
+}

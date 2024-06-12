@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "079006c5-107b-4807-a689-bbf4e2feac2e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.53867721557617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00048489897744730115,
+          "perplexity": 31,
+          "sentence": "I thank the President of the General Assembly for convening Sustainability Week.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005678128218278289,
+          "perplexity": 59,
+          "sentence": "Today's topic cuts to the heart of a sustainable future: debt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005551361828111112,
+          "perplexity": 54,
+          "sentence": "For developing countries, a world of debt means a world of pain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004974303301423788,
+          "perplexity": 21,
+          "sentence": "They are struggling to climb the development ladder with one hand tied behind their backs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046545726945623755,
+          "perplexity": 79,
+          "sentence": "Health, nutrition, education, clean energy, and social protection systems are not \u201cnice to haves.\u201d These systems form the vital bedrock of prosperity, equality and hope for every country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040540139889344573,
+          "perplexity": 21,
+          "sentence": "And they are fundamental to realising the Universal Declaration of Human Rights, the Sustainable Development Goals, and our climate commitments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041106200660578907,
+          "perplexity": 61,
+          "sentence": "We are more than halfway to 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041197470272891223,
+          "perplexity": 164,
+          "sentence": "And minutes to midnight for the 1.5 degree limit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004607338923960924,
+          "perplexity": 77,
+          "sentence": "Now should be a period of accelerated investment in these systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000473491323646158,
+          "perplexity": 52,
+          "sentence": "Instead, many countries face a tidal wave of financial woe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041587415034882724,
+          "perplexity": 14,
+          "sentence": "The global economy is crawling to the end of its slowest 5-year growth period since the early 1990s.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044415428419597447,
+          "perplexity": 213,
+          "sentence": "The COVID-19 pandemic and the global impact of the war in Ukraine slammed the brakes on growth and exhausted fiscal space.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004000052867922932,
+          "perplexity": 67,
+          "sentence": "Before developing countries could catch their breath, a global cost-of-living crisis and post-pandemic inflationary shock set in.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038884859532117844,
+          "perplexity": 28,
+          "sentence": "Today, we face an estimated financing gap of up to US $4 trillion annually to reach the Sustainable Development Goals by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027271773433312774,
+          "perplexity": 46,
+          "sentence": "Last September at the SDG Summit, world leaders agreed to a bold SDG Stimulus of at least US $500 billion a year in financing for developing countries to get the Goals back on track and invest in the systems people need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032044274848885834,
+          "perplexity": 225,
+          "sentence": "Leaders also -- finally -- recognized a fundamental, longstanding truth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003702762769535184,
+          "perplexity": 30,
+          "sentence": "Instead of a safety net, developing countries are faced with an outdated, dysfunctional, unjust system that isn't meeting their needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003235638723708689,
+          "perplexity": 38,
+          "sentence": "It is an inevitable result of the way the global system was designed -- not a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "I thank the President of the General Assembly for convening Sustainability Week. Today\u2019s topic cuts to the heart of a sustainable future: debt. For developing countries, a world of debt means a world of pain. They are struggling to climb the development ladder with one hand tied behind their backs. Health, nutrition, education, clean energy, and social protection systems are not \u201cnice to haves.\u201d These systems form the vital bedrock of prosperity, equality and hope for every country. And they are fundamental to realising the Universal Declaration of Human Rights, the Sustainable Development Goals, and our climate commitments. We are more than halfway to 2030. And minutes to midnight for the 1.5 degree limit. Now should be a period of accelerated investment in these systems. Instead, many countries face a tidal wave of financial woe. The global economy is crawling to the end of its slowest 5-year growth period since the early 1990s. The COVID-19 pandemic and the global impact of the war in Ukraine slammed the brakes on growth and exhausted fiscal space. Before developing countries could catch their breath, a global cost-of-living crisis and post-pandemic inflationary shock set in. Today, we face an estimated financing gap of up to US $4 trillion annually to reach the Sustainable Development Goals by 2030. Last September at the SDG Summit, world leaders agreed to a bold SDG Stimulus of at least US $500 billion a year in financing for developing countries to get the Goals back on track and invest in the systems people need. Leaders also -- finally -- recognized a fundamental, longstanding truth. Instead of a safety net, developing countries are faced with an outdated, dysfunctional, unjust system that isn\u2019t meeting their needs. It is an inevitable result of the way the global system was designed -- not a",
+  "date": "16 April 2024"
+}

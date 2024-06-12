@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d54206c1-f82a-47fc-b2ea-a1f5957e8275",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.92906379699707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008500244584865868,
+          "perplexity": 26,
+          "sentence": "The UN agency issued a special alert on Somalia, indicating that the number of hungry people in the country this year is expected to be 40 percent higher than estimates made at the beginning of 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007510980940423906,
+          "perplexity": 60,
+          "sentence": "A deteriorating nutritional status is also of major concern, according to the alert.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005820678197778761,
+          "perplexity": 44,
+          "sentence": "Acute malnutrition rates as well as the number of acutely malnourished children being admitted to therapeutic feeding centres have sharply increased in 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005450085736811161,
+          "perplexity": 61,
+          "sentence": "\"Rains in April and early May can make or break Somalis' food security for the whole year as they are crucial for the country's main annual harvest in July, following the \"Gu\" rainy season,\" said Mario Zappacosta, FAO Senior Economist and lead of the Global Information and Early Warning System (GIEWS).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005610810476355255,
+          "perplexity": 37,
+          "sentence": "\"A significant lack of rains in April and early May has rendered dry and barren up to 85 percent of the croplands in the country's breadbaskets, and according to the latest projections, food grown during the \"Gu\" season is likely to be 50 percent below average,\" he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005120484274812043,
+          "perplexity": 46,
+          "sentence": "The latest projection is based on data gathered by FAO experts - including sophisticated analyses of rainfall, temperatures, water availability and vegetation health - that point to the worst drought in years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005666126380674541,
+          "perplexity": 44,
+          "sentence": "Some rains are expected in May, but these will be insufficient and arrive too late for crop and pasture recovery before the onset of the dry season.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005250840913504362,
+          "perplexity": 39,
+          "sentence": "For example, in Somalia's Lower Shabelle region, which produces more than 60 percent of maize grown during the \"Gu\" season, severe dryness has prevailed so far, with only some scattered, below-average rains occurring in late April and early May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004524346732068807,
+          "perplexity": 41,
+          "sentence": "Drought conditions also affected other major crop producing areas, including the Bay region's \"sorghum belt\", which accounts for more than half of the country's sorghum production during the \"Gu\" season, and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN agency issued a special alert on Somalia, indicating that the number of hungry people in the country this year is expected to be 40 percent higher than estimates made at the beginning of 2019. A deteriorating nutritional status is also of major concern, according to the alert. Acute malnutrition rates as well as the number of acutely malnourished children being admitted to therapeutic feeding centres have sharply increased in 2019. \"Rains in April and early May can make or break Somalis' food security for the whole year as they are crucial for the country's main annual harvest in July, following the \"Gu\" rainy season,\" said Mario Zappacosta, FAO Senior Economist and lead of the Global Information and Early Warning System (GIEWS). \"A significant lack of rains in April and early May has rendered dry and barren up to 85 percent of the croplands in the country's breadbaskets, and according to the latest projections, food grown during the \"Gu\" season is likely to be 50 percent below average,\" he added. The latest projection is based on data gathered by FAO experts - including sophisticated analyses of rainfall, temperatures, water availability and vegetation health - that point to the worst drought in years. Some rains are expected in May, but these will be insufficient and arrive too late for crop and pasture recovery before the onset of the dry season. For example, in Somalia's Lower Shabelle region, which produces more than 60 percent of maize grown during the \"Gu\" season, severe dryness has prevailed so far, with only some scattered, below-average rains occurring in late April and early May. Drought conditions also affected other major crop producing areas, including the Bay region's \"sorghum belt\", which accounts for more than half of the country's sorghum production during the \"Gu\" season, and",
+  "date": "15 May 2019"
+}

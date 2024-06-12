@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0d1a0273-ed34-46f9-bfb0-a67008192430",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.841423988342285,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001852246787166223,
+          "perplexity": 52,
+          "sentence": "UN Special Envoy invites all sectors of society to share their perspectives and solutions for food systems that are fit for the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016816973220556974,
+          "perplexity": 74,
+          "sentence": "25 NOVEMBER 2020, NAIROBI - The process allowing everyone around the world to contribute to a milestone UN event on food systems was today opened by the UN Special Envoy for the 2021 Food Systems Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017880089581012726,
+          "perplexity": 40,
+          "sentence": "The Food Systems Summit Dialogues are critical to the engagement process and offer a purposeful and organized forum for stakeholders to come together to share evidence, experiences and new ideas to transform the way the world produces, consumes and disposes of food.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017770225531421602,
+          "perplexity": 64,
+          "sentence": "There are three types of Dialogues: UN Member State, Global Events, and Independent, with this last one allowing individuals and institutions to hold their own Dialogue within their own communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017122505232691765,
+          "perplexity": 48,
+          "sentence": "Throughout the process, the Dialogues will feed in to the Summit's five priority areas, or Action Tracks, and the preparatory work of its scientific and advisory groups to ensure a dynamic and harmonized global push to leverage changes in our food systems to deliver the Sustainable Development Goals (SDGs) by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017160836432594806,
+          "perplexity": 79,
+          "sentence": "Dialogue participants can step forward to indicate how they will contribute, with a view to foster new actions and partnerships and amplify existing initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018624740187078714,
+          "perplexity": 45,
+          "sentence": "\u201cI am delighted to announce the start of the Food Systems Summit Dialogues because this is an exciting opportunity to share the floor with everyone who cares about making food systems more equitable and sustainable,\u201d said Dr. Agnes Kalibata, the UN Secretary General's Special Envoy for the 2021 Food Systems Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001917341724038124,
+          "perplexity": 43,
+          "sentence": "\u201cThe Summit will only be effective at setting out the pathway to 2030 if we successfully leverage the collective knowledge and experience of the broadest possible cross-section of the population.\u201d The Summit process will draw on the best evidence, ideas, and experiences from",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Special Envoy invites all sectors of society to share their perspectives and solutions for food systems that are fit for the future. 25 NOVEMBER 2020, NAIROBI \u2013 The process allowing everyone around the world to contribute to a milestone UN event on food systems was today opened by the UN Special Envoy for the 2021 Food Systems Summit. The Food Systems Summit Dialogues are critical to the engagement process and offer a purposeful and organized forum for stakeholders to come together to share evidence, experiences and new ideas to transform the way the world produces, consumes and disposes of food. There are three types of Dialogues: UN Member State, Global Events, and Independent, with this last one allowing individuals and institutions to hold their own Dialogue within their own communities. Throughout the process, the Dialogues will feed in to the Summit\u2019s five priority areas, or Action Tracks, and the preparatory work of its scientific and advisory groups to ensure a dynamic and harmonized global push to leverage changes in our food systems to deliver the Sustainable Development Goals (SDGs) by 2030. Dialogue participants can step forward to indicate how they will contribute, with a view to foster new actions and partnerships and amplify existing initiatives. \u201cI am delighted to announce the start of the Food Systems Summit Dialogues because this is an exciting opportunity to share the floor with everyone who cares about making food systems more equitable and sustainable,\u201d said Dr. Agnes Kalibata, the UN Secretary General\u2019s Special Envoy for the 2021 Food Systems Summit. \u201cThe Summit will only be effective at setting out the pathway to 2030 if we successfully leverage the collective knowledge and experience of the broadest possible cross-section of the population.\u201d The Summit process will draw on the best evidence, ideas, and experiences from",
+  "date": "25 November 2020"
+}

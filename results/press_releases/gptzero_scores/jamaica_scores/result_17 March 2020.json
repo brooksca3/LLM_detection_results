@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "32820752-4251-484f-9e7c-5b8fad01556f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.3747444152832,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008174880058504641,
+          "perplexity": 46,
+          "sentence": "As the people and countries of the region confront the novel coronavirus (COVID-19) and work to contain its impact, the United Nations System in the Caribbean confirms its readiness to support the people and governments of the region right to the end of this public health emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008275615982711315,
+          "perplexity": 47,
+          "sentence": "The UN has taken steps to safeguard the health of its staff while sustaining its full operations so it can deliver to those most in need, particularly those who are most vulnerable to the impact of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000782207993324846,
+          "perplexity": 54,
+          "sentence": "For many UN staff this already means working \u201cfrom different locations, using different technologies\u201d - in the words of the Secretary-General - to ensure the Organisation \u201cremains open for business.\u201d In the Caribbean, this business includes providing technical assistance to governments on containing the virus and managing its impact; keeping everyone up to date on the latest information about the virus and its effect across the globe; and relaying PAHO/WHO's advice to everyone on staying healthy and protecting each other while we battle this pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008595220861025155,
+          "perplexity": 44,
+          "sentence": "Our staff are also closely adhering to the guidelines and policies that host governments are introducing to manage the outbreak and protect residents, and we encourage each person to follow this guidance from the authorities in your own country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008263249765150249,
+          "perplexity": 23,
+          "sentence": "To complement this guidance, we also invite you to check updates from the UN (https://www.un.org/coronavirus) and advice for personal coronavirus prevention and care from WHO/PAHO (https://www.who.int/health-topics/coronavirus).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007098222267813981,
+          "perplexity": 153,
+          "sentence": "We'll also keep you current about COVID-19 from our social media platforms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006641484797000885,
+          "perplexity": 50,
+          "sentence": "Across the Caribbean, in keeping with the Secretary-General's global appeal to take care of each other, all staff are working to \u201ckeep each other safe, while continuing to deliver for the people we serve.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As the people and countries of the region confront the novel coronavirus (COVID-19) and work to contain its impact, the United Nations System in the Caribbean confirms its readiness to support the people and governments of the region right to the end of this public health emergency. The UN has taken steps to safeguard the health of its staff while sustaining its full operations so it can deliver to those most in need, particularly those who are most vulnerable to the impact of COVID-19. For many UN staff this already means working \u201cfrom different locations, using different technologies\u201d - in the words of the Secretary-General - to ensure the Organisation \u201cremains open for business.\u201d In the Caribbean, this business includes providing technical assistance to governments on containing the virus and managing its impact; keeping everyone up to date on the latest information about the virus and its effect across the globe; and relaying PAHO/WHO\u2019s advice to everyone on staying healthy and protecting each other while we battle this pandemic. Our staff are also closely adhering to the guidelines and policies that host governments are introducing to manage the outbreak and protect residents, and we encourage each person to follow this guidance from the authorities in your own country. To complement this guidance, we also invite you to check updates from the UN (https://www.un.org/coronavirus) and advice for personal coronavirus prevention and care from WHO/PAHO (https://www.who.int/health-topics/coronavirus). We\u2019ll also keep you current about COVID-19 from our social media platforms. Across the Caribbean, in keeping with the Secretary-General\u2019s global appeal to take care of each other, all staff are working to \u201ckeep each other safe, while continuing to deliver for the people we serve.\u201d",
+  "date": "17 March 2020"
+}

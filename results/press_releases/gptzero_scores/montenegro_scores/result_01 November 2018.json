@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f85d21ed-5205-46b4-b0bb-bfe82cf4e4af",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 64.5155029296875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010825746721820906,
+          "perplexity": 33,
+          "sentence": "GENEVA (1 November 2018) \u1173 There have been some improvements in the situation of human rights in Montenegro, Greece, Rwanda, Benin and the Republic of Korea, experts from the UN Human Rights Committee said after completing a follow-up review of those countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010924096568487585,
+          "perplexity": 76,
+          "sentence": "\u201cIn a world where much news about human rights is bleak, it's heartening to see clear progress in specific areas the Committee helped states identify as priorities for improvement,\u201d said Yuval Shany, Chair of the Human Rights Committee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010825324716279283,
+          "perplexity": 9,
+          "sentence": "The 18-member Human Rights Committee monitors how states which have signed the International Covenant on Civil and Political Rights (ICCPR) are living up to their obligations, such as the right to life, freedom of expression and freedom of conscience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010506917169550434,
+          "perplexity": 31,
+          "sentence": "The Committee performs its regular monitoring work by reviewing reports and holding meetings with state representatives, discussing the situation of human rights in their respective countries and also hearing from non-governmental organizations and other members of civil society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001047969053615816,
+          "perplexity": 43,
+          "sentence": "The Committee later issues detailed recommendations for how to improve the human rights situation in those countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010652044875314459,
+          "perplexity": 48,
+          "sentence": "On 22 October, the Committee reviewed 'follow up' reports describing the implementation of specific 'high-priority' recommendations it issued in 2014-2016 to Montenegro, Greece, Rwanda, Benin and the Republic of Korea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001061366856447421,
+          "perplexity": 223,
+          "sentence": "\u201cAll five states have adopted specific measures representing significant progress in the implementation of the Covenant,\u201d said Shany.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010551184823270887,
+          "perplexity": 18,
+          "sentence": "Those measures included the appointment of a special prosecutor for war crimes in Montenegro, the creation of the function of an ombudsperson in Greece to investigate claims of excessive use of force by law enforcement officials, the abolition of the death penalty in Benin, and the decriminalisation of defamation in Rwanda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010074589226860553,
+          "perplexity": 71,
+          "sentence": "The Committee also noted with satisfaction recent information it received on the decision of the Constitutional Court in the Republic of Korea requiring that alternatives to military",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (1 November 2018) \u2014 There have been some improvements in the situation of human rights in Montenegro, Greece, Rwanda, Benin and the Republic of Korea, experts from the UN Human Rights Committee said after completing a follow-up review of those countries. \u201cIn a world where much news about human rights is bleak, it\u2019s heartening to see clear progress in specific areas the Committee helped states identify as priorities for improvement,\u201d said Yuval Shany, Chair of the Human Rights Committee. The 18-member Human Rights Committee monitors how states which have signed the International Covenant on Civil and Political Rights (ICCPR) are living up to their obligations, such as the right to life, freedom of expression and freedom of conscience. The Committee performs its regular monitoring work by reviewing reports and holding meetings with state representatives, discussing the situation of human rights in their respective countries and also hearing from non-governmental organizations and other members of civil society. The Committee later issues detailed recommendations for how to improve the human rights situation in those countries. On 22 October, the Committee reviewed \u2018follow up\u2019 reports describing the implementation of specific \u2018high-priority\u2019 recommendations it issued in 2014-2016 to Montenegro, Greece, Rwanda, Benin and the Republic of Korea. \u201cAll five states have adopted specific measures representing significant progress in the implementation of the Covenant,\u201d said Shany. Those measures included the appointment of a special prosecutor for war crimes in Montenegro, the creation of the function of an ombudsperson in Greece to investigate claims of excessive use of force by law enforcement officials, the abolition of the death penalty in Benin, and the decriminalisation of defamation in Rwanda. The Committee also noted with satisfaction recent information it received on the decision of the Constitutional Court in the Republic of Korea requiring that alternatives to military",
+  "date": "01 November 2018"
+}

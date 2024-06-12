@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dc4314d0-a3c3-477f-8ccd-a5d58a871cff",
+  "documents": [
+    {
+      "average_generated_prob": 0.8888888888888888,
+      "class_probabilities": {
+        "ai": 0.17106851095432604,
+        "human": 0.012509283327144448,
+        "mixed": 0.8164222057185294
+      },
+      "completely_generated_prob": 0.4082111028592647,
+      "confidence_category": "low",
+      "confidence_score": 0.8164222057185294,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17106851095432604,
+          "human": 0.012509283327144448,
+          "mixed": 0.8164222057185294
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.568809509277344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.8229174702787837,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.06315401196479797,
+          "perplexity": 20,
+          "sentence": "Speech of the Representative of the Secretary-General of the United Nations and Resident Coordinator in the State of Kuwait at the opening of a training workshop in cooperation with the Kuwait Ministry of Foreign Affairs and the Office of the United Nations High Commissioner for Human Rights on \"Workshop on the Development of National Human Rights Plans to Follow Up the Implementation of Recommendations Issued by International Human Rights Mechanisms\" H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8279614448547363,
+          "perplexity": 23,
+          "sentence": "Sheikha Jawaher Al-Sabah, Assistant Foreign Minister for Human Rights of the State of Kuwait Mr. Mazen Shaqoura, Regional Representative of the Office of the United Nations High Commissioner for the Middle East and North Africa I am honored to stand before you today to address this esteemed assembly on our collaborative efforts and commitments to human rights in the State of Kuwait.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.999925971031189,
+          "perplexity": 15,
+          "sentence": "I would like to start by congratulating the State of Kuwait's for its recent membership at the United Nations Human Rights Council (UNHRC) which further exemplifies its commitment to promoting and safeguarding human rights on the global stage.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999240636825562,
+          "perplexity": 60,
+          "sentence": "Kuwait's active participation in the council provides a platform to contribute its unique perspectives, experiences, and initiatives to the international human rights discourse.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999406337738037,
+          "perplexity": 30,
+          "sentence": "This involvement signifies a willingness to not only uphold its own human rights standards but also to contribute constructively to the advancement of global norms and practices.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999384880065918,
+          "perplexity": 18,
+          "sentence": "The United Nations's partnership with the State of Kuwait reflects a shared dedication to upholding the principles enshrined in the Universal Declaration of Human Rights.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999504089355469,
+          "perplexity": 19,
+          "sentence": "Over the years, we have witnessed Kuwait's unwavering commitment to fostering an environment where every individual's dignity and rights are respected.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999195337295532,
+          "perplexity": 95,
+          "sentence": "Kuwait's engagement with UN mechanisms at various levels and mandated institutions, with the Esteemed Ministry of Foreign Affairs on the forefront has been instrumental in promoting human rights.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9999046325683594,
+          "perplexity": 111,
+          "sentence": "Through dialogue and cooperation, we",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Speech of the Representative of the Secretary-General of the United Nations and Resident Coordinator in the State of Kuwait at the opening of a training workshop in cooperation with the Kuwait Ministry of Foreign Affairs and the Office of the United Nations High Commissioner for Human Rights on \"Workshop on the Development of National Human Rights Plans to Follow Up the Implementation of Recommendations Issued by International Human Rights Mechanisms\" H.E. Sheikha Jawaher Al-Sabah, Assistant Foreign Minister for Human Rights of the State of Kuwait Mr. Mazen Shaqoura, Regional Representative of the Office of the United Nations High Commissioner for the Middle East and North Africa I am honored to stand before you today to address this esteemed assembly on our collaborative efforts and commitments to human rights in the State of Kuwait. I would like to start by congratulating the State of Kuwait's for its recent membership at the United Nations Human Rights Council (UNHRC) which further exemplifies its commitment to promoting and safeguarding human rights on the global stage. Kuwait's active participation in the council provides a platform to contribute its unique perspectives, experiences, and initiatives to the international human rights discourse. This involvement signifies a willingness to not only uphold its own human rights standards but also to contribute constructively to the advancement of global norms and practices. The United Nations\u2019s partnership with the State of Kuwait reflects a shared dedication to upholding the principles enshrined in the Universal Declaration of Human Rights. Over the years, we have witnessed Kuwait\u2019s unwavering commitment to fostering an environment where every individual's dignity and rights are respected. Kuwait's engagement with UN mechanisms at various levels and mandated institutions, with the Esteemed Ministry of Foreign Affairs on the forefront has been instrumental in promoting human rights. Through dialogue and cooperation, we",
+  "date": "29 January 2024"
+}

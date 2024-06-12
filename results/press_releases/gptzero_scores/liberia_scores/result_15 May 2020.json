@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a25268f2-e86e-4fcf-97ee-579965563ade",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 52.39229202270508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018363234994467348,
+          "perplexity": 34,
+          "sentence": "As part of its continuous efforts to eliminate violence against women and girls in Liberia, the Spotlight Initiative is supporting the Ministry of Internal Affairs and the National Council of Chiefs and Elders to launch a campaign for monitoring the implementation of the Ganta Declaration which calls for a one-year suspension of all Sande society activities; and to raise awareness among communities on measures to prevent the spread of corona virus and respond to sexual and gender based violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019460242765489966,
+          "perplexity": 93,
+          "sentence": "The Ganta Declaration signed on 25 June 2019 calls for a one-year suspension of Sande society and bush school activities, where young women and girls are initiated into adulthood through a series of activities including Female Genital Mutilation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000211911610676907,
+          "perplexity": 111,
+          "sentence": "\u201cWe hope the closure of the bush schools will pave the way for the elimination of all harmful practices against women and girls in Liberia,\u201d says Marie Goreth Nizigama, UN Women Country Representative for Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020612371736206114,
+          "perplexity": 34,
+          "sentence": "\u201cAs the custodians of culture and traditional practices, traditional leaders play an important role in ending all forms of violence against women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017975493392441422,
+          "perplexity": 87,
+          "sentence": "We commend the European Union and the Government of Liberia for providing the platform to eliminate harmful practices.\u201d To enable traditional leaders to reach the grassroot communities, UN Women within the framework of the Spotlight Initiative is donating ten motorbikes to the Ministry of Internal Affairs and the National Council of Chiefs and Elders to facilitate the monitoring of the closure of the bush schools and alternative livelihood support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017776968888938427,
+          "perplexity": 126,
+          "sentence": "\u201cWe commend the Spotlight Initiative for the provision of motorbikes to enable the Ministry to enforce its mandate to close bush schools and to help eliminate violence against women and girls in the communities,\u201d says Honourable Varney Sirleaf, Minister of Internal Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021331850439310074,
+          "perplexity": 183,
+          "sentence": "Additionally, in response to the global COVID-19 pandemic affecting Liberia, the traditional leaders",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As part of its continuous efforts to eliminate violence against women and girls in Liberia, the Spotlight Initiative is supporting the Ministry of Internal Affairs and the National Council of Chiefs and Elders to launch a campaign for monitoring the implementation of the Ganta Declaration which calls for a one-year suspension of all Sande society activities; and to raise awareness among communities on measures to prevent the spread of corona virus and respond to sexual and gender based violence. The Ganta Declaration signed on 25 June 2019 calls for a one-year suspension of Sande society and bush school activities, where young women and girls are initiated into adulthood through a series of activities including Female Genital Mutilation. \u201cWe hope the closure of the bush schools will pave the way for the elimination of all harmful practices against women and girls in Liberia,\u201d says Marie Goreth Nizigama, UN Women Country Representative for Liberia. \u201cAs the custodians of culture and traditional practices, traditional leaders play an important role in ending all forms of violence against women and girls. We commend the European Union and the Government of Liberia for providing the platform to eliminate harmful practices.\u201d To enable traditional leaders to reach the grassroot communities, UN Women within the framework of the Spotlight Initiative is donating ten motorbikes to the Ministry of Internal Affairs and the National Council of Chiefs and Elders to facilitate the monitoring of the closure of the bush schools and alternative livelihood support. \u201cWe commend the Spotlight Initiative for the provision of motorbikes to enable the Ministry to enforce its mandate to close bush schools and to help eliminate violence against women and girls in the communities,\u201d says Honourable Varney Sirleaf, Minister of Internal Affairs. Additionally, in response to the global COVID-19 pandemic affecting Liberia, the traditional leaders",
+  "date": "15 May 2020"
+}

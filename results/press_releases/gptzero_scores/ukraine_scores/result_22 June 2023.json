@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a615cd34-c60c-4b45-ba1f-1c00cc9ba014",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.128660202026367,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023743959900457412,
+          "perplexity": 28,
+          "sentence": "The programme aims to prevent Ukraine from requiring food assistance in the long term Kyiv/Rome - The Food and Agriculture Organization of the United Nations (FAO) and the World Food Programme (WFP) have launched a joint programme in collaboration with mine action partner Fondation Suisse de D\u00e9minage (FSD) to support smallholder farmers and rural families most affected by the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023525087453890592,
+          "perplexity": 36,
+          "sentence": "The programme has already started in Kharkivska oblast, and will later expand to Mykolaivska and Khersonska oblasts, focusing on farmers with land plots smaller than 300 hectares as well as rural families growing food for their own consumption.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002510617778170854,
+          "perplexity": 42,
+          "sentence": "The programme is designed to safely release land back to productive use, including by clearing it from mines and other explosive remnants of the war, to help restore agricultural livelihoods, contribute to Ukraine's economic recovery, and phase out the need for humanitarian assistance for thousands of rural families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002852896286640316,
+          "perplexity": 55,
+          "sentence": "The war has damaged Ukraine's agriculture and food production, disrupted supply chains and exports, increased production costs, and caused widespread mine contamination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020837862393818796,
+          "perplexity": 47,
+          "sentence": "According to the Rapid Damage and Needs Assessment, published in February 2023, Ukraine's production of grain and oilseeds decreased by 37 percent in 2022.Almost 90 percent of small-scale crop producers surveyed by FAO in Ukraine reported a decrease in revenue due to the war, and one in four reported having stopped or significantly reduced their agricultural activity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002480228431522846,
+          "perplexity": 45,
+          "sentence": "\u201cMaking the land safe and free of explosive remnants of the war is the first step to rebuilding resilient and prosperous rural communities in Ukraine, who have been on the frontlines of this war, and preventing their long-term dependence on humanitarian assistance,\u201d said Denise Brown, the UN Humanitarian Coordinator in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022916909074410796,
+          "perplexity": 72,
+          "sentence": "\u201cMany families and small-scale farmers in front-line regions are not planting this season because they know their fields are dangerous or they are risking",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The programme aims to prevent Ukraine from requiring food assistance in the long term Kyiv/Rome \u2013 The Food and Agriculture Organization of the United Nations (FAO) and the World Food Programme (WFP) have launched a joint programme in collaboration with mine action partner Fondation Suisse de D\u00e9minage (FSD) to support smallholder farmers and rural families most affected by the war. The programme has already started in Kharkivska oblast, and will later expand to Mykolaivska and Khersonska oblasts, focusing on farmers with land plots smaller than 300 hectares as well as rural families growing food for their own consumption. The programme is designed to safely release land back to productive use, including by clearing it from mines and other explosive remnants of the war, to help restore agricultural livelihoods, contribute to Ukraine\u2019s economic recovery, and phase out the need for humanitarian assistance for thousands of rural families. The war has damaged Ukraine\u2019s agriculture and food production, disrupted supply chains and exports, increased production costs, and caused widespread mine contamination. According to the Rapid Damage and Needs Assessment, published in February 2023, Ukraine\u2019s production of grain and oilseeds decreased by 37 percent in 2022.Almost 90 percent of small-scale crop producers surveyed by FAO in Ukraine reported a decrease in revenue due to the war, and one in four reported having stopped or significantly reduced their agricultural activity. \u201cMaking the land safe and free of explosive remnants of the war is the first step to rebuilding resilient and prosperous rural communities in Ukraine, who have been on the frontlines of this war, and preventing their long-term dependence on humanitarian assistance,\u201d said Denise Brown, the UN Humanitarian Coordinator in Ukraine. \u201cMany families and small-scale farmers in front-line regions are not planting this season because they know their fields are dangerous or they are risking",
+  "date": "22 June 2023"
+}

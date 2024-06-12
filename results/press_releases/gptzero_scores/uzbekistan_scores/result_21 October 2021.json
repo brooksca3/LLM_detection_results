@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "42b11f5b-c71c-4409-802b-c7e43dc53b65",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02115313278722631,
+        "human": 0.9783289685721962,
+        "mixed": 0.0005178986405775599
+      },
+      "completely_generated_prob": 0.02115313278722631,
+      "confidence_category": "high",
+      "confidence_score": 0.9783289685721962,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02115313278722631,
+          "human": 0.9783289685721962,
+          "mixed": 0.0005178986405775599
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.1718807220459,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009573313873261213,
+          "perplexity": 45,
+          "sentence": "The UN's 76th anniversary was celebrated in Uzbekistan with an event organised by Westminster International University (WIUT) in Tashkent and the country's UN system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008651018142700195,
+          "perplexity": 28,
+          "sentence": "The event was held at WIUT's campus and was attended by more than 300 participants, including national and international partners, organisations, youth, representatives of the UN agencies, funds and programmes based in Uzbekistan, as well as students and academic staff from the University.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009631013381294906,
+          "perplexity": 34,
+          "sentence": "In his UN Day address, the UN Secretary-General Ant\u00f3nio Guterres commented that that the values that have powered the UN Charter for the last 76 years \u1173 peace, development, human rights, and opportunity for all \u1173 have no expiry date.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009976316941902041,
+          "perplexity": 65,
+          "sentence": "The joint event aimed to reaffirm joint commitments by the UN system and WIUT to advance the implementation of the Sustainable Development Goals (SDGs) by youth in Uzbekistan, present practical ways to attain the SDGs and build a community of SDGs' change makers amongst students and youth networks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009703763062134385,
+          "perplexity": 66,
+          "sentence": "\u201cWIUT, as a member of the UN Sustainable Development Solutions Network (UN SDSN), is fully committed to promoting activities and events, and discovering new prospects for the SDGs in Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038488858845084906,
+          "perplexity": 82,
+          "sentence": "Universities and youth play a key role in sustainable development\u201d, noted Bakhrom Mirkasimov, Rector, Westminster International University in Tashkent, in his opening remarks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003613442415371537,
+          "perplexity": 70,
+          "sentence": "Addressing event participants, Munir Mammadzade, UN Resident Coordinator a.i., UNICEF Representative in Uzbekistan, remarked \u201cYouth can play a critical role in advancing the sustainable development goals and it is important that youth are informed and engaged with the global vision for the future though participation in various platforms for discussions, exchange of ideas and innovation.\u201d Divided into 16 teams and based on Uzbekistan's 16 national sustainable development goals, students presented their respective goals to participants, highlighted problems and proposed actionable solutions for sustainable development, eradicating inequality and other deprivation, to leave no",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN\u2019s 76th anniversary was celebrated in Uzbekistan with an event organised by Westminster International University (WIUT) in Tashkent and the country\u2019s UN system. The event was held at WIUT\u2019s campus and was attended by more than 300 participants, including national and international partners, organisations, youth, representatives of the UN agencies, funds and programmes based in Uzbekistan, as well as students and academic staff from the University. In his UN Day address, the UN Secretary-General Ant\u00f3nio Guterres commented that that the values that have powered the UN Charter for the last 76 years \u2014 peace, development, human rights, and opportunity for all \u2014 have no expiry date. The joint event aimed to reaffirm joint commitments by the UN system and WIUT to advance the implementation of the Sustainable Development Goals (SDGs) by youth in Uzbekistan, present practical ways to attain the SDGs and build a community of SDGs\u2019 change makers amongst students and youth networks. \u201cWIUT, as a member of the UN Sustainable Development Solutions Network (UN SDSN), is fully committed to promoting activities and events, and discovering new prospects for the SDGs in Uzbekistan. Universities and youth play a key role in sustainable development\u201d, noted Bakhrom Mirkasimov, Rector, Westminster International University in Tashkent, in his opening remarks. Addressing event participants, Munir Mammadzade, UN Resident Coordinator a.i., UNICEF Representative in Uzbekistan, remarked \u201cYouth can play a critical role in advancing the sustainable development goals and it is important that youth are informed and engaged with the global vision for the future though participation in various platforms for discussions, exchange of ideas and innovation.\u201d Divided into 16 teams and based on Uzbekistan\u2019s 16 national sustainable development goals, students presented their respective goals to participants, highlighted problems and proposed actionable solutions for sustainable development, eradicating inequality and other deprivation, to leave no",
+  "date": "21 October 2021"
+}

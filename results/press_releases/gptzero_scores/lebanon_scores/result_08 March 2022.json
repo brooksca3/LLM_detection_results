@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "08bb05a1-01d1-49fc-854d-87607832d772",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022885307625839273,
+        "human": 0.976474903139442,
+        "mixed": 0.0006397892347189022
+      },
+      "completely_generated_prob": 0.022885307625839273,
+      "confidence_category": "high",
+      "confidence_score": 0.976474903139442,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022885307625839273,
+          "human": 0.976474903139442,
+          "mixed": 0.0006397892347189022
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.42481231689453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00227824947796762,
+          "perplexity": 54,
+          "sentence": "To recognize International Women's Day, the United Nations System in Lebanon, coordinated by UN Women, and in collaboration with the Lebanon Gender Working Group (GWG) and with the support from UN Members States come together around a joint campaign \u201cWomen and girls leading the fight against climate change to build a more sustainable future for Lebanon\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023940005339682102,
+          "perplexity": 68,
+          "sentence": "The campaign builds on the global theme, \u201cGender equality today for a sustainable tomorrow\u201d that is aligned with the priority theme for the upcoming 66th Commission on the Status of Women (CSW66, 14-25 March 2022) on \u201cachieving gender equality and the empowerment of all women and girls in the context of climate change, environmental disaster risk reduction policies, and programmes\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036413681227713823,
+          "perplexity": 139,
+          "sentence": "Climate change is a threat multiplier in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003591724904254079,
+          "perplexity": 26,
+          "sentence": "Over the past decades, an inability to find sustainable solutions for key environmental threats, including those related to waste management and sustainable energy, has produced serious public health impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037714196369051933,
+          "perplexity": 33,
+          "sentence": "Contamination and depletion of the groundwater have reached catastrophic levels, and air pollution is estimated to have increased by 50% between 2017 and 2020 in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004111535847187042,
+          "perplexity": 22,
+          "sentence": "By profiling a group of women living and working in Lebanon to combat the far-reaching impacts of climate change, including its health, economic and social effects on the country, the UN and partners are celebrating the achievements of women in the country, while highlighting the urgent need for action on matters related to climate change and environmental degradation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037522006314247847,
+          "perplexity": 113,
+          "sentence": "The group of nine women being profiled: Nadida Raad, Caroline Chabtini, Dr Maya Nehmeh, Aaida Ghadban, Dr Myriam Ghsoub, Carole Ayat, Dr Mona Fawaz, Nouhad Awwad and Dr Najat Saliba, are leading innovative actions for climate adaptation across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004706230014562607,
+          "perplexity": 33,
+          "sentence": "In trying to mitigate the effects of this environmental challenge, these women are working to build a future of equality, rights, and opportunities",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "To recognize International Women\u2019s Day, the United Nations System in Lebanon, coordinated by UN Women, and in collaboration with the Lebanon Gender Working Group (GWG) and with the support from UN Members States come together around a joint campaign \u201cWomen and girls leading the fight against climate change to build a more sustainable future for Lebanon\u201d. The campaign builds on the global theme, \u201cGender equality today for a sustainable tomorrow\u201d that is aligned with the priority theme for the upcoming 66th Commission on the Status of Women (CSW66, 14-25 March 2022) on \u201cachieving gender equality and the empowerment of all women and girls in the context of climate change, environmental disaster risk reduction policies, and programmes\u201d. Climate change is a threat multiplier in Lebanon. Over the past decades, an inability to find sustainable solutions for key environmental threats, including those related to waste management and sustainable energy, has produced serious public health impacts. Contamination and depletion of the groundwater have reached catastrophic levels, and air pollution is estimated to have increased by 50% between 2017 and 2020 in Lebanon. By profiling a group of women living and working in Lebanon to combat the far-reaching impacts of climate change, including its health, economic and social effects on the country, the UN and partners are celebrating the achievements of women in the country, while highlighting the urgent need for action on matters related to climate change and environmental degradation. The group of nine women being profiled: Nadida Raad, Caroline Chabtini, Dr Maya Nehmeh, Aaida Ghadban, Dr Myriam Ghsoub, Carole Ayat, Dr Mona Fawaz, Nouhad Awwad and Dr Najat Saliba, are leading innovative actions for climate adaptation across the country. In trying to mitigate the effects of this environmental challenge, these women are working to build a future of equality, rights, and opportunities",
+  "date": "08 March 2022"
+}

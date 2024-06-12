@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bf81a77f-d7f0-4d07-ba09-ee8c0221388b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022343487838710107,
+        "human": 0.9770163681570956,
+        "mixed": 0.0006401440041944493
+      },
+      "completely_generated_prob": 0.022343487838710107,
+      "confidence_category": "high",
+      "confidence_score": 0.9770163681570956,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022343487838710107,
+          "human": 0.9770163681570956,
+          "mixed": 0.0006401440041944493
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.99394607543945,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004031200893223286,
+          "perplexity": 91,
+          "sentence": "UN Emergency Fund assists communities in Nepal before peak monsoon floods Unseasonal rains have hit communities in the West of Nepal and have pushed vulnerable people into humanitarian need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003068774938583374,
+          "perplexity": 58,
+          "sentence": "In an innovative approach to early warning, early humanitarian action, and disaster risk management amidst the global climate crisis, UN agencies in Nepal have acted on predictive analytics and meteorological forecast data to pre-emptively mitigate and respond to worst likely impacts on flood-affected communities in the Karnali River Basin.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025316746905446053,
+          "perplexity": 37,
+          "sentence": "On 07 October, the UN Central Emergency Response Fund (CERF) authorized three UN agencies to spend a total of $3.2 million to support communities ahead of peak flood impact as part of the activation of a pre-agreed anticipatory action framework.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024073675740510225,
+          "perplexity": 30,
+          "sentence": "Recipients of these funds enabled the three participating agencies - the World Food Programme (WFP), the United Nations Population Fund (UNFPA), and the United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) - to communicate early warning messages, distribute cash and comprehensive relief package (food and non-food items, energy saving cooking device, solar radio, clothes, and services such as legal and psycho-social counseling).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024707724805921316,
+          "perplexity": 57,
+          "sentence": "In addition, essential items, such as hygiene, dignity and health kits are distributed to facilitate access to essential items and critical health and protection services, including through the deployment of emergency medical teams and rapid response teams, community psychosocial workers, gender advisors and monitoring specialist.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005001729354262352,
+          "perplexity": 51,
+          "sentence": "Recognizing the specific impacts of disasters on women and marginalized groups, the allocation seeks to address a broad range of their needs across all phases of the response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004128106404095888,
+          "perplexity": 135,
+          "sentence": "The anticipatory allocation from the CERF in Nepal is the latest example of anticipatory humanitarian action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038795715663582087,
+          "perplexity": 31,
+          "sentence": "Developments in data and predictive analytics make it increasingly possible to anticipate when a disaster is about to strike and take necessary action in advance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004583087284117937,
+          "perplexity": 1,
+          "sentence": "This",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Emergency Fund assists communities in Nepal before peak monsoon floods Unseasonal rains have hit communities in the West of Nepal and have pushed vulnerable people into humanitarian need. In an innovative approach to early warning, early humanitarian action, and disaster risk management amidst the global climate crisis, UN agencies in Nepal have acted on predictive analytics and meteorological forecast data to pre-emptively mitigate and respond to worst likely impacts on flood-affected communities in the Karnali River Basin. On 07 October, the UN Central Emergency Response Fund (CERF) authorized three UN agencies to spend a total of $3.2 million to support communities ahead of peak flood impact as part of the activation of a pre-agreed anticipatory action framework. Recipients of these funds enabled the three participating agencies \u2013 the World Food Programme (WFP), the United Nations Population Fund (UNFPA), and the United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) \u2013 to communicate early warning messages, distribute cash and comprehensive relief package (food and non-food items, energy saving cooking device, solar radio, clothes, and services such as legal and psycho-social counseling). In addition, essential items, such as hygiene, dignity and health kits are distributed to facilitate access to essential items and critical health and protection services, including through the deployment of emergency medical teams and rapid response teams, community psychosocial workers, gender advisors and monitoring specialist. Recognizing the specific impacts of disasters on women and marginalized groups, the allocation seeks to address a broad range of their needs across all phases of the response. The anticipatory allocation from the CERF in Nepal is the latest example of anticipatory humanitarian action. Developments in data and predictive analytics make it increasingly possible to anticipate when a disaster is about to strike and take necessary action in advance. This",
+  "date": "13 October 2022"
+}

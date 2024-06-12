@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3ed898cd-8f5f-4c23-bf26-e86367a4f286",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013686815369632534,
+        "human": 0.9981461872250941,
+        "mixed": 0.00048513123794269856
+      },
+      "completely_generated_prob": 0.0013686815369632534,
+      "confidence_category": "high",
+      "confidence_score": 0.9981461872250941,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013686815369632534,
+          "human": 0.9981461872250941,
+          "mixed": 0.00048513123794269856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 70.53840637207031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 8.769061241764575e-05,
+          "perplexity": 35,
+          "sentence": "The UN COVID-19 Emergency Appeal, which is aimed at reducing the impact of COVID-19 on 6.2 million vulnerable people in the country during the period May to October 2020, seeks immediate funding of USD133 million to meet the needs of the most vulnerable people in Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.0207060566172e-05,
+          "perplexity": 93,
+          "sentence": "USD133 million needed to support 6 million vulnerable people from May to October Lusaka, 15 May 2020: The UN Resident Coordinator in Zambia Dr Coumba Mar Gadio and Zambia's Vice-President Ms Inonge Wina this morning jointly launched the UN COVID-19 Emergency Appeal and the Government Multisectoral COVID-19 Response Plan with a call for support to reduce the impact of the pandemic on 6 million people in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.93460019142367e-05,
+          "perplexity": 92,
+          "sentence": "The launch was witnessed in person by Cabinet Ministers from Health, Finance, National Development Planning, Information and Broadcasting, Home affairs, Office of the Vice President, members of the diplomatic corps, cooperating partners and other stakeholders such as Faith Based Organisations and the private sector who joined virtually due to COVID- 19 guidelines on gatherings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.641045471653342e-05,
+          "perplexity": 35,
+          "sentence": "The UN COVID-19 Emergency Appeal, which is aimed at reducing the impact of COVID-19 on 6.2 million vulnerable people in the country during the period May to October 2020, seeks immediate funding of USD133 million to meet the needs of the most vulnerable people in Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.063751349458471e-05,
+          "perplexity": 61,
+          "sentence": "The UN will work with 27 partners comprising 9 United Nations agencies, 11 International Non-Governmental Organisations and 7 local Non-Governmental Organisations across 11 sectors namely food security, social protection, COVID-19 public health, education, health and WASH sectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.803628927329555e-05,
+          "perplexity": 241,
+          "sentence": "Others are Risk Communication and Community Engagement, immediate economic support, nutrition, protection and governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.680000610183924e-05,
+          "perplexity": 108,
+          "sentence": "The appeal complements the Government of Zambia's COVID-19 Multisectoral Contingency and Response Plan focusing on strengthening preparedness and response to COVID-19 also launched at the same event by Zambia's Republican Vice-President Ms Inonge Mutukwa Wina,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN COVID-19 Emergency Appeal, which is aimed at reducing the impact of COVID-19 on 6.2 million vulnerable people in the country during the period May to October 2020, seeks immediate funding of USD133 million to meet the needs of the most vulnerable people in Zambia. USD133 million needed to support 6 million vulnerable people from May to October Lusaka, 15 May 2020: The UN Resident Coordinator in Zambia Dr Coumba Mar Gadio and Zambia\u2019s Vice-President Ms Inonge Wina this morning jointly launched the UN COVID-19 Emergency Appeal and the Government Multisectoral COVID-19 Response Plan with a call for support to reduce the impact of the pandemic on 6 million people in the country. The launch was witnessed in person by Cabinet Ministers from Health, Finance, National Development Planning, Information and Broadcasting, Home affairs, Office of the Vice President, members of the diplomatic corps, cooperating partners and other stakeholders such as Faith Based Organisations and the private sector who joined virtually due to COVID- 19 guidelines on gatherings. The UN COVID-19 Emergency Appeal, which is aimed at reducing the impact of COVID-19 on 6.2 million vulnerable people in the country during the period May to October 2020, seeks immediate funding of USD133 million to meet the needs of the most vulnerable people in Zambia. The UN will work with 27 partners comprising 9 United Nations agencies, 11 International Non-Governmental Organisations and 7 local Non-Governmental Organisations across 11 sectors namely food security, social protection, COVID-19 public health, education, health and WASH sectors. Others are Risk Communication and Community Engagement, immediate economic support, nutrition, protection and governance. The appeal complements the Government of Zambia\u2019s COVID-19 Multisectoral Contingency and Response Plan focusing on strengthening preparedness and response to COVID-19 also launched at the same event by Zambia\u2019s Republican Vice-President Ms Inonge Mutukwa Wina,",
+  "date": "15 May 2020"
+}

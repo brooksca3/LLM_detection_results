@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c4bffc6e-022e-46d9-995f-0ebe98aa6e35",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.91804122924805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021523570467252284,
+          "perplexity": 88,
+          "sentence": "The commercial sector in Belgrade generates more than 40 thousand tons of edible and inedible parts of food annually, according to the Analysis of research on direct measurement and morphological composition of food waste from commercial outlets, published by the Environment Improvement Centre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021479165297932923,
+          "perplexity": 40,
+          "sentence": "Within the direct measurements that were carried out, a total of 29 representative commercial outlets were observed,: hotels and other accommodation, restaurants and fast food outlets, retails, schools and kindergartens, and other commercial outlets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002320117928320542,
+          "perplexity": 61,
+          "sentence": "Based on the obtained projected data, most of the waste is generated within the group of restaurants and fast-food outlets, with over 21 thousand tons annually.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019870758114848286,
+          "perplexity": 48,
+          "sentence": "This is followed by retail outlets with 4,767 tons/year, schools and kindergartens with 3,551 tons/year, and finally groups of hotels and accommodation with an annual generation rate of 1,302 tons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019273882207926363,
+          "perplexity": 167,
+          "sentence": "The remaining commercial food waste generators (public institutions and companies with their restaurants, markets, hospitals, etc.)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002043003187282011,
+          "perplexity": 21,
+          "sentence": "generate more than 9,000 tons of food waste annually.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002040421823039651,
+          "perplexity": 43,
+          "sentence": "The projection of the morphological composition of food waste shows that on average the most dominant category is vegetables, with a share of over 45 percent, with the highest percentage recorded within the group of schools and kindergartens (62 percent).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018540472956374288,
+          "perplexity": 41,
+          "sentence": "The second most represented category is fruit, with almost 19 percent, with this category being the most represented in the retail sector (over 38 percent).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001791732938727364,
+          "perplexity": 39,
+          "sentence": "The categories of meat, fish and eggs, and bread and pastries, in the total average composition, have similar values (about 14 percent), while the category of milk and dairy products has the lowest value for virtually all observed groups of commercial establishments, with a final average share of about 5 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018596935842651874,
+          "perplexity": 39,
+          "sentence": "If the amount of food waste from the commercial sector is shown in relation to the total population of Belgrade, 26.5 kilograms of edible and inedible",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The commercial sector in Belgrade generates more than 40 thousand tons of edible and inedible parts of food annually, according to the Analysis of research on direct measurement and morphological composition of food waste from commercial outlets, published by the Environment Improvement Centre. Within the direct measurements that were carried out, a total of 29 representative commercial outlets were observed,: hotels and other accommodation, restaurants and fast food outlets, retails, schools and kindergartens, and other commercial outlets. Based on the obtained projected data, most of the waste is generated within the group of restaurants and fast-food outlets, with over 21 thousand tons annually. This is followed by retail outlets with 4,767 tons/year, schools and kindergartens with 3,551 tons/year, and finally groups of hotels and accommodation with an annual generation rate of 1,302 tons. The remaining commercial food waste generators (public institutions and companies with their restaurants, markets, hospitals, etc.) generate more than 9,000 tons of food waste annually. The projection of the morphological composition of food waste shows that on average the most dominant category is vegetables, with a share of over 45 percent, with the highest percentage recorded within the group of schools and kindergartens (62 percent). The second most represented category is fruit, with almost 19 percent, with this category being the most represented in the retail sector (over 38 percent). The categories of meat, fish and eggs, and bread and pastries, in the total average composition, have similar values \u200b\u200b(about 14 percent), while the category of milk and dairy products has the lowest value for virtually all observed groups of commercial establishments, with a final average share of about 5 percent. If the amount of food waste from the commercial sector is shown in relation to the total population of Belgrade, 26.5 kilograms of edible and inedible",
+  "date": "14 March 2022"
+}

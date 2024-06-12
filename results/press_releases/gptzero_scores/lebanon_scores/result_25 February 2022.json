@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3ad228df-6287-42ea-9d28-a5321211d042",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.06935471026995463,
+        "human": 0.4726621187587927,
+        "mixed": 0.45798317097125263
+      },
+      "completely_generated_prob": 0.22899158548562631,
+      "confidence_category": "low",
+      "confidence_score": 0.4726621187587927,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.06935471026995463,
+          "human": 0.4726621187587927,
+          "mixed": 0.45798317097125263
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.56412124633789,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00776218855753541,
+          "perplexity": 96,
+          "sentence": "Through this grant, the NAP will be able to expand its reach and services through 13 thematic local NGOs for voluntary counseling and testing and provide non-interrupted medications and consumables supplies for diagnosis and treatment till the end of December 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009925298392772675,
+          "perplexity": 18,
+          "sentence": "The National AIDS Control Program was established in 1989 as a joint program of the Ministry of Public Health (MOPH) and WHO after the steady increase in the number of people living with HIV in Lebanon following the first reported case in 1984.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007327844388782978,
+          "perplexity": 84,
+          "sentence": "NAP reported a cumulative of 2,366 people living with HIV (PLHIV) in Lebanon by the end of 2018[1].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004295682534575462,
+          "perplexity": 42,
+          "sentence": "NAP currently provides anti-retroviral therapy, treatment, care, and support to nearly 2,000 people living with HIV; along with voluntary counselling and testing to nearly 18,000 individuals through thematic NGOs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004568795673549175,
+          "perplexity": 194,
+          "sentence": "NAP also offers treatment monitoring including viral load testing to achieve the 95-95-95 global targets[2]; and it established an HIV PCR unit, as part of the joint testing platform with TB, to add to its services in Karantina.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038107431028038263,
+          "perplexity": 165,
+          "sentence": "\u201cThis program did not stop operating and delivering medications to people living with HIV/AIDS despite the challenging situation of the pandemic and Beirut Blast which directly affected their building.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004212970845401287,
+          "perplexity": 80,
+          "sentence": "I believe in health for all, and no one should be left behind,\u201d said Dr. Iman Shankiti, WHO representative in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003509468398988247,
+          "perplexity": 52,
+          "sentence": "\u201cLebanon is a model for the provision of differentiated prevention, diagnosis, treatment and care services to people living with HIV with support from the regional Middle East Response (MER) grant funded by The Global Fund and implemented by the National AIDS Program in partnership with IOM and WHO\u201d, added Dr. Nevin WILSON, IOM's Senior Regional Project Coordinator for the Middle East Response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06511042267084122,
+          "perplexity": 100,
+          "sentence": "Despite the limited financial and human resources, NAP has been responding effectively and efficiently, prioritising vulnerable population irrespective of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Through this grant, the NAP will be able to expand its reach and services through 13 thematic local NGOs for voluntary counseling and testing and provide non-interrupted medications and consumables supplies for diagnosis and treatment till the end of December 2024. The National AIDS Control Program was established in 1989 as a joint program of the Ministry of Public Health (MOPH) and WHO after the steady increase in the number of people living with HIV in Lebanon following the first reported case in 1984. NAP reported a cumulative of 2,366 people living with HIV (PLHIV) in Lebanon by the end of 2018[1]. NAP currently provides anti-retroviral therapy, treatment, care, and support to nearly 2,000 people living with HIV; along with voluntary counselling and testing to nearly 18,000 individuals through thematic NGOs. NAP also offers treatment monitoring including viral load testing to achieve the 95-95-95 global targets[2]; and it established an HIV PCR unit, as part of the joint testing platform with TB, to add to its services in Karantina. \u201cThis program did not stop operating and delivering medications to people living with HIV/AIDS despite the challenging situation of the pandemic and Beirut Blast which directly affected their building. I believe in health for all, and no one should be left behind,\u201d said Dr. Iman Shankiti, WHO representative in Lebanon. \u201cLebanon is a model for the provision of differentiated prevention, diagnosis, treatment and care services to people living with HIV with support from the regional Middle East Response (MER) grant funded by The Global Fund and implemented by the National AIDS Program in partnership with IOM and WHO\u201d, added Dr. Nevin WILSON, IOM\u2019s Senior Regional Project Coordinator for the Middle East Response. Despite the limited financial and human resources, NAP has been responding effectively and efficiently, prioritising vulnerable population irrespective of",
+  "date": "25 February 2022"
+}

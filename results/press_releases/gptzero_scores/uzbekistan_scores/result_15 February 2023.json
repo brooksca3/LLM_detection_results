@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "55ad287c-695a-4135-8f44-fa8ca594d590",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053614093211430035,
+        "human": 0.9456638314591231,
+        "mixed": 0.0007220753294468692
+      },
+      "completely_generated_prob": 0.053614093211430035,
+      "confidence_category": "medium",
+      "confidence_score": 0.9456638314591231,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053614093211430035,
+          "human": 0.9456638314591231,
+          "mixed": 0.0007220753294468692
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.796083450317383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1250237375497818,
+          "perplexity": 86,
+          "sentence": "Today, for the sixth time, ministers from Central Asian countries gathered virtually to share experiences on current agricultural issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12367981672286987,
+          "perplexity": 15,
+          "sentence": "The meeting, facilitated by the Food and Agriculture Organization of the United Nations (FAO) and supported by the Ministry of Agriculture of Uzbekistan, provided a platform for representatives of the five countries to discuss how agricultural finances serve a sustainable increase in production.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11827488988637924,
+          "perplexity": 50,
+          "sentence": "The vast landscapes of Central Asia with their various climatic and soil conditions offer great potential for agricultural production.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11926566809415817,
+          "perplexity": 37,
+          "sentence": "Yet, the abundance of resources is not sufficient, and the expansion of agricultural productivity remained relatively slow since the 1990s.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11761274933815002,
+          "perplexity": 34,
+          "sentence": "To increase efficiency and sustainability and modernize the sector, further investments are required from farmers themselves, as well as from the state.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10739582031965256,
+          "perplexity": 43,
+          "sentence": "\u201cIf done in a sustainable manner, faster growth in agricultural productivity can lead to improved food and nutrition security in Central Asia,\u201d said Vladimir Rakhmanin, FAO Assistant Director-General and Regional Representative for Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10258087515830994,
+          "perplexity": 11,
+          "sentence": "The agriculture sector not only produces food but provides employment for a significant portion of the population in almost all five Central Asian countries, hence, the development of the sector is key in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0943063348531723,
+          "perplexity": 94,
+          "sentence": "\u201cThe sustainable functioning and development of agriculture requires significant financial investments both from internal and external sources of the country,\u201d said the Minister of Agriculture of Uzbekistan, Aziz Voitov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08647903800010681,
+          "perplexity": 68,
+          "sentence": "- Without them, it is impossible to introduce expensive modern technologies and innovative methods that increase productivity and save resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07556501775979996,
+          "perplexity": 34,
+          "sentence": "In addition, it is important to simultaneously develop social and economic infrastructure in rural areas and invest significant resources in increasing the human potential and competencies of farmers.\u201d Achieving faster agricultural growth sustainably requires farmers to invest in new technologies, including improved inputs (seeds, plants, and fertilizers), small-scale on-farm works and equipment, as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, for the sixth time, ministers from Central Asian countries gathered virtually to share experiences on current agricultural issues. The meeting, facilitated by the Food and Agriculture Organization of the United Nations (FAO) and supported by the Ministry of Agriculture of Uzbekistan, provided a platform for representatives of the five countries to discuss how agricultural finances serve a sustainable increase in production. The vast landscapes of Central Asia with their various climatic and soil conditions offer great potential for agricultural production. Yet, the abundance of resources is not sufficient, and the expansion of agricultural productivity remained relatively slow since the 1990s. To increase efficiency and sustainability and modernize the sector, further investments are required from farmers themselves, as well as from the state. \u201cIf done in a sustainable manner, faster growth in agricultural productivity can lead to improved food and nutrition security in Central Asia,\u201d said Vladimir Rakhmanin, FAO Assistant Director-General and Regional Representative for Europe and Central Asia. The agriculture sector not only produces food but provides employment for a significant portion of the population in almost all five Central Asian countries, hence, the development of the sector is key in Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. \u201cThe sustainable functioning and development of agriculture requires significant financial investments both from internal and external sources of the country,\u201d said the Minister of Agriculture of Uzbekistan, Aziz Voitov. - Without them, it is impossible to introduce expensive modern technologies and innovative methods that increase productivity and save resources. In addition, it is important to simultaneously develop social and economic infrastructure in rural areas and invest significant resources in increasing the human potential and competencies of farmers.\u201d Achieving faster agricultural growth sustainably requires farmers to invest in new technologies, including improved inputs (seeds, plants, and fertilizers), small-scale on-farm works and equipment, as",
+  "date": "15 February 2023"
+}

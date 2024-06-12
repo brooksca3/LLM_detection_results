@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c3276681-f392-44df-b7f4-69a115653a54",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17397510725630513,
+        "human": 0.8245139782740364,
+        "mixed": 0.001510914469658452
+      },
+      "completely_generated_prob": 0.17397510725630513,
+      "confidence_category": "low",
+      "confidence_score": 0.8245139782740364,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17397510725630513,
+          "human": 0.8245139782740364,
+          "mixed": 0.001510914469658452
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 8.885515213012695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3987959623336792,
+          "perplexity": 41,
+          "sentence": "Statement from the Co-Chairs of the UN Country Taskforce on Monitoring and Reporting on Grave Violations against Children in Myanmar YANGON - \u201cOn 5 October, two boys were killed in Buthidaung Township, Rakhine State, in crossfire between the Tatmadaw and the Arakan Army.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.42469510436058044,
+          "perplexity": 47,
+          "sentence": "This occurred after the children, as part of a group of 15 local farmers, were alleged to all have been forced to walk in front of a Tatmadaw unit to ensure the path towards a military camp was clear of landmines and to protect the soldiers from potential enemy fire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.335882306098938,
+          "perplexity": 34,
+          "sentence": "On the way, fighting broke out between the Tatmadaw and the Arakan Army, after which the two boys were found dead with gunshot wounds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.32769978046417236,
+          "perplexity": 18,
+          "sentence": "\u201cWe are saddened and shocked by this incident and our sincere condolences go to the families of the two boys.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.29289984703063965,
+          "perplexity": 36,
+          "sentence": "\u201cWe are concerned that this reported incident occurred within the 12 months of the delisting of the Tatmadaw for underage recruitment and use in the UN Secretary-General's Annual Report on Children and Armed Conflict (CAAC) of 2020, and in Buthidaung Township, which has been a hotspot for the use of children by the Tatmadaw for non-combat purposes since mid-2019 according to verified reports.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.25444597005844116,
+          "perplexity": 35,
+          "sentence": "We call for a full, transparent, and expedited investigation of the incident and for anyone responsible for the use and for the killing of the children to be held accountable.\u201d \u201cThe use of children for non-combat purposes by armed forces and groups should not be considered as a separate and lesser violation than the formal recruitment of children, and is criminalized in the Myanmar Child Rights Law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2720750570297241,
+          "perplexity": 37,
+          "sentence": "This egregious incident serves as a stark reminder that children are put at risk of being killed or injured whenever they are associated with armed forces and groups in any capacity or function,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Statement from the Co-Chairs of the UN Country Taskforce on Monitoring and Reporting on Grave Violations against Children in Myanmar YANGON \u2013 \u201cOn 5 October, two boys were killed in Buthidaung Township, Rakhine State, in crossfire between the Tatmadaw and the Arakan Army. This occurred after the children, as part of a group of 15 local farmers, were alleged to all have been forced to walk in front of a Tatmadaw unit to ensure the path towards a military camp was clear of landmines and to protect the soldiers from potential enemy fire. On the way, fighting broke out between the Tatmadaw and the Arakan Army, after which the two boys were found dead with gunshot wounds. \u201cWe are saddened and shocked by this incident and our sincere condolences go to the families of the two boys. \u201cWe are concerned that this reported incident occurred within the 12 months of the delisting of the Tatmadaw for underage recruitment and use in the UN Secretary-General\u2019s Annual Report on Children and Armed Conflict (CAAC) of 2020, and in Buthidaung Township, which has been a hotspot for the use of children by the Tatmadaw for non-combat purposes since mid-2019 according to verified reports. We call for a full, transparent, and expedited investigation of the incident and for anyone responsible for the use and for the killing of the children to be held accountable.\u201d \u201cThe use of children for non-combat purposes by armed forces and groups should not be considered as a separate and lesser violation than the formal recruitment of children, and is criminalized in the Myanmar Child Rights Law. This egregious incident serves as a stark reminder that children are put at risk of being killed or injured whenever they are associated with armed forces and groups in any capacity or function,",
+  "date": "14 October 2020"
+}

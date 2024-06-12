@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9b639aea-354a-4872-9179-d87405213ffa",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.66256332397461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.012671814300119877,
+          "perplexity": 168,
+          "sentence": "The COVID-19 pandemic has turned the world of work upside down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011061388999223709,
+          "perplexity": 30,
+          "sentence": "Every worker, every business and every corner of the globe has been affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009646293707191944,
+          "perplexity": 82,
+          "sentence": "Those toiling in the informal economy \u1173 often without rights at work and social protection \u1173 are projected to have suffered a 60 percent decline in earnings in the first month of the crisis alone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010982715524733067,
+          "perplexity": 93,
+          "sentence": "Women have been especially hard hit \u1173 working in many of the most critically affected sectors, while also carrying the greatest burden of increasing levels of unpaid care work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010608088225126266,
+          "perplexity": 32,
+          "sentence": "Young people, persons with disabilities, and so many others are facing tremendous difficulties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011916695162653923,
+          "perplexity": 28,
+          "sentence": "Many small and medium-sized enterprises - the engine of the global economy - may not survive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010610210709273815,
+          "perplexity": 23,
+          "sentence": "This crisis in the world of work is adding fuel to an already burning fire of discontent and anxiety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008374127559363842,
+          "perplexity": 120,
+          "sentence": "Massive unemployment and loss of income from COVID-19 are further eroding social cohesion and destabilizing countries and regions\u1173 socially, politically and economically.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006958643440157175,
+          "perplexity": 65,
+          "sentence": "Yes, many companies and workers have adapted in innovative ways to the changing circumstances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006276650354266167,
+          "perplexity": 101,
+          "sentence": "For example, millions have moved overnight to working online, in many cases with surprising success.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0062424479983747005,
+          "perplexity": 27,
+          "sentence": "But the most vulnerable are at risk of becoming ever more vulnerable, and poor countries and communities risk falling even further behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003684618277475238,
+          "perplexity": 88,
+          "sentence": "First, immediate support for at-risk workers, enterprises, jobs and incomes to avoid closures, job losses and income decline.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003499407321214676,
+          "perplexity": 166,
+          "sentence": "Second, greater focus on both health and economic activity after lockdowns ease, with workplaces that are safe, and rights for women and populations at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003009065752848983,
+          "perplexity": 54,
+          "sentence": "Third, we need to mobilize now for a human-centred, green and sustainable, inclusive recovery that harnesses the potential of new technologies to create decent jobs for all \u1173 and draws on the creative and positive ways companies and workers have adapted to these times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027183881029486656,
+          "perplexity": 10,
+          "sentence": "There is a lot",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The COVID-19 pandemic has turned the world of work upside down. Every worker, every business and every corner of the globe has been affected. Those toiling in the informal economy \u2014 often without rights at work and social protection \u2014 are projected to have suffered a 60 percent decline in earnings in the first month of the crisis alone. Women have been especially hard hit \u2014 working in many of the most critically affected sectors, while also carrying the greatest burden of increasing levels of unpaid care work. Young people, persons with disabilities, and so many others are facing tremendous difficulties. Many small and medium-sized enterprises \u2013 the engine of the global economy \u2013 may not survive. This crisis in the world of work is adding fuel to an already burning fire of discontent and anxiety. Massive unemployment and loss of income from COVID-19 are further eroding social cohesion and destabilizing countries and regions\u2014 socially, politically and economically. Yes, many companies and workers have adapted in innovative ways to the changing circumstances. For example, millions have moved overnight to working online, in many cases with surprising success. But the most vulnerable are at risk of becoming ever more vulnerable, and poor countries and communities risk falling even further behind. First, immediate support for at-risk workers, enterprises, jobs and incomes to avoid closures, job losses and income decline. Second, greater focus on both health and economic activity after lockdowns ease, with workplaces that are safe, and rights for women and populations at risk. Third, we need to mobilize now for a human-centred, green and sustainable, inclusive recovery that harnesses the potential of new technologies to create decent jobs for all \u2014 and draws on the creative and positive ways companies and workers have adapted to these times. There is a lot",
+  "date": "19 June 2020"
+}

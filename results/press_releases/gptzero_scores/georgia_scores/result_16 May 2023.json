@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "acb77052-5c15-44f5-a994-0b293b493e5b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023040260959309875,
+        "human": 0.9544774331188566,
+        "mixed": 0.02248230592183371
+      },
+      "completely_generated_prob": 0.023040260959309875,
+      "confidence_category": "high",
+      "confidence_score": 0.9544774331188566,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023040260959309875,
+          "human": 0.9544774331188566,
+          "mixed": 0.02248230592183371
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.526081085205078,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003350350307300687,
+          "perplexity": 8,
+          "sentence": "This joint statement is issued by the United Nations system in Georgia, the Delegation of the European Union to Georgia, the Embassies to Georgia of Austria, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Israel, Italy, Latvia, Lithuania, the Netherlands, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, the United Kingdom and the United States, the European Investment Bank's Regional Representation for the South Caucasus, and the Head of the EU Monitoring Mission in Georgia On the International Day against Homophobia, Biphobia and Transphobia (IDAHOBIT), we celebrate diversity and call for solidarity with the lesbian, gay, bisexual, transgender, queer and intersex (LGBTQI+) community in Georgia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002692090056370944,
+          "perplexity": 20,
+          "sentence": "LGBTQI+ persons continue to experience prejudice, discrimination, stigma, hostility and violence on a daily basis and are prevented from living their lives in dignity as free and equal members of Georgian society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003500650927890092,
+          "perplexity": 26,
+          "sentence": "We welcome the increase in public support for the protection of minority rights in Georgia, as the number of Georgians stating that LGBTQI+ rights must be protected has doubled since 2015.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.033447958528995514,
+          "perplexity": 21,
+          "sentence": "[1] We also welcome the protections against discrimination based on sexual orientation and gender identity and expression that Georgia's landmark Law on the Elimination of All Forms of Discrimination continues to provide since 2014.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.067038893699646,
+          "perplexity": 26,
+          "sentence": "We acknowledge the efforts of various state institutions and civil society organizations in ensuring full protection of human rights and freedoms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05300280451774597,
+          "perplexity": 27,
+          "sentence": "We are concerned that despite these efforts, progress has stalled.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013095752336084843,
+          "perplexity": 53,
+          "sentence": "Newly adopted national policy documents, such as the National Human Rights Strategy 2022-2030, the State Concept of Georgia on Gender Equality and the national development strategy Vision 2030 do not include measures to strengthen protection and inclusion of LGBTQI+ persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008581513538956642,
+          "perplexity": 68,
+          "sentence": "Stigmatization, discriminatory language and hate speech by some public officials, politicians, media and religious figures incite further harassment against LGBTQI+ persons and threaten",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This joint statement is issued by the United Nations system in Georgia, the Delegation of the European Union to Georgia, the Embassies to Georgia of Austria, Belgium, Bulgaria, Canada, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Ireland, Israel, Italy, Latvia, Lithuania, the Netherlands, New Zealand, Norway, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, the United Kingdom and the United States, the European Investment Bank\u2019s Regional Representation for the South Caucasus, and the Head of the EU Monitoring Mission in Georgia On the International Day against Homophobia, Biphobia and Transphobia (IDAHOBIT), we celebrate diversity and call for solidarity with the lesbian, gay, bisexual, transgender, queer and intersex (LGBTQI+) community in Georgia. LGBTQI+ persons continue to experience prejudice, discrimination, stigma, hostility and violence on a daily basis and are prevented from living their lives in dignity as free and equal members of Georgian society. We welcome the increase in public support for the protection of minority rights in Georgia, as the number of Georgians stating that LGBTQI+ rights must be protected has doubled since 2015.[1] We also welcome the protections against discrimination based on sexual orientation and gender identity and expression that Georgia\u2019s landmark Law on the Elimination of All Forms of Discrimination continues to provide since 2014. We acknowledge the efforts of various state institutions and civil society organizations in ensuring full protection of human rights and freedoms. We are concerned that despite these efforts, progress has stalled. Newly adopted national policy documents, such as the National Human Rights Strategy 2022-2030, the State Concept of Georgia on Gender Equality and the national development strategy Vision 2030 do not include measures to strengthen protection and inclusion of LGBTQI+ persons. Stigmatization, discriminatory language and hate speech by some public officials, politicians, media and religious figures incite further harassment against LGBTQI+ persons and threaten",
+  "date": "16 May 2023"
+}

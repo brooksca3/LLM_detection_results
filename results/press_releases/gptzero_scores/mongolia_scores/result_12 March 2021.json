@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1c93e245-014b-454a-92da-989398628f90",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.698055267333984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001661991816945374,
+          "perplexity": 116,
+          "sentence": "\u201cIn the battle against this global pandemic, countries around the world have launched the rollout of COVID-19 vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012796450173482299,
+          "perplexity": 169,
+          "sentence": "The vaccination campaign in Mongolia started on 23 February 2021 and is accelerating further.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014382093213498592,
+          "perplexity": 168,
+          "sentence": "We are happy to welcome the arrival of COVID-19 vaccines from the COVAX Facility.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012569817481562495,
+          "perplexity": 62,
+          "sentence": "Vaccines provided by the COVAX Facility will help to immunize up to 20% of the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010530048748478293,
+          "perplexity": 96,
+          "sentence": "It is a valuable contribution to reach the national vaccination target of 60% of the population in a short period of time,\u201d highlighted Dr Enkhbold Sereejav, Minister of Health of Mongolia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009712683386169374,
+          "perplexity": 117,
+          "sentence": "\u201cUsed together with public health measures like handwashing, mask wearing and physical distancing, COVID-19 vaccines are a critical new tool in our fight against the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007043082732707262,
+          "perplexity": 62,
+          "sentence": "This is the first batch of AstraZeneca vaccines delivered by the COVAX Facility backed by partners including WHO, CEPI and Gavi and UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009580403566360474,
+          "perplexity": 41,
+          "sentence": "It will help the Government to scale up the country's immunization campaign to protect its people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010028663091361523,
+          "perplexity": 76,
+          "sentence": "It's encouraging that Mongolia has already vaccinated over 67,000 people, including priority groups such as health workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009062626049853861,
+          "perplexity": 108,
+          "sentence": "WHO has been supporting the country in its vaccine deployment preparation, and will continue closely working with the Government and partner organizations towards a safe recovery from this pandemic,\u201d said Dr Sergey Diorditsa, WHO Representative to Mongolia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006806882447563112,
+          "perplexity": 148,
+          "sentence": "\u201cUNICEF applauds the Government of Mongolia for intensifying the recently launched COVID-19 immunization campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004381593898870051,
+          "perplexity": 159,
+          "sentence": "UNICEF will continue to support Mongolia in accessing vaccines via the COVAX Facility and purchasing WHO Emergency Use Listed vaccines through other channels so that the country can successfully implement its National vaccination and deployment plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004174490459263325,
+          "perplexity": 18,
+          "sentence": "We are very grateful to many donors that contribute to COVAX, such as Australia, Canada, the European Union, Japan, Saudi Arabia, Switzerland, the United Kingdom and the United States.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040248886216431856,
+          "perplexity": 119,
+          "sentence": "Controlling the pandemic will allow children to go back",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cIn the battle against this global pandemic, countries around the world have launched the rollout of COVID-19 vaccination. The vaccination campaign in Mongolia started on 23 February 2021 and is accelerating further. We are happy to welcome the arrival of COVID-19 vaccines from the COVAX Facility. Vaccines provided by the COVAX Facility will help to immunize up to 20% of the population. It is a valuable contribution to reach the national vaccination target of 60% of the population in a short period of time,\u201d highlighted Dr Enkhbold Sereejav, Minister of Health of Mongolia. \u201cUsed together with public health measures like handwashing, mask wearing and physical distancing, COVID-19 vaccines are a critical new tool in our fight against the pandemic. This is the first batch of AstraZeneca vaccines delivered by the COVAX Facility backed by partners including WHO, CEPI and Gavi and UNICEF. It will help the Government to scale up the country\u2019s immunization campaign to protect its people. It\u2019s encouraging that Mongolia has already vaccinated over 67,000 people, including priority groups such as health workers. WHO has been supporting the country in its vaccine deployment preparation, and will continue closely working with the Government and partner organizations towards a safe recovery from this pandemic,\u201d said Dr Sergey Diorditsa, WHO Representative to Mongolia. \u201cUNICEF applauds the Government of Mongolia for intensifying the recently launched COVID-19 immunization campaign. UNICEF will continue to support Mongolia in accessing vaccines via the COVAX Facility and purchasing WHO Emergency Use Listed vaccines through other channels so that the country can successfully implement its National vaccination and deployment plan. We are very grateful to many donors that contribute to COVAX, such as Australia, Canada, the European Union, Japan, Saudi Arabia, Switzerland, the United Kingdom and the United States. Controlling the pandemic will allow children to go back",
+  "date": "12 March 2021"
+}

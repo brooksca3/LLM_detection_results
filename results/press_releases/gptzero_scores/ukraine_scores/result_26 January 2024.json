@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "60f73985-ddcc-45e0-b1b5-5486f23e69bb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 263.8468933105469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00029489275766536593,
+          "perplexity": 57,
+          "sentence": "This is a day of profound importance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023132706701289862,
+          "perplexity": 31,
+          "sentence": "We remember and honour the millions of victims of the Nazi Holocaust - children, women and men on whom atrocious suffering and injustice were inflicted by an abominable machinery of mass murder.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000203204428544268,
+          "perplexity": 9,
+          "sentence": "Some six million Jews were murdered in the Holocaust, 1.5 million of them children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002020094107137993,
+          "perplexity": 35,
+          "sentence": "Millions of other people from targeted groups were also murdered, including Roma and Sinti people; Slavs; people with disabilities; LGBTIQ+ people; members of resistance networks; and other opponents of Nazism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021044616005383432,
+          "perplexity": 10,
+          "sentence": "Six extermination camps, at Auschwitz-Birkenau, Belzec, Chelmno, Majdanek, Sobibor and Treblinka, were equipped with machinery designed specifically for killing on a massive, industrial scale.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021912988449912518,
+          "perplexity": 42,
+          "sentence": "About one million Jews were killed at Auschwitz alone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000226686242967844,
+          "perplexity": 29,
+          "sentence": "Millions more were imprisoned, abused and murdered in a vast network of thousands of other concentration camps, where they were forced into slave labour, including sexual slavery, and medical experimentation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023043027613312006,
+          "perplexity": 238,
+          "sentence": "The scale of these crimes engaged many perpetrators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023247460194397718,
+          "perplexity": 290,
+          "sentence": "The Nazi concentration camps and death trains were staffed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021127327636349946,
+          "perplexity": 40,
+          "sentence": "The victims had often been identified to the police, and therefore sent to their deaths, by people whom they knew.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020915392087772489,
+          "perplexity": 130,
+          "sentence": "Countless bystanders looked away from - or were indifferent to - what they must have suspected was extraordinary, inhuman brutality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024828454479575157,
+          "perplexity": 46,
+          "sentence": "The dehumanisation that enabled the Holocaust - the depth and scale of this failure of empathy and fellow-feeling for other human beings - is incomprehensible and terrifying.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002532432845328003,
+          "perplexity": 20,
+          "sentence": "It is our duty to seek answers to how these crimes could have been prevented.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028984955861233175,
+          "perplexity": 43,
+          "sentence": "If we do not, they could happen again.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001999608357436955,
+          "perplexity": 30,
+          "sentence": "As part of this work, and in the face of genocide denial, it is essential to ensure accurate historical knowledge of the Holocaust, or Shoah, in all its appalling detail.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018683348025660962,
+          "perplexity": 52,
+          "sentence": "The testimony of survivors of the Holocaust is both essential to that work, and extremely painful.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023136545496527106,
+          "perplexity": 1107,
+          "sentence": "Simone",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This is a day of profound importance. We remember and honour the millions of victims of the Nazi Holocaust \u2013 children, women and men on whom atrocious suffering and injustice were inflicted by an abominable machinery of mass murder. Some six million Jews were murdered in the Holocaust, 1.5 million of them children. Millions of other people from targeted groups were also murdered, including Roma and Sinti people; Slavs; people with disabilities; LGBTIQ+ people; members of resistance networks; and other opponents of Nazism. Six extermination camps, at Auschwitz-Birkenau, Belzec, Chelmno, Majdanek, Sobibor and Treblinka, were equipped with machinery designed specifically for killing on a massive, industrial scale. About one million Jews were killed at Auschwitz alone. Millions more were imprisoned, abused and murdered in a vast network of thousands of other concentration camps, where they were forced into slave labour, including sexual slavery, and medical experimentation. The scale of these crimes engaged many perpetrators. The Nazi concentration camps and death trains were staffed. The victims had often been identified to the police, and therefore sent to their deaths, by people whom they knew. Countless bystanders looked away from \u2013 or were indifferent to \u2013 what they must have suspected was extraordinary, inhuman brutality. The dehumanisation that enabled the Holocaust \u2013 the depth and scale of this failure of empathy and fellow-feeling for other human beings \u2013 is incomprehensible and terrifying. It is our duty to seek answers to how these crimes could have been prevented. If we do not, they could happen again. As part of this work, and in the face of genocide denial, it is essential to ensure accurate historical knowledge of the Holocaust, or Shoah, in all its appalling detail. The testimony of survivors of the Holocaust is both essential to that work, and extremely painful. Simone",
+  "date": "26 January 2024"
+}

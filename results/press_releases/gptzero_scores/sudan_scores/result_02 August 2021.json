@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "91ab0fde-13f5-4ab3-9a45-9d13f364d8bc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.16183853149414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00035274363472126424,
+          "perplexity": 7,
+          "sentence": "Federal Ministry of Health, UNDP, WHO and partners have commenced the roll-out of a new HIV treatment in Sudan, supported by the Global Fund The Federal Ministry of Health (FMoH), the United Nations Development Programme (UNDP), World Health Organization (WHO) and partners have commenced the roll-out of a new HIV treatment in Sudan, supported by the Global Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038433296140283346,
+          "perplexity": 32,
+          "sentence": "The new medication is part of WHO's recommended treatment guidelines and will help the 46,000 people estimated to be living with HIV in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004219950642436743,
+          "perplexity": 129,
+          "sentence": "The rollout was initially planned for 2020, however to the due to the COVID-19 pandemic, it was delayed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003657477500382811,
+          "perplexity": 74,
+          "sentence": "Following the adoption of the WHO treatment guidelines by the FMoH, the medication is being introduced at all 42 HIV treatment centres nationwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003285288403276354,
+          "perplexity": 82,
+          "sentence": "The rollout has been accompanied by FMoH, UNDP, WHO and UNAIDS-supported training for healthcare staff, and improvements to individual patient monitoring.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002781916409730911,
+          "perplexity": 24,
+          "sentence": "On the World Health Organization's List of Essential Medicines, antiretroviral (ARV) drug 'Dolutegravir' is recommended as the preferred treatment for all populations, based on its effectiveness, fewer side effects, high genetic barrier for resistance and improved life expectancy of the person taking it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027038040570914745,
+          "perplexity": 26,
+          "sentence": "Planned for nationwide deployment in phases over the next three years, the first phase expects to have 45% of current antiretroviral treatment recipients transitioned to the new medication by the end of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003342986456118524,
+          "perplexity": 117,
+          "sentence": "\u201cThis is a step forward in improving the lives of those living with HIV, one we are thrilled to see happen,\u201d said [Thowiba Khougli head of the Procurement and Supply Chain Management Unit at DCD-FMOH].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003753813507501036,
+          "perplexity": 47,
+          "sentence": "\u201cThis transition is thanks to the ongoing support and strong relationships with our partners - the Global Fund, UNDP, WHO and others - and our thanks go to them for the assistance in delivering a life-improving outcome to some of our most vulnerable.\u201d In",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Federal Ministry of Health, UNDP, WHO and partners have commenced the roll-out of a new HIV treatment in Sudan, supported by the Global Fund The Federal Ministry of Health (FMoH), the United Nations Development Programme (UNDP), World Health Organization (WHO) and partners have commenced the roll-out of a new HIV treatment in Sudan, supported by the Global Fund. The new medication is part of WHO\u2019s recommended treatment guidelines and will help the 46,000 people estimated to be living with HIV in Sudan. The rollout was initially planned for 2020, however to the due to the COVID-19 pandemic, it was delayed. Following the adoption of the WHO treatment guidelines by the FMoH, the medication is being introduced at all 42 HIV treatment centres nationwide. The rollout has been accompanied by FMoH, UNDP, WHO and UNAIDS-supported training for healthcare staff, and improvements to individual patient monitoring. On the World Health Organization's List of Essential Medicines, antiretroviral (ARV) drug \u2018Dolutegravir\u2019 is recommended as the preferred treatment for all populations, based on its effectiveness, fewer side effects, high genetic barrier for resistance and improved life expectancy of the person taking it. Planned for nationwide deployment in phases over the next three years, the first phase expects to have 45% of current antiretroviral treatment recipients transitioned to the new medication by the end of the year. \u201cThis is a step forward in improving the lives of those living with HIV, one we are thrilled to see happen,\u201d said [Thowiba Khougli head of the Procurement and Supply Chain Management Unit at DCD-FMOH]. \u201cThis transition is thanks to the ongoing support and strong relationships with our partners - the Global Fund, UNDP, WHO and others \u2013 and our thanks go to them for the assistance in delivering a life-improving outcome to some of our most vulnerable.\u201d In",
+  "date": "02 August 2021"
+}

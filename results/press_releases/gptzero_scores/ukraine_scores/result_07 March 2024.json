@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0362e019-c213-4a21-b904-6f7bb65281c0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0306824037046562,
+        "human": 0.9687000845855983,
+        "mixed": 0.0006175117097454189
+      },
+      "completely_generated_prob": 0.0306824037046562,
+      "confidence_category": "high",
+      "confidence_score": 0.9687000845855983,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0306824037046562,
+          "human": 0.9687000845855983,
+          "mixed": 0.0006175117097454189
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.842144012451172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0183502659201622,
+          "perplexity": 44,
+          "sentence": "The women of Ukraine, their determination, have truly inspired and encouraged me since the day I arrived in this country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010591194964945316,
+          "perplexity": 33,
+          "sentence": "In each and every one of my many travels across Ukraine, whether it is to a war-torn community close to the front line or a town in the West where people fleeing the horrors of Russia's invasion sought refuge, I see and hear stories of determination, hope and solidarity led by strong Ukrainian women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013023835606873035,
+          "perplexity": 24,
+          "sentence": "I am a witness to the fact that women in Ukraine - at all levels - refuse to give up and are relentless in their work to promote a better future for their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010453960858285427,
+          "perplexity": 64,
+          "sentence": "I have been inspired by women in leadership positions, both at the national Government and local level, like the women representatives I met in front-line towns like Kherson, Mylove or Orikhiv, who spare no effort and overcome tremendous challenges to bring some relief to their communities torn apart by the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00999674666672945,
+          "perplexity": 54,
+          "sentence": "It motivates me to see that women are the backbone of the humanitarian response and work non-stop to help their communities under extreme hardship, like the doctor I met in Siversk, in the Donetsk Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008621749468147755,
+          "perplexity": 33,
+          "sentence": "Despite all the risks, she decided to stay there, fearing not the bombs and missiles but the fact that it would be, otherwise, almost impossible for people in her community to access health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0072298054583370686,
+          "perplexity": 22,
+          "sentence": "I met so many mothers who had to learn how to support their children who could no longer go to school, at the same time as, with compassion, caring for the sick, the disabled, the elderly and filling the gaps left by a social system massively disrupted by the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007491926196962595,
+          "perplexity": 113,
+          "sentence": "I met in Kramatorsk, Kharkiv and Uzhhorod so many fierce and inspiring women leading organizations and movements advocating for the rights of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The women of Ukraine, their determination, have truly inspired and encouraged me since the day I arrived in this country. In each and every one of my many travels across Ukraine, whether it is to a war-torn community close to the front line or a town in the West where people fleeing the horrors of Russia\u2019s invasion sought refuge, I see and hear stories of determination, hope and solidarity led by strong Ukrainian women. I am a witness to the fact that women in Ukraine \u2013 at all levels \u2013 refuse to give up and are relentless in their work to promote a better future for their country. I have been inspired by women in leadership positions, both at the national Government and local level, like the women representatives I met in front-line towns like Kherson, Mylove or Orikhiv, who spare no effort and overcome tremendous challenges to bring some relief to their communities torn apart by the war. It motivates me to see that women are the backbone of the humanitarian response and work non-stop to help their communities under extreme hardship, like the doctor I met in Siversk, in the Donetsk Region. Despite all the risks, she decided to stay there, fearing not the bombs and missiles but the fact that it would be, otherwise, almost impossible for people in her community to access health care. I met so many mothers who had to learn how to support their children who could no longer go to school, at the same time as, with compassion, caring for the sick, the disabled, the elderly and filling the gaps left by a social system massively disrupted by the war. I met in Kramatorsk, Kharkiv and Uzhhorod so many fierce and inspiring women leading organizations and movements advocating for the rights of",
+  "date": "07 March 2024"
+}

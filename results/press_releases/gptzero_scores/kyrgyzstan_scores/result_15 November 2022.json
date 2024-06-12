@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "82ca679a-1190-414e-8916-53ec11474cc8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075705112649612,
+        "human": 0.9686254847185095,
+        "mixed": 0.0006174641549942572
+      },
+      "completely_generated_prob": 0.03075705112649612,
+      "confidence_category": "high",
+      "confidence_score": 0.9686254847185095,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075705112649612,
+          "human": 0.9686254847185095,
+          "mixed": 0.0006174641549942572
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.979154586791992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01911213994026184,
+          "perplexity": 31,
+          "sentence": "As the world's population hits 8 billion people, UN calls for solidarity in advancing sustainable development for all By achieving the Sustainable Development Goals, delivering human rights and leaving no one behind, we can usher in a world where all 8 billion people can thrive New York, 15 November 2022 - The global population is projected to reach 8 billion on 15 November 2022, signalling major improvements in public health that have lowered the risk of dying and increased life expectancy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01835346408188343,
+          "perplexity": 22,
+          "sentence": "But the moment is also a clarion call for humanity to look beyond the numbers and meet its shared responsibility to protect people and the planet, starting with the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01758851297199726,
+          "perplexity": 30,
+          "sentence": "\u201cUnless we bridge the yawning chasm between the global haves and have-nots, we are setting ourselves up for an 8-billion-strong world filled with tensions and mistrust, crisis and conflict,\u201d said UN Secretary-General Ant\u00f3nio Guterres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020242033526301384,
+          "perplexity": 13,
+          "sentence": "While the world's population will continue to grow to around 10.4 billion in the 2080s, the overall rate of growth is slowing down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017907295376062393,
+          "perplexity": 25,
+          "sentence": "The world is more demographically diverse than ever before, with countries facing starkly different population trends ranging from growth to decline.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01782059110701084,
+          "perplexity": 20,
+          "sentence": "Today, two-thirds of the global population lives in a low fertility context, where the lifetime fertility is below 2.1 births per woman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01837671548128128,
+          "perplexity": 8,
+          "sentence": "At the same time, population growth has become increasingly concentrated among the world's poorest countries, most of which are in sub-Saharan Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018054751679301262,
+          "perplexity": 18,
+          "sentence": "Against this backdrop, the global community must ensure that all countries, regardless of whether their populations are growing or shrinking, are equipped to provide a good quality of life for their populations and can lift up and empower their most marginalised people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018542129546403885,
+          "perplexity": 70,
+          "sentence": "\u201cA world of 8 billion is a milestone for humanity - the result of longer lifespans, reductions in poverty, and declining maternal and childhood",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As the world\u2019s population hits 8 billion people, UN calls for solidarity in advancing sustainable development for all By achieving the Sustainable Development Goals, delivering human rights and leaving no one behind, we can usher in a world where all 8 billion people can thrive New York, 15 November 2022 \u2013 The global population is projected to reach 8 billion on 15 November 2022, signalling major improvements in public health that have lowered the risk of dying and increased life expectancy. But the moment is also a clarion call for humanity to look beyond the numbers and meet its shared responsibility to protect people and the planet, starting with the most vulnerable. \u201cUnless we bridge the yawning chasm between the global haves and have-nots, we are setting ourselves up for an 8-billion-strong world filled with tensions and mistrust, crisis and conflict,\u201d said UN Secretary-General Ant\u00f3nio Guterres. While the world\u2019s population will continue to grow to around 10.4 billion in the 2080s, the overall rate of growth is slowing down. The world is more demographically diverse than ever before, with countries facing starkly different population trends ranging from growth to decline. Today, two-thirds of the global population lives in a low fertility context, where the lifetime fertility is below 2.1 births per woman. At the same time, population growth has become increasingly concentrated among the world\u2019s poorest countries, most of which are in sub-Saharan Africa. Against this backdrop, the global community must ensure that all countries, regardless of whether their populations are growing or shrinking, are equipped to provide a good quality of life for their populations and can lift up and empower their most marginalised people. \u201cA world of 8 billion is a milestone for humanity \u2013 the result of longer lifespans, reductions in poverty, and declining maternal and childhood",
+  "date": "15 November 2022"
+}

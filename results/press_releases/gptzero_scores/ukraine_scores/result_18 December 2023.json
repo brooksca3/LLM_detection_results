@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca412ec4-77c2-45a6-8ca1-f569b65e3d1d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.371968269348145,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0021315596532076597,
+          "perplexity": 33,
+          "sentence": "As the full-scale war in Ukraine approaches the two-year mark, the WHO Regional Office for Europe and the Ministry of Health of Ukraine have signed a Biennial Collaborative Agreement (BCA) for 2024-2025, setting out health priorities with which WHO will support Ukraine, as the country's health system works to expand its ability to provide health for all, surmounting formidable challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016375624109059572,
+          "perplexity": 69,
+          "sentence": "The BCA was signed in Kyiv by Viktor Liashko, Minister of Health of Ukraine, and Dr Gundo Weiler, WHO/Europe's Director of the Division of Country Support and Partnerships and acting Regional Emergency Director - present on behalf of Dr Hans Henri P. Kluge, WHO Regional Director for Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002106974134221673,
+          "perplexity": 60,
+          "sentence": "The new agreement sets a framework for further cooperation to maintain the resilience of Ukraine's health system amid the war while continuing the country's health reform agenda and moving towards health system recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002984470222145319,
+          "perplexity": 70,
+          "sentence": "\u201cThe evolving health situation, heavily impacted by the war, requires both immediate life-saving services and a continuum of care across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002254638820886612,
+          "perplexity": 51,
+          "sentence": "Amid the ongoing war, we will continue to work hand in hand with the Government of Ukraine and other partners to support the health response to the war, implementing health system reforms and designing comprehensive recovery programmes,\u201d explained Dr Weiler.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021752372849732637,
+          "perplexity": 45,
+          "sentence": "\u201cFor nearly 2 years now, WHO has supported the Ukrainian health system on multiple fronts, from providing crucial medical and health supplies and hardware to ensuring access to essential services for the people of Ukraine, including and especially those hardest to reach,\u201d said Dr Jarno Habicht, WHO Representative in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00217077718116343,
+          "perplexity": 49,
+          "sentence": "\u201cBy signing the new collaborative agreement with the Ministry of Health, WHO will support Ukraine in further strengthening the country's health system and responding to the challenges posed by the war, providing humanitarian assistance along with strategic advice on continued health sector reforms and recovery efforts.\u201d \u201cWHO",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As the full-scale war in Ukraine approaches the two-year mark, the WHO Regional Office for Europe and the Ministry of Health of Ukraine have signed a Biennial Collaborative Agreement (BCA) for 2024\u20132025, setting out health priorities with which WHO will support Ukraine, as the country\u2019s health system works to expand its ability to provide health for all, surmounting formidable challenges. The BCA was signed in Kyiv by Viktor Liashko, Minister of Health of Ukraine, and Dr Gundo Weiler, WHO/Europe\u2019s Director of the Division of Country Support and Partnerships and acting Regional Emergency Director \u2013 present on behalf of Dr Hans Henri P. Kluge, WHO Regional Director for Europe. The new agreement sets a framework for further cooperation to maintain the resilience of Ukraine\u2019s health system amid the war while continuing the country\u2019s health reform agenda and moving towards health system recovery. \u201cThe evolving health situation, heavily impacted by the war, requires both immediate life-saving services and a continuum of care across the country. Amid the ongoing war, we will continue to work hand in hand with the Government of Ukraine and other partners to support the health response to the war, implementing health system reforms and designing comprehensive recovery programmes,\u201d explained Dr Weiler. \u201cFor nearly 2 years now, WHO has supported the Ukrainian health system on multiple fronts, from providing crucial medical and health supplies and hardware to ensuring access to essential services for the people of Ukraine, including and especially those hardest to reach,\u201d said Dr Jarno Habicht, WHO Representative in Ukraine. \u201cBy signing the new collaborative agreement with the Ministry of Health, WHO will support Ukraine in further strengthening the country\u2019s health system and responding to the challenges posed by the war, providing humanitarian assistance along with strategic advice on continued health sector reforms and recovery efforts.\u201d \u201cWHO",
+  "date": "18 December 2023"
+}

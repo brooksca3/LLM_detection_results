@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7fd0bbbc-6aad-4f41-b5a3-610f6754b45e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 371.99139404296875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00048464746214449406,
+          "perplexity": 58,
+          "sentence": "Monrovia, 28 June 2022 - Assistant Secretary-General of the United Nations and UN Women Deputy Executive Director, Asa Regner, has concluded her first official mission to Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005143510061316192,
+          "perplexity": 30,
+          "sentence": "While in the country, she held several strategic meetings with high-level government officials and women leaders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005254902062006295,
+          "perplexity": 104,
+          "sentence": "She also interacted with women who are beneficiaries of UN Women interventions in Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005457929219119251,
+          "perplexity": 91,
+          "sentence": "Ms. Regner was accompanied by UN Women Regional Director for West and Central Africa, Ms. Oulimata Sarr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005156838451512158,
+          "perplexity": 135,
+          "sentence": "Some of the high-level officials that Ms. Regner met include, Vice President of Liberia, Chief Dr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004629931354429573,
+          "perplexity": 207,
+          "sentence": "Jewel Howard Taylor; Minister of Foreign Affairs, Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045905006118118763,
+          "perplexity": 320,
+          "sentence": "Dee-Maxwell Saah Kemayah; Acting Minister of Justice, Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004525468102656305,
+          "perplexity": 93,
+          "sentence": "Nyanti Tuan, Minister of Gender, Children and Social Protection, Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045926065649837255,
+          "perplexity": 142,
+          "sentence": "Williametta Saydee Tarr; and Minister of Internal Affairs, Hon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004224494914524257,
+          "perplexity": 879,
+          "sentence": "Varney Sirleaf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005663515767082572,
+          "perplexity": 111,
+          "sentence": "Ms. Regner also had a chance to meet the UN Country Team and members of the diplomatic community and development partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005675493157468736,
+          "perplexity": 63,
+          "sentence": "During her engagements, Ms. Regner emphasized UN Women's commitment to support the Government and people of Liberia to promote gender equality and women empowerment in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005369272548705339,
+          "perplexity": 29,
+          "sentence": "She noted that Liberia has made important strides to advance the rights of women and girls over the past two decades through legislative reforms and targeted programmes to eradicate discriminatory barriers and harmful practices such as female genital mutilation, despite challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004164140555076301,
+          "perplexity": 197,
+          "sentence": "Ms. Regner had an opportunity to visit the vocational and heritage centre in Todee in Montserrado County constructed by UN Women under the European Union, and UN Spotlight Initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032628458575345576,
+          "perplexity": 231,
+          "sentence": "UN Women is establishing four vocational and heritage centres in four Counties to provide alternative economic livelihood programs to traditional practitioners as part of interventions to eliminate FGM in Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003440719738136977,
+          "perplexity": 82,
+          "sentence": "The centres will serve as dedicated learning centres for traditional practitioners and young women and girls to acquire new livelihood skills.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003722395049408078,
+          "perplexity": 1473,
+          "sentence": "Ms. Regner also interacted",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Monrovia, 28 June 2022 - Assistant Secretary-General of the United Nations and UN Women Deputy Executive Director, Asa Regner, has concluded her first official mission to Liberia. While in the country, she held several strategic meetings with high-level government officials and women leaders. She also interacted with women who are beneficiaries of UN Women interventions in Liberia. Ms. Regner was accompanied by UN Women Regional Director for West and Central Africa, Ms. Oulimata Sarr. Some of the high-level officials that Ms. Regner met include, Vice President of Liberia, Chief Dr. Jewel Howard Taylor; Minister of Foreign Affairs, Hon. Dee-Maxwell Saah Kemayah; Acting Minister of Justice, Hon. Nyanti Tuan, Minister of Gender, Children and Social Protection, Hon. Williametta Saydee Tarr; and Minister of Internal Affairs, Hon. Varney Sirleaf. Ms. Regner also had a chance to meet the UN Country Team and members of the diplomatic community and development partners. During her engagements, Ms. Regner emphasized UN Women\u2019s commitment to support the Government and people of Liberia to promote gender equality and women empowerment in the country. She noted that Liberia has made important strides to advance the rights of women and girls over the past two decades through legislative reforms and targeted programmes to eradicate discriminatory barriers and harmful practices such as female genital mutilation, despite challenges. Ms. Regner had an opportunity to visit the vocational and heritage centre in Todee in Montserrado County constructed by UN Women under the European Union, and UN Spotlight Initiative. UN Women is establishing four vocational and heritage centres in four Counties to provide alternative economic livelihood programs to traditional practitioners as part of interventions to eliminate FGM in Liberia. The centres will serve as dedicated learning centres for traditional practitioners and young women and girls to acquire new livelihood skills. Ms. Regner also interacted",
+  "date": "30 June 2022"
+}

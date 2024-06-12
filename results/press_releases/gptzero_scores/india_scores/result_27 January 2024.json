@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a39baf46-b123-4ef7-a83d-6694392646e9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.9626579284668,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011339220218360424,
+          "perplexity": 17,
+          "sentence": "Today, we pause to mourn the six million Jewish children, women, and men systematically murdered by the Nazis and their collaborators - and we grieve the Roma and Sinti, the people with disabilities, and so many others who were persecuted and killed in the Holocaust.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010989331640303135,
+          "perplexity": 73,
+          "sentence": "We pledge never to forget - nor let others forget the truth of what happened.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010370195377618074,
+          "perplexity": 139,
+          "sentence": "And we recognize the horrific resonance this day of commemoration finds in our own times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001258941600099206,
+          "perplexity": 23,
+          "sentence": "The antisemitic hate that fueled the Holocaust did not start with the Nazis, nor did it end with their defeat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011462162947282195,
+          "perplexity": 32,
+          "sentence": "Online, it has moved from the margins to the mainstream.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001088618766516447,
+          "perplexity": 59,
+          "sentence": "That demonization of the other and disdain for diversity is a danger to everyone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001018191920593381,
+          "perplexity": 126,
+          "sentence": "That no society is immune to intolerance - and worse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001002125209197402,
+          "perplexity": 46,
+          "sentence": "And that bigotry against one group is bigotry against all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011730705155059695,
+          "perplexity": 59,
+          "sentence": "As the former Chief Rabbi of the United Kingdom, Jonathan Sacks, so memorably said: \u201cThe hate that begins with Jews never ends with Jews\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012050506193190813,
+          "perplexity": 42,
+          "sentence": "And so today - especially in the wake of the abhorrent 7 October terror attacks by Hamas -- we must resolve to stand up against the forces of hate and division.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011374542955309153,
+          "perplexity": 22,
+          "sentence": "We must condemn - unequivocally - whenever and wherever we encounter antisemitism - just as we must condemn all forms of racism, prejudice and religious bigotry, including anti-Muslim hatred and violence against minority Christian communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012938048457726836,
+          "perplexity": 36,
+          "sentence": "Let us never be silent in the face of discrimination, and never tolerant of intolerance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013166324933990836,
+          "perplexity": 32,
+          "sentence": "Let us speak out for human rights and the dignity of all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013509116834029555,
+          "perplexity": 18,
+          "sentence": "Let us never lose sight of each other's humanity, and never let down our guard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00131972914095968,
+          "perplexity": 36,
+          "sentence": "To all who confront prejudice and persecution, let us clearly say: you are not alone.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, we pause to mourn the six million Jewish children, women, and men systematically murdered by the Nazis and their collaborators \u2013 and we grieve the Roma and Sinti, the people with disabilities, and so many others who were persecuted and killed in the Holocaust. We pledge never to forget \u2013 nor let others forget the truth of what happened. And we recognize the horrific resonance this day of commemoration finds in our own times. The antisemitic hate that fueled the Holocaust did not start with the Nazis, nor did it end with their defeat. Online, it has moved from the margins to the mainstream. That demonization of the other and disdain for diversity is a danger to everyone. That no society is immune to intolerance \u2013 and worse. And that bigotry against one group is bigotry against all. As the former Chief Rabbi of the United Kingdom, Jonathan Sacks, so memorably said: \u201cThe hate that begins with Jews never ends with Jews\u201d. And so today \u2013 especially in the wake of the abhorrent 7 October terror attacks by Hamas -- we must resolve to stand up against the forces of hate and division. We must condemn \u2013 unequivocally \u2013 whenever and wherever we encounter antisemitism \u2013 just as we must condemn all forms of racism, prejudice and religious bigotry, including anti-Muslim hatred and violence against minority Christian communities. Let us never be silent in the face of discrimination, and never tolerant of intolerance. Let us speak out for human rights and the dignity of all. Let us never lose sight of each other\u2019s humanity, and never let down our guard. To all who confront prejudice and persecution, let us clearly say: you are not alone.",
+  "date": "27 January 2024"
+}

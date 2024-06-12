@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e1c83a77-6739-490d-bb75-684ce78a3ca4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.8353328704834,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004964157706126571,
+          "perplexity": 15,
+          "sentence": "UN High Commissioner for Human Rights Michelle Bachelet on Wednesday called on the Sudanese authorities to protect the population of West Darfur and take urgent steps to prevent further outbreaks of communal violence after more than a hundred people were killed in attacks by armed assailants between 22 and 24 April.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005993156228214502,
+          "perplexity": 54,
+          "sentence": "\u201cI am appalled by reports that at least 159 people were killed in Kerenik on 22 and 24 April, 107 injured and thousands displaced from their homes, and at least five villages in the region were also attacked,\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00122921506408602,
+          "perplexity": 64,
+          "sentence": "\u201cI am concerned that this region continues to see repeated, serious incidents of intercommunal violence, with mass casualties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004873440193478018,
+          "perplexity": 45,
+          "sentence": "While initial measures taken by the authorities to calm tensions are welcome, I urge the authorities to address the underlying causes of violence in this region and fulfil their responsibility to protect the population.\u201d More than 1,000 armed members of the Arab Rzeigat community attacked Kerenik town on 22 April following the killing of two Rzeigat men by unknown perpetrators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001900237548397854,
+          "perplexity": 21,
+          "sentence": "At least eight men belonging to the African Masalit tribe and seven Arab men were killed in the attack and at least 17 people from the Masalit community were injured, including one woman and three children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016422521730419248,
+          "perplexity": 34,
+          "sentence": "Joint security forces were deployed to Kerenik on 23 April but reportedly retreated in the face of another large-scale attack by Rzeigat assailants on 24 April, during which they took control of the town for several hours, looted and torched hundreds of shops and houses and opened fire on public buildings where many had sought shelter, including a hospital and a police station.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015233557496685535,
+          "perplexity": 13,
+          "sentence": "At least 151 people were killed, including at least 27 women and 17 children, and more than 90 injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018168817041441798,
+          "perplexity": 22,
+          "sentence": "Three people were reportedly killed inside the hospital, including two medical workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018380490655545145,
+          "perplexity": 1,
+          "sentence": "The",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN High Commissioner for Human Rights Michelle Bachelet on Wednesday called on the Sudanese authorities to protect the population of West Darfur and take urgent steps to prevent further outbreaks of communal violence after more than a hundred people were killed in attacks by armed assailants between 22 and 24 April. \u201cI am appalled by reports that at least 159 people were killed in Kerenik on 22 and 24 April, 107 injured and thousands displaced from their homes, and at least five villages in the region were also attacked,\u201d she said. \u201cI am concerned that this region continues to see repeated, serious incidents of intercommunal violence, with mass casualties. While initial measures taken by the authorities to calm tensions are welcome, I urge the authorities to address the underlying causes of violence in this region and fulfil their responsibility to protect the population.\u201d More than 1,000 armed members of the Arab Rzeigat community attacked Kerenik town on 22 April following the killing of two Rzeigat men by unknown perpetrators. At least eight men belonging to the African Masalit tribe and seven Arab men were killed in the attack and at least 17 people from the Masalit community were injured, including one woman and three children. Joint security forces were deployed to Kerenik on 23 April but reportedly retreated in the face of another large-scale attack by Rzeigat assailants on 24 April, during which they took control of the town for several hours, looted and torched hundreds of shops and houses and opened fire on public buildings where many had sought shelter, including a hospital and a police station. At least 151 people were killed, including at least 27 women and 17 children, and more than 90 injured. Three people were reportedly killed inside the hospital, including two medical workers. The",
+  "date": "27 April 2022"
+}

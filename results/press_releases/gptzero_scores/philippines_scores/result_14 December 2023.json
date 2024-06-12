@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7ba7f621-9f5e-4980-bef4-4723fe986027",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 86.23555755615234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012546794023364782,
+          "perplexity": 65,
+          "sentence": "Fraudulent schemes using the names of United Nations agencies are spreading across the Philippines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010262985015287995,
+          "perplexity": 55,
+          "sentence": "These include the use of photos from United Nations activities and personnel, and derivative logos made to closely resemble official branding of United Nations agencies to obtain money from individuals and communities, particularly in rural areas of Mindanao and in the Visayas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000882599619217217,
+          "perplexity": 230,
+          "sentence": "The United Nations NEVER charges any fees from partner communities at any stage of project implementation, nor in procurement or recruitment processes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010873283026739955,
+          "perplexity": 21,
+          "sentence": "We wish to warn the public of these scams, where \u201cfees\u201d or \u201cinvestments\u201d are collected by fraudsters falsely claiming association with and using images of the United Nations and its specialized agencies, including the Food and Agriculture Organization (FAO), the International Fund for Agricultural Development (IFAD), and the World Food Programme (WFP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011266329092904925,
+          "perplexity": 36,
+          "sentence": "Do not be fooled: People involved in these fraudulent activities may present realistic-looking identification and documents to support their claims, which promise funds or other benefits, such as livelihood and humanitarian assistance, employment opportunities, and interest-free loans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008933655917644501,
+          "perplexity": 49,
+          "sentence": "Suspicious communications or proposals purportedly from, for or on behalf of the FAO, IFAD, and WFP \u1173 or any other United Nations entity \u1173 should immediately be reported to philippines@un.org, or through the following channels: \u00b7 WFP: philippines.feedback@wfp.org | 0917 528 9392 (Globe) or 0947 896 5091 (Smart) Victims of such scams are strongly encouraged to immediately reach out to local authorities for assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013026653323322535,
+          "perplexity": 232,
+          "sentence": "The United Nations reports fraudulent schemes to local law enforcement for appropriate action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015602088533341885,
+          "perplexity": 56,
+          "sentence": "We appreciate the public's help in bringing misleading practices that harm the people in the Philippines to our attention.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Fraudulent schemes using the names of United Nations agencies are spreading across the Philippines. These include the use of photos from United Nations activities and personnel, and derivative logos made to closely resemble official branding of United Nations agencies to obtain money from individuals and communities, particularly in rural areas of Mindanao and in the Visayas. The United Nations NEVER charges any fees from partner communities at any stage of project implementation, nor in procurement or recruitment processes. We wish to warn the public of these scams, where \u201cfees\u201d or \u201cinvestments\u201d are collected by fraudsters falsely claiming association with and using images of the United Nations and its specialized agencies, including the Food and Agriculture Organization (FAO), the International Fund for Agricultural Development (IFAD), and the World Food Programme (WFP). Do not be fooled: People involved in these fraudulent activities may present realistic-looking identification and documents to support their claims, which promise funds or other benefits, such as livelihood and humanitarian assistance, employment opportunities, and interest-free loans. Suspicious communications or proposals purportedly from, for or on behalf of the FAO, IFAD, and WFP \u2014 or any other United Nations entity \u2014 should immediately be reported to philippines@un.org, or through the following channels: \u2022 WFP: philippines.feedback@wfp.org | 0917 528 9392 (Globe) or 0947 896 5091 (Smart) Victims of such scams are strongly encouraged to immediately reach out to local authorities for assistance. The United Nations reports fraudulent schemes to local law enforcement for appropriate action. We appreciate the public\u2019s help in bringing misleading practices that harm the people in the Philippines to our attention.",
+  "date": "14 December 2023"
+}

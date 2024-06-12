@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8deb382d-0324-4135-b297-a3d2656700f4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.812278747558594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004410237306728959,
+          "perplexity": 153,
+          "sentence": "A new project \u201cCentral Asia COVID-19 Crisis Response (CACCR) - PHASE 2\u201d developed by WHO EURO and European Commission's Directorate-General for International Partnerships (DG INTPA) was presented to national partners, national and regional EPI managers, regional immunization trainers team members, representatives of epidemiology service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004370785318315029,
+          "perplexity": 44,
+          "sentence": "The agenda of the meeting was very extensive: the implementation of the project in the regions in line with the strategic priorities of National Immunization Plan of Action, with specific emphasis to address immunization inequity at subnational/community level and devise locally tailored interventions to achieve and sustain high vaccination coverage, experiences on specific immunization challenges, including Measles-rubella and other Vaccine-preventable disease, immunization information systems, vaccine safety systems, and hepatitis B control.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004971828893758357,
+          "perplexity": 79,
+          "sentence": "The overall objective of this project is to contribute to mitigating the impact and controlling the COVID-19 pandemic in Central Asia and reinforcing their longer-term health resilience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003831411013379693,
+          "perplexity": 42,
+          "sentence": "More specifically, the project will provide assistance for: a rapid and safe roll-out of vaccines, including setting up necessary information management systems and capacity building of health care workers and professionals involved in vaccination roll-out; building long-term resilience of routine immunization systems to manage future vaccine-preventable disease outbreaks, including adequate monitoring and evaluation practices, development of national immunization plans and addressing vaccination inequity and building the capacity of CAR to achieve universal health coverage through the digitalization of health systems and increased ability to collect and use quality health data.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005297816824167967,
+          "perplexity": 79,
+          "sentence": "The COVID-19 pandemic has highlighted the importance for countries to strive for a resilient health system within the domain of Universal Health Coverage (UHC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037471484392881393,
+          "perplexity": 51,
+          "sentence": "Building upon the good practices of the implementation of the Phase one of the project, a primary health care approach focusing on organizing and strengthening health systems will be emphasized so that people can access essential primary health care services including immunization, infection prevention",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new project \u201cCentral Asia COVID-19 Crisis Response (CACCR) - PHASE 2\u201d developed by WHO EURO and European Commission's Directorate-General for International Partnerships (DG INTPA) was presented to national partners, national and regional EPI managers, regional immunization trainers team members, representatives of epidemiology service. The agenda of the meeting was very extensive: the implementation of the project in the regions in line with the strategic priorities of National Immunization Plan of Action, with specific emphasis to address immunization inequity at subnational/community level and devise locally tailored interventions to achieve and sustain high vaccination coverage, experiences on specific immunization challenges, including Measles-rubella and other Vaccine-preventable disease, immunization information systems, vaccine safety systems, and hepatitis B control. The overall objective of this project is to contribute to mitigating the impact and controlling the COVID-19 pandemic in Central Asia and reinforcing their longer-term health resilience. More specifically, the project will provide assistance for: a rapid and safe roll-out of vaccines, including setting up necessary information management systems and capacity building of health care workers and professionals involved in vaccination roll-out; building long-term resilience of routine immunization systems to manage future vaccine-preventable disease outbreaks, including adequate monitoring and evaluation practices, development of national immunization plans and addressing vaccination inequity and building the capacity of CAR to achieve universal health coverage through the digitalization of health systems and increased ability to collect and use quality health data. The COVID-19 pandemic has highlighted the importance for countries to strive for a resilient health system within the domain of Universal Health Coverage (UHC). Building upon the good practices of the implementation of the Phase one of the project, a primary health care approach focusing on organizing and strengthening health systems will be emphasized so that people can access essential primary health care services including immunization, infection prevention",
+  "date": "01 June 2023"
+}

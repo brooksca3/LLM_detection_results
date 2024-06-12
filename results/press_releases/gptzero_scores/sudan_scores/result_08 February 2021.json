@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f32e17c2-67fc-47ac-aa82-994c82dd3849",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.907285690307617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00032133422791957855,
+          "perplexity": 14,
+          "sentence": "The United Nations Office of Counter-Terrorism and the National Commission for Counter-Terrorism launch the UN-EU Counter-Terrorism Partnership for Sudan Khartoum and New York - Today, the United Nations Office of Counter-Terrorism (UNOCT)b and the Sudan, through its National Commission for Counter-Terrorism (SNCCT), launched the UN-EU Counter-Terrorism Partnership for Sudan, and held within this framework its first capacity-building activity focused on countering the financing of terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003410693316254765,
+          "perplexity": 58,
+          "sentence": "The event was opened by Ambassador Mr. Sayed Altyeb, Representative of the Ministry of Foreign Affairs, who extended thanks and appreciation to UNOCT and the European Union for developing and financing this constructive program.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003886362537741661,
+          "perplexity": 47,
+          "sentence": "\u201cThere is no doubt that the noble goals that this program seeks to achieve, are completely in the context of the efforts adopted by the Sudanese government aimed at raising awareness, building knowledge and providing support to combat terrorism, and developing strategies and programs that transform these hopes into reality,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005753493867814541,
+          "perplexity": 34,
+          "sentence": "In a video message addressed to participants, Mr. Vladimir Voronkov, Under-Secretary-General of UNOCT stressed \u201cthe excellent cooperation we have developed with Sudan's National Commission for Counter-Terrorism,\u201d and that \u201cit is only appropriate that our project's first capacity-building workshop focuses on countering the financing of terrorism, a key priority for the international counter-terrorism agenda.\u201d Mr. Daniel Weiss, Deputy Head of the Delegation of the European Union to Sudan indicated that \u201cCountering the financing of terrorism remains a high priority for the European Union as the EU's leaders declared it last November.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005826600827276707,
+          "perplexity": 71,
+          "sentence": "Thus, the EU is delighted to support this workshop under the \u201cUN-EU Counter-Terrorism Partnership for Sudan\u201d project, implemented by the United Nations Office of Counter-Terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005051735322922468,
+          "perplexity": 37,
+          "sentence": "It's important to highlight that this project - worth well over 1 million dollars, will also make sure that the respect for human dignity and human rights and the rule of law is intertwined",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Office of Counter-Terrorism and the National Commission for Counter-Terrorism launch the UN-EU Counter-Terrorism Partnership for Sudan Khartoum and New York - Today, the United Nations Office of Counter-Terrorism (UNOCT)b and the Sudan, through its National Commission for Counter-Terrorism (SNCCT), launched the UN-EU Counter-Terrorism Partnership for Sudan, and held within this framework its first capacity-building activity focused on countering the financing of terrorism. The event was opened by Ambassador Mr. Sayed Altyeb, Representative of the Ministry of Foreign Affairs, who extended thanks and appreciation to UNOCT and the European Union for developing and financing this constructive program. \u201cThere is no doubt that the noble goals that this program seeks to achieve, are completely in the context of the efforts adopted by the Sudanese government aimed at raising awareness, building knowledge and providing support to combat terrorism, and developing strategies and programs that transform these hopes into reality,\u201d he added. In a video message addressed to participants, Mr. Vladimir Voronkov, Under-Secretary-General of UNOCT stressed \u201cthe excellent cooperation we have developed with Sudan\u2019s National Commission for Counter-Terrorism,\u201d and that \u201cit is only appropriate that our project\u2019s first capacity-building workshop focuses on countering the financing of terrorism, a key priority for the international counter-terrorism agenda.\u201d Mr. Daniel Weiss, Deputy Head of the Delegation of the European Union to Sudan indicated that \u201cCountering the financing of terrorism remains a high priority for the European Union as the EU\u2019s leaders declared it last November. Thus, the EU is delighted to support this workshop under the \u201cUN-EU Counter-Terrorism Partnership for Sudan\u201d project, implemented by the United Nations Office of Counter-Terrorism. It\u2019s important to highlight that this project - worth well over 1 million dollars, will also make sure that the respect for human dignity and human rights and the rule of law is intertwined",
+  "date": "08 February 2021"
+}

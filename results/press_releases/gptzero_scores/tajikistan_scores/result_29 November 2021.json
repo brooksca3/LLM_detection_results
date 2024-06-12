@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "82d18a5a-9c7a-45cd-9749-d816f1d3bf75",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.333986282348633,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002008956391364336,
+          "perplexity": 23,
+          "sentence": "On 29 November, Ms. Ghada Waly, Under-Secretary-General of the United Nations/UNODC Executive Director, met with Mr. Kokhir Rasulzoda, Prime Minister of the Republic of Tajikistan as part of her official visit to the Republic of Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026628077030181885,
+          "perplexity": 84,
+          "sentence": "Ms. Ghada Waly and Mr. Kokhir Rasulzoda discussed a wide range of issues of cooperation and partnership between UNODC and Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036254904698580503,
+          "perplexity": 42,
+          "sentence": "Ms. Ghada Waly emphasized Tajikistan's critical role in fighting drugs and organized crime in Central Asia and the country's notable contribution to the implementation of the UNODC counter-narcotics initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021410027984529734,
+          "perplexity": 62,
+          "sentence": "Mr. Kokhir Rasulzoda noted that Tajikistan had established constructive and mutually beneficial cooperation with UNODC in addressing drug trafficking, transnational organized crime, terrorism, extremism, trafficking in persons, protection of borders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016713994555175304,
+          "perplexity": 30,
+          "sentence": "He emphasized the importance and necessity of strengthening further the capacities of the country's agencies engaged in countering illicit drugs and organized crime under the new UNODC Programme for Central Asia, including via provision of technical aid and establishment of new inter-district units of the Drug Control Agency under the President of the Republic of Tajikistan in the areas bordering with Afghanistan in the context of the recent developments in this country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018550767563283443,
+          "perplexity": 80,
+          "sentence": "Ms. Ghada Waly noted that UNODC would continue and expand its support, including on counter-narcotics, border management, mitigation of corruption risks in customs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00224478542804718,
+          "perplexity": 37,
+          "sentence": "The parties highlighted the need to expand further partnership, continue and strengthen peacebuilding efforts in the region, including Tajikistan, given the country's important geopolitical position that is vital for sustaining peace and security in the wider Central Asian region.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 29 November, Ms. Ghada Waly, Under-Secretary-General of the United Nations/UNODC Executive Director, met with Mr. Kokhir Rasulzoda, Prime Minister of the Republic of Tajikistan as part of her official visit to the Republic of Tajikistan. Ms. Ghada Waly and Mr. Kokhir Rasulzoda discussed a wide range of issues of cooperation and partnership between UNODC and Tajikistan. Ms. Ghada Waly emphasized Tajikistan\u2019s critical role in fighting drugs and organized crime in Central Asia and the country\u2019s notable contribution to the implementation of the UNODC counter-narcotics initiatives. Mr. Kokhir Rasulzoda noted that Tajikistan had established constructive and mutually beneficial cooperation with UNODC in addressing drug trafficking, transnational organized crime, terrorism, extremism, trafficking in persons, protection of borders. He emphasized the importance and necessity of strengthening further the capacities of the country\u2019s agencies engaged in countering illicit drugs and organized crime under the new UNODC Programme for Central Asia, including via provision of technical aid and establishment of new inter-district units of the Drug Control Agency under the President of the Republic of Tajikistan in the areas bordering with Afghanistan in the context of the recent developments in this country. Ms. Ghada Waly noted that UNODC would continue and expand its support, including on counter-narcotics, border management, mitigation of corruption risks in customs. The parties highlighted the need to expand further partnership, continue and strengthen peacebuilding efforts in the region, including Tajikistan, given the country\u2019s important geopolitical position that is vital for sustaining peace and security in the wider Central Asian region.",
+  "date": "29 November 2021"
+}

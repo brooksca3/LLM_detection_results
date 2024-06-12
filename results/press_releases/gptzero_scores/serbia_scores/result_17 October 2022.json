@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "42816d9b-5e34-4448-bc5e-6c69f351e1c9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.019362079280367282,
+        "human": 0.9801423253676234,
+        "mixed": 0.000495595352009401
+      },
+      "completely_generated_prob": 0.019362079280367282,
+      "confidence_category": "high",
+      "confidence_score": 0.9801423253676234,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.019362079280367282,
+          "human": 0.9801423253676234,
+          "mixed": 0.000495595352009401
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 72.46792602539062,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011717331362888217,
+          "perplexity": 17,
+          "sentence": "As part of activities related to the World Food Day (October 16), established in 1945, by the United Nations when the Food and Agriculture Organisation (FAO) was founded, a National Dialogue was held in Belgrade, organised by the Ministry of Agriculture, Forestry and Water Management, FAO and the Faculty of Agriculture of the University of Belgrade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016140014631673694,
+          "perplexity": 104,
+          "sentence": "The main topic of the dialogue was \u201eLeave No One Behind\u201c, with the aim to raise awareness about food security towards more efficient production, quality nutrition, improvement of environment and daily habits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018563078483566642,
+          "perplexity": 42,
+          "sentence": "Participants spoke about how we can transform our food systems by implementing sustainable and holistic approaches that include long-term sustainable development, inclusive growth and greater resilience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013278786791488528,
+          "perplexity": 22,
+          "sentence": "Food is a basic right connected to wellbeing and health of all people, and as we expect that by 2050 global population will reach 10 billion, our imperative must be to produce more food for more people and to do so in a sustainable manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00124811427667737,
+          "perplexity": 34,
+          "sentence": "We have to take advantage of strength of knowledge to improve food systems, to ensure secure and accessible food for all and at the same time to foster natural resources and fight against climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008822930976748466,
+          "perplexity": 36,
+          "sentence": "In my personal opinion, sustainable food systems are created by development of best agricultural practices, implementation of green technologies, improvement of food distribution systems and reduction of food waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006708356086164713,
+          "perplexity": 260,
+          "sentence": "Dr Fabio Scano, a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006119949393905699,
+          "perplexity": 60,
+          "sentence": "of the UN Resident Coordinator, WHO Serbia Representative and Special Envoy of the Regional Director for the Western Balkans stated the following: Working on food systems means much more than working on agriculture and food production, overweight and obesity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006087262881919742,
+          "perplexity": 43,
+          "sentence": "It means to bring all the dots that matter that connect nature, farmers, business, health and science together to build a better, healthier and greener world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006747774314135313,
+          "perplexity": 38,
+          "sentence": "Dr Du\u0161an \u017divkovi\u0107, Dean of the Faculty of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As part of activities related to the World Food Day (October 16), established in 1945, by the United Nations when the Food and Agriculture Organisation (FAO) was founded, a National Dialogue was held in Belgrade, organised by the Ministry of Agriculture, Forestry and Water Management, FAO and the Faculty of Agriculture of the University of Belgrade. The main topic of the dialogue was \u201eLeave No One Behind\u201c, with the aim to raise awareness about food security towards more efficient production, quality nutrition, improvement of environment and daily habits. Participants spoke about how we can transform our food systems by implementing sustainable and holistic approaches that include long-term sustainable development, inclusive growth and greater resilience. Food is a basic right connected to wellbeing and health of all people, and as we expect that by 2050 global population will reach 10 billion, our imperative must be to produce more food for more people and to do so in a sustainable manner. We have to take advantage of strength of knowledge to improve food systems, to ensure secure and accessible food for all and at the same time to foster natural resources and fight against climate change. In my personal opinion, sustainable food systems are created by development of best agricultural practices, implementation of green technologies, improvement of food distribution systems and reduction of food waste. Dr Fabio Scano, a.i. of the UN Resident Coordinator, WHO Serbia Representative and Special Envoy of the Regional Director for the Western Balkans stated the following: Working on food systems means much more than working on agriculture and food production, overweight and obesity. It means to bring all the dots that matter that connect nature, farmers, business, health and science together to build a better, healthier and greener world. Dr Du\u0161an \u017divkovi\u0107, Dean of the Faculty of",
+  "date": "17 October 2022"
+}

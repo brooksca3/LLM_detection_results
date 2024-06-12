@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1a8dd365-732c-43b8-bbc6-12c88cdbc205",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.445541381835938,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00020636952831409872,
+          "perplexity": 41,
+          "sentence": "Kragujevac, 24 March 2023 - To ensure the advancement and protection of human rights at the local level in Serbia, UN Resident Coordinator and UN Human Rights Team partnered with the Ministry for Human and Minority Rights and Social Dialogue and the Office of the High Commissioner for Human Rights to organize an event centered around the Human Rights 75 Initiative and the Leave No One Behind Tool in the city of Kragujevac.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002026195579674095,
+          "perplexity": 105,
+          "sentence": "The tool was presented to local self-governments representatives, members of parliament of the \u0160umadija administrative district, decision-makers and students, to enhance their understanding and knowledge of the human rights and LNOB Tool and the associated pledge to leave no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020381838839966804,
+          "perplexity": 47,
+          "sentence": "\u201eThe Government of the Republic of Serbia is committed to building a just society that proposes good laws and policies aimed at all segments in the complex structure of our society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019258176325820386,
+          "perplexity": 71,
+          "sentence": "Especially for vulnerable, invisible, and sensitive groups, because a just state should build such measures and policies that will create a society in which no one is left behind\u201d, said Minister for Human and Minority Rights and Social Dialogue, Tomislav \u017digmanov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018304235709365457,
+          "perplexity": 99,
+          "sentence": "\u201cInternational community and UN that have established the platform for sustainable development with the key principle 'Leave No One Behind' are aware of this and Serbia is the first country in the world that had ratified this toll that we will present to communities outside of Belgrade, to see how local self-governements can build policies, take measures for groups that have additional needs and that are often left behind in wider policies,\u201d explained \u017digmanov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019518256885930896,
+          "perplexity": 62,
+          "sentence": "\u201cWithin the Agenda 2030 for sustainable development, implemented by the United Nations, ad new 'Leave No One Behind' tool has been developed, with the aim to fulfil the needs of all and especially to involve vulnerable groups that are in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kragujevac, 24 March 2023 \u2013 To ensure the advancement and protection of human rights at the local level in Serbia, UN Resident Coordinator and UN Human Rights Team partnered with the Ministry for Human and Minority Rights and Social Dialogue and the Office of the High Commissioner for Human Rights to organize an event centered around the Human Rights 75 Initiative and the Leave No One Behind Tool in the city of Kragujevac. The tool was presented to local self-governments representatives, members of parliament of the \u0160umadija administrative district, decision-makers and students, to enhance their understanding and knowledge of the human rights and LNOB Tool and the associated pledge to leave no one behind. \u201eThe Government of the Republic of Serbia is committed to building a just society that proposes good laws and policies aimed at all segments in the complex structure of our society. Especially for vulnerable, invisible, and sensitive groups, because a just state should build such measures and policies that will create a society in which no one is left behind\u201d, said Minister for Human and Minority Rights and Social Dialogue, Tomislav \u017digmanov. \u201cInternational community and UN that have established the platform for sustainable development with the key principle \u2018Leave No One Behind\u2019 are aware of this and Serbia is the first country in the world that had ratified this toll that we will present to communities outside of Belgrade, to see how local self-governements can build policies, take measures for groups that have additional needs and that are often left behind in wider policies,\u201d explained \u017digmanov. \u201cWithin the Agenda 2030 for sustainable development, implemented by the United Nations, ad new \u2018Leave No One Behind\u2019 tool has been developed, with the aim to fulfil the needs of all and especially to involve vulnerable groups that are in",
+  "date": "24 March 2023"
+}

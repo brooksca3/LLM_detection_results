@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9fbc8d0a-794c-4084-91e5-87966c62f668",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.13664627075195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005428575095720589,
+          "perplexity": 15,
+          "sentence": "A partnership between the Samoa Bureau of Statistics (SBS) and the United Nations Development Programme (UNDP) has led to the strengthening of the births registration system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037520367186516523,
+          "perplexity": 34,
+          "sentence": "Apia, Samoa - This is reflected in the launch this week of a new report - Strengthening the Birth Registration System in Samoa - which highlights birth registration as a fundamental right, a critical first step for the protection and development of children, yet it remains a challenge for Samoa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003304471611045301,
+          "perplexity": 32,
+          "sentence": "The Report is the result of effective partnerships between SBS, through its Births, Deaths and Marriages (BDM) Division, UNDP through its Accelerator Lab (AccLab), and relevant stakeholders such as the Ministry of Health, Ministry of Women, Community and Social Development, and actors involved in the birth registration process at the community level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039462788845412433,
+          "perplexity": 75,
+          "sentence": "\u201cThe Samoa Bureau of Statistics recognizes and acknowledges the need to strengthen the birth registration system in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028363961610011756,
+          "perplexity": 79,
+          "sentence": "As such, birth registration is part of a wider civil registration system that includes the free and universal recording of the occurrence and characteristics of key events - births, deaths, adoptions, marriages, and divorces - and other civil status events pertaining to the population,\u201d said Leota Laki Lamositele Sio, Minister of Statistics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003097402222920209,
+          "perplexity": 205,
+          "sentence": "\u201cIn Samoa, every person has a right to a name that connects to the land and matai titles - their fa'asinomaga.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022657324734609574,
+          "perplexity": 56,
+          "sentence": "The registration of birth protects and instills that right and identity, which enables entitlement to health, education, sports, employment opportunities and many other social and economic benefits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003315601497888565,
+          "perplexity": 56,
+          "sentence": "A child's birth certificate is the primary identity to all social and economic entitlements.\u201d The Report provides a comprehensive analysis of the current situation, identifies gaps and opportunities, and proposes innovative and concrete recommendations like using collective intelligence, and leveraging technology and a whole-of-government collaboration across sectors to improve birth registration in Samoa.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A partnership between the Samoa Bureau of Statistics (SBS) and the United Nations Development Programme (UNDP) has led to the strengthening of the births registration system. Apia, Samoa \u2013 This is reflected in the launch this week of a new report \u2013 Strengthening the Birth Registration System in Samoa \u2013 which highlights birth registration as a fundamental right, a critical first step for the protection and development of children, yet it remains a challenge for Samoa. The Report is the result of effective partnerships between SBS, through its Births, Deaths and Marriages (BDM) Division, UNDP through its Accelerator Lab (AccLab), and relevant stakeholders such as the Ministry of Health, Ministry of Women, Community and Social Development, and actors involved in the birth registration process at the community level. \u201cThe Samoa Bureau of Statistics recognizes and acknowledges the need to strengthen the birth registration system in the country. As such, birth registration is part of a wider civil registration system that includes the free and universal recording of the occurrence and characteristics of key events \u2013 births, deaths, adoptions, marriages, and divorces \u2013 and other civil status events pertaining to the population,\u201d said Leota Laki Lamositele Sio, Minister of Statistics. \u201cIn Samoa, every person has a right to a name that connects to the land and matai titles \u2013 their fa\u2019asinomaga. The registration of birth protects and instills that right and identity, which enables entitlement to health, education, sports, employment opportunities and many other social and economic benefits. A child\u2019s birth certificate is the primary identity to all social and economic entitlements.\u201d The Report provides a comprehensive analysis of the current situation, identifies gaps and opportunities, and proposes innovative and concrete recommendations like using collective intelligence, and leveraging technology and a whole-of-government collaboration across sectors to improve birth registration in Samoa.",
+  "date": "01 May 2023"
+}

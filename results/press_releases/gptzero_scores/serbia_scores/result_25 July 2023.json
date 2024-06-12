@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "12cbf529-8160-4729-a430-ece964bd9e25",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.606647491455078,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007067015394568443,
+          "perplexity": 60,
+          "sentence": "The European Union (EU) will support the improvement of business infrastructure in 18 local self-governments[1] in the region of \u0160umadija and Western Serbia and Southern and Eastern Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000866614980623126,
+          "perplexity": 38,
+          "sentence": "The grants worth over 4.6 million Euros are being provided through the EU PRO Plus programme, which is implemented in cooperation with the Ministry of European Integration, for projects of construction or reconstruction and infrastructural equipping of industrial zones, tourist zones, as well as for development technical documentation for the development of economic infrastructure.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014592257793992758,
+          "perplexity": 24,
+          "sentence": "\"Together with the European Union, we are working to create conditions for economic growth, and this support should contribute to strengthening the competitiveness of local self-governments and their ability to implement projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010676058009266853,
+          "perplexity": 35,
+          "sentence": "In 18 cities and municipalities with the European Union grants, economic infrastructure in industrial zones will be improved, as well as tourist infrastructure, which will create conditions for new investments and new jobs, all leading to a better standard of living for citizens,\" said Tanja Mi\u0161\u010devi\u0107, Minister of European Integration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011223386973142624,
+          "perplexity": 46,
+          "sentence": "\"By supporting these projects, the European Union contributes to the improvement of the business and investment climate in Serbia, strengthens competitiveness and creates conditions for achieving better economic results.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006367011228576303,
+          "perplexity": 27,
+          "sentence": "It is expected that these projects will contribute to over 300 million Euros of new investments and the creation of around 4,500 new jobs within five years after their implementation, while we focused special attention on supporting the economic development of less developed parts of the country\", said the Ambassador of the European Union to Serbia, Emanuele Giaufret.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004169059975538403,
+          "perplexity": 29,
+          "sentence": "Of the total allocated funds, 3.1 million Euros will be used for infrastructure equipment, i.e.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038126789149828255,
+          "perplexity": 114,
+          "sentence": "construction of roads, transformer stations, improvement or construction of communal infrastructure in industrial zones in Valjevo, \u0160abac, \u0106uprija, Pre\u0161evo and Mionica, reconstruction and equipment of the former textile plant in Bosilegrad, while the regional",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The European Union (EU) will support the improvement of business infrastructure in 18 local self-governments[1] in the region of \u0160umadija and Western Serbia and Southern and Eastern Serbia. The grants worth over 4.6 million Euros are being provided through the EU PRO Plus programme, which is implemented in cooperation with the Ministry of European Integration, for projects of construction or reconstruction and infrastructural equipping of industrial zones, tourist zones, as well as for development technical documentation for the development of economic infrastructure. \"Together with the European Union, we are working to create conditions for economic growth, and this support should contribute to strengthening the competitiveness of local self-governments and their ability to implement projects. In 18 cities and municipalities with the European Union grants, economic infrastructure in industrial zones will be improved, as well as tourist infrastructure, which will create conditions for new investments and new jobs, all leading to a better standard of living for citizens,\" said Tanja Mi\u0161\u010devi\u0107, Minister of European Integration. \"By supporting these projects, the European Union contributes to the improvement of the business and investment climate in Serbia, strengthens competitiveness and creates conditions for achieving better economic results. It is expected that these projects will contribute to over 300 million Euros of new investments and the creation of around 4,500 new jobs within five years after their implementation, while we focused special attention on supporting the economic development of less developed parts of the country\", said the Ambassador of the European Union to Serbia, Emanuele Giaufret. Of the total allocated funds, 3.1 million Euros will be used for infrastructure equipment, i.e. construction of roads, transformer stations, improvement or construction of communal infrastructure in industrial zones in Valjevo, \u0160abac, \u0106uprija, Pre\u0161evo and Mionica, reconstruction and equipment of the former textile plant in Bosilegrad, while the regional",
+  "date": "25 July 2023"
+}

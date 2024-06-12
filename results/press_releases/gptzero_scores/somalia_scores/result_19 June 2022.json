@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "629e01a3-eaf1-4e70-91f0-d8bab17a32df",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.163902282714844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012478740245569497,
+          "perplexity": 22,
+          "sentence": "Mogadishu, 19 June 2022 - Marking the International Day for the Elimination of Sexual Violence in Conflict, the UN in Somalia today urged that the legal and social protection mechanisms for survivors of such violence, especially women and children, be strengthened.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001226410095114261,
+          "perplexity": 34,
+          "sentence": "\u201cThe human rights of the survivors of sexual violence in conflict need to be protected, and for this to happen it is essential to reinforce the legal and social protection legislative framework in Somalia, particularly for women and children,\u201d said the UN Secretary-General's Special Representative for Somalia, James Swan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012318568769842386,
+          "perplexity": 109,
+          "sentence": "\u201cI also call upon Somali authorities to ensure that tools for the support of survivors of conflict-related sexual violence include economic opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012871503713540733,
+          "perplexity": 55,
+          "sentence": "It is through economic empowerment that survivors will be able to sustain themselves and their families, and eradicate the stigma associated with enduring such violence,\u201d Mr. Swan said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011590740905376151,
+          "perplexity": 36,
+          "sentence": "To this end, the UN in Somalia's efforts in the area of sexual violence in conflict include running specialized holistic support centres for women formerly associated with Al-Shabaab, where after initial counselling and psycho-social support, the women undergo a period of vocational training with the aim of enhancing their opportunities for economic self-sustenance for themselves and their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011330869165249169,
+          "perplexity": 24,
+          "sentence": "The UN General Assembly proclaimed 19 June of each year as the International Day for the Elimination of Sexual Violence in Conflict in 2015.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011033622286049649,
+          "perplexity": 15,
+          "sentence": "The observance aims to raise awareness of the need to put an end to conflict-related sexual violence, to honour the victims and survivors of sexual violence around the world and to pay tribute to all those who have courageously devoted their lives to and lost their lives in standing up for the eradication of these crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011190292570972815,
+          "perplexity": 95,
+          "sentence": "The theme of this year's Day is 'Prevention as Protection: Enhancing structural and operational prevention of conflict-related sexual violence.'",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 19 June 2022 \u2013 Marking the International Day for the Elimination of Sexual Violence in Conflict, the UN in Somalia today urged that the legal and social protection mechanisms for survivors of such violence, especially women and children, be strengthened. \u201cThe human rights of the survivors of sexual violence in conflict need to be protected, and for this to happen it is essential to reinforce the legal and social protection legislative framework in Somalia, particularly for women and children,\u201d said the UN Secretary-General\u2019s Special Representative for Somalia, James Swan. \u201cI also call upon Somali authorities to ensure that tools for the support of survivors of conflict-related sexual violence include economic opportunities. It is through economic empowerment that survivors will be able to sustain themselves and their families, and eradicate the stigma associated with enduring such violence,\u201d Mr. Swan said. To this end, the UN in Somalia\u2019s efforts in the area of sexual violence in conflict include running specialized holistic support centres for women formerly associated with Al-Shabaab, where after initial counselling and psycho-social support, the women undergo a period of vocational training with the aim of enhancing their opportunities for economic self-sustenance for themselves and their families. The UN General Assembly proclaimed 19 June of each year as the International Day for the Elimination of Sexual Violence in Conflict in 2015. The observance aims to raise awareness of the need to put an end to conflict-related sexual violence, to honour the victims and survivors of sexual violence around the world and to pay tribute to all those who have courageously devoted their lives to and lost their lives in standing up for the eradication of these crimes. The theme of this year\u2019s Day is \u2018Prevention as Protection: Enhancing structural and operational prevention of conflict-related sexual violence.\u2019",
+  "date": "19 June 2022"
+}

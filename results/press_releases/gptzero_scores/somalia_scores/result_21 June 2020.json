@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0c28003b-a30b-4aac-811a-876164e395fc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 77.1383285522461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0028502021450549364,
+          "perplexity": 46,
+          "sentence": "Today, the UN Secretary-General's Special Representative for Somalia, James Swan, accompanied the Federal Minister for Health and Social Care, Dr. Fawziya Abikar Nur, on a visit to a leading Somali hospital playing a critical role in patient care management for COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030297557823359966,
+          "perplexity": 30,
+          "sentence": "The United Nations envoy called for continuing international support for the government's response to the pandemic and praised the efforts of healthcare workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029916982166469097,
+          "perplexity": 51,
+          "sentence": "\u201cSince the start of the pandemic, the United Nations family has supported the Somali government's response to the COVID pandemic in a range of integrated ways.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026432033628225327,
+          "perplexity": 263,
+          "sentence": "The De Martino Hospital has been central to testing, case detection and critical care support in Somalia,\u201d said Mr. Swan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002648385241627693,
+          "perplexity": 33,
+          "sentence": "\u201cI am glad to have the chance to see first-hand the work being carried out by Somali health workers in responding to the need for patient care and critical care support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032328935340046883,
+          "perplexity": 56,
+          "sentence": "It has been a welcome opportunity to express the UN's solidarity with these courageous individuals who are on the front-lines of Somalia's efforts in combatting the outbreak,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002938498044386506,
+          "perplexity": 42,
+          "sentence": "\"I commend the health workers and the government on their tireless efforts.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019906102679669857,
+          "perplexity": 161,
+          "sentence": "The hospital has 71 dedicated isolation beds for COVID-19 patients and 16 ventilators, with its resources including an isolation centre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015188264660537243,
+          "perplexity": 26,
+          "sentence": "Along with other partners of the UN system in Somalia, the UN World Health Organization (WHO) continues to provide technical, logistical and operational support to the hospital with patient management and care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013891244307160378,
+          "perplexity": 33,
+          "sentence": "The United Nations family's support for Somalia's COVID-19 response includes planning, coordination, and policy development support; capacity-building of health professionals working in laboratories and hospitals; the establishment and operation of a Polymerase Chain Reaction (PCR) laboratory in Mogadishu, Garowe and Hargeisa; logistical assistance with the supply of Personal Protection Equipment (PPE), ventilators and other equipment; and providing operational support to the hospitals, isolation centres and laboratories.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, the UN Secretary-General\u2019s Special Representative for Somalia, James Swan, accompanied the Federal Minister for Health and Social Care, Dr. Fawziya Abikar Nur, on a visit to a leading Somali hospital playing a critical role in patient care management for COVID-19. The United Nations envoy called for continuing international support for the government\u2019s response to the pandemic and praised the efforts of healthcare workers. \u201cSince the start of the pandemic, the United Nations family has supported the Somali government\u2019s response to the COVID pandemic in a range of integrated ways. The De Martino Hospital has been central to testing, case detection and critical care support in Somalia,\u201d said Mr. Swan. \u201cI am glad to have the chance to see first-hand the work being carried out by Somali health workers in responding to the need for patient care and critical care support. It has been a welcome opportunity to express the UN\u2019s solidarity with these courageous individuals who are on the front-lines of Somalia\u2019s efforts in combatting the outbreak,\u201d he added. \"I commend the health workers and the government on their tireless efforts.\" The hospital has 71 dedicated isolation beds for COVID-19 patients and 16 ventilators, with its resources including an isolation centre. Along with other partners of the UN system in Somalia, the UN World Health Organization (WHO) continues to provide technical, logistical and operational support to the hospital with patient management and care. The United Nations family\u2019s support for Somalia\u2019s COVID-19 response includes planning, coordination, and policy development support; capacity-building of health professionals working in laboratories and hospitals; the establishment and operation of a Polymerase Chain Reaction (PCR) laboratory in Mogadishu, Garowe and Hargeisa; logistical assistance with the supply of Personal Protection Equipment (PPE), ventilators and other equipment; and providing operational support to the hospitals, isolation centres and laboratories.",
+  "date": "21 June 2020"
+}

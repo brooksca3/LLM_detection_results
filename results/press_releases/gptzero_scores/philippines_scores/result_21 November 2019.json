@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a7688884-fd23-4e63-b7fb-b4ed0d850915",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030755795549549995,
+        "human": 0.9685859430920044,
+        "mixed": 0.0006582613584455498
+      },
+      "completely_generated_prob": 0.030755795549549995,
+      "confidence_category": "high",
+      "confidence_score": 0.9685859430920044,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030755795549549995,
+          "human": 0.9685859430920044,
+          "mixed": 0.0006582613584455498
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.726985931396484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003287798026576638,
+          "perplexity": 90,
+          "sentence": "MANILA, Philippines - More than 100 young innovators, mentors and stakeholders attended the 2019 Youth Social Innovation Lab, held on 18 and 19 November and hosted by Youth Co:Lab Philippines in partnership with makesense, co-led by Citi Foundation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035169601324014366,
+          "perplexity": 74,
+          "sentence": "The participants, who come from different youth sectors all over the Philippines were selected to come together to pitch and develop their ideas for socially inclusive sustainable enterprises.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003773373900912702,
+          "perplexity": 72,
+          "sentence": "With the theme \u201cSocial Inclusion,\u201d the two-day hackathon held at the Benilde Hub of Innovation for Inclusion (HiFi) showcased the ideas of innovative Filipinos aged 15-30, including high school and university students, new graduates, youth affected by conflicts and/or disasters, LGBT+, differently-abled youth, and those from ethnic and religious minorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003571936395019293,
+          "perplexity": 93,
+          "sentence": "Through intensive integrated learning sessions rooted on human-centered and design thinking methods, participating youth were grouped together and had the opportunity to be mentored by experts to develop and harness their ideas into tangible and marketable solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003256130439694971,
+          "perplexity": 47,
+          "sentence": "The teams then had to pitch their ideas to a board of jurors to clinch a spot at the Youth Co:Lab Regional Summit in Kuala Lumpur, Malaysia, April next year, where they will have an opportunity to participate in a competition among fellow youth innovators across the Asia-Pacific region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03794346749782562,
+          "perplexity": 53,
+          "sentence": "Five groups were selected - AccesiWheels (first place) is a ride-hailing mobile application designed for persons with disabilities by persons with disabilities; #Ethnicoco (second place) is an enterprise driven to innovate high value-added products from devalued coconut agriculture wastes produced by indigenous communities; Transkonek (third place) is an online platform linking transgenders to job opportunities and other support services; Project Ka-sama (fourth place) is a virtual learning environment offering mental health and counseling classes to people with chronic medical conditions; and Greenhows (fifth place) is a co-creation lab that harnesses the ideas and potential of students, local artists,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MANILA, Philippines \u2013 More than 100 young innovators, mentors and stakeholders attended the 2019 Youth Social Innovation Lab, held on 18 and 19 November and hosted by Youth Co:Lab Philippines in partnership with makesense, co-led by Citi Foundation. The participants, who come from different youth sectors all over the Philippines were selected to come together to pitch and develop their ideas for socially inclusive sustainable enterprises. With the theme \u201cSocial Inclusion,\u201d the two-day hackathon held at the Benilde Hub of Innovation for Inclusion (HiFi) showcased the ideas of innovative Filipinos aged 15-30, including high school and university students, new graduates, youth affected by conflicts and/or disasters, LGBT+, differently-abled youth, and those from ethnic and religious minorities. Through intensive integrated learning sessions rooted on human-centered and design thinking methods, participating youth were grouped together and had the opportunity to be mentored by experts to develop and harness their ideas into tangible and marketable solutions. The teams then had to pitch their ideas to a board of jurors to clinch a spot at the Youth Co:Lab Regional Summit in Kuala Lumpur, Malaysia, April next year, where they will have an opportunity to participate in a competition among fellow youth innovators across the Asia-Pacific region. Five groups were selected - AccesiWheels (first place) is a ride-hailing mobile application designed for persons with disabilities by persons with disabilities; #Ethnicoco (second place) is an enterprise driven to innovate high value-added products from devalued coconut agriculture wastes produced by indigenous communities; Transkonek (third place) is an online platform linking transgenders to job opportunities and other support services; Project Ka-sama (fourth place) is a virtual learning environment offering mental health and counseling classes to people with chronic medical conditions; and Greenhows (fifth place) is a co-creation lab that harnesses the ideas and potential of students, local artists,",
+  "date": "21 November 2019"
+}

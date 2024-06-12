@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bdc4ccf2-dc1e-491d-810b-3121aacb3177",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030467994716352104,
+        "human": 0.9690038178744046,
+        "mixed": 0.000528187409243373
+      },
+      "completely_generated_prob": 0.030467994716352104,
+      "confidence_category": "high",
+      "confidence_score": 0.9690038178744046,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030467994716352104,
+          "human": 0.9690038178744046,
+          "mixed": 0.000528187409243373
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.19931411743164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004211424384266138,
+          "perplexity": 140,
+          "sentence": "Ulaanbaatar -- H.E U.Khurelsukh, President of Mongolia received UN Resident Coordinator in Mongolia, Tapan Mishra at the Government Palace of Mongolia today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012222482822835445,
+          "perplexity": 36,
+          "sentence": "Mr. Tapan Mishra congratulated him on his appointment as the President of Mongolia and expressed that the successful collaboration on Mongolia's development priorities during his tenure as a Prime Minister would be continued throughout his time as a Head of State.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015124702826142311,
+          "perplexity": 46,
+          "sentence": "He emphasized his leadership in localizing the Sustainable Development Goals (SDGs), aligning them with the national development policies and priorities such as Vision 2050 during his premiership.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011950857937335968,
+          "perplexity": 72,
+          "sentence": "H.E U.Khurelsukh expressed his gratitude to the United Nations and its system in Mongolia for their long-standing partnerships with Mongolia through its various development programs that helped Mongolia on its development path.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010586569085717201,
+          "perplexity": 118,
+          "sentence": "In particular, he highlighted the UN's recent support to Mongolia in the timely response to the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006230432074517012,
+          "perplexity": 36,
+          "sentence": "As a part of his agenda for youth development, the President of Mongolia initiated a scholarship program to support bright students from low-income and rural families to study in the world top universities, who would in return to contribute to the country's development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006186900194734335,
+          "perplexity": 35,
+          "sentence": "2021 marks the 60th anniversary of Mongolia's membership in the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008011887781322002,
+          "perplexity": 49,
+          "sentence": "Mr. President noted the significant meaning of its membership in the United Nations for securing its independence and sovereignty and safeguarding its freedom and democracy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00507287448272109,
+          "perplexity": 52,
+          "sentence": "The bilateral meeting between the President and the UN Resident Coordinator focused on larger development cooperation between the UN and Mongolia, addressing many of Mongolia's challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024149008095264435,
+          "perplexity": 39,
+          "sentence": "They exchanged their views on a range of development issues from environmental concerns such as climate change, degrading ecosystem, as well as immense opportunities to tap into the potential of renewable energy, to socio-economic development issues, including more investment in youth development, improving health and education services for the population and to leveraging Mongolia's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ulaanbaatar -- H.E U.Khurelsukh, President of Mongolia received UN Resident Coordinator in Mongolia, Tapan Mishra at the Government Palace of Mongolia today. Mr. Tapan Mishra congratulated him on his appointment as the President of Mongolia and expressed that the successful collaboration on Mongolia\u2019s development priorities during his tenure as a Prime Minister would be continued throughout his time as a Head of State. He emphasized his leadership in localizing the Sustainable Development Goals (SDGs), aligning them with the national development policies and priorities such as Vision 2050 during his premiership. H.E U.Khurelsukh expressed his gratitude to the United Nations and its system in Mongolia for their long-standing partnerships with Mongolia through its various development programs that helped Mongolia on its development path. In particular, he highlighted the UN\u2019s recent support to Mongolia in the timely response to the COVID-19 pandemic. As a part of his agenda for youth development, the President of Mongolia initiated a scholarship program to support bright students from low-income and rural families to study in the world top universities, who would in return to contribute to the country\u2019s development. 2021 marks the 60th anniversary of Mongolia\u2019s membership in the United Nations. Mr. President noted the significant meaning of its membership in the United Nations for securing its independence and sovereignty and safeguarding its freedom and democracy. The bilateral meeting between the President and the UN Resident Coordinator focused on larger development cooperation between the UN and Mongolia, addressing many of Mongolia\u2019s challenges. They exchanged their views on a range of development issues from environmental concerns such as climate change, degrading ecosystem, as well as immense opportunities to tap into the potential of renewable energy, to socio-economic development issues, including more investment in youth development, improving health and education services for the population and to leveraging Mongolia\u2019s",
+  "date": "03 September 2021"
+}

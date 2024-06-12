@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5ca5697b-258d-48b2-b91a-b615562f1657",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.106857299804688,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0034706969745457172,
+          "perplexity": 77,
+          "sentence": "The Green Climate Fund (GCF) has approved a project worth 54.5 million US dollars to address the alarming deforestation and forest degradation challenges in the Northern Savannah Zone of Ghana, whilst promoting investments in the shea value chain and women's empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029701851308345795,
+          "perplexity": 39,
+          "sentence": "The 'Ghana Shea Landscape Emission Reductions Project', which was approved at the ongoing GCF's 26th virtual Board Meeting, will be implemented by the Forestry Commission (FC) of Ghana with technical support from the United Nations Development Programme (UNDP), in partnership with multiple national and local institutions, civil society organizations and private sector actors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029614714439958334,
+          "perplexity": 84,
+          "sentence": "The project has leveraged vertical funds, with USD 30,100,000 grant from the GCF, about USD 15 million funding from the Government of Ghana and mobilized about USD 9 million impact investments from the private sector in the shea value chain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030065346509218216,
+          "perplexity": 67,
+          "sentence": "''I welcome this great milestone in Ghana's Forestry Sector in the deployment of programmes and projects that reduce emissions from deforestation and forest degradation, build ecosystem resilience and also enhance the lives of communities that nurture the forests'', stated the Chief Executive of the Forestry Commission, Mr. John M. Allotey.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003317098133265972,
+          "perplexity": 44,
+          "sentence": "Mr. Allotey highlighted how the implementation of the project would provide a strong contribution to Ghana's achievement of its commitment to the Paris Agreement on Climate Change and the implementation of the Ghana National REDD+ Strategy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030490015633404255,
+          "perplexity": 42,
+          "sentence": "He also emphasized the FC's appreciation to all the stakeholders involved in this victory, particularly the UNDP, and the Ministry of Finance which is the National Designated Authority (NDA) for the GCF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027359039522707462,
+          "perplexity": 27,
+          "sentence": "The project's interventions are expected to result in the restoration of 200,000 hectares of off-reserve savanna forests and 300,000 hectares of degraded shea parklands as well as the establishment of 25,500 hectares of forest plantations in severely degraded forest reserves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030221175402402878,
+          "perplexity": 48,
+          "sentence": "It is expected that the activities will result",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Green Climate Fund (GCF) has approved a project worth 54.5 million US dollars to address the alarming deforestation and forest degradation challenges in the Northern Savannah Zone of Ghana, whilst promoting investments in the shea value chain and women\u2019s empowerment. The \u2018Ghana Shea Landscape Emission Reductions Project\u2019, which was approved at the ongoing GCF\u2019s 26th virtual Board Meeting, will be implemented by the Forestry Commission (FC) of Ghana with technical support from the United Nations Development Programme (UNDP), in partnership with multiple national and local institutions, civil society organizations and private sector actors. The project has leveraged vertical funds, with USD 30,100,000 grant from the GCF, about USD 15 million funding from the Government of Ghana and mobilized about USD 9 million impact investments from the private sector in the shea value chain. \u2018\u2019I welcome this great milestone in Ghana\u2019s Forestry Sector in the deployment of programmes and projects that reduce emissions from deforestation and forest degradation, build ecosystem resilience and also enhance the lives of communities that nurture the forests\u2019\u2019, stated the Chief Executive of the Forestry Commission, Mr. John M. Allotey. Mr. Allotey highlighted how the implementation of the project would provide a strong contribution to Ghana\u2019s achievement of its commitment to the Paris Agreement on Climate Change and the implementation of the Ghana National REDD+ Strategy. He also emphasized the FC\u2019s appreciation to all the stakeholders involved in this victory, particularly the UNDP, and the Ministry of Finance which is the National Designated Authority (NDA) for the GCF. The project\u2019s interventions are expected to result in the restoration of 200,000 hectares of off-reserve savanna forests and 300,000 hectares of degraded shea parklands as well as the establishment of 25,500 hectares of forest plantations in severely degraded forest reserves. It is expected that the activities will result",
+  "date": "20 August 2020"
+}

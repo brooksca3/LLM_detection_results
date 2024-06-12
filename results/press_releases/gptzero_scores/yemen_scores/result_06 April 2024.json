@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "506857ad-9e5b-4257-b08c-828e3abfad97",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.2655143737793,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019033116986975074,
+          "perplexity": 31,
+          "sentence": "Statement by Martin Griffiths, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator For the people of Gaza, the past six months of war have brought death, devastation and now the immediate prospect of a shameful man-made famine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001699168817140162,
+          "perplexity": 43,
+          "sentence": "For the people affected by the lasting horror of the 7 October attacks, it has been six months of grief and torment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016507612308487296,
+          "perplexity": 173,
+          "sentence": "Each day, this war claims more civilian victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018584844656288624,
+          "perplexity": 117,
+          "sentence": "Every second that it continues sows the seeds of a future so deeply obscured by this relentless conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018031097715720534,
+          "perplexity": 20,
+          "sentence": "As I and many others have said repeatedly, the end of this war is so long overdue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019994445610791445,
+          "perplexity": 15,
+          "sentence": "Instead, we face the unconscionable prospect of further escalation in Gaza, where no one is safe and there is nowhere safe to go.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00135068129748106,
+          "perplexity": 81,
+          "sentence": "An already fragile aid operation continues to be undermined by bombardments, insecurity and denials of access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014421509113162756,
+          "perplexity": 81,
+          "sentence": "Rarely has there been such global outrage at the toll of conflict, with seemingly so little done to end it and instead so much impunity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001594198402017355,
+          "perplexity": 13,
+          "sentence": "On this day, my heart goes out to the families of those killed, injured or taken hostage, and to those who face the particular suffering of not knowing the plight of their loved ones.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015113487606868148,
+          "perplexity": 40,
+          "sentence": "It is not enough for six months of war to be a moment of remembrance and mourning - it must also spur a collective determination that there be a reckoning for this betrayal of humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015202682698145509,
+          "perplexity": 56,
+          "sentence": "In New York: Eri Kaneko, kaneko@un.org, +1 917 208 8910",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Statement by Martin Griffiths, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator For the people of Gaza, the past six months of war have brought death, devastation and now the immediate prospect of a shameful man-made famine. For the people affected by the lasting horror of the 7 October attacks, it has been six months of grief and torment. Each day, this war claims more civilian victims. Every second that it continues sows the seeds of a future so deeply obscured by this relentless conflict. As I and many others have said repeatedly, the end of this war is so long overdue. Instead, we face the unconscionable prospect of further escalation in Gaza, where no one is safe and there is nowhere safe to go. An already fragile aid operation continues to be undermined by bombardments, insecurity and denials of access. Rarely has there been such global outrage at the toll of conflict, with seemingly so little done to end it and instead so much impunity. On this day, my heart goes out to the families of those killed, injured or taken hostage, and to those who face the particular suffering of not knowing the plight of their loved ones. It is not enough for six months of war to be a moment of remembrance and mourning \u2013 it must also spur a collective determination that there be a reckoning for this betrayal of humanity. In New York: Eri Kaneko, kaneko@un.org, +1 917 208 8910",
+  "date": "06 April 2024"
+}

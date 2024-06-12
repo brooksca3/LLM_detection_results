@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d959fc7e-220c-4fc7-96e6-1ce893135021",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013775206101803098,
+        "human": 0.9981342151290252,
+        "mixed": 0.00048826426079443577
+      },
+      "completely_generated_prob": 0.0013775206101803098,
+      "confidence_category": "high",
+      "confidence_score": 0.9981342151290252,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013775206101803098,
+          "human": 0.9981342151290252,
+          "mixed": 0.00048826426079443577
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.511079788208008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.490096272202209e-05,
+          "perplexity": 29,
+          "sentence": "On the occasion of the International Day of Democracy, the United Nations envoy to Somalia today highlighted its special relevance as the country prepares for its historic 'one person, one vote' elections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010492779256310314,
+          "perplexity": 25,
+          "sentence": "Mogadishu - On the occasion of the International Day of Democracy, the United Nations envoy to Somalia today highlighted its special relevance as the country prepares for its historic 'one person, one vote' elections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.777534432942048e-05,
+          "perplexity": 46,
+          "sentence": "\u201cThis day is an opportunity to affirm that democracy is about people and to urge all governments to respect their citizens' right to participate freely in choosing their leaders and deciding important national issues,\u201d the Secretary-General's Special Representative for Somalia, James Swan, said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.415263048140332e-05,
+          "perplexity": 47,
+          "sentence": "\u201cIt is our hope that a wide cross-section of Somali citizens can participate in the political life of Somalia through the ongoing constitutional review process and in the 'one person, one vote' elections scheduled in the last quarter of 2020,\u201d the Special Representative added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010041768837254494,
+          "perplexity": 26,
+          "sentence": "Along with various parts of the UN system and international partners, the UN Assistance Mission in Somalia (UNSOM), headed by Mr. Swan, is supporting the country's National Independent Electoral Commission (NIEC), which is tasked with delivering the elections in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010162043326999992,
+          "perplexity": 66,
+          "sentence": "In this effort, UNSOM also highlights the NIEC's need for unremitting support from all public institutions, as well as the Somali people, in this undertaking which can provide a basis for consolidation of Somalia's gains in democratic transformation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016726204194128513,
+          "perplexity": 35,
+          "sentence": "Observed annually on 15 September, the International Day of Democracy provides an opportunity to review the state of democracy in the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015150857507251203,
+          "perplexity": 26,
+          "sentence": "The theme of this year's observance is 'Participation,' with a focus on recalling that democracy is built on inclusion, equal treatment and participation, and it is a fundamental building block for peace, sustainable development and human rights.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On the occasion of the International Day of Democracy, the United Nations envoy to Somalia today highlighted its special relevance as the country prepares for its historic \u2018one person, one vote\u2019 elections. Mogadishu \u2013 On the occasion of the International Day of Democracy, the United Nations envoy to Somalia today highlighted its special relevance as the country prepares for its historic \u2018one person, one vote\u2019 elections. \u201cThis day is an opportunity to affirm that democracy is about people and to urge all governments to respect their citizens\u2019 right to participate freely in choosing their leaders and deciding important national issues,\u201d the Secretary-General\u2019s Special Representative for Somalia, James Swan, said. \u201cIt is our hope that a wide cross-section of Somali citizens can participate in the political life of Somalia through the ongoing constitutional review process and in the \u2018one person, one vote\u2019 elections scheduled in the last quarter of 2020,\u201d the Special Representative added. Along with various parts of the UN system and international partners, the UN Assistance Mission in Somalia (UNSOM), headed by Mr. Swan, is supporting the country\u2019s National Independent Electoral Commission (NIEC), which is tasked with delivering the elections in 2020. In this effort, UNSOM also highlights the NIEC\u2019s need for unremitting support from all public institutions, as well as the Somali people, in this undertaking which can provide a basis for consolidation of Somalia\u2019s gains in democratic transformation. Observed annually on 15 September, the International Day of Democracy provides an opportunity to review the state of democracy in the world. The theme of this year\u2019s observance is \u2018Participation,\u2019 with a focus on recalling that democracy is built on inclusion, equal treatment and participation, and it is a fundamental building block for peace, sustainable development and human rights.",
+  "date": "15 September 2019"
+}

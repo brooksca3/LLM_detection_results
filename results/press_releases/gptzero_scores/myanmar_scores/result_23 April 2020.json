@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a5d8022-af52-4b73-879c-651b1b6647c7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.382070541381836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.020097412168979645,
+          "perplexity": 40,
+          "sentence": "New York - The Special Representative of the Secretary-General for Children and Armed Conflict, Virginia Gamba, calls on all parties to conflict in Myanmar to urgently implement all necessary measures to protect children from hostilities, as recent numbers show a deeply concerning increase in child casualties in the first months of 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02187643013894558,
+          "perplexity": 14,
+          "sentence": "While data is still being collected, the number of children killed and maimed in the first three months of 2020 already amounts to more than half of the total of killing and maiming in 2019, and significantly surpasses the total number of child casualties for 2018.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019862385466694832,
+          "perplexity": 24,
+          "sentence": "Of particular concern is the number of children killed or maimed as a result of airstrikes, landmines, explosive remnants of war and crossfire in Rakhine and Chin states, where the conflict between the Government Forces (the Tatmadaw) and the Arakan Army has seen an unprecedented escalation in recent months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0179685577750206,
+          "perplexity": 75,
+          "sentence": "\u201cI urge all parties in Myanmar to act on the Secretary-General's global call for ceasefire and put an effective halt to hostilities, as the world is facing a joint battle against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017586173489689827,
+          "perplexity": 97,
+          "sentence": "I welcome the ceasefires already announced by several armed groups in the country and call for their effective implementation,\u201d said the Special Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017437493428587914,
+          "perplexity": 45,
+          "sentence": "\u201cIn these challenging times, more than ever, humanitarian and child protection partners on the ground must be allowed to safely access the populations in need, especially children who are particularly vulnerable in times of conflict\u201d, she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020113812759518623,
+          "perplexity": 38,
+          "sentence": "She further condemns the recent attacks against health workers delivering life-saving aid to populations in need in Rakhine state.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02237870916724205,
+          "perplexity": 36,
+          "sentence": "This recent escalation in hostilities also resulted in an increase in incidents affecting schools and hospitals causing serious damage to infrastructure and loss of life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017813656479120255,
+          "perplexity": 77,
+          "sentence": "The Special Representative calls on all parties to protect the civilian character of schools and hospitals and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York - The Special Representative of the Secretary-General for Children and Armed Conflict, Virginia Gamba, calls on all parties to conflict in Myanmar to urgently implement all necessary measures to protect children from hostilities, as recent numbers show a deeply concerning increase in child casualties in the first months of 2020. While data is still being collected, the number of children killed and maimed in the first three months of 2020 already amounts to more than half of the total of killing and maiming in 2019, and significantly surpasses the total number of child casualties for 2018. Of particular concern is the number of children killed or maimed as a result of airstrikes, landmines, explosive remnants of war and crossfire in Rakhine and Chin states, where the conflict between the Government Forces (the Tatmadaw) and the Arakan Army has seen an unprecedented escalation in recent months. \u201cI urge all parties in Myanmar to act on the Secretary-General\u2019s global call for ceasefire and put an effective halt to hostilities, as the world is facing a joint battle against COVID-19. I welcome the ceasefires already announced by several armed groups in the country and call for their effective implementation,\u201d said the Special Representative. \u201cIn these challenging times, more than ever, humanitarian and child protection partners on the ground must be allowed to safely access the populations in need, especially children who are particularly vulnerable in times of conflict\u201d, she added. She further condemns the recent attacks against health workers delivering life-saving aid to populations in need in Rakhine state. This recent escalation in hostilities also resulted in an increase in incidents \u200baffecting schools and hospitals \u200bcausing serious damage \u200bto infrastructure and loss of life. The Special Representative calls on all parties to protect the civilian character of schools and hospitals and",
+  "date": "23 April 2020"
+}

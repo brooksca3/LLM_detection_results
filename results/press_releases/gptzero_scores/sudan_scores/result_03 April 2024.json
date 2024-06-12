@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ec0200b5-1916-49d5-9f60-0e83ef34c7a2",
+  "documents": [
+    {
+      "average_generated_prob": 1,
+      "class_probabilities": {
+        "ai": 0.3668961756084259,
+        "human": 0.010975526620764878,
+        "mixed": 0.6221282977708091
+      },
+      "completely_generated_prob": 0.3668961756084259,
+      "confidence_category": "low",
+      "confidence_score": 0.6221282977708091,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.3668961756084259,
+          "human": 0.010975526620764878,
+          "mixed": 0.6221282977708091
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.106054306030273,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9316904254198173,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.9988299012184143,
+          "perplexity": 39,
+          "sentence": "The ongoing crisis in Sudan has significantly impeded the ability of the WHO office in Sudan to access and deliver essential emergency medical supplies to the regions of the Blue Nile and Nuba Mountains.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.998217761516571,
+          "perplexity": 35,
+          "sentence": "Due to the limited access and operational capacity in Sudan, the WHO Country Office in Sudan collaborated with WHO South Sudan office to facilitate the delivery of humanitarian commodities from South Sudan and provide the necessary support.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9982506632804871,
+          "perplexity": 22,
+          "sentence": "In response to these critical needs, the World Health Organization offices in South Sudan and Sudan collaborated to provide emergency medical supplies to those affected.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9993621706962585,
+          "perplexity": 51,
+          "sentence": "By leveraging the WHO South Sudan office's logistical prowess, expertise, and available resources, WHO South Sudan prepositioned the requisite quantities of emergency health kits from existing stockpiles in areas adjacent to the Sudan-South Sudan border, ensuring timely and effective assistance to those in dire need.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9991587400436401,
+          "perplexity": 37,
+          "sentence": "This joint effort was a testament to the commitment of both offices to cross-border collaboration in addressing critical health issues.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9348646998405457,
+          "perplexity": 45,
+          "sentence": "These kits included Inter-Agency Emergency Health Kits, Cholera Investigation and treatment kits, kits for the management of measles, non-communicable diseases, medical complications associated with severe acute malnutrition in children under five, and trauma management and emergency surgery kits.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9180111885070801,
+          "perplexity": 59,
+          "sentence": "These kits are expected to serve approximately 830 000 people in the conflict-affected Blue Nile and Nuba Mountains areas for the next three months.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.8761844038963318,
+          "perplexity": 58,
+          "sentence": "The shipment, worth USD 671 414, is the second that the WHO South Sudan has been able to deliver to Sudan since the outbreak of the conflict in April 2023.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.8973255753517151,
+          "perplexity": 45,
+          "sentence": "The dispatch of the supplies is part of WHO's continuous relief efforts in support of the Sudanese people in the current situation.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.8549246788024902,
+          "perplexity": 42,
+          "sentence": "\u201cAs logistics plays a critical role in emergency response, we must have a strong logistical capacity to ensure swift delivery of supplies to the affected",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The ongoing crisis in Sudan has significantly impeded the ability of the WHO office in Sudan to access and deliver essential emergency medical supplies to the regions of the Blue Nile and Nuba Mountains. Due to the limited access and operational capacity in Sudan, the WHO Country Office in Sudan collaborated with WHO South Sudan office to facilitate the delivery of humanitarian commodities from South Sudan and provide the necessary support. In response to these critical needs, the World Health Organization offices in South Sudan and Sudan collaborated to provide emergency medical supplies to those affected. By leveraging the WHO South Sudan office's logistical prowess, expertise, and available resources, WHO South Sudan prepositioned the requisite quantities of emergency health kits from existing stockpiles in areas adjacent to the Sudan-South Sudan border, ensuring timely and effective assistance to those in dire need. This joint effort was a testament to the commitment of both offices to cross-border collaboration in addressing critical health issues. These kits included Inter-Agency Emergency Health Kits, Cholera Investigation and treatment kits, kits for the management of measles, non-communicable diseases, medical complications associated with severe acute malnutrition in children under five, and trauma management and emergency surgery kits. These kits are expected to serve approximately 830 000 people in the conflict-affected Blue Nile and Nuba Mountains areas for the next three months. The shipment, worth USD 671 414, is the second that the WHO South Sudan has been able to deliver to Sudan since the outbreak of the conflict in April 2023. The dispatch of the supplies is part of WHO's continuous relief efforts in support of the Sudanese people in the current situation. \u201cAs logistics plays a critical role in emergency response, we must have a strong logistical capacity to ensure swift delivery of supplies to the affected",
+  "date": "03 April 2024"
+}

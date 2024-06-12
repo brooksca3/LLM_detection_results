@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3685aed0-4c50-44f2-b616-af126ba99435",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.626461029052734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004726534243673086,
+          "perplexity": 16,
+          "sentence": "A $15.5 million EU-funded project aims to respond to disruptions to the agricultural sector caused by war Rural households, smallholder farmers and small-scale agricultural enterprises will benefit from a $15.5 million project funded by the European Union (EU) and implemented by the Food and Agriculture Organization of the United Nations (FAO) to support the functioning, reinforcement and strengthening of value chains in agriculture, fisheries and forestry, and their adaptation to the wartime conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039798402576707304,
+          "perplexity": 76,
+          "sentence": "The project will focus on supporting producers in Lvivska, Ivano-Frankivska, Zakarpatska and parts of Chernivetska oblast with matching grants for on-farm and value chain-based investments coupled with extension and advisory support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041301557212136686,
+          "perplexity": 165,
+          "sentence": "\u201cThe EU funds for this FAO project aim to re-establish or reinforce pre-war level functionality of agricultural value chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004050004354212433,
+          "perplexity": 65,
+          "sentence": "This is needed to meet the food requirements of local and displaced populations in the west and address food insecurity elsewhere in the country in the immediate and short term, and will be critical to averting a food crisis into 2023,\u201d said Christian Ben Hell, the Sector Manager for Agriculture at the EU Delegation to Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005102226859889925,
+          "perplexity": 41,
+          "sentence": "The food security situation in Ukraine has deteriorated rapidly following the eruption of the war on 24 February 2022, which has caused extensive destruction of crops, agricultural and other civilian infrastructure, and disrupted both supply and value chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039633389678783715,
+          "perplexity": 48,
+          "sentence": "FAO's recent nationwide assessment on the impact of the war on agriculture and rural households reveals that one in every four of the 5 200 respondents has reduced or stopped agricultural production due to the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002622143365442753,
+          "perplexity": 54,
+          "sentence": "Through this EU-funded project, which initially started in February 2021 with a preparation phase but then was put on hold due to the war to be repurposed to meet the current needs, in March-May 2022 emergency agricultural support was provided to over 6 000 rural households.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003512516850605607,
+          "perplexity": 1,
+          "sentence": "This",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A $15.5 million EU-funded project aims to respond to disruptions to the agricultural sector caused by war Rural households, smallholder farmers and small-scale agricultural enterprises will benefit from a $15.5 million project funded by the European Union (EU) and implemented by the Food and Agriculture Organization of the United Nations (FAO) to support the functioning, reinforcement and strengthening of value chains in agriculture, fisheries and forestry, and their adaptation to the wartime conditions. The project will focus on supporting producers in Lvivska, Ivano-Frankivska, Zakarpatska and parts of Chernivetska oblast with matching grants for on-farm and value chain-based investments coupled with extension and advisory support. \u201cThe EU funds for this FAO project aim to re-establish or reinforce pre-war level functionality of agricultural value chains. This is needed to meet the food requirements of local and displaced populations in the west and address food insecurity elsewhere in the country in the immediate and short term, and will be critical to averting a food crisis into 2023,\u201d said Christian Ben Hell, the Sector Manager for Agriculture at the EU Delegation to Ukraine. The food security situation in Ukraine has deteriorated rapidly following the eruption of the war on 24 February 2022, which has caused extensive destruction of crops, agricultural and other civilian infrastructure, and disrupted both supply and value chains. FAO\u2019s recent nationwide assessment on the impact of the war on agriculture and rural households reveals that one in every four of the 5 200 respondents has reduced or stopped agricultural production due to the war. Through this EU-funded project, which initially started in February 2021 with a preparation phase but then was put on hold due to the war to be repurposed to meet the current needs, in March-May 2022 emergency agricultural support was provided to over 6 000 rural households. This",
+  "date": "04 January 2023"
+}

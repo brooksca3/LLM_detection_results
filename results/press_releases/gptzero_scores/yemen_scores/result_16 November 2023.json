@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "36ed1e75-47fe-4672-86bf-55e216dd4b71",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.060645602926391005,
+        "human": 0.9224121333989347,
+        "mixed": 0.01694226367467431
+      },
+      "completely_generated_prob": 0.060645602926391005,
+      "confidence_category": "medium",
+      "confidence_score": 0.9224121333989347,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.060645602926391005,
+          "human": 0.9224121333989347,
+          "mixed": 0.01694226367467431
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.97568893432617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03226077929139137,
+          "perplexity": 80,
+          "sentence": "Reports of diphtheria cases in Yemen (to 14 October 2023) are 57% higher than in 2021 and 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05810539051890373,
+          "perplexity": 86,
+          "sentence": "Cases have risen gradually since 2021, with a significant increase noted in 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06012288108468056,
+          "perplexity": 23,
+          "sentence": "So far this year, 1671 suspected diphtheria cases have been reported in the country, with 109 associated deaths, compared with 1283 cases reported in the whole of 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07935164123773575,
+          "perplexity": 56,
+          "sentence": "Diphtheria is typically a winter illness, so the increase in cases noted from June to September 2023 marks a change from the usual seasonal pattern.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08141598850488663,
+          "perplexity": 25,
+          "sentence": "In response to the current increase in cases, WHO is working to supply Yemen's Ministry of Public Health and Population with an urgent quantity of 2200 vials of diphtheria antitoxin, which will be distributed to the most affected areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08456378430128098,
+          "perplexity": 50,
+          "sentence": "Due to the complexities of the Yemen situation, however, only 220 vials have been delivered to date, whereas the global shortage of diphtheria antitoxin affects its availability and increases prices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07968537509441376,
+          "perplexity": 192,
+          "sentence": "\u201cThe 2200 doses that WHO has secured are only enough to treat 300 severe patients, which is inadequate to address the issue,\u201d said Dr Arturo Pesigan, WHO Representative in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08618059754371643,
+          "perplexity": 34,
+          "sentence": "\u201cIt is projected that in 2024 multiple ongoing and growing outbreaks of vaccine-preventable diseases - including diphtheria - will persist, with the proportion of unvaccinated, or zero-dose, children reaching 28%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11466579139232635,
+          "perplexity": 29,
+          "sentence": "The funding shortage and issues of inaccessibility are affecting the health and lives of vulnerable people in Yemen.\u201d Among children in Yemen, there has been a significant drop in immunization rates and a correlated increase in cases of vaccine-preventable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13601338863372803,
+          "perplexity": 49,
+          "sentence": "This decline in coverage continues to worsen owing to economic deterioration, low incomes, displacement, and overcrowded living conditions in camps, coupled with an overstretched health system and chronic funding shortage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12641185522079468,
+          "perplexity": 28,
+          "sentence": "Millions of children cannot be reached by routine immunization activities, and suspected cases of vaccine-preventable diseases have",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Reports of diphtheria cases in Yemen (to 14 October 2023) are 57% higher than in 2021 and 2022. Cases have risen gradually since 2021, with a significant increase noted in 2023. So far this year, 1671 suspected diphtheria cases have been reported in the country, with 109 associated deaths, compared with 1283 cases reported in the whole of 2022. Diphtheria is typically a winter illness, so the increase in cases noted from June to September 2023 marks a change from the usual seasonal pattern. In response to the current increase in cases, WHO is working to supply Yemen\u2019s Ministry of Public Health and Population with an urgent quantity of 2200 vials of diphtheria antitoxin, which will be distributed to the most affected areas. Due to the complexities of the Yemen situation, however, only 220 vials have been delivered to date, whereas the global shortage of diphtheria antitoxin affects its availability and increases prices. \u201cThe 2200 doses that WHO has secured are only enough to treat 300 severe patients, which is inadequate to address the issue,\u201d said Dr Arturo Pesigan, WHO Representative in Yemen. \u201cIt is projected that in 2024 multiple ongoing and growing outbreaks of vaccine-preventable diseases \u2013 including diphtheria \u2013 will persist, with the proportion of unvaccinated, or zero-dose, children reaching 28%. The funding shortage and issues of inaccessibility are affecting the health and lives of vulnerable people in Yemen.\u201d Among children in Yemen, there has been a significant drop in immunization rates and a correlated increase in cases of vaccine-preventable diseases. This decline in coverage continues to worsen owing to economic deterioration, low incomes, displacement, and overcrowded living conditions in camps, coupled with an overstretched health system and chronic funding shortage. Millions of children cannot be reached by routine immunization activities, and suspected cases of vaccine-preventable diseases have",
+  "date": "16 November 2023"
+}

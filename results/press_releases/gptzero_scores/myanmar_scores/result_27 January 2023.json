@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7bae305f-81ed-4bee-8615-54da383edf11",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.157522201538086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016497795877512544,
+          "perplexity": 25,
+          "sentence": "Bangkok (Thailand) - The United Nations Office on Drugs and Crime (UNODC) opium survey for Myanmar has found that cultivation has increased significantly, reversing the downward trend of 2014 to 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015816376253496855,
+          "perplexity": 56,
+          "sentence": "The report announced today \u201cMyanmar Opium Survey 2022: Cultivation, Production and Implications\u201d has analysed data collected during the first full growing season since the military takeover, showing an increase of 33% in cultivation area to 40,100 hectares, and an 88% increase in potential yield to 790 metric tonnes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015355054347310215,
+          "perplexity": 91,
+          "sentence": "Following a moderate increase in cultivation area of 2% and yield of 4% during the 2021 season, the 2022 results confirm a significant expansion is underway of Myanmar's opium economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014329224359244108,
+          "perplexity": 109,
+          "sentence": "UNODC Regional Representative Jeremy Douglas remarked, \u201ceconomic, security and governance disruptions that followed the military takeover of February 2021 have converged, and farmers in remote often conflict prone areas in northern Shan and border states have had little option but to move back to opium.\u201d The most significant increases were registered in Shan State where cultivation went up 39%, followed by Chin and Kayah states which increased 14% and 11%, while cultivation in Kachin rose a moderate 3%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013741188740823418,
+          "perplexity": 47,
+          "sentence": "The average estimated opium yield also increased by 41% to 19.8 kg/ha - the highest value since UNODC started measuring it in 2002 - pointing to increasingly sophisticated farming practices and availability of fertilizers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013235147343948483,
+          "perplexity": 57,
+          "sentence": "The average price paid to farmers increased by 69% in 2022 to about US$280/kg even as the supply surged, demonstrating the attractiveness of opium as a crop and commodity, and strong expanding demand as the Golden Triangle opium and heroin trade appears to be reconnecting to the global market.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001286265760427341,
+          "perplexity": 34,
+          "sentence": "Combined with higher production, farmers earned more than twice as much from opium as in the previous year, although the jump in income did not necessarily translate directly into purchasing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bangkok (Thailand) \u2013 The United Nations Office on Drugs and Crime (UNODC) opium survey for Myanmar has found that cultivation has increased significantly, reversing the downward trend of 2014 to 2020. The report announced today \u201cMyanmar Opium Survey 2022: Cultivation, Production and Implications\u201d has analysed data collected during the first full growing season since the military takeover, showing an increase of 33% in cultivation area to 40,100 hectares, and an 88% increase in potential yield to 790 metric tonnes. Following a moderate increase in cultivation area of 2% and yield of 4% during the 2021 season, the 2022 results confirm a significant expansion is underway of Myanmar\u2019s opium economy. UNODC Regional Representative Jeremy Douglas remarked, \u201ceconomic, security and governance disruptions that followed the military takeover of February 2021 have converged, and farmers in remote often conflict prone areas in northern Shan and border states have had little option but to move back to opium.\u201d The most significant increases were registered in Shan State where cultivation went up 39%, followed by Chin and Kayah states which increased 14% and 11%, while cultivation in Kachin rose a moderate 3%. The average estimated opium yield also increased by 41% to 19.8 kg/ha \u2013 the highest value since UNODC started measuring it in 2002 \u2013 pointing to increasingly sophisticated farming practices and availability of fertilizers. The average price paid to farmers increased by 69% in 2022 to about US$280/kg even as the supply surged, demonstrating the attractiveness of opium as a crop and commodity, and strong expanding demand as the Golden Triangle opium and heroin trade appears to be reconnecting to the global market. Combined with higher production, farmers earned more than twice as much from opium as in the previous year, although the jump in income did not necessarily translate directly into purchasing",
+  "date": "27 January 2023"
+}

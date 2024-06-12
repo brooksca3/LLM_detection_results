@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "339011e9-40b3-450d-9d3e-b517768ed2fd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.38929748535156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017620249127503484,
+          "perplexity": 18,
+          "sentence": "A report released today by the UN's Human Rights Monitoring Mission in Ukraine (HRMMU) said older people suffered and died at a disproportionately high rate as a result of Russia's armed attack on Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001658016408327967,
+          "perplexity": 27,
+          "sentence": "It said that even though people over 60 represent a fourth of Ukraine's population they account for almost one third of civilians killed during the first 12 months of the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001677189429756254,
+          "perplexity": 20,
+          "sentence": "The UN called on Russia to cease its attack against Ukraine and to grant immediate and unfettered access to its human rights monitors to areas of Ukraine occupied by the Russian armed forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016524245438631624,
+          "perplexity": 52,
+          "sentence": "The UN report said on some occasions Russian armed forces forced civilians, including elderly people to remain in basements for weeks in dire conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016800028970465064,
+          "perplexity": 51,
+          "sentence": "In one case cited in the report, 360 civilians were confined to an overcrowded school basement in the village Yahidne in Ukraine's Chernihiv region without toilet facilities, clean water, or ventilation for nearly a month, resulting in the deaths of ten elderly persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016083788068499416,
+          "perplexity": 41,
+          "sentence": "The report said UN human rights monitors documented several cases of older people with limited mobility who died in hostilities simply because they were not able to reach a bomb shelter on time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015240210632327944,
+          "perplexity": 40,
+          "sentence": "As Russian troops occupied the eastern town of Izium in March of 2022, a disabled woman in her mid-sixties burned to death when the building where she lived was shelled and caught fire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013788018259219825,
+          "perplexity": 34,
+          "sentence": "The UN found that older people on both sides of the frontline were hit exceptionally hard by power outages, water cuts as well as a lack of access to health services, medication and pensions that for most were the only source of income.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014631445810664445,
+          "perplexity": 131,
+          "sentence": "Those depending entirely on their old age pensions for survival had to undertake perilous journeys across frontline areas to collect their pensions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014508426829706877,
+          "perplexity": 58,
+          "sentence": "The report noted that",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A report released today by the UN\u2019s Human Rights Monitoring Mission in Ukraine (HRMMU) said older people suffered and died at a disproportionately high rate as a result of Russia\u2019s armed attack on Ukraine. It said that even though people over 60 represent a fourth of Ukraine\u2019s population they account for almost one third of civilians killed during the first 12 months of the conflict. The UN called on Russia to cease its attack against Ukraine and to grant immediate and unfettered access to its human rights monitors to areas of Ukraine occupied by the Russian armed forces. The UN report said on some occasions Russian armed forces forced civilians, including elderly people to remain in basements for weeks in dire conditions. In one case cited in the report, 360 civilians were confined to an overcrowded school basement in the village Yahidne in Ukraine\u2019s Chernihiv region without toilet facilities, clean water, or ventilation for nearly a month, resulting in the deaths of ten elderly persons. The report said UN human rights monitors documented several cases of older people with limited mobility who died in hostilities simply because they were not able to reach a bomb shelter on time. As Russian troops occupied the eastern town of Izium in March of 2022, a disabled woman in her mid-sixties burned to death when the building where she lived was shelled and caught fire. The UN found that older people on both sides of the frontline were hit exceptionally hard by power outages, water cuts as well as a lack of access to health services, medication and pensions that for most were the only source of income. Those depending entirely on their old age pensions for survival had to undertake perilous journeys across frontline areas to collect their pensions. The report noted that",
+  "date": "24 May 2023"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4589e6b1-7c94-400e-833d-9a307c0525f8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.639122009277344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012580869952216744,
+          "perplexity": 48,
+          "sentence": "Baghdad 30 October 2023: The United Nations Investigative Team to Promote Accountability for Crimes committed by Da'esh/ISIL (UNITAD) launched a Program of Cooperation with al-Alamain Institute for Graduate Studies, which was signed during a visit by Special Adviser and Head of UNITAD, Christian Ritscher to the Institute at Najaf on 29 October 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001272445369977504,
+          "perplexity": 74,
+          "sentence": "Upon an invitation from al-Alamain Institute, Special Adviser Ritscher delivered a lecture to postgraduate Master's and Doctoral students at the center, who pursue their advanced studies in law, political sciences and communications.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012959363812115043,
+          "perplexity": 71,
+          "sentence": "He provided an overview on the Investigative Team and its work in cooperation with Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001301022566622123,
+          "perplexity": 72,
+          "sentence": "He was invited to briefly visit two ongoing classrooms and engaged in discussions with professors and students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012581984628923237,
+          "perplexity": 141,
+          "sentence": "\u201cThis exemplary and practical work is a manifestation of our role as a Team of the United Nations designed to support national capacities, in line with its mandate to promote accountability for ISIL international crimes,\u201d said Special Adviser Ritscher during his lecture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012645131209865212,
+          "perplexity": 75,
+          "sentence": "\u201cI look forward to seeing this enhanced cooperation happen through the implementation of this Program over the coming months.\u201d The Program of cooperation, signed by Special Adviser Christian Ritscher and Professor Dr. Zayd Adnan Muhsin, Dean of the Institute will facilitate and enhance the sharing of expertise between UNITAD's experts and the academic community at the postgraduate level in al-Alamain Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012090277596144006,
+          "perplexity": 81,
+          "sentence": "This cooperation builds on UNITAD's commitment to support Iraqi national capacities in areas related to the Team's mandate, including by advancing the relevant academic and scholarly aspects for postgraduate students at the Institute.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011404840188333765,
+          "perplexity": 76,
+          "sentence": "\u201cThis visit happens following diligence efforts between al-Alamain Center for Graduate Studies and UNITAD over the past few months, and here we are picking the fruits of those efforts through the signing of this important cooperation program,\u201d said Dr. Ibrahim Bahr al-Uloom, General Supervisor of al-Alamain Institute",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad 30 October 2023: The United Nations Investigative Team to Promote Accountability for Crimes committed by Da\u2019esh/ISIL (UNITAD) launched a Program of Cooperation with al-Alamain Institute for Graduate Studies, which was signed during a visit by Special Adviser and Head of UNITAD, Christian Ritscher to the Institute at Najaf on 29 October 2023. Upon an invitation from al-Alamain Institute, Special Adviser Ritscher delivered a lecture to postgraduate Master\u2019s and Doctoral students at the center, who pursue their advanced studies in law, political sciences and communications. He provided an overview on the Investigative Team and its work in cooperation with Iraq. He was invited to briefly visit two ongoing classrooms and engaged in discussions with professors and students. \u201cThis exemplary and practical work is a manifestation of our role as a Team of the United Nations designed to support national capacities, in line with its mandate to promote accountability for ISIL international crimes,\u201d said Special Adviser Ritscher during his lecture. \u201cI look forward to seeing this enhanced cooperation happen through the implementation of this Program over the coming months.\u201d The Program of cooperation, signed by Special Adviser Christian Ritscher and Professor Dr. Zayd Adnan Muhsin, Dean of the Institute will facilitate and enhance the sharing of expertise between UNITAD\u2019s experts and the academic community at the postgraduate level in al-Alamain Center. This cooperation builds on UNITAD\u2019s commitment to support Iraqi national capacities in areas related to the Team\u2019s mandate, including by advancing the relevant academic and scholarly aspects for postgraduate students at the Institute. \u201cThis visit happens following diligence efforts between al-Alamain Center for Graduate Studies and UNITAD over the past few months, and here we are picking the fruits of those efforts through the signing of this important cooperation program,\u201d said Dr. Ibrahim Bahr al-Uloom, General Supervisor of al-Alamain Institute",
+  "date": "31 October 2023"
+}

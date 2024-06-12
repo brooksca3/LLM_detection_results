@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2e6c6f84-1282-41b1-b5d6-844f73351872",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07488156391803412,
+        "human": 0.9243444664290662,
+        "mixed": 0.0007739696528995774
+      },
+      "completely_generated_prob": 0.07488156391803412,
+      "confidence_category": "medium",
+      "confidence_score": 0.9243444664290662,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07488156391803412,
+          "human": 0.9243444664290662,
+          "mixed": 0.0007739696528995774
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.591100692749023,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1167585626244545,
+          "perplexity": 19,
+          "sentence": "Khartoum - The combined effects of conflict, economic crisis, and poor harvests are significantly affecting people's access to food and will likely double the number of people facing acute hunger in Sudan to more than 18 million people by September 2022, warns the United Nations Food and Agriculture Organization (FAO) and the World Food Programme (WFP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11628992855548859,
+          "perplexity": 70,
+          "sentence": "\u201cThere are already worrying signs that access, affordability, and the availability of food is shrinking for most people in Sudan, which is pushing more people deeper into poverty and hunger,\u201d said Eddie Rowe, WFP Representative and Country Director in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12278575450181961,
+          "perplexity": 9,
+          "sentence": "In recent months, there has been a surge in the numbers of people displaced due to conflict in parts of Darfur and the Kordofan region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.127405047416687,
+          "perplexity": 93,
+          "sentence": "This insecurity has eroded livelihoods, damaged farms, and triggered widespread unemployment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1226385086774826,
+          "perplexity": 30,
+          "sentence": "The depreciation of the Sudanese Pound (SDG) in addition to rising food and transportation costs are making it harder for families to put food on the table.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12167253345251083,
+          "perplexity": 48,
+          "sentence": "A lack of access to hard currencies is likely to result in the SDG further depreciating.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11070907115936279,
+          "perplexity": 36,
+          "sentence": "The Crop and Food Security Assessment Mission (CFSAM) report by FAO and WFP indicates that the domestic cereal production from the 2021/22 agricultural season is expected to produce 5.1 million metric tons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11248450726270676,
+          "perplexity": 42,
+          "sentence": "This will only cover the needs of less than two thirds of the population, leaving many reliant on humanitarian food assistance and dependant on imports of essential grains at prices beyond the reach of most people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11260955035686493,
+          "perplexity": 27,
+          "sentence": "\u201cRising food prices and scarcity of essential agricultural inputs such as fertilizers and seeds mean that farmers have no other option than to abandon food production if they do not receive immediate support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12052683532238007,
+          "perplexity": 41,
+          "sentence": "This will likely have grave consequences not only for their food security but also on food availability in Sudan and may ultimately lead to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Khartoum \u2013 The combined effects of conflict, economic crisis, and poor harvests are significantly affecting people\u2019s access to food and will likely double the number of people facing acute hunger in Sudan to more than 18 million people by September 2022, warns the United Nations Food and Agriculture Organization (FAO) and the World Food Programme (WFP). \u201cThere are already worrying signs that access, affordability, and the availability of food is shrinking for most people in Sudan, which is pushing more people deeper into poverty and hunger,\u201d said Eddie Rowe, WFP Representative and Country Director in Sudan. In recent months, there has been a surge in the numbers of people displaced due to conflict in parts of Darfur and the Kordofan region. This insecurity has eroded livelihoods, damaged farms, and triggered widespread unemployment. The depreciation of the Sudanese Pound (SDG) in addition to rising food and transportation costs are making it harder for families to put food on the table. A lack of access to hard currencies is likely to result in the SDG further depreciating. The Crop and Food Security Assessment Mission (CFSAM) report by FAO and WFP indicates that the domestic cereal production from the 2021/22 agricultural season is expected to produce 5.1 million metric tons. This will only cover the needs of less than two thirds of the population, leaving many reliant on humanitarian food assistance and dependant on imports of essential grains at prices beyond the reach of most people. \u201cRising food prices and scarcity of essential agricultural inputs such as fertilizers and seeds mean that farmers have no other option than to abandon food production if they do not receive immediate support. This will likely have grave consequences not only for their food security but also on food availability in Sudan and may ultimately lead to",
+  "date": "23 March 2022"
+}

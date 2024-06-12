@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ff854727-b322-4dc6-9bc6-3f7a92465f24",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.24556350708008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002451945620123297,
+          "perplexity": 148,
+          "sentence": "A new website in Creole launched on United Nations Day* by the UN in Haiti will \u201creflect on and project the concerns of people across Haiti\u201d according to the UN Resident and Humanitarian Coordinator, Ulrika Richardson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024107759236358106,
+          "perplexity": 82,
+          "sentence": "It is the first time the UN Country Team which includes UN humanitarian and development agencies has published a website in Haitian Creole.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029381256899796426,
+          "perplexity": 78,
+          "sentence": "[https://haiti.un.org/ht] \u201cI'm proud to launch this Creole version of the UN Haiti website, which we believe will make the United Nations more accessible to a greater number of Haitian people,\u201d said Ms Richardson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030091343796812,
+          "perplexity": 34,
+          "sentence": "\u201cIt is especially important during times of crisis that people understand the role of the United Nations in Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026070515741594136,
+          "perplexity": 28,
+          "sentence": "We hope this website will generate interest and an increased recognition of the UN and our partnerships in support of local, regional and national authorities and other actors such as private sector and civil society.\u201d The website, which is also available in French and English, highlights the challenges Haiti faces, but also the country's great potential and how the United Nations is collaborating with Haitians to explore these opportunities and find solutions that will help accelerate the country's progress on sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022771193471271545,
+          "perplexity": 95,
+          "sentence": "\u201cHuman-focused articles which tell the stories of women, men and children from across the country feature prominently on the website,\u201d said Ms Richardson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002393317554378882,
+          "perplexity": 49,
+          "sentence": "Welcoming the launch of the website, Renauld Govain, the Dean of Linguistics at Haiti State University, said it demonstrates the UN is \u201cbeginning to understand the didactic role it must play in the formation and social transformation of communities through information.\u201d The website was launched with a range of stories providing information about the recent outbreak of cholera in Port-au-Prince.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024024510639719665,
+          "perplexity": 96,
+          "sentence": "It also features an archive of stories from the Faces of Recovery series which highlights how people affected by the August 2021 earthquake in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new website in Creole launched on United Nations Day* by the UN in Haiti will \u201creflect on and project the concerns of people across Haiti\u201d according to the UN Resident and Humanitarian Coordinator, Ulrika Richardson. It is the first time the UN Country Team which includes UN humanitarian and development agencies has published a website in Haitian Creole. [https://haiti.un.org/ht] \u201cI\u2019m proud to launch this Creole version of the UN Haiti website, which we believe will make the United Nations more accessible to a greater number of Haitian people,\u201d said Ms Richardson. \u201cIt is especially important during times of crisis that people understand the role of the United Nations in Haiti. We hope this website will generate interest and an increased recognition of the UN and our partnerships in support of local, regional and national authorities and other actors such as private sector and civil society.\u201d The website, which is also available in French and English, highlights the challenges Haiti faces, but also the country\u2019s great potential and how the United Nations is collaborating with Haitians to explore these opportunities and find solutions that will help accelerate the country\u2019s progress on sustainable development. \u201cHuman-focused articles which tell the stories of women, men and children from across the country feature prominently on the website,\u201d said Ms Richardson. Welcoming the launch of the website, Renauld Govain, the Dean of Linguistics at Haiti State University, said it demonstrates the UN is \u201cbeginning to understand the didactic role it must play in the formation and social transformation of communities through information.\u201d The website was launched with a range of stories providing information about the recent outbreak of cholera in Port-au-Prince. It also features an archive of stories from the Faces of Recovery series which highlights how people affected by the August 2021 earthquake in",
+  "date": "24 October 2022"
+}

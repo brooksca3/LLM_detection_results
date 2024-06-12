@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "256bfab9-10f7-4b7b-b311-ab6f7e130c33",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10562879617416508,
+        "human": 0.893121528627087,
+        "mixed": 0.0012496751987478862
+      },
+      "completely_generated_prob": 0.10562879617416508,
+      "confidence_category": "medium",
+      "confidence_score": 0.893121528627087,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10562879617416508,
+          "human": 0.893121528627087,
+          "mixed": 0.0012496751987478862
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.77577781677246,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0017461992101743817,
+          "perplexity": 64,
+          "sentence": "Baghdad, 13 October 2023 - Following up the meeting between the Director General of the Food and Agriculture Organization of the United Nations (FAO), Dr QU Dongyu, and His Excellency the President of the Republic of Iraq, Abdul Latif Rashid, during the UN 2023 Water Conference which underscored Iraq's commitment to finding sustainable solutions to the country's multiple environmental and agricultural challenges, a dedicated team from the organization's headquarters successfully concluded a mission to the Republic of Iraq from 10 to12 October.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015553205739706755,
+          "perplexity": 71,
+          "sentence": "Led by Mr LI Lifeng, Director of the Land and Water division (NSL), and accompanied by Ms Fidaa Haddad, Forestry Officer of Forestry division, Mr Jacopo Monzini, Senior Natural Resources Management Officer of Investment Centre and Mr Feras Ziadat, NSL officer, the working group closely assessed Iraq's diverse environmental and agricultural challenges and potential solutions, including water harvesting and storage, modern irrigation, combatting sand and dust storms, afforestation, wastewater treatment and re-use, drought tolerant crops.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.23285353183746338,
+          "perplexity": 28,
+          "sentence": "Accompanied by FAO Representative in Iraq, Dr. Salah El Hajj Hassan, and his team, the mission participated in important meetings with key Iraqi high-level officials including a Grand Audience with the President of the Republic, productive discussions with the Prime Minister's Advisory Committee, collaborative dialogues with His Excellency the Minister of Water Resources, Mr. Awn Dhiab Abdullah, their Excellencies the Technical Deputy of the Ministry of Environment, Dr. Jasim Abdul Aziz Hamadi, the Deputy Minister of Foreign Affairs for Bilateral Relations, Ambassador Mohammed Bahar Al-Ulum, and the Technical Deputy of the Ministry of Agriculture, Dr. Mithaq Al-Khafaji.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2226300686597824,
+          "perplexity": 90,
+          "sentence": "In addition to these significant meetings, the delegation convened with members of the UN Country Team Priority Working Group promoting Natural Resource and Disaster Risk Management, and Climate Change Resilience (PWG4).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2583332061767578,
+          "perplexity": 13,
+          "sentence": "This meeting, which was also attended by a representative of the office of the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 13 October 2023 - Following up the meeting between the Director General of the Food and Agriculture Organization of the United Nations (FAO), Dr QU Dongyu, and His Excellency the President of the Republic of Iraq, Abdul Latif Rashid, during the UN 2023 Water Conference which underscored Iraq's commitment to finding sustainable solutions to the country\u2019s multiple environmental and agricultural challenges, a dedicated team from the organization\u2019s headquarters successfully concluded a mission to the Republic of Iraq from 10 to12 October. Led by Mr LI Lifeng, Director of the Land and Water division (NSL), and accompanied by Ms Fidaa Haddad, Forestry Officer of Forestry division, Mr Jacopo Monzini, Senior Natural Resources Management Officer of Investment Centre and Mr Feras Ziadat, NSL officer, the working group closely assessed Iraq's diverse environmental and agricultural challenges and potential solutions, including water harvesting and storage, modern irrigation, combatting sand and dust storms , afforestation, wastewater treatment and re-use, drought tolerant crops. Accompanied by FAO Representative in Iraq, Dr. Salah El Hajj Hassan, and his team, the mission participated in important meetings with key Iraqi high-level officials including a Grand Audience with the President of the Republic, productive discussions with the Prime Minister's Advisory Committee, collaborative dialogues with His Excellency the Minister of Water Resources, Mr. Awn Dhiab Abdullah, their Excellencies the Technical Deputy of the Ministry of Environment, Dr. Jasim Abdul Aziz Hamadi, the Deputy Minister of Foreign Affairs for Bilateral Relations, Ambassador Mohammed Bahar Al-Ulum, and the Technical Deputy of the Ministry of Agriculture, Dr. Mithaq Al-Khafaji. In addition to these significant meetings, the delegation convened with members of the UN Country Team Priority Working Group promoting Natural Resource and Disaster Risk Management, and Climate Change Resilience (PWG4). This meeting, which was also attended by a representative of the office of the",
+  "date": "15 October 2023"
+}

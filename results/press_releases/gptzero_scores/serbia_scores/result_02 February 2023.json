@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6304f9d6-2a01-46e1-8643-7923ee414d2e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.760833740234375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0027663588989526033,
+          "perplexity": 145,
+          "sentence": "Today, the USAID Serbia Mission Director Brooke Isham and UNDP Serbia Resident Representative Yakup Beris together with the Acting Director of the Primary Health Care Center (PHCC) 'Zvezdara' dr Aleksandra Mitrovic visited the premises of the pediatric ward in the health station Mali Mokri Lug.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0044014728628098965,
+          "perplexity": 39,
+          "sentence": "Thanks to a donation from the American people, these premises have been fully equipped with medical devices to improve the health care of the youngest population in this local community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003990913275629282,
+          "perplexity": 69,
+          "sentence": "The USAID donation consists of scales for measuring height and weight, blood pressure measuring devices, stethoscopes, ECG device, accessories for small surgical interventions, as well as necessary small equipment such as thermometers, neurological hammers, and furniture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0043436395935714245,
+          "perplexity": 24,
+          "sentence": "This equipment will be used for physical examinations of children with acute and chronic diseases, as well as for preventive examinations and vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0056752413511276245,
+          "perplexity": 35,
+          "sentence": "USAID Mission Director in Serbia, Brooke Isham said that this donation is part of the more than $12 million dollars in assistance that the U.S. Government has provided to help Serbia to mitigate the impact of COVID-19 and provide better health services for its people, and added: \u201cI think it is important to note that much of the support for health services we provided to Serbia - like the fourteen ambulances, the various types of equipment like x-ray machines and oxygenators and the renovated facilities here and at facilities like Batut and INEP and throughout the country - can, and will, continue to be used by Serbian healthcare professionals for years to come.\u201d \u201cAll citizens have a right to quality and accessible health care, and distance cannot be an obstacle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005242204759269953,
+          "perplexity": 114,
+          "sentence": "In the last eight months, we opened the ORL Outpatient Unit in Mirijevo and two Diabetic Counseling Units.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004858740605413914,
+          "perplexity": 124,
+          "sentence": "At the initiative of citizens of Mali Mokri Lug, and with the support from USAID and UNDP, today",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, the USAID Serbia Mission Director Brooke Isham and UNDP Serbia Resident Representative Yakup Beris together with the Acting Director of the Primary Health Care Center (PHCC) \u2018Zvezdara\u2019 dr Aleksandra Mitrovic visited the premises of the pediatric ward in the health station Mali Mokri Lug. Thanks to a donation from the American people, these premises have been fully equipped with medical devices to improve the health care of the youngest population in this local community. The USAID donation consists of scales for measuring height and weight, blood pressure measuring devices, stethoscopes, ECG device, accessories for small surgical interventions, as well as necessary small equipment such as thermometers, neurological hammers, and furniture. This equipment will be used for physical examinations of children with acute and chronic diseases, as well as for preventive examinations and vaccination. USAID Mission Director in Serbia, Brooke Isham said that this donation is part of the more than $12 million dollars in assistance that the U.S. Government has provided to help Serbia to mitigate the impact of COVID-19 and provide better health services for its people, and added: \u201cI think it is important to note that much of the support for health services we provided to Serbia \u2013 like the fourteen ambulances, the various types of equipment like x-ray machines and oxygenators and the renovated facilities here and at facilities like Batut and INEP and throughout the country \u2013 can, and will, continue to be used by Serbian healthcare professionals for years to come.\u201d \u201cAll citizens have a right to quality and accessible health care, and distance cannot be an obstacle. In the last eight months, we opened the ORL Outpatient Unit in Mirijevo and two Diabetic Counseling Units. At the initiative of citizens of Mali Mokri Lug, and with the support from USAID and UNDP, today",
+  "date": "02 February 2023"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ac0cd842-d825-4814-9233-43cd7a4ac3d3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.912879943847656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005901539116166532,
+          "perplexity": 24,
+          "sentence": "Naypyitaw, Myanmar - The United Nations World Food Programme (WFP) today warned of rising food and fuel prices as the current political unrest starts to impact supply chains and markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005293977446854115,
+          "perplexity": 24,
+          "sentence": "WFP's food price monitoring shows that food prices are trending upwards in some urban areas with the retail price of palm oil up 20 percent since the start of February in the peri-urban areas of the main city Yangon, and rice prices in the peri-urban areas of Yangon and Mandalay also up 4 percent since the last week of February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006121594924479723,
+          "perplexity": 33,
+          "sentence": "Across the country, the cost of rice showed an average increase of 3 percent on monitored markets from mid-January to mid-February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005671374965459108,
+          "perplexity": 44,
+          "sentence": "However, in a few townships in Kachin state, such as Bhamo and Putao, the increases are 20-35 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006038532010279596,
+          "perplexity": 173,
+          "sentence": "\u201cThese initial signs are troubling, especially for the most vulnerable people who were already living meal-to-meal,\u201d said WFP Myanmar Country Director Stephen Anderson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005675561260432005,
+          "perplexity": 44,
+          "sentence": "\u201cComing on top of the COVID-19 pandemic, if these price trends continue they will severely undermine the ability of the poorest and most vulnerable to put enough food on the family table.\u201d Steep spikes in oil prices have been observed in northern Rakhine where the average retail price of cooking oil increased by 27 percent from January to February, and in Maungdaw township the price of pulses jumped 15 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006601435597985983,
+          "perplexity": 45,
+          "sentence": "Increases in the price of cooking oil have also been observed in central Rakhine State (11 percent) and in Tanintharyi Region (14 percent).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000788212928455323,
+          "perplexity": 47,
+          "sentence": "WFP has also noted an increase of 15 percent in the cost of fuel countrywide since 1 February, raising concerns about further food price hikes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007885390077717602,
+          "perplexity": 20,
+          "sentence": "In northern Rakhine, the price of petrol has increased by 33 percent and diesel by 29 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010093229357153177,
+          "perplexity": 71,
+          "sentence": "These rising food and fuel prices are compounded by the near paralysis of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Naypyitaw, Myanmar \u2013 The United Nations World Food Programme (WFP) today warned of rising food and fuel prices as the current political unrest starts to impact supply chains and markets. WFP\u2019s food price monitoring shows that food prices are trending upwards in some urban areas with the retail price of palm oil up 20 percent since the start of February in the peri-urban areas of the main city Yangon, and rice prices in the peri-urban areas of Yangon and Mandalay also up 4 percent since the last week of February. Across the country, the cost of rice showed an average increase of 3 percent on monitored markets from mid-January to mid-February. However, in a few townships in Kachin state, such as Bhamo and Putao, the increases are 20-35 percent. \u201cThese initial signs are troubling, especially for the most vulnerable people who were already living meal-to-meal,\u201d said WFP Myanmar Country Director Stephen Anderson. \u201cComing on top of the COVID-19 pandemic, if these price trends continue they will severely undermine the ability of the poorest and most vulnerable to put enough food on the family table.\u201d Steep spikes in oil prices have been observed in northern Rakhine where the average retail price of cooking oil increased by 27 percent from January to February, and in Maungdaw township the price of pulses jumped 15 percent. Increases in the price of cooking oil have also been observed in central Rakhine State (11 percent) and in Tanintharyi Region (14 percent). WFP has also noted an increase of 15 percent in the cost of fuel countrywide since 1 February, raising concerns about further food price hikes. In northern Rakhine, the price of petrol has increased by 33 percent and diesel by 29 percent. These rising food and fuel prices are compounded by the near paralysis of",
+  "date": "16 March 2021"
+}

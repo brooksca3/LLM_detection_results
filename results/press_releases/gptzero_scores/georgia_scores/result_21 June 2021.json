@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "da575bd7-1480-40f6-9d6c-cc3b6252b063",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 119.71036529541016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022748930496163666,
+          "perplexity": 26,
+          "sentence": "The field presence of the Office of the United Nations High Commissioner for Human Rights (UN OHCHR) in the South Caucasus has been promoting the culture and spirit of human rights amongst the representatives of all public and non-governmental sector bodies in Georgia, inter alia on: prohibition of torture and other forms of ill-treatment, hate crimes, discrimination primarily on the grounds of religious belonging, ethnicity and sexual orientation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022570000146515667,
+          "perplexity": 25,
+          "sentence": "To serve this very end, on 12 - 21 June 2021, within the framework of European Union (EU) and United Nations (UN) Joint Program Human Rights for All - Phase Two a series of trainings and workshops were held, in which over 200 representatives from various institutions participated (Parliament of Georgia; Ministry of Justice of Georgia; Ministry of Internal Affairs of Georgia; Prosecutor's Office of Georgia; Ministry of Internally Displaced Persons from the Occupied Territories, Labor, Health and Social Affairs of Georgia; Public Defender (Ombudsman) of Georgia; Legal Aid Service; State Inspector's Service; Georgian Bar Association).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002124327584169805,
+          "perplexity": 40,
+          "sentence": "Interactive training programme for the doctors of the Special Penitentiary Service of Georgia covered a wide range of issues, including the standard for documentation of torture and other cruel, inhuman or degrading treatment or punishment, in-depth study and analysis of the Istanbul Protocol, methodology for conducting interviews of accused/convicts in penitentiary institutions according to international standards and documenting injuries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020842767844442278,
+          "perplexity": 81,
+          "sentence": "One of the participants of this training, Rusudan believes that such events are very important, especially for practicing doctors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020577771647367626,
+          "perplexity": 52,
+          "sentence": "\"At the training we talked a lot about the importance of using different methods of interviewing the accused/convicts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020004017278552055,
+          "perplexity": 95,
+          "sentence": "Once again analyzed the international standards and shared an experience of documenting cases of torture and other cruel, inhuman or degrading treatment, which we will actively use in practice.\u201d - she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001933608145918697,
+          "perplexity": 362,
+          "sentence": "During the training of lawyers representing the Georgian",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The field presence of the Office of the United Nations High Commissioner for Human Rights (UN OHCHR) in the South Caucasus has been promoting the culture and spirit of human rights amongst the representatives of all public and non-governmental sector bodies in Georgia, inter alia on: prohibition of torture and other forms of ill-treatment, hate crimes, discrimination primarily on the grounds of religious belonging, ethnicity and sexual orientation. To serve this very end, on 12 \u2013 21 June 2021, within the framework of European Union (EU) and United Nations (UN) Joint Program Human Rights for All - Phase Two a series of trainings and workshops were held, in which over 200 representatives from various institutions participated (Parliament of Georgia; Ministry of Justice of Georgia; Ministry of Internal Affairs of Georgia; Prosecutor\u2019s Office of Georgia; Ministry of Internally Displaced Persons from the Occupied Territories, Labor, Health and Social Affairs of Georgia; Public Defender (Ombudsman) of Georgia; Legal Aid Service; State Inspector\u2019s Service; Georgian Bar Association). Interactive training programme for the doctors of the Special Penitentiary Service of Georgia covered a wide range of issues, including the standard for documentation of torture and other cruel, inhuman or degrading treatment or punishment, in-depth study and analysis of the Istanbul Protocol, methodology for conducting interviews of accused/convicts in penitentiary institutions according to international standards and documenting injuries. One of the participants of this training, Rusudan believes that such events are very important, especially for practicing doctors. \"At the training we talked a lot about the importance of using different methods of interviewing the accused/convicts. Once again analyzed the international standards and shared an experience of documenting cases of torture and other cruel, inhuman or degrading treatment, which we will actively use in practice.\u201d \u2013 she said. During the training of lawyers representing the Georgian",
+  "date": "21 June 2021"
+}

@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5585b43b-d388-4cc5-9162-b8c031d44bdb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.98332977294922,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004908595699816942,
+          "perplexity": 33,
+          "sentence": "\"I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA's operations\", UN Secretary General The United Nations is taking swift action following the extremely serious allegations against several UN Relief and Works Agency (UNRWA) staff members.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004943576641380787,
+          "perplexity": 35,
+          "sentence": "An investigation by the UN's Office of Internal Oversight Services (OIOS) was immediately activated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004563425201922655,
+          "perplexity": 38,
+          "sentence": "Of the 12 people implicated, nine were immediately identified and terminated by the Commissioner-General of UNRWA, Philippe Lazzarini; one is confirmed dead, and the identity of the two others is being clarified.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00391920143738389,
+          "perplexity": 37,
+          "sentence": "Any UN employee involved in acts of terror will be held accountable, including through criminal prosecution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032198235858231783,
+          "perplexity": 42,
+          "sentence": "The Secretariat is ready to cooperate with a competent authority able to prosecute the individuals in line with the Secretariat's normal procedures for such cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003792806528508663,
+          "perplexity": 75,
+          "sentence": "UNRWA had also previously announced a full, independent review of the organization on 17 January.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003377877175807953,
+          "perplexity": 42,
+          "sentence": "Meanwhile, 2 million civilians in Gaza depend on critical aid from UNRWA for daily survival but UNRWA's current funding will not allow it to meet all requirements to support them in February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005071825347840786,
+          "perplexity": 58,
+          "sentence": "While I understand their concerns - I was myself horrified by these accusations - I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA's operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005070068873465061,
+          "perplexity": 150,
+          "sentence": "The abhorrent alleged acts of these staff members must have consequences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004169755149632692,
+          "perplexity": 16,
+          "sentence": "But the tens of thousands of men and women who work for UNRWA, many in some of the most dangerous situations for humanitarian workers, should not be penalized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0049705044366419315,
+          "perplexity": 68,
+          "sentence": "The dire needs of the desperate populations they serve must be met.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\"I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA\u2019s operations\", UN Secretary General The United Nations is taking swift action following the extremely serious allegations against several UN Relief and Works Agency (UNRWA) staff members. An investigation by the UN\u2019s Office of Internal Oversight Services (OIOS) was immediately activated. Of the 12 people implicated, nine were immediately identified and terminated by the Commissioner-General of UNRWA, Philippe Lazzarini; one is confirmed dead, and the identity of the two others is being clarified. Any UN employee involved in acts of terror will be held accountable, including through criminal prosecution. The Secretariat is ready to cooperate with a competent authority able to prosecute the individuals in line with the Secretariat\u2019s normal procedures for such cooperation. UNRWA had also previously announced a full, independent review of the organization on 17 January. Meanwhile, 2 million civilians in Gaza depend on critical aid from UNRWA for daily survival but UNRWA\u2019s current funding will not allow it to meet all requirements to support them in February. While I understand their concerns \u2013 I was myself horrified by these accusations - I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA\u2019s operations. The abhorrent alleged acts of these staff members must have consequences. But the tens of thousands of men and women who work for UNRWA, many in some of the most dangerous situations for humanitarian workers, should not be penalized. The dire needs of the desperate populations they serve must be met.",
+  "date": "28 January 2024"
+}

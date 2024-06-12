@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4dddec5a-b595-4c41-bca4-feb4c37de547",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.8270149230957,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017559634579811245,
+          "perplexity": 12,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks at the 19th Summit of the Non-Aligned Movement, in Kampala, 20 January: I congratulate Uganda on its chairmanship of the Non-Aligned Movement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001595232606632635,
+          "perplexity": 16,
+          "sentence": "In the midst of the Cold War, its architects -- leaders like Jawaharlal Nehru, Josip Broz Tito, Gamal Abdel Nasser and others -- worked to advance cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017441906675230712,
+          "perplexity": 113,
+          "sentence": "Supporting countries as they travelled the path to full decolonization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016018890892155468,
+          "perplexity": 52,
+          "sentence": "And championing the pillars of peace -- dialogue, diplomacy and co-operation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017398287309333682,
+          "perplexity": 34,
+          "sentence": "We see clear convergence between the principles of the UN Charter and the Bandung principles of the Non-Aligned Movement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016112228331621736,
+          "perplexity": 35,
+          "sentence": "And you have an important role at the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015045332838781178,
+          "perplexity": 34,
+          "sentence": "As supporters of our work to uphold the United Nations Charter, international law and human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015200258349068463,
+          "perplexity": 152,
+          "sentence": "As champions of solidarity in times of crisis -- including during and after the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001655739761190489,
+          "perplexity": 83,
+          "sentence": "And in your strong call for the elimination of nuclear weapons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017272004333790392,
+          "perplexity": 29,
+          "sentence": "And the developing world faces its weakest economic growth in decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001401806657668203,
+          "perplexity": 98,
+          "sentence": "And more countries than ever are struggling with debt distress or default.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001588967425050214,
+          "perplexity": 15,
+          "sentence": "Human rights, international law, the Geneva Conventions, and the UN Charter are being flouted with impunity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001465596433263272,
+          "perplexity": 107,
+          "sentence": "And conflicts are raging and proliferating -- from Sudan to Ukraine to Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015059614088386297,
+          "perplexity": 36,
+          "sentence": "Following the abhorrent Hamas attacks on 7 October, the wholesale destruction of Gaza and the number of civilian casualties caused by the Israeli army in such a short period are totally unprecedented during my mandate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015272333985194564,
+          "perplexity": 67,
+          "sentence": "And this includes 152 of our own UN staff members -- a heartbreaking tragedy for our organization, for their families, and for those they were serving in Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001475370954722166,
+          "perplexity": 54,
+          "sentence": "While humanitarian workers are doing their best to deliver relief, they face constant bombardments, daily dangers to themselves and their families, and the enormous constraints posed by damaged roads, communication blackouts and access denials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014410974108614028,
+          "perplexity": 53,
+          "sentence": "People are",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks at the 19th Summit of the Non-Aligned Movement, in Kampala, 20 January: I congratulate Uganda on its chairmanship of the Non-Aligned Movement. In the midst of the Cold War, its architects -- leaders like Jawaharlal Nehru, Josip Broz Tito, Gamal Abdel Nasser and others -- worked to advance cooperation. Supporting countries as they travelled the path to full decolonization. And championing the pillars of peace -- dialogue, diplomacy and co-operation. We see clear convergence between the principles of the UN Charter and the Bandung principles of the Non-Aligned Movement. And you have an important role at the United Nations. As supporters of our work to uphold the United Nations Charter, international law and human rights. As champions of solidarity in times of crisis -- including during and after the COVID-19 pandemic. And in your strong call for the elimination of nuclear weapons. And the developing world faces its weakest economic growth in decades. And more countries than ever are struggling with debt distress or default. Human rights, international law, the Geneva Conventions, and the UN Charter are being flouted with impunity. And conflicts are raging and proliferating -- from Sudan to Ukraine to Gaza. Following the abhorrent Hamas attacks on 7 October, the wholesale destruction of Gaza and the number of civilian casualties caused by the Israeli army in such a short period are totally unprecedented during my mandate. And this includes 152 of our own UN staff members -- a heartbreaking tragedy for our organization, for their families, and for those they were serving in Gaza. While humanitarian workers are doing their best to deliver relief, they face constant bombardments, daily dangers to themselves and their families, and the enormous constraints posed by damaged roads, communication blackouts and access denials. People are",
+  "date": "21 January 2024"
+}

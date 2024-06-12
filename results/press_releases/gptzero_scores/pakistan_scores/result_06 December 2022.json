@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f2b70c4c-dab4-4534-8615-44a35c9b16eb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03001131912628157,
+        "human": 0.9475127065009751,
+        "mixed": 0.022475974372743374
+      },
+      "completely_generated_prob": 0.03001131912628157,
+      "confidence_category": "medium",
+      "confidence_score": 0.9475127065009751,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03001131912628157,
+          "human": 0.9475127065009751,
+          "mixed": 0.022475974372743374
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.44875717163086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.026760999113321304,
+          "perplexity": 63,
+          "sentence": "On International Volunteer Day, we honour the commitment and contributions of volunteers towards building fairer societies and a healthier planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026862099766731262,
+          "perplexity": 44,
+          "sentence": "Through their selfless service, volunteers show the best of humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02817525528371334,
+          "perplexity": 27,
+          "sentence": "They are true champions of our work to advance peace, sustainable development, and human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02741919457912445,
+          "perplexity": 164,
+          "sentence": "And their spirit of giving enriches all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025606747716665268,
+          "perplexity": 56,
+          "sentence": "This year's theme - \u201cSolidarity through Volunteering\u201d - highlights the importance of coming together to care for one another.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027831625193357468,
+          "perplexity": 12,
+          "sentence": "It is a reminder that everyone has a role to play.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026474326848983765,
+          "perplexity": 27,
+          "sentence": "Wherever you live, whatever your skills, I urge you to take action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026206664741039276,
+          "perplexity": 32,
+          "sentence": "Today and every day, let us take inspiration from all those who, through acts of solidarity large and small, improve our world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02622389793395996,
+          "perplexity": 19,
+          "sentence": "And let us resolve to do our part to forge a better future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00786604918539524,
+          "perplexity": 58,
+          "sentence": "UNICEF in collaboration with the Ministry of Climate Change and Islamic Development Bank is organizing a workshop on urban sanitation in Pakistan on 5 December 2022 at 9:00 am Noor Hall, Ramada Hotel, Islamabad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0081567307934165,
+          "perplexity": 56,
+          "sentence": "As our partners/media partners, you are welcome to join and assign a reporter/photo-journalists/camera person to cover the above-mentioned workshop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009317214600741863,
+          "perplexity": 51,
+          "sentence": "For more information, please contact Kamran Naeem at 0333-5888837, email knaeem@unicef.org",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On International Volunteer Day, we honour the commitment and contributions of volunteers towards building fairer societies and a healthier planet. Through their selfless service, volunteers show the best of humanity. They are true champions of our work to advance peace, sustainable development, and human rights. And their spirit of giving enriches all. This year\u2019s theme \u2013 \u201cSolidarity through Volunteering\u201d \u2013 highlights the importance of coming together to care for one another. It is a reminder that everyone has a role to play. Wherever you live, whatever your skills, I urge you to take action. Today and every day, let us take inspiration from all those who, through acts of solidarity large and small, improve our world. And let us resolve to do our part to forge a better future for all. UNICEF in collaboration with the Ministry of Climate Change and Islamic Development Bank is organizing a workshop on urban sanitation in Pakistan on 5 December 2022 at 9:00 am Noor Hall, Ramada Hotel, Islamabad. As our partners/media partners, you are welcome to join and assign a reporter/photo-journalists/camera person to cover the above-mentioned workshop. For more information, please contact Kamran Naeem at 0333-5888837, email knaeem@unicef.org",
+  "date": "06 December 2022"
+}

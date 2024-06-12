@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "defa0640-37d9-4136-bd88-38fa4632c445",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17360264296534691,
+        "human": 0.7913872937409268,
+        "mixed": 0.035010063293726364
+      },
+      "completely_generated_prob": 0.17360264296534691,
+      "confidence_category": "low",
+      "confidence_score": 0.7913872937409268,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17360264296534691,
+          "human": 0.7913872937409268,
+          "mixed": 0.035010063293726364
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 81.58872985839844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3180048167705536,
+          "perplexity": 29,
+          "sentence": "Joint statement by the UN Human Rights Regional Office for the Middle East and North Africa and the UN Information Centre in Beirut If the pandemic has taught us anything, it should be that humanity is fragile and life is precious.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3146663010120392,
+          "perplexity": 43,
+          "sentence": "For many of us, the insular existence of social distancing was deeply isolating, frightening, and traumatic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.30604931712150574,
+          "perplexity": 85,
+          "sentence": "Grievances with the conditions of the pandemic saw people lash out in online fora, propagating dis- and misinformation, and even blaming individuals and groups for spreading the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3057209849357605,
+          "perplexity": 42,
+          "sentence": "Xenophobia and hate speech were rampant in a time where community and solidarity were needed more than ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2997683584690094,
+          "perplexity": 199,
+          "sentence": "As we tentatively emerge from Covid's shadow, online and offline hostilities, smear and disinformation campaigns continue unabatedly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2998740077018738,
+          "perplexity": 22,
+          "sentence": "In a sense, this should come as no surprise: hate speech has been around long before the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.285089910030365,
+          "perplexity": 177,
+          "sentence": "We need only recall horrifying examples such as Rwanda, where vicious hate propaganda catalysed unimaginable atrocity crimes, including genocide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2671975791454315,
+          "perplexity": 53,
+          "sentence": "Though the contexts may change, the targets tend to be the same - society's most marginalised and at-risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.27198460698127747,
+          "perplexity": 10,
+          "sentence": "This includes ethnic and religious minorities, women, refugees and migrants, people of colour, the LGBTI community - victims of racism, Islamophobia, antisemitism, xenophobia, homophobia, transphobia, and misogyny.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2570438086986542,
+          "perplexity": 60,
+          "sentence": "As the old adage goes, \u201csticks and stones may break my bones but words will never hurt me\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.26566383242607117,
+          "perplexity": 13,
+          "sentence": "Unfortunately, that is not quite the case in practice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.28413060307502747,
+          "perplexity": 228,
+          "sentence": "Words can be weapons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.27636513113975525,
+          "perplexity": 67,
+          "sentence": "Hate speech online can cause harm in real life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.27858924865722656,
+          "perplexity": 24,
+          "sentence": "Hate speech is in itself an attack on tolerance, inclusion, diversity, and the very essence of human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.319362074136734,
+          "perplexity": 30,
+          "sentence": "It further undermines social cohesion, erodes shared values, and can lay the foundation for violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.32240384817123413,
+          "perplexity": 15,
+          "sentence": "The Middle East and North Africa (MENA) region is not immune to the ills of hate speech.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.36098718643188477,
+          "perplexity": 258,
+          "sentence": "Communities across the region have encountered unimaginable horrors",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Joint statement by the UN Human Rights Regional Office for the Middle East and North Africa and the UN Information Centre in Beirut If the pandemic has taught us anything, it should be that humanity is fragile and life is precious. For many of us, the insular existence of social distancing was deeply isolating, frightening, and traumatic. Grievances with the conditions of the pandemic saw people lash out in online fora, propagating dis- and misinformation, and even blaming individuals and groups for spreading the virus. Xenophobia and hate speech were rampant in a time where community and solidarity were needed more than ever. As we tentatively emerge from Covid\u2019s shadow, online and offline hostilities, smear and disinformation campaigns continue unabatedly. In a sense, this should come as no surprise: hate speech has been around long before the pandemic. We need only recall horrifying examples such as Rwanda, where vicious hate propaganda catalysed unimaginable atrocity crimes, including genocide. Though the contexts may change, the targets tend to be the same \u2013 society\u2019s most marginalised and at-risk. This includes ethnic and religious minorities, women, refugees and migrants, people of colour, the LGBTI community \u2013 victims of racism, Islamophobia, antisemitism, xenophobia, homophobia, transphobia, and misogyny. As the old adage goes, \u201csticks and stones may break my bones but words will never hurt me\u201d. Unfortunately, that is not quite the case in practice. Words can be weapons. Hate speech online can cause harm in real life. Hate speech is in itself an attack on tolerance, inclusion, diversity, and the very essence of human rights. It further undermines social cohesion, erodes shared values, and can lay the foundation for violence. The Middle East and North Africa (MENA) region is not immune to the ills of hate speech. Communities across the region have encountered unimaginable horrors",
+  "date": "18 June 2022"
+}

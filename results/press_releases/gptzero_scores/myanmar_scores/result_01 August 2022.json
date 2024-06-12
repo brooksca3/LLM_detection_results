@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5cb6b90-8cc7-4b9d-a510-9854d6586568",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.038061141967773,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00036754278698936105,
+          "perplexity": 33,
+          "sentence": "BANGKOK, Thailand (ILO news) - Myanmar remains deeply affected by heavy job losses 18 months after the military takeover on 1 February 2021 and two and a half years into the global pandemic, according to new estimates released by the International Labour Organization (ILO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039813792682252824,
+          "perplexity": 35,
+          "sentence": "The ILO estimates that 1.1 million fewer women and men are employed compared to 2020, which indicates a small recovery in jobs in the first half of 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000440856849309057,
+          "perplexity": 45,
+          "sentence": "However, employment remains well below 2020 levels while the quality of jobs is deteriorating.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004290953220333904,
+          "perplexity": 42,
+          "sentence": "Women are also more affected than men overall.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035814393777400255,
+          "perplexity": 24,
+          "sentence": "In the first half of 2022, labour productivity contracted a further 2 per cent, adding to an 8 per cent contraction in 2021, reversing the strong gains that had been made in years prior to the military takeover.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002600969164632261,
+          "perplexity": 39,
+          "sentence": "Labour conditions are deteriorating for many workers with serious violations of labour rights as referred to in decisions of the ILO Committee on Freedom of Association, ILO Governing Body and in the International Labour Conference Resolution of 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037525396328419447,
+          "perplexity": 40,
+          "sentence": "The situation has taken a toll on enterprises and workers in key sectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003041826421394944,
+          "perplexity": 57,
+          "sentence": "In the garment industry, evidence points to an increase in casual or daily labour, irregular working hours and workers receiving lower pay.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024995097192004323,
+          "perplexity": 90,
+          "sentence": "ILO research also shows that more widely, entitlements such as severance pay when workers' jobs are terminated are also often not granted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004081008955836296,
+          "perplexity": 61,
+          "sentence": "\u201cEighteen months on from the military takeover, the employment situation in Myanmar remains very difficult.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040983621147461236,
+          "perplexity": 84,
+          "sentence": "While there are limited signs of job growth, the ongoing erosion of labour conditions and the decrease in job quality is deeply concerning,\u201d said Mr. Donglin Li, ILO Myanmar Liaison Officer.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BANGKOK, Thailand (ILO news) - Myanmar remains deeply affected by heavy job losses 18 months after the military takeover on 1 February 2021 and two and a half years into the global pandemic, according to new estimates released by the International Labour Organization (ILO). The ILO estimates that 1.1 million fewer women and men are employed compared to 2020, which indicates a small recovery in jobs in the first half of 2022. However, employment remains well below 2020 levels while the quality of jobs is deteriorating. Women are also more affected than men overall. In the first half of 2022, labour productivity contracted a further 2 per cent, adding to an 8 per cent contraction in 2021, reversing the strong gains that had been made in years prior to the military takeover. Labour conditions are deteriorating for many workers with serious violations of labour rights as referred to in decisions of the ILO Committee on Freedom of Association, ILO Governing Body and in the International Labour Conference Resolution of 2021. The situation has taken a toll on enterprises and workers in key sectors. In the garment industry, evidence points to an increase in casual or daily labour, irregular working hours and workers receiving lower pay. ILO research also shows that more widely, entitlements such as severance pay when workers\u2019 jobs are terminated are also often not granted. \u201cEighteen months on from the military takeover, the employment situation in Myanmar remains very difficult. While there are limited signs of job growth, the ongoing erosion of labour conditions and the decrease in job quality is deeply concerning,\u201d said Mr. Donglin Li, ILO Myanmar Liaison Officer.",
+  "date": "01 August 2022"
+}

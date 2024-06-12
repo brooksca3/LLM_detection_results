@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "02b77486-68dc-41e0-8812-2cdd225fd9a7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.08805274963379,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03404294326901436,
+          "perplexity": 78,
+          "sentence": "Joint Statement of UN Special Coordinator for Lebanon Joanna Wronecka and UNIFIL Head of Mission and Force Commander Lt. Gen. Aroldo L\u00e1zaro on six months since the exchanges of fire started across the Blue Line.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04222298786044121,
+          "perplexity": 52,
+          "sentence": "It is six months since the exchanges of fire across the Blue Line began, and continue unabated, taking a heavy toll on both sides.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.045512933284044266,
+          "perplexity": 15,
+          "sentence": "The lives of thousands of people have been profoundly affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03943054378032684,
+          "perplexity": 21,
+          "sentence": "Tens of civilians have tragically lost their lives while many more have lost their homes, their livelihoods and any sense of certainty for the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03720942884683609,
+          "perplexity": 39,
+          "sentence": "The unrelenting cycle of strikes and counterstrikes in breach of the cessation of hostilities constitute the most serious violation of Security Council Resolution 1701 since its adoption in 2006.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0350143164396286,
+          "perplexity": 48,
+          "sentence": "The gradual expansion in the scope and scale of the confrontations well beyond the Blue Line significantly raises the risk of miscalculation and further deterioration of an already alarming situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.036391325294971466,
+          "perplexity": 35,
+          "sentence": "The violence and suffering has gone on too long.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03648783266544342,
+          "perplexity": 119,
+          "sentence": "It must stop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030862515792250633,
+          "perplexity": 34,
+          "sentence": "We urgently appeal to all sides to recommit to the cessation of hostilities under the framework of resolution 1701 and avail of all avenues to avoid further escalation while there is still space for diplomacy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03411944955587387,
+          "perplexity": 29,
+          "sentence": "It is also imperative to focus anew on the overarching objective of a permanent ceasefire and long-term solution to the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03399127349257469,
+          "perplexity": 24,
+          "sentence": "A political process, anchored in the full implementation of Resolution 1701, is now more crucial than ever to address the root causes of the conflict and ensure long-term stability.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Joint Statement of UN Special Coordinator for Lebanon Joanna Wronecka and UNIFIL Head of Mission and Force Commander Lt. Gen. Aroldo L\u00e1zaro on six months since the exchanges of fire started across the Blue Line. It is six months since the exchanges of fire across the Blue Line began, and continue unabated, taking a heavy toll on both sides. The lives of thousands of people have been profoundly affected. Tens of civilians have tragically lost their lives while many more have lost their homes, their livelihoods and any sense of certainty for the future. The unrelenting cycle of strikes and counterstrikes in breach of the cessation of hostilities constitute the most serious violation of Security Council Resolution 1701 since its adoption in 2006. The gradual expansion in the scope and scale of the confrontations well beyond the Blue Line significantly raises the risk of miscalculation and further deterioration of an already alarming situation. The violence and suffering has gone on too long. It must stop. We urgently appeal to all sides to recommit to the cessation of hostilities under the framework of resolution 1701 and avail of all avenues to avoid further escalation while there is still space for diplomacy. It is also imperative to focus anew on the overarching objective of a permanent ceasefire and long-term solution to the conflict. A political process, anchored in the full implementation of Resolution 1701, is now more crucial than ever to address the root causes of the conflict and ensure long-term stability.",
+  "date": "08 April 2024"
+}

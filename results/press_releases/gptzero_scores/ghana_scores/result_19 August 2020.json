@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3117be35-9b75-41e0-b138-29e521514404",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009145086801557368,
+        "human": 0.9899237082370945,
+        "mixed": 0.0009312049613481152
+      },
+      "completely_generated_prob": 0.009145086801557368,
+      "confidence_category": "high",
+      "confidence_score": 0.9899237082370945,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009145086801557368,
+          "human": 0.9899237082370945,
+          "mixed": 0.0009312049613481152
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 66.37268829345703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004880411142949015,
+          "perplexity": 79,
+          "sentence": "\u201cOther tragedies triggered by the pandemic such as poverty, loss of job, gender-based violence, malnutrition and unwanted pregnancies, are eminent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005376386106945574,
+          "perplexity": 222,
+          "sentence": "We must act now to mitigate tragedies that are beyond the health implications of the COVID-19 virus.\u201d says the UN Resident Coordinator, Mr. Charles Abani on World Humanitarian Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038073037285357714,
+          "perplexity": 63,
+          "sentence": "19 August 2020; Accra, Ghana - The United Nations, development partners and the International NGOs in Ghana celebrate the courageous, hard work and contributions of men and women humanitarian workers in the country and call on the Government of Ghana to remain vigilant to stay ahead of situations that would require humanitarian interventions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007662446005269885,
+          "perplexity": 63,
+          "sentence": "Mindful of incidents, natural and man-made, that could necessitate humanitarian response, the United Nations reminds the Government to further strengthen its resilience systems, especially in the face of the ongoing COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005412180908024311,
+          "perplexity": 50,
+          "sentence": "As the world observes World Humanitarian Day on Wednesday, August 19, 2020, the UN, development cooperation and INGOs family in Ghana applaud all partners - private, public and development partners - and individual workers, especially frontline workers, whose timely interventions have contributed considerably to the fight against the pandemic, thereby making sure that Ghanaians, and especially the most vulnerable, including the aged, women, young people, children, migrants, refugees and people with disability are reached with needed services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002282303525134921,
+          "perplexity": 36,
+          "sentence": "Humanitarian relief and work are essential in aiding those in need in a timely and efficient manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017208289355039597,
+          "perplexity": 145,
+          "sentence": "Ultimately ensuring that no one is left behind in the COVID-19 response and recovery plans.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cOther tragedies triggered by the pandemic such as poverty, loss of job, gender-based violence, malnutrition and unwanted pregnancies, are eminent. We must act now to mitigate tragedies that are beyond the health implications of the COVID-19 virus.\u201d says the UN Resident Coordinator, Mr. Charles Abani on World Humanitarian Day. 19 August 2020; Accra, Ghana \u2013 The United Nations, development partners and the International NGOs in Ghana celebrate the courageous, hard work and contributions of men and women humanitarian workers in the country and call on the Government of Ghana to remain vigilant to stay ahead of situations that would require humanitarian interventions. Mindful of incidents, natural and man-made, that could necessitate humanitarian response, the United Nations reminds the Government to further strengthen its resilience systems, especially in the face of the ongoing COVID-19 pandemic. As the world observes World Humanitarian Day on Wednesday, August 19, 2020, the UN, development cooperation and INGOs family in Ghana applaud all partners \u2013 private, public and development partners \u2013 and individual workers, especially frontline workers, whose timely interventions have contributed considerably to the fight against the pandemic, thereby making sure that Ghanaians, and especially the most vulnerable, including the aged, women, young people, children, migrants, refugees and people with disability are reached with needed services. Humanitarian relief and work are essential in aiding those in need in a timely and efficient manner. Ultimately ensuring that no one is left behind in the COVID-19 response and recovery plans.",
+  "date": "19 August 2020"
+}

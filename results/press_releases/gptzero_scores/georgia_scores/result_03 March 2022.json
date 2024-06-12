@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "09eff5b1-db1e-4138-8368-1d0cdea302d3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002753428249972066,
+        "human": 0.9967494006633975,
+        "mixed": 0.0004971710866304887
+      },
+      "completely_generated_prob": 0.002753428249972066,
+      "confidence_category": "high",
+      "confidence_score": 0.9967494006633975,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002753428249972066,
+          "human": 0.9967494006633975,
+          "mixed": 0.0004971710866304887
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.35175704956055,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001522792299510911,
+          "perplexity": 12,
+          "sentence": "The UN General Assembly overwhelmingly adopted a resolution on Wednesday demanding that Russia immediately end its military operations in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001406927331117913,
+          "perplexity": 27,
+          "sentence": "Member States today overwhelmingly adopted a resolution demanding the Russian Federation immediately end its invasion of Ukraine and unconditionally withdraw all its military forces from that neighbouring country, as the General Assembly continued its emergency session on the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014718272723257542,
+          "perplexity": 38,
+          "sentence": "[The emergency special session \u1173 the eleventh called since the founding of the United Nations \u1173 opened on 28 February, meeting less than 24 hours after being mandated to do so by a vote in the Security Council, following its failure to adopt a resolution condemning the Russian Federation's recent actions in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012810232874471694,
+          "perplexity": 130,
+          "sentence": "See Press Releases SC/14808 and SC/14809 for details.]",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014360752538777888,
+          "perplexity": 27,
+          "sentence": "Deploring in the strongest terms its aggression against Ukraine in violation of the Charter of the United Nations, the Assembly also demanded the Russian Federation immediately and unconditionally reverse its 21 February decision related to the status of certain areas of the Donetsk and Luhansk regions of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014891884347889572,
+          "perplexity": 23,
+          "sentence": "The measure was adopted by a vote of 141 in favour to 5 against (Belarus, Democratic People's Republic of Korea, Eritrea, Russian Federation, and Syria) with 35 abstentions \u1173 a clear reaffirmation of the 193-member world body's commitment to Ukraine's sovereignty, independence, unity and territorial integrity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022280840494204313,
+          "perplexity": 17,
+          "sentence": "The Assembly demanded that the Russian Federation immediately cease its unlawful use of force against Ukraine and refrain from any further threat or use of force against any United Nations Member State, while also deploring Belarus' involvement in this illegal action and calling on that country to abide by its international obligations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002721932833082974,
+          "perplexity": 22,
+          "sentence": "The text urged the immediate peaceful resolution of the conflict through political dialogue, negotiations, mediation and other peaceful means, calling upon the parties to abide by the Minsk agreements and to work constructively in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN General Assembly overwhelmingly adopted a resolution on Wednesday demanding that Russia immediately end its military operations in Ukraine. Member States today overwhelmingly adopted a resolution demanding the Russian Federation immediately end its invasion of Ukraine and unconditionally withdraw all its military forces from that neighbouring country, as the General Assembly continued its emergency session on the crisis. [The emergency special session \u2014 the eleventh called since the founding of the United Nations \u2014 opened on 28 February, meeting less than 24 hours after being mandated to do so by a vote in the Security Council, following its failure to adopt a resolution condemning the Russian Federation\u2019s recent actions in Ukraine. See Press Releases SC/14808 and SC/14809 for details.] Deploring in the strongest terms its aggression against Ukraine in violation of the Charter of the United Nations, the Assembly also demanded the Russian Federation immediately and unconditionally reverse its 21 February decision related to the status of certain areas of the Donetsk and Luhansk regions of Ukraine. The measure was adopted by a vote of 141 in favour to 5 against (Belarus, Democratic People\u2019s Republic of Korea, Eritrea, Russian Federation, and Syria) with 35 abstentions \u2014 a clear reaffirmation of the 193-member world body\u2019s commitment to Ukraine\u2019s sovereignty, independence, unity and territorial integrity. The Assembly demanded that the Russian Federation immediately cease its unlawful use of force against Ukraine and refrain from any further threat or use of force against any United Nations Member State, while also deploring Belarus\u2019 involvement in this illegal action and calling on that country to abide by its international obligations. The text urged the immediate peaceful resolution of the conflict through political dialogue, negotiations, mediation and other peaceful means, calling upon the parties to abide by the Minsk agreements and to work constructively in",
+  "date": "03 March 2022"
+}

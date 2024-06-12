@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0dee3b8d-ba33-47a2-98d1-9c171ee352bc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002098745999265439,
+        "human": 0.9979012540007346,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002098745999265439,
+      "confidence_category": "high",
+      "confidence_score": 0.9979012540007346,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002098745999265439,
+          "human": 0.9979012540007346,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.23928451538086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010156617645407096,
+          "perplexity": 25,
+          "sentence": "Kyiv, 4 March 2024 - Twelve persons, nearly half of them children, died when a drone or its remnants struck a nine-story residential building in the southern city of Odesa on Saturday the United Nations Human Rights Monitoring Mission in Ukraine (HRMMU) said today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010700432903831825,
+          "perplexity": 69,
+          "sentence": "\u201cThe attack killed five children, the majority under age three, making it the deadliest incident for children in more than nine months,\u201d said the head of HRMMU, Danielle Bell.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010586478310870007,
+          "perplexity": 38,
+          "sentence": "\u201cAt least three families suffered multiple losses, including a mother with her child, a father with his child, and parents with three children, demonstrating the continued horrendous impact of Russia's war on Ukraine on civilians, particularly children and families who are among the most vulnerable to these long-range munitions,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.94863803498447e-05,
+          "perplexity": 50,
+          "sentence": "HRMMU staff who visited the site shortly after the attack on Saturday found desperate relatives and rescue teams trying to reach family members buried under the rubble from the partially collapsed building.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010253991786157712,
+          "perplexity": 217,
+          "sentence": "The team saw domestic items hurled out of the apartments by the force of the blast stuck on tree branches underneath.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010506586113478988,
+          "perplexity": 26,
+          "sentence": "Survivors, who ran out of the building covered in blankets, anxiously waited outside to hear from the rescuers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.545149077894166e-05,
+          "perplexity": 15,
+          "sentence": "According to HRMMU, more than 10,000 civilians have been killed and over 20,000 have suffered injuries since the Russian Federation launched a large-scale attack on Ukraine more than two years ago but HRMMU cautions that the real number could be significantly higher.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.657055488787591e-05,
+          "perplexity": 49,
+          "sentence": "HRMMU says most of the casualties have been caused by explosive weapons with wide area effect such as missiles, drones, and artillery shells.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010468443360878155,
+          "perplexity": 75,
+          "sentence": "Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kyiv, 4 March 2024 - Twelve persons, nearly half of them children, died when a drone or its remnants struck a nine-story residential building in the southern city of Odesa on Saturday the United Nations Human Rights Monitoring Mission in Ukraine (HRMMU) said today. \u201cThe attack killed five children, the majority under age three, making it the deadliest incident for children in more than nine months,\u201d said the head of HRMMU, Danielle Bell. \u201cAt least three families suffered multiple losses, including a mother with her child, a father with his child, and parents with three children, demonstrating the continued horrendous impact of Russia\u2019s war on Ukraine on civilians, particularly children and families who are among the most vulnerable to these long-range munitions,\u201d she added. HRMMU staff who visited the site shortly after the attack on Saturday found desperate relatives and rescue teams trying to reach family members buried under the rubble from the partially collapsed building. The team saw domestic items hurled out of the apartments by the force of the blast stuck on tree branches underneath. Survivors, who ran out of the building covered in blankets, anxiously waited outside to hear from the rescuers. According to HRMMU, more than 10,000 civilians have been killed and over 20,000 have suffered injuries since the Russian Federation launched a large-scale attack on Ukraine more than two years ago but HRMMU cautions that the real number could be significantly higher. HRMMU says most of the casualties have been caused by explosive weapons with wide area effect such as missiles, drones, and artillery shells. Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+  "date": "04 March 2024"
+}

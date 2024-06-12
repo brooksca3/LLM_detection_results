@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c6c0b6f0-627a-494c-a19a-e840ab0e50be",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022343487838710107,
+        "human": 0.9770163681570956,
+        "mixed": 0.0006401440041944493
+      },
+      "completely_generated_prob": 0.022343487838710107,
+      "confidence_category": "high",
+      "confidence_score": 0.9770163681570956,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022343487838710107,
+          "human": 0.9770163681570956,
+          "mixed": 0.0006401440041944493
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.89012908935547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002875310368835926,
+          "perplexity": 54,
+          "sentence": "Many children in Suriname have missed childhood vaccines, risking their lives and health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015735337510704994,
+          "perplexity": 178,
+          "sentence": "Paramaribo, 24 April 2023 - After 2 years of immunization backsliding caused by the COVID-19 pandemic disruptions, we must catch-up!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002052094554528594,
+          "perplexity": 39,
+          "sentence": "We must restore and strengthen immunization services to reach all children missing out on the life-saving benefits of vaccines, and we must stop outbreaks from accelerating.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002224968746304512,
+          "perplexity": 44,
+          "sentence": "The theme for this year's World Immunization Week: \u201cGet up-to-date, each vaccine counts\u201d, is a call to all partners and communities to get back on track and ensure that all children are protected against vaccine preventable diseases, leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002151892054826021,
+          "perplexity": 52,
+          "sentence": "Suriname annually reports vaccination coverages for key childhood vaccinations such as Pentavalent-3, Polio-3, and MMR-1.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012624087976291776,
+          "perplexity": 9,
+          "sentence": "These vaccinations provide protection against preventable diseases such as: Tetanus, Diphtheria, Pertussis, HepatitisB, Polio, Measles, Mumps and Rubella.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007678556721657515,
+          "perplexity": 92,
+          "sentence": "For the year 2022 the reported national coverages were: Pentavalent-3: 94%, Polio-3: 90%, MMR-1: 82%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00347338174469769,
+          "perplexity": 60,
+          "sentence": "While these may seem like good numbers at the national level, large discrepancies still exist at subnational level between districts and communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033046265598386526,
+          "perplexity": 48,
+          "sentence": "Coronie, Saramacca and Sipaliwini reported low vaccination coverages for Pentavalent-3 and Polio-3 ranging from 38% for Saramacca, 49% for Coronie and 73% for Sipaliwini.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004169022664427757,
+          "perplexity": 37,
+          "sentence": "Suriname's national target is to achieve and maintain a 95% vaccination coverage rate to ensure that we are protected from outbreaks; however, data shows that Suriname has not reached this target for the routine childhood vaccinations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0067268176935613155,
+          "perplexity": 141,
+          "sentence": "The past 3 years have shown less parents bringing children for their routine immunizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007032346911728382,
+          "perplexity": 60,
+          "sentence": "As these children pass the age when vaccines are routinely given, they risk never catching up on their vaccinations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006828128360211849,
+          "perplexity": 12,
+          "sentence": "Under-vaccinated children are left more vulnerable to a range of vaccine-preventable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006300682667642832,
+          "perplexity": 70,
+          "sentence": "The low coverage and the devasting decline in vaccination rates do not only affect children, but also communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006083689164370298,
+          "perplexity": 42,
+          "sentence": "Illnesses like diphtheria, measles, and polio, once",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Many children in Suriname have missed childhood vaccines, risking their lives and health. Paramaribo, 24 April 2023 \u2013 After 2 years of immunization backsliding caused by the COVID-19 pandemic disruptions, we must catch-up! We must restore and strengthen immunization services to reach all children missing out on the life-saving benefits of vaccines, and we must stop outbreaks from accelerating. The theme for this year\u2019s World Immunization Week: \u201cGet up-to-date, each vaccine counts\u201d, is a call to all partners and communities to get back on track and ensure that all children are protected against vaccine preventable diseases, leaving no one behind. Suriname annually reports vaccination coverages for key childhood vaccinations such as Pentavalent-3, Polio-3, and MMR-1. These vaccinations provide protection against preventable diseases such as: Tetanus, Diphtheria, Pertussis, HepatitisB, Polio, Measles, Mumps and Rubella. For the year 2022 the reported national coverages were: Pentavalent-3: 94%, Polio-3: 90%, MMR-1: 82%. While these may seem like good numbers at the national level, large discrepancies still exist at subnational level between districts and communities. Coronie, Saramacca and Sipaliwini reported low vaccination coverages for Pentavalent-3 and Polio-3 ranging from 38% for Saramacca, 49% for Coronie and 73% for Sipaliwini. Suriname\u2019s national target is to achieve and maintain a 95% vaccination coverage rate to ensure that we are protected from outbreaks; however, data shows that Suriname has not reached this target for the routine childhood vaccinations. The past 3 years have shown less parents bringing children for their routine immunizations. As these children pass the age when vaccines are routinely given, they risk never catching up on their vaccinations. Under-vaccinated children are left more vulnerable to a range of vaccine-preventable diseases. The low coverage and the devasting decline in vaccination rates do not only affect children, but also communities. Illnesses like diphtheria, measles, and polio, once",
+  "date": "24 April 2023"
+}

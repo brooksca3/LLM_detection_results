@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8e44da65-28b7-4486-8114-50139bd70506",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0306824037046562,
+        "human": 0.9687000845855983,
+        "mixed": 0.0006175117097454189
+      },
+      "completely_generated_prob": 0.0306824037046562,
+      "confidence_category": "high",
+      "confidence_score": 0.9687000845855983,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0306824037046562,
+          "human": 0.9687000845855983,
+          "mixed": 0.0006175117097454189
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.5740966796875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013701635180041194,
+          "perplexity": 18,
+          "sentence": "On March 2, 2023, the Ministry of Economic Development and Trade (MEDT) of Tajikistan, in cooperation with the United Nations, organized a consultative meeting with the organizations of persons with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014866804704070091,
+          "perplexity": 31,
+          "sentence": "This consultation took place as part of the preparation of Tajikistan's second Voluntary National Review (VNR) report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013925731182098389,
+          "perplexity": 128,
+          "sentence": "VNRs are nationally-owned processes for countries to take stock and report on the state of sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012627225369215012,
+          "perplexity": 46,
+          "sentence": "Over 30 participants representing 20 civil society organizations discussed the priorities of persons with disabilities, reviewed the existing legislation and policies, and provided recommendations to the Government on changes as well as additional measures needed to improve them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02516266144812107,
+          "perplexity": 36,
+          "sentence": "Ms Farida Alibakhshova, the UN RCO's Disability Inclusion Consultant in Tajikistan, noted that \u201cby signing the Convention on the Rights of Persons with Disabilities in 2018, followed by the adoption of the National Roadmap for its ratification, the authorities in Tajikistan have explicitly expressed their commitment to upholding the rights of persons with disabilities and inclusive development.\u201d The dialogue that we had today- underpinned by the principle \u201cnothing about us without us\u201d- was important to assess where the Government stands now in creating inclusive environment and development.\u201d The consultation with persons with disabilities was one of many organized by the Government, in cooperation with the United Nations and civil society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025187470018863678,
+          "perplexity": 27,
+          "sentence": "These consultations were organized to ensure that the voice of vulnerable groups is heard and that all of them benefit from the country's economic development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024390459060668945,
+          "perplexity": 115,
+          "sentence": "\u201cWe fully realize the importance of reaching out to the most vulnerable groups in order to assess the impact of development on their lives\u201d, said Ms Manuchehra Madjonova, the MEDT VNR Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02121681533753872,
+          "perplexity": 84,
+          "sentence": "\u201cWe appreciate the engagement and support of civil society organizations in the work with vulnerable groups and in organizing thematic discussions which helps us see how far we have progressed",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On March 2, 2023, the Ministry of Economic Development and Trade (MEDT) of Tajikistan, in cooperation with the United Nations, organized a consultative meeting with the organizations of persons with disabilities. This consultation took place as part of the preparation of Tajikistan\u2019s second Voluntary National Review (VNR) report. VNRs are nationally-owned processes for countries to take stock and report on the state of sustainable development. Over 30 participants representing 20 civil society organizations discussed the priorities of persons with disabilities, reviewed the existing legislation and policies, and provided recommendations to the Government on changes as well as additional measures needed to improve them. Ms Farida Alibakhshova, the UN RCO\u2019s Disability Inclusion Consultant in Tajikistan, noted that \u201cby signing the Convention on the Rights of Persons with Disabilities in 2018, followed by the adoption of the National Roadmap for its ratification, the authorities in Tajikistan have explicitly expressed their commitment to upholding the rights of persons with disabilities and inclusive development.\u201d The dialogue that we had today- underpinned by the principle \u201cnothing about us without us\u201d- was important to assess where the Government stands now in creating inclusive environment and development.\u201d The consultation with persons with disabilities was one of many organized by the Government, in cooperation with the United Nations and civil society. These consultations were organized to ensure that the voice of vulnerable groups is heard and that all of them benefit from the country\u2019s economic development. \u201cWe fully realize the importance of reaching out to the most vulnerable groups in order to assess the impact of development on their lives\u201d, said Ms Manuchehra Madjonova, the MEDT VNR Coordinator. \u201cWe appreciate the engagement and support of civil society organizations in the work with vulnerable groups and in organizing thematic discussions which helps us see how far we have progressed",
+  "date": "02 March 2023"
+}

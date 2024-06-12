@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1930ced2-f24b-42d8-a56d-e7698799a901",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022885307625839273,
+        "human": 0.976474903139442,
+        "mixed": 0.0006397892347189022
+      },
+      "completely_generated_prob": 0.022885307625839273,
+      "confidence_category": "high",
+      "confidence_score": 0.976474903139442,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022885307625839273,
+          "human": 0.976474903139442,
+          "mixed": 0.0006397892347189022
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.49691390991211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.020235102623701096,
+          "perplexity": 81,
+          "sentence": "Hope away from home, a world where refugees are always included.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01503392681479454,
+          "perplexity": 31,
+          "sentence": "Amman - UNHCR, the UN Refugee Agency, commemorates World Refugee Day, celebrating the resilience, courage, and contributions of refugees to their host communities, while highlighting the importance of inclusion and empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009745791554450989,
+          "perplexity": 40,
+          "sentence": "With the presence of ambassadors and representatives from the international community, heads of UN Agencies and partner organizations, UNHCR organized an evening to celebrate the strong bonds between the refugee and host communities and reflect on the inclusion of refugees in the different sectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010685497894883156,
+          "perplexity": 21,
+          "sentence": "While refugee crises around the world have only been increasing with time, Jordan has long been and continues to be an exemplary host of refugees and asylum-seekers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009566747583448887,
+          "perplexity": 30,
+          "sentence": "This year, UNHCR recorded over 110 million forcibly displaced people, the highest level on records as per UNHCR's Global Trends report published last week, which has more than doubled in the past ten years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01096290536224842,
+          "perplexity": 24,
+          "sentence": "Jordan's generosity and hospitality towards refugees have opened the door for an inclusive approach, fostering social cohesion and enabling hundreds of thousands of refugees to find safety, protection, and hope away from their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007255861070007086,
+          "perplexity": 67,
+          "sentence": "\u201cThis World Refugee Day, we also focus on the remarkable resilience and determination of refugees, their potential as envoys of positive change and contributing members of the society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00429469533264637,
+          "perplexity": 31,
+          "sentence": "With tens of thousands of refugees enrolled in education and engaged in the labour market here in Jordan, refugees have demonstrated their skills and ability to become self-reliant when the world shows its support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003375707659870386,
+          "perplexity": 99,
+          "sentence": "The multiple experiences here tonight, such as Ahmad from Syria, and Adel from Jordan, showed us how much can be achieved when working together\u201d said Dominik Bartsch, UNHCR Representative to Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023921430110931396,
+          "perplexity": 101,
+          "sentence": "He added \u201cit is now more important than ever to sustain the international support to refugees in Jordan who face multiple challenges on this day and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Hope away from home, a world where refugees are always included. Amman - UNHCR, the UN Refugee Agency, commemorates World Refugee Day, celebrating the resilience, courage, and contributions of refugees to their host communities, while highlighting the importance of inclusion and empowerment. With the presence of ambassadors and representatives from the international community, heads of UN Agencies and partner organizations, UNHCR organized an evening to celebrate the strong bonds between the refugee and host communities and reflect on the inclusion of refugees in the different sectors. While refugee crises around the world have only been increasing with time, Jordan has long been and continues to be an exemplary host of refugees and asylum-seekers. This year, UNHCR recorded over 110 million forcibly displaced people, the highest level on records as per UNHCR\u2019s Global Trends report published last week, which has more than doubled in the past ten years. Jordan\u2019s generosity and hospitality towards refugees have opened the door for an inclusive approach, fostering social cohesion and enabling hundreds of thousands of refugees to find safety, protection, and hope away from their homes. \u201cThis World Refugee Day, we also focus on the remarkable resilience and determination of refugees, their potential as envoys of positive change and contributing members of the society. With tens of thousands of refugees enrolled in education and engaged in the labour market here in Jordan, refugees have demonstrated their skills and ability to become self-reliant when the world shows its support. The multiple experiences here tonight, such as Ahmad from Syria, and Adel from Jordan, showed us how much can be achieved when working together\u201d said Dominik Bartsch, UNHCR Representative to Jordan. He added \u201cit is now more important than ever to sustain the international support to refugees in Jordan who face multiple challenges on this day and",
+  "date": "02 July 2023"
+}

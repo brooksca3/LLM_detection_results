@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "084a68e7-7b96-45b2-b0b8-1398eb4f917b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.208303451538086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0026795477606356144,
+          "perplexity": 80,
+          "sentence": "The European Union provided EUR 2,200,000 towards the 34 month project which focuses on an effective, rapid, and coordinated response to COVID-19 in Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028262643609195948,
+          "perplexity": 31,
+          "sentence": "The project, which is implemented by the World Health Organization's Country Office, puts particular emphasis on the provision of personal protective equipment to health and first-line workers in healthcare facilities all over the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029383418150246143,
+          "perplexity": 44,
+          "sentence": "Procuring WHO-recommended PPE not only for healthcare workers working with COVID-19 patients but also for those in other health services and facilities is essential to reduce the transmission of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00248839077539742,
+          "perplexity": 50,
+          "sentence": "Jussi Narvi, Charge d'Affaires a.i of the Delegation of European Union to the Republic of Uzbekistan pointed out that: \u201cDuring a pandemic like the one that has been hitting us since last spring, the everyday heroes are the people who look after our most fundamental needs, and health care personnel are on the first line of defence against the virus for all of us.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023981337435543537,
+          "perplexity": 20,
+          "sentence": "As a sign of our appreciation for them, we have made it our priority to provide them with protective equipment so that they can do their work safely and effectively\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023082748521119356,
+          "perplexity": 71,
+          "sentence": "Dr Lianne Kuppens, Head of WHO in the Republic of Uzbekistan said: \u201cThis shipment is part of a joint delivery plan by the WHO and the EU to support national health authorities to respond to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002064912114292383,
+          "perplexity": 107,
+          "sentence": "Personal Protective equipment will be distributed to health workers across the country in line with their needs\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002158409683033824,
+          "perplexity": 34,
+          "sentence": "With the financial support of the European Union and close collaboration with the Ministry of Health of Uzbekistan, the project is strengthening infection prevention and control measures through the procurement of plentiful and good-quality PPE for all healthcare workers in the country.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The European Union provided EUR 2,200,000 towards the 34 month project which focuses on an effective, rapid, and coordinated response to COVID-19 in Uzbekistan. The project, which is implemented by the World Health Organization\u2019s Country Office, puts particular emphasis on the provision of personal protective equipment to health and first-line workers in healthcare facilities all over the country. Procuring WHO-recommended PPE not only for healthcare workers working with COVID-19 patients but also for those in other health services and facilities is essential to reduce the transmission of COVID-19. Jussi Narvi, Charge d'Affaires a.i of the Delegation of European Union to the Republic of Uzbekistan pointed out that: \u201cDuring a pandemic like the one that has been hitting us since last spring, the everyday heroes are the people who look after our most fundamental needs, and health care personnel are on the first line of defence against the virus for all of us. As a sign of our appreciation for them, we have made it our priority to provide them with protective equipment so that they can do their work safely and effectively\u201d. Dr Lianne Kuppens, Head of WHO in the Republic of Uzbekistan said: \u201cThis shipment is part of a joint delivery plan by the WHO and the EU to support national health authorities to respond to COVID-19. Personal Protective equipment will be distributed to health workers across the country in line with their needs\u201d. With the financial support of the European Union and close collaboration with the Ministry of Health of Uzbekistan, the project is strengthening infection prevention and control measures through the procurement of plentiful and good-quality PPE for all healthcare workers in the country.",
+  "date": "05 March 2021"
+}

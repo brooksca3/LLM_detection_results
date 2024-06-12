@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "06abd553-0260-414e-8078-22dc8d313dc0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17971418694341718,
+        "human": 0.8192474585792531,
+        "mixed": 0.001038354477329771
+      },
+      "completely_generated_prob": 0.17971418694341718,
+      "confidence_category": "low",
+      "confidence_score": 0.8192474585792531,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17971418694341718,
+          "human": 0.8192474585792531,
+          "mixed": 0.001038354477329771
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.6832389831543,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3399478793144226,
+          "perplexity": 23,
+          "sentence": "Today, the Jamaican Economy Panel (JEP) published the third round of its monthly discussion focusing on the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3564928472042084,
+          "perplexity": 22,
+          "sentence": "The Jamaican Economy Panel is part of a partnership between the United Nations Resident Coordinator's Office (UNRCO) and the Department of Economics at The University of the West Indies (UWI) Mona.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3570709228515625,
+          "perplexity": 52,
+          "sentence": "The JEP brings together a select group of economic and public sector experts to address monthly socio-economic questions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3642500042915344,
+          "perplexity": 83,
+          "sentence": "These questions help to highlight relevant economic issues and the collective expertise of the panelists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.36054137349128723,
+          "perplexity": 155,
+          "sentence": "Primarily due to the COVID-19 pandemic, progress towards the SDGs has stalled.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.34928271174430847,
+          "perplexity": 93,
+          "sentence": "According to the Sustainable Development Report published on 14 June 2021*, a reversion in progress is evident for the first time since the report's launch; this comes even though much of the relevant data does not yet entail 2020 results due to lags common to international data collection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.36953848600387573,
+          "perplexity": 53,
+          "sentence": "In 2021, even the most advanced country (Finland) was only 86% of the way to achieve the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3564866781234741,
+          "perplexity": 42,
+          "sentence": "Despite this result, the members of the JEP fully endorse the continued relevance of the SDGs, with 88% of respondents believing that countries should pursue the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.33578869700431824,
+          "perplexity": 37,
+          "sentence": "However, the panelists also acknowledged that due to the pandemic, the timelines might be more complicated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.34956300258636475,
+          "perplexity": 78,
+          "sentence": "Dr. Nadine McCloud, head of the Economics Department at UWI Mona and co-founder of the JEP, adds that \u201cWhile some of the Goals may not be achievable, the majority continues to be relevant to each country, particularly during this pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3397007882595062,
+          "perplexity": 49,
+          "sentence": "Moreover, the interlinkages between them mean that a coordinated approach may be more useful than only pursuing individual objectives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.33583083748817444,
+          "perplexity": 76,
+          "sentence": "Countries must act with dispatch to meet, at a minimum, a significant fraction of the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3336797058582306,
+          "perplexity": 150,
+          "sentence": "Yet, the absence of equitable global vaccine distribution isn't innocuous; it impedes any coordinated effort towards positive, sustainable development",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, the Jamaican Economy Panel (JEP) published the third round of its monthly discussion focusing on the Sustainable Development Goals (SDGs). The Jamaican Economy Panel is part of a partnership between the United Nations Resident Coordinator\u2019s Office (UNRCO) and the Department of Economics at The University of the West Indies (UWI) Mona. The JEP brings together a select group of economic and public sector experts to address monthly socio-economic questions. These questions help to highlight relevant economic issues and the collective expertise of the panelists. Primarily due to the COVID-19 pandemic, progress towards the SDGs has stalled. According to the Sustainable Development Report published on 14 June 2021*, a reversion in progress is evident for the first time since the report\u2019s launch; this comes even though much of the relevant data does not yet entail 2020 results due to lags common to international data collection. In 2021, even the most advanced country (Finland) was only 86% of the way to achieve the SDGs. Despite this result, the members of the JEP fully endorse the continued relevance of the SDGs, with 88% of respondents believing that countries should pursue the SDGs. However, the panelists also acknowledged that due to the pandemic, the timelines might be more complicated. Dr. Nadine McCloud, head of the Economics Department at UWI Mona and co-founder of the JEP, adds that \u201cWhile some of the Goals may not be achievable, the majority continues to be relevant to each country, particularly during this pandemic. Moreover, the interlinkages between them mean that a coordinated approach may be more useful than only pursuing individual objectives. Countries must act with dispatch to meet, at a minimum, a significant fraction of the SDGs. Yet, the absence of equitable global vaccine distribution isn\u2019t innocuous; it impedes any coordinated effort towards positive, sustainable development",
+  "date": "24 June 2021"
+}

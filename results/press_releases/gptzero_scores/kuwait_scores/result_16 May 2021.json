@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2bf77c08-7205-4848-9ead-53552b739910",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.94318962097168,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019653253257274628,
+          "perplexity": 44,
+          "sentence": "Kuwait, 16th of May 2021 - The United Nations celebrates the International Day of Living Together in Peace on the 16th of May of each year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020463685505092144,
+          "perplexity": 53,
+          "sentence": "A day that invites countries of the world to live and act together, united in differences and diversity to build a sustainable world of peace, solidarity, and harmony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021091739181429148,
+          "perplexity": 23,
+          "sentence": "Since its admission to the United Nations in 1963, the State of Kuwait has always emphasized on its commitment to regional and world peace and human dignity, promoting the use of dialogue among nations and fighting all forms of terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016094682505354285,
+          "perplexity": 53,
+          "sentence": "Now, in 2021, Kuwait stresses on the importance of dialogue to empower the values of equity, acceptance and co-existence between the different civilizations, cultures, and religions, and hence live together in peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011382239172235131,
+          "perplexity": 54,
+          "sentence": "With this belief asserted in actions, the State of Kuwait developed a State Vision of New Kuwait 2035, harmonizing its national development plan with the international development vision by adapting the plan to the United Nations Sustainable Development Goals (SDG's) 2030 agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011150621576234698,
+          "perplexity": 27,
+          "sentence": "In 1961, the year of its political independence, the state of Kuwait established the Kuwait Fund for Arab Economic Development (KFAED).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008883705595508218,
+          "perplexity": 61,
+          "sentence": "A generous declaration to the world that Kuwait is willing to share its wealth with other developing countries and hence lead in that vital and noble role of enhancing the regional and international peace and development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007835343130864203,
+          "perplexity": 32,
+          "sentence": "Since that date, KFAED has provided loans to 107 countries, for the purpose of implementing development projects in sectors such as education, transportation, industry, energy, water and sewerage, peacebuilding, and many others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008797579794190824,
+          "perplexity": 54,
+          "sentence": "This year, while the world is bravely fighting an unprecedented global crisis unleashed by COVID-19, it is important more than ever to promote equity, solidarity, compassion, and kindness to help ensure peace, under the motto 'Nobody is safe until everyone is safe'.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007838722667656839,
+          "perplexity": 1,
+          "sentence": "People",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait, 16th of May 2021 - The United Nations celebrates the International Day of Living Together in Peace on the 16th of May of each year. A day that invites countries of the world to live and act together, united in differences and diversity to build a sustainable world of peace, solidarity, and harmony. Since its admission to the United Nations in 1963, the State of Kuwait has always emphasized on its commitment to regional and world peace and human dignity, promoting the use of dialogue among nations and fighting all forms of terrorism. Now, in 2021, Kuwait stresses on the importance of dialogue to empower the values of equity, acceptance and co-existence between the different civilizations, cultures, and religions, and hence live together in peace. With this belief asserted in actions, the State of Kuwait developed a State Vision of New Kuwait 2035, harmonizing its national development plan with the international development vision by adapting the plan to the United Nations Sustainable Development Goals (SDG's) 2030 agenda. In 1961, the year of its political independence, the state of Kuwait established the Kuwait Fund for Arab Economic Development (KFAED). A generous declaration to the world that Kuwait is willing to share its wealth with other developing countries and hence lead in that vital and noble role of enhancing the regional and international peace and development. Since that date, KFAED has provided loans to 107 countries, for the purpose of implementing development projects in sectors such as education, transportation, industry, energy, water and sewerage, peacebuilding, and many others. This year, while the world is bravely fighting an unprecedented global crisis unleashed by COVID-19, it is important more than ever to promote equity, solidarity, compassion, and kindness to help ensure peace, under the motto \u2018Nobody is safe until everyone is safe\u2019. People",
+  "date": "16 May 2021"
+}

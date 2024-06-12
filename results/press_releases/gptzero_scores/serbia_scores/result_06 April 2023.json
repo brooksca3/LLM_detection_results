@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0b612a59-e450-4c73-abdb-beee3b1fbdc2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 135.40811157226562,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017366216343361884,
+          "perplexity": 35,
+          "sentence": "BELGRADE/GENEVA (6 April 2023) - Serbia must ensure that legal reforms are accompanied by effective implementation of laws and political will to combat dangerous rhetoric against minorities, journalists and activists, said Irene Khan, UN Special Rapporteur on freedom of opinion and expression.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019893771968781948,
+          "perplexity": 61,
+          "sentence": "\u201cI am encouraged by the government's plans to reform media laws in line with international standards but also alarmed by the toxic public discourse, from politicians or public officials and amplified by tabloids, scapegoating the media, human rights defenders, ethnic minorities, LGBTI and those critical of the government,\u201d Khan said at the end of her official visit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002715103328227997,
+          "perplexity": 30,
+          "sentence": "\u201cWhen journalists are labelled as foreign agents, traitors or enemies of the State, it undermines public trust in the media, increases the likelihood of attacks against journalists and chills media freedom and democratic debate.\u201d \u201cFreedom of expression is not a license to harass, intimidate or threaten critical voices,\u201d the UN expert said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028490638942457736,
+          "perplexity": 30,
+          "sentence": "\u201cI urge the government to ensure that all institutions and organs of the State implement the constitutional and legal framework upholding freedom of expression while combating hate speech and disinformation.\u201d \u201cGiven the role that tabloids play in spreading hate speech, I am concerned that the electronic media regulatory body (REM) is failing to take appropriate action against the violators, failing to promote pluralism in media content, and allowing smear campaigns and harassment to continue.\u201d \u201cSerbia must ensure that REM is independent, effective and accountable,\u201d the expert said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002954107476398349,
+          "perplexity": 26,
+          "sentence": "In order to ensure the safety of journalists, the expert urged the authorities to take measures to speed up investigations and legal proceedings related to threats and attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003114654100500047,
+          "perplexity": 71,
+          "sentence": "\u201cI call on the authorities to investigate and prosecute the longstanding cases of the journalists killed in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003044692857656628,
+          "perplexity": 46,
+          "sentence": "Killing journalists is the most egregious form of censorship.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002865714195650071,
+          "perplexity": 423,
+          "sentence": "Impunity must not prevail.\u201d Finally, she stressed",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BELGRADE/GENEVA (6 April 2023) \u2013 Serbia must ensure that legal reforms are accompanied by effective implementation of laws and political will to combat dangerous rhetoric against minorities, journalists and activists, said Irene Khan, UN Special Rapporteur on freedom of opinion and expression. \u201cI am encouraged by the government\u2019s plans to reform media laws in line with international standards but also alarmed by the toxic public discourse, from politicians or public officials and amplified by tabloids, scapegoating the media, human rights defenders, ethnic minorities, LGBTI and those critical of the government,\u201d Khan said at the end of her official visit. \u201cWhen journalists are labelled as foreign agents, traitors or enemies of the State, it undermines public trust in the media, increases the likelihood of attacks against journalists and chills media freedom and democratic debate.\u201d \u201cFreedom of expression is not a license to harass, intimidate or threaten critical voices,\u201d the UN expert said. \u201cI urge the government to ensure that all institutions and organs of the State implement the constitutional and legal framework upholding freedom of expression while combating hate speech and disinformation.\u201d \u201cGiven the role that tabloids play in spreading hate speech, I am concerned that the electronic media regulatory body (REM) is failing to take appropriate action against the violators, failing to promote pluralism in media content, and allowing smear campaigns and harassment to continue.\u201d \u201cSerbia must ensure that REM is independent, effective and accountable,\u201d the expert said. In order to ensure the safety of journalists, the expert urged the authorities to take measures to speed up investigations and legal proceedings related to threats and attacks. \u201cI call on the authorities to investigate and prosecute the longstanding cases of the journalists killed in Serbia. Killing journalists is the most egregious form of censorship. Impunity must not prevail.\u201d Finally, she stressed",
+  "date": "06 April 2023"
+}

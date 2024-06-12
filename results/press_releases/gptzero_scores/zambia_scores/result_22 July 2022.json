@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a38548b9-be3c-4e46-83b0-1d53fa95ddda",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 76.71041870117188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009469814249314368,
+          "perplexity": 35,
+          "sentence": "Leaders meeting at the Africa Union summit in Lusaka, Zambia, have pledged their support for the Education Plus initiative at its continental launch, committing to take action to keep adolescent girls in school, which will dramatically reduce their vulnerability to HIV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007203058339655399,
+          "perplexity": 34,
+          "sentence": "Every week, around 4200 adolescent girls and young women in sub-Saharan Africa acquire HIV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007389090023934841,
+          "perplexity": 272,
+          "sentence": "In 2020, six in seven adolescents aged between 15\u117319 years old acquiring HIV in the region were girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007844801875762641,
+          "perplexity": 33,
+          "sentence": "More than 23000 young women died from AIDS-related illnesses in 2020, making it the second leading cause of death among women aged 15\u117329 after maternal mortality in sub-Saharan Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010117711499333382,
+          "perplexity": 22,
+          "sentence": "Keeping girls in secondary school and providing them with life skills, training and employment opportunities is key to ending the AIDS pandemic in Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007564170518890023,
+          "perplexity": 44,
+          "sentence": "Research shows that ensuring that girls complete secondary education reduces their risk of acquiring HIV by up to half, and that combining this with a package of services and rights for girls' empowerment reduces their risk further still.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000562668836209923,
+          "perplexity": 28,
+          "sentence": "Education Plus calls for free and quality secondary education for all girls and boys in sub-Saharan Africa by 2025; universal access to comprehensive sexuality education; fulfilment of sexual and reproductive health and rights; freedom from gender-based and sexual violence; school-to-work transitions, and economic security and empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048203550977632403,
+          "perplexity": 120,
+          "sentence": "\u201cMy government has committed to the provision of free primary and secondary education for all,\u201d said President Hakainde Hichilema of Zambia, who hosted the summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003332771884743124,
+          "perplexity": 38,
+          "sentence": "\u201cEducation is the greatest equalizer and with appropriate education, everyone is given an opportunity to explore their full potential and be able to participate in the development process.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029233895475044847,
+          "perplexity": 70,
+          "sentence": "Access to education empowers both girls and boys as it enhances their ability to access decent jobs and other means of production thus alleviating poverty.\u201d The President of Senegal and current chair of the African Union, Macky",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Leaders meeting at the Africa Union summit in Lusaka, Zambia, have pledged their support for the Education Plus initiative at its continental launch, committing to take action to keep adolescent girls in school, which will dramatically reduce their vulnerability to HIV. Every week, around 4200 adolescent girls and young women in sub-Saharan Africa acquire HIV. In 2020, six in seven adolescents aged between 15\u201419 years old acquiring HIV in the region were girls. More than 23000 young women died from AIDS-related illnesses in 2020, making it the second leading cause of death among women aged 15\u201429 after maternal mortality in sub-Saharan Africa. Keeping girls in secondary school and providing them with life skills, training and employment opportunities is key to ending the AIDS pandemic in Africa. Research shows that ensuring that girls complete secondary education reduces their risk of acquiring HIV by up to half, and that combining this with a package of services and rights for girls\u2019 empowerment reduces their risk further still. Education Plus calls for free and quality secondary education for all girls and boys in sub-Saharan Africa by 2025; universal access to comprehensive sexuality education; fulfilment of sexual and reproductive health and rights; freedom from gender-based and sexual violence; school-to-work transitions, and economic security and empowerment. \u201cMy government has committed to the provision of free primary and secondary education for all,\u201d said President Hakainde Hichilema of Zambia, who hosted the summit. \u201cEducation is the greatest equalizer and with appropriate education, everyone is given an opportunity to explore their full potential and be able to participate in the development process. Access to education empowers both girls and boys as it enhances their ability to access decent jobs and other means of production thus alleviating poverty.\u201d The President of Senegal and current chair of the African Union, Macky",
+  "date": "22 July 2022"
+}

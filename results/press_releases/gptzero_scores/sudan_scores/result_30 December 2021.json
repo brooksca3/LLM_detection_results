@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3bdd8376-e240-408c-b1b8-4b1868073066",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.970401763916016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005212618503719568,
+          "perplexity": 47,
+          "sentence": "ROME - The World Food Programme (WFP) has suspended operations across the state of North Darfur in Sudan, following a series of attacks on all three of its warehouses in El Fasher, the state capital.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005067281890660524,
+          "perplexity": 55,
+          "sentence": "The suspension could affect close to two million people in the area in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004733160603791475,
+          "perplexity": 23,
+          "sentence": "The attacks began on the evening of 28 December and looting continued into the morning of 30 December.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005255701951682568,
+          "perplexity": 40,
+          "sentence": "More than 5,000 metric tons of food appear to have been taken, with hundreds of looters also dismantling warehouse structures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006032375618815422,
+          "perplexity": 75,
+          "sentence": "\u201cWFP is outraged by these senseless attacks and condemns the continued looting of assistance and the destruction of its assets in the strongest possible terms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006094084121286869,
+          "perplexity": 46,
+          "sentence": "As a result, we have been forced to suspend WFP operations in North Darfur, effective immediately,\u201d said David Beasley, WFP Executive Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006841658148914576,
+          "perplexity": 69,
+          "sentence": "\u201cThis theft has robbed nearly two million people of the food and nutrition support they so desperately need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00536586856469512,
+          "perplexity": 28,
+          "sentence": "Not only is this a tremendous setback to our operations across the country, but it endangers our staff and jeopardizes our ability to meet the needs of the most vulnerable families.\u201d WFP calls on the Government of Sudan to urgently provide adequate security, to recover the looted stocks and to provide guarantees so that WFP can safely resume its operations in North Darfur.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037341443821787834,
+          "perplexity": 173,
+          "sentence": "The losses in El Fasher cannot be replenished with stocks currently in Sudan without compromising assistance meant for vulnerable people in other parts of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003825233783572912,
+          "perplexity": 41,
+          "sentence": "A total of 10.9 million people in Sudan need food security and livelihood assistance in 2022.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "ROME \u2013 The World Food Programme (WFP) has suspended operations across the state of North Darfur in Sudan, following a series of attacks on all three of its warehouses in El Fasher, the state capital. The suspension could affect close to two million people in the area in 2022. The attacks began on the evening of 28 December and looting continued into the morning of 30 December. More than 5,000 metric tons of food appear to have been taken, with hundreds of looters also dismantling warehouse structures. \u201cWFP is outraged by these senseless attacks and condemns the continued looting of assistance and the destruction of its assets in the strongest possible terms. As a result, we have been forced to suspend WFP operations in North Darfur, effective immediately,\u201d said David Beasley, WFP Executive Director. \u201cThis theft has robbed nearly two million people of the food and nutrition support they so desperately need. Not only is this a tremendous setback to our operations across the country, but it endangers our staff and jeopardizes our ability to meet the needs of the most vulnerable families.\u201d WFP calls on the Government of Sudan to urgently provide adequate security, to recover the looted stocks and to provide guarantees so that WFP can safely resume its operations in North Darfur. The losses in El Fasher cannot be replenished with stocks currently in Sudan without compromising assistance meant for vulnerable people in other parts of the country. A total of 10.9 million people in Sudan need food security and livelihood assistance in 2022.",
+  "date": "30 December 2021"
+}

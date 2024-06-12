@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d9c67201-dac2-4c18-b068-d5379da18f46",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.187664031982422,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007246753666549921,
+          "perplexity": 32,
+          "sentence": "Manila, Philippines - Despite the lifting of the enhanced community quarantine (ECQ) in Metro Manila, majority of the micro, small, and medium enterprises (MSMEs) are still temporarily closed or are operating at decreased capacity\u1173an indicator of the difficulties they are facing in getting back to their business operations according to the recent survey conducted by the United Nations Development Programme (UNDP) on the impact of COVID-19 on MSMEs in the Philippines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007784336339682341,
+          "perplexity": 38,
+          "sentence": "MSMEs comprise 99.5% of business establishments in the Philippines and are employing approximately 63% of the country's workforce.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007726883050054312,
+          "perplexity": 16,
+          "sentence": "In the past years, MSMEs were responsible for 40% of the country's Gross Domestic Product (GDP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006461815442889929,
+          "perplexity": 68,
+          "sentence": "During the second quarter of 2020 and almost four months since the community quarantine was put in place, the country's GDP sank to 16.5% as the Philippines experienced recession due to the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006339901126921177,
+          "perplexity": 47,
+          "sentence": "In the first MSME online forum organized by the Philippine Disaster Resilience Foundation (PDRF) and UNDP Philippines through SIKAP (Synergizing Recovery Initiatives, Knowledge, and Adaptation Practices for MSMEs), the results of the survey were presented to more than 170 MSME owners and development organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007063357625156641,
+          "perplexity": 51,
+          "sentence": "The survey also showed that out of the 285 respondents, 81% reported experiencing low consumer demand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00706217996776104,
+          "perplexity": 100,
+          "sentence": "This low demand alongside shortages related to transportation and logistics, and lack of financing capacity were cited as the primary challenges of MSME owners in resuming their operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006562999449670315,
+          "perplexity": 93,
+          "sentence": "Since the implementation of community lockdowns, MSMEs continued to suffer from disrupted cashflow and continuing expenses, which led to income losses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006320354528725147,
+          "perplexity": 22,
+          "sentence": "Close to 80% of the respondents reported a reduction in their average monthly income from April to June compared to their average monthly income prior to the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005915380083024502,
+          "perplexity": 62,
+          "sentence": "While 20% of the respondents tried to retain employees with full pay despite income losses, their cashflow was so severely affected that 25% of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Manila, Philippines \u2013 Despite the lifting of the enhanced community quarantine (ECQ) in Metro Manila, majority of the micro, small, and medium enterprises (MSMEs) are still temporarily closed or are operating at decreased capacity\u2014an indicator of the difficulties they are facing in getting back to their business operations according to the recent survey conducted by the United Nations Development Programme (UNDP) on the impact of COVID-19 on MSMEs in the Philippines. MSMEs comprise 99.5% of business establishments in the Philippines and are employing approximately 63% of the country's workforce. In the past years, MSMEs were responsible for 40% of the country\u2019s Gross Domestic Product (GDP). During the second quarter of 2020 and almost four months since the community quarantine was put in place, the country\u2019s GDP sank to 16.5% as the Philippines experienced recession due to the COVID-19 pandemic. In the first MSME online forum organized by the Philippine Disaster Resilience Foundation (PDRF) and UNDP Philippines through SIKAP (Synergizing Recovery Initiatives, Knowledge, and Adaptation Practices for MSMEs), the results of the survey were presented to more than 170 MSME owners and development organizations. The survey also showed that out of the 285 respondents, 81% reported experiencing low consumer demand. This low demand alongside shortages related to transportation and logistics, and lack of financing capacity were cited as the primary challenges of MSME owners in resuming their operations. Since the implementation of community lockdowns, MSMEs continued to suffer from disrupted cashflow and continuing expenses, which led to income losses. Close to 80% of the respondents reported a reduction in their average monthly income from April to June compared to their average monthly income prior to the pandemic. While 20% of the respondents tried to retain employees with full pay despite income losses, their cashflow was so severely affected that 25% of",
+  "date": "02 October 2020"
+}

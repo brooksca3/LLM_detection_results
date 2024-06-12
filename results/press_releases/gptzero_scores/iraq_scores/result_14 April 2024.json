@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "708eccaa-360d-4394-af0b-923198b78c20",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.837547302246094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.63589918683283e-05,
+          "perplexity": 23,
+          "sentence": "A measles, mumps and rubella national campaign where more than 30,000 health workers will be mobilized to end disease transmission and save lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010567152639850974,
+          "perplexity": 26,
+          "sentence": "Baghdad, 14 April 2024 - Today, the Ministry of Health in collaboration with UNICEF and WHO kicks off a massive nationwide vaccination campaign to protect children from contagious measles, mumps, and rubella diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010061512875836343,
+          "perplexity": 36,
+          "sentence": "Over 7.5 million children aged 6 - 12 years in primary schools in addition to kindergartens are expected to be reached during this campaign that ends on 25 April 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010648968600435182,
+          "perplexity": 37,
+          "sentence": "\u201cThis campaign comes at a critical time to end the transmission of measles, one of the most contagious diseases,\u201d said Dr. Saleh Al-Hasnawi, Minister of Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019195780158042908,
+          "perplexity": 22,
+          "sentence": "\u201cThrough our collaborative efforts with UNICEF and WHO, the Ministry of Health can safely and effectively stop the circulation of the measles virus and save the lives of children from this deadly disease by vaccinating children everywhere.\u201d The Minister of Health for the Kurdistan Region Government, Dr. Saman Barzangy, added: \u201cMeasles is a communicable viral disease that the Regional Government is committed to prevent and protect the health of its citizens and future generations by adopting a region-wide mass measles vaccination drive for children in schools and kindergartens.\u201d This massive campaign is fully resourced by the Government with technical support from UNICEF and WHO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019172245636582375,
+          "perplexity": 75,
+          "sentence": "More than 30,000 frontline workers will deliver the vaccines, conduct community awareness, and monitor the campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019281893968582153,
+          "perplexity": 79,
+          "sentence": "\u201cThis nationwide immunization campaign reflects the strong commitment of the Ministry of Health to saving children's lives,\u201d said Ms. Sandra Lattouf, UNICEF Representative in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01794116385281086,
+          "perplexity": 31,
+          "sentence": "\u201cIt will strengthen the health system to provide essential health services to every child in Iraq and will accelerate progress towards attaining the Sustainable Development Goal 3.2.\u201d \u201cWHO remains committed to collaborating with the Ministry of Health, UNICEF and all partners to further",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A measles, mumps and rubella national campaign where more than 30,000 health workers will be mobilized to end disease transmission and save lives. Baghdad, 14 April 2024 \u2013 Today, the Ministry of Health in collaboration with UNICEF and WHO kicks off a massive nationwide vaccination campaign to protect children from contagious measles, mumps, and rubella diseases. Over 7.5 million children aged 6 - 12 years in primary schools in addition to kindergartens are expected to be reached during this campaign that ends on 25 April 2024. \u201cThis campaign comes at a critical time to end the transmission of measles, one of the most contagious diseases,\u201d said Dr. Saleh Al-Hasnawi, Minister of Health. \u201cThrough our collaborative efforts with UNICEF and WHO, the Ministry of Health can safely and effectively stop the circulation of the measles virus and save the lives of children from this deadly disease by vaccinating children everywhere.\u201d The Minister of Health for the Kurdistan Region Government, Dr. Saman Barzangy, added: \u201cMeasles is a communicable viral disease that the Regional Government is committed to prevent and protect the health of its citizens and future generations by adopting a region-wide mass measles vaccination drive for children in schools and kindergartens.\u201d This massive campaign is fully resourced by the Government with technical support from UNICEF and WHO. More than 30,000 frontline workers will deliver the vaccines, conduct community awareness, and monitor the campaign. \u201cThis nationwide immunization campaign reflects the strong commitment of the Ministry of Health to saving children\u2019s lives,\u201d said Ms. Sandra Lattouf, UNICEF Representative in Iraq. \u201cIt will strengthen the health system to provide essential health services to every child in Iraq and will accelerate progress towards attaining the Sustainable Development Goal 3.2.\u201d \u201cWHO remains committed to collaborating with the Ministry of Health, UNICEF and all partners to further",
+  "date": "14 April 2024"
+}

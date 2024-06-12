@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d8d2e089-e060-4fab-81b9-c0d470458e8c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 146.77203369140625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013154896441847086,
+          "perplexity": 33,
+          "sentence": "Amman - More than 400 young people in Jordan who have completed intensive, career-related training to support their successful transition to the labour market as part of the Job Search Clubs from UNICEF and the ILO, in coordination with the Ministry of Youth, were celebrated during an official event in Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013328445493243635,
+          "perplexity": 36,
+          "sentence": "The Minister of Youth, Mohammad Al Nabulsi, and Deputy Head of Mission of Embassy of the Kingdom of the Netherlands, Pier de Vries, took part in the ceremony, along with the youth's facilitators and representatives of partner organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001316360430791974,
+          "perplexity": 69,
+          "sentence": "The Jobs Search Clubs programme is supported by the Kingdom of the Netherlands, through the PROSPECTS partnership, and implemented by the Business Development Centre (BDC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012467513442970812,
+          "perplexity": 59,
+          "sentence": "To date, 80 facilitators have been trained, including Ministry of Youth staff in different governorates and volunteers in refugee camps, to deliver youth training and to continue supporting young people as they seek employment with one-on-one follow up.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013490422861650586,
+          "perplexity": 76,
+          "sentence": "\u201cThe Ministry has contributed along its partners, including national institutions, international organizations and civil society in preparing, training and empowering young people to enter the labour market,\u201d said Jordan's Youth Minister Muhammad al-Nabulsi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012988483649678528,
+          "perplexity": 79,
+          "sentence": "\u201cWe are supporting youth in their quest for suitable job opportunities, while also preparing the facilitators who are working with them across the country's centres.\u201d \u201cThe PROSPECTS partnership is a flagship programme of the Netherlands, focused on supporting vulnerable Jordanians and refugees, women and youth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012102446635253727,
+          "perplexity": 491,
+          "sentence": "This partnership invests in protection, learning and earning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012764387065544724,
+          "perplexity": 30,
+          "sentence": "We are very happy to see that 400 youth have already been part of this project, and many more to come in the near future,\u201d said Pier de Vries, Deputy Head of Mission of the Embassy of the Kingdom of the Netherlands.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011760253255488351,
+          "perplexity": 167,
+          "sentence": "\u201cWe are very happy about the Job Search Clubs facilitators' achievements and the results coming from these first few months",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman \u2013 More than 400 young people in Jordan who have completed intensive, career-related training to support their successful transition to the labour market as part of the Job Search Clubs from UNICEF and the ILO, in coordination with the Ministry of Youth, were celebrated during an official event in Amman. The Minister of Youth, Mohammad Al Nabulsi, and Deputy Head of Mission of Embassy of the Kingdom of the Netherlands, Pier de Vries, took part in the ceremony, along with the youth\u2019s facilitators and representatives of partner organizations. The Jobs Search Clubs programme is supported by the Kingdom of the Netherlands, through the PROSPECTS partnership, and implemented by the Business Development Centre (BDC). To date, 80 facilitators have been trained, including Ministry of Youth staff in different governorates and volunteers in refugee camps, to deliver youth training and to continue supporting young people as they seek employment with one-on-one follow up. \u201cThe Ministry has contributed along its partners, including national institutions, international organizations and civil society in preparing, training and empowering young people to enter the labour market,\u201d said Jordan\u2019s Youth Minister Muhammad al-Nabulsi. \u201cWe are supporting youth in their quest for suitable job opportunities, while also preparing the facilitators who are working with them across the country\u2019s centres.\u201d \u201cThe PROSPECTS partnership is a flagship programme of the Netherlands, focused on supporting vulnerable Jordanians and refugees, women and youth. This partnership invests in protection, learning and earning. We are very happy to see that 400 youth have already been part of this project, and many more to come in the near future,\u201d said Pier de Vries, Deputy Head of Mission of the Embassy of the Kingdom of the Netherlands. \u201cWe are very happy about the Job Search Clubs facilitators\u2019 achievements and the results coming from these first few months",
+  "date": "19 October 2022"
+}

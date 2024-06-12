@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "10e691ca-a4f5-45b6-9b63-5f63526465d6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 69.91627502441406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00034679603413678706,
+          "perplexity": 68,
+          "sentence": "An array of activities have been planned across five days in these islands to commemorate the occasion, with coordinative support from partners such as Eye Care Opticals, Society for Health Education (SHE), Health Protection Agency (HPA), Glow Fit Gym, Dhangethi Council, Dhangethi Health Centre, Island Councils, Schools, and locally based Women's Empowerment Committees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002691415138542652,
+          "perplexity": 109,
+          "sentence": "Activities include Diabetes awareness and screening, eye screening for diabetic patients, mental health sessions, dialogue with young leaders and numerous physical activities (such as Diabetes Day Run, Zumba and Aqua aerobics).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030665824306197464,
+          "perplexity": 240,
+          "sentence": "The activities will conclude with a Forum on Access to Diabetes Day for stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002688037930056453,
+          "perplexity": 41,
+          "sentence": "\u201cWorld Diabetes Day is a global occasion on which people with diabetes, health professionals, diabetes advocates, media, the general public and government organizations unite to raise awareness on diabetes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003082522307522595,
+          "perplexity": 124,
+          "sentence": "Your participation - both in the build-up to and following 14 November - is key to the success of the campaign.\u201d said Aishath Shiruhana, CEO of Diabetes Society Maldives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002716434246394783,
+          "perplexity": 43,
+          "sentence": "\u201cTaking part can be exciting and hugely rewarding\u201d \u201cThe starting point for living well with diabetes is an early diagnosis - the longer a person lives with undiagnosed and untreated diabetes, the worse their health outcomes are likely to be.\u201d said Dr Nazneen Anwar, WHO Representative to Maldives, \u201cDiabetes is preventable, treatable and it's onset can be delayed through healthy lifestyle changes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000258144224062562,
+          "perplexity": 56,
+          "sentence": "WHO is delighted to support Diabetes Society of Maldives in this endeavor to raise awareness and instill good practices such as healthy diet, physical activity, usage of medication and importance of regular screening and treatment for Diabetes within our communities.\u201d 14 November of each year marks the celebration of World Diabetes Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044076592894271016,
+          "perplexity": 27,
+          "sentence": "Established in 1991 by the International Diabetes Federation with support from WHO in response to growing concerns about the health and economic threat posed by diabetes, World Diabetes Day became",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "An array of activities have been planned across five days in these islands to commemorate the occasion, with coordinative support from partners such as Eye Care Opticals, Society for Health Education (SHE), Health Protection Agency (HPA), Glow Fit Gym, Dhangethi Council, Dhangethi Health Centre, Island Councils, Schools, and locally based Women\u2019s Empowerment Committees. Activities include Diabetes awareness and screening, eye screening for diabetic patients, mental health sessions, dialogue with young leaders and numerous physical activities (such as Diabetes Day Run, Zumba and Aqua aerobics). The activities will conclude with a Forum on Access to Diabetes Day for stakeholders. \u201cWorld Diabetes Day is a global occasion on which people with diabetes, health professionals, diabetes advocates, media, the general public and government organizations unite to raise awareness on diabetes. Your participation \u2013 both in the build-up to and following 14 November \u2013 is key to the success of the campaign.\u201d said Aishath Shiruhana, CEO of Diabetes Society Maldives. \u201cTaking part can be exciting and hugely rewarding\u201d \u201cThe starting point for living well with diabetes is an early diagnosis \u2013 the longer a person lives with undiagnosed and untreated diabetes, the worse their health outcomes are likely to be.\u201d said Dr Nazneen Anwar, WHO Representative to Maldives, \u201cDiabetes is preventable, treatable and it\u2019s onset can be delayed through healthy lifestyle changes. WHO is delighted to support Diabetes Society of Maldives in this endeavor to raise awareness and instill good practices such as healthy diet, physical activity, usage of medication and importance of regular screening and treatment for Diabetes within our communities.\u201d 14 November of each year marks the celebration of World Diabetes Day. Established in 1991 by the International Diabetes Federation with support from WHO in response to growing concerns about the health and economic threat posed by diabetes, World Diabetes Day became",
+  "date": "04 November 2021"
+}

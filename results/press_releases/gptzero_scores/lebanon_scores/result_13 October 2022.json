@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f4bf5109-6177-468d-883c-91f21359d8ad",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.09064865112305,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0014965643640607595,
+          "perplexity": 27,
+          "sentence": "Funded by the Government of Japan, the project aimed at strengthening the operational capacity of the health sector in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010267754551023245,
+          "perplexity": 111,
+          "sentence": "Under the project, UNOPS installed solar PV systems to the critical health facilities amid the serious shortage of electricity in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005357703194022179,
+          "perplexity": 99,
+          "sentence": "In addition, the initiative provided 116 pieces of critical equipment to a total of 16 governmental hospitals across Lebanon for medical treatment and sterilization, furniture and more than 33,000 COVID-19 medical supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008852699538692832,
+          "perplexity": 144,
+          "sentence": "At Rafic Hariri University Hospital, the newly installed renewable energy solution added a capacity of 384 KWp that will generate annual savings over USD 160,000, amid the drastic hike in fuel prices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014568667393177748,
+          "perplexity": 65,
+          "sentence": "Furthermore, the newly equipped central sterilization facilities will help provide improved healthcare for vulnerable populations in need of essential health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005239257588982582,
+          "perplexity": 24,
+          "sentence": "Following the presentation by Mr. Hicham Fawaz, Head of the Hospitals and Dispensaries Department at the Ministry of Public Health highlighting the health projects funded by the Government of Japan, representative of the Minister of Public Health, Mr. Fadi Sinan, Director General of the Ministry of Public Health, said: \u201cThe cooperation between the Ministry, the Government of Japan and UNOPS is not new.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015390561893582344,
+          "perplexity": 67,
+          "sentence": "Their long-standing and generous support has contributed to sustaining public healthcare services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006418854463845491,
+          "perplexity": 150,
+          "sentence": "Durable projects such as solar energy projects, provide regular and clean energy sources to government hospitals ensuring lower operational cost and sustainable solutions to the ongoing energy crisis.\u201d Japan Ambassador to Lebanon, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005879406817257404,
+          "perplexity": 40,
+          "sentence": "Mr. Takeshi Okubo, said: \u201cThrough this assistance, Japan aims to respond to the emerging threats, such as shortages of essential supplies, soaring prices and above all power outages, which are pushing hospitals across the country dangerously close to a breaking point.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005329958512447774,
+          "perplexity": 88,
+          "sentence": "Japan believes that renewable energy could enhance the hospitals' capacity to deter the grave risks arising from electricity outages on the provision of health",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Funded by the Government of Japan, the project aimed at strengthening the operational capacity of the health sector in Lebanon. Under the project, UNOPS installed solar PV systems to the critical health facilities amid the serious shortage of electricity in the country. In addition, the initiative provided 116 pieces of critical equipment to a total of 16 governmental hospitals across Lebanon for medical treatment and sterilization, furniture and more than 33,000 COVID-19 medical supplies. At Rafic Hariri University Hospital, the newly installed renewable energy solution added a capacity of 384 KWp that will generate annual savings over USD 160,000, amid the drastic hike in fuel prices. Furthermore, the newly equipped central sterilization facilities will help provide improved healthcare for vulnerable populations in need of essential health care. Following the presentation by Mr. Hicham Fawaz, Head of the Hospitals and Dispensaries Department at the Ministry of Public Health highlighting the health projects funded by the Government of Japan, representative of the Minister of Public Health, Mr. Fadi Sinan, Director General of the Ministry of Public Health, said: \u201cThe cooperation between the Ministry, the Government of Japan and UNOPS is not new. Their long-standing and generous support has contributed to sustaining public healthcare services. Durable projects such as solar energy projects, provide regular and clean energy sources to government hospitals ensuring lower operational cost and sustainable solutions to the ongoing energy crisis.\u201d Japan Ambassador to Lebanon, H.E. Mr. Takeshi Okubo, said: \u201cThrough this assistance, Japan aims to respond to the emerging threats, such as shortages of essential supplies, soaring prices and above all power outages, which are pushing hospitals across the country dangerously close to a breaking point. Japan believes that renewable energy could enhance the hospitals\u2019 capacity to deter the grave risks arising from electricity outages on the provision of health",
+  "date": "13 October 2022"
+}

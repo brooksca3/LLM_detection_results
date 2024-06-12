@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e877d02c-8079-4e95-bccf-97eea59d4f32",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.874507904052734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0027207951061427593,
+          "perplexity": 33,
+          "sentence": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General Turning to Malawi, I just wanted to say that the Secretary-General has learned with great sadness of the untimely passing of the Minister of Transport and Public Works, Sidik Mia, as well as the Minister of Local Government, Lingson Belekanyama.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024937610141932964,
+          "perplexity": 49,
+          "sentence": "The Secretary-General expresses his condolences to the families of the Ministers, all Malawians who have died due to complications related to COVID-19, President Lazarus Chakwera, the Government and the people of Malawi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002260423731058836,
+          "perplexity": 37,
+          "sentence": "And just to tell you what we are doing on the ground in Malawi in relation to the pandemic: The UN team, which is led by the Resident Coordinator Maria Jose Torres Macho, continues helping with national and local efforts to tackle the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020814272575080395,
+          "perplexity": 23,
+          "sentence": "WHO (World Health Organization), UNICEF (United Nations Children's Fund) and other partners have installed an oxygen plant to generate more than 1 million litres of oxygen per day to support COVID-19 case management in one of the country's main hospitals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002161091659218073,
+          "perplexity": 19,
+          "sentence": "The UN team is also working to improve access to clean water and sanitation, as well as working to save lives and livelihoods, reaching 1.7 million people through cash transfers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019761445000767708,
+          "perplexity": 50,
+          "sentence": "The UN continues to help with communications campaigns to prevent the spread of the virus, through door-to-door efforts, mobile vans, community drama sessions and social media efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018937214044854045,
+          "perplexity": 54,
+          "sentence": "Through the Spotlight Initiative, we are also tackling gender-based violence and we are concerned by an increase in girl pregnancies and child marriages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019105051178485155,
+          "perplexity": 11,
+          "sentence": "St\u00e9phane Dujarric de la Rivi\u00e8re is the Spokesperson for the United Nations Secretary-General Ant\u00f3nio Guterres.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General Turning to Malawi, I just wanted to say that the Secretary-General has learned with great sadness of the untimely passing of the Minister of Transport and Public Works, Sidik Mia, as well as the Minister of Local Government, Lingson Belekanyama. The Secretary-General expresses his condolences to the families of the Ministers, all Malawians who have died due to complications related to COVID-19, President Lazarus Chakwera, the Government and the people of Malawi. And just to tell you what we are doing on the ground in Malawi in relation to the pandemic: The UN team, which is led by the Resident Coordinator Maria Jose Torres Macho, continues helping with national and local efforts to tackle the pandemic. WHO (World Health Organization), UNICEF (United Nations Children\u2019s Fund) and other partners have installed an oxygen plant to generate more than 1 million litres of oxygen per day to support COVID-19 case management in one of the country\u2019s main hospitals. The UN team is also working to improve access to clean water and sanitation, as well as working to save lives and livelihoods, reaching 1.7 million people through cash transfers. The UN continues to help with communications campaigns to prevent the spread of the virus, through door-to-door efforts, mobile vans, community drama sessions and social media efforts. Through the Spotlight Initiative, we are also tackling gender-based violence and we are concerned by an increase in girl pregnancies and child marriages. St\u00e9phane Dujarric de la Rivi\u00e8re is the Spokesperson for the United Nations Secretary-General Ant\u00f3nio Guterres.",
+  "date": "13 January 2021"
+}

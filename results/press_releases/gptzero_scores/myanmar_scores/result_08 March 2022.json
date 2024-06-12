@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a3cee85a-55a4-45e3-8a13-4fd3690001fa",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05286052258376576,
+        "human": 0.932372093329341,
+        "mixed": 0.01476738408689329
+      },
+      "completely_generated_prob": 0.05286052258376576,
+      "confidence_category": "medium",
+      "confidence_score": 0.932372093329341,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05286052258376576,
+          "human": 0.932372093329341,
+          "mixed": 0.01476738408689329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.00111198425293,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0924052968621254,
+          "perplexity": 24,
+          "sentence": "On International Women's Day, the UN in Myanmar reaffirms its solidarity and commitment to the women and girls across Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07095617800951004,
+          "perplexity": 18,
+          "sentence": "(Yangon) As we mark the occasion of International Women's Day, the United Nations in Myanmar reiterates its commitment to put women and girls at the centre of its development and humanitarian work in response to the ongoing crises in the country, to ensure that their needs are met, and to support their role and agency in shaping a future path for their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07557882368564606,
+          "perplexity": 65,
+          "sentence": "The theme for 2022 is \u201cgender equal today for a sustainable tomorrow\u201d, recognizing that gender equality and women's rights are fundamental to global progress on peace and security, human rights, and sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.065903440117836,
+          "perplexity": 13,
+          "sentence": "Throughout history, the women of Myanmar have played a key role in the development of their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050923001021146774,
+          "perplexity": 37,
+          "sentence": "In the past two years, they have both assumed a leading role in the response to the COVID-19 pandemic and been at the forefront calling for a return to democracy and respect of human rights while being disproportionally affected by the compounded crises that the country is going through.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04046843945980072,
+          "perplexity": 30,
+          "sentence": "According to the latest humanitarian update from the United Nations in Myanmar, as of 28 February 873,000 people are displaced in Myanmar, including 502,600 people who have fled their homes since 1 February 2021 and 370,400 people from previous conflicts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.047510407865047455,
+          "perplexity": 47,
+          "sentence": "The majority of IDPs are women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04207088053226471,
+          "perplexity": 24,
+          "sentence": "Both the World Bank and International Labour Organization analyses show that the socio-economic impact of the crisis has disproportionally affected women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0394836962223053,
+          "perplexity": 18,
+          "sentence": "According to the ILO, 580,000 women were estimated to have lost their employment in just the first six months of 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04361460730433464,
+          "perplexity": 70,
+          "sentence": "A recent Study by the UN Development Programme and UN Women reveals that women are bearing the brunt of the impact of COVID-19 and the military",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On International Women\u2019s Day, the UN in Myanmar reaffirms its solidarity and commitment to the women and girls across Myanmar. (Yangon) As we mark the occasion of International Women\u2019s Day, the United Nations in Myanmar reiterates its commitment to put women and girls at the centre of its development and humanitarian work in response to the ongoing crises in the country, to ensure that their needs are met, and to support their role and agency in shaping a future path for their country. The theme for 2022 is \u201cgender equal today for a sustainable tomorrow\u201d, recognizing that gender equality and women's rights are fundamental to global progress on peace and security, human rights, and sustainable development. Throughout history, the women of Myanmar have played a key role in the development of their country. In the past two years, they have both assumed a leading role in the response to the COVID-19 pandemic and been at the forefront calling for a return to democracy and respect of human rights while being disproportionally affected by the compounded crises that the country is going through. According to the latest humanitarian update from the United Nations in Myanmar, as of 28 February 873,000 people are displaced in Myanmar, including 502,600 people who have fled their homes since 1 February 2021 and 370,400 people from previous conflicts. The majority of IDPs are women and girls. Both the World Bank and International Labour Organization analyses show that the socio-economic impact of the crisis has disproportionally affected women and girls. According to the ILO, 580,000 women were estimated to have lost their employment in just the first six months of 2021. A recent Study by the UN Development Programme and UN Women reveals that women are bearing the brunt of the impact of COVID-19 and the military",
+  "date": "08 March 2022"
+}

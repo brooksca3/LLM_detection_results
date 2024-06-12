@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0f841d29-936d-47a3-8829-9cb608d8bc46",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 86.69903564453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007066523539833724,
+          "perplexity": 46,
+          "sentence": "It gave the opportunity to present their products to the various attendees, sell them on the spot and to establish important connections with potential customers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006933790864422917,
+          "perplexity": 40,
+          "sentence": "On 1 and 2 October, the UN Women Georgia Country Office, within the framework of a regional initiative from UN Women Europe and its Central Asia Office, hosted its first large-scale exhibition for the sale of products and services created by women entrepreneurs at the Expo Georgia Exhibition Center in Tbilisi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008479341049678624,
+          "perplexity": 21,
+          "sentence": "During the two-day event, around 100 participants from all over the country had the opportunity to present their products to the various attendees, sell them on the spot and to establish important connections with potential customers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009574376745149493,
+          "perplexity": 41,
+          "sentence": "The event was held on the initiative of UN Women, with the involvement of the Georgian Government, certain educational circles, international organizations and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010007960954681039,
+          "perplexity": 95,
+          "sentence": "The exhibition was officially opened by the President of Georgia, Ms. Salome Zourabichvili.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008846392738632858,
+          "perplexity": 38,
+          "sentence": "She spoke about the importance of women's involvement in socioeconomic and business spheres, while also focusing on the availability of financial resources and the empowerment of women in the regions, affirming: \u201cI want to tell you that, at any time, in any format, the President and her administration are and will be by your side.\u201d The participants and guests of the exhibition were moreover addressed by the Ambassador Extraordinary and Plenipotentiary of the Kingdom of Norway to Georgia, Ms. Helene Sand Andresen, and the UN Women Regional Director for Europe and Central Asia, Ms. Alia El-Yassir.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008982516592368484,
+          "perplexity": 32,
+          "sentence": "\u201cAchieving gender equality is very important because it allows women to contribute more to public life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000765992677770555,
+          "perplexity": 47,
+          "sentence": "The empowerment of women is aimed both at their well-being and at the more sustainable, stable development of the country's economy,\u201d emphasized Ms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008513923385180533,
+          "perplexity": 313,
+          "sentence": "Sand Andresen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000841051631141454,
+          "perplexity": 52,
+          "sentence": "Ms. El-Yassir subsequently thanked the Government of Georgia, the Government of Norway,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "It gave the opportunity to present their products to the various attendees, sell them on the spot and to establish important connections with potential customers. On 1 and 2 October, the UN Women Georgia Country Office, within the framework of a regional initiative from UN Women Europe and its Central Asia Office, hosted its first large-scale exhibition for the sale of products and services created by women entrepreneurs at the Expo Georgia Exhibition Center in Tbilisi. During the two-day event, around 100 participants from all over the country had the opportunity to present their products to the various attendees, sell them on the spot and to establish important connections with potential customers. The event was held on the initiative of UN Women, with the involvement of the Georgian Government, certain educational circles, international organizations and the private sector. The exhibition was officially opened by the President of Georgia, Ms. Salome Zourabichvili. She spoke about the importance of women\u2019s involvement in socioeconomic and business spheres, while also focusing on the availability of financial resources and the empowerment of women in the regions, affirming: \u201cI want to tell you that, at any time, in any format, the President and her administration are and will be by your side.\u201d The participants and guests of the exhibition were moreover addressed by the Ambassador Extraordinary and Plenipotentiary of the Kingdom of Norway to Georgia, Ms. Helene Sand Andresen, and the UN Women Regional Director for Europe and Central Asia, Ms. Alia El-Yassir. \u201cAchieving gender equality is very important because it allows women to contribute more to public life. The empowerment of women is aimed both at their well-being and at the more sustainable, stable development of the country\u2019s economy,\u201d emphasized Ms. Sand Andresen. Ms. El-Yassir subsequently thanked the Government of Georgia, the Government of Norway,",
+  "date": "02 October 2022"
+}

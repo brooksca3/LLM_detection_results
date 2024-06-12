@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9537d64e-2468-44cf-b873-5c57ef8a4dfb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.09939956665039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001045163138769567,
+          "perplexity": 69,
+          "sentence": "Beirut, 27 October 2022 -- United Nations Special Coordinator for Lebanon, Ms. Joanna Wronecka, warmly welcomed today the handover of letters delineating the maritime boundary between Lebanon and Israel following successful US mediation, under the leadership of Special Presidential Coordinator Amos Hochstein.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011547915637493134,
+          "perplexity": 127,
+          "sentence": "\u201cThis is a historic achievement at many levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010873760329559445,
+          "perplexity": 76,
+          "sentence": "I hope it will serve as a confidence-building measure that promotes more security and stability in the region and economic benefits for both countries,\u201d said the Special Coordinator who received the signed maritime coordinates from both countries at the UNIFIL premises in Naqoura today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011179865105077624,
+          "perplexity": 49,
+          "sentence": "The Special Coordinator will deposit the documents at the UN Headquarters in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00186127086635679,
+          "perplexity": 68,
+          "sentence": "The Special Coordinator commended both Lebanon and Israel for reaching a mutually-agreed solution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017174342647194862,
+          "perplexity": 93,
+          "sentence": "She also underlined the particular significance for Lebanon where the political leaders demonstrated their unity towards a common goal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012156987795606256,
+          "perplexity": 121,
+          "sentence": "\u201cThis is a new chapter for Lebanon that could also create a positive momentum to build consensus around issues of national interest,\u201d the Special Coordinator added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015821296256035566,
+          "perplexity": 25,
+          "sentence": "Since the adoption of the Framework Agreement that launched the negotiation process in 2020, the United Nations has been working with both countries and the United States to put an end to their maritime boundary dispute.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017501618713140488,
+          "perplexity": 43,
+          "sentence": "Looking ahead and while all stakeholders should prioritize upholding the commitments outlined in the agreement, the United Nations remains committed to assist the parties to implement it, as requested and within its mandate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024041577707976103,
+          "perplexity": 24,
+          "sentence": "Highlighting the need for sustainable peace and security, the Special Coordinator reiterated the importance of the full implementation of Security Council Resolution 1701 and other relevant resolutions.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 27 October 2022 -- United Nations Special Coordinator for Lebanon, Ms. Joanna Wronecka, warmly welcomed today the handover of letters delineating the maritime boundary between Lebanon and Israel following successful US mediation, under the leadership of Special Presidential Coordinator Amos Hochstein. \u201cThis is a historic achievement at many levels. I hope it will serve as a confidence-building measure that promotes more security and stability in the region and economic benefits for both countries,\u201d said the Special Coordinator who received the signed maritime coordinates from both countries at the UNIFIL premises in Naqoura today. The Special Coordinator will deposit the documents at the UN Headquarters in New York. The Special Coordinator commended both Lebanon and Israel for reaching a mutually-agreed solution. She also underlined the particular significance for Lebanon where the political leaders demonstrated their unity towards a common goal. \u201cThis is a new chapter for Lebanon that could also create a positive momentum to build consensus around issues of national interest,\u201d the Special Coordinator added. Since the adoption of the Framework Agreement that launched the negotiation process in 2020, the United Nations has been working with both countries and the United States to put an end to their maritime boundary dispute. Looking ahead and while all stakeholders should prioritize upholding the commitments outlined in the agreement, the United Nations remains committed to assist the parties to implement it, as requested and within its mandate. Highlighting the need for sustainable peace and security, the Special Coordinator reiterated the importance of the full implementation of Security Council Resolution 1701 and other relevant resolutions.",
+  "date": "27 October 2022"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f42ec60b-e1d3-462c-9083-c10812c29dea",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022336294211194374,
+        "human": 0.9767018115453422,
+        "mixed": 0.000961894243463443
+      },
+      "completely_generated_prob": 0.022336294211194374,
+      "confidence_category": "high",
+      "confidence_score": 0.9767018115453422,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022336294211194374,
+          "human": 0.9767018115453422,
+          "mixed": 0.000961894243463443
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.635616302490234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002217791508883238,
+          "perplexity": 37,
+          "sentence": "On 20-21 September the State Committee on Forestry of Uzbekistan with support of the United Nations Economic Commission for Europe (UNECE) Food and Agriculture Organization of the United Nations (FAO) has organized the national forest policy dialogue \u201cForestry Sector Feasibility Study Towards Resilient Landscapes Restoration in Uzbekistan.\u201d The dialogue brought together experts from state ministries and agencies, civil society, academia, research institutions and international organisations to review the enabling environment (policy, legal and institutional frameworks) for the forestry sector, the finance mechanisms and financial sustainability of the forest landscape restoration works in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028028253000229597,
+          "perplexity": 86,
+          "sentence": "As mentioned during the dialogue, in 2018, the Government of Uzbekistan pledged to restore over 500,000 ha of degraded landscapes under the Bonn Challenge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029562702402472496,
+          "perplexity": 30,
+          "sentence": "The Bonn Challenge is a global goal to bring 150 million hectares of degraded and deforested landscapes into restoration by 2020 and 350 million hectares by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025896711740642786,
+          "perplexity": 62,
+          "sentence": "To date, 61 countries, 8 states and 5 associations have accepted the Bonn Challenge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003778530051931739,
+          "perplexity": 61,
+          "sentence": "The participants of the dialogue emphasized Uzbekistan's efforts within the framework of the nationwide project \"Yashil Makon\" (Green Space), initiated by the President of Uzbekistan Shavkat Mirziyoyev in 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004436826333403587,
+          "perplexity": 64,
+          "sentence": "This nation-wide afforestation programme was added to the Strategy for Developing the New Uzbekistan during 2022-2026 and envisages expansion of forest cover area in the country by planting 200 million trees annually.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006439911667257547,
+          "perplexity": 150,
+          "sentence": "The \"Yashil Makon\" project foresees a comprehensive scheme of greening efforts with engagement of various public agencies and research communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006060769781470299,
+          "perplexity": 111,
+          "sentence": "The National Forest Policy Dialogue in Tashkent was organized as part of UNECE/FAO Integrated Programme of Work 2022-2025.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 20-21 September the State Committee on Forestry of Uzbekistan with support of the United Nations Economic Commission for Europe (UNECE) Food and Agriculture Organization of the United Nations (FAO) has organized the national forest policy dialogue \u201cForestry Sector Feasibility Study Towards Resilient Landscapes Restoration in Uzbekistan.\u201d The dialogue brought together experts from state ministries and agencies, civil society, academia, research institutions and international organisations to review the enabling environment (policy, legal and institutional frameworks) for the forestry sector, the finance mechanisms and financial sustainability of the forest landscape restoration works in the country. As mentioned during the dialogue, in 2018, the Government of Uzbekistan pledged to restore over 500,000 ha of degraded landscapes under the Bonn Challenge. The Bonn Challenge is a global goal to bring 150 million hectares of degraded and deforested landscapes into restoration by 2020 and 350 million hectares by 2030. To date, 61 countries, 8 states and 5 associations have accepted the Bonn Challenge. The participants of the dialogue emphasized Uzbekistan\u2019s efforts within the framework of the nationwide project \"Yashil Makon\" (Green Space), initiated by the President of Uzbekistan Shavkat Mirziyoyev in 2021. This nation-wide afforestation programme was added to the Strategy for Developing the New Uzbekistan during 2022-2026 and envisages expansion of forest cover area in the country by planting 200 million trees annually. The \"Yashil Makon\" project foresees a comprehensive scheme of greening efforts with engagement of various public agencies and research communities. The National Forest Policy Dialogue in Tashkent was organized as part of UNECE/FAO Integrated Programme of Work 2022-2025.",
+  "date": "21 September 2022"
+}

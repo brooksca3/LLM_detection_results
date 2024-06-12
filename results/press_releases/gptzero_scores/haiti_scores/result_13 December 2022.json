@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1cc559c2-589b-47a2-b1ac-5e7e7405e681",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.5255012512207,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003784354485105723,
+          "perplexity": 27,
+          "sentence": "Port-au-Prince: With the support of the Pan American Health Organization (PAHO), Haiti received on 12 December around 1.17 million doses of oral cholera vaccines as cases continue to rise in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004289082426112145,
+          "perplexity": 49,
+          "sentence": "The vaccine (Euvichol) was provided by the International Coordinating Group on Vaccine Provision (IGC), which manages the global cholera vaccine stockpile, following a request by Haiti's Ministry of Public Health and Population (MSPP, its acronym in French).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003917122958227992,
+          "perplexity": 37,
+          "sentence": "Haiti's vaccination campaign is set to start in the next days, initially targeting populations over the age of one year in Cite Soleil, Delmas, Tabarre, Carrefour and Port-au-Prince in the Ouest Department and Mirebalais in the Centre Department - areas in which most of the cholera cases have been reported, to date.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004762366006616503,
+          "perplexity": 129,
+          "sentence": "\u201cHaiti has experience in managing cholera, but the fragile security situation has slowed down response efforts, so the arrival of these vaccines is most welcome,\u201d PAHO Director Carissa F. Etienne said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005826950073242188,
+          "perplexity": 28,
+          "sentence": "\u201cPAHO has been working with Haiti since the resurgence of cholera and will continue to support the national authorities to quickly distribute vaccines, monitor cases and provide life-saving care.\u201d The World Health Organization (WHO) recommends the use of the oral vaccine in combination with other measures - particularly water, sanitation, and hygiene interventions - to prevent the spread of the water-borne disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039498755359090865,
+          "perplexity": 63,
+          "sentence": "PAHO is providing technical and financial assistance to the MSPP to implement the vaccination campaign, including training of health workers, guidance to identify priority communities and potential barriers, deployment of record management tools and risk communication and community engagement activities to encourage vaccine uptake.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004828430828638375,
+          "perplexity": 114,
+          "sentence": "\u201cThe arrival of oral vaccines in Haiti is a step in the right direction,\u201d MSPP Director General Laur\u00e9 Adrien said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000608178204856813,
+          "perplexity": 71,
+          "sentence": "\u201cWe are integrating this tool into our national strategy, which includes surveillance, water and sanitation interventions, social mobilization, and treatment.\u201d \u201cWe hope",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Port-au-Prince: With the support of the Pan American Health Organization (PAHO), Haiti received on 12 December around 1.17 million doses of oral cholera vaccines as cases continue to rise in the country. The vaccine (Euvichol) was provided by the International Coordinating Group on Vaccine Provision (IGC), which manages the global cholera vaccine stockpile, following a request by Haiti\u2019s Ministry of Public Health and Population (MSPP, its acronym in French). Haiti\u2019s vaccination campaign is set to start in the next days, initially targeting populations over the age of one year in Cite Soleil, Delmas, Tabarre, Carrefour and Port-au-Prince in the Ouest Department and Mirebalais in the Centre Department \u2013 areas in which most of the cholera cases have been reported, to date. \u201cHaiti has experience in managing cholera, but the fragile security situation has slowed down response efforts, so the arrival of these vaccines is most welcome,\u201d PAHO Director Carissa F. Etienne said. \u201cPAHO has been working with Haiti since the resurgence of cholera and will continue to support the national authorities to quickly distribute vaccines, monitor cases and provide life-saving care.\u201d The World Health Organization (WHO) recommends the use of the oral vaccine in combination with other measures \u2013 particularly water, sanitation, and hygiene interventions \u2013 to prevent the spread of the water-borne disease. PAHO is providing technical and financial assistance to the MSPP to implement the vaccination campaign, including training of health workers, guidance to identify priority communities and potential barriers, deployment of record management tools and risk communication and community engagement activities to encourage vaccine uptake. \u201cThe arrival of oral vaccines in Haiti is a step in the right direction,\u201d MSPP Director General Laur\u00e9 Adrien said. \u201cWe are integrating this tool into our national strategy, which includes surveillance, water and sanitation interventions, social mobilization, and treatment.\u201d \u201cWe hope",
+  "date": "13 December 2022"
+}

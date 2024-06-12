@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1be999e6-f029-4d34-b352-edccaef534ea",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02354685082309966,
+        "human": 0.9754636794850778,
+        "mixed": 0.0009894696918226068
+      },
+      "completely_generated_prob": 0.02354685082309966,
+      "confidence_category": "high",
+      "confidence_score": 0.9754636794850778,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02354685082309966,
+          "human": 0.9754636794850778,
+          "mixed": 0.0009894696918226068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 83.98596954345703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01195994857698679,
+          "perplexity": 292,
+          "sentence": "In partnership with the Government of Japan, UNOPS delivered 868 oxygen concentrators to Thailand to strengthen COVID-19-response efforts nationwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038372324779629707,
+          "perplexity": 45,
+          "sentence": "In close coordination with the Ministry of Public Health of the Royal Thai Government, the UN country team in Thailand, led by UNOPS, managed the delivery of oxygen concentrators at the Suvarnabhumi Airport on 18 and 21 September 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031347956974059343,
+          "perplexity": 152,
+          "sentence": "An official handover ceremony was held at Bang Yai Hospital's Public Health Office in central Nonthaburi Province on 27 September 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038629011251032352,
+          "perplexity": 53,
+          "sentence": "His Excellency Dr. Sathit Pitutecha, Deputy Minister of the Ministry of Public Health, Royal Thai Government His Excellency Mr. Kazuya Nashida, Ambassador Extraordinary and Plenipotentiary of Japan to the Kingdom of Thailand During the event, it was confirmed that having delivered the items safely in 20 days, the 868 oxygen concentrators will be distributed to 79 hospitals and community health centres across all provinces of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00557516748085618,
+          "perplexity": 39,
+          "sentence": "Each oxygen concentrator has a 10-litre capacity and can be used in ICU facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00775874825194478,
+          "perplexity": 124,
+          "sentence": "The Royal Thai Government highly appreciates this donation to aid its medical response to the COVID-19 pandemic, and strengthen the country's healthcare system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006261640228331089,
+          "perplexity": 100,
+          "sentence": "His Excellency Mr. Kauzya Nashida, Ambassador of Japan in Thailand, stated: \u201cJapan and Thailand have been helping each other and deepening ties amid various crises.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005322739947587252,
+          "perplexity": 69,
+          "sentence": "In addition to this project with UNOPS, Japan has been supporting Thailand in overcoming the COVID-19 pandemic, by the donation of 1.65 million doses of AstraZeneca vaccine, the provision of cold chain equipment needed for vaccine transportation and storage... As a \u201cStrategic Partner\u201d and friend to Thailand, Japan will continue to extend support for the efforts of the people and Government of Thailand to build back better from the pandemic.\u201d Ms. Samina Kadwani, UNOPS Director for Thailand, Indonesia and the Pacific, stated: \u201cThe delivery of oxygen concentrators is the latest example of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In partnership with the Government of Japan, UNOPS delivered 868 oxygen concentrators to Thailand to strengthen COVID-19-response efforts nationwide. In close coordination with the Ministry of Public Health of the Royal Thai Government, the UN country team in Thailand, led by UNOPS, managed the delivery of oxygen concentrators at the Suvarnabhumi Airport on 18 and 21 September 2021. An official handover ceremony was held at Bang Yai Hospital's Public Health Office in central Nonthaburi Province on 27 September 2021. His Excellency Dr. Sathit Pitutecha, Deputy Minister of the Ministry of Public Health, Royal Thai Government His Excellency Mr. Kazuya Nashida, Ambassador Extraordinary and Plenipotentiary of Japan to the Kingdom of Thailand During the event, it was confirmed that having delivered the items safely in 20 days, the 868 oxygen concentrators will be distributed to 79 hospitals and community health centres across all provinces of the country. Each oxygen concentrator has a 10-litre capacity and can be used in ICU facilities. The Royal Thai Government highly appreciates this donation to aid its medical response to the COVID-19 pandemic, and strengthen the country\u2019s healthcare system. His Excellency Mr. Kauzya Nashida, Ambassador of Japan in Thailand, stated: \u201cJapan and Thailand have been helping each other and deepening ties amid various crises. In addition to this project with UNOPS, Japan has been supporting Thailand in overcoming the COVID-19 pandemic, by the donation of 1.65 million doses of AstraZeneca vaccine, the provision of cold chain equipment needed for vaccine transportation and storage... As a \u201cStrategic Partner\u201d and friend to Thailand, Japan will continue to extend support for the efforts of the people and Government of Thailand to build back better from the pandemic.\u201d Ms. Samina Kadwani, UNOPS Director for Thailand, Indonesia and the Pacific, stated: \u201cThe delivery of oxygen concentrators is the latest example of",
+  "date": "27 September 2021"
+}

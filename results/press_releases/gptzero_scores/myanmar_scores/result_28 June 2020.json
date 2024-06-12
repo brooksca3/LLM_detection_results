@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e3ff1966-4861-47b4-b673-42f0f207aeba",
+  "documents": [
+    {
+      "average_generated_prob": 1,
+      "class_probabilities": {
+        "ai": 0.7236238825849749,
+        "human": 0.2742501472810635,
+        "mixed": 0.002125970133961733
+      },
+      "completely_generated_prob": 0.7236238825849749,
+      "confidence_category": "low",
+      "confidence_score": 0.7236238825849749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.7236238825849749,
+          "human": 0.2742501472810635,
+          "mixed": 0.002125970133961733
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.5832405090332,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9187750751329665,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "ai",
+      "sentences": [
+        {
+          "generated_prob": 0.926996648311615,
+          "perplexity": 70,
+          "sentence": "The United Nations is concerned by the continuing humanitarian impact of conflict in Rakhine and southern Chin states of western Myanmar.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9333884119987488,
+          "perplexity": 72,
+          "sentence": "This concern is further elevated by reports of intensified fighting between the Tatmadaw and the Arakan Army in and around the Kyauk Tan village-tract of Rathedaung Township in Rakhine State.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9368867874145508,
+          "perplexity": 29,
+          "sentence": "This village-tract and nearby area is home to more than 10,000 people, and local sources report that many in this area are now fleeing from their homes.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9382762312889099,
+          "perplexity": 31,
+          "sentence": "There are also reports of people trapped by the fighting or lacking the means to move out of its way, with houses and other civilian property reportedly damaged or destroyed by the conflict.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9323671460151672,
+          "perplexity": 130,
+          "sentence": "The conflict in Rakhine and southern areas of Chin states continues to impact civilians.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.939535915851593,
+          "perplexity": 25,
+          "sentence": "According to the Rakhine State Government and humanitarian partners, more than 77,200 men, women and children are currently displaced across the two states as of 21 June, out of which some 14,500 civilians have been displaced in Rathedaung.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9408962726593018,
+          "perplexity": 20,
+          "sentence": "The United Nations calls on the parties to the conflict to respect international humanitarian law, fulfill their responsibilities and take urgent measures to spare civilians and civilian infrastructure, to adhere to the fundamental principles of distinction, proportionality and precaution, and to facilitate the provision of relief to people fleeing from violence, those trapped in their villages and everyone affected by the conflict.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9387043118476868,
+          "perplexity": 33,
+          "sentence": "The United Nations also urges the parties to heed the call by the UN Secretary-General for a global ceasefire in order to enable efforts to prevent and respond to the COVID-19 pandemic, which continues to evolve in Myanmar.",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "AI_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations is concerned by the continuing humanitarian impact of conflict in Rakhine and southern Chin states of western Myanmar. This concern is further elevated by reports of intensified fighting between the Tatmadaw and the Arakan Army in and around the Kyauk Tan village-tract of Rathedaung Township in Rakhine State. This village-tract and nearby area is home to more than 10,000 people, and local sources report that many in this area are now fleeing from their homes. There are also reports of people trapped by the fighting or lacking the means to move out of its way, with houses and other civilian property reportedly damaged or destroyed by the conflict. The conflict in Rakhine and southern areas of Chin states continues to impact civilians. According to the Rakhine State Government and humanitarian partners, more than 77,200 men, women and children are currently displaced across the two states as of 21 June, out of which some 14,500 civilians have been displaced in Rathedaung. The United Nations calls on the parties to the conflict to respect international humanitarian law, fulfill their responsibilities and take urgent measures to spare civilians and civilian infrastructure, to adhere to the fundamental principles of distinction, proportionality and precaution, and to facilitate the provision of relief to people fleeing from violence, those trapped in their villages and everyone affected by the conflict. The United Nations also urges the parties to heed the call by the UN Secretary-General for a global ceasefire in order to enable efforts to prevent and respond to the COVID-19 pandemic, which continues to evolve in Myanmar.",
+  "date": "28 June 2020"
+}

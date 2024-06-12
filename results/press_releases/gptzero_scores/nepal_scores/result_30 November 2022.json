@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bd04e906-4f6c-40fc-9649-6e25f9170b66",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.59065628051758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.887363557936624e-05,
+          "perplexity": 162,
+          "sentence": "The AIDS response is in danger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.738972585182637e-05,
+          "perplexity": 48,
+          "sentence": "Inequalities are the reason why.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.186266106553376e-05,
+          "perplexity": 106,
+          "sentence": "UNAIDS new report Dangerous Inequalities shows that unequal access to rights, services, science and resources is holding back the end of AIDS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.79689066298306e-05,
+          "perplexity": 56,
+          "sentence": "Dangerous Inequalities unpacks the impact on the AIDS response of gender inequalities, of inequalities faced by key populations, and of inequalities between children and adults.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.871640941128135e-05,
+          "perplexity": 89,
+          "sentence": "It sets out how worsening financial constraints are making it more difficult to address those inequalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010089933493873104,
+          "perplexity": 49,
+          "sentence": "Gender inequalities and harmful gender norms are holding back the end of the AIDS pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.730896999826655e-05,
+          "perplexity": 34,
+          "sentence": "Gender based violence is increasing women's risks of HIV infection and constraining the access of women living with HIV to life-savings services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010438459139550105,
+          "perplexity": 26,
+          "sentence": "In areas of high HIV burden, women subjected to intimate partner violence face up to a 50% higher chance of acquiring HIV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010088298586197197,
+          "perplexity": 189,
+          "sentence": "\u201cThe world will not be able to defeat AIDS while reinforcing patriarchy,\u201d said UNAIDS Executive Director Winnie Byanyima.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011155496031278744,
+          "perplexity": 172,
+          "sentence": "\u201cWe need to address the intersecting inequalities women face.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010727691551437601,
+          "perplexity": 26,
+          "sentence": "In areas of high HIV burden, women subjected to intimate partner violence face up to a 50% higher chance of acquiring HIV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.011937800096348e-05,
+          "perplexity": 37,
+          "sentence": "Across 33 countries from 2015-2021 only 41% of married women aged 15-24 could make their own decisions on sexual health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.310055611422285e-05,
+          "perplexity": 128,
+          "sentence": "The only effective route map to ending AIDS, achieving the sustainable development goals and ensuring health, rights and shared prosperity, is a feminist route map.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.641505312174559e-05,
+          "perplexity": 57,
+          "sentence": "Women's rights organizations and movements are already on the frontlines doing this bold work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012284207332413644,
+          "perplexity": 85,
+          "sentence": "Leaders need to support them and learn from them.\u201d The effects of gender inequalities on women's HIV risks are pronounced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010856720473384485,
+          "perplexity": 28,
+          "sentence": "One study showed that enabling girls to stay in school until they complete secondary education reduces their vulnerability to HIV infection by up to 50%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010646439477568492,
+          "perplexity": 169,
+          "sentence": "When this is reinforced with a package of empowerment support, girls' risks are reduced",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The AIDS response is in danger. Inequalities are the reason why. UNAIDS new report Dangerous Inequalities shows that unequal access to rights, services, science and resources is holding back the end of AIDS. Dangerous Inequalities unpacks the impact on the AIDS response of gender inequalities, of inequalities faced by key populations, and of inequalities between children and adults. It sets out how worsening financial constraints are making it more difficult to address those inequalities. Gender inequalities and harmful gender norms are holding back the end of the AIDS pandemic. Gender based violence is increasing women\u2019s risks of HIV infection and constraining the access of women living with HIV to life-savings services. In areas of high HIV burden, women subjected to intimate partner violence face up to a 50% higher chance of acquiring HIV. \u201cThe world will not be able to defeat AIDS while reinforcing patriarchy,\u201d said UNAIDS Executive Director Winnie Byanyima. \u201cWe need to address the intersecting inequalities women face. In areas of high HIV burden, women subjected to intimate partner violence face up to a 50% higher chance of acquiring HIV. Across 33 countries from 2015-2021 only 41% of married women aged 15-24 could make their own decisions on sexual health. The only effective route map to ending AIDS, achieving the sustainable development goals and ensuring health, rights and shared prosperity, is a feminist route map. Women\u2019s rights organizations and movements are already on the frontlines doing this bold work. Leaders need to support them and learn from them.\u201d The effects of gender inequalities on women\u2019s HIV risks are pronounced. One study showed that enabling girls to stay in school until they complete secondary education reduces their vulnerability to HIV infection by up to 50%. When this is reinforced with a package of empowerment support, girls\u2019 risks are reduced",
+  "date": "30 November 2022"
+}

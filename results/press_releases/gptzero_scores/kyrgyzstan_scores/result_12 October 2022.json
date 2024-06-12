@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9e4bc732-ac33-4d23-ad77-5d915634f193",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.70189666748047,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005409695440903306,
+          "perplexity": 27,
+          "sentence": "BISHKEK - The United Nations World Food Programme (WFP) - with financial assistance from the Green Climate Fund (GCF) - is launching a project in the Kyrgyz Republic to help vulnerable rural communities manage climate risks such as increasing weather variability, by providing climate services and helping to promote climate sensitive livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005387029959820211,
+          "perplexity": 67,
+          "sentence": "The GCF-funded project will help the Government of the Kyrgyz Republic, its line ministries and local authorities, to support over 100,000 food-insecure people living in Osh, Batken and Naryn provinces, boosting their adaptive capacities and reduce their vulnerability to the climate crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010112370364367962,
+          "perplexity": 49,
+          "sentence": "These provinces are increasingly affected by climate-related disasters, with communities suffering from limited capacities to adapt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000548487005289644,
+          "perplexity": 50,
+          "sentence": "The project aims to implement an innovative set of actions, including dissemination of climate services to manage climate risks and increasing weather variability; construction of small-scale climate risk reductions infrastructure; sharing of best practices to inform communities and improve decision-making; as well as focused effort to support climate change adaptation actions at the community level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005616495036520064,
+          "perplexity": 67,
+          "sentence": "\u201cWFP, with the Green Climate Fund and development partners, will help boost climate action and livelihood diversification, which will ultimately strengthen the overall economic resilience of communities living in areas prone to natural disasters,\u201d said Kojiro Nakai, WFP Country Director and Representative in the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006885069888085127,
+          "perplexity": 21,
+          "sentence": "The Kyrgyz Republic is highly vulnerable to climatic shocks, which are expected to increase in frequency and intensity with the climate crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005201661260798573,
+          "perplexity": 28,
+          "sentence": "In recent decades, the country has experienced increased weather variability such as disrupted rainfall patterns, increasingly heavy snowfalls, higher numbers of floods and mudflows in the spring, and a rise in drought and severe cold spells.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035353092243894935,
+          "perplexity": 45,
+          "sentence": "Negative impacts of climate change on pastures, land condition, water resources availability, environmental degradation and rising climate-related disasters affect rural households and in particular low-income groups that depend on agriculture for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BISHKEK - The United Nations World Food Programme (WFP) - with financial assistance from the Green Climate Fund (GCF) - is launching a project in the Kyrgyz Republic to help vulnerable rural communities manage climate risks such as increasing weather variability, by providing climate services and helping to promote climate sensitive livelihoods. The GCF-funded project will help the Government of the Kyrgyz Republic, its line ministries and local authorities, to support over 100,000 food-insecure people living in Osh, Batken and Naryn provinces, boosting their adaptive capacities and reduce their vulnerability to the climate crisis. These provinces are increasingly affected by climate-related disasters, with communities suffering from limited capacities to adapt. The project aims to implement an innovative set of actions, including dissemination of climate services to manage climate risks and increasing weather variability; construction of small-scale climate risk reductions infrastructure; sharing of best practices to inform communities and improve decision-making; as well as focused effort to support climate change adaptation actions at the community level. \u201cWFP, with the Green Climate Fund and development partners, will help boost climate action and livelihood diversification, which will ultimately strengthen the overall economic resilience of communities living in areas prone to natural disasters,\u201d said Kojiro Nakai, WFP Country Director and Representative in the Kyrgyz Republic. The Kyrgyz Republic is highly vulnerable to climatic shocks, which are expected to increase in frequency and intensity with the climate crisis. In recent decades, the country has experienced increased weather variability such as disrupted rainfall patterns, increasingly heavy snowfalls, higher numbers of floods and mudflows in the spring, and a rise in drought and severe cold spells. Negative impacts of climate change on pastures, land condition, water resources availability, environmental degradation and rising climate-related disasters affect rural households and in particular low-income groups that depend on agriculture for",
+  "date": "12 October 2022"
+}

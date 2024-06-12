@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3f811ea4-bbc4-4f31-bc97-ec468274b40c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.683452606201172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007403133437037468,
+          "perplexity": 44,
+          "sentence": "Amman - A 5-day photo exhibition entitled \u201c50 Years of World Heritage Convention - Protecting the Past for Now and Future,\u201d organized by UNESCO and the Department of Antiquities, opened at the Jordan Museum on Monday under the patronage of Her Royal Highness Princess Dana Firas, UNESCO Goodwill Ambassador for Cultural Heritage, and in partnership with the Ministry of Tourism and Antiquities and the Jordan Tourism Board.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011108475737273693,
+          "perplexity": 15,
+          "sentence": "The exhibition is organized to mark the 50th anniversary of the UNESCO World Heritage Convention which seeks to identify, protect and conserve cultural and natural heritage sites around the world which are considered to have outstanding value to humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012045435607433319,
+          "perplexity": 28,
+          "sentence": "The Convention, which has been ratified by 194 states, including Jordan, makes it one of the most widely recognised international agreements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008168547414243221,
+          "perplexity": 19,
+          "sentence": "The opening ceremony of the exhibition took place on Monday, 21 November, in the presence of government officials, Ambassadors, representatives of international organizations, and members of the Jordanian public.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007111314684152603,
+          "perplexity": 34,
+          "sentence": "\"It is really important to understand how valuable the World Heritage Convention has been, not only for the international community, but for us here in Jordan,\" said Her Royal Highness Princess Dana Firas, UNESCO Goodwill Ambassador for Cultural Heritage Emphasizing the value of conserving Jordan's rich cultural heritage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00841610413044691,
+          "perplexity": 23,
+          "sentence": "She also pointed to the link between world heritage and tourism, explaining the importance of preserving these sites for the well-being of the nation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00404802430421114,
+          "perplexity": 47,
+          "sentence": "Director-General of the Department of Antiquities His Excellency Professor Fadi Bala'awi highlighted how the Convention can help strengthen the conservation of Jordan's heritage sites.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032738710287958384,
+          "perplexity": 72,
+          "sentence": "\u201cJordan has always been a gateway to civilisations and cultures, with its rich archaeological sites and monuments that spread over its entire area, particularly, the six World Heritage in sites in Jordan, which are a testimony to the efficacy of cultural heritage at local, national and global scales\u201d,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - A 5-day photo exhibition entitled \u201c50 Years of World Heritage Convention \u2013 Protecting the Past for Now and Future,\u201d organized by UNESCO and the Department of Antiquities, opened at the Jordan Museum on Monday under the patronage of Her Royal Highness Princess Dana Firas, UNESCO Goodwill Ambassador for Cultural Heritage, and in partnership with the Ministry of Tourism and Antiquities and the Jordan Tourism Board. The exhibition is organized to mark the 50th anniversary of the UNESCO World Heritage Convention which seeks to identify, protect and conserve cultural and natural heritage sites around the world which are considered to have outstanding value to humanity. The Convention, which has been ratified by 194 states, including Jordan, makes it one of the most widely recognised international agreements. The opening ceremony of the exhibition took place on Monday, 21 November, in the presence of government officials, Ambassadors, representatives of international organizations, and members of the Jordanian public. \"It is really important to understand how valuable the World Heritage Convention has been, not only for the international community, but for us here in Jordan,\" said Her Royal Highness Princess Dana Firas, UNESCO Goodwill Ambassador for Cultural Heritage Emphasizing the value of conserving Jordan\u2019s rich cultural heritage. She also pointed to the link between world heritage and tourism, explaining the importance of preserving these sites for the well-being of the nation. Director-General of the Department of Antiquities His Excellency Professor Fadi Bala\u2019awi highlighted how the Convention can help strengthen the conservation of Jordan\u2019s heritage sites. \u201cJordan has always been a gateway to civilisations and cultures, with its rich archaeological sites and monuments that spread over its entire area, particularly, the six World Heritage in sites in Jordan, which are a testimony to the efficacy of cultural heritage at local, national and global scales\u201d,",
+  "date": "15 November 2022"
+}

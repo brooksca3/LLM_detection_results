@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bd989af7-19a5-4898-b148-1a2b7af945f2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.162156105041504,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002563480054959655,
+          "perplexity": 13,
+          "sentence": "Geneva - A UN report on Yemen released on Tuesday details a host of possible war crimes committed by various parties to the conflict over the past five years, including through airstrikes, indiscriminate shelling, snipers, landmines, as well as arbitrary killings and detention, torture, sexual and gender-based violence, and the impeding of access to humanitarian aid in the midst of the worst humanitarian crisis in the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025873747654259205,
+          "perplexity": 28,
+          "sentence": "The Group of International and Regional Eminent Experts on Yemen, created by the UN Human Rights Council, found that the governments of Yemen and the United Arab Emirates and Saudi Arabia, as well as the Houthis and affiliated popular committees have enjoyed a \u201cpervasive lack of accountability\u201d for violations of international humanitarian and human rights law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002320928731933236,
+          "perplexity": 13,
+          "sentence": "The report calls for the immediate cessation of all acts of violence committed against civilians in violation of applicable international human rights and international humanitarian law, and demands that the parties take action to protect civilians and ensure justice for all victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002255473518744111,
+          "perplexity": 13,
+          "sentence": "It urges other States to refrain from providing arms that could be used in the conflict, and reminds them of their obligation to take all reasonable measures to ensure respect for international humanitarian law by all parties to the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001753289601765573,
+          "perplexity": 36,
+          "sentence": "\u201cFive years into the conflict, violations against Yemeni civilians continue unabated, with total disregard for the plight of the people and a lack of international action to hold parties to the conflict accountable,\u201d said Mr. Kamel Jendoubi, chairperson of the Group of Experts on Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011731063714250922,
+          "perplexity": 46,
+          "sentence": "\u201cThe international community must multiply its efforts to free the Yemeni people from the persistent injustice they have been enduring.\u201d Despite a lack of cooperation by the Coalition and Government of Yemen, the Group of Experts was able during the short time available this year to conduct more than 600",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Geneva \u2013 A UN report on Yemen released on Tuesday details a host of possible war crimes committed by various parties to the conflict over the past five years, including through airstrikes, indiscriminate shelling, snipers, landmines, as well as arbitrary killings and detention, torture, sexual and gender-based violence, and the impeding of access to humanitarian aid in the midst of the worst humanitarian crisis in the world. The Group of International and Regional Eminent Experts on Yemen, created by the UN Human Rights Council, found that the governments of Yemen and the United Arab Emirates and Saudi Arabia, as well as the Houthis and affiliated popular committees have enjoyed a \u201cpervasive lack of accountability\u201d for violations of international humanitarian and human rights law. The report calls for the immediate cessation of all acts of violence committed against civilians in violation of applicable international human rights and international humanitarian law, and demands that the parties take action to protect civilians and ensure justice for all victims. It urges other States to refrain from providing arms that could be used in the conflict, and reminds them of their obligation to take all reasonable measures to ensure respect for international humanitarian law by all parties to the conflict. \u201cFive years into the conflict, violations against Yemeni civilians continue unabated, with total disregard for the plight of the people and a lack of international action to hold parties to the conflict accountable,\u201d said Mr. Kamel Jendoubi, chairperson of the Group of Experts on Yemen. \u201cThe international community must multiply its efforts to free the Yemeni people from the persistent injustice they have been enduring.\u201d Despite a lack of cooperation by the Coalition and Government of Yemen, the Group of Experts was able during the short time available this year to conduct more than 600",
+  "date": "03 September 2019"
+}

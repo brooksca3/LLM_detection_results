@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "90409139-7a76-4e78-9aae-ba8bd0bbfebf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01138902219272845,
+        "human": 0.9876383128684515,
+        "mixed": 0.0009726649388199763
+      },
+      "completely_generated_prob": 0.01138902219272845,
+      "confidence_category": "high",
+      "confidence_score": 0.9876383128684515,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01138902219272845,
+          "human": 0.9876383128684515,
+          "mixed": 0.0009726649388199763
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.665254592895508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004212386847939342,
+          "perplexity": 69,
+          "sentence": "Meeting supported by UN Women and the French Embassy on the economic rehabilitation of victims of violence held on the International Women's Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003927963552996516,
+          "perplexity": 49,
+          "sentence": "At the initiative of UN Women, the French Embassy in Georgia and business associations, the representatives of Anti-Violence Network of Georgia and the private sector held a meeting attended by the members of Women's Empowerment Principles (WEPs) signatory business organizations, the business federation Women for Tomorrow, the European Business Association and Chamber of Commerce and Industry France - Georgia (CCIFG).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038194857188500464,
+          "perplexity": 84,
+          "sentence": "The French Ambassador to Georgia, Sheraz Ghasri, UN Resident Coordinator in Georgia, Sabine Machl, and the UN Women Country Representative in Georgia, Kaori Ishikawa opened the meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046236312482506037,
+          "perplexity": 21,
+          "sentence": "During the next part of the event, the participants discussed the importance of involvement of business organizations in the process of social and economic rehabilitation of the victims/survivors of violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004328046925365925,
+          "perplexity": 53,
+          "sentence": "During the event, the participants discussed the current situation regarding the gender-based violence and victim support services in the country, the private sector representatives also shared successful initiatives implemented in their companies supporting social and economic capacities of the survivors of violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007123672403395176,
+          "perplexity": 39,
+          "sentence": "It was highlighted at the event that an effective fight against gender-based violence requires the engagement of various sectors, including the government, non-governmental or donor organizations and businesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004895266611129045,
+          "perplexity": 35,
+          "sentence": "It is the unified approach of this kind that leads to large-scale changes in social norms and behavior, and the private sector can play the role of utmost significance in this process, inter alia, by raising awareness and changing the stereotypical approaches, mobilizing resources, etc.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007112866151146591,
+          "perplexity": 43,
+          "sentence": "'The UN will continue to promote greater gender equality, gender responsiveness and non-discrimination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028243903070688248,
+          "perplexity": 38,
+          "sentence": "The road to healing for survivors of violence requires not only justice, but also a path back to social and economic stability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023219760041683912,
+          "perplexity": 74,
+          "sentence": "The private sector can help with providing employment opportunities, skills",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Meeting supported by UN Women and the French Embassy on the economic rehabilitation of victims of violence held on the International Women\u2019s Day. At the initiative of UN Women, the French Embassy in Georgia and business associations, the representatives of Anti-Violence Network of Georgia and the private sector held a meeting attended by the members of Women\u2019s Empowerment Principles (WEPs) signatory business organizations, the business federation Women for Tomorrow, the European Business Association and Chamber of Commerce and Industry France - Georgia (CCIFG). The French Ambassador to Georgia, Sheraz Ghasri, UN Resident Coordinator in Georgia, Sabine Machl, and the UN Women Country Representative in Georgia, Kaori Ishikawa opened the meeting. During the next part of the event, the participants discussed the importance of involvement of business organizations in the process of social and economic rehabilitation of the victims/survivors of violence. During the event, the participants discussed the current situation regarding the gender-based violence and victim support services in the country, the private sector representatives also shared successful initiatives implemented in their companies supporting social and economic capacities of the survivors of violence. It was highlighted at the event that an effective fight against gender-based violence requires the engagement of various sectors, including the government, non-governmental or donor organizations and businesses. It is the unified approach of this kind that leads to large-scale changes in social norms and behavior, and the private sector can play the role of utmost significance in this process, inter alia, by raising awareness and changing the stereotypical approaches, mobilizing resources, etc. \u2018The UN will continue to promote greater gender equality, gender responsiveness and non-discrimination. The road to healing for survivors of violence requires not only justice, but also a path back to social and economic stability. The private sector can help with providing employment opportunities, skills",
+  "date": "07 March 2024"
+}

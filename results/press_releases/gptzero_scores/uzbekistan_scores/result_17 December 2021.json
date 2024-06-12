@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "28a9165d-ef83-4403-b86f-5873e2f93bfe",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.019832611083984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005109583144076169,
+          "perplexity": 18,
+          "sentence": "The United Nations Children's Fund (UNICEF), International Labour Organisation (ILO) and the United Nations Development Programme (UNDP) organized a meeting for national and international development partners to discuss the achievements of the UN Joint Programme on Strengthening Social Protection in Uzbekistan and to foster actions for social protection strengthening in the context of the ongoing reforms and COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004921607323922217,
+          "perplexity": 39,
+          "sentence": "The event, co-chaired by the Deputy Minister of Finance and UNICEF Representative for Uzbekistan, hosted more than 40 participants from the line ministries, national stakeholders, as well as international development organizations, foreign embassies and UN agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005722448695451021,
+          "perplexity": 82,
+          "sentence": "\u201cThe Joint Programme in Uzbekistan reflects Global Partnership for Universal Social Protection to achieve Sustainable Development Goals through the integration of main principles in the local context: social protection throughout the lifecycle; universal coverage; sustainable and equitable financing; civil society participation and social dialogue, especially with persons with disabilities by leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00059170724125579,
+          "perplexity": 69,
+          "sentence": "We appreciate all national and development partners who provide their continuous support to the successful implementation of social protection reforms in the country and look forward to their renewed commitment in 2022 and beyond.\u201d - Mr. Munir Mamedzade, UNICEF Representative for Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006557663436979055,
+          "perplexity": 27,
+          "sentence": "In 2020, UNICEF, ILO and UNDP combined their efforts within the UN Joint Programme on Social Protection in Uzbekistan with the aim of building a comprehensive architecture of social protection system that will consider the needs of vulnerable groups and ensure that no-one is left behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007149353041313589,
+          "perplexity": 48,
+          "sentence": "The Programme was financially supported by the UN Joint Sustainable Development Goals (SDG) Fund with a twofold purpose: improving social protection systems to accelerate progress towards achievement of SDGs and to enhance multilateral collaboration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008235881687141955,
+          "perplexity": 70,
+          "sentence": "The social protection system in Uzbekistan was fragmented at institutional, policy and programme levels, which resulted in ineffective leadership over the significant component of the government's portfolio of programmes",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Children\u2019s Fund (UNICEF), International Labour Organisation (ILO) and the United Nations Development Programme (UNDP) organized a meeting for national and international development partners to discuss the achievements of the UN Joint Programme on Strengthening Social Protection in Uzbekistan and to foster actions for social protection strengthening in the context of the ongoing reforms and COVID-19 pandemic. The event, co-chaired by the Deputy Minister of Finance and UNICEF Representative for Uzbekistan, hosted more than 40 participants from the line ministries, national stakeholders, as well as international development organizations, foreign embassies and UN agencies. \u201cThe Joint Programme in Uzbekistan reflects Global Partnership for Universal Social Protection to achieve Sustainable Development Goals through the integration of main principles in the local context: social protection throughout the lifecycle; universal coverage; sustainable and equitable financing; civil society participation and social dialogue, especially with persons with disabilities by leaving no one behind. We appreciate all national and development partners who provide their continuous support to the successful implementation of social protection reforms in the country and look forward to their renewed commitment in 2022 and beyond.\u201d - Mr. Munir Mamedzade, UNICEF Representative for Uzbekistan. In 2020, UNICEF, ILO and UNDP combined their efforts within the UN Joint Programme on Social Protection in Uzbekistan with the aim of building a comprehensive architecture of social protection system that will consider the needs of vulnerable groups and ensure that no-one is left behind. The Programme was financially supported by the UN Joint Sustainable Development Goals (SDG) Fund with a twofold purpose: improving social protection systems to accelerate progress towards achievement of SDGs and to enhance multilateral collaboration. The social protection system in Uzbekistan was fragmented at institutional, policy and programme levels, which resulted in ineffective leadership over the significant component of the government\u2019s portfolio of programmes",
+  "date": "17 December 2021"
+}

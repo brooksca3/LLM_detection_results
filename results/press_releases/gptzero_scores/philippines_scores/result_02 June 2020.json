@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8f25634e-af50-4a16-81ae-8ba51a29f726",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07487773230861364,
+        "human": 0.924297168712779,
+        "mixed": 0.0008250989786073128
+      },
+      "completely_generated_prob": 0.07487773230861364,
+      "confidence_category": "medium",
+      "confidence_score": 0.924297168712779,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07487773230861364,
+          "human": 0.924297168712779,
+          "mixed": 0.0008250989786073128
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 83.6078109741211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005917935632169247,
+          "perplexity": 241,
+          "sentence": "A Kapihan at Usapang Urban session, UN-Habitat Philippines's informal dialogue platform for partners and urban stakeholders, was held on the topic \u201cDesigning Pandemic-Resilient Cities: Insights from the COVID-19 Experience\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000530821387656033,
+          "perplexity": 36,
+          "sentence": "Attended by over 40 people, including UN-Habitat staff and representatives from national partners such as the Department of Human Settlements and Urban Development (DHSUD) and the League of Cities of the Philippines (LCP), the Kapihan aimed to 1) promote the sharing of experiences and insights on the current pandemic and its implications on resilience of cities, particularly on slums and informal settlements, urban planning and design, and basic urban services, with citations of current examples of country responses and 2) search for solutions to challenges on how to improve existing programs, projects and policies in addressing future health crises and overall resilience of cities in the emerging post-pandemic scenario.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005379502545110881,
+          "perplexity": 210,
+          "sentence": "UN-Habitat Country Programme Manager Cris Rollo shared UN-Habitat's Covid-19 Response at the global and local levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21857225894927979,
+          "perplexity": 115,
+          "sentence": "Guest speakers who gave technical presentations included Bert Smolders of Arcadis, who spoke on the systemic, spatial, and design interventions needed to promote pandemic resilience; Ragene Palma, urban planner and current Westminster University Masters candidate, who spoke on spatial inequality and Covid's impact on informality; and Louwie Gan, architect and urban planner, who discussed pandemic resilience from a design perspective of Philippine spaces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21264827251434326,
+          "perplexity": 50,
+          "sentence": "Emerging from the challenges and recommendations in the presentations were shared principles between climate resilience and pandemic resilience when it came to urban planning and design interventions, such as a needed increase in green open spaces, increased walkability, more sustainable and climate-friendly transport options, equitable access to basic and social services, improved connectivity and mobility within and among neighborhoods, better shelter planning, and a push for build-with-nature approaches.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19793657958507538,
+          "perplexity": 100,
+          "sentence": "The urban poor, informal settlers and other disadvantaged groups, already with pre-existing vulnerabilities, were highlighted",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A Kapihan at Usapang Urban session, UN-Habitat Philippines\u2019s informal dialogue platform for partners and urban stakeholders, was held on the topic \u201cDesigning Pandemic-Resilient Cities: Insights from the COVID-19 Experience\u201d. Attended by over 40 people, including UN-Habitat staff and representatives from national partners such as the Department of Human Settlements and Urban Development (DHSUD) and the League of Cities of the Philippines (LCP), the Kapihan aimed to 1) promote the sharing of experiences and insights on the current pandemic and its implications on resilience of cities, particularly on slums and informal settlements, urban planning and design, and basic urban services, with citations of current examples of country responses and 2) search for solutions to challenges on how to improve existing programs, projects and policies in addressing future health crises and overall resilience of cities in the emerging post-pandemic scenario. UN-Habitat Country Programme Manager Cris Rollo shared UN-Habitat\u2019s Covid-19 Response at the global and local levels. Guest speakers who gave technical presentations included Bert Smolders of Arcadis, who spoke on the systemic, spatial, and design interventions needed to promote pandemic resilience; Ragene Palma, urban planner and current Westminster University Masters candidate, who spoke on spatial inequality and Covid\u2019s impact on informality; and Louwie Gan, architect and urban planner, who discussed pandemic resilience from a design perspective of Philippine spaces. Emerging from the challenges and recommendations in the presentations were shared principles between climate resilience and pandemic resilience when it came to urban planning and design interventions, such as a needed increase in green open spaces, increased walkability, more sustainable and climate-friendly transport options, equitable access to basic and social services, improved connectivity and mobility within and among neighborhoods, better shelter planning, and a push for build-with-nature approaches. The urban poor, informal settlers and other disadvantaged groups, already with pre-existing vulnerabilities, were highlighted",
+  "date": "02 June 2020"
+}

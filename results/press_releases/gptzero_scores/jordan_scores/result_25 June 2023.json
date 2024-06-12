@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1e939ec0-bcd4-4866-b6e3-fa1ab4ec3d7f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17610403932521562,
+        "human": 0.802790192118488,
+        "mixed": 0.021105768556296384
+      },
+      "completely_generated_prob": 0.17610403932521562,
+      "confidence_category": "low",
+      "confidence_score": 0.802790192118488,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17610403932521562,
+          "human": 0.802790192118488,
+          "mixed": 0.021105768556296384
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 149.07725524902344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03786889463663101,
+          "perplexity": 15,
+          "sentence": "Amman - Under the framework of the No Food Waste Initiative, the Ministry of Agriculture, in collaboration with the World Food Programme (WFP) and the Food and Agriculture Organization (FAO), launched an enabler project aimed at empowering and supporting local initiatives that work on food waste management in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03426709398627281,
+          "perplexity": 54,
+          "sentence": "The project will serve as a coordination platform gathering all national initiatives under one umbrella institutionalized under the Ministry of Agriculture and providing tools to maximize the efficiency, effectiveness, and sustainability of food waste management efforts in Jordan across various levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.034996699541807175,
+          "perplexity": 26,
+          "sentence": "During the launch event, the Minister of Agriculture and Head of the National Committee for Food Security, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03789762407541275,
+          "perplexity": 16,
+          "sentence": "Eng.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.033483218401670456,
+          "perplexity": 110,
+          "sentence": "Khalid Hnaifat, met with local initiatives that have been working on food waste management where his excellency emphasized the importance of preventing food waste, considering the limited resources in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03612539544701576,
+          "perplexity": 35,
+          "sentence": "He highlighted that wasted food in the country could feed 1.5 million people for an entire year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03124196268618107,
+          "perplexity": 108,
+          "sentence": "\u201cAddressing food waste through multiple interventions is crucial for tackling food security challenges and aligns with the objectives outlined in the National Food Security Strategy,\u201d said Laurene Goublet, WFP Deputy Country Director in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7917013764381409,
+          "perplexity": 30,
+          "sentence": "\u201cThrough this project, we aim to empower local initiatives and contribute to the country's progress towards achieving Sustainable Development Goal 2: Zero Hunger.\u201d On his part, FAO Representative in Jordan, Nabil Assaf, stated: \u201cPrioritizing the reduction of food loss and waste is critical for the transition to sustainable agrifood systems that improve the efficient use of natural resources, lessen their impact on the planet and ensure food security and nutrition.\u201d Assaf also pointed out the importance of integration in addressing the issue of waste and food loss, and that the cost of this phenomenon exceeds the value of food and depletes the limited natural resources in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7611558437347412,
+          "perplexity": 483,
+          "sentence": "This intervention is",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - Under the framework of the No Food Waste Initiative, the Ministry of Agriculture, in collaboration with the World Food Programme (WFP) and the Food and Agriculture Organization (FAO), launched an enabler project aimed at empowering and supporting local initiatives that work on food waste management in Jordan. The project will serve as a coordination platform gathering all national initiatives under one umbrella institutionalized under the Ministry of Agriculture and providing tools to maximize the efficiency, effectiveness, and sustainability of food waste management efforts in Jordan across various levels. During the launch event, the Minister of Agriculture and Head of the National Committee for Food Security, H.E. Eng. Khalid Hnaifat, met with local initiatives that have been working on food waste management where his excellency emphasized the importance of preventing food waste, considering the limited resources in Jordan. He highlighted that wasted food in the country could feed 1.5 million people for an entire year. \u201cAddressing food waste through multiple interventions is crucial for tackling food security challenges and aligns with the objectives outlined in the National Food Security Strategy,\u201d said Laurene Goublet, WFP Deputy Country Director in Jordan. \u201cThrough this project, we aim to empower local initiatives and contribute to the country\u2019s progress towards achieving Sustainable Development Goal 2: Zero Hunger.\u201d On his part, FAO Representative in Jordan, Nabil Assaf, stated: \u201cPrioritizing the reduction of food loss and waste is critical for the transition to sustainable agrifood systems that improve the efficient use of natural resources, lessen their impact on the planet and ensure food security and nutrition.\u201d Assaf also pointed out the importance of integration in addressing the issue of waste and food loss, and that the cost of this phenomenon exceeds the value of food and depletes the limited natural resources in Jordan. This intervention is",
+  "date": "25 June 2023"
+}

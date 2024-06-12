@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9eea3acf-38a4-460e-86eb-217342b5de44",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.921661376953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003730633179657161,
+          "perplexity": 20,
+          "sentence": "GENEVA (ILO News) - A new report by the International Labour Organization (ILO) has found that monthly wages fell or grew more slowly in the first six months of 2020, as a result of the COVID-19 pandemic, in two-thirds of countries for which official data was available, and that the crisis is likely to inflict massive downward pressure on wages in the near future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043947872472926974,
+          "perplexity": 17,
+          "sentence": "The wages of women and low-paid workers have been disproportionately affected by the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037502130726352334,
+          "perplexity": 23,
+          "sentence": "Furthermore, while average wages in one-third of the countries that provided data appeared to increase, this was largely as a result of substantial numbers of lower-paid workers losing their jobs and therefore skewing the average, since they were no longer included in the data for wage-earners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003745618450921029,
+          "perplexity": 42,
+          "sentence": "In countries where strong measures were taken to preserve employment, the effects of the crisis were felt primarily as falls in wages rather than massive job losses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035268778447061777,
+          "perplexity": 44,
+          "sentence": "The Global Wage Report 2020/21 shows that not all workers have been equally affected by the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034426653292030096,
+          "perplexity": 28,
+          "sentence": "The impact on women has been worse than on men.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003073314146604389,
+          "perplexity": 15,
+          "sentence": "Estimates based on a sample of 28 European countries find that, without wage subsidies, women would have lost 8.1 per cent of their wages in the second quarter of 2020, compared to 5.4 per cent for men.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002768401463981718,
+          "perplexity": 65,
+          "sentence": "The crisis has also affected lower-paid workers severely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023474560293834656,
+          "perplexity": 38,
+          "sentence": "Those in lower-skilled occupations lost more working hours than higher-paying managerial and professional jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002461802796460688,
+          "perplexity": 24,
+          "sentence": "Using data from the group of 28 European countries the report shows that, without temporary subsidies, the lowest paid 50 per cent of workers would have lost an estimated 17.3 per cent of their wages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002548321499489248,
+          "perplexity": 34,
+          "sentence": "Without subsidies, the average amount of wages lost across all groups would have been 6.5 per cent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002395442861597985,
+          "perplexity": 131,
+          "sentence": "However, wage subsidies compensated for 40 per cent of this",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (ILO News) \u2013 A new report by the International Labour Organization (ILO) has found that monthly wages fell or grew more slowly in the first six months of 2020, as a result of the COVID-19 pandemic , in two-thirds of countries for which official data was available, and that the crisis is likely to inflict massive downward pressure on wages in the near future. The wages of women and low-paid workers have been disproportionately affected by the crisis. Furthermore, while average wages in one-third of the countries that provided data appeared to increase, this was largely as a result of substantial numbers of lower-paid workers losing their jobs and therefore skewing the average, since they were no longer included in the data for wage-earners. In countries where strong measures were taken to preserve employment, the effects of the crisis were felt primarily as falls in wages rather than massive job losses. The Global Wage Report 2020/21 shows that not all workers have been equally affected by the crisis. The impact on women has been worse than on men. Estimates based on a sample of 28 European countries find that, without wage subsidies, women would have lost 8.1 per cent of their wages in the second quarter of 2020, compared to 5.4 per cent for men. The crisis has also affected lower-paid workers severely. Those in lower-skilled occupations lost more working hours than higher-paying managerial and professional jobs. Using data from the group of 28 European countries the report shows that, without temporary subsidies, the lowest paid 50 per cent of workers would have lost an estimated 17.3 per cent of their wages. Without subsidies, the average amount of wages lost across all groups would have been 6.5 per cent. However, wage subsidies compensated for 40 per cent of this",
+  "date": "08 December 2020"
+}

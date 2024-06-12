@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7017b945-ca2a-4a94-97e1-cef99528c002",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.928028106689453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002617364749312401,
+          "perplexity": 110,
+          "sentence": "The effects of the global pandemic are unforeseen and have often come suddenly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020699382293969393,
+          "perplexity": 64,
+          "sentence": "The return of large numbers of migrants has led to pressure at the border points and on transit and quarantine centres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017841042717918754,
+          "perplexity": 60,
+          "sentence": "The UN in Nepal has, at the request of the Government, assessed the conditions in the quarantine centres as well as provided support where possible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014174787793308496,
+          "perplexity": 51,
+          "sentence": "Part of the ongoing assessment of the situation and the humanitarian response require the UN to verify changes in the situation, support UN offices outside Kathmandu, deliver supplies as well as meet with the provincial and local authorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015018756967037916,
+          "perplexity": 41,
+          "sentence": "Wherever the UN works across the world, some of our key roles are to provide assistance and relief on the basis of needs, demonstrating solidarity, as well as giving everyone a voice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016908852849155664,
+          "perplexity": 98,
+          "sentence": "UN teams, together with various international partners that work in support of the Government, have been allowed to move for essential travel during the ongoing lockdown, following WHO and Government protocols.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019090762361884117,
+          "perplexity": 62,
+          "sentence": "COVID-19 poses questions to how we conduct our work and no decisions are taken lightly, including on the use of resource, which is why when the UN undertakes travel, there is a careful consideration of the risks as well as the costs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001857398427091539,
+          "perplexity": 62,
+          "sentence": "In this current context, the UN has received generous support from private partners, such as Yeti Airlines that has provided the transport to the UN and other humanitarian partners at cost price.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001963134156540036,
+          "perplexity": 48,
+          "sentence": "The UN will continue to work with the Government of Nepal to support the country both through the COVID-19 pandemic and the recovery phase.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The effects of the global pandemic are unforeseen and have often come suddenly. The return of large numbers of migrants has led to pressure at the border points and on transit and quarantine centres. The UN in Nepal has, at the request of the Government, assessed the conditions in the quarantine centres as well as provided support where possible. Part of the ongoing assessment of the situation and the humanitarian response require the UN to verify changes in the situation, support UN offices outside Kathmandu, deliver supplies as well as meet with the provincial and local authorities. Wherever the UN works across the world, some of our key roles are to provide assistance and relief on the basis of needs, demonstrating solidarity, as well as giving everyone a voice. UN teams, together with various international partners that work in support of the Government, have been allowed to move for essential travel during the ongoing lockdown, following WHO and Government protocols. COVID-19 poses questions to how we conduct our work and no decisions are taken lightly, including on the use of resource, which is why when the UN undertakes travel, there is a careful consideration of the risks as well as the costs. In this current context, the UN has received generous support from private partners, such as Yeti Airlines that has provided the transport to the UN and other humanitarian partners at cost price. The UN will continue to work with the Government of Nepal to support the country both through the COVID-19 pandemic and the recovery phase.",
+  "date": "04 June 2020"
+}

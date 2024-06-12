@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f48374a-4183-40a4-9382-dc65d4f23724",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05362152918762895,
+        "human": 0.9457949897669803,
+        "mixed": 0.0005834810453909104
+      },
+      "completely_generated_prob": 0.05362152918762895,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457949897669803,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05362152918762895,
+          "human": 0.9457949897669803,
+          "mixed": 0.0005834810453909104
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.799821853637695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.08209171891212463,
+          "perplexity": 48,
+          "sentence": "The Security Council welcomed the agreement signed on 17 August 2019 between the Forces for Freedom and Change and the Transitional Military Council in Sudan on the establishment of a new civilian-led transitional government (CLTG) and transitional institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08465883135795593,
+          "perplexity": 81,
+          "sentence": "The Security Council further welcomed the inauguration of the Prime Minister and the Sovereign Council on 21 August 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0911015123128891,
+          "perplexity": 26,
+          "sentence": "It underscored that these are important steps to deliver peace and security for the people of Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09271930158138275,
+          "perplexity": 31,
+          "sentence": "The Security Council commended the commitment of the people of Sudan to a peaceful transition and welcomed the commitment by the CLTG to ensure effective implementation of the transitional agreements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08540397882461548,
+          "perplexity": 19,
+          "sentence": "The Security Council welcomed the vital mediation role undertaken by the African Union and Ethiopia, as well as the support given by the Inter-Governmental Authority on Development (IGAD), the United Nations, the League of Arab States and others in the international community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08303440362215042,
+          "perplexity": 18,
+          "sentence": "The Security Council welcomed and supports the pledge of the parties to respect human rights and fundamental freedoms, including freedom of expression, freedom of peaceful assembly and freedom of religion or belief and the parties' commitment to accountability and justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07679113000631332,
+          "perplexity": 51,
+          "sentence": "The Security Council further welcomed the commitment to create a national independent committee to investigate the violent acts committed on 3 June 2019 and other incidents of human rights violations and abuses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08517596125602722,
+          "perplexity": 28,
+          "sentence": "The Security Council welcomed the commitment in the agreement to achieve a fair, comprehensive and sustainable peace in Sudan by addressing the root causes of conflict and the impacts of war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07768113166093826,
+          "perplexity": 38,
+          "sentence": "The Security Council recalled the important role that women and youth have played in bringing about a peaceful transition in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07624959200620651,
+          "perplexity": 41,
+          "sentence": "It further underscored that Sudan's stability will depend on an inclusive approach to public life and government, and encouraged the full, effective and meaningful participation of women, youth and marginalized",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Security Council welcomed the agreement signed on 17 August 2019 between the Forces for Freedom and Change and the Transitional Military Council in Sudan on the establishment of a new civilian-led transitional government (CLTG) and transitional institutions. The Security Council further welcomed the inauguration of the Prime Minister and the Sovereign Council on 21 August 2019. It underscored that these are important steps to deliver peace and security for the people of Sudan. The Security Council commended the commitment of the people of Sudan to a peaceful transition and welcomed the commitment by the CLTG to ensure effective implementation of the transitional agreements. The Security Council welcomed the vital mediation role undertaken by the African Union and Ethiopia, as well as the support given by the Inter-Governmental Authority on Development (IGAD), the United Nations, the League of Arab States and others in the international community. The Security Council welcomed and supports the pledge of the parties to respect human rights and fundamental freedoms, including freedom of expression, freedom of peaceful assembly and freedom of religion or belief and the parties\u2019 commitment to accountability and justice. The Security Council further welcomed the commitment to create a national independent committee to investigate the violent acts committed on 3 June 2019 and other incidents of human rights violations and abuses. The Security Council welcomed the commitment in the agreement to achieve a fair, comprehensive and sustainable peace in Sudan by addressing the root causes of conflict and the impacts of war. The Security Council recalled the important role that women and youth have played in bringing about a peaceful transition in Sudan. It further underscored that Sudan\u2019s stability will depend on an inclusive approach to public life and government, and encouraged the full, effective and meaningful participation of women, youth and marginalized",
+  "date": "21 August 2019"
+}

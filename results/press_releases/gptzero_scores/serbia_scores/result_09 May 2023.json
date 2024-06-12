@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a7c867b4-8f99-4e05-ae62-542faa7182d9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.087120056152344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0028422812465578318,
+          "perplexity": 37,
+          "sentence": "Following two mass shootings that occurred in Serbia last week, the Minister of Interior issued an order on surrender of unregistered weapons and ammunition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002398918615654111,
+          "perplexity": 52,
+          "sentence": "Almost 33.500 pieces of firearms, over 1.319.000 bullets, and 6.333 explosive devices were surrendered within the thirteen days of the voluntary firearms surrender action, according to the Ministry of Interior.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035185751039534807,
+          "perplexity": 44,
+          "sentence": "People who possess firearms without the proper documentation can hand them over to the authorities without suffering legal consequences and free of charge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003062688745558262,
+          "perplexity": 71,
+          "sentence": "If they wish, people can surrender their legal weapons, too.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026070571038872004,
+          "perplexity": 72,
+          "sentence": "This action will take place until 8 June 2023, until when the citizens can hand their firearms out in each police station from 07:00 until 19:00 daily.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024730677250772715,
+          "perplexity": 81,
+          "sentence": "Apart from personally surrendering firearms, citizens can contact the closest police station and invite police officers to collect firearms and explosive devices from the invited address.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028471422847360373,
+          "perplexity": 52,
+          "sentence": "The citizens are not obliged to show identification when handing over the firearms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021640572231262922,
+          "perplexity": 41,
+          "sentence": "Since it is very dangerous for explosive devices to be inadequately transported, for example by public transportation, citizens who possess any explosive devices in their apartments, houses or other premises are warned not to bring such devices personally to police stations, but to call 192 so that experts can take them over.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004418153781443834,
+          "perplexity": 16,
+          "sentence": "The order aims to reduce the number of illegal firearms in the country and improve public safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033509652130305767,
+          "perplexity": 24,
+          "sentence": "The campaign is supported through the Support for Enhancing the Fight Against the Illegal Possession, Misuse, and Trafficking of Small Arms and Light Weapons (SALW) in the Western Balkans project, funded by the European Union through the Instrument for Pre-accession Assistance (IPA II).",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following two mass shootings that occurred in Serbia last week, the Minister of Interior issued an order on surrender of unregistered weapons and ammunition. Almost 33.500 pieces of firearms, over 1.319.000 bullets, and 6.333 explosive devices were surrendered within the thirteen days of the voluntary firearms surrender action, according to the Ministry of Interior. People who possess firearms without the proper documentation can hand them over to the authorities without suffering legal consequences and free of charge. If they wish, people can surrender their legal weapons, too. This action will take place until 8 June 2023, until when the citizens can hand their firearms out in each police station from 07:00 until 19:00 daily. Apart from personally surrendering firearms, citizens can contact the closest police station and invite police officers to collect firearms and explosive devices from the invited address. The citizens are not obliged to show identification when handing over the firearms. Since it is very dangerous for explosive devices to be inadequately transported, for example by public transportation, citizens who possess any explosive devices in their apartments, houses or other premises are warned not to bring such devices personally to police stations, but to call 192 so that experts can take them over. The order aims to reduce the number of illegal firearms in the country and improve public safety. The campaign is supported through the Support for Enhancing the Fight Against the Illegal Possession, Misuse, and Trafficking of Small Arms and Light Weapons (SALW) in the Western Balkans project, funded by the European Union through the Instrument for Pre-accession Assistance (IPA II).",
+  "date": "09 May 2023"
+}

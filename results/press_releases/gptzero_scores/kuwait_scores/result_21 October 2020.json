@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "af6a05fa-56da-4d8c-a34a-45a16f16c04f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 102.5743637084961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015506499039474875,
+          "perplexity": 47,
+          "sentence": "Kuwait City, Kuwait, October 21st 2020: With global displacement now affecting one percent of humanity, according to UNHCR, TheUN refugee agency's global trends report for 2020, humanitarian actors from the Gulf Cooperation Council Countries (GCC) have come together to discuss new avenues for collaboration to help scale-up aid, both in the MENA region and globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015004028682596982,
+          "perplexity": 79,
+          "sentence": "The regional webinar, hosted yesterday by UNHCR and with participation Dr. Aize Dabsan Al-Qahtani, CEO for the Thani Bin Abdullah Foundation for Humanity, Mrs. Kawthar AlMusallam, Vice President of the Zakat House of Kuwait, Mr. Jamal Al Nouri, Chairman of Sheikh Abdullah Al Nouri Charity Society, touched on key avenues for Islamic social finance (ISF) to meet this goal, as well as discussed potential barriers to efficiently mobilize innovative and sustainable sources of humanitarian funding, such as Waqf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014636832929681987,
+          "perplexity": 99,
+          "sentence": "Dr. Samer Hadaddin, Head of UNHCR's Kuwait Office said: \u201cThe private sector, through philanthropic business leaders, socially responsible businesses, Islamic NGOs and financial institutions, is increasingly providing further support to mobilize networks and the business community around the cause of refugees that requires strategic attention and investment\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020779529586434364,
+          "perplexity": 320,
+          "sentence": "\u201cIslamic social finance tools can have a significant and sustainable impact on beneficiaries, especially considering the current global COVID-19 health emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012443634681403637,
+          "perplexity": 67,
+          "sentence": "UNHCR can learn from many institutions that have historically been distributing such funds, in return these institutions have the opportunity to increase their positive impact and realize the sustainable development goals- noting that over 60% of refugees and internally displaced people come from countries within the Organization of Islamic Cooperation,\u201c Dr. Hadaddin added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01684265397489071,
+          "perplexity": 69,
+          "sentence": "The role of Islamic social finance, especially in emergency times such as COVID-19, took centre stage during the discussions, with speakers closely examining ISF tools such as Zakat, Sadaqah and Waqf, which have enormous potential to be leveraged and scaled to deliver much-needed financing for humanitarian",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait City, Kuwait, October 21st 2020: With global displacement now affecting one percent of humanity, according to UNHCR, TheUN refugee agency\u2019s global trends report for 2020, humanitarian actors from the Gulf Cooperation Council Countries (GCC) have come together to discuss new avenues for collaboration to help scale-up aid, both in the MENA region and globally. The regional webinar, hosted yesterday by UNHCR and with participation Dr. Aize Dabsan Al-Qahtani, CEO for the Thani Bin Abdullah Foundation for Humanity, Mrs. Kawthar AlMusallam, Vice President of the Zakat House of Kuwait, Mr. Jamal Al Nouri, Chairman of Sheikh Abdullah Al Nouri Charity Society, touched on key avenues for Islamic social finance (ISF) to meet this goal, as well as discussed potential barriers to efficiently mobilize innovative and sustainable sources of humanitarian funding, such as Waqf. Dr. Samer Hadaddin, Head of UNHCR\u2019s Kuwait Office said: \u201cThe private sector, through philanthropic business leaders, socially responsible businesses, Islamic NGOs and financial institutions, is increasingly providing further support to mobilize networks and the business community around the cause of refugees that requires strategic attention and investment\u201d. \u201cIslamic social finance tools can have a significant and sustainable impact on beneficiaries, especially considering the current global COVID-19 health emergency. UNHCR can learn from many institutions that have historically been distributing such funds, in return these institutions have the opportunity to increase their positive impact and realize the sustainable development goals- noting that over 60% of refugees and internally displaced people come from countries within the Organization of Islamic Cooperation,\u201c Dr. Hadaddin added. The role of Islamic social finance, especially in emergency times such as COVID-19, took centre stage during the discussions, with speakers closely examining ISF tools such as Zakat, Sadaqah and Waqf, which have enormous potential to be leveraged and scaled to deliver much-needed financing for humanitarian",
+  "date": "21 October 2020"
+}

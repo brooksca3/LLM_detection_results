@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "614ccfa6-cac6-43f3-94fe-147873b15cb3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.77924346923828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013750047946814448,
+          "perplexity": 44,
+          "sentence": "Ulaanbaatar - The International Organization for Migration (IOM) and municipal authorities in the Mongolian capital (pop: 1.4m) are tracking all incoming and outgoing vehicles and passengers, in support of the country's COVID-19 prevention activities as cooperation with member states grows.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001341039314866066,
+          "perplexity": 122,
+          "sentence": "The Government of Mongolia has since mid-January stepped up measures to prevent an outbreak of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001318341528531164,
+          "perplexity": 65,
+          "sentence": "Educational institutions have been closed and all public events were cancelled including the recent celebrations around the Mongolian Lunar New Year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013291057257447392,
+          "perplexity": 65,
+          "sentence": "\u201cIOM is pleased to have signed an Implementation Agreement with the Municipality of Ulaanbaatar and to use its extensive international experience to help with preparedness and response for COVID-19,\u201d said Giuseppe Crocetti, IOM's Chief of Mission for China and Mongolia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000127363862702623,
+          "perplexity": 52,
+          "sentence": "In line with the COVID-19 Global Strategic Preparedness and Response Plan, and as part of the UN's response in Mongolia, IOM is providing technical assistance to implement the Displacement Tracking Matrix (DTM) flow monitoring tool to track all the incoming and outgoing vehicles at six major checkpoints in the city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012305501149967313,
+          "perplexity": 42,
+          "sentence": "Piloted between 27 February and 3 March, it is now scheduled to last until 24 March.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012294171028770506,
+          "perplexity": 55,
+          "sentence": "Over 300 IOM-trained data enumerators are collecting information on the number and type of vehicles, number of people traveling and basic demographic characteristics, origin and destination of travel as well as length of stay.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001241518184542656,
+          "perplexity": 76,
+          "sentence": "The DTM has been extensively used globally for other health emergencies, but this is the first instance of the tool being applied specifically for COVID-19 preparedness and response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001253293885383755,
+          "perplexity": 106,
+          "sentence": "Following the Government of Mongolia's restrictions for both international and internal travel, the country's first confirmed COVID-19 case was reported on 10 March.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011995630484307185,
+          "perplexity": 181,
+          "sentence": "IOM is also providing analytical support compiling daily Situation Reports and sharing them with all key municipal institutions that make up the Capital City Emergency Commission as well as with development partners'",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ulaanbaatar \u2013 The International Organization for Migration (IOM) and municipal authorities in the Mongolian capital (pop: 1.4m) are tracking all incoming and outgoing vehicles and passengers, in support of the country\u2019s COVID-19 prevention activities as cooperation with member states grows. The Government of Mongolia has since mid-January stepped up measures to prevent an outbreak of COVID-19. Educational institutions have been closed and all public events were cancelled including the recent celebrations around the Mongolian Lunar New Year. \u201cIOM is pleased to have signed an Implementation Agreement with the Municipality of Ulaanbaatar and to use its extensive international experience to help with preparedness and response for COVID-19,\u201d said Giuseppe Crocetti, IOM\u2019s Chief of Mission for China and Mongolia. In line with the COVID-19 Global Strategic Preparedness and Response Plan, and as part of the UN\u2019s response in Mongolia, IOM is providing technical assistance to implement the Displacement Tracking Matrix (DTM) flow monitoring tool to track all the incoming and outgoing vehicles at six major checkpoints in the city. Piloted between 27 February and 3 March, it is now scheduled to last until 24 March. Over 300 IOM-trained data enumerators are collecting information on the number and type of vehicles, number of people traveling and basic demographic characteristics, origin and destination of travel as well as length of stay. The DTM has been extensively used globally for other health emergencies, but this is the first instance of the tool being applied specifically for COVID-19 preparedness and response. Following the Government of Mongolia\u2019s restrictions for both international and internal travel, the country\u2019s first confirmed COVID-19 case was reported on 10 March. IOM is also providing analytical support compiling daily Situation Reports and sharing them with all key municipal institutions that make up the Capital City Emergency Commission as well as with development partners\u2019",
+  "date": "19 March 2020"
+}

@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "289faee2-be79-48a1-9002-b119518d60fd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 90.43424224853516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0712568536400795,
+          "perplexity": 56,
+          "sentence": "This is a summary of what was said by UNHCR spokesperson Shabia Mantoo - to whom quoted text may be attributed - at today's press briefing at the Palais des Nations in Geneva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08747632801532745,
+          "perplexity": 15,
+          "sentence": "UNHCR, the UN Refugee Agency, is gravely concerned about the safety and security of civilians in Yemen's Marib governorate, including more than one million people who are estimated to be displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09356275945901871,
+          "perplexity": 34,
+          "sentence": "As the frontlines shift closer to densely populated areas, their lives are in danger and access to humanitarian aid is becoming harder.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0869332104921341,
+          "perplexity": 33,
+          "sentence": "UNHCR is warning that further escalation of the conflict will only increase the vulnerability of people in Marib - especially those displaced - and is calling for an immediate ceasefire in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07927335053682327,
+          "perplexity": 54,
+          "sentence": "Only a peaceful resolution to the conflict can halt further suffering.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07505402714014053,
+          "perplexity": 28,
+          "sentence": "Some 40,000 people have been forced to flee in Marib since September, according to interagency data.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07360780984163284,
+          "perplexity": 21,
+          "sentence": "This represents almost 70 percent of all displacements in this south-eastern governorate since the beginning of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07078997790813446,
+          "perplexity": 327,
+          "sentence": "Marib now hosts half of the estimated 120,000 newly displaced countrywide in 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07507912069559097,
+          "perplexity": 42,
+          "sentence": "New displacement is exacerbating the existing humanitarian needs, drastically increasing the need for shelter, essential household items, water and sanitation, education, and protection services - particularly for children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08045220375061035,
+          "perplexity": 26,
+          "sentence": "Health conditions such as acute watery diarrhea, malaria, and upper respiratory tract infections, are common among the newly displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08283279836177826,
+          "perplexity": 21,
+          "sentence": "There is an urgent need for screenings to provide healthcare and prevent the spread of communicable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07273373752832413,
+          "perplexity": 48,
+          "sentence": "Families from the Sirwah district are among the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0712043046951294,
+          "perplexity": 82,
+          "sentence": "In recent weeks, many have fled intensified armed clashes, which led to the closure of five UNHCR-managed accommodation sites.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07109995931386948,
+          "perplexity": 17,
+          "sentence": "Some of these families have already been displaced five times since the start of the conflict in 2015.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06674672663211823,
+          "perplexity": 242,
+          "sentence": "Meanwhile, rocket strikes close to the sites hosting the displaced are causing fear",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This is a summary of what was said by UNHCR spokesperson Shabia Mantoo \u2013 to whom quoted text may be attributed \u2013 at today's press briefing at the Palais des Nations in Geneva. UNHCR, the UN Refugee Agency, is gravely concerned about the safety and security of civilians in Yemen\u2019s Marib governorate, including more than one million people who are estimated to be displaced. As the frontlines shift closer to densely populated areas, their lives are in danger and access to humanitarian aid is becoming harder. UNHCR is warning that further escalation of the conflict will only increase the vulnerability of people in Marib \u2013 especially those displaced \u2013 and is calling for an immediate ceasefire in Yemen. Only a peaceful resolution to the conflict can halt further suffering. Some 40,000 people have been forced to flee in Marib since September, according to interagency data. This represents almost 70 percent of all displacements in this south-eastern governorate since the beginning of the year. Marib now hosts half of the estimated 120,000 newly displaced countrywide in 2021. New displacement is exacerbating the existing humanitarian needs, drastically increasing the need for shelter, essential household items, water and sanitation, education, and protection services \u2013 particularly for children. Health conditions such as acute watery diarrhea, malaria, and upper respiratory tract infections, are common among the newly displaced. There is an urgent need for screenings to provide healthcare and prevent the spread of communicable diseases. Families from the Sirwah district are among the most vulnerable. In recent weeks, many have fled intensified armed clashes, which led to the closure of five UNHCR-managed accommodation sites. Some of these families have already been displaced five times since the start of the conflict in 2015. Meanwhile, rocket strikes close to the sites hosting the displaced are causing fear",
+  "date": "24 November 2021"
+}

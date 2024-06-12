@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1d06affe-084b-4dcd-98d2-4e96163ad3e0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.4075870513916,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00044974268530495465,
+          "perplexity": 35,
+          "sentence": "May 25 2023, ADEN - The food security situation in Yemen's districts under the control of the Government of Yemen (GoY) slightly improved during the first five months of this year, while acute malnutrition increased, compared to the same period in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005236216820776463,
+          "perplexity": 57,
+          "sentence": "However, the outlook for the period between now until the end of 2023 indicates the need for more programme investments, as the modest improvements may be eroded, UN agencies have warned.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004037231847178191,
+          "perplexity": 15,
+          "sentence": "In a new Integrated Phase Classification (IPC) analysis on Yemen released today, the Food and Agriculture Organization of the United Nations (FAO), the United Nations Children's Fund (UNICEF), and the UN World Food Programme (WFP) warned that, despite the slight improvements, nearly all districts under the control of the GoY were assessed to be facing high levels of food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004891444114036858,
+          "perplexity": 44,
+          "sentence": "Yemen remains one of the most food insecure countries globally, mainly driven by the impact of conflict and economic decline, the three UN agencies added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047096062917262316,
+          "perplexity": 41,
+          "sentence": "The report shows that Yemen continues to require attention, with hunger stalking millions of people and the situation could worsen if nothing is done to address the key drivers of food insecurity in the Middle Eastern country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002977792755700648,
+          "perplexity": 76,
+          "sentence": "Despite modest improvements, second half of 2023 needs more investment Today's report showed that between January and May 2023, about 3.2 million people experienced high levels of acute food insecurity in the GoY areas, and these are classified in severe food insecurity (IPC Phase 3 and above), representing a 23 percent reduction from the October - December 2022 estimates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000294400320854038,
+          "perplexity": 52,
+          "sentence": "Additionally, the number of people in Emergency (IPC Phase 4) almost halved to 781,000 compared to the estimates for the last quarter of 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030488031916320324,
+          "perplexity": 61,
+          "sentence": "The three UN agencies warned that these modest improvements were only a 'temporary reprieve' as the key drivers of food insecurity remain",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "May 25 2023, ADEN \u2013 The food security situation in Yemen\u2019s districts under the control of the Government of Yemen (GoY) slightly improved during the first five months of this year, while acute malnutrition increased, compared to the same period in 2022. However, the outlook for the period between now until the end of 2023 indicates the need for more programme investments, as the modest improvements may be eroded, UN agencies have warned. In a new Integrated Phase Classification (IPC) analysis on Yemen released today, the Food and Agriculture Organization of the United Nations (FAO), the United Nations Children\u2019s Fund (UNICEF), and the UN World Food Programme (WFP) warned that, despite the slight improvements, nearly all districts under the control of the GoY were assessed to be facing high levels of food insecurity. Yemen remains one of the most food insecure countries globally, mainly driven by the impact of conflict and economic decline, the three UN agencies added. The report shows that Yemen continues to require attention, with hunger stalking millions of people and the situation could worsen if nothing is done to address the key drivers of food insecurity in the Middle Eastern country. Despite modest improvements, second half of 2023 needs more investment Today\u2019s report showed that between January and May 2023, about 3.2 million people experienced high levels of acute food insecurity in the GoY areas, and these are classified in severe food insecurity (IPC Phase 3 and above), representing a 23 percent reduction from the October \u2013 December 2022 estimates. Additionally, the number of people in Emergency (IPC Phase 4) almost halved to 781,000 compared to the estimates for the last quarter of 2022. The three UN agencies warned that these modest improvements were only a \u2018temporary reprieve\u2019 as the key drivers of food insecurity remain",
+  "date": "25 May 2023"
+}

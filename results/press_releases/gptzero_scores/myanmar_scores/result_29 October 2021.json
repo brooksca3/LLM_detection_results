@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cae48551-006b-436b-8597-48231ea912d0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.820730209350586,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.008909935131669044,
+          "perplexity": 40,
+          "sentence": "Joint Statement by the UN Special Envoy on Myanmar, Christine Schraner Burgener, the Special Representative of the Secretary-General for Children and Armed Conflict, Virginia Gamba, and the Special Representative of the Secretary-General on Violence against Children, Dr. Najat Maalla M'jid The 1 February military takeover, led by the Commander in Chief of the Tatmadaw, halted Myanmar's peaceful democratic transition and caused a violent ongoing multi-faceted crisis with grave impacts for children and their future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00842046644538641,
+          "perplexity": 23,
+          "sentence": "In the absence of peaceful and inclusive dialogue to end this situation, and the lack of unified international response, the United Nations continues to receive alarming reports of a growing number of children and youth seeking to join armed groups, while others have been displaced, detained, or are suffering.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006135948467999697,
+          "perplexity": 35,
+          "sentence": "The abuse of children by all parties to the conflict in Myanmar has increased notably through the recruitment use and killing and maiming of children, in addition to ongoing attacks on schools and hospitals and protected personnel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0062497821636497974,
+          "perplexity": 52,
+          "sentence": "The arbitrary detention of children is also a serious concern, while all children in Myanmar and those displaced by the fighting are experiencing various degrees of violence including mental and physical degradation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00543601019307971,
+          "perplexity": 37,
+          "sentence": "We urge all parties in Myanmar to immediately stop all child rights violations, retain, and enact domestic legislation criminalizing the six grave violations, promote all aspects of the Child Rights Law, and engage collectively in the protection of children from the ravages of conflict, including the prevention of their recruitment and use.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00486006960272789,
+          "perplexity": 91,
+          "sentence": "The delivery of life-saving humanitarian assistance for children in Myanmar has also been impaired by the crisis mainly through access and security constraints, exacerbated by the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004310805816203356,
+          "perplexity": 47,
+          "sentence": "Unrestricted humanitarian access to children must be granted through all existing channels in line with the principles of humanity, neutrality, impartiality, and independence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004532563034445047,
+          "perplexity": 77,
+          "sentence": "The United Nations calls on",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Joint Statement by the UN Special Envoy on Myanmar, Christine Schraner Burgener, the Special Representative of the Secretary-General for Children and Armed Conflict, Virginia Gamba, and the Special Representative of the Secretary-General on Violence against Children, Dr. Najat Maalla M\u2019jid The 1 February military takeover, led by the Commander in Chief of the Tatmadaw, halted Myanmar\u2019s peaceful democratic transition and caused a violent ongoing multi-faceted crisis with grave impacts for children and their future. In the absence of peaceful and inclusive dialogue to end this situation, and the lack of unified international response, the United Nations continues to receive alarming reports of a growing number of children and youth seeking to join armed groups, while others have been displaced, detained, or are suffering. The abuse of children by all parties to the conflict in Myanmar has increased notably through the recruitment use and killing and maiming of children, in addition to ongoing attacks on schools and hospitals and protected personnel. The arbitrary detention of children is also a serious concern, while all children in Myanmar and those displaced by the fighting are experiencing various degrees of violence including mental and physical degradation. We urge all parties in Myanmar to immediately stop all child rights violations, retain, and enact domestic legislation criminalizing the six grave violations, promote all aspects of the Child Rights Law, and engage collectively in the protection of children from the ravages of conflict, including the prevention of their recruitment and use. The delivery of life-saving humanitarian assistance for children in Myanmar has also been impaired by the crisis mainly through access and security constraints, exacerbated by the COVID-19 pandemic. Unrestricted humanitarian access to children must be granted through all existing channels in line with the principles of humanity, neutrality, impartiality, and independence. The United Nations calls on",
+  "date": "29 October 2021"
+}

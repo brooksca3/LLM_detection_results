@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9df1ee0d-5b9b-4c18-a554-adddc20d2d2f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07484666256767092,
+        "human": 0.9239136411579162,
+        "mixed": 0.001239696274412769
+      },
+      "completely_generated_prob": 0.07484666256767092,
+      "confidence_category": "medium",
+      "confidence_score": 0.9239136411579162,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07484666256767092,
+          "human": 0.9239136411579162,
+          "mixed": 0.001239696274412769
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1681.4144287109375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11565521359443665,
+          "perplexity": 13,
+          "sentence": "Today we commemorate the 10th anniversary of the devastating impact of Super Typhoon Haiyan (Yolanda), which struck the Philippines on 8 November 2013, resulting in over 6,300 deaths and the displacement of several thousand families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11863347142934799,
+          "perplexity": 58,
+          "sentence": "Over 16 million people were affected in 41 provinces across nine regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09713375568389893,
+          "perplexity": 29,
+          "sentence": "We remember the lives that were lost and disrupted and extend our gratitude once again to the Philippine government and humanitarian partners for their support and collaboration, which played a crucial role in efforts to assist those affected by the super typhoon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09742699563503265,
+          "perplexity": 56,
+          "sentence": "The response efforts also involved the private sector, civil society, and even the support of overseas workers and foreign militaries, truly embodying a whole-of-society approach under the leadership of national authorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09313002973794937,
+          "perplexity": 26,
+          "sentence": "In the immediate aftermath of the storm, the Humanitarian Country Team (HCT) helped coordinate the assistance provided by international and national partners between November 2013 and August 2014 through these efforts: Since then, various partners and organizations have collaborated to expand humanitarian efforts in the Philippines in support of the government-led response, particularly on healthcare, protection, and food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09744670242071152,
+          "perplexity": 20,
+          "sentence": "The World Health Organization (WHO) has helped effectively address both communicable and non-communicable diseases in affected regions, benefiting approximately 5.8 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09409012645483017,
+          "perplexity": 13,
+          "sentence": "On maternal care and reproductive health, the United Nations Population Fund (UNFPA) played a central role in delivering essential services and supplies, as part of a comprehensive plan developed in partnership with the government and other humanitarian partners to provide urgent care and protection to 3.5 million women and girls of childbearing age.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09847992658615112,
+          "perplexity": 25,
+          "sentence": "UNHCR, the UN Refugee Agency, co-led the Protection Cluster with the Department of Social Welfare and Development (DSWD) to address the protection concerns of Super Typhoon Haiyan internally displaced population, focusing on vulnerable groups such as children, women, the elderly, and indigenous communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11328549683094025,
+          "perplexity": 5074,
+          "sentence": "Core relief items",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today we commemorate the 10th anniversary of the devastating impact of Super Typhoon Haiyan (Yolanda), which struck the Philippines on 8 November 2013, resulting in over 6,300 deaths and the displacement of several thousand families. Over 16 million people were affected in 41 provinces across nine regions. We remember the lives that were lost and disrupted and extend our gratitude once again to the Philippine government and humanitarian partners for their support and collaboration, which played a crucial role in efforts to assist those affected by the super typhoon. The response efforts also involved the private sector, civil society, and even the support of overseas workers and foreign militaries, truly embodying a whole-of-society approach under the leadership of national authorities. In the immediate aftermath of the storm, the Humanitarian Country Team (HCT) helped coordinate the assistance provided by international and national partners between November 2013 and August 2014 through these efforts: Since then, various partners and organizations have collaborated to expand humanitarian efforts in the Philippines in support of the government-led response, particularly on healthcare, protection, and food security. The World Health Organization (WHO) has helped effectively address both communicable and non-communicable diseases in affected regions, benefiting approximately 5.8 million people. On maternal care and reproductive health, the United Nations Population Fund (UNFPA) played a central role in delivering essential services and supplies, as part of a comprehensive plan developed in partnership with the government and other humanitarian partners to provide urgent care and protection to 3.5 million women and girls of childbearing age. UNHCR, the UN Refugee Agency, co-led the Protection Cluster with the Department of Social Welfare and Development (DSWD) to address the protection concerns of Super Typhoon Haiyan internally displaced population, focusing on vulnerable groups such as children, women, the elderly, and indigenous communities. Core relief items",
+  "date": "08 November 2023"
+}

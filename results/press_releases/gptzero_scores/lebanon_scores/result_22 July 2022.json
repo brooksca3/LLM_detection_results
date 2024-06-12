@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a1e77b8c-ff4d-49f6-a641-1422b40d0d00",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10562879617416508,
+        "human": 0.893121528627087,
+        "mixed": 0.0012496751987478862
+      },
+      "completely_generated_prob": 0.10562879617416508,
+      "confidence_category": "medium",
+      "confidence_score": 0.893121528627087,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10562879617416508,
+          "human": 0.893121528627087,
+          "mixed": 0.0012496751987478862
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 9.105205535888672,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.17124174535274506,
+          "perplexity": 21,
+          "sentence": "I would like to recognize the incredible generosity of the Lebanese people and authorities who have hosted refugees at a time when they have been struggling with their own vulnerabilities, and I would like to express our gratitude for the continued solidarity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1623476892709732,
+          "perplexity": 26,
+          "sentence": "The longstanding collaboration of the Lebanese Government in responding to the ongoing impact of the Syria crisis on Lebanon and its people, under the Lebanon Crisis Response Plan (LCRP), and in supporting the most vulnerable populations affected by the unfolding economic crisis under the Emergency Response Plan (ERP), is also highly appreciated and commended.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1546475738286972,
+          "perplexity": 21,
+          "sentence": "Amid Lebanon's unprecedented economic meltdown and significant increases in poverty levels and humanitarian needs, the United Nations (UN) and its partners remain committed to supporting the most vulnerable populations based on needs regardless of their nationality, disability, religion, gender, sexuality, or place of origin.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14508679509162903,
+          "perplexity": 31,
+          "sentence": "Over the past year, the Humanitarian Community, including the UN through the LCRP and ERP, has increased its support to the Lebanese people, families, communities, and public institutions to lessen the impact of the multiple crises and meet the dire needs of the most vulnerable, as part of its primary mission to Leave No One Behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14225564897060394,
+          "perplexity": 45,
+          "sentence": "These efforts have translated (from 2021 up to May 2022) into the provision of direct humanitarian assistance to over 1.6 million Lebanese, including cash assistance, food, health, education, protection, shelter, and water services; in addition to supporting around 200 Lebanese municipalities in strengthening their basic service provision and reducing resource pressure in high-risk communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14494891464710236,
+          "perplexity": 29,
+          "sentence": "Other resources are also being invested in development and capacity-building in response to the ongoing crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1287289708852768,
+          "perplexity": 18,
+          "sentence": "The humanitarian community wishes to reiterate and clarify that the protection of the most vulnerable women, men, boys, and girls is of high priority to the UN and its partners and that the UN",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "I would like to recognize the incredible generosity of the Lebanese people and authorities who have hosted refugees at a time when they have been struggling with their own vulnerabilities, and I would like to express our gratitude for the continued solidarity. The longstanding collaboration of the Lebanese Government in responding to the ongoing impact of the Syria crisis on Lebanon and its people, under the Lebanon Crisis Response Plan (LCRP), and in supporting the most vulnerable populations affected by the unfolding economic crisis under the Emergency Response Plan (ERP), is also highly appreciated and commended. Amid Lebanon\u2019s unprecedented economic meltdown and significant increases in poverty levels and humanitarian needs, the United Nations (UN) and its partners remain committed to supporting the most vulnerable populations based on needs regardless of their nationality, disability, religion, gender, sexuality, or place of origin. Over the past year, the Humanitarian Community, including the UN through the LCRP and ERP, has increased its support to the Lebanese people, families, communities, and public institutions to lessen the impact of the multiple crises and meet the dire needs of the most vulnerable, as part of its primary mission to Leave No One Behind. These efforts have translated (from 2021 up to May 2022) into the provision of direct humanitarian assistance to over 1.6 million Lebanese, including cash assistance, food, health, education, protection, shelter, and water services; in addition to supporting around 200 Lebanese municipalities in strengthening their basic service provision and reducing resource pressure in high-risk communities. Other resources are also being invested in development and capacity-building in response to the ongoing crisis. The humanitarian community wishes to reiterate and clarify that the protection of the most vulnerable women, men, boys, and girls is of high priority to the UN and its partners and that the UN",
+  "date": "22 July 2022"
+}

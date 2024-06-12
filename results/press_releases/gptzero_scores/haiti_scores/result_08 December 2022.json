@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "431af67a-c8c3-4f65-8162-9947382f45f8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.006548026829384868,
+        "human": 0.9934519731706152,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.006548026829384868,
+      "confidence_category": "high",
+      "confidence_score": 0.9934519731706152,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.006548026829384868,
+          "human": 0.9934519731706152,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.933184623718262,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001588844897923991,
+          "perplexity": 26,
+          "sentence": "Haitian children are plagued with cholera, malnutrition and gang-related violence PORT-AU-PRINCE / PANAMA CITY, 7 December 2022 - UNICEF is requesting US$210.3 million to meet the needs of 2.7 million people in Haiti, including 1.6 million children in 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017560520791448653,
+          "perplexity": 48,
+          "sentence": "The upsurge in violence and social unrest, the resurgence of cholera and the residual needs of the most vulnerable earthquake-affected population have led to an increase in humanitarian needs and funding requirements compared with 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015796346997376531,
+          "perplexity": 33,
+          "sentence": "\u201cWhen a mother sees her malnourished child suffer from cholera, have diarrhoea, vomit, further lose weight and is on the brink of dying, and she cannot take them to the hospital because of insecurity, it's sad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014411166193895042,
+          "perplexity": 52,
+          "sentence": "In Haiti, one in two children has not resumed going to school again, and risk falling in the trap of gangs, and due to violence, health workers or teachers cannot freely report to work, further obstructing women and children's access to health, nutrition, education, and sanitation services,\u201d said Bruno Maes, UNICEF Representative in Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013862978084944189,
+          "perplexity": 54,
+          "sentence": "After more than 3 years without any cases of cholera reported, Haiti declared on 2 October the resurgence of the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014163012383505702,
+          "perplexity": 50,
+          "sentence": "As of 5 December, the country passed the milestone of first 1,000 confirmed cholera cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012163801147835329,
+          "perplexity": 38,
+          "sentence": "The Ministry of health reported more than 1,100 confirmed cases with over 13,400 suspected cases and 281 deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001300769654335454,
+          "perplexity": 18,
+          "sentence": "Nearly 50 per cent of confirmed cases are among children under 15 years old.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001950977457454428,
+          "perplexity": 44,
+          "sentence": "The cholera outbreak is layered over gang-related violence and major social unrest that erupted across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001882985670818016,
+          "perplexity": 29,
+          "sentence": "At the same time, severe fuel shortages restricted utilities and the delivery of basic services, including water and health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018338474910706282,
+          "perplexity": 70,
+          "sentence": "In some areas, insecurity prevents patients to access medical facilities and health personnel to report to work, heavily impacting the response to the cholera outbreak, including data collection and transportation of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Haitian children are plagued with cholera, malnutrition and gang-related violence PORT-AU-PRINCE / PANAMA CITY, 7 December 2022 - UNICEF is requesting US$210.3 million to meet the needs of 2.7 million people in Haiti, including 1.6 million children in 2023. The upsurge in violence and social unrest, the resurgence of cholera and the residual needs of the most vulnerable earthquake-affected population have led to an increase in humanitarian needs and funding requirements compared with 2022. \u201cWhen a mother sees her malnourished child suffer from cholera, have diarrhoea, vomit, further lose weight and is on the brink of dying, and she cannot take them to the hospital because of insecurity, it\u2019s sad. In Haiti, one in two children has not resumed going to school again, and risk falling in the trap of gangs, and due to violence, health workers or teachers cannot freely report to work, further obstructing women and children\u2019s access to health, nutrition, education, and sanitation services,\u201d said Bruno Maes, UNICEF Representative in Haiti. After more than 3 years without any cases of cholera reported, Haiti declared on 2 October the resurgence of the disease. As of 5 December, the country passed the milestone of first 1,000 confirmed cholera cases. The Ministry of health reported more than 1,100 confirmed cases with over 13,400 suspected cases and 281 deaths. Nearly 50 per cent of confirmed cases are among children under 15 years old. The cholera outbreak is layered over gang-related violence and major social unrest that erupted across the country. At the same time, severe fuel shortages restricted utilities and the delivery of basic services, including water and health care. In some areas, insecurity prevents patients to access medical facilities and health personnel to report to work, heavily impacting the response to the cholera outbreak, including data collection and transportation of",
+  "date": "08 December 2022"
+}

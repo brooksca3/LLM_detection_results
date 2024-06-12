@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0743d870-c9ec-4e20-9eec-4508c56f7e83",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.34103775024414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.036351799964904785,
+          "perplexity": 77,
+          "sentence": "Jamaica is among a small group of Middle Income Countries (MICs) selected to benefit from the United Nations COVID-19 Response and Recovery Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03372061625123024,
+          "perplexity": 43,
+          "sentence": "The grant funding will aid in the country's response to the COVID 19 pandemic by facilitating the funding of two (2) key projects to be completed over the next 12 to 18 months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.035322535783052444,
+          "perplexity": 105,
+          "sentence": "The funds are earmarked to operationalize the \u201cSuppressing Transmission of COVID-19 and Saving Lives\u201d and \u201cSafeguarding and Protecting the Most Vulnerable: Enhancing Jamaica's Shock Responsive Social Protection Mechanism\u201d projects, which will be spearheaded by the United Nations Country Team in Jamaica.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03351981192827225,
+          "perplexity": 134,
+          "sentence": "The first of the two initiatives is aimed at providing direct support to contain the transmission of COVID-19 while continuing basic health services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031663164496421814,
+          "perplexity": 58,
+          "sentence": "The second will enhance social protection mechanisms, particularly to support vulnerable groups (including women and children).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02883157506585121,
+          "perplexity": 81,
+          "sentence": "In welcoming the grant, Minister of Foreign Affairs and Foreign Trade, Senator the Honourable Kamina Johnson Smith affirmed that, \u201cThis allocation is yet another excellent example of the United Nations and the multilateral system at work for Member States.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02692732959985733,
+          "perplexity": 38,
+          "sentence": "We are grateful to the UN and its Agencies which have rallied to support Jamaica in quick time.\u201d The Minister added that, \u201cthese funds will serve to address some of the most pressing and urgent socio-economic challenges we will encounter in the coming months \u201cespecially as it relates to protecting and providing for the needs of the most vulnerable\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029785769060254097,
+          "perplexity": 72,
+          "sentence": "Speaking at the handover, UN Resident Coordinator, Ms. Mariko Kagoshima, noted that, \u201cWe are proud that this UN Fund has been made accessible to Jamaica.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028911197558045387,
+          "perplexity": 21,
+          "sentence": "This pandemic has the potential for long-term adverse effects to the people of this country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025989023968577385,
+          "perplexity": 110,
+          "sentence": "As such, the UN is happy to be playing its part in mitigating these risks to the people, while helping to sustain Jamaica's development gains.\u201d Minister",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Jamaica is among a small group of Middle Income Countries (MICs) selected to benefit from the United Nations COVID-19 Response and Recovery Fund. The grant funding will aid in the country\u2019s response to the COVID 19 pandemic by facilitating the funding of two (2) key projects to be completed over the next 12 to 18 months. The funds are earmarked to operationalize the \u201cSuppressing Transmission of COVID-19 and Saving Lives\u201d and \u201cSafeguarding and Protecting the Most Vulnerable: Enhancing Jamaica\u2019s Shock Responsive Social Protection Mechanism\u201d projects, which will be spearheaded by the United Nations Country Team in Jamaica. The first of the two initiatives is aimed at providing direct support to contain the transmission of COVID-19 while continuing basic health services. The second will enhance social protection mechanisms, particularly to support vulnerable groups (including women and children). In welcoming the grant, Minister of Foreign Affairs and Foreign Trade, Senator the Honourable Kamina Johnson Smith affirmed that, \u201cThis allocation is yet another excellent example of the United Nations and the multilateral system at work for Member States. We are grateful to the UN and its Agencies which have rallied to support Jamaica in quick time.\u201d The Minister added that, \u201cthese funds will serve to address some of the most pressing and urgent socio-economic challenges we will encounter in the coming months \u201cespecially as it relates to protecting and providing for the needs of the most vulnerable\u201d. Speaking at the handover, UN Resident Coordinator, Ms. Mariko Kagoshima, noted that, \u201cWe are proud that this UN Fund has been made accessible to Jamaica. This pandemic has the potential for long-term adverse effects to the people of this country. As such, the UN is happy to be playing its part in mitigating these risks to the people, while helping to sustain Jamaica\u2019s development gains.\u201d Minister",
+  "date": "28 May 2020"
+}

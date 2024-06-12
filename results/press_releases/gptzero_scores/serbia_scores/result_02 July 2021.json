@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "11751f6f-b07c-4147-bddb-856648a6cc0e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 136.3631134033203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009782335255295038,
+          "perplexity": 41,
+          "sentence": "Belgrade, 2 July 2021 - UNICEF takes note of the recently published Report on the situation of children with disabilities in residential care in Serbia by civil society organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011159594869241118,
+          "perplexity": 42,
+          "sentence": "Many of the concerns articulated in the Report have been tackled through the ongoing reform of the childcare system and deinstitutionalization process.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012367984745651484,
+          "perplexity": 32,
+          "sentence": "Serbia has made considerable progress in reducing the number of children in institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011537073878571391,
+          "perplexity": 21,
+          "sentence": "Globally, Serbia is one of the countries with the lowest percentage of children in institutions (under 100 children per 100,000 children).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001160130137577653,
+          "perplexity": 31,
+          "sentence": "However, children with disabilities are still overrepresented in institutions, their stay is long-term and they are often placed together with adults.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011281016049906611,
+          "perplexity": 55,
+          "sentence": "Estimates suggest 4 out of 5 children in institutions have a disability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010422882623970509,
+          "perplexity": 55,
+          "sentence": "Children with disabilities make up 73,9 % of all children in residential care institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007676479290239513,
+          "perplexity": 23,
+          "sentence": "In its Concluding observations on the combined second and third periodic reports of Serbia from 2017, the Committee on the Rights of the Child (among others) recommended the Government of Serbia to immediately reduce the placement of children under the age of 3 years, including with disabilities in residential care institutions, and to implement measures to reduce the number of children in large-scale institutions for children with disabilities and ensure that institutionalization is used only as a last resort.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006433899397961795,
+          "perplexity": 36,
+          "sentence": "The Committee on the Rights of Persons with Disabilities also urgeed the Government of Serbia in the Concluding observations on the initial report of Serbia in 2016 to strengthen its efforts to deinstitutionalize children, in particular those with intellectual and/or psychosocial disabilities, and to ensure more efficient transition for boys and girls moving from institutions into families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005039990646764636,
+          "perplexity": 467,
+          "sentence": "Children with disability are in any society challenging priority group for services reform, as the alternatives to institutional care require agreed-upon vision and resource intense engagement of different sectors - and Serbia",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 2 July 2021 - UNICEF takes note of the recently published Report on the situation of children with disabilities in residential care in Serbia by civil society organizations. Many of the concerns articulated in the Report have been tackled through the ongoing reform of the childcare system and deinstitutionalization process. Serbia has made considerable progress in reducing the number of children in institutions. Globally, Serbia is one of the countries with the lowest percentage of children in institutions (under 100 children per 100,000 children). However, children with disabilities are still overrepresented in institutions, their stay is long-term and they are often placed together with adults. Estimates suggest 4 out of 5 children in institutions have a disability. Children with disabilities make up 73,9 % of all children in residential care institutions. In its Concluding observations on the combined second and third periodic reports of Serbia from 2017, the Committee on the Rights of the Child (among others) recommended the Government of Serbia to immediately reduce the placement of children under the age of 3 years, including with disabilities in residential care institutions, and to implement measures to reduce the number of children in large-scale institutions for children with disabilities and ensure that institutionalization is used only as a last resort. The Committee on the Rights of Persons with Disabilities also urgeed the Government of Serbia in the Concluding observations on the initial report of Serbia in 2016 to strengthen its efforts to deinstitutionalize children, in particular those with intellectual and/or psychosocial disabilities, and to ensure more efficient transition for boys and girls moving from institutions into families. Children with disability are in any society challenging priority group for services reform, as the alternatives to institutional care require agreed-upon vision and resource intense engagement of different sectors - and Serbia",
+  "date": "02 July 2021"
+}

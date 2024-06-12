@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b7eadc46-7be2-4c6e-9c86-b51d7923ea4b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013829223798034484,
+        "human": 0.9861707762019655,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.013829223798034484,
+      "confidence_category": "high",
+      "confidence_score": 0.9861707762019655,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013829223798034484,
+          "human": 0.9861707762019655,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.686092376708984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00030697943293489516,
+          "perplexity": 115,
+          "sentence": "Bishkek, August 29, 2022 - A bike ride under the motto \"Health Starts with Me!\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002968262997455895,
+          "perplexity": 38,
+          "sentence": "was held in the capital, timed to the Independence Day of the Kyrgyz Republic and dedicated to strengthening the unity of the people, increasing tolerance, preservation and development of diversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002917592355515808,
+          "perplexity": 34,
+          "sentence": "The event was organized by the Ministry of Culture, Information, Sports and Youth Policy of the Kyrgyz Republic, with the support of the Administration of the President of the Kyrgyz Republic, Bishkek City Hall, \"Velo Positiv kg\" Public Association and \"Golden Wheels\" cycling club, in partnership with the UN agencies in the Kyrgyz Republic - UNDP, UNICEF, OHCHR; Public Association Institute for Peace and Development, and \"Shoro\" company, within the implementation of the Kyrgyz Jarany concept.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002933037467300892,
+          "perplexity": 22,
+          "sentence": "At the opening ceremony of the bicycle rally, Almaz Isanov, head of the Political and Economic Research Department of the Presidential Administration of the Kyrgyz Republic, noted, \"Every citizen of Kyrgyzstan is a Kyrgyz jarany, so we all unite around the \"Kyrgyz jarany\" concept.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032099155941978097,
+          "perplexity": 94,
+          "sentence": "The purpose of today's bike rally is to call everyone to a healthy lifestyle, and to promote the Concept widely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019427634542807937,
+          "perplexity": 23,
+          "sentence": "In 2020, by decree of the President of the Kyrgyz Republic, the Concept for the Development of Civil Identity of the Kyrgyz Jarany in the Kyrgyz Republic for the period 2021-2026 was approved.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018524808110669255,
+          "perplexity": 45,
+          "sentence": "The main goal of the Concept is to develop a favorable environment for the development and promotion of the shared civic identity - Kyrgyz Jarany, which unites all ethnic communities while preserving/maintaining their ethno-cultural identity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017204948235303164,
+          "perplexity": 32,
+          "sentence": "Support for the implementation of the Kyrgyz Jarany Concept is carried out under the project \"Inclusive Governance and Civic Identity for Sustainable Peace and Development\" with the technical support of the UN agencies in the Kyrgyz Republic - UNDP, UNICEF and OHCHR, and funding from the UN",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, August 29, 2022 - A bike ride under the motto \"Health Starts with Me!\" was held in the capital, timed to the Independence Day of the Kyrgyz Republic and dedicated to strengthening the unity of the people, increasing tolerance, preservation and development of diversity. The event was organized by the Ministry of Culture, Information, Sports and Youth Policy of the Kyrgyz Republic, with the support of the Administration of the President of the Kyrgyz Republic, Bishkek City Hall, \"Velo Positiv kg\" Public Association and \"Golden Wheels\" cycling club, in partnership with the UN agencies in the Kyrgyz Republic - UNDP, UNICEF, OHCHR; Public Association Institute for Peace and Development, and \"Shoro\" company, within the implementation of the Kyrgyz Jarany concept. At the opening ceremony of the bicycle rally, Almaz Isanov, head of the Political and Economic Research Department of the Presidential Administration of the Kyrgyz Republic, noted, \"Every citizen of Kyrgyzstan is a Kyrgyz jarany, so we all unite around the \"Kyrgyz jarany\" concept. The purpose of today's bike rally is to call everyone to a healthy lifestyle, and to promote the Concept widely. In 2020, by decree of the President of the Kyrgyz Republic, the Concept for the Development of Civil Identity of the Kyrgyz Jarany in the Kyrgyz Republic for the period 2021-2026 was approved. The main goal of the Concept is to develop a favorable environment for the development and promotion of the shared civic identity - Kyrgyz Jarany, which unites all ethnic communities while preserving/maintaining their ethno-cultural identity. Support for the implementation of the Kyrgyz Jarany Concept is carried out under the project \"Inclusive Governance and Civic Identity for Sustainable Peace and Development\" with the technical support of the UN agencies in the Kyrgyz Republic - UNDP, UNICEF and OHCHR, and funding from the UN",
+  "date": "29 August 2022"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f00dedf5-cdfc-45e3-8f11-96fefe7eae28",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.04618835449219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011487636948004365,
+          "perplexity": 51,
+          "sentence": "BEIJING - During her first visit to Beijing as Special Envoy this week, the Special Envoy of the UN Secretary-General on Myanmar Noeleen Heyzer reinforced the key role of regional countries in addressing the multidimensional crisis in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000905799912288785,
+          "perplexity": 17,
+          "sentence": "During the visit from 1 to 2 May, Special Envoy Heyzer held discussions with State Councillor and Minister for Foreign Affairs of the People's Republic of China Qin Gang and Special Envoy for Asian Affairs of the Ministry of Foreign Affairs of the People's Republic of China Deng Xijun.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019005438080057502,
+          "perplexity": 27,
+          "sentence": "The State Councillor underscored the international community must act prudently and pragmatically to prevent the intensification of the Myanmar conflict and its spillover in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017686648061499,
+          "perplexity": 96,
+          "sentence": "He stressed appreciation for the Special Envoy's effective implementation of her mandate and China's strong support to her role.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001129636657424271,
+          "perplexity": 20,
+          "sentence": "The Special Envoy emphasized China's important role in the United Nations including as a permanent member of the UN Security Council and its continued support for ASEAN's centrality in facilitating a peaceful resolution in the interests of the people of Myanmar, constructive dialogue among all parties as well as the provision of humanitarian assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010674785589799285,
+          "perplexity": 92,
+          "sentence": "Special Envoy Heyzer stressed that a robust international response to the ongoing crisis in Myanmar required a unified regional effort involving neighbouring countries that can leverage influence towards cessation of violence, civilian protection and stability in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009870798094198108,
+          "perplexity": 25,
+          "sentence": "In line with the Security Council resolution 2669 (2022) on Myanmar, the Special Envoy continues to closely cooperate with the ASEAN Special Envoy to seek a peaceful and inclusive process towards de-escalating the violence and reaching a sustainable political solution guided by the will and needs of the people.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BEIJING \u2013 During her first visit to Beijing as Special Envoy this week, the Special Envoy of the UN Secretary-General on Myanmar Noeleen Heyzer reinforced the key role of regional countries in addressing the multidimensional crisis in Myanmar. During the visit from 1 to 2 May, Special Envoy Heyzer held discussions with State Councillor and Minister for Foreign Affairs of the People\u2019s Republic of China Qin Gang and Special Envoy for Asian Affairs of the Ministry of Foreign Affairs of the People's Republic of China Deng Xijun. The State Councillor underscored the international community must act prudently and pragmatically to prevent the intensification of the Myanmar conflict and its spillover in the region. He stressed appreciation for the Special Envoy's effective implementation of her mandate and China\u2019s strong support to her role. The Special Envoy emphasized China\u2019s important role in the United Nations including as a permanent member of the UN Security Council and its continued support for ASEAN\u2019s centrality in facilitating a peaceful resolution in the interests of the people of Myanmar, constructive dialogue among all parties as well as the provision of humanitarian assistance. Special Envoy Heyzer stressed that a robust international response to the ongoing crisis in Myanmar required a unified regional effort involving neighbouring countries that can leverage influence towards cessation of violence, civilian protection and stability in Myanmar. In line with the Security Council resolution 2669 (2022) on Myanmar, the Special Envoy continues to closely cooperate with the ASEAN Special Envoy to seek a peaceful and inclusive process towards de-escalating the violence and reaching a sustainable political solution guided by the will and needs of the people.",
+  "date": "03 May 2023"
+}

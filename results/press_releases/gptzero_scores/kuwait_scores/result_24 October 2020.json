@@ -1,0 +1,177 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "70bdeca3-565a-4513-934b-a5034737a274",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 154.21127319335938,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.95227250807639e-17,
+          "num_sentences": 19,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04540398716926575,
+          "perplexity": 13,
+          "sentence": "The year 2020 marks the 75th anniversary of the United Nations and its founding Charter, and the 57th anniversary for the State of Kuwait as a member of the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04176813364028931,
+          "perplexity": 50,
+          "sentence": "This anniversary comes in a time of great disruption for the world, compounded by an unprecedented global health crisis due to the COVID-19 pandemic, with severe economic and social impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04284119978547096,
+          "perplexity": 28,
+          "sentence": "But it is also a reminder that times of struggle can become an opportunity for positive change and transformation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030178964138031006,
+          "perplexity": 93,
+          "sentence": "As part of marking this historical year, Leading to the UN75 celebrations, joint activities by the United Nations Resident Coordinator Office in Kuwait have mainly focused on playing a pivotal role in open dialogues such as the \u201cUN75Talk\u201d, a monthly platform bringing UN Agencies and national partners across sectors, through open discussions and igniting people's debate for positive solutions, as part of the UN Secretary-General largest and furthest-reaching call for a global conversation, the role of global cooperation in building the future we want and activating the Decade of Action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031145960092544556,
+          "perplexity": 43,
+          "sentence": "Quoting the UN Secretary General: \u201dThe 75th anniversary of the United Nations falls in the middle of a global pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02876342460513115,
+          "perplexity": 54,
+          "sentence": "Our founding mission is more critical than ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026410384103655815,
+          "perplexity": 294,
+          "sentence": "To promote human dignity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025470249354839325,
+          "perplexity": 47,
+          "sentence": "Protect human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02531631663441658,
+          "perplexity": 292,
+          "sentence": "Respect international law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02815282717347145,
+          "perplexity": 203,
+          "sentence": "And save humanity from war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029356934130191803,
+          "perplexity": 48,
+          "sentence": "When the pandemic hit, I called for a global ceasefire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028255537152290344,
+          "perplexity": 79,
+          "sentence": "In our world today, we have one common enemy: COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023392336443066597,
+          "perplexity": 43,
+          "sentence": "Now is the time for a stepped-up push for peace to achieve a global ceasefire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025479687377810478,
+          "perplexity": 24,
+          "sentence": "The clock is ticking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020792387425899506,
+          "perplexity": 64,
+          "sentence": "We must also make peace with our planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021044950932264328,
+          "perplexity": 647,
+          "sentence": "The climate emergency threatens life itself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020318714901804924,
+          "perplexity": 70,
+          "sentence": "We must mobilize the whole world to reach carbon neutrality - net zero emissions of greenhouse gasses by 2050.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019014514982700348,
+          "perplexity": 86,
+          "sentence": "A growing number of countries and companies have already pledged to meet this goal\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027500413358211517,
+          "perplexity": 1,
+          "sentence": "We",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The year 2020 marks the 75th anniversary of the United Nations and its founding Charter, and the 57th anniversary for the State of Kuwait as a member of the United Nations. This anniversary comes in a time of great disruption for the world, compounded by an unprecedented global health crisis due to the COVID-19 pandemic, with severe economic and social impacts. But it is also a reminder that times of struggle can become an opportunity for positive change and transformation. As part of marking this historical year, Leading to the UN75 celebrations, joint activities by the United Nations Resident Coordinator Office in Kuwait have mainly focused on playing a pivotal role in open dialogues such as the \u201cUN75Talk\u201d, a monthly platform bringing UN Agencies and national partners across sectors, through open discussions and igniting people\u2019s debate for positive solutions, as part of the UN Secretary-General largest and furthest-reaching call for a global conversation, the role of global cooperation in building the future we want and activating the Decade of Action. Quoting the UN Secretary General: \u201dThe 75th anniversary of the United Nations falls in the middle of a global pandemic. Our founding mission is more critical than ever. To promote human dignity. Protect human rights. Respect international law. And save humanity from war. When the pandemic hit, I called for a global ceasefire. In our world today, we have one common enemy: COVID-19. Now is the time for a stepped-up push for peace to achieve a global ceasefire. The clock is ticking. We must also make peace with our planet. The climate emergency threatens life itself. We must mobilize the whole world to reach carbon neutrality - net zero emissions of greenhouse gasses by 2050. A growing number of countries and companies have already pledged to meet this goal\u201d. We",
+  "date": "24 October 2020"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e3a17afd-cd12-4b71-b39c-21f55f69f832",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02148447490920252,
+        "human": 0.965010998005013,
+        "mixed": 0.013504527085784437
+      },
+      "completely_generated_prob": 0.02148447490920252,
+      "confidence_category": "high",
+      "confidence_score": 0.965010998005013,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02148447490920252,
+          "human": 0.965010998005013,
+          "mixed": 0.013504527085784437
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.695895195007324,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01902037300169468,
+          "perplexity": 45,
+          "sentence": "The event served the purpose of promoting the dialogue and exchanging information on women, peace and security issues, and related challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010985922068357468,
+          "perplexity": 33,
+          "sentence": "UN Women, in cooperation with the UN Resident Coordinator's Office in Georgia and the representatives of various UN agencies, held an Open Day on Women, Peace and Security as part of the global 16 Days of Activism against Gender-Based Violence campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0056815254501998425,
+          "perplexity": 31,
+          "sentence": "As is tradition, this year's event served the purpose of promoting the dialogue between the UN system and civil society representatives, displaced and conflict-affected women and youth, as well as exchanging information on women, peace and security issues and related challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005966139957308769,
+          "perplexity": 55,
+          "sentence": "The representatives of the women's rights organizations displaced, and conflict-affected women and youth attended the event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0046493601985275745,
+          "perplexity": 79,
+          "sentence": "Ay\u015fe Cihan Sultano\u011flu, United Nations Representative to the Geneva International Discussions, and Sabine Machl, UN Resident Coordinator in Georgia, addressed about 90 participants of the meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0042519536800682545,
+          "perplexity": 67,
+          "sentence": "In addition, the attendees heard from the invited guest Ambassador Viorel Mo\u0219anu, Special Representative of the OSCE Chairperson-in-Office for the South Caucasus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008039033971726894,
+          "perplexity": 44,
+          "sentence": "\u201cThe full and meaningful participation of women in peace processes is critical, as women bring unique perspectives, insights and experiences to the negotiation table that are essential to achieving a lasting and inclusive peace,\u201d Ms. Sultano\u011flu said in her opening remarks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002909761853516102,
+          "perplexity": 60,
+          "sentence": "\u201cTheir inclusion not only promotes gender equality but also significantly increases the effectiveness and sustainability of peace agreements.\u201d A significant part of the Open Day was dedicated to the discussion about the challenges of the displaced and conflict-affected population\u1173among them, security issues especially in the villages along the Administrative Boundary Line (ABL), unlawful detentions and abductions of the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001954025588929653,
+          "perplexity": 46,
+          "sentence": "Community leader women underlined the economic hardship, labour migration and infrastructural problems, the lack of roads, transport, health care and other services, the need to dismantle the dilapidated buildings in IDP settlements, the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event served the purpose of promoting the dialogue and exchanging information on women, peace and security issues, and related challenges. UN Women, in cooperation with the UN Resident Coordinator\u2019s Office in Georgia and the representatives of various UN agencies, held an Open Day on Women, Peace and Security as part of the global 16 Days of Activism against Gender-Based Violence campaign. As is tradition, this year\u2019s event served the purpose of promoting the dialogue between the UN system and civil society representatives, displaced and conflict-affected women and youth, as well as exchanging information on women, peace and security issues and related challenges. The representatives of the women\u2019s rights organizations displaced, and conflict-affected women and youth attended the event. Ay\u015fe Cihan Sultano\u011flu, United Nations Representative to the Geneva International Discussions, and Sabine Machl, UN Resident Coordinator in Georgia, addressed about 90 participants of the meeting. In addition, the attendees heard from the invited guest Ambassador Viorel Mo\u0219anu, Special Representative of the OSCE Chairperson-in-Office for the South Caucasus. \u201cThe full and meaningful participation of women in peace processes is critical, as women bring unique perspectives, insights and experiences to the negotiation table that are essential to achieving a lasting and inclusive peace,\u201d Ms. Sultano\u011flu said in her opening remarks. \u201cTheir inclusion not only promotes gender equality but also significantly increases the effectiveness and sustainability of peace agreements.\u201d A significant part of the Open Day was dedicated to the discussion about the challenges of the displaced and conflict-affected population\u2014among them, security issues especially in the villages along the Administrative Boundary Line (ABL), unlawful detentions and abductions of the population. Community leader women underlined the economic hardship, labour migration and infrastructural problems, the lack of roads, transport, health care and other services, the need to dismantle the dilapidated buildings in IDP settlements, the",
+  "date": "27 November 2023"
+}

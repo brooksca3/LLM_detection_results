@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c155e7ce-5c93-49ed-80c9-d4b220fc453b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.89630699157715,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0014822488883510232,
+          "perplexity": 27,
+          "sentence": "Bishkek, Kyrgyzstan - within the framework of the World Antimicrobial Awareness Week, the Ministry of Health of the Kyrgyz Republic presented the mobile application \"Med Safety\", as an international tool for ensuring the safety of medicines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013412998523563147,
+          "perplexity": 29,
+          "sentence": "This mobile application was adapted into Kyrgyz and Russian languages by the Department of medicines and medical devices under the Ministry of Health of the Kyrgyz Republic with technical support of WHO and the Medicines & Healthcare products Regulatory Agency of UK.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016100661596283317,
+          "perplexity": 50,
+          "sentence": "The mobile app is already actively used in many countries, and based on practice evidences, health workers, patients, medical representatives and pharmacy employees are extremely interested in this service and are ready for its daily use.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024376544170081615,
+          "perplexity": 27,
+          "sentence": "This format of data transmission is more efficient and less time-consuming.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020131338387727737,
+          "perplexity": 25,
+          "sentence": "It is important that health care recipients, health care professionals, and medical professionals are aware of adverse side effects or reactions associated with medication use and report them to the national medicine's regulatory authority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015170709230005741,
+          "perplexity": 63,
+          "sentence": "Introduction and implementation of the \"Med Safety\" mobile application, developed for patients, health care professionals and medical professionals helps to provide information about adverse side effects of medicines to the medicine's regulatory authority and track information regarding their safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014179244171828032,
+          "perplexity": 66,
+          "sentence": "In this regard, the mobile application is a convenient alternative to the previous paper format, which is easy in use for reporting adverse side effects of medications and tracking information about their safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001091540907509625,
+          "perplexity": 18,
+          "sentence": "The mobile application is very easy to use, everyone can download it for free to their mobile phone and send messages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010431698756292462,
+          "perplexity": 34,
+          "sentence": "The application is available on the AppStore and Google Play Market in Kyrgyz and Russian languages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00108054478187114,
+          "perplexity": 16,
+          "sentence": "World Antimicrobial Awareness Week (WAAW) aims to increase awareness of global antimicrobial resistance (AMR) and to encourage best practices among the general public, health workers and policy makers in order to prevent",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, Kyrgyzstan \u2013 within the framework of the World Antimicrobial Awareness Week, the Ministry of Health of the Kyrgyz Republic presented the mobile application \"Med Safety\", as an international tool for ensuring the safety of medicines. This mobile application was adapted into Kyrgyz and Russian languages by the Department of medicines and medical devices under the Ministry of Health of the Kyrgyz Republic with technical support of WHO and the Medicines & Healthcare products Regulatory Agency of UK. The mobile app is already actively used in many countries, and based on practice evidences, health workers, patients, medical representatives and pharmacy employees are extremely interested in this service and are ready for its daily use. This format of data transmission is more efficient and less time-consuming. It is important that health care recipients, health care professionals, and medical professionals are aware of adverse side effects or reactions associated with medication use and report them to the national medicine\u2019s regulatory authority. Introduction and implementation of the \"Med Safety\" mobile application, developed for patients, health care professionals and medical professionals helps to provide information about adverse side effects of medicines to the medicine\u2019s regulatory authority and track information regarding their safety. In this regard, the mobile application is a convenient alternative to the previous paper format, which is easy in use for reporting adverse side effects of medications and tracking information about their safety. The mobile application is very easy to use, everyone can download it for free to their mobile phone and send messages. The application is available on the AppStore and Google Play Market in Kyrgyz and Russian languages. World Antimicrobial Awareness Week (WAAW) aims to increase awareness of global antimicrobial resistance (AMR) and to encourage best practices among the general public, health workers and policy makers in order to prevent",
+  "date": "24 November 2020"
+}

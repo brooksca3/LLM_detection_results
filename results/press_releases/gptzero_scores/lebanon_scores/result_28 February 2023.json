@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "83d608da-4fcd-4f18-82b4-d403f5b4b215",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03174011846663935,
+        "human": 0.9270573333830049,
+        "mixed": 0.04120254815035577
+      },
+      "completely_generated_prob": 0.03174011846663935,
+      "confidence_category": "medium",
+      "confidence_score": 0.9270573333830049,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03174011846663935,
+          "human": 0.9270573333830049,
+          "mixed": 0.04120254815035577
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 84.86174011230469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0026558113750070333,
+          "perplexity": 61,
+          "sentence": "The reports were presented on Tuesday 28 February 2023 in the presence of H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022615089546889067,
+          "perplexity": 55,
+          "sentence": "Mr. George Bouchikian, Minister of Industry, Mr. Jamie Schnurr, Head of Cooperation, Embassy of Canada to Lebanon, and Mr. Emmanuel Kalenzi, UNIDO Representative and Head of Regional Office for Lebanon, Jordan and Syria.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002977670170366764,
+          "perplexity": 25,
+          "sentence": "\"Lebanon is going through a major and critical economic crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00305520580150187,
+          "perplexity": 145,
+          "sentence": "The country needs every support from brotherly countries and international organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029749334789812565,
+          "perplexity": 46,
+          "sentence": "Despite this crisis, Lebanon remains a beacon of civilizational, cultural and scientific hub, and a bridge of interaction between East and West.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003015059744939208,
+          "perplexity": 134,
+          "sentence": "We are confident that Lebanon will rise and its ordeal will not be prolonged.\u201d - Confirmed H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002844563452526927,
+          "perplexity": 323,
+          "sentence": "Mr. George Bouchikian.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002429940737783909,
+          "perplexity": 32,
+          "sentence": "The agri-food sector is a major contributor to economic opportunities and job creation for women and youth in underprivileged areas; therefore, there is urgency in assisting local businesses export their products and access new markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024530913680791855,
+          "perplexity": 76,
+          "sentence": "\u201cWe are pleased to see that through the PSDP programme, we were able to develop portals, market intelligence reports and training tools in support of stakeholders -institutional as well as businesses - so they can optimize their production, expand their activities abroad, build their export capacity and create jobs.\u201d Sais Mr Jamie Schnurr, Head of Cooperation, Embassy of Canada to Lebanon In this context, these reports highlight the potential of the following products: pickles, fresh juices, dried fruits and vegetables, mouneh, chocolate, as well as healthy snacks and bars.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06558048725128174,
+          "perplexity": 54,
+          "sentence": "The studies underline the potential of several agri-food products in the local market and provide valuable insights and tailored data to help MSMEs, investors and startups identify market opportunities, improve their manufacturing process and increase their efficiency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1121167317032814,
+          "perplexity": 50,
+          "sentence": "The studies also highlight the industry's technical requirements and standards that would enable agri-food businesses to maintain their businesses and reach sustainable growth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0922851413488388,
+          "perplexity": 167,
+          "sentence": "\u201cImproving access to international markets for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The reports were presented on Tuesday 28 February 2023 in the presence of H.E. Mr. George Bouchikian, Minister of Industry, Mr. Jamie Schnurr, Head of Cooperation, Embassy of Canada to Lebanon, and Mr. Emmanuel Kalenzi, UNIDO Representative and Head of Regional Office for Lebanon, Jordan and Syria. \"Lebanon is going through a major and critical economic crisis. The country needs every support from brotherly countries and international organizations. Despite this crisis, Lebanon remains a beacon of civilizational, cultural and scientific hub, and a bridge of interaction between East and West. We are confident that Lebanon will rise and its ordeal will not be prolonged.\u201d - Confirmed H.E. Mr. George Bouchikian. The agri-food sector is a major contributor to economic opportunities and job creation for women and youth in underprivileged areas; therefore, there is urgency in assisting local businesses export their products and access new markets. \u201cWe are pleased to see that through the PSDP programme, we were able to develop portals, market intelligence reports and training tools in support of stakeholders -institutional as well as businesses - so they can optimize their production, expand their activities abroad, build their export capacity and create jobs.\u201d Sais Mr Jamie Schnurr, Head of Cooperation, Embassy of Canada to Lebanon In this context, these reports highlight the potential of the following products: pickles, fresh juices, dried fruits and vegetables, mouneh, chocolate, as well as healthy snacks and bars. The studies underline the potential of several agri-food products in the local market and provide valuable insights and tailored data to help MSMEs, investors and startups identify market opportunities, improve their manufacturing process and increase their efficiency. The studies also highlight the industry\u2019s technical requirements and standards that would enable agri-food businesses to maintain their businesses and reach sustainable growth. \u201cImproving access to international markets for",
+  "date": "28 February 2023"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ce38c28b-a4bc-4a36-9faf-13fe6628ced6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053614093211430035,
+        "human": 0.9456638314591231,
+        "mixed": 0.0007220753294468692
+      },
+      "completely_generated_prob": 0.053614093211430035,
+      "confidence_category": "medium",
+      "confidence_score": 0.9456638314591231,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053614093211430035,
+          "human": 0.9456638314591231,
+          "mixed": 0.0007220753294468692
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.344079971313477,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.07803753763437271,
+          "perplexity": 24,
+          "sentence": "7 July 2022, United Nations -- The members of the Security Council took note of the appointment of Najib Mikati as the new designated Prime Minister on 23 June, as well as the presentation by the latter of his government line-up to the President of the Republic of Lebanon on 29 June.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08032067865133286,
+          "perplexity": 36,
+          "sentence": "Over a month after legislative elections in Lebanon, the members of the Security Council call for expediting the formation of a government to implement necessary reforms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0870450958609581,
+          "perplexity": 20,
+          "sentence": "Given the intensity of the compounding crises in Lebanon, it is the responsibility and duty of all political actors to work together to prioritize the national interest and to rise to the challenges facing the Lebanese people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06967583298683167,
+          "perplexity": 41,
+          "sentence": "The members of the Security Council encouraged measures to promote youth participation and to enhance women's full, equal and meaningful political participation and representation, including in the new government, as well as their economic empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06312877684831619,
+          "perplexity": 29,
+          "sentence": "They emphasized the vital importance of adhering to the constitutional calendar so that the presidential election takes place on time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06129603832960129,
+          "perplexity": 47,
+          "sentence": "The members of the Security Council also recalled the need for urgent implementation of previously outlined tangible reforms that would enable the quick conclusion of an agreement with the IMF to respond to the demands of the Lebanese population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06546292454004288,
+          "perplexity": 37,
+          "sentence": "They stressed the role of the Lebanese institutions, including the newly elected Parliament and the new Government, in the implementation of the reforms necessary to tackle the unprecedented crisis, root out corruption, and deliver more responsive governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06645975261926651,
+          "perplexity": 38,
+          "sentence": "They also underlined the importance of delivering those reforms in order to ensure effective international support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0691455602645874,
+          "perplexity": 52,
+          "sentence": "They underscored that the stability of Lebanon is a shared priority.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "7 July 2022, United Nations -- The members of the Security Council took note of the appointment of Najib Mikati as the new designated Prime Minister on 23 June, as well as the presentation by the latter of his government line-up to the President of the Republic of Lebanon on 29 June. Over a month after legislative elections in Lebanon, the members of the Security Council call for expediting the formation of a government to implement necessary reforms. Given the intensity of the compounding crises in Lebanon, it is the responsibility and duty of all political actors to work together to prioritize the national interest and to rise to the challenges facing the Lebanese people. The members of the Security Council encouraged measures to promote youth participation and to enhance women\u2019s full, equal and meaningful political participation and representation, including in the new government, as well as their economic empowerment. They emphasized the vital importance of adhering to the constitutional calendar so that the presidential election takes place on time. The members of the Security Council also recalled the need for urgent implementation of previously outlined tangible reforms that would enable the quick conclusion of an agreement with the IMF to respond to the demands of the Lebanese population. They stressed the role of the Lebanese institutions, including the newly elected Parliament and the new Government, in the implementation of the reforms necessary to tackle the unprecedented crisis, root out corruption, and deliver more responsive governance. They also underlined the importance of delivering those reforms in order to ensure effective international support. They underscored that the stability of Lebanon is a shared priority.",
+  "date": "07 July 2022"
+}

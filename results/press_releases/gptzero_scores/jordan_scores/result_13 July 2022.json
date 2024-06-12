@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "461b009a-e2d5-4ad6-bde8-0c3e77e703cd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.11618423461914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008011696627363563,
+          "perplexity": 45,
+          "sentence": "Amman - Crucial to understanding the state of cities and building their resilience is up-to-date information, data and analyses of urban contexts and trends.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008747859392315149,
+          "perplexity": 30,
+          "sentence": "The Greater Amman Municipality (GAM) will discuss its experience regarding the Voluntary Local Review (VLR), a subnational report that assesses the progress of local governments in achieving the Sustainable Development Goals (SDGs), in a session on the margins of the High-Level Political Forum on 11 July.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008093863725662231,
+          "perplexity": 72,
+          "sentence": "The meeting of the HLPF in 2022 is held from 5 July to 15 July 2022 under the auspices of the Economic and Social Council, focusing this year on the theme of \u201cBuilding back better from the coronavirus disease while advancing the full implementation of the 2030 Agenda for Sustainable Development\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000787702389061451,
+          "perplexity": 49,
+          "sentence": "The session on the margins of the High-Level Political Forum is organized by the UN Regional Commissions, including United Nations Economic and Social Commission for Western Asia (ESCWA), to discuss increased policy coherence and accelerated implementation of the 2030 agenda, giving experience from different regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007444077054969966,
+          "perplexity": 22,
+          "sentence": "Forty-four countries are expected to carry out voluntary national reviews (VNRs) of their implementation of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015800161054357886,
+          "perplexity": 53,
+          "sentence": "The lack of urban data collection tools is one of the challenges of advancing urban development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008614824619144201,
+          "perplexity": 47,
+          "sentence": "Addressing this challenge, UN-Habitat, ESCWA and the United Cities and Local Governments - Middle East and West Asia Section (UCLG-MEWA), in close cooperation with GAM, led the development of the VLR, which is the first of its kind in the Arab region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000983291887678206,
+          "perplexity": 148,
+          "sentence": "The VLRs mechanism has become an essential tool for cities around the world in reporting and tracking SDGs progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000676784897223115,
+          "perplexity": 75,
+          "sentence": "\u201cWe hope to continue to support the collection and analysis of data at the local level in order to achieve effective urban development that is adequate to the Arab region,\u201d Dr. Erfan Ali, UN-Habitat regional",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - Crucial to understanding the state of cities and building their resilience is up-to-date information, data and analyses of urban contexts and trends. The Greater Amman Municipality (GAM) will discuss its experience regarding the Voluntary Local Review (VLR), a subnational report that assesses the progress of local governments in achieving the Sustainable Development Goals (SDGs), in a session on the margins of the High-Level Political Forum on 11 July. The meeting of the HLPF in 2022 is held from 5 July to 15 July 2022 under the auspices of the Economic and Social Council, focusing this year on the theme of \u201cBuilding back better from the coronavirus disease while advancing the full implementation of the 2030 Agenda for Sustainable Development\u201d. The session on the margins of the High-Level Political Forum is organized by the UN Regional Commissions, including United Nations Economic and Social Commission for Western Asia (ESCWA), to discuss increased policy coherence and accelerated implementation of the 2030 agenda, giving experience from different regions. Forty-four countries are expected to carry out voluntary national reviews (VNRs) of their implementation of the 2030 Agenda for Sustainable Development . The lack of urban data collection tools is one of the challenges of advancing urban development. Addressing this challenge, UN-Habitat, ESCWA and the United Cities and Local Governments - Middle East and West Asia Section (UCLG-MEWA), in close cooperation with GAM, led the development of the VLR, which is the first of its kind in the Arab region. The VLRs mechanism has become an essential tool for cities around the world in reporting and tracking SDGs progress. \u201cWe hope to continue to support the collection and analysis of data at the local level in order to achieve effective urban development that is adequate to the Arab region,\u201d Dr. Erfan Ali, UN-Habitat regional",
+  "date": "13 July 2022"
+}

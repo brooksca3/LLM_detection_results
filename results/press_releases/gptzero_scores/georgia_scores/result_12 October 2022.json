@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9cf5a056-72dd-465c-a974-fda61e96e9b9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.856225967407227,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007826117216609418,
+          "perplexity": 25,
+          "sentence": "The United Nations General Assembly voted on 11 October and elected Georgia as a member of the UN Human Rights Council for the term 2023-2025, alongside thirteen other countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000806305673904717,
+          "perplexity": 46,
+          "sentence": "The United Nations Resident Coordinator in Georgia Sabine Machl congratulated Georgia on its election to the Council and underscored that it is an \u201cexcellent opportunity to contribute to protection of human rights globally by setting example domestically.\u201d In accordance with paragraph 7 of General Assembly resolution 60/251, the Council shall consist of 47 Member States, which shall be elected directly and individually by secret ballot by the majority of the members of the General Assembly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008502461132593453,
+          "perplexity": 21,
+          "sentence": "The membership shall be based on equitable geographical distribution, and seats shall be distributed as follows among regional groups: The members of the Council shall serve for a period of three years and shall not be eligible for immediate re-election after two consecutive terms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005608187639154494,
+          "perplexity": 69,
+          "sentence": "In accordance with General Assembly resolutions 60/251 and 65/281 and decision 75/402, the Human Rights Council starts its yearly membership cycle on 1 January.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003480619634501636,
+          "perplexity": 27,
+          "sentence": "At its 71st plenary meeting, on 10 May 2022, the General Assembly, pursuant to its resolutions 60/251 of 15 March 2006 and 65/281 of 17 June 2011, elected Czechia for the remainder of the term of office of the Russian Federation beginning on 10 May 2022 and ending on 31 December 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039576453855261207,
+          "perplexity": 57,
+          "sentence": "Member States who have chosen to announce their candidacies in writing are listed below.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030181213514879346,
+          "perplexity": 57,
+          "sentence": "Voluntary pledges that Member States have chosen to provide in support of their respective candidacies, in accordance with paragraph 8 of General Assembly resolution 60/251, are issued as General Assembly documents in all official languages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005076667875982821,
+          "perplexity": 11,
+          "sentence": "For more information, read the FAQ.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations General Assembly voted on 11 October and elected Georgia as a member of the UN Human Rights Council for the term 2023-2025, alongside thirteen other countries. The United Nations Resident Coordinator in Georgia Sabine Machl congratulated Georgia on its election to the Council and underscored that it is an \u201cexcellent opportunity to contribute to protection of human rights globally by setting example domestically.\u201d In accordance with paragraph 7 of General Assembly resolution 60/251, the Council shall consist of 47 Member States, which shall be elected directly and individually by secret ballot by the majority of the members of the General Assembly. The membership shall be based on equitable geographical distribution, and seats shall be distributed as follows among regional groups: The members of the Council shall serve for a period of three years and shall not be eligible for immediate re-election after two consecutive terms. In accordance with General Assembly resolutions 60/251 and 65/281 and decision 75/402, the Human Rights Council starts its yearly membership cycle on 1 January. At its 71st plenary meeting, on 10 May 2022, the General Assembly, pursuant to its resolutions 60/251 of 15 March 2006 and 65/281 of 17 June 2011, elected Czechia for the remainder of the term of office of the Russian Federation beginning on 10 May 2022 and ending on 31 December 2023. Member States who have chosen to announce their candidacies in writing are listed below. Voluntary pledges that Member States have chosen to provide in support of their respective candidacies, in accordance with paragraph 8 of General Assembly resolution 60/251, are issued as General Assembly documents in all official languages. For more information, read the FAQ.",
+  "date": "12 October 2022"
+}

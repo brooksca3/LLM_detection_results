@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a547e2e4-2b35-4dc6-a3c2-d0828dc91138",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17407399120387806,
+        "human": 0.8249826154157895,
+        "mixed": 0.0009433933803324667
+      },
+      "completely_generated_prob": 0.17407399120387806,
+      "confidence_category": "low",
+      "confidence_score": 0.8249826154157895,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17407399120387806,
+          "human": 0.8249826154157895,
+          "mixed": 0.0009433933803324667
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 8.772891998291016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.23646347224712372,
+          "perplexity": 18,
+          "sentence": "The United Nations is supporting efforts by the Government of Haiti to contain an outbreak of cholera and provide life saving measures following the confirmation of a positive case and the identification of several suspected cases in the Port-au-Prince metropolitan area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.24896524846553802,
+          "perplexity": 38,
+          "sentence": "The case was identified using the cholera surveillance mechanism, established by the Haitian authorities and supported by the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.23683157563209534,
+          "perplexity": 37,
+          "sentence": "It was confirmed as positive at the National Public Health Laboratory in Port-au-Prince on Sunday 2 October.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2287597954273224,
+          "perplexity": 31,
+          "sentence": "Additional suspected cases are currently being investigated in the metropolitan area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2310289740562439,
+          "perplexity": 23,
+          "sentence": "The United Nations is actively monitoring the situation and is working with the government to mount an emergency response to this potential outbreak, focused not only on limiting the spread of the disease, but also on informing the population how to take immediate lifesaving action at the household level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.23537960648536682,
+          "perplexity": 52,
+          "sentence": "Additional support will consist of expanded surveillance, increased water and sanitation provision, the opening of cholera treatment centers and the reinforcement of case management.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.22407099604606628,
+          "perplexity": 31,
+          "sentence": "Specialized emergency response teams are ready to be deployed to support affected communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21604226529598236,
+          "perplexity": 33,
+          "sentence": "However, in the current socio-political context, it is imperative that these teams be guaranteed safe access to areas where cases have been confirmed or suspected, to help mitigate the risk of a large or disruptive outbreak.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21260784566402435,
+          "perplexity": 30,
+          "sentence": "The United Nations calls on all Haitian citizens to remain vigilant and take proactive measures to prevent the spread of cases within the community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20707716047763824,
+          "perplexity": 29,
+          "sentence": "These measures include: Anyone who exhibits symptoms of acute watery diarrhea and vomiting should seek medical attention immediately and should remain hydrated using oral rehydration salts which can be made at home by combining one litre of clean water, six teaspoons of sugar and \u00bd teaspoon of salt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.18902529776096344,
+          "perplexity": 28,
+          "sentence": "Infants should be given a minimum of half a litre of oral rehydration salts per day while",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations is supporting efforts by the Government of Haiti to contain an outbreak of cholera and provide life saving measures following the confirmation of a positive case and the identification of several suspected cases in the Port-au-Prince metropolitan area. The case was identified using the cholera surveillance mechanism, established by the Haitian authorities and supported by the United Nations. It was confirmed as positive at the National Public Health Laboratory in Port-au-Prince on Sunday 2 October. Additional suspected cases are currently being investigated in the metropolitan area. The United Nations is actively monitoring the situation and is working with the government to mount an emergency response to this potential outbreak, focused not only on limiting the spread of the disease, but also on informing the population how to take immediate lifesaving action at the household level. Additional support will consist of expanded surveillance, increased water and sanitation provision, the opening of cholera treatment centers and the reinforcement of case management. Specialized emergency response teams are ready to be deployed to support affected communities. However, in the current socio-political context, it is imperative that these teams be guaranteed safe access to areas where cases have been confirmed or suspected, to help mitigate the risk of a large or disruptive outbreak. The United Nations calls on all Haitian citizens to remain vigilant and take proactive measures to prevent the spread of cases within the community. These measures include: Anyone who exhibits symptoms of acute watery diarrhea and vomiting should seek medical attention immediately and should remain hydrated using oral rehydration salts which can be made at home by combining one litre of clean water, six teaspoons of sugar and \u00bd teaspoon of salt. Infants should be given a minimum of half a litre of oral rehydration salts per day while",
+  "date": "02 October 2022"
+}

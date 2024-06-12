@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "44598ba2-0d6f-4695-8f6c-66eb059079dd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.76609420776367,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001760206068865955,
+          "perplexity": 61,
+          "sentence": "Belgrade, 12 December 2022 - To enable the exchange of knowledge and policy implications in combating poverty in Serbia, the Policy Workshop on \u201cExtending Social Protection to families in Serbia with enhanced shock-responsiveness\u201d was held today with the participation of decision makers and practitioners from key government ministries and agencies at the central and local level, as well as representatives from civil society, academia, the UN Serbia Team and the donor community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019760832947213203,
+          "perplexity": 125,
+          "sentence": "As the economic recovery from the COVID-19 pandemic recession is stalling due to the Ukraine crisis, vulnerable and marginalized communities in Serbia are facing specific challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001660077687120065,
+          "perplexity": 26,
+          "sentence": "Bearing the brunt are families with young children, women-headed households, older persons living alone or in older households, refugees, asylum seekers, persons at risk of statelessness and internally displaced persons, those living in rural or remote areas, or with a minimum income.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016992211749311537,
+          "perplexity": 60,
+          "sentence": "There is already ample anecdotal evidence that discretionary spending and choices related to the quality of food consumed and education among these groups are already being affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001715602702461183,
+          "perplexity": 114,
+          "sentence": "\u201cRising food and energy costs may drastically influence the living standards of children in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001380987378070131,
+          "perplexity": 56,
+          "sentence": "They may also make the share of essential spending in the total budget higher and all other non-essential spending lower.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013756529369857162,
+          "perplexity": 120,
+          "sentence": "Education costs might decrease and significantly negatively affect children from disadvantaged socioeconomic backgrounds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001377422158839181,
+          "perplexity": 42,
+          "sentence": "UNICEF, UNFPA and UNHCR stand ready to support the Government of the Republic of Serbia in introducing shock-sensitive social protection measures that will hopefully respond to the current crisis, but also help the country better respond to future shocks,\u201d said Deyana Kostadinova, UNICEF Representative in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020015503105241805,
+          "perplexity": 40,
+          "sentence": "Sub-groups of older people, particularly in rural and remote areas, are reported to be stretched in meeting their needs for food, hygiene, or medicines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022333029482979327,
+          "perplexity": 111,
+          "sentence": "\u201cThrough the assessment of the impact of poverty on older persons, we obtained valuable data",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 12 December 2022 - To enable the exchange of knowledge and policy implications in combating poverty in Serbia, the Policy Workshop on \u201cExtending Social Protection to families in Serbia with enhanced shock-responsiveness\u201d was held today with the participation of decision makers and practitioners from key government ministries and agencies at the central and local level, as well as representatives from civil society, academia, the UN Serbia Team and the donor community. As the economic recovery from the COVID-19 pandemic recession is stalling due to the Ukraine crisis, vulnerable and marginalized communities in Serbia are facing specific challenges. Bearing the brunt are families with young children, women-headed households, older persons living alone or in older households, refugees, asylum seekers, persons at risk of statelessness and internally displaced persons, those living in rural or remote areas, or with a minimum income. There is already ample anecdotal evidence that discretionary spending and choices related to the quality of food consumed and education among these groups are already being affected. \u201cRising food and energy costs may drastically influence the living standards of children in Serbia. They may also make the share of essential spending in the total budget higher and all other non-essential spending lower. Education costs might decrease and significantly negatively affect children from disadvantaged socioeconomic backgrounds. UNICEF, UNFPA and UNHCR stand ready to support the Government of the Republic of Serbia in introducing shock-sensitive social protection measures that will hopefully respond to the current crisis, but also help the country better respond to future shocks,\u201d said Deyana Kostadinova, UNICEF Representative in Serbia. Sub-groups of older people, particularly in rural and remote areas, are reported to be stretched in meeting their needs for food, hygiene, or medicines. \u201cThrough the assessment of the impact of poverty on older persons, we obtained valuable data",
+  "date": "12 December 2022"
+}

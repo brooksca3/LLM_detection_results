@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "efcc765b-23aa-4ac1-b264-dc501acb3222",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010845613971220955,
+        "human": 0.9886565051012448,
+        "mixed": 0.0004978809275341892
+      },
+      "completely_generated_prob": 0.010845613971220955,
+      "confidence_category": "high",
+      "confidence_score": 0.9886565051012448,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010845613971220955,
+          "human": 0.9886565051012448,
+          "mixed": 0.0004978809275341892
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.96272277832031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00020706234499812126,
+          "perplexity": 17,
+          "sentence": "On 17 March the National Human Rights Centre of the Republic of Uzbekistan (NHRC) jointly with UNHCR, the UN Refugee Agency, held a presentation of the Analytical Report on the legislation and practice of the Republic of Uzbekistan in the context of the prospect of joining the 1951 Refugee Convention and its 1967 Protocol, for representatives the Senate and the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, the Ministry of Foreign Affairs, the Ministry of Internal Affairs, the office of the Ombudsman, the Academy of the Ministry of Internal Affairs, the State Security Service, the Prosecutor General's Office, the Law Enforcement Academy, the University of Public Security, the Tashkent State Law University, the University of World Economy and Diplomacy and representatives of UN agencies and diplomatic missions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023580799461342394,
+          "perplexity": 106,
+          "sentence": "The event was opened by Consuelo Vidal-Bruce, United Nations Resident Coordinator a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002191200474044308,
+          "perplexity": 83,
+          "sentence": "in Uzbekistan, Hans Friedrich Schodder, UNHCR Representative for Central Asia, Dilnoza Muratova, Deputy Director of the National Human Rights Centre of the Republic of Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003280465316493064,
+          "perplexity": 32,
+          "sentence": "\u201cToday, due to global geopolitical crises, unfortunately, the number of people who are forced to leave their country, forcibly displaced or seeking political asylum is constantly increasing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008415798656642437,
+          "perplexity": 39,
+          "sentence": "In such a difficult and dangerous situation, the world community, international organisations and countries in the world, in connection with the presence of a serious threat to the life and freedom of their citizens, began to especially sharply coordinate their actions related to the protection and support of people who left their country and are in need of asylum and socio-economic help,\u201d said Dilnoza Muratova, Deputy Director of the Center, in her speech.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007691863575018942,
+          "perplexity": 69,
+          "sentence": "\u201cThe United Nations in Uzbekistan is very pleased that close cooperation between the Government and UNHCR brought to our attention today a comprehensive legal analysis of the national legislation related to refugee",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 17 March the National Human Rights Centre of the Republic of Uzbekistan (NHRC) jointly with UNHCR, the UN Refugee Agency, held a presentation of the Analytical Report on the legislation and practice of the Republic of Uzbekistan in the context of the prospect of joining the 1951 Refugee Convention and its 1967 Protocol, for representatives the Senate and the Legislative Chamber of the Oliy Majlis of the Republic of Uzbekistan, the Ministry of Foreign Affairs, the Ministry of Internal Affairs, the office of the Ombudsman, the Academy of the Ministry of Internal Affairs, the State Security Service, the Prosecutor General\u2019s Office, the Law Enforcement Academy, the University of Public Security, the Tashkent State Law University, the University of World Economy and Diplomacy and representatives of UN agencies and diplomatic missions. The event was opened by Consuelo Vidal-Bruce, United Nations Resident Coordinator a.i. in Uzbekistan, Hans Friedrich Schodder, UNHCR Representative for Central Asia, Dilnoza Muratova, Deputy Director of the National Human Rights Centre of the Republic of Uzbekistan. \u201cToday, due to global geopolitical crises, unfortunately, the number of people who are forced to leave their country, forcibly displaced or seeking political asylum is constantly increasing. In such a difficult and dangerous situation, the world community, international organisations and countries in the world, in connection with the presence of a serious threat to the life and freedom of their citizens, began to especially sharply coordinate their actions related to the protection and support of people who left their country and are in need of asylum and socio-economic help,\u201d said Dilnoza Muratova, Deputy Director of the Center, in her speech. \u201cThe United Nations in Uzbekistan is very pleased that close cooperation between the Government and UNHCR brought to our attention today a comprehensive legal analysis of the national legislation related to refugee",
+  "date": "17 March 2023"
+}

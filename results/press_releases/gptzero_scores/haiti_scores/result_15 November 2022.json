@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2130788d-3bce-4320-82d8-807fce03f106",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.671427726745605,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002892159973271191,
+          "perplexity": 15,
+          "sentence": "The Government of Haiti, the United Nations and partners are today launching an appeal for $145.6 million to support the country's emergency response to a cholera outbreak and to provide life-saving assistance to 1.4 million people living in the most affected areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002828936849255115,
+          "perplexity": 20,
+          "sentence": "After more than three years without a reported case of cholera in Haiti, national authorities on 2 October 2022 reported two new confirmed cases of vibrio cholerae in the metropolitan area of Port-au-Prince.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002546602045185864,
+          "perplexity": 32,
+          "sentence": "As of 14 November, the Ministry of Public Health and Population reported 8,708 suspected cases, 802 confirmed cases and 161 deaths across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003695913474075496,
+          "perplexity": 34,
+          "sentence": "\"Cholera is a preventable and treatable disease, and based on their experience and expertise, national institutions quickly put together a response strategy with the determined support of the entire local and international humanitarian community,\" said UN Resident and Humanitarian Coordinator, Ulrika Richardson adding that \u201chowever, the surge in cases in recent weeks and the rapid spread of cholera in the country is worrying.\u201d According to PAHO/WHO, 500,000 people are at risk of contracting the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005077626556158066,
+          "perplexity": 44,
+          "sentence": "The cholera crisis has hit already vulnerable populations hardest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004177567607257515,
+          "perplexity": 19,
+          "sentence": "The latest food security analysis for Haiti shows that 4.7 million people, nearly half the population, are experiencing high levels of food insecurity, with 19,200 people in a disaster situation, the first time this has happened in recent history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000547815696336329,
+          "perplexity": 47,
+          "sentence": "Haitians are also facing increased violence due to the activities of armed gangs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005165102193132043,
+          "perplexity": 21,
+          "sentence": "These gangs use sexual violence as a weapon to terrorise the population and to gain control over territory.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037621677620336413,
+          "perplexity": 43,
+          "sentence": "Nearly 100,000 people have been displaced since June 2021 after fleeing violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039795233169570565,
+          "perplexity": 25,
+          "sentence": "The main roads linking the capital to the rest of the country are under the control or influence of gangs, which has limited or even deprived the population's access to basic services for many months.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Haiti, the United Nations and partners are today launching an appeal for $145.6 million to support the country's emergency response to a cholera outbreak and to provide life-saving assistance to 1.4 million people living in the most affected areas. After more than three years without a reported case of cholera in Haiti, national authorities on 2 October 2022 reported two new confirmed cases of vibrio cholerae in the metropolitan area of Port-au-Prince. As of 14 November, the Ministry of Public Health and Population reported 8,708 suspected cases, 802 confirmed cases and 161 deaths across the country. \"Cholera is a preventable and treatable disease, and based on their experience and expertise, national institutions quickly put together a response strategy with the determined support of the entire local and international humanitarian community,\" said UN Resident and Humanitarian Coordinator, Ulrika Richardson adding that \u201chowever, the surge in cases in recent weeks and the rapid spread of cholera in the country is worrying.\u201d According to PAHO/WHO, 500,000 people are at risk of contracting the disease. The cholera crisis has hit already vulnerable populations hardest. The latest food security analysis for Haiti shows that 4.7 million people, nearly half the population, are experiencing high levels of food insecurity, with 19,200 people in a disaster situation, the first time this has happened in recent history. Haitians are also facing increased violence due to the activities of armed gangs. These gangs use sexual violence as a weapon to terrorise the population and to gain control over territory. Nearly 100,000 people have been displaced since June 2021 after fleeing violence. The main roads linking the capital to the rest of the country are under the control or influence of gangs, which has limited or even deprived the population's access to basic services for many months.",
+  "date": "15 November 2022"
+}

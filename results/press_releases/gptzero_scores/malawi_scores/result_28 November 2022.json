@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f91df856-2169-46f6-8142-d297dfeb54b4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.72816276550293,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015615766460541636,
+          "perplexity": 81,
+          "sentence": "UNHCR, the UN Refugee Agency, deeply regrets the decision taken by the GoM to proceed with the executeion of its directive to relocate refugees living in rural and urban centres back to Dzaleka camp.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001433165743947029,
+          "perplexity": 40,
+          "sentence": "The refugee agency is urging the authorities to reconsider its decision which will have disastrous consequences on many refugee lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001340398594038561,
+          "perplexity": 55,
+          "sentence": "Lilongwe, 25 November 2022 - UNHCR, the UN Refugee Agency, deeply regrets the decision taken by the Malawi government on Thursday 24 November to proceed with the execution of its directive to relocate refugees living in rural and urban centres across the country, back to Dzaleka camp.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013677382958121598,
+          "perplexity": 40,
+          "sentence": "The refugee agency is urging the authorities to reconsider its decision which will have disastrous consequences on many refugee lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013768233475275338,
+          "perplexity": 63,
+          "sentence": "Some 8,000 refugees living in rural and urban locations are expected to return to the already congested Dzaleka camp, which presently accommodates 56,425 refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015138568414840847,
+          "perplexity": 82,
+          "sentence": "Dzaleka was originally established to accommodate up to 12,000 refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015437339607160538,
+          "perplexity": 37,
+          "sentence": "Relocating several thousands refugees back to the camp will have dire consequences on the provision of critical basic services such as health services, education, and protection programmes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016049867554102093,
+          "perplexity": 136,
+          "sentence": "\u201cThe relocation means that children will have to leave their schools and breadwinners to abandon their employment or small businesses and return to a camp where they will be dependent on humanitarian assistance,\u201d says KOUAME Cyr Modeste, UNHCR's Representative in Malawi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014279985043685883,
+          "perplexity": 62,
+          "sentence": "UNHCR is also very concerned about the extremely tight deadlines given to refugees for their relocation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012885048636235297,
+          "perplexity": 64,
+          "sentence": "Refugees living in rural areas have been given until 30 November 2022 and those living in urban locations until 1 February 2023 to relocate to Dzaleka camp.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018945908232126385,
+          "perplexity": 101,
+          "sentence": "While UNHCR applauds the government's offer of Luwani settlement as an alternative to Dzaleka camp, time and significant financial resources are needed to make it habitable with the installation of basic services such as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNHCR, the UN Refugee Agency, deeply regrets the decision taken by the GoM to proceed with the executeion of its directive to relocate refugees living in rural and urban centres back to Dzaleka camp. The refugee agency is urging the authorities to reconsider its decision which will have disastrous consequences on many refugee lives. Lilongwe, 25 November 2022 - UNHCR, the UN Refugee Agency, deeply regrets the decision taken by the Malawi government on Thursday 24 November to proceed with the execution of its directive to relocate refugees living in rural and urban centres across the country, back to Dzaleka camp. The refugee agency is urging the authorities to reconsider its decision which will have disastrous consequences on many refugee lives. Some 8,000 refugees living in rural and urban locations are expected to return to the already congested Dzaleka camp, which presently accommodates 56,425 refugees. Dzaleka was originally established to accommodate up to 12,000 refugees. Relocating several thousands refugees back to the camp will have dire consequences on the provision of critical basic services such as health services, education, and protection programmes. \u201cThe relocation means that children will have to leave their schools and breadwinners to abandon their employment or small businesses and return to a camp where they will be dependent on humanitarian assistance,\u201d says KOUAME Cyr Modeste, UNHCR\u2019s Representative in Malawi. UNHCR is also very concerned about the extremely tight deadlines given to refugees for their relocation. Refugees living in rural areas have been given until 30 November 2022 and those living in urban locations until 1 February 2023 to relocate to Dzaleka camp. While UNHCR applauds the government\u2019s offer of Luwani settlement as an alternative to Dzaleka camp, time and significant financial resources are needed to make it habitable with the installation of basic services such as",
+  "date": "28 November 2022"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2244fd45-2de8-4e86-bee9-8c127d28bca2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.87614059448242,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011559074046090245,
+          "perplexity": 172,
+          "sentence": "The First Deputy Minister of Economic Development and Trade, Mr. Ashurboy Solehzoda, and the UN Resident Coordinator a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011520051630213857,
+          "perplexity": 45,
+          "sentence": "Mr. Oleg Guchgeldiyev, convened a meeting of senior decision-makers from government, the United Nations and national and international development partners, to discuss the financing framework for achieving national development priorities and the Sustainable Development Goals 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013494440354406834,
+          "perplexity": 51,
+          "sentence": "The Government of Tajikistan and the United Nations are partnering on a new initiative launched in the context of this meeting to improve the financing framework and resource mobilization for the National Development Strategy 2016-2030 and national SDG targets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015928114298731089,
+          "perplexity": 31,
+          "sentence": "This initiative focuses on improving alignment between planning and financing processes, conducting analyses of public expenditures in key sectors in order to improve efficiency and effectiveness of financing, and improving partnerships with the private sector to increase investments in sectors of the economy that have a positive social impact.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015136869624257088,
+          "perplexity": 25,
+          "sentence": "Both the Government and the United Nations reiterated that it will not be possible to meet national development objectives without a significant increase in financing from both domestic and international sources, and especially increasing the share of private financing and investment in Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013111482840031385,
+          "perplexity": 52,
+          "sentence": "While the COVID-19 crisis has created great hardship and increased the need for resources to finance development goals, it has also created new opportunities with many countries reviewing how they plan to finance their development goals and exploring new approaches that blend different types of financing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014594134408980608,
+          "perplexity": 35,
+          "sentence": "This remains an area of great untapped potential for Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007961185765452683,
+          "perplexity": 36,
+          "sentence": "The partnership on financing the SDGs is supported by the UN Joint SDG Fund and brings together the integrated policy advice of UNICEF, UNDP and UN Women, in partnership with the Ministry of Economic Development and Trade, Ministry of Finance, State Committee on Investments and State Property Management, Ministry of Education and Science, the Lower Chamber of Parliament, other",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The First Deputy Minister of Economic Development and Trade, Mr. Ashurboy Solehzoda, and the UN Resident Coordinator a.i. Mr. Oleg Guchgeldiyev, convened a meeting of senior decision-makers from government, the United Nations and national and international development partners, to discuss the financing framework for achieving national development priorities and the Sustainable Development Goals 2030. The Government of Tajikistan and the United Nations are partnering on a new initiative launched in the context of this meeting to improve the financing framework and resource mobilization for the National Development Strategy 2016-2030 and national SDG targets. This initiative focuses on improving alignment between planning and financing processes, conducting analyses of public expenditures in key sectors in order to improve efficiency and effectiveness of financing, and improving partnerships with the private sector to increase investments in sectors of the economy that have a positive social impact. Both the Government and the United Nations reiterated that it will not be possible to meet national development objectives without a significant increase in financing from both domestic and international sources, and especially increasing the share of private financing and investment in Tajikistan. While the COVID-19 crisis has created great hardship and increased the need for resources to finance development goals, it has also created new opportunities with many countries reviewing how they plan to finance their development goals and exploring new approaches that blend different types of financing. This remains an area of great untapped potential for Tajikistan. The partnership on financing the SDGs is supported by the UN Joint SDG Fund and brings together the integrated policy advice of UNICEF, UNDP and UN Women, in partnership with the Ministry of Economic Development and Trade, Ministry of Finance, State Committee on Investments and State Property Management, Ministry of Education and Science, the Lower Chamber of Parliament, other",
+  "date": "24 December 2020"
+}

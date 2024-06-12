@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0a9b04e2-ca86-4903-a3ec-04b77fb30727",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.745952606201172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013482144568115473,
+          "perplexity": 33,
+          "sentence": "Kuwait 19th of August 2021 - On 19 of August of each year The United Nations likes to remind the world of the humanitarian situation faced by millions of people around the globe as a result of natural disasters and armed conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016190207097679377,
+          "perplexity": 28,
+          "sentence": "Emphasizing the role of workers and humanitarians who risk their lives to deliver humanitarian aid and humanitarian services to those affected and in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014338756445795298,
+          "perplexity": 40,
+          "sentence": "many staff of the United Nations and local and international humanitarian organizations have been and are still trying to tackle the difficulties and obstacles while performing their duty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016701658023521304,
+          "perplexity": 44,
+          "sentence": "The severity and ferocity of these conditions have recently increased, which has made it more difficult for humanitarian institutions to secure entry to their staff safely and to provide aid in many countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012795550283044577,
+          "perplexity": 31,
+          "sentence": "In 2003, The United Nations headquarters in Baghdad was attacked, killing 22 staff members of the United Nations and non-governmental organizations, including the United Nations Special Representative in Iraq, Sergio Vieira de Mello, and wounding more than 100 people, since then, August 19 has been marked by the general assembly to commemorate World Humanitarian Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017343193758279085,
+          "perplexity": 17,
+          "sentence": "Each year, World Humanitarian Day focuses on a theme, bringing together partners from across the humanitarian system to advocate for the survival, well-being and dignity of people affected by crises, and for the safety and security of aid workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001581332995556295,
+          "perplexity": 79,
+          "sentence": "This year, the United Nations Secretary General Representative, the Resident Coordinator in Kuwait and the United Nations Country Team invites the local communities to join the global event highlighting the immediate human cost of the climate crisis, under the theme \u201c#TheHumanRace\u201d and how it is affecting the humanitarian and aid workers in delivering the needed assistance to those effected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018851094646379352,
+          "perplexity": 51,
+          "sentence": "The United Nations Secretary General Ant\u00f3nio Guterres stated that \u201cThe climate emergency is a race we are losing, but it",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait 19th of August 2021 \u2013 On 19 of August of each year The United Nations likes to remind the world of the humanitarian situation faced by millions of people around the globe as a result of natural disasters and armed conflict. Emphasizing the role of workers and humanitarians who risk their lives to deliver humanitarian aid and humanitarian services to those affected and in need. many staff of the United Nations and local and international humanitarian organizations have been and are still trying to tackle the difficulties and obstacles while performing their duty. The severity and ferocity of these conditions have recently increased, which has made it more difficult for humanitarian institutions to secure entry to their staff safely and to provide aid in many countries. In 2003, The United Nations headquarters in Baghdad was attacked, killing 22 staff members of the United Nations and non-governmental organizations, including the United Nations Special Representative in Iraq, Sergio Vieira de Mello, and wounding more than 100 people, since then, August 19 has been marked by the general assembly to commemorate World Humanitarian Day. Each year, World Humanitarian Day focuses on a theme, bringing together partners from across the humanitarian system to advocate for the survival, well-being and dignity of people affected by crises, and for the safety and security of aid workers. This year, the United Nations Secretary General Representative, the Resident Coordinator in Kuwait and the United Nations Country Team invites the local communities to join the global event highlighting the immediate human cost of the climate crisis, under the theme \u201c#TheHumanRace\u201d and how it is affecting the humanitarian and aid workers in delivering the needed assistance to those effected. The United Nations Secretary General Ant\u00f3nio Guterres stated that \u201cThe climate emergency is a race we are losing, but it",
+  "date": "19 August 2021"
+}

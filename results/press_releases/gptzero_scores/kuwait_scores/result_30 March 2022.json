@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "83be727b-35d2-415a-b8e9-aedfd5367e39",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013829223798034484,
+        "human": 0.9861707762019655,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.013829223798034484,
+      "confidence_category": "high",
+      "confidence_score": 0.9861707762019655,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013829223798034484,
+          "human": 0.9861707762019655,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 188.11875915527344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011993719963356853,
+          "perplexity": 72,
+          "sentence": "Kuwait - 30 March 2022,This workshop has been jointly organized in a collaborative effort by World Health Organization (WHO), the International Health Relations Department and Directorate of Planning at The Ministry of Health (MOH), Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012013716623187065,
+          "perplexity": 30,
+          "sentence": "The purpose of the workshop is to increase understanding of health economics and financing concepts and how these tools can contribute to improved design, implementation, and evaluation of health financing reforms for Universal Health Coverage (UHC), and to enable participants to apply them to the health financing landscape of Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011717863380908966,
+          "perplexity": 26,
+          "sentence": "The workshop is co-facilitated by WHO team in collaboration with Kuwait University's Faculty of Public Health, Providing for Health (P4H) Network for UHC, International Labour Organization (ILO), and International Organization for Migration (IOM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001089279423467815,
+          "perplexity": 47,
+          "sentence": "Participants of the workshop include representatives from directorates of International Health Relations, Pharmaceutical Services, Budget & Control, Dental Services, Quality and Accreditation, Non-Communicable disease, Undersecretary Office, National Center for Health Information, Health Insurance, and Travel Abroad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007818290032446384,
+          "perplexity": 33,
+          "sentence": "The workshop is part of the ongoing technical support being provided by WHO to the Ministry of Health, Kuwait and is accompanied by a detailed and collaborative review of the health financing system in Kuwait around the different functions of health financing, support to the MOH in the creation of a Health Economics and Financing Unit (HEFU) in the MOH, and capacity building of MOH and other key stakeholders across the government and external partners on health economics and financing, based on an assessment of needs, existing capacity, and remaining gaps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007952527957968414,
+          "perplexity": 540,
+          "sentence": "Dr Assad Hafeez, WHO Representative in Kuwait said: \u201cTo 'Invest better in Health and put better quality on par with expanded service coverage', countries require political commitment and technical skills.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008746626554057002,
+          "perplexity": 57,
+          "sentence": "WHO's ongoing support to Ministry of Health in strengthening health economics and financing capacity across the system is a step in the same direction",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait - 30 March 2022,This workshop has been jointly organized in a collaborative effort by World Health Organization (WHO), the International Health Relations Department and Directorate of Planning at The Ministry of Health (MOH) , Kuwait. The purpose of the workshop is to increase understanding of health economics and financing concepts and how these tools can contribute to improved design, implementation, and evaluation of health financing reforms for Universal Health Coverage (UHC), and to enable participants to apply them to the health financing landscape of Kuwait. The workshop is co-facilitated by WHO team in collaboration with Kuwait University\u2019s Faculty of Public Health, Providing for Health (P4H) Network for UHC, International Labour Organization (ILO), and International Organization for Migration (IOM). Participants of the workshop include representatives from directorates of International Health Relations, Pharmaceutical Services, Budget & Control, Dental Services, Quality and Accreditation, Non-Communicable disease, Undersecretary Office, National Center for Health Information, Health Insurance, and Travel Abroad. The workshop is part of the ongoing technical support being provided by WHO to the Ministry of Health, Kuwait and is accompanied by a detailed and collaborative review of the health financing system in Kuwait around the different functions of health financing, support to the MOH in the creation of a Health Economics and Financing Unit (HEFU) in the MOH, and capacity building of MOH and other key stakeholders across the government and external partners on health economics and financing, based on an assessment of needs, existing capacity, and remaining gaps. Dr Assad Hafeez, WHO Representative in Kuwait said: \u201cTo 'Invest better in Health and put better quality on par with expanded service coverage', countries require political commitment and technical skills. WHO's ongoing support to Ministry of Health in strengthening health economics and financing capacity across the system is a step in the same direction",
+  "date": "30 March 2022"
+}

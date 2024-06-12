@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "18dbd38a-4f7e-4eb9-b40b-a28a55467817",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17972576021770018,
+        "human": 0.8193002166597645,
+        "mixed": 0.0009740231225353856
+      },
+      "completely_generated_prob": 0.17972576021770018,
+      "confidence_category": "low",
+      "confidence_score": 0.8193002166597645,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17972576021770018,
+          "human": 0.8193002166597645,
+          "mixed": 0.0009740231225353856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.087120056152344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3944157660007477,
+          "perplexity": 24,
+          "sentence": "Statement by Alice Wairimu Nderitu, United Nations Special Adviser on the Prevention of Genocide, on the conflict in Sudan New York - The United Nations Special Adviser on the Prevention of Genocide, Alice Wairimu Nderitu strongly condemns the ongoing fighting in Sudan between Sudan's military and the Rapid Support Forces (RSF) and the blatant disregard for ceasefires which has caused, so far, the death of hundreds of people and injured thousands in Khartoum alone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.41415995359420776,
+          "perplexity": 46,
+          "sentence": "The Special Adviser is particularly alarmed by the total disregard by the parties to the conflict of international humanitarian and human rights law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.41243723034858704,
+          "perplexity": 33,
+          "sentence": "\u201cIt is of the utmost importance that all parties to the conflict, including armed groups, lay down their weapons and cease their targeting of civilians immediately,\u201d noted the Special Adviser.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4069570004940033,
+          "perplexity": 30,
+          "sentence": "The Special Adviser is also gravely concerned by the renewed fighting in Khartoum, particularly with the targeted missile attacks on the Al Azhari and Al Salama neighbourhoods on 11 June, in which 18 civilians were killed and many others injured - the third largest killing of civilians in a single day in one area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.42203617095947266,
+          "perplexity": 32,
+          "sentence": "The dire humanitarian situation, including the lack of access for humanitarian assistance, which could have potentially catastrophic rippling effect across the country, is also to be taken extremely seriously.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.40400803089141846,
+          "perplexity": 28,
+          "sentence": "In addition to human rights violations and abuses committed in Khartoum, the Special Adviser is alarmed by reports that the security vacuum and the protection gap in several states has been exploited by armed groups, including the Janjaweed and other rebel armed groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4268149137496948,
+          "perplexity": 25,
+          "sentence": "These groups have allegedly been retaliating against ethnic communities on the basis of their ties to the main parties to the conflict, the Sudanese armed forces and the RSF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.43059489130973816,
+          "perplexity": 10,
+          "sentence": "These attacks, if confirmed, could amount to war crimes and crimes against humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4127906262874603,
+          "perplexity": 39,
+          "sentence": "In Darfur, hundreds have been",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Statement by Alice Wairimu Nderitu, United Nations Special Adviser on the Prevention of Genocide, on the conflict in Sudan New York \u2013 The United Nations Special Adviser on the Prevention of Genocide, Alice Wairimu Nderitu strongly condemns the ongoing fighting in Sudan between Sudan\u2019s military and the Rapid Support Forces (RSF) and the blatant disregard for ceasefires which has caused, so far, the death of hundreds of people and injured thousands in Khartoum alone. The Special Adviser is particularly alarmed by the total disregard by the parties to the conflict of international humanitarian and human rights law. \u201cIt is of the utmost importance that all parties to the conflict, including armed groups, lay down their weapons and cease their targeting of civilians immediately,\u201d noted the Special Adviser. The Special Adviser is also gravely concerned by the renewed fighting in Khartoum, particularly with the targeted missile attacks on the Al Azhari and Al Salama neighbourhoods on 11 June, in which 18 civilians were killed and many others injured \u2013 the third largest killing of civilians in a single day in one area. The dire humanitarian situation, including the lack of access for humanitarian assistance, which could have potentially catastrophic rippling effect across the country, is also to be taken extremely seriously. In addition to human rights violations and abuses committed in Khartoum, the Special Adviser is alarmed by reports that the security vacuum and the protection gap in several states has been exploited by armed groups, including the Janjaweed and other rebel armed groups. These groups have allegedly been retaliating against ethnic communities on the basis of their ties to the main parties to the conflict, the Sudanese armed forces and the RSF. These attacks, if confirmed, could amount to war crimes and crimes against humanity. In Darfur, hundreds have been",
+  "date": "13 June 2023"
+}

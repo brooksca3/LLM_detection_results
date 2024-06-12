@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e67569cd-53d4-4dc3-b95a-3958d1447811",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.83426284790039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015406368765980005,
+          "perplexity": 96,
+          "sentence": "UNESCO Office in Tashkent has conducted the Second Project Steering Committee meeting in the framework of \u201cSkills Development for Employability in Rural Areas of Uzbekistan\u201d Project funded by the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014563172589987516,
+          "perplexity": 37,
+          "sentence": "High-level officials from the Ministries of Higher and Secondary Specialized Education, Agriculture, Water resources, Employment and Labor Relations, and the State Inspection for Supervision of Quality in Education, as well as the Ambassador of the European Union to the Republic of Uzbekistan, UNESCO Representative in Uzbekistan a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001517163182143122,
+          "perplexity": 166,
+          "sentence": "and the project stakeholders participated at the event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001528209395473823,
+          "perplexity": 166,
+          "sentence": "The meeting reviewed the project achievements in 2021 and discussed the 2022 work plan and the budget allocations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014883776020724326,
+          "perplexity": 78,
+          "sentence": "In his welcoming speech Mr. Komiljon Karimov, First Deputy Minister of Higher and Secondary Specialized Education and the Chairperson of the Project Steering Committee stated \u201cEducation is a key priority as it was expressed by our distinguished President Mr. Shavkat Mirziyoyev and it is highlighted in recently issued Decree \u201cOn the Development Strategy of New Uzbekistan for 2022-2026\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014479001401923597,
+          "perplexity": 73,
+          "sentence": "We are aiming to introduce the reforms in education sector based on the best international experience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014081675908528268,
+          "perplexity": 141,
+          "sentence": "UNESCO, as the UN agency with mandate in education, has accumulated substantial experience during 75 years and it was a right choice to appoint it as a project implementing agency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001389625103911385,
+          "perplexity": 78,
+          "sentence": "I believe that this project may positively influence not only the education sector development, but it would also be beneficial for development of the country.\u201d UNESCO Representative in Uzbekistan a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012936547864228487,
+          "perplexity": 91,
+          "sentence": "Mr. Alexandros Makarigakis informed participants that in the first year of implementation, the project contributed towards achievement of the following results: i) Operationalization of the recently established Sector Skills Councils; ii) A TVET strategy in place for the Agriculture and Irrigation sectors; iii) Draft occupational maps were completed based on a thorough skills needs assessment in agriculture and irrigation sectors; iv) First",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNESCO Office in Tashkent has conducted the Second Project Steering Committee meeting in the framework of \u201cSkills Development for Employability in Rural Areas of Uzbekistan\u201d Project funded by the European Union. High-level officials from the Ministries of Higher and Secondary Specialized Education, Agriculture, Water resources, Employment and Labor Relations, and the State Inspection for Supervision of Quality in Education, as well as the Ambassador of the European Union to the Republic of Uzbekistan, UNESCO Representative in Uzbekistan a.i. and the project stakeholders participated at the event. The meeting reviewed the project achievements in 2021 and discussed the 2022 work plan and the budget allocations. In his welcoming speech Mr. Komiljon Karimov, First Deputy Minister of Higher and Secondary Specialized Education and the Chairperson of the Project Steering Committee stated \u201cEducation is a key priority as it was expressed by our distinguished President Mr. Shavkat Mirziyoyev and it is highlighted in recently issued Decree \u201cOn the Development Strategy of New Uzbekistan for 2022-2026\u201d. We are aiming to introduce the reforms in education sector based on the best international experience. UNESCO, as the UN agency with mandate in education, has accumulated substantial experience during 75 years and it was a right choice to appoint it as a project implementing agency. I believe that this project may positively influence not only the education sector development, but it would also be beneficial for development of the country.\u201d UNESCO Representative in Uzbekistan a.i. Mr. Alexandros Makarigakis informed participants that in the first year of implementation, the project contributed towards achievement of the following results: i) Operationalization of the recently established Sector Skills Councils; ii) A TVET strategy in place for the Agriculture and Irrigation sectors; iii) Draft occupational maps were completed based on a thorough skills needs assessment in agriculture and irrigation sectors; iv) First",
+  "date": "31 January 2022"
+}

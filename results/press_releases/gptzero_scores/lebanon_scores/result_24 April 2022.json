@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c629e790-31f2-4029-b6e6-36f3589e3304",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 151.15643310546875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.06798643618822098,
+          "perplexity": 19,
+          "sentence": "Forty-five people have been rescued, six others, including a 40-day-old baby, have been confirmed as deceased while many remain missing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0710182785987854,
+          "perplexity": 19,
+          "sentence": "The passengers included children, women, men, and a number of elderly people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07043679803609848,
+          "perplexity": 26,
+          "sentence": "The nationalities of the passengers have not yet been confirmed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07530871778726578,
+          "perplexity": 37,
+          "sentence": "UNHCR and IOM are following up with the relevant authorities and are ready to support survivors and bereaved families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0664035752415657,
+          "perplexity": 36,
+          "sentence": "UNHCR and IOM will continue to work with the refugee, migrant and host communities to warn people of the dangers and risks of irregular onward movements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06124214828014374,
+          "perplexity": 76,
+          "sentence": "\u201cThis tragic event underscores the shockingly high risks that many people are resorting to out of desperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05505839362740517,
+          "perplexity": 121,
+          "sentence": "Shipwrecks, tragic deaths and further suffering could be avoided, but it is crucial that continuous support is mobilized to help Lebanon as living conditions worsen for refugees and Lebanese alike,\u201d said Ayaki Ito, UNHCR Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05694900080561638,
+          "perplexity": 57,
+          "sentence": "\u201cLebanon's economic crisis has triggered one of the largest waves of migration in the country's history,\u201d said Mathieu Luciano, Head of IOM Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.055593401193618774,
+          "perplexity": 70,
+          "sentence": "\u201cDriven by increasingly desperate economic circumstances, a growing number of people are leaving Lebanon through unsafe means.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05320611968636513,
+          "perplexity": 59,
+          "sentence": "Safe and legal alternatives to irregular migration are urgently needed, including support to local livelihoods and improved access to services in communities at risk.\u201d Lebanon has been witnessing an increase in sea departures since 2020 when 38 boats with over 1,500 passengers attempted dangerous onward journeys, over 75 per cent of which were intercepted or returned.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.044591255486011505,
+          "perplexity": 59,
+          "sentence": "In addition to the yesterday's incident, so far this year, at least three boats departed Lebanon, carrying 64 passengers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04327758029103279,
+          "perplexity": 606,
+          "sentence": "Two were intercepted before departing Lebanese waters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05201263725757599,
+          "perplexity": 30,
+          "sentence": "UNHCR and IOM advocate for the safe disembarkation of people in distress at sea and respect for the principle of non-refoulement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04829791933298111,
+          "perplexity": 38,
+          "sentence": "Individuals rescued at sea or sent back to Lebanon are provided with medical and psychosocial support and emergency",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Forty-five people have been rescued, six others, including a 40-day-old baby, have been confirmed as deceased while many remain missing. The passengers included children, women, men, and a number of elderly people. The nationalities of the passengers have not yet been confirmed. UNHCR and IOM are following up with the relevant authorities and are ready to support survivors and bereaved families. UNHCR and IOM will continue to work with the refugee, migrant and host communities to warn people of the dangers and risks of irregular onward movements. \u201cThis tragic event underscores the shockingly high risks that many people are resorting to out of desperation. Shipwrecks, tragic deaths and further suffering could be avoided, but it is crucial that continuous support is mobilized to help Lebanon as living conditions worsen for refugees and Lebanese alike,\u201d said Ayaki Ito, UNHCR Representative. \u201cLebanon\u2019s economic crisis has triggered one of the largest waves of migration in the country\u2019s history,\u201d said Mathieu Luciano, Head of IOM Lebanon. \u201cDriven by increasingly desperate economic circumstances, a growing number of people are leaving Lebanon through unsafe means. Safe and legal alternatives to irregular migration are urgently needed, including support to local livelihoods and improved access to services in communities at risk.\u201d Lebanon has been witnessing an increase in sea departures since 2020 when 38 boats with over 1,500 passengers attempted dangerous onward journeys, over 75 per cent of which were intercepted or returned. In addition to the yesterday\u2019s incident, so far this year, at least three boats departed Lebanon, carrying 64 passengers. Two were intercepted before departing Lebanese waters. UNHCR and IOM advocate for the safe disembarkation of people in distress at sea and respect for the principle of non-refoulement. Individuals rescued at sea or sent back to Lebanon are provided with medical and psychosocial support and emergency",
+  "date": "24 April 2022"
+}

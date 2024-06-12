@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7c1384e1-0319-4bca-a608-3d2e4f3e7a08",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4200164068908942,
+        "human": 0.5225594749794913,
+        "mixed": 0.05742411812961444
+      },
+      "completely_generated_prob": 0.4200164068908942,
+      "confidence_category": "low",
+      "confidence_score": 0.5225594749794913,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4200164068908942,
+          "human": 0.5225594749794913,
+          "mixed": 0.05742411812961444
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 110.88552856445312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.01138266587420528,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8451339602470398,
+          "perplexity": 48,
+          "sentence": "The UN Resident Coordinator Office in Nepal and UNESCO Kathmandu successfully organized an evidence-based workshop with government and civil society leaders to highlight the status of digital violence and hate speech in Nepal and galvanize efforts to combat and mitigate it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8428279757499695,
+          "perplexity": 54,
+          "sentence": "The workshop is a part of UN Nepal's long-term goal to foster discussion on the causes and consequences of hate speech and promote information integrity in the hope of encouraging a collective effort to widen preventive measures and early warning actions on hate speech and disinformation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.841959536075592,
+          "perplexity": 134,
+          "sentence": "Speaking at the program, the UN Resident Coordinator Designate in Nepal, Ms. Hanaa Singer-Hamdy, said, \u201ccreating safer online experiences is crucial in the climate of aggressive digitalization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8165545463562012,
+          "perplexity": 69,
+          "sentence": "When groups in society use online platforms to attack and propagate hurtful content, it causes backlash, harm and can turn violent and undermine social cohesion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7796115875244141,
+          "perplexity": 22,
+          "sentence": "To make a difference we need effective partnerships between government, civil society, and tech companies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7778286337852478,
+          "perplexity": 398,
+          "sentence": "A partnership that prioritise protection over profits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.754378616809845,
+          "perplexity": 70,
+          "sentence": "We need laws, police and courts willing to create consequences for illegal activity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7764759063720703,
+          "perplexity": 68,
+          "sentence": "We need to create strong alliances that address the issues beyond regulation, involving the private sector, civil society, and communities so digital literacy and awareness of the impact of hate speech goes hand in hand with improved internet access.\u201d Sharing the lessons from the 2022 elections in Nepal, Honorable Dr. Janaki Kumari Tuladhar, Commissioner, Election Commission Nepal expressed, \u201cThe Election Commission Nepal has partnered with social media company Meta to counter disinformation and hate speech during the 2022 election.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7869442701339722,
+          "perplexity": 32,
+          "sentence": "The Commission has launched voter education campaigns via social media and door-to-door outreach, urging voters to fact-check information related to elections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.84344881772995,
+          "perplexity": 49,
+          "sentence": "However, the issue of hate speech and disinformation extends beyond elections, and there is a need to cultivate critical thinking skills for accessing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Resident Coordinator Office in Nepal and UNESCO Kathmandu successfully organized an evidence-based workshop with government and civil society leaders to highlight the status of digital violence and hate speech in Nepal and galvanize efforts to combat and mitigate it. The workshop is a part of UN Nepal\u2019s long-term goal to foster discussion on the causes and consequences of hate speech and promote information integrity in the hope of encouraging a collective effort to widen preventive measures and early warning actions on hate speech and disinformation in the country. Speaking at the program, the UN Resident Coordinator Designate in Nepal, Ms. Hanaa Singer-Hamdy, said, \u201ccreating safer online experiences is crucial in the climate of aggressive digitalization. When groups in society use online platforms to attack and propagate hurtful content, it causes backlash, harm and can turn violent and undermine social cohesion. To make a difference we need effective partnerships between government, civil society, and tech companies. A partnership that prioritise protection over profits. We need laws, police and courts willing to create consequences for illegal activity. We need to create strong alliances that address the issues beyond regulation, involving the private sector, civil society, and communities so digital literacy and awareness of the impact of hate speech goes hand in hand with improved internet access.\u201d Sharing the lessons from the 2022 elections in Nepal, Honorable Dr. Janaki Kumari Tuladhar, Commissioner, Election Commission Nepal expressed, \u201cThe Election Commission Nepal has partnered with social media company Meta to counter disinformation and hate speech during the 2022 election. The Commission has launched voter education campaigns via social media and door-to-door outreach, urging voters to fact-check information related to elections. However, the issue of hate speech and disinformation extends beyond elections, and there is a need to cultivate critical thinking skills for accessing",
+  "date": "21 March 2023"
+}

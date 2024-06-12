@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca3a77eb-b2e9-4c5e-b36a-a7f89c2ffe49",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002085282195198005,
+        "human": 0.997914717804802,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002085282195198005,
+      "confidence_category": "high",
+      "confidence_score": 0.997914717804802,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002085282195198005,
+          "human": 0.997914717804802,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.647071838378906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011160902067786083,
+          "perplexity": 23,
+          "sentence": "New York \u1173 Yemen will become the poorest country in the world if its conflict goes on through 2022, a new report by the United Nations Development Programme (UNDP) projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001076346161426045,
+          "perplexity": 21,
+          "sentence": "Since 2014, war has driven poverty in Yemen from 47 percent of the population to a projected 75 percent by the end of 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010726299660746008,
+          "perplexity": 15,
+          "sentence": "If fighting continues through 2022, Yemen will rank as the poorest country in the world, with 79 percent of the population living under the poverty line and 65 percent classified as extremely poor, the report, Assessing the Impact of War in Yemen on Achieving the Sustainable Development Goals (SDGs), says.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010584852861938998,
+          "perplexity": 43,
+          "sentence": "The report, released Thursday and produced for UNDP by the Pardee Center for International Futures at the University of Denver, says that in the absence of conflict Yemen could have made progress toward achieving the SDGs, the global anti-poverty framework agreed in 2015 with a target date of 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010422406921861693,
+          "perplexity": 63,
+          "sentence": "But more than four years of fighting has set back human development by 21 years\u1173and Yemen would be unlikely to achieve any of the SDGs even if the war were to stop today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010798343282658607,
+          "perplexity": 43,
+          "sentence": "\u201cThe war has already made Yemen the largest humanitarian disaster in the world, and now threatens to make its population the poorest in the world,\u201d said UNDP Administrator, Achim Steiner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010375453712185845,
+          "perplexity": 53,
+          "sentence": "\u201cUNDP's work with support from international partners and as part of the UN's overall engagement - is focused on helping Yemenis keep institutions and businesses running to ensure they have the solid footing needed to recover when peace returns.\u201d Using cutting-edge data modeling and open-source information, the report finds that Yemen's war will have more than tripled the proportion of the population living in extreme poverty if fighting persists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001126979332184419,
+          "perplexity": 38,
+          "sentence": "It will skyrocket from 19 percent of the population in 2014 to a projected 65",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York \u2014 Yemen will become the poorest country in the world if its conflict goes on through 2022, a new report by the United Nations Development Programme (UNDP) projects. Since 2014, war has driven poverty in Yemen from 47 percent of the population to a projected 75 percent by the end of 2019. If fighting continues through 2022, Yemen will rank as the poorest country in the world, with 79 percent of the population living under the poverty line and 65 percent classified as extremely poor, the report, Assessing the Impact of War in Yemen on Achieving the Sustainable Development Goals (SDGs), says. The report, released Thursday and produced for UNDP by the Pardee Center for International Futures at the University of Denver, says that in the absence of conflict Yemen could have made progress toward achieving the SDGs, the global anti-poverty framework agreed in 2015 with a target date of 2030. But more than four years of fighting has set back human development by 21 years\u2014and Yemen would be unlikely to achieve any of the SDGs even if the war were to stop today. \u201cThe war has already made Yemen the largest humanitarian disaster in the world, and now threatens to make its population the poorest in the world,\u201d said UNDP Administrator, Achim Steiner. \u201cUNDP\u2019s work with support from international partners and as part of the UN\u2019s overall engagement - is focused on helping Yemenis keep institutions and businesses running to ensure they have the solid footing needed to recover when peace returns.\u201d Using cutting-edge data modeling and open-source information, the report finds that Yemen\u2019s war will have more than tripled the proportion of the population living in extreme poverty if fighting persists. It will skyrocket from 19 percent of the population in 2014 to a projected 65",
+  "date": "26 September 2019"
+}

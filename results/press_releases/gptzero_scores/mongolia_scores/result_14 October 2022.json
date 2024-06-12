@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8bec4152-157c-453f-892f-5cf1981ad27a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.409643173217773,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002521826245356351,
+          "perplexity": 51,
+          "sentence": "ULAANBAATAR/GENEVA (14 October 2022) - The Mongolian justice system has progressed significantly towards protection against arbitrary detention, but it is important not to stop, as further measures are needed if rights are to be fully respected, UN experts said today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002300434571225196,
+          "perplexity": 29,
+          "sentence": "While commending the government for multiple reforms during the past five years, a delegation from the UN Working Group on Arbitrary Detention said arrests without a judicial warrant are still the norm rather than the exception in Mongolia and individuals are routinely interrogated in police custody without the presence of a lawyer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025859943707473576,
+          "perplexity": 83,
+          "sentence": "\u201cIt is concerning that criminal investigators and prosecutors enjoy vast and unchecked powers, while defendants are not afforded all the guarantees of due process, disregarding the equality of arms,\u201d the group said a statement at the end an official visit to the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002462906122673303,
+          "perplexity": 31,
+          "sentence": "It has made recommendations to the Government on how to further strengthen safeguards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028581288643181324,
+          "perplexity": 32,
+          "sentence": "\u201cWe welcome the reform of criminal justice laws, the enactment of a law on human rights defenders, as well as the establishment of a National Preventive Mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031821822631172836,
+          "perplexity": 47,
+          "sentence": "Nevertheless, these strategic decisions need to be effectively translated into practice, since the adequate implementation of the law cannot be taken for granted.\u201d The experts said the judicial system is under immense pressure, due to the lack of new and specialised courts, shortage of staff and case overload.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002738292096182704,
+          "perplexity": 75,
+          "sentence": "\u201cThis situation could be preventing judges from devoting sufficient time to give detailed consideration to each case, opting for simply granting the prosecutors' request, without giving due consideration to the arguments and evidence presented by the defence.\u201d Some crimes were vaguely worded or not properly defined in legislation, including provisions used to combat the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026562786661088467,
+          "perplexity": 41,
+          "sentence": "\u201cIt is concerning that these could be used to interfere with the legitimate work of human rights defenders, especially as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "ULAANBAATAR/GENEVA (14 October 2022) \u2013 The Mongolian justice system has progressed significantly towards protection against arbitrary detention, but it is important not to stop, as further measures are needed if rights are to be fully respected, UN experts said today. While commending the government for multiple reforms during the past five years, a delegation from the UN Working Group on Arbitrary Detention said arrests without a judicial warrant are still the norm rather than the exception in Mongolia and individuals are routinely interrogated in police custody without the presence of a lawyer. \u201cIt is concerning that criminal investigators and prosecutors enjoy vast and unchecked powers, while defendants are not afforded all the guarantees of due process, disregarding the equality of arms,\u201d the group said a statement at the end an official visit to the country. It has made recommendations to the Government on how to further strengthen safeguards. \u201cWe welcome the reform of criminal justice laws, the enactment of a law on human rights defenders, as well as the establishment of a National Preventive Mechanism. Nevertheless, these strategic decisions need to be effectively translated into practice, since the adequate implementation of the law cannot be taken for granted.\u201d The experts said the judicial system is under immense pressure, due to the lack of new and specialised courts, shortage of staff and case overload. \u201cThis situation could be preventing judges from devoting sufficient time to give detailed consideration to each case, opting for simply granting the prosecutors\u2019 request, without giving due consideration to the arguments and evidence presented by the defence.\u201d Some crimes were vaguely worded or not properly defined in legislation, including provisions used to combat the spread of COVID-19. \u201cIt is concerning that these could be used to interfere with the legitimate work of human rights defenders, especially as",
+  "date": "14 October 2022"
+}

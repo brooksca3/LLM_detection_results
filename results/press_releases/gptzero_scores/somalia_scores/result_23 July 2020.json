@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b87bc855-e7e7-47d0-8a0e-71d37ce73233",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07484666256767092,
+        "human": 0.9239136411579162,
+        "mixed": 0.001239696274412769
+      },
+      "completely_generated_prob": 0.07484666256767092,
+      "confidence_category": "medium",
+      "confidence_score": 0.9239136411579162,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07484666256767092,
+          "human": 0.9239136411579162,
+          "mixed": 0.001239696274412769
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 9.70272445678711,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.2054806649684906,
+          "perplexity": 27,
+          "sentence": "An estimated 5.2 million people are in need of humanitarian assistance, including over 3 million children, due to the combined devastating impact of floods, the locust invasion and the ongoing COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19347821176052094,
+          "perplexity": 38,
+          "sentence": "\u201cSomalia is one of the most fragile nations in the world, a country that has experienced decades of conflict, cyclical drought and floods,\u201d said Jesper Moller, Deputy Representative of UNICEF Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19663764536380768,
+          "perplexity": 42,
+          "sentence": "\u201cNow, to compound the situation, the impact of the locust invasion and the COVID-19 pandemic means the international community has to act fast to help save the lives of millions of Somali families, especially the most vulnerable - the children.\u201d Children are often the hidden victims of any emergency and are more susceptible to waterborne diseases as a result of the flooding and severe malnutrition due to food shortages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.18799366056919098,
+          "perplexity": 50,
+          "sentence": "\u201cIn the recent month, there has been an upsurge in cases of Acute Watery Diarrhoea/Cholera,\u201d said Moller.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04310596361756325,
+          "perplexity": 26,
+          "sentence": "\u201cTo further exacerbate the situation, while the immediate impact of the locust invasion is on crop production, which is projected to be 10 to 15 per cent lower than the long-term average, the secondary impact will be on children with an anticipated increase of children being severely malnourished due to food shortages.\u201d In response to this triple threat, UNICEF, in close coordination with the Government and local partners, are working tirelessly to not only prevent and mitigate the spread of COVID-19, but to continue to provide life-saving assistance to those desperately in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024638839066028595,
+          "perplexity": 50,
+          "sentence": "As part of ongoing efforts, nearly 1 million vulnerable people have received critical hygiene items including access to safe water and over 500,000 women and children have been provided with basic health and nutritional services in flood impacted communities and camps for the internally displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02224094048142433,
+          "perplexity": 39,
+          "sentence": "In addition, more than 500,000 households have been visited by social mobilizers to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "An estimated 5.2 million people are in need of humanitarian assistance, including over 3 million children, due to the combined devastating impact of floods, the locust invasion and the ongoing COVID-19 pandemic. \u201cSomalia is one of the most fragile nations in the world, a country that has experienced decades of conflict, cyclical drought and floods,\u201d said Jesper Moller, Deputy Representative of UNICEF Somalia. \u201cNow, to compound the situation, the impact of the locust invasion and the COVID-19 pandemic means the international community has to act fast to help save the lives of millions of Somali families, especially the most vulnerable \u2013 the children.\u201d Children are often the hidden victims of any emergency and are more susceptible to waterborne diseases as a result of the flooding and severe malnutrition due to food shortages. \u201cIn the recent month, there has been an upsurge in cases of Acute Watery Diarrhoea/Cholera,\u201d said Moller. \u201cTo further exacerbate the situation, while the immediate impact of the locust invasion is on crop production, which is projected to be 10 to 15 per cent lower than the long-term average, the secondary impact will be on children with an anticipated increase of children being severely malnourished due to food shortages.\u201d In response to this triple threat, UNICEF, in close coordination with the Government and local partners, are working tirelessly to not only prevent and mitigate the spread of COVID-19, but to continue to provide life-saving assistance to those desperately in need. As part of ongoing efforts, nearly 1 million vulnerable people have received critical hygiene items including access to safe water and over 500,000 women and children have been provided with basic health and nutritional services in flood impacted communities and camps for the internally displaced. In addition, more than 500,000 households have been visited by social mobilizers to",
+  "date": "23 July 2020"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d68272c0-95e1-4bf2-b6c5-e5b0b7d2f911",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.186084747314453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004951254231855273,
+          "perplexity": 21,
+          "sentence": "A consultation seminar on health and food safety dedicated to the World Food Safety Day is being held in Bishkek Every year, in Kyrgyzstan, on the occasion of the World Food Safety Day, representatives of state authorities, academia, food businesses, farmers and processors gather to discuss the work done, challenges and plans in the field of health and food safety.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004811743274331093,
+          "perplexity": 36,
+          "sentence": "Today, in Bishkek, the Food and Agriculture Organization of the United Nations (FAO), together with the Department of Disease Prevention and State Sanitary and Epidemiological Surveillance of the Ministry of Health, is holding a consultation seminar \u201cSafer food - better health\u201d to start the World Food Safety Day celebrations, which is aimed at informing representatives of the food businesses, trade and competent authorities about the importance and role of the use of healthy nutrition for the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004737515700981021,
+          "perplexity": 22,
+          "sentence": "In addition, the seminar is aimed at highlighting the main provisions of the technical regulations of the EAEU in the field of food safety, including the system of labeling and tracking of food and food products, the application of new practices and food promotion policies in the field of food safety and nutrition, which directly affects both the economic and social condition of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047065774560905993,
+          "perplexity": 82,
+          "sentence": "According to FAO Food Safety and Consumer Protection Officer, Mary Kenny: \u201cIt is clear that food safety is a priority in Krygyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039215185097418725,
+          "perplexity": 28,
+          "sentence": "State authorities are committed to work together on food safety policies and controls for all foods, including fruits and vegetables, meat and fish, dairy products.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037350799539126456,
+          "perplexity": 58,
+          "sentence": "We also learned about the important role of farmers, food businesses, and consumers to follow good practices for safe, quality foods, from farm to fork.\u201d In addition to technical presentations and discussions, the award ceremony was held to announce winners of the competition among schoolchildren and students for the best videos",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A consultation seminar on health and food safety dedicated to the World Food Safety Day is being held in Bishkek Every year, in Kyrgyzstan, on the occasion of the World Food Safety Day, representatives of state authorities, academia, food businesses, farmers and processors gather to discuss the work done, challenges and plans in the field of health and food safety. Today, in Bishkek, the Food and Agriculture Organization of the United Nations (FAO), together with the Department of Disease Prevention and State Sanitary and Epidemiological Surveillance of the Ministry of Health, is holding a consultation seminar \u201cSafer food \u2013 better health\u201d to start the World Food Safety Day celebrations, which is aimed at informing representatives of the food businesses, trade and competent authorities about the importance and role of the use of healthy nutrition for the population. In addition, the seminar is aimed at highlighting the main provisions of the technical regulations of the EAEU in the field of food safety, including the system of labeling and tracking of food and food products, the application of new practices and food promotion policies in the field of food safety and nutrition, which directly affects both the economic and social condition of the country. According to FAO Food Safety and Consumer Protection Officer, Mary Kenny: \u201cIt is clear that food safety is a priority in Krygyzstan. State authorities are committed to work together on food safety policies and controls for all foods, including fruits and vegetables, meat and fish, dairy products. We also learned about the important role of farmers, food businesses, and consumers to follow good practices for safe, quality foods, from farm to fork.\u201d In addition to technical presentations and discussions, the award ceremony was held to announce winners of the competition among schoolchildren and students for the best videos",
+  "date": "01 June 2022"
+}

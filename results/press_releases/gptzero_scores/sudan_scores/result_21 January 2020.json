@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b9be382d-0f5d-4396-b64b-935dbc7e561b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 201.06092834472656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012693041935563087,
+          "perplexity": 14,
+          "sentence": "Mine Action Support Group (MASG) meeting of the year highlighted the urgent need for mine clearance operations in South Kordofan and Blue Nile states and the Jebel Marrah area Khartoum - The first Mine Action Support Group (MASG) meeting of the year, convened in Khartoum on 19 January, highlighted the urgent need for mine clearance operations in South Kordofan and Blue Nile states and the Jebel Marrah area in Darfur in opening humanitarian corridors to enable humanitarian aid delivery to the opposition-controlled areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012908317148685455,
+          "perplexity": 27,
+          "sentence": "The meeting was co-chaired by the German Ambassador H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012335291830822825,
+          "perplexity": 101,
+          "sentence": "Ullrich Kl\u00f6ckner and the United Nations Resident and Humanitarian Coordinator (RC/HC) Ms. Gwi-Yeop Son and addressed by the Minister of Defence H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012146947847213596,
+          "perplexity": 407,
+          "sentence": "Lt. Gen Jamal Al-din Omar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001254637900274247,
+          "perplexity": 48,
+          "sentence": "Keynote speakers included the United States Charg\u00e9 d'affaires H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012026369950035587,
+          "perplexity": 94,
+          "sentence": "Brian Shukan, UNMAS Chief of Programmes Mr. Paul Heslop and UNMAS Sudan Programme Manager Mr. Sediq Rashid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011716622248059139,
+          "perplexity": 19,
+          "sentence": "The meeting was attended by ambassadors of the United Kingdom and Japan and representatives from Switzerland, Italy, Norway, UK Department for International Development, United States Agency for International Development and National Mine Action Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010416300501674414,
+          "perplexity": 245,
+          "sentence": "\u201cCross-line humanitarian aid delivery is five times cheaper than that through the cross-border\u201d said Ms. Gwi-Yeop Son.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010941128712147474,
+          "perplexity": 159,
+          "sentence": "The German Ambassador H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012363861314952374,
+          "perplexity": 58,
+          "sentence": "Ullrich Kl\u00f6ckner, the new chair of the MASG platform, congratulated the United States for successfully completing its chairmanship of the MASG in the last two years and affirmed his support to mine action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012150922557339072,
+          "perplexity": 179,
+          "sentence": "\u201cGermany is committed to mine action and I saw its impact in opening humanitarian access and development in Zimbabwe and Mozambique,\u201d he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012186981039121747,
+          "perplexity": 64,
+          "sentence": "The US Charg\u00e9 d'affaires H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013747167540714145,
+          "perplexity": 257,
+          "sentence": "Brian Shukan explained the achievements during his tenure as MASG chair, including doubling US contribution to UNMAS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010967081179842353,
+          "perplexity": 316,
+          "sentence": "He further expressed continuous US support for Sudan until it meets Ottawa treaty obligations by 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000983096775598824,
+          "perplexity": 771,
+          "sentence": "\u201cUS encourages all the parties to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mine Action Support Group (MASG) meeting of the year highlighted the urgent need for mine clearance operations in South Kordofan and Blue Nile states and the Jebel Marrah area Khartoum - The first Mine Action Support Group (MASG) meeting of the year, convened in Khartoum on 19 January, highlighted the urgent need for mine clearance operations in South Kordofan and Blue Nile states and the Jebel Marrah area in Darfur in opening humanitarian corridors to enable humanitarian aid delivery to the opposition-controlled areas. The meeting was co-chaired by the German Ambassador H.E. Ullrich Kl\u00f6ckner and the United Nations Resident and Humanitarian Coordinator (RC/HC) Ms. Gwi-Yeop Son and addressed by the Minister of Defence H.E. Lt. Gen Jamal Al-din Omar. Keynote speakers included the United States Charg\u00e9 d\u2019affaires H.E. Brian Shukan, UNMAS Chief of Programmes Mr. Paul Heslop and UNMAS Sudan Programme Manager Mr. Sediq Rashid. The meeting was attended by ambassadors of the United Kingdom and Japan and representatives from Switzerland, Italy, Norway, UK Department for International Development, United States Agency for International Development and National Mine Action Center. \u201cCross-line humanitarian aid delivery is five times cheaper than that through the cross-border\u201d said Ms. Gwi-Yeop Son. The German Ambassador H.E. Ullrich Kl\u00f6ckner, the new chair of the MASG platform, congratulated the United States for successfully completing its chairmanship of the MASG in the last two years and affirmed his support to mine action. \u201cGermany is committed to mine action and I saw its impact in opening humanitarian access and development in Zimbabwe and Mozambique,\u201d he said. The US Charg\u00e9 d\u2019affaires H.E. Brian Shukan explained the achievements during his tenure as MASG chair, including doubling US contribution to UNMAS. He further expressed continuous US support for Sudan until it meets Ottawa treaty obligations by 2023. \u201cUS encourages all the parties to",
+  "date": "21 January 2020"
+}

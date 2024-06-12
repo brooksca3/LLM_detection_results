@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0a871bd7-58ab-4238-82cf-7baefb3caca9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.011296493960801962,
+        "human": 0.9796144083289622,
+        "mixed": 0.009089097710235689
+      },
+      "completely_generated_prob": 0.011296493960801962,
+      "confidence_category": "high",
+      "confidence_score": 0.9796144083289622,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.011296493960801962,
+          "human": 0.9796144083289622,
+          "mixed": 0.009089097710235689
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.28102111816406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.010912971571087837,
+          "perplexity": 27,
+          "sentence": "With the demonstration of four high impact initiatives that will help the country accelerate its progress towards the UN Sustainable Development Goals (SDGs), Indonesia's delegation is playing an active role at the SDG Summit, taking place on 16- The summit focuses on carrying out a comprehensive review of the state of the 17 Sustainable Development Goals and identifying ways in which the goals can be reached by the 2030 target.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009082564152777195,
+          "perplexity": 83,
+          "sentence": "Participants are expected to make binding commitments to move the SDGs back on track following a slow-down and in some cases even a reversal in global development due to the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011150741018354893,
+          "perplexity": 53,
+          "sentence": "Globally, the world is on track to meet only 12% of the 140 SDG indicators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009523105807602406,
+          "perplexity": 41,
+          "sentence": "Indonesia, whose own national development agenda is based on the SDGs, is doing better than most countries with 60% of indicators on track, according to the Ministry of National Development Planning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017220120644196868,
+          "perplexity": 176,
+          "sentence": "There are 12 high impact initiatives highlighted at the summit aiming to accelerate the 2030 Agenda progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006662735249847174,
+          "perplexity": 59,
+          "sentence": "with the support of the UN in Indonesia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009114835411310196,
+          "perplexity": 61,
+          "sentence": "These are the following: Head of the Indonesian delegation, Minister of Foreign Affairs Retno Marsudi, is scheduled to participate in the Leaders' Dialogue on 19 September and deliver Indonesia's commitment to the acceleration towards the SDGs.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "With the demonstration of four high impact initiatives that will help the country accelerate its progress towards the UN Sustainable Development Goals (SDGs), Indonesia\u2019s delegation is playing an active role at the SDG Summit, taking place on 16- The summit focuses on carrying out a comprehensive review of the state of the 17 Sustainable Development Goals and identifying ways in which the goals can be reached by the 2030 target. Participants are expected to make binding commitments to move the SDGs back on track following a slow-down and in some cases even a reversal in global development due to the COVID-19 pandemic. Globally, the world is on track to meet only 12% of the 140 SDG indicators. Indonesia, whose own national development agenda is based on the SDGs, is doing better than most countries with 60% of indicators on track, according to the Ministry of National Development Planning. There are 12 high impact initiatives highlighted at the summit aiming to accelerate the 2030 Agenda progress. with the support of the UN in Indonesia. These are the following: Head of the Indonesian delegation, Minister of Foreign Affairs Retno Marsudi, is scheduled to participate in the Leaders\u2019 Dialogue on 19 September and deliver Indonesia\u2019s commitment to the acceleration towards the SDGs.",
+  "date": "19 September 2023"
+}

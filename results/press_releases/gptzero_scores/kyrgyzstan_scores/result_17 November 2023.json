@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "35b767b4-9870-4e34-9cfd-32dc7bdf488d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.052188873291016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002551015350036323,
+          "perplexity": 66,
+          "sentence": "Bishkek, KYRGYZSTAN - \u201cI am very impressed by the diligence and dedication of the Kyrgyz health workers to help and care for people and protect children and adults from various diseases through vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002604890032671392,
+          "perplexity": 40,
+          "sentence": "Today I was very happy to see residents of Bishkek being vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002499302208889276,
+          "perplexity": 33,
+          "sentence": "It's important to remember that vaccination is a simple, safe, and effective way to protect against many infectious diseases\u201d, said Dr. Hans Henri P. Kluge, regional director of the WHO Regional Office for Europe, during a joint field visit with the Deputy Minister of Health of Kyrgyzstan, Ms. Bubuzhan Arykbaeva and the WHO Representative in Kyrgyzstan, Dr. Liviu Vedrasco.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002890211180783808,
+          "perplexity": 85,
+          "sentence": "The guests today visited the Family Doctors Group (FDG) in the Ak-Ordo settlement to familiarize themselves with the work of public health at the primary healthcare level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026969838654622436,
+          "perplexity": 153,
+          "sentence": "The health workers from the Ak-Ordo FDG in turn shared with the guests about their daily work, as well as the measles vaccination activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025392943643964827,
+          "perplexity": 104,
+          "sentence": "The guests talked to parents and children and discussed the provision of medical services at the FDG level in general and immunization services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002220862079411745,
+          "perplexity": 66,
+          "sentence": "During the visit, the Director of the Republican Center for Immunoprophylaxis (RCI) Gulbara Ishenapysova elaborated on the cooperation with WHO and the results of the immunization campaign initiated in response to the measles outbreak in a number of regions since September 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001990488963201642,
+          "perplexity": 36,
+          "sentence": "'An important step in Kyrgyzstan's national immunization program was to ensure access to vaccination for unvaccinated children and urban migrants in newly built settlements around Bishkek.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020092693739570677,
+          "perplexity": 68,
+          "sentence": "A WHO-supported analysis of the legislation led to a change in the laws, allowing children of internal migrants to receive vaccinations at their place of residence, which ensures timely immunization in accordance with the national calendar,' highlighted Bubuzhan Arykbaeva, the Deputy Minister of Health of Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022669596364721656,
+          "perplexity": 17,
+          "sentence": "At the end of the visit, the guests",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek, KYRGYZSTAN \u2013 \u201cI am very impressed by the diligence and dedication of the Kyrgyz health workers to help and care for people and protect children and adults from various diseases through vaccination. Today I was very happy to see residents of Bishkek being vaccinated. It\u2019s important to remember that vaccination is a simple, safe, and effective way to protect against many infectious diseases\u201d, said Dr. Hans Henri P. Kluge, regional director of the WHO Regional Office for Europe, during a joint field visit with the Deputy Minister of Health of Kyrgyzstan, Ms. Bubuzhan Arykbaeva and the WHO Representative in Kyrgyzstan, Dr. Liviu Vedrasco. The guests today visited the Family Doctors Group (FDG) in the Ak-Ordo settlement to familiarize themselves with the work of public health at the primary healthcare level. The health workers from the Ak-Ordo FDG in turn shared with the guests about their daily work, as well as the measles vaccination activities. The guests talked to parents and children and discussed the provision of medical services at the FDG level in general and immunization services. During the visit, the Director of the Republican Center for Immunoprophylaxis (RCI) Gulbara Ishenapysova elaborated on the cooperation with WHO and the results of the immunization campaign initiated in response to the measles outbreak in a number of regions since September 2023. \u2018An important step in Kyrgyzstan's national immunization program was to ensure access to vaccination for unvaccinated children and urban migrants in newly built settlements around Bishkek. A WHO-supported analysis of the legislation led to a change in the laws, allowing children of internal migrants to receive vaccinations at their place of residence, which ensures timely immunization in accordance with the national calendar,\u2019 highlighted Bubuzhan Arykbaeva, the Deputy Minister of Health of Kyrgyzstan. At the end of the visit, the guests",
+  "date": "17 November 2023"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "91cd0bfa-876e-44f9-a7ca-182ddcab9faf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.04279613494873,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005854920018464327,
+          "perplexity": 72,
+          "sentence": "Baghdad, 04 December 2023 - Special Adviser and Head of UNITAD Christian Ritscher briefed the United Nations Security Council on the 11th report detailing the Team's work over the past six months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005765996756963432,
+          "perplexity": 84,
+          "sentence": "This report includes \u201csignificant milestones in the work of the Team and comes at a critical juncture for the Team itself and its future direction\u201d, as he mentioned.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006503198528662324,
+          "perplexity": 61,
+          "sentence": "He reiterated UNITAD's unwavering commitment to deliver on its core mandate in line with resolution 2379 (2017) and the Team's Terms of Reference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005663167685270309,
+          "perplexity": 58,
+          "sentence": "At the same time, the Team has taken steps to implement resolution 2697 (2023), which extended UNITAD's mandate until September 17, 2024, only, and requested it to fulfill additional tasks towards the implementation of both resolutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004905224777758121,
+          "perplexity": 93,
+          "sentence": "Special Adviser Ritscher explained that since September, the Team has shifted its investigative resources, to respond to the requirements of Security Council resolution 2697 (2023) and its timeline, in a way that expedites the less advanced investigations and their planned outputs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044318806612864137,
+          "perplexity": 55,
+          "sentence": "He noted, however, that some of the Team's key and complex investigations most probably cannot be completed in one year, including \u201cthe question of ISIL's genocidal intent against the Shia community and the Team's work on Al Hol returnees, a file that is expected to need years of work in Iraq and elsewhere.\u201d He explained that over the past weeks, he has been working closely with counterparts in the Government of Iraq and commended their continued support of the Team's work and the constructive consultations which started in follow-up of Resolution 2697.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048740068450570107,
+          "perplexity": 56,
+          "sentence": "He, further, noted that \u201cour shared goal is to ensure that the work of the Team can be used to support accountability efforts in Iraq and throughout the world.\u201d One key achievement during the reporting period was formally sharing with the Iraqi judiciary a comprehensive case-assessment report on",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 04 December 2023 \u2013 Special Adviser and Head of UNITAD Christian Ritscher briefed the United Nations Security Council on the 11th report detailing the Team\u2019s work over the past six months. This report includes \u201csignificant milestones in the work of the Team and comes at a critical juncture for the Team itself and its future direction\u201d, as he mentioned. He reiterated UNITAD's unwavering commitment to deliver on its core mandate in line with resolution 2379 (2017) and the Team\u2019s Terms of Reference. At the same time, the Team has taken steps to implement resolution 2697 (2023), which extended UNITAD's mandate until September 17, 2024, only, and requested it to fulfill additional tasks towards the implementation of both resolutions. Special Adviser Ritscher explained that since September, the Team has shifted its investigative resources, to respond to the requirements of Security Council resolution 2697 (2023) and its timeline, in a way that expedites the less advanced investigations and their planned outputs. He noted, however, that some of the Team\u2019s key and complex investigations most probably cannot be completed in one year, including \u201cthe question of ISIL\u2019s genocidal intent against the Shia community and the Team\u2019s work on Al Hol returnees, a file that is expected to need years of work in Iraq and elsewhere.\u201d He explained that over the past weeks, he has been working closely with counterparts in the Government of Iraq and commended their continued support of the Team\u2019s work and the constructive consultations which started in follow-up of Resolution 2697. He, further, noted that \u201cour shared goal is to ensure that the work of the Team can be used to support accountability efforts in Iraq and throughout the world.\u201d One key achievement during the reporting period was formally sharing with the Iraqi judiciary a comprehensive case-assessment report on",
+  "date": "05 December 2023"
+}

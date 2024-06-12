@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bb684048-a299-46a2-b9ea-387a6ea86e73",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.45585250854492,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008322146604768932,
+          "perplexity": 74,
+          "sentence": "World Population Day, commemorated each year on July 11 July, brings to the fore the demographic trends, dividends and challenges that impact societies the world over.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008877583895809948,
+          "perplexity": 71,
+          "sentence": "The theme for this year is 'adolescent pregnancy'.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006687064887955785,
+          "perplexity": 23,
+          "sentence": "This is a topic that affects us all as policy makers, parents, teachers, students and friends.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007263366132974625,
+          "perplexity": 26,
+          "sentence": "Globally, too many of the estimated 16 million teenage girls who give birth each year never had the opportunity to plan their pregnancy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007609846070408821,
+          "perplexity": 18,
+          "sentence": "In Zambia, over 30% of 15-19 year old girls have already been pregnant or have had a child.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009263561805710196,
+          "perplexity": 75,
+          "sentence": "This is an alarming rate of pregnancy among adolescents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007641325355507433,
+          "perplexity": 66,
+          "sentence": "Zambia's 2013 MDG Report indicates early marriage and adolescent pregnancy as two main triggers for the high maternal mortality rate in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005754684098064899,
+          "perplexity": 23,
+          "sentence": "42% of Zambian women are married before the age of 18.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005453841877169907,
+          "perplexity": 39,
+          "sentence": "Thirty eight mothers die each month due to complications relating to pregnancy and child birth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005693597486242652,
+          "perplexity": 60,
+          "sentence": "And many of these mothers are teenagers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000557664199732244,
+          "perplexity": 47,
+          "sentence": "Unsafe abortions, obstetric fistula, hemorrhage and malnutrition often result in young mothers facing a heightened risk of maternal complications, death and disability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006734683993272483,
+          "perplexity": 93,
+          "sentence": "Their children, even when surviving birth, face higher risks as well.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005767645197920501,
+          "perplexity": 100,
+          "sentence": "\u201cAdolescent pregnancy is an abrupt disruption to education, and an end to childhood.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005052007618360221,
+          "perplexity": 113,
+          "sentence": "Keeping girls safe and in secondary school, enforcing laws that deter early marriage and harshly punish rape, and the active promotion and access to birth control and reproductive health education - this is what will break this cycle\u201d said Kanni Wignaraja, the UN Resident Coordinator and UNDP Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006252039456740022,
+          "perplexity": 39,
+          "sentence": "Education and staying in school plays a major role in changing this situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005426957504823804,
+          "perplexity": 56,
+          "sentence": "It creates awareness, it delays marriage and childbearing, and it reduces the otherwise high fertility rate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042359490180388093,
+          "perplexity": 124,
+          "sentence": "A Zambian woman with no formal education has a fertility rate of 8; with one year of secondary this halves to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "World Population Day, commemorated each year on July 11 July, brings to the fore the demographic trends, dividends and challenges that impact societies the world over. The theme for this year is \u2018adolescent pregnancy\u2019. This is a topic that affects us all as policy makers, parents, teachers, students and friends. Globally, too many of the estimated 16 million teenage girls who give birth each year never had the opportunity to plan their pregnancy. In Zambia, over 30% of 15-19 year old girls have already been pregnant or have had a child. This is an alarming rate of pregnancy among adolescents. Zambia\u2019s 2013 MDG Report indicates early marriage and adolescent pregnancy as two main triggers for the high maternal mortality rate in the country. 42% of Zambian women are married before the age of 18. Thirty eight mothers die each month due to complications relating to pregnancy and child birth. And many of these mothers are teenagers. Unsafe abortions, obstetric fistula, hemorrhage and malnutrition often result in young mothers facing a heightened risk of maternal complications, death and disability. Their children, even when surviving birth, face higher risks as well. \u201cAdolescent pregnancy is an abrupt disruption to education, and an end to childhood. Keeping girls safe and in secondary school, enforcing laws that deter early marriage and harshly punish rape, and the active promotion and access to birth control and reproductive health education \u2013 this is what will break this cycle\u201d said Kanni Wignaraja, the UN Resident Coordinator and UNDP Representative. Education and staying in school plays a major role in changing this situation. It creates awareness, it delays marriage and childbearing, and it reduces the otherwise high fertility rate. A Zambian woman with no formal education has a fertility rate of 8; with one year of secondary this halves to",
+  "date": "11 July 2013"
+}

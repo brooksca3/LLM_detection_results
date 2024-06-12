@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "aa8120d1-c4d9-4a04-a249-f249d1c4b693",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.27715492248535,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012969574891030788,
+          "perplexity": 29,
+          "sentence": "UN Headquarters Observes International Day of United Nations Peacekeepers on 26 May UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001431848795618862,
+          "perplexity": 20,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013714589294977486,
+          "perplexity": 74,
+          "sentence": "Among the peacekeepers to be honoured posthumously are three from Malawi who served with the UN Stabilization Mission in the Democratic Republic of Congo (MONUSCO): WO1 Mcdonald Kufa Kangoni, Private Chitenji Kamanga, and Corporal Maxwell Nyirenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001326527853962034,
+          "perplexity": 50,
+          "sentence": "Malawi is the 30th largest contributor of uniformed personnel to UN Peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013809584197588265,
+          "perplexity": 28,
+          "sentence": "It currently deploys 771 military and police personnel to the UN operations in Abyei, the Democratic Republic of the Congo, Sudan, South Sudan and Western Sahara.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014275313878897578,
+          "perplexity": 84,
+          "sentence": "During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015717587666586041,
+          "perplexity": 32,
+          "sentence": "The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001453552395105362,
+          "perplexity": 34,
+          "sentence": "This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honour in 2016.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013730436330661178,
+          "perplexity": 74,
+          "sentence": "The Secretary-General will also award the '2021 Military Gender Advocate of the Year Award' to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014618966088164598,
+          "perplexity": 89,
+          "sentence": "Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In his",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Headquarters Observes International Day of United Nations Peacekeepers on 26 May UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year. Among the peacekeepers to be honoured posthumously are three from Malawi who served with the UN Stabilization Mission in the Democratic Republic of Congo (MONUSCO): WO1 Mcdonald Kufa Kangoni, Private Chitenji Kamanga, and Corporal Maxwell Nyirenda. Malawi is the 30th largest contributor of uniformed personnel to UN Peacekeeping. It currently deploys 771 military and police personnel to the UN operations in Abyei, the Democratic Republic of the Congo, Sudan, South Sudan and Western Sahara. During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA). The medal is named for a Senegalese peacekeeper who was killed in Rwanda in 1994 after saving countless civilian lives. This is the second time the medal has been awarded since the inaugural medal was presented to Captain Diagne's family in his honour in 2016. The Secretary-General will also award the \u20182021 Military Gender Advocate of the Year Award\u2019 to Major Winnet Zharare, a Zimbabwean military observer, who served with the UN Mission in South Sudan. Created in 2016, the Award \u201crecognises the dedication and effort of an individual peacekeeper in promoting the principles of UN Security Resolution 1325 on women, peace and security.\u201d In his",
+  "date": "23 May 2022"
+}

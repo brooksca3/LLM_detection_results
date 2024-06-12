@@ -1,0 +1,177 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bdb928d2-8e7f-4ff6-9f86-a6cbc6e88f89",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.04164123535156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.95227250807639e-17,
+          "num_sentences": 19,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013853090349584818,
+          "perplexity": 19,
+          "sentence": "The Universal Declaration of Human Rights was adopted 75 years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015448839403688908,
+          "perplexity": 62,
+          "sentence": "The Declaration described, for the first time, entitlements that apply to everyone, everywhere, always.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016468106769025326,
+          "perplexity": 46,
+          "sentence": "The most translated document in the world, its English version is just 1300 words long.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002485194941982627,
+          "perplexity": 19,
+          "sentence": "The Universal Declaration sets out the rights to life, liberty and security; to equality before the law; to freedom of expression; to seek asylum; to work, to healthcare and education, and more.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024793974589556456,
+          "perplexity": 36,
+          "sentence": "But as we mark its 75th anniversary, the Universal Declaration is under assault from all sides.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023060860112309456,
+          "perplexity": 66,
+          "sentence": "The Russian invasion of Ukraine has triggered the most massive violations of human rights we are living today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023691582027822733,
+          "perplexity": 36,
+          "sentence": "Attacks on civilians and civilian infrastructure have caused many casualties and terrible suffering.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002227880759164691,
+          "perplexity": 11,
+          "sentence": "The Office of the High Commissioner for Human Rights has documented dozens of cases of conflict-related sexual violence against men, women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020954131614416838,
+          "perplexity": 18,
+          "sentence": "And serious violations of international humanitarian and human rights law against prisoners of war - and hundreds of cases of enforced disappearances and arbitrary detentions of civilians - were also documented.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002493765437975526,
+          "perplexity": 28,
+          "sentence": "Unfortunately, the Universal Declaration of Human rights, which should be our common blueprint, is too often misused and abused.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025598686188459396,
+          "perplexity": 44,
+          "sentence": "It is exploited for political gain; and it is ignored - often by the very same people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002944864332675934,
+          "perplexity": 148,
+          "sentence": "Some governments chip away at it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003249464323744178,
+          "perplexity": 75,
+          "sentence": "Others use a wrecking ball.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002922533778473735,
+          "perplexity": 50,
+          "sentence": "And today's public disregard and private disdain for human rights are a wake-up call.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002710973145440221,
+          "perplexity": 18,
+          "sentence": "This is a moment to stand on the right side of history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002427859930321574,
+          "perplexity": 23,
+          "sentence": "A moment to stand up for the human rights of everyone, everywhere.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002096472540870309,
+          "perplexity": 59,
+          "sentence": "We must revitalize the Universal Declaration and ensure its full implementation to face the new challenges of today and tomorrow.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015340246027335525,
+          "perplexity": 58,
+          "sentence": "My Call to Action for Human Rights, launched three years ago in this chamber, is the blueprint.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001366088050417602,
+          "perplexity": 77,
+          "sentence": "Human rights are not a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Universal Declaration of Human Rights was adopted 75 years ago. The Declaration described, for the first time, entitlements that apply to everyone, everywhere, always. The most translated document in the world, its English version is just 1300 words long. The Universal Declaration sets out the rights to life, liberty and security; to equality before the law; to freedom of expression; to seek asylum; to work, to healthcare and education, and more. But as we mark its 75th anniversary, the Universal Declaration is under assault from all sides. The Russian invasion of Ukraine has triggered the most massive violations of human rights we are living today. Attacks on civilians and civilian infrastructure have caused many casualties and terrible suffering. The Office of the High Commissioner for Human Rights has documented dozens of cases of conflict-related sexual violence against men, women and girls. And serious violations of international humanitarian and human rights law against prisoners of war \u2013 and hundreds of cases of enforced disappearances and arbitrary detentions of civilians \u2013 were also documented. Unfortunately, the Universal Declaration of Human rights, which should be our common blueprint, is too often misused and abused. It is exploited for political gain; and it is ignored \u2013 often by the very same people. Some governments chip away at it. Others use a wrecking ball. And today\u2019s public disregard and private disdain for human rights are a wake-up call. This is a moment to stand on the right side of history. A moment to stand up for the human rights of everyone, everywhere. We must revitalize the Universal Declaration and ensure its full implementation to face the new challenges of today and tomorrow. My Call to Action for Human Rights, launched three years ago in this chamber, is the blueprint. Human rights are not a",
+  "date": "27 February 2023"
+}

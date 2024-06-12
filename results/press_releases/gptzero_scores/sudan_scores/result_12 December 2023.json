@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6fb5903b-a987-47bb-8e2b-2e848d5c82d2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.02120590209961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01749930903315544,
+          "perplexity": 19,
+          "sentence": "Cairo/Khartoum - The Food and Agriculture Organization of the United Nations (FAO) sounds the alarm about the escalating food security crisis in the Sudan, urging immediate and collective action to avert an impending humanitarian catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014738083817064762,
+          "perplexity": 72,
+          "sentence": "According to the newly released Integrated Food Security Phase (IPC) projections, 17.7 million people across the Sudan, which accounts for 37 percent of the analysed population, are facing high levels of acute food insecurity, classified in IPC Phase 3 or above (Crisis or worse) between October 2023 and February 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016217706725001335,
+          "perplexity": 28,
+          "sentence": "The most acutely food insecure populations are located in states affected by high levels of organized violence, including Greater Darfur, Greater Kordofan and Khartoum - especially in the tri-city area of Khartoum, Bahri and Omdurman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01465618796646595,
+          "perplexity": 25,
+          "sentence": "The ongoing conflict and the escalating violence are deepening the humanitarian crisis and worsening the food security of people in several urban, semi-urban and rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012913567014038563,
+          "perplexity": 120,
+          "sentence": "Further compounding this is the low agricultural production, high food prices, climate shocks and displacement according to FAO's recently released Rapid assessment on the summer season agriculture performance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016468945890665054,
+          "perplexity": 10,
+          "sentence": "Widespread violence has resulted in the displacement of 6.3 million people, including around 5.1 million who have been internally displaced and 1.2 million who sought refuge in neighbouring countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01668703556060791,
+          "perplexity": 32,
+          "sentence": "The majority of internally displaced people come from eight states, with Khartoum state representing the largest share at 67 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017427733168005943,
+          "perplexity": 26,
+          "sentence": "The displaced population is scattered across all 18 states of the Sudan and extends beyond the country's borders, particularly to Chad, South Sudan, and Egypt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018226321786642075,
+          "perplexity": 26,
+          "sentence": "The conflict has also inflicted serious harm and destruction on critical infrastructure, including healthcare facilities, schools, roads, power and water sources as well as telecommunications assets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018474062904715538,
+          "perplexity": 24,
+          "sentence": "Widespread looting of markets, banks, industries, and public buildings has led to an increased shortage of essential services, food and non-food items across the country, further",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo/Khartoum \u2013 The Food and Agriculture Organization of the United Nations (FAO) sounds the alarm about the escalating food security crisis in the Sudan, urging immediate and collective action to avert an impending humanitarian catastrophe. According to the newly released Integrated Food Security Phase (IPC) projections, 17.7 million people across the Sudan, which accounts for 37 percent of the analysed population, are facing high levels of acute food insecurity, classified in IPC Phase 3 or above (Crisis or worse) between October 2023 and February 2024. The most acutely food insecure populations are located in states affected by high levels of organized violence, including Greater Darfur, Greater Kordofan and Khartoum \u2013 especially in the tri-city area of Khartoum, Bahri and Omdurman. The ongoing conflict and the escalating violence are deepening the humanitarian crisis and worsening the food security of people in several urban, semi-urban and rural areas. Further compounding this is the low agricultural production, high food prices, climate shocks and displacement according to FAO\u2019s recently released Rapid assessment on the summer season agriculture performance. Widespread violence has resulted in the displacement of 6.3 million people, including around 5.1 million who have been internally displaced and 1.2 million who sought refuge in neighbouring countries. The majority of internally displaced people come from eight states, with Khartoum state representing the largest share at 67 percent. The displaced population is scattered across all 18 states of the Sudan and extends beyond the country's borders, particularly to Chad, South Sudan, and Egypt. The conflict has also inflicted serious harm and destruction on critical infrastructure, including healthcare facilities, schools, roads, power and water sources as well as telecommunications assets. Widespread looting of markets, banks, industries, and public buildings has led to an increased shortage of essential services, food and non-food items across the country, further",
+  "date": "12 December 2023"
+}

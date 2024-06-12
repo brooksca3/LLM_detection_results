@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fe59eda7-fa39-4798-9e47-f2f3aa773fea",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009030837884374913,
+        "human": 0.9909691621156251,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009030837884374913,
+      "confidence_category": "high",
+      "confidence_score": 0.9909691621156251,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009030837884374913,
+          "human": 0.9909691621156251,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 104.49481964111328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001998575171455741,
+          "perplexity": 28,
+          "sentence": "MANILA, Philippines - To augment the ongoing response by the Philippine Department of Health (DOH) to the rapidly escalating COVID-19 outbreak in the country, the United Nations Population Fund (UNFPA) in the Philippines is donating personal protective equipment (PPE) worth more than three million pesos (approximately USD 59,000) to the DOH, in the midst of the \u201cenhanced community quarantine\u201d all across Luzon including Metro Manila.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001961654343176633,
+          "perplexity": 41,
+          "sentence": "This PPE will be distributed to frontline health workers including those attending to pregnant and lactating women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017671514069661498,
+          "perplexity": 107,
+          "sentence": "As the first cases of COVID-19 local transmission were confirmed, on 8 March 2020, President Rodrigo Duterte declared a State of a Public Health Emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001733605604385957,
+          "perplexity": 23,
+          "sentence": "As of 18 March, the number of confirmed cases in the country has risen to 202 with 17 deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017453651526011527,
+          "perplexity": 26,
+          "sentence": "As the numbers of confirmed and suspected cases of COVID-19 are rapidly increasing in the country and more people are in need of testing and treatment, it adds to pressure on the health sector and the nature of the jobs of the health care workers puts them at an increased risk of catching any communicable diseases, including COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018456672842148691,
+          "perplexity": 103,
+          "sentence": "Dozens of health care workers have already been put under investigation for potential COVID-19 infection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020024244440719485,
+          "perplexity": 15,
+          "sentence": "If the number of health care workers who need to take leave of absence increases, it further amplifies the strain on the already stretched health care system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017585941532161087,
+          "perplexity": 62,
+          "sentence": "The PPE that the UNFPA Country Representative in the Philippines, Mr. Iori Kato, handed over to Undersecretary Dr. Myrna Cabotaje and Undersecretary Dr. Maria Rosario Vergeire today at the DOH includes coveralls, long-sleeve gowns, face shields, eye goggles, aprons, headcovers, and shoe covers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018817652016878128,
+          "perplexity": 367,
+          "sentence": "Also present is Director Mar Wynn Bello during the handover.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001970339217223227,
+          "perplexity": 83,
+          "sentence": "\u201cIt is imperative that we support DOH and all the heroes of this country today - all the people working in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MANILA, Philippines \u2013 To augment the ongoing response by the Philippine Department of Health (DOH) to the rapidly escalating COVID-19 outbreak in the country, the United Nations Population Fund (UNFPA) in the Philippines is donating personal protective equipment (PPE) worth more than three million pesos (approximately USD 59,000) to the DOH, in the midst of the \u201cenhanced community quarantine\u201d all across Luzon including Metro Manila. This PPE will be distributed to frontline health workers including those attending to pregnant and lactating women. As the first cases of COVID-19 local transmission were confirmed, on 8 March 2020, President Rodrigo Duterte declared a State of a Public Health Emergency. As of 18 March, the number of confirmed cases in the country has risen to 202 with 17 deaths. As the numbers of confirmed and suspected cases of COVID-19 are rapidly increasing in the country and more people are in need of testing and treatment, it adds to pressure on the health sector and the nature of the jobs of the health care workers puts them at an increased risk of catching any communicable diseases, including COVID-19. Dozens of health care workers have already been put under investigation for potential COVID-19 infection. If the number of health care workers who need to take leave of absence increases, it further amplifies the strain on the already stretched health care system. The PPE that the UNFPA Country Representative in the Philippines, Mr. Iori Kato, handed over to Undersecretary Dr. Myrna Cabotaje and Undersecretary Dr. Maria Rosario Vergeire today at the DOH includes coveralls, long-sleeve gowns, face shields, eye goggles, aprons, headcovers, and shoe covers. Also present is Director Mar Wynn Bello during the handover. \u201cIt is imperative that we support DOH and all the heroes of this country today \u2013 all the people working in",
+  "date": "18 March 2020"
+}

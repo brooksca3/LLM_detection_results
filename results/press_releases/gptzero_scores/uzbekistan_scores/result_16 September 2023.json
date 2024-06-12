@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a2b48322-4aee-4415-b078-bf5eaab7f35a",
+  "documents": [
+    {
+      "average_generated_prob": 0.8571428571428571,
+      "class_probabilities": {
+        "ai": 0.3559283199179716,
+        "human": 0.011165666037817011,
+        "mixed": 0.6329060140442114
+      },
+      "completely_generated_prob": 0.3559283199179716,
+      "confidence_category": "low",
+      "confidence_score": 0.6329060140442114,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.3559283199179716,
+          "human": 0.011165666037817011,
+          "mixed": 0.6329060140442114
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.28636169433594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.7604022122935274,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.9995070695877075,
+          "perplexity": 21,
+          "sentence": "The United Nations in Uzbekistan, in collaboration with the Government of Uzbekistan, and the Government of the Republic of Karakalpakstan, jointly convened the \"Localization of the Sustainable Development Goals (SDGs) in the Aral Sea Region.\"",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9996951818466187,
+          "perplexity": 40,
+          "sentence": "This occasion brought together key stakeholders, including government representatives, local development organizations, academia, civil society, and international partners, to shed light on the intersection of sustainable development and SDG localization, emphasizing the vulnerabilities faced by regions like the Aral Sea.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9976434111595154,
+          "perplexity": 53,
+          "sentence": "SDG localization refers to the process of implementing the SDGs at the national and local levels by aligning them with local needs as it fosters ownership and action, ensures policy coherence, enhances data and monitoring systems, and encourages stakeholder engagement.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9994080066680908,
+          "perplexity": 50,
+          "sentence": "The event also featured a presentation of the findings from the Aral Sea Trust Fund's 2023 Needs Assessment for the Aral Sea, outlining its vital linkages to the SDGs as identified through a comprehensive study conducted earlier this year.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.991340696811676,
+          "perplexity": 60,
+          "sentence": "Consuelo Vidal, the United Nations Resident Coordinator in Uzbekistan highlighted in her address that \u201cAt this midway point of the 2030 Agenda, it's clear that we need urgent action to tackle our current challenges.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.8627249598503113,
+          "perplexity": 57,
+          "sentence": "Without a significant increase in commitment, cooperation, and transformative measures, we risk falling short of achieving the SDGs, including crucial goals like poverty reduction, inequality reduction, and environmental protection.\u201d Sarvar Khamidov, Deputy Minister, the Ministry of Investments, Industry and Trade of the Republic of Uzbekistan said \u201cCollaborative efforts within the Aral Sea Trust Fund helped to improve the healthcare system in five regions, improve basic infrastructure, digitalize rural communities, support youth and women by creating jobs and increasing their incomes.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.4298912584781647,
+          "perplexity": 167,
+          "sentence": "Our further vision for the Fund is the Aral Sea region shall become a zone for implementing efficient climate change innovations, which will benefit present and future generations.\u201d Rustam Saparbayev, Deputy Chairman",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations in Uzbekistan, in collaboration with the Government of Uzbekistan, and the Government of the Republic of Karakalpakstan, jointly convened the \"Localization of the Sustainable Development Goals (SDGs) in the Aral Sea Region.\" This occasion brought together key stakeholders, including government representatives, local development organizations, academia, civil society, and international partners, to shed light on the intersection of sustainable development and SDG localization, emphasizing the vulnerabilities faced by regions like the Aral Sea. SDG localization refers to the process of implementing the SDGs at the national and local levels by aligning them with local needs as it fosters ownership and action, ensures policy coherence, enhances data and monitoring systems, and encourages stakeholder engagement. The event also featured a presentation of the findings from the Aral Sea Trust Fund's 2023 Needs Assessment for the Aral Sea, outlining its vital linkages to the SDGs as identified through a comprehensive study conducted earlier this year. Consuelo Vidal, the United Nations Resident Coordinator in Uzbekistan highlighted in her address that \u201cAt this midway point of the 2030 Agenda, it's clear that we need urgent action to tackle our current challenges. Without a significant increase in commitment, cooperation, and transformative measures, we risk falling short of achieving the SDGs, including crucial goals like poverty reduction, inequality reduction, and environmental protection.\u201d Sarvar Khamidov, Deputy Minister, the Ministry of Investments, Industry and Trade of the Republic of Uzbekistan said \u201cCollaborative efforts within the Aral Sea Trust Fund helped to improve the healthcare system in five regions, improve basic infrastructure, digitalize rural communities, support youth and women by creating jobs and increasing their incomes. Our further vision for the Fund is the Aral Sea region shall become a zone for implementing efficient climate change innovations, which will benefit present and future generations.\u201d Rustam Saparbayev, Deputy Chairman",
+  "date": "16 September 2023"
+}

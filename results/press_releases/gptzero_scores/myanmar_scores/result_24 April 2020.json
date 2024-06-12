@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4d1b75d2-fce0-4ee9-83b5-bc5fe082acec",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.658695220947266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011723348870873451,
+          "perplexity": 25,
+          "sentence": "As part of actions to protect the health and safety of persons held in detention facilities and in line with the Myanmar New Year tradition, the President of the Republic of the Union of Myanmar announced a pardon on 17 April and released close to 25,000 people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016324205789715052,
+          "perplexity": 68,
+          "sentence": "The pardoning comes in addition to the government's ongoing efforts in prisons and detention facilities to strengthen sanitary procedures, screening processes and isolation of those remaining detainees or prisoners who fall ill.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021469020284712315,
+          "perplexity": 118,
+          "sentence": "Ensuring early preventive measures and responding rapidly to any suspected or positive cases of COVID-19 is key to safeguarding the prison's population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016799066215753555,
+          "perplexity": 70,
+          "sentence": "The United Nations has also joined the relevant Government authorities to support these efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001155624515376985,
+          "perplexity": 34,
+          "sentence": "The UN's Office for Drugs and Crime (UNODC), is working with Myanmar's Chief Medical Officer and the Prison Department to develop both short and medium-term plans to strengthen logistics and preparedness for COVID-19 in detention facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008663375629112124,
+          "perplexity": 63,
+          "sentence": "The Access to Health Fund, funded by the United Kingdom, Sweden, United States and Switzerland and managed by the UN's Office for Project Services (UNOPS) is also supporting UNODC with communicating about the risks of COVID-19 among the prison population and procuring infection control equipment and supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008917702361941338,
+          "perplexity": 30,
+          "sentence": "Support includes distribution of masks, gloves, soap, hand sanitizer, thermometers and personal protective equipment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008619775180704892,
+          "perplexity": 39,
+          "sentence": "Awareness-raising activities on COVID19 will take place, as well as the sharing of information on how to maintain vital health care services such as antiretroviral therapy, tuberculosis treatment or methadone maintenance therapy within a COVID-19 pandemic situation, or when prisoners are released from prison.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000748721300624311,
+          "perplexity": 100,
+          "sentence": "UNODC has developed and distributed materials on the risk of COVID-19 and essential health information, Tuberculosis, antiretroviral therapy and overdose treatment for prisoners already released.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012893823441118002,
+          "perplexity": 51,
+          "sentence": "The United Nations is also planning support for longer term mitigation strategies, such as reducing prison overcrowding, and ensuring",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As part of actions to protect the health and safety of persons held in detention facilities and in line with the Myanmar New Year tradition, the President of the Republic of the Union of Myanmar announced a pardon on 17 April and released close to 25,000 people. The pardoning comes in addition to the government\u2019s ongoing efforts in prisons and detention facilities to strengthen sanitary procedures, screening processes and isolation of those remaining detainees or prisoners who fall ill. Ensuring early preventive measures and responding rapidly to any suspected or positive cases of COVID-19 is key to safeguarding the prison\u2019s population. The United Nations has also joined the relevant Government authorities to support these efforts. The UN\u2019s Office for Drugs and Crime (UNODC), is working with Myanmar\u2019s Chief Medical Officer and the Prison Department to develop both short and medium-term plans to strengthen logistics and preparedness for COVID-19 in detention facilities. The Access to Health Fund, funded by the United Kingdom, Sweden, United States and Switzerland and managed by the UN\u2019s Office for Project Services (UNOPS) is also supporting UNODC with communicating about the risks of COVID-19 among the prison population and procuring infection control equipment and supplies. Support includes distribution of masks, gloves, soap, hand sanitizer, thermometers and personal protective equipment. Awareness-raising activities on COVID19 will take place, as well as the sharing of information on how to maintain vital health care services such as antiretroviral therapy, tuberculosis treatment or methadone maintenance therapy within a COVID-19 pandemic situation, or when prisoners are released from prison. UNODC has developed and distributed materials on the risk of COVID-19 and essential health information, Tuberculosis, antiretroviral therapy and overdose treatment for prisoners already released. The United Nations is also planning support for longer term mitigation strategies, such as reducing prison overcrowding, and ensuring",
+  "date": "24 April 2020"
+}

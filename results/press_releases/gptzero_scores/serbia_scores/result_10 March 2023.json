@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "25d7dfc0-51ec-4b1b-8790-8db8b146477c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 140.0581512451172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0017822039080783725,
+          "perplexity": 20,
+          "sentence": "Slightly more than two-thirds of older people in Serbia feel lonely, and every other older woman in the region has survived some form of gender-based violence, according to the United Nations Population Fund (UNFPA) results.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002813337603583932,
+          "perplexity": 43,
+          "sentence": "Informal caregivers, who continue to carry the brunt of caring for older people, face mental health challenges themselves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002456838497892022,
+          "perplexity": 33,
+          "sentence": "Research done by UNFPA and the Serbian Red Cross showed that mild and moderate depression was present in about 20% of informal caregivers, while 7% of them were in severe depression.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002508348086848855,
+          "perplexity": 13,
+          "sentence": "Today's conference on the mental health of older women at the Faculty of Medical Sciences in Kragujevac, organized by the Coordination Body for Gender Equality, UNFPA, the City of Kragujevac, and the Faculty of Medicine of the University of Kragujevac, draws attention to the importance of preserving the mental health of older women and how it can be achieved.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021715082693845034,
+          "perplexity": 51,
+          "sentence": "At the conference, experiences from practice on the mental health of older women were presented, as well as examples of good practices and initiatives implemented in the City of Kragujevac.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002172330627217889,
+          "perplexity": 22,
+          "sentence": "In addition, participants had the opportunity to participate in discussions, share experiences and ideas, and learn more about available resources and support programs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010764034232124686,
+          "perplexity": 394,
+          "sentence": "The conference also promoted the Corner for Healthy Aging work and the exhibition of handicrafts prepared by women from the Institution for Adults called \"Small bees\u201d (Male p\u010delice) and Gerontological Center Kragujevac, as part of occupational therapy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007678160909563303,
+          "perplexity": 244,
+          "sentence": "In the end, two doctors on site informed interested older citizens about mental health topics.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Slightly more than two-thirds of older people in Serbia feel lonely, and every other older woman in the region has survived some form of gender-based violence, according to the United Nations Population Fund (UNFPA) results. Informal caregivers, who continue to carry the brunt of caring for older people, face mental health challenges themselves. Research done by UNFPA and the Serbian Red Cross showed that mild and moderate depression was present in about 20% of informal caregivers, while 7% of them were in severe depression. Today's conference on the mental health of older women at the Faculty of Medical Sciences in Kragujevac, organized by the Coordination Body for Gender Equality, UNFPA, the City of Kragujevac, and the Faculty of Medicine of the University of Kragujevac, draws attention to the importance of preserving the mental health of older women and how it can be achieved. At the conference, experiences from practice on the mental health of older women were presented, as well as examples of good practices and initiatives implemented in the City of Kragujevac. In addition, participants had the opportunity to participate in discussions, share experiences and ideas, and learn more about available resources and support programs. The conference also promoted the Corner for Healthy Aging work and the exhibition of handicrafts prepared by women from the Institution for Adults called \"Small bees\u201d (Male p\u010delice) and Gerontological Center Kragujevac, as part of occupational therapy. In the end, two doctors on site informed interested older citizens about mental health topics.",
+  "date": "10 March 2023"
+}

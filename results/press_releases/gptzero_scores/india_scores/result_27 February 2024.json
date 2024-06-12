@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7f6e6904-f40d-4195-8b59-8d27e78acc71",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 106.4643325805664,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001033854903653264,
+          "perplexity": 33,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the Conference on Disarmament in Geneva on 26 February: This Conference and the bodies that preceded it took shape at a time of maximum global division -- the cold war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012756705982610583,
+          "perplexity": 19,
+          "sentence": "A moment in human history when, for the first time, we faced the possibility of total annihilation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013038631295785308,
+          "perplexity": 77,
+          "sentence": "From the start, this Conference and its predecessors were supposed to be the antidote to the poison of division and diplomatic paralysis that blocked meaningful disarmament.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013168060686439276,
+          "perplexity": 9,
+          "sentence": "For many years, these bodies played an essential role in drafting the agreements that form the backbone of the global disarmament agenda: The Treaty on the Non-Proliferation of Nuclear Weapons; The Conventions on Biological and Chemical Weapons; and the Comprehensive Nuclear-Test-Ban Treaty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015303597319871187,
+          "perplexity": 29,
+          "sentence": "These victories for peace were hard-fought and hard-won.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015954708214849234,
+          "perplexity": 107,
+          "sentence": "But they were not miracles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011856411583721638,
+          "perplexity": 82,
+          "sentence": "They happened because countries recognized that the key to disarmament could be found in cooperation for mutual benefit -- not competition for mutual destruction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013219619868323207,
+          "perplexity": 50,
+          "sentence": "But we need to face facts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011306318920105696,
+          "perplexity": 25,
+          "sentence": "For some time now, this Conference has not been able to function as intended.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011766438838094473,
+          "perplexity": 101,
+          "sentence": "In fact, this Conference is failing in relation to its very objectives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008806965197436512,
+          "perplexity": 76,
+          "sentence": "And this failure is happening as global trust is falling apart, and because of this.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012167830718681216,
+          "perplexity": 119,
+          "sentence": "Geopolitical divides, relentless arms competition, and the erosion of frameworks have created a total deadlock.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013041588244959712,
+          "perplexity": 33,
+          "sentence": "We're witnessing the proliferation of illicit small arms and light weapons, and the use of explosive devices in populated areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009015772957354784,
+          "perplexity": 61,
+          "sentence": "Militaries are developing terrifying new applications of new and emerging technologies -- including artificial intelligence and autonomous weapons systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008789908024482429,
+          "perplexity": 46,
+          "sentence": "An arms race in outer space has moved from speculation to real possibility -- a prospect with potentially catastrophic consequences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000976879266090691,
+          "perplexity": 54,
+          "sentence": "And the nuclear shadow that loomed over humanity last century has returned with a vengeance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000970561639405787,
+          "perplexity": 476,
+          "sentence": "The nuclear risk is",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the Conference on Disarmament in Geneva on 26 February: This Conference and the bodies that preceded it took shape at a time of maximum global division -- the cold war. A moment in human history when, for the first time, we faced the possibility of total annihilation. From the start, this Conference and its predecessors were supposed to be the antidote to the poison of division and diplomatic paralysis that blocked meaningful disarmament. For many years, these bodies played an essential role in drafting the agreements that form the backbone of the global disarmament agenda: The Treaty on the Non-Proliferation of Nuclear Weapons; The Conventions on Biological and Chemical Weapons; and the Comprehensive Nuclear-Test-Ban Treaty. These victories for peace were hard-fought and hard-won. But they were not miracles. They happened because countries recognized that the key to disarmament could be found in cooperation for mutual benefit -- not competition for mutual destruction. But we need to face facts. For some time now, this Conference has not been able to function as intended. In fact, this Conference is failing in relation to its very objectives. And this failure is happening as global trust is falling apart, and because of this. Geopolitical divides, relentless arms competition, and the erosion of frameworks have created a total deadlock. We\u2019re witnessing the proliferation of illicit small arms and light weapons, and the use of explosive devices in populated areas. Militaries are developing terrifying new applications of new and emerging technologies -- including artificial intelligence and autonomous weapons systems. An arms race in outer space has moved from speculation to real possibility -- a prospect with potentially catastrophic consequences. And the nuclear shadow that loomed over humanity last century has returned with a vengeance. The nuclear risk is",
+  "date": "27 February 2024"
+}

@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2a7a6692-56cd-40e8-b84f-36b17b8a88a8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 93.64126586914062,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003548716485965997,
+          "perplexity": 25,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) is continuing to provide socio-economic support to rural people within the framework of the CACILM-2 project (Integrated Natural Resources Management in Drought-prone and Salt-affected Agricultural Production Landscapes in Central Asia and Turkey) which is funded by the Global Environment Facility (GEF).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036231952253729105,
+          "perplexity": 26,
+          "sentence": "In Uzbekistan, the project is being implemented with cooperation and strong support from the Ministry of Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003007765917573124,
+          "perplexity": 111,
+          "sentence": "FAO Representation in Uzbekistan has sent modern agricultural equipment to Bukhara province, including ten pit drills, ten knapsack sprayers and ten water pumps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003178553015459329,
+          "perplexity": 43,
+          "sentence": "\u201cOne of the project's important tasks is assisting the development of rural households for more efficient use of land, and to provide higher incomes for rural people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029672079836018384,
+          "perplexity": 85,
+          "sentence": "For this purpose, new equipment was donated to smallholders in Bukhara province.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003058710426557809,
+          "perplexity": 372,
+          "sentence": "The beneficiaries were selected on the recommendation of the local khokimiyat (administration of the district)\u201d, said national project manager Mukhammadjon Kosimov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003400799469090998,
+          "perplexity": 138,
+          "sentence": "Pit drills are designed for drilling holes in the ground, and greatly facilitate work on personal plots.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031384374597109854,
+          "perplexity": 24,
+          "sentence": "This new equipment will make it possible to mechanize the process of planting seedlings, saving time and resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035776104778051376,
+          "perplexity": 78,
+          "sentence": "Knapsack sprayers will be used primarily for the chemical treatment of plants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000374342140275985,
+          "perplexity": 22,
+          "sentence": "Due to their portability and lightness, they are easy to use and make it easier to control the pests and diseases that affect plants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034800858702510595,
+          "perplexity": 188,
+          "sentence": "The use of water pumps will contribute to guaranteeing a water supply for personal plots.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035314407432451844,
+          "perplexity": 118,
+          "sentence": "Soon, within the framework of the project, more similar agricultural equipment will be delivered and donated to smallholders in the Kamashi district of Kashkadarya province.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006297280197031796,
+          "perplexity": 63,
+          "sentence": "The overall objective of CACILM-2 is to scale up integrated natural resources management (INRM) in drought-prone and salt-affected agricultural production landscapes in the Central Asian countries and Turkey.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007601304678246379,
+          "perplexity": 52,
+          "sentence": "In Uzbekistan, this project is being jointly implemented with the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations (FAO) is continuing to provide socio-economic support to rural people within the framework of the CACILM-2 project (Integrated Natural Resources Management in Drought-prone and Salt-affected Agricultural Production Landscapes in Central Asia and Turkey) which is funded by the Global Environment Facility (GEF). In Uzbekistan, the project is being implemented with cooperation and strong support from the Ministry of Agriculture. FAO Representation in Uzbekistan has sent modern agricultural equipment to Bukhara province, including ten pit drills, ten knapsack sprayers and ten water pumps. \u201cOne of the project\u2019s important tasks is assisting the development of rural households for more efficient use of land, and to provide higher incomes for rural people. For this purpose, new equipment was donated to smallholders in Bukhara province. The beneficiaries were selected on the recommendation of the local khokimiyat (administration of the district)\u201d, said national project manager Mukhammadjon Kosimov. Pit drills are designed for drilling holes in the ground, and greatly facilitate work on personal plots. This new equipment will make it possible to mechanize the process of planting seedlings, saving time and resources. Knapsack sprayers will be used primarily for the chemical treatment of plants. Due to their portability and lightness, they are easy to use and make it easier to control the pests and diseases that affect plants. The use of water pumps will contribute to guaranteeing a water supply for personal plots. Soon, within the framework of the project, more similar agricultural equipment will be delivered and donated to smallholders in the Kamashi district of Kashkadarya province. The overall objective of CACILM-2 is to scale up integrated natural resources management (INRM) in drought-prone and salt-affected agricultural production landscapes in the Central Asian countries and Turkey. In Uzbekistan, this project is being jointly implemented with the",
+  "date": "28 September 2021"
+}

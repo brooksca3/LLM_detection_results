@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8ba27642-334c-46c8-8119-ef71eeb85037",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03612208705391867,
+        "human": 0.9632556547711646,
+        "mixed": 0.000622258174916773
+      },
+      "completely_generated_prob": 0.03612208705391867,
+      "confidence_category": "high",
+      "confidence_score": 0.9632556547711646,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03612208705391867,
+          "human": 0.9632556547711646,
+          "mixed": 0.000622258174916773
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.89310836791992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.020753320306539536,
+          "perplexity": 31,
+          "sentence": "The UN Special Representative of the Secretary-General for Children and Armed Conflict (SRSG CAAC), Ms. Virginia Gamba, conducted her first visit to Iraq from 7 to 11 January 2024 to commend the progress made by the Iraqi Government on the protection of conflict-affected children and to engage with the Government on areas in which the United Nations may offer further support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023534126579761505,
+          "perplexity": 62,
+          "sentence": "SRSG Gamba welcomed the signing of the action plan by the Government in March 2023 to prevent the recruitment and use of children by the Popular Mobilization Forces (PMF) and significant progress achieved in its implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025802478194236755,
+          "perplexity": 30,
+          "sentence": "She commended the steps taken to prevent the recruitment and use of children by the PMF, including awareness-raising campaigns, measures to strengthen age assessment, and to promptly investigate any allegations of recruitment and use of children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024853738024830818,
+          "perplexity": 181,
+          "sentence": "She also welcomed the absence of verified cases of recruitment and use of children by PMF since 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024190641939640045,
+          "perplexity": 68,
+          "sentence": "\u201cThe adoption and implementation of the action plan are strong expressions of the Iraqi Government's commitment to enhance the protection of children,\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019457552582025528,
+          "perplexity": 113,
+          "sentence": "During her visit, SRSG Gamba met with the President, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01740216836333275,
+          "perplexity": 26,
+          "sentence": "Mr. Abdul Latif Rashid, the Minister of Justice, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017164234071969986,
+          "perplexity": 77,
+          "sentence": "Khaled Salam Saeed Shwani, the Minister of Interior, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01720571145415306,
+          "perplexity": 19,
+          "sentence": "Abdul Amir Al-Shammari, the Minister of Labor and Social Affairs, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014863300137221813,
+          "perplexity": 64,
+          "sentence": "Mr. Ahmad Al-Asadi, the Secretary-General of the PMF, Lt General Tahseen Abd Muttar, the interministerial National Committee for the Monitoring and Reporting Mechanism and other relevant Government representatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021623289212584496,
+          "perplexity": 57,
+          "sentence": "She encouraged the Government to build on the significant progress made to further institutionalize child protection by developing preventative frameworks, including by adopting of the draft child law, prioritizing demining and explosive risk education, ensuring legal documentation for all children in Iraq, including foreign children, strengthening long-term, community-based reintegration, and addressing the challenges faced by children detained for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Special Representative of the Secretary-General for Children and Armed Conflict (SRSG CAAC), Ms. Virginia Gamba, conducted her first visit to Iraq from 7 to 11 January 2024 to commend the progress made by the Iraqi Government on the protection of conflict-affected children and to engage with the Government on areas in which the United Nations may offer further support. SRSG Gamba welcomed the signing of the action plan by the Government in March 2023 to prevent the recruitment and use of children by the Popular Mobilization Forces (PMF) and significant progress achieved in its implementation. She commended the steps taken to prevent the recruitment and use of children by the PMF, including awareness-raising campaigns, measures to strengthen age assessment, and to promptly investigate any allegations of recruitment and use of children. She also welcomed the absence of verified cases of recruitment and use of children by PMF since 2021. \u201cThe adoption and implementation of the action plan are strong expressions of the Iraqi Government\u2019s commitment to enhance the protection of children,\u201d she said. During her visit, SRSG Gamba met with the President, H.E. Mr. Abdul Latif Rashid, the Minister of Justice, H.E. Khaled Salam Saeed Shwani, the Minister of Interior, H.E. Abdul Amir Al-Shammari, the Minister of Labor and Social Affairs, H.E. Mr. Ahmad Al-Asadi, the Secretary-General of the PMF, Lt General Tahseen Abd Muttar, the interministerial National Committee for the Monitoring and Reporting Mechanism and other relevant Government representatives. She encouraged the Government to build on the significant progress made to further institutionalize child protection by developing preventative frameworks, including by adopting of the draft child law, prioritizing demining and explosive risk education, ensuring legal documentation for all children in Iraq, including foreign children, strengthening long-term, community-based reintegration, and addressing the challenges faced by children detained for",
+  "date": "14 January 2024"
+}

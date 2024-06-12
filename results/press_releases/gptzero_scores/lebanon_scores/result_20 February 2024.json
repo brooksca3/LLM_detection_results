@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1da6f0ac-a314-4200-bfca-0792394622bb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.6813907623291,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009767480660229921,
+          "perplexity": 37,
+          "sentence": "The event took place in the presence of the United Nations Deputy Special Coordinator, Resident and Humanitarian Coordinator for Lebanon, Imran Riza; Head of the Italian Agency for Development Cooperation in Beirut, Alessandra Piermattei, in addition to representatives from embassies, ministries, unions of municipalities and municipalities, civil society organisations and UN agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001128392294049263,
+          "perplexity": 88,
+          "sentence": "The \"Improving planning capacities for social and economic local development\u201d project worked with unions of municipalities to strengthen their planning capacities in socioeconomic development while fostering collaboration between social development centres affiliated to the Ministry of Social Affairs, local authorities, and civil society organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011730364058166742,
+          "perplexity": 50,
+          "sentence": "At the start of the project, 60 unions of municipalities were contacted to participate, of which 38 expressed interest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000960984849371016,
+          "perplexity": 51,
+          "sentence": "\u201cWe believe in the importance of cooperation and networking at the local level between local administrations, represented by municipalities, social development centres, and civil society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00068720179842785,
+          "perplexity": 84,
+          "sentence": "Therefore, you will find us working to improve the ministry's centres and provide them with services and human and practical capabilities to be the spearhead in directing the development process and implementing it professionally, and providing a package of services that eases the burden on citizen\u201d said H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008190610678866506,
+          "perplexity": 39,
+          "sentence": "Dr. Hector Al-Hajjar, Lebanese Minister of Social Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007303390884771943,
+          "perplexity": 74,
+          "sentence": "Of the 38, 10 unions of municipalities were selected based on various criteria to work with UN-Habitat and the Ministry of Social Affairs in identifying their evolving multisectoral territorial needs and priorities, to develop recommendations that could shape the preparation of socioeconomic action plans for their respective areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005647652433253825,
+          "perplexity": 63,
+          "sentence": "\u201cThe collaboration between the Unions of Municipalities and the Social Development Centres of the Ministry of Social Affairs with the active involvement of the local stakeholders in the process of analyzing the resources and the challenges of the territory to develop the 10 Road maps was challenging but useful towards optimization of resources and reduction of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event took place in the presence of the United Nations Deputy Special Coordinator, Resident and Humanitarian Coordinator for Lebanon, Imran Riza; Head of the Italian Agency for Development Cooperation in Beirut, Alessandra Piermattei, in addition to representatives from embassies, ministries, unions of municipalities and municipalities, civil society organisations and UN agencies. The \"Improving planning capacities for social and economic local development\u201d project worked with unions of municipalities to strengthen their planning capacities in socioeconomic development while fostering collaboration between social development centres affiliated to the Ministry of Social Affairs, local authorities, and civil society organizations. At the start of the project, 60 unions of municipalities were contacted to participate, of which 38 expressed interest. \u201cWe believe in the importance of cooperation and networking at the local level between local administrations, represented by municipalities, social development centres, and civil society. Therefore, you will find us working to improve the ministry\u2019s centres and provide them with services and human and practical capabilities to be the spearhead in directing the development process and implementing it professionally, and providing a package of services that eases the burden on citizen\u201d said H.E. Dr. Hector Al-Hajjar, Lebanese Minister of Social Affairs. Of the 38, 10 unions of municipalities were selected based on various criteria to work with UN-Habitat and the Ministry of Social Affairs in identifying their evolving multisectoral territorial needs and priorities, to develop recommendations that could shape the preparation of socioeconomic action plans for their respective areas. \u201cThe collaboration between the Unions of Municipalities and the Social Development Centres of the Ministry of Social Affairs with the active involvement of the local stakeholders in the process of analyzing the resources and the challenges of the territory to develop the 10 Road maps was challenging but useful towards optimization of resources and reduction of",
+  "date": "20 February 2024"
+}

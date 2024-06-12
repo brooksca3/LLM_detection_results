@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3e77a969-0846-4ce9-9285-de055d96d751",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.43241024017334,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002157561480998993,
+          "perplexity": 22,
+          "sentence": "The first meeting of the Regional Expert Council on Rehabilitation and Reintegration of Returnees from Conflict Zones in Central Asia will be held on 14 May in Tashkent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021581549663096666,
+          "perplexity": 26,
+          "sentence": "The Regional Expert Council was established at the initiative of the President of the Republic of Uzbekistan, Mr. Shavkat Mirziyoyev in March 2022 in Tashkent at the High-Level International Conference on \u201cRegional cooperation among Central Asian countries within the framework of the Joint Action Plan for the Implementation of the United Nations Global Counter-Terrorism Strategy\u201d and received support from international partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023814940359443426,
+          "perplexity": 9,
+          "sentence": "The event is organized by the Institute for Strategic and Interregional Studies under the President of the Republic of Uzbekistan (ISRS), the State Security Service of the Republic of Uzbekistan, the Ministry of Foreign Affairs of the Republic of Uzbekistan, the Committee on Family and Women under the Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan, as well as the United Nations Office of Counter-Terrorism (UNOCT), the UN Regional Centre for Preventive Diplomacy for Central Asia (UNRCCA), and the Office of the Project Coordinator of the Organization for Security and Cooperation in Europe (OSCE) in Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005765790585428476,
+          "perplexity": 15,
+          "sentence": "The first meeting of the Regional Expert Council in Tashkent will be attended by high-level representatives of Central Asian states, international organizations such as the United Nations and OSCE, as well as experts in the field of rehabilitation and reintegration of returnees from conflict zones, including on issues related to accountability of individuals suspected of committing criminal acts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006142722442746162,
+          "perplexity": 39,
+          "sentence": "The opening ceremony will feature remarks by the Under-Secretary-General of UNOCT, Vladimir Voronkov, the Special Representative of the Secretary-General for Central Asia and Head of UNRCCA, Kaha Imnadze, the Deputy Executive Director of the United Nations Counter-Terrorism Committee Executive Directorate, Weixun Chen, the OSCE Co-ordinator of Activities to Address Transnational Threats, Alena Kupchyna, as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The first meeting of the Regional Expert Council on Rehabilitation and Reintegration of Returnees from Conflict Zones in Central Asia will be held on 14 May in Tashkent. The Regional Expert Council was established at the initiative of the President of the Republic of Uzbekistan, Mr. Shavkat Mirziyoyev in March 2022 in Tashkent at the High-Level International Conference on \u201cRegional cooperation among Central Asian countries within the framework of the Joint Action Plan for the Implementation of the United Nations Global Counter-Terrorism Strategy\u201d and received support from international partners. The event is organized by the Institute for Strategic and Interregional Studies under the President of the Republic of Uzbekistan (ISRS), the State Security Service of the Republic of Uzbekistan, the Ministry of Foreign Affairs of the Republic of Uzbekistan, the Committee on Family and Women under the Ministry of Employment and Poverty Reduction of the Republic of Uzbekistan, as well as the United Nations Office of Counter-Terrorism (UNOCT), the UN Regional Centre for Preventive Diplomacy for Central Asia (UNRCCA), and the Office of the Project Coordinator of the Organization for Security and Cooperation in Europe (OSCE) in Uzbekistan. The first meeting of the Regional Expert Council in Tashkent will be attended by high-level representatives of Central Asian states, international organizations such as the United Nations and OSCE, as well as experts in the field of rehabilitation and reintegration of returnees from conflict zones, including on issues related to accountability of individuals suspected of committing criminal acts. The opening ceremony will feature remarks by the Under-Secretary-General of UNOCT, Vladimir Voronkov, the Special Representative of the Secretary-General for Central Asia and Head of UNRCCA, Kaha Imnadze, the Deputy Executive Director of the United Nations Counter-Terrorism Committee Executive Directorate, Weixun Chen, the OSCE Co-ordinator of Activities to Address Transnational Threats, Alena Kupchyna, as",
+  "date": "09 May 2024"
+}

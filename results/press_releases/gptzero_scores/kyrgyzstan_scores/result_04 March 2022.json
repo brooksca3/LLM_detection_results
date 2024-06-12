@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f8626179-dfcd-4c33-8d8f-dbfd2e8531eb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013028282600050189,
+        "human": 0.9860006652806914,
+        "mixed": 0.0009710521192583992
+      },
+      "completely_generated_prob": 0.013028282600050189,
+      "confidence_category": "high",
+      "confidence_score": 0.9860006652806914,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013028282600050189,
+          "human": 0.9860006652806914,
+          "mixed": 0.0009710521192583992
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.403608322143555,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.006967875175178051,
+          "perplexity": 20,
+          "sentence": "This agreement is one of the main steps towards the implementation of the project, for which the Green Climate Fund (GCF) allocates grant funds in the amount of 30 million USD to Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001705444767139852,
+          "perplexity": 28,
+          "sentence": "The signing ceremony of the agreement between the Ministry of Agriculture on behalf of the Cabinet of Ministers of the Kyrgyz Republic and the Food and Agriculture Organization of the United Nations (FAO) on the Green Climate Fund project \"Carbon Sequestration through climate investments of forests and pastures in the Kyrgyz Republic (CS-FOR)\" was held on 4 March 2022; the project itself was approved at the meeting of the Board of the GCF on November 14, 2019 in Songdo, South Korea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036824101116508245,
+          "perplexity": 29,
+          "sentence": "This agreement is one of the main steps towards the implementation of the project, for which the GCF allocates grant funds in the amount of 30 million US dollars to Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001982893329113722,
+          "perplexity": 49,
+          "sentence": "The project itself will be aimed at maintaining the diversification of rural income sources, taking into account climate-oriented approaches in agriculture and forestry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007662380230613053,
+          "perplexity": 29,
+          "sentence": "\"Taking into account the growing political attention to forests and the adopted Declaration of the Glasgow Leaders on Forest and Land Use at the 26th Conference of the Parties to the UN Framework Convention on Climate Change and the initiative of the President of the Kyrgyz Republic S.N.Zhaparov on the conservation and development of mountain forest ecosystems, I hope that this project will make a considerable contribution to the implementation of the National Development Program of the Kyrgyz Republic until 2026,\" said Dzhanybekov Askarbek, Minister of Agriculture of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004827546654269099,
+          "perplexity": 73,
+          "sentence": "The FAO Sub-regional Coordinator for Central Asia and FAO Representative a.i.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000569708296097815,
+          "perplexity": 48,
+          "sentence": "in the Kyrgyz Republic, Viorel Gutu, in turn, thanked the Ministry and all partners for the fruitful cooperation and the results that have been achieved so far.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006985555519349873,
+          "perplexity": 66,
+          "sentence": "\"There are still",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This agreement is one of the main steps towards the implementation of the project, for which the Green Climate Fund (GCF) allocates grant funds in the amount of 30 million USD to Kyrgyzstan. The signing ceremony of the agreement between the Ministry of Agriculture on behalf of the Cabinet of Ministers of the Kyrgyz Republic and the Food and Agriculture Organization of the United Nations (FAO) on the Green Climate Fund project \"Carbon Sequestration through climate investments of forests and pastures in the Kyrgyz Republic (CS-FOR)\" was held on 4 March 2022; the project itself was approved at the meeting of the Board of the GCF on November 14, 2019 in Songdo, South Korea. This agreement is one of the main steps towards the implementation of the project, for which the GCF allocates grant funds in the amount of 30 million US dollars to Kyrgyzstan. The project itself will be aimed at maintaining the diversification of rural income sources, taking into account climate-oriented approaches in agriculture and forestry. \"Taking into account the growing political attention to forests and the adopted Declaration of the Glasgow Leaders on Forest and Land Use at the 26th Conference of the Parties to the UN Framework Convention on Climate Change and the initiative of the President of the Kyrgyz Republic S.N.Zhaparov on the conservation and development of mountain forest ecosystems, I hope that this project will make a considerable contribution to the implementation of the National Development Program of the Kyrgyz Republic until 2026,\" said Dzhanybekov Askarbek, Minister of Agriculture of the Kyrgyz Republic. The FAO Sub-regional Coordinator for Central Asia and FAO Representative a.i. in the Kyrgyz Republic, Viorel Gutu, in turn, thanked the Ministry and all partners for the fruitful cooperation and the results that have been achieved so far. \"There are still",
+  "date": "04 March 2022"
+}

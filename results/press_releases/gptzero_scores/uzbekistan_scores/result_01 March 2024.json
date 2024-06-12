@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f37c5ea0-de4a-4c19-9144-c1d603273fa8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 161.19110107421875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000595357152633369,
+          "perplexity": 21,
+          "sentence": "The Europe and Central Asia region has a wide variety of topography and climates and is vulnerable to climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003914229746442288,
+          "perplexity": 16,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) has been partnering with the Global Environment Facility (GEF) for over two decades to support countries in sustainably managing natural resources and preserving biodiversity in a changing climate and to ensure food security and nutrition while reversing environmental degradation and its impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032235472463071346,
+          "perplexity": 36,
+          "sentence": "A milestone in this cooperation was reached on the margins of the Fourteenth meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (CMS COP14), held in Samarkand, Uzbekistan when high-level representatives from both organizations agreed on continued strong collaboration between FAO and GEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002949368499685079,
+          "perplexity": 33,
+          "sentence": "Within the framework of the Sixty-sixth meeting of the GEF Council that took place in Washington D. C. (USA) in early February this year, USD 26 million was allocated to finance five projects of the Regional Programme \u201cInterconnection of Water and Land Resources of Central Asia (CAWLN) for Ecosystem Restoration, Improved Management of Natural Resources, and Increased Sustainability.\u201d Four of these five projects, valued at USD 18.6 million, will be implemented in Uzbekistan with FAO assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026915513444691896,
+          "perplexity": 43,
+          "sentence": "\u201cThe funds pledged by GEF to these environmental projects in Central Asia will enable FAO, in cooperation with the Government of Uzbekistan, to do significant work to increase local resiliency and food security, conserve and protect ecosystems and biodiversity, and strengthen sustainable agri-food systems,\u201d said Viorel Gutu, Assistant FAO Director-General and Regional Representative for Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002687971282284707,
+          "perplexity": 46,
+          "sentence": "\u201cIn natural-resource dependent rural communities, these projects will have a positive impact on the environment that supports the livelihoods of these rural peoples for many years to come,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025422548060305417,
+          "perplexity": 458,
+          "sentence": "The joint efforts will target land restoration in vulnerable ecosystems of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Europe and Central Asia region has a wide variety of topography and climates and is vulnerable to climate change. The Food and Agriculture Organization of the United Nations (FAO) has been partnering with the Global Environment Facility (GEF) for over two decades to support countries in sustainably managing natural resources and preserving biodiversity in a changing climate and to ensure food security and nutrition while reversing environmental degradation and its impacts. A milestone in this cooperation was reached on the margins of the Fourteenth meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (CMS COP14), held in Samarkand, Uzbekistan when high-level representatives from both organizations agreed on continued strong collaboration between FAO and GEF. Within the framework of the Sixty-sixth meeting of the GEF Council that took place in Washington D. C. (USA) in early February this year, USD 26 million was allocated to finance five projects of the Regional Programme \u201cInterconnection of Water and Land Resources of Central Asia (CAWLN) for Ecosystem Restoration, Improved Management of Natural Resources, and Increased Sustainability.\u201d Four of these five projects, valued at USD 18.6 million, will be implemented in Uzbekistan with FAO assistance. \u201cThe funds pledged by GEF to these environmental projects in Central Asia will enable FAO, in cooperation with the Government of Uzbekistan, to do significant work to increase local resiliency and food security, conserve and protect ecosystems and biodiversity, and strengthen sustainable agri-food systems,\u201d said Viorel Gutu, Assistant FAO Director-General and Regional Representative for Europe and Central Asia. \u201cIn natural-resource dependent rural communities, these projects will have a positive impact on the environment that supports the livelihoods of these rural peoples for many years to come,\u201d he added. The joint efforts will target land restoration in vulnerable ecosystems of",
+  "date": "01 March 2024"
+}

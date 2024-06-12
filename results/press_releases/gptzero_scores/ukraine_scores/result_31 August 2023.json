@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9bf1bea3-40ff-4faa-a332-5c9897db5b76",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.6108512878418,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004795831046067178,
+          "perplexity": 35,
+          "sentence": "A new FAO emergency and resilience project funded by Luxembourg will provide cash and voucher assistance to 1 500 war-affected families engaged in livestock production 31 August 2023, Kyiv - The Food and Agriculture Organization of the United Nations (FAO) has launched a EUR 1 million project, funded by Luxembourg, to protect livelihoods and improve food security in accessible war-affected areas of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005837136995978653,
+          "perplexity": 53,
+          "sentence": "This is the first contribution from Luxembourg to FAO activities in Ukraine and the first to FAO's emergency and resilience work in general in over a decade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006956997094675899,
+          "perplexity": 72,
+          "sentence": "The project is aligned with the Organization's 2023 Response Programme in Ukraine, which aims to address immediate humanitarian needs and restore critical agrifood systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000557263323571533,
+          "perplexity": 78,
+          "sentence": "\u201cAccording to FAO's findings, rural households engaged in livestock production experience losses of animals and commercial relations along with war-associated damages to their property and infrastructure, making it difficult for them to remain productive and generate income,\u201d explains Pierre Vauthier, Head of the FAO Office in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005617370479740202,
+          "perplexity": 46,
+          "sentence": "\u201cRural households struggle to provide adequate shelter to their livestock and to secure quality animal feed.\u201d Considering that the situation will remain fluid, particularly in the eastern and southern regions, FAO has designed a set of interventions in collaboration with the Government of Ukraine, local authorities, and the State Service of Ukraine on Food Safety and Consumer Protection, aiming to safeguard livestock production and rural livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003900079755112529,
+          "perplexity": 46,
+          "sentence": "The new Luxembourg-funded project will support up to 1 500 livestock family farmers in Dnipropetrovska, Donetska, Kharkivska and Zaporizka oblasts in improving animal shelter conditions and maintaining or increasing livestock productivity over a period of 12 months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005037961527705193,
+          "perplexity": 31,
+          "sentence": "The interventions will focus on the most vulnerable families recovering from the impacts of the war that may require urgent support, including households headed by women, older persons, and people with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044505379628390074,
+          "perplexity": 175,
+          "sentence": "\u201cSafeguarding small-scale livestock production",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new FAO emergency and resilience project funded by Luxembourg will provide cash and voucher assistance to 1 500 war-affected families engaged in livestock production 31 August 2023, Kyiv \u2013 The Food and Agriculture Organization of the United Nations (FAO) has launched a EUR 1 million project, funded by Luxembourg, to protect livelihoods and improve food security in accessible war-affected areas of Ukraine. This is the first contribution from Luxembourg to FAO activities in Ukraine and the first to FAO\u2019s emergency and resilience work in general in over a decade. The project is aligned with the Organization\u2019s 2023 Response Programme in Ukraine, which aims to address immediate humanitarian needs and restore critical agrifood systems. \u201cAccording to FAO\u2019s findings, rural households engaged in livestock production experience losses of animals and commercial relations along with war-associated damages to their property and infrastructure, making it difficult for them to remain productive and generate income,\u201d explains Pierre Vauthier, Head of the FAO Office in Ukraine. \u201cRural households struggle to provide adequate shelter to their livestock and to secure quality animal feed.\u201d Considering that the situation will remain fluid, particularly in the eastern and southern regions, FAO has designed a set of interventions in collaboration with the Government of Ukraine, local authorities, and the State Service of Ukraine on Food Safety and Consumer Protection, aiming to safeguard livestock production and rural livelihoods. The new Luxembourg-funded project will support up to 1 500 livestock family farmers in Dnipropetrovska, Donetska, Kharkivska and Zaporizka oblasts in improving animal shelter conditions and maintaining or increasing livestock productivity over a period of 12 months. The interventions will focus on the most vulnerable families recovering from the impacts of the war that may require urgent support, including households headed by women, older persons, and people with disabilities. \u201cSafeguarding small-scale livestock production",
+  "date": "31 August 2023"
+}

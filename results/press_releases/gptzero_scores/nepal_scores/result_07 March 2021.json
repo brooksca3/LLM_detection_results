@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3c47193b-f5e2-4fad-a0cb-f271809456bd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.446735382080078,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005261105834506452,
+          "perplexity": 52,
+          "sentence": "Today, Nepal received its first consignment of COVID-19 vaccine doses shipped through the COVAX Facility, a partnership between CEPI, Gavi, UNICEF and WHO, made possible through generous donor support from governments, international organizations, foundations and the private sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006005844916217029,
+          "perplexity": 69,
+          "sentence": "The delivery of COVAX-procured vaccines to Nepal is part of a historic step towards ensuring equitable distribution of COVID-19 vaccines globally, in what will be the largest vaccine procurement and supply operation in history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006074159173294902,
+          "perplexity": 99,
+          "sentence": "The goal of the COVAX Facility is to supply Nepal with enough doses to vaccinate 20% of the population depending on funding availability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004832052218262106,
+          "perplexity": 41,
+          "sentence": "Under the first COVAX allocation, the COVAX Facility will deliver 1.92 million vaccine doses to Nepal by the end of May 2021, in support of the Government of Nepal's nation-wide vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043259825906716287,
+          "perplexity": 52,
+          "sentence": "Today, the first COVAX shipment of 348,000 doses of AstraZeneca 'Covishield' vaccines manufactured by the Serum Institute of India (SII), together with 350,000 syringes and 3500 vaccine safety boxes arrived in Kathmandu before being distributed to provinces and municipalities across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004549924924504012,
+          "perplexity": 64,
+          "sentence": "COVAX-supported vaccines provide a critical contribution to the Government of Nepal's National Deployment and Vaccination Plan (NDVP) target to vaccinate roughly 22 million people, among them refugees, migrant returnees and other migrant populations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045440642861649394,
+          "perplexity": 35,
+          "sentence": "With the generous contribution of the Government of India, Nepal was able to commence the vaccination campaign and to date, 429,705 people have been vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004917631740681827,
+          "perplexity": 18,
+          "sentence": "The COVAX Facility is generously funded by partner governments, including the Governments of Australia, Finland, France, Germany, Japan, Korea, Norway, Qatar, Saudi Arabia, Switzerland, the United Kingdom, the United States and the European Union as well as foundations and corporations The arrival of the COVAX supplied vaccines will boost Nepal's vaccination efforts as it coincides with the launch of the second phase of the vaccination campaign which targets those who are most vulnerable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, Nepal received its first consignment of COVID-19 vaccine doses shipped through the COVAX Facility, a partnership between CEPI, Gavi, UNICEF and WHO, made possible through generous donor support from governments, international organizations, foundations and the private sector. The delivery of COVAX-procured vaccines to Nepal is part of a historic step towards ensuring equitable distribution of COVID-19 vaccines globally, in what will be the largest vaccine procurement and supply operation in history. The goal of the COVAX Facility is to supply Nepal with enough doses to vaccinate 20% of the population depending on funding availability. Under the first COVAX allocation, the COVAX Facility will deliver 1.92 million vaccine doses to Nepal by the end of May 2021, in support of the Government of Nepal\u2019s nation-wide vaccination campaign. Today, the first COVAX shipment of 348,000 doses of AstraZeneca \u2018Covishield\u2019 vaccines manufactured by the Serum Institute of India (SII), together with 350,000 syringes and 3500 vaccine safety boxes arrived in Kathmandu before being distributed to provinces and municipalities across the country. COVAX-supported vaccines provide a critical contribution to the Government of Nepal\u2019s National Deployment and Vaccination Plan (NDVP) target to vaccinate roughly 22 million people, among them refugees, migrant returnees and other migrant populations. With the generous contribution of the Government of India, Nepal was able to commence the vaccination campaign and to date, 429,705 people have been vaccinated. The COVAX Facility is generously funded by partner governments, including the Governments of Australia, Finland, France, Germany, Japan, Korea, Norway, Qatar, Saudi Arabia, Switzerland, the United Kingdom, the United States and the European Union as well as foundations and corporations The arrival of the COVAX supplied vaccines will boost Nepal\u2019s vaccination efforts as it coincides with the launch of the second phase of the vaccination campaign which targets those who are most vulnerable",
+  "date": "07 March 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bc602f3f-b474-41e3-b49c-d448f521565a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013686815369632534,
+        "human": 0.9981461872250941,
+        "mixed": 0.00048513123794269856
+      },
+      "completely_generated_prob": 0.0013686815369632534,
+      "confidence_category": "high",
+      "confidence_score": 0.9981461872250941,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013686815369632534,
+          "human": 0.9981461872250941,
+          "mixed": 0.00048513123794269856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.92254638671875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011713337880792096,
+          "perplexity": 14,
+          "sentence": "KIGALI - The United Nations World Food Programme (WFP) today welcomed a US$5.5 million contribution from the United States of America to provide life-saving food and nutrition assistance to over 138,000 Burundian and Congolese refugees and asylum seekers in Rwanda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012682564556598663,
+          "perplexity": 14,
+          "sentence": "KIGALI - The United Nations World Food Programme (WFP) today welcomed a US$5.5 million contribution from the United States of America to provide life-saving food and nutrition assistance to over 138,000 Burundian and Congolese refugees and asylum seekers in Rwanda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001031932988553308,
+          "perplexity": 93,
+          "sentence": "This is in addition to US$3.5 million received in November 2019 at a critical time that allowed WFP to ensure continued assistance to all refugees in the country and avoid ration reductions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010364053014200181,
+          "perplexity": 94,
+          "sentence": "\u201cWe're extremely grateful for the USA's long-standing support to help disadvantaged women, children and men who have found refuge in Rwanda,\u201d said Edith Heines, WFP Rwanda Representative and Country Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010536384070292115,
+          "perplexity": 113,
+          "sentence": "\u201cThis generous contribution will enable WFP to continue its programmes supporting food and nutrition security for refugees, which also benefits host Rwandan communities by stimulating local markets and creating jobs.\u201d Camp-based refugees in Rwanda have limited livelihood opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.968021186068654e-05,
+          "perplexity": 19,
+          "sentence": "According to a recent joint assessment mission conducted by the Rwandan Ministry of Emergency Management, the UN refugee agency and WFP, more than 80 percent of refugees' income is derived from food and cash assistance, because of the limited income-generating opportunities available.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010096901678480208,
+          "perplexity": 76,
+          "sentence": "The majority of WFP food assistance to refugees in Rwanda is provided through cash-based transfers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010414716234663501,
+          "perplexity": 102,
+          "sentence": "This enables refugees to purchase the food of their choice at markets within or around camps and helps improve their dietary diversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010109310824191198,
+          "perplexity": 27,
+          "sentence": "A study by researchers from WFP and the University of California, Davis in 2016 provided evidence that assistance for refugees has a positive effect on the local economy where they live - an effect that is magnified significantly when the refugees'",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "KIGALI \u2013 The United Nations World Food Programme (WFP) today welcomed a US$5.5 million contribution from the United States of America to provide life-saving food and nutrition assistance to over 138,000 Burundian and Congolese refugees and asylum seekers in Rwanda. KIGALI \u2013 The United Nations World Food Programme (WFP) today welcomed a US$5.5 million contribution from the United States of America to provide life-saving food and nutrition assistance to over 138,000 Burundian and Congolese refugees and asylum seekers in Rwanda. This is in addition to US$3.5 million received in November 2019 at a critical time that allowed WFP to ensure continued assistance to all refugees in the country and avoid ration reductions. \u201cWe\u2019re extremely grateful for the USA\u2019s long-standing support to help disadvantaged women, children and men who have found refuge in Rwanda,\u201d said Edith Heines, WFP Rwanda Representative and Country Director. \u201cThis generous contribution will enable WFP to continue its programmes supporting food and nutrition security for refugees, which also benefits host Rwandan communities by stimulating local markets and creating jobs.\u201d Camp-based refugees in Rwanda have limited livelihood opportunities. According to a recent joint assessment mission conducted by the Rwandan Ministry of Emergency Management, the UN refugee agency and WFP, more than 80 percent of refugees\u2019 income is derived from food and cash assistance, because of the limited income-generating opportunities available. The majority of WFP food assistance to refugees in Rwanda is provided through cash-based transfers. This enables refugees to purchase the food of their choice at markets within or around camps and helps improve their dietary diversity. A study by researchers from WFP and the University of California, Davis in 2016 provided evidence that assistance for refugees has a positive effect on the local economy where they live \u2013 an effect that is magnified significantly when the refugees\u2019",
+  "date": "14 April 2020"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "65039808-e366-4d33-965b-fff0dfdb24a9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.57777404785156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012080344458809122,
+          "perplexity": 12,
+          "sentence": "WFP has partially resumed operations in North Darfur after more than a month's suspension following a series of attacks and looting of all three of its warehouses in El Fasher Khartoum - The United Nations World Food Programme (WFP) has partially resumed operations in North Darfur after more than a month's suspension following a series of attacks and looting of all three of its warehouses in El Fasher late December 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011726223601726815,
+          "perplexity": 43,
+          "sentence": "Nutrition programmes for malnourished children and pregnant and nursing mothers as well as school meals programmes have now resumed in the region with WFP aiming to reach 122,600 people with nutrition support and 321,000 school children with school meals this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012729538138955832,
+          "perplexity": 154,
+          "sentence": "\u201cWFP's priority is ensuring the hungriest children have food on their plates and people suffering malnutrition get the treatment they need,\u201d said Eddie Rowe, WFP Representative and Country Director in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012083696492481977,
+          "perplexity": 35,
+          "sentence": "\u201cWe hope that security conditions will allow us to continue our work and we urge all parties to continue to provide safe access for humanitarian workers and protect humanitarian assets and supplies, so that we can reach people who are in need of assistance.\u201d As we face a year of unprecedented needs globally, assurances of safe access as well as increased resourcing is vital to save lives in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010991062299581245,
+          "perplexity": 54,
+          "sentence": "WFP is gradually resuming general food assistance to around 362,000 refugees and internally displaced persons (IDPs) using cash-based transfers, however a major funding shortfall of US$285 million for the next six months (March-August 2022) is jeopardising operations and lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011805218673544005,
+          "perplexity": 45,
+          "sentence": "Limited resources have been prioritised to ensure that the needs of the most vulnerable people in Sudan are met but, even with this prioritization exercise, food stocks and cash are expected to run out starting April across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001335918641416356,
+          "perplexity": 42,
+          "sentence": "Without new funds, WFP may have no choice but to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WFP has partially resumed operations in North Darfur after more than a month\u2019s suspension following a series of attacks and looting of all three of its warehouses in El Fasher Khartoum \u2013 The United Nations World Food Programme (WFP) has partially resumed operations in North Darfur after more than a month\u2019s suspension following a series of attacks and looting of all three of its warehouses in El Fasher late December 2021. Nutrition programmes for malnourished children and pregnant and nursing mothers as well as school meals programmes have now resumed in the region with WFP aiming to reach 122,600 people with nutrition support and 321,000 school children with school meals this year. \u201cWFP\u2019s priority is ensuring the hungriest children have food on their plates and people suffering malnutrition get the treatment they need,\u201d said Eddie Rowe, WFP Representative and Country Director in Sudan. \u201cWe hope that security conditions will allow us to continue our work and we urge all parties to continue to provide safe access for humanitarian workers and protect humanitarian assets and supplies, so that we can reach people who are in need of assistance.\u201d As we face a year of unprecedented needs globally, assurances of safe access as well as increased resourcing is vital to save lives in Sudan. WFP is gradually resuming general food assistance to around 362,000 refugees and internally displaced persons (IDPs) using cash-based transfers, however a major funding shortfall of US$285 million for the next six months (March-August 2022) is jeopardising operations and lives. Limited resources have been prioritised to ensure that the needs of the most vulnerable people in Sudan are met but, even with this prioritization exercise, food stocks and cash are expected to run out starting April across the country. Without new funds, WFP may have no choice but to",
+  "date": "01 March 2022"
+}

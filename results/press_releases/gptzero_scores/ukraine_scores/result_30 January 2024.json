@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "881017d1-4cec-405e-a90f-d8eae1698767",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.47859001159668,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022162146342452615,
+          "perplexity": 67,
+          "sentence": "The United Nations and its partners provided approximately 11 million people in Ukraine with vital humanitarian assistance in 2023, informed today the Humanitarian Coordinator in the country, Denise Brown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022182102838996798,
+          "perplexity": 42,
+          "sentence": "According to Denise Brown, assistance to people in communities close to the front line was one of the priorities for the humanitarian community in 2023, including through 107 inter-agency convoys that delivered much-needed supplies to families whose lives have been devastated by the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000216266285860911,
+          "perplexity": 44,
+          "sentence": "\u201cEntire communities along the front line are being pummeled daily, leaving millions with little to no capacity to provide for themselves, and dependent on humanitarian assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021547224605455995,
+          "perplexity": 105,
+          "sentence": "I visited nearly 30 of these war-torn villages and towns last year and could see how Russia's invasion continues to cause massive destruction and decimate essential services for them,\u201d explained Ms Brown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022683219867758453,
+          "perplexity": 22,
+          "sentence": "Over the last months of 2023, the UN and its humanitarian partners stepped up efforts to provide critical supplies and services to ensure families can keep warm and safe during Ukraine's bitter winter, when temperatures can drop to as low as minus 20 degrees Celsius.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001857209426816553,
+          "perplexity": 57,
+          "sentence": "In total, nearly 1.7 million people were reached with solid fuel to ensure heating in areas without power, gas or water, as well as winter clothes, thermal blankets, and insulation of homes and centres hosting displaced people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017912870680447668,
+          "perplexity": 42,
+          "sentence": "Throughout the year, humanitarians have also provided people in Ukraine with much-needed water and hygiene supplies, materials to repair homes, health or education services, food, cash and other services that included counselling, legal aid and even demining.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021165356156416237,
+          "perplexity": 95,
+          "sentence": "\u201cHowever, for another entire year, we were prevented from helping people in areas occupied by Russia, where humanitarian needs are direst and the response extremely limited,\u201d regretted Ms Brown, adding that efforts will continue despite the repeated denial by Russian authorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000255277642281726,
+          "perplexity": 104,
+          "sentence": "The humanitarian response in Ukraine was possible thanks to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations and its partners provided approximately 11 million people in Ukraine with vital humanitarian assistance in 2023, informed today the Humanitarian Coordinator in the country, Denise Brown. According to Denise Brown, assistance to people in communities close to the front line was one of the priorities for the humanitarian community in 2023, including through 107 inter-agency convoys that delivered much-needed supplies to families whose lives have been devastated by the war. \u201cEntire communities along the front line are being pummeled daily, leaving millions with little to no capacity to provide for themselves, and dependent on humanitarian assistance. I visited nearly 30 of these war-torn villages and towns last year and could see how Russia\u2019s invasion continues to cause massive destruction and decimate essential services for them,\u201d explained Ms Brown. Over the last months of 2023, the UN and its humanitarian partners stepped up efforts to provide critical supplies and services to ensure families can keep warm and safe during Ukraine\u2019s bitter winter, when temperatures can drop to as low as minus 20 degrees Celsius. In total, nearly 1.7 million people were reached with solid fuel to ensure heating in areas without power, gas or water, as well as winter clothes, thermal blankets, and insulation of homes and centres hosting displaced people. Throughout the year, humanitarians have also provided people in Ukraine with much-needed water and hygiene supplies, materials to repair homes, health or education services, food, cash and other services that included counselling, legal aid and even demining. \u201cHowever, for another entire year, we were prevented from helping people in areas occupied by Russia, where humanitarian needs are direst and the response extremely limited,\u201d regretted Ms Brown, adding that efforts will continue despite the repeated denial by Russian authorities. The humanitarian response in Ukraine was possible thanks to",
+  "date": "30 January 2024"
+}

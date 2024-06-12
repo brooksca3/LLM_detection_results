@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0594467a-bcce-4d3d-a78e-3de39b02aaff",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.965038299560547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006749077001586556,
+          "perplexity": 77,
+          "sentence": "The activities are implemented by 6 national and 7 international NGOs and target all vulnerable populations with a focus on outreach to currently unsupported groups among Lebanese, Syrian refugees, Palestine refugees, and migrants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006759765674360096,
+          "perplexity": 52,
+          "sentence": "61 percent of the indicative targeted population will be Lebanese, 32 percent Syrian, 4 percent Migrant, and 3 percent Palestine refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008747410029172897,
+          "perplexity": 58,
+          "sentence": "\u201cThe LHF fulfills a critical role in focusing on those who are most in need of urgent assistance, targeting its support for the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006107471417635679,
+          "perplexity": 51,
+          "sentence": "In this allocation, the support will be for children out of education or at risk of dropout, children with disabilities and child survivors of GBV, as well as survivors of GBV and individuals at high risk of exploitation and abuse including those people with disabilities and special needs\u201d said Najat Rochdi, United Nations Humanitarian Coordinator for Lebanon and Custodian of the Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006450081127695739,
+          "perplexity": 54,
+          "sentence": "As a component of the transparency and accountability of funding provided through the LHF, the Fund maintains a commitment of zero tolerance for Sexual Exploitation and Abuse (SEA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005363512900657952,
+          "perplexity": 90,
+          "sentence": "The end goal is that all LHF partners have in place robust systems in their respective organizations to prevent both the incidence of SEA and when prevention fails, that their systems can effectively respond to the victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005204351618885994,
+          "perplexity": 56,
+          "sentence": "\u201cThis funding from LHF comes at a critical time as the dire situation in Lebanon continues to deteriorate and the Emergency Response Plan (ERP) has only received $36.2 million (9.5%) of the total request of $383 million leaving considerable unmet lifesaving activities\u201d noted Rochdi, adding that \u201cwe count on generous donor support to address such vital unmet needs while we will all advocate for a swift and effective implementation of the reform agenda as the only way to end the humanitarian needs and to start a sustainable recovery\u201d.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The activities are implemented by 6 national and 7 international NGOs and target all vulnerable populations with a focus on outreach to currently unsupported groups among Lebanese, Syrian refugees, Palestine refugees, and migrants. 61 percent of the indicative targeted population will be Lebanese, 32 percent Syrian, 4 percent Migrant, and 3 percent Palestine refugees. \u201cThe LHF fulfills a critical role in focusing on those who are most in need of urgent assistance, targeting its support for the most vulnerable. In this allocation, the support will be for children out of education or at risk of dropout, children with disabilities and child survivors of GBV, as well as survivors of GBV and individuals at high risk of exploitation and abuse including those people with disabilities and special needs\u201d said Najat Rochdi, United Nations Humanitarian Coordinator for Lebanon and Custodian of the Fund. As a component of the transparency and accountability of funding provided through the LHF, the Fund maintains a commitment of zero tolerance for Sexual Exploitation and Abuse (SEA). The end goal is that all LHF partners have in place robust systems in their respective organizations to prevent both the incidence of SEA and when prevention fails, that their systems can effectively respond to the victims. \u201cThis funding from LHF comes at a critical time as the dire situation in Lebanon continues to deteriorate and the Emergency Response Plan (ERP) has only received $36.2 million (9.5%) of the total request of $383 million leaving considerable unmet lifesaving activities\u201d noted Rochdi, adding that \u201cwe count on generous donor support to address such vital unmet needs while we will all advocate for a swift and effective implementation of the reform agenda as the only way to end the humanitarian needs and to start a sustainable recovery\u201d.",
+  "date": "17 January 2022"
+}

@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "85dbb9b7-df58-4f60-9bd0-ba518bc600e5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.36465072631836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007407212629914284,
+          "perplexity": 21,
+          "sentence": "International Disability Day is celebrated annually on 3 December to promote the full and equal participation of persons with disabilities and to take action to integrate persons with disabilities into all aspects of society and development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008297866210341454,
+          "perplexity": 58,
+          "sentence": "This year's theme is \u201cBuilding Back Better: toward a disability-inclusive, accessible and sustainable post COVID-19 World\u201d \"Persons with disabilities are greatly affected by the health, social and economic consequences of the global COVID-19 pandemic,\" said Dr. Tarik Elsheikh, Representative of the United Nations Secretary-General and Resident Coordinator to the State of Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008550654165446758,
+          "perplexity": 31,
+          "sentence": "In this context, this year's theme emphasizes the importance of strengthening our collective efforts for universal access to basic services, including immediate health and social care, education, digital infrastructure, available information, employment and other socio-cultural opportunities, to ensure the full involvement and inclusion of persons with disabilities in times of crisis and beyond.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005543909035623074,
+          "perplexity": 25,
+          "sentence": "Dr. Tarek Elsheikh added that: \u201cthe Special Rapporteur on the rights of persons with disabilities praised some of the steps taken to prepare legislation, policies, programmes and the establishment of entities, as well as the introduction of a system to provide social protection for the promotion and protection of the rights of persons with disabilities, including: The establishment of the National Council for Human Rights, in 2018, which we are looking forward to see starting its activities soon, as an encouraging effort to begin promoting and monitoring the implementation of the Convention and other international treaties; The inclusion of goals and targets relating to persons with disabilities in the National Development Plan (2015-2020) and the 2035 Vision development plan; and the adoption of a code of universal design and a national framework for web accessibility and the national framework to facilitate access to the internet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005198518745601177,
+          "perplexity": 101,
+          "sentence": "We also appreciate the efforts and effective role of the Public Authority of the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "International Disability Day is celebrated annually on 3 December to promote the full and equal participation of persons with disabilities and to take action to integrate persons with disabilities into all aspects of society and development. This year's theme is \u201cBuilding Back Better: toward a disability-inclusive, accessible and sustainable post COVID-19 World\u201d \"Persons with disabilities are greatly affected by the health, social and economic consequences of the global COVID-19 pandemic,\" said Dr. Tarik Elsheikh, Representative of the United Nations Secretary-General and Resident Coordinator to the State of Kuwait. In this context, this year's theme emphasizes the importance of strengthening our collective efforts for universal access to basic services, including immediate health and social care, education, digital infrastructure, available information, employment and other socio-cultural opportunities, to ensure the full involvement and inclusion of persons with disabilities in times of crisis and beyond.\" Dr. Tarek Elsheikh added that: \u201cthe Special Rapporteur on the rights of persons with disabilities praised some of the steps taken to prepare legislation, policies, programmes and the establishment of entities, as well as the introduction of a system to provide social protection for the promotion and protection of the rights of persons with disabilities, including: The establishment of the National Council for Human Rights, in 2018, which we are looking forward to see starting its activities soon, as an encouraging effort to begin promoting and monitoring the implementation of the Convention and other international treaties; The inclusion of goals and targets relating to persons with disabilities in the National Development Plan (2015\u20132020) and the 2035 Vision development plan; and the adoption of a code of universal design and a national framework for web accessibility and the national framework to facilitate access to the internet. We also appreciate the efforts and effective role of the Public Authority of the",
+  "date": "03 December 2020"
+}

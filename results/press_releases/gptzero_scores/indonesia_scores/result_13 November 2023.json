@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "88fcdaa2-4f6a-48af-8202-50f28d6f9fc8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 992.2576904296875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021141294564586133,
+          "perplexity": 77,
+          "sentence": "New York, 13 November 2023 - The United Nations has announced that Police First Sergeant Renita Rismayanti, of Indonesia, will receive the 2023 United Nations Woman Police Officer of the Year Award on 16 November 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021004524023737758,
+          "perplexity": 26,
+          "sentence": "The award will be presented during the annual United Nations Police Week, taking place at United Nations Headquarters from 13 to 17 November.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020844796381425112,
+          "perplexity": 70,
+          "sentence": "Police First Sergeant Rismayanti serves as a Crime Database Officer with the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002086571475956589,
+          "perplexity": 30,
+          "sentence": "In this role, she has helped conceptualize and develop a criminal database that enables UN Police to map and analyse crime and disorder hotspots which, in turn, helps the country's security forces to better plan their operations in support of the local population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021326991554815322,
+          "perplexity": 67,
+          "sentence": "\u201cPolice First Sergeant Rismayanti's innovation and efforts to leverage data within United Nations peacekeeping and the Central African Republic police has made a significant contribution to enhancing security for vulnerable communities, including women and girls,\u201d said Under-Secretary-General for Peace Operations, Jean-Pierre Lacroix.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019951861759182066,
+          "perplexity": 55,
+          "sentence": "\u201cShe serves as a great example of how the participation and leadership of women in peacekeeping improve the effectiveness of our protection and peacebuilding work to better meet the challenges of today and tomorrow.\u201d Police First Sergeant Rismayanti says she feels fortunate to be able to use her technological skills to improve security for people across the Central African Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018305264529772103,
+          "perplexity": 57,
+          "sentence": "\u201cI hope the visibility that comes from winning this award will reinforce among women and girls that all fields of expertise in policing are open to us.\u201d At 27 years of age, she is the youngest-ever United Nations Woman Police Officer of the Year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018399041437078267,
+          "perplexity": 32,
+          "sentence": "She began her career with the Indonesian National Police as a public information officer in 2014 and has also worked in training, administration, and logistics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017580424901098013,
+          "perplexity": 3028,
+          "sentence": "\u201cHaving accomplished so",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 13 November 2023 \u2013 The United Nations has announced that Police First Sergeant Renita Rismayanti, of Indonesia, will receive the 2023 United Nations Woman Police Officer of the Year Award on 16 November 2023. The award will be presented during the annual United Nations Police Week, taking place at United Nations Headquarters from 13 to 17 November. Police First Sergeant Rismayanti serves as a Crime Database Officer with the United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA). In this role, she has helped conceptualize and develop a criminal database that enables UN Police to map and analyse crime and disorder hotspots which, in turn, helps the country\u2019s security forces to better plan their operations in support of the local population. \u201cPolice First Sergeant Rismayanti\u2019s innovation and efforts to leverage data within United Nations peacekeeping and the Central African Republic police has made a significant contribution to enhancing security for vulnerable communities, including women and girls,\u201d said Under-Secretary-General for Peace Operations, Jean-Pierre Lacroix. \u201cShe serves as a great example of how the participation and leadership of women in peacekeeping improve the effectiveness of our protection and peacebuilding work to better meet the challenges of today and tomorrow.\u201d Police First Sergeant Rismayanti says she feels fortunate to be able to use her technological skills to improve security for people across the Central African Republic. \u201cI hope the visibility that comes from winning this award will reinforce among women and girls that all fields of expertise in policing are open to us.\u201d At 27 years of age, she is the youngest-ever United Nations Woman Police Officer of the Year. She began her career with the Indonesian National Police as a public information officer in 2014 and has also worked in training, administration, and logistics. \u201cHaving accomplished so",
+  "date": "13 November 2023"
+}

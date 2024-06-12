@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d4a97be9-972d-4b05-89fd-1a5e37ad712d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.420936584472656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001522562961326912,
+          "perplexity": 24,
+          "sentence": "Beirut, 6 September 2021 - The United Nation's Humanitarian Coordinator for Lebanon, Najat Rochdi, announced a US$6 million allocation from the Lebanon Humanitarian Fund (LHF) to ensure the continuation of critical health care services affected by the ongoing fuel crisis in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014947679301258177,
+          "perplexity": 39,
+          "sentence": "This will complement a $4 million allocation from the Central Emergency Response Fund (CERF) in support of water services as announced last week by the Emergency Relief Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001708305935608223,
+          "perplexity": 74,
+          "sentence": "The announcement came as severe electricity and fuel shortages have been affecting Lebanon, threathening essential services such as health care and water provision, and putting hundred thousands families on the brink of a humanitarian catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001404308422934264,
+          "perplexity": 102,
+          "sentence": "The new LHF reserve allocation aims to facilitate access to fuel for critical life saving health service providers, including 246 Primary Health Care centers, 554 dispensaries and 65 hospitals, to continue to operate over the next three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001394765276927501,
+          "perplexity": 118,
+          "sentence": "A central warehouse and distribution sites at district level used to maintain cold chain and safe storage of essential health commodities, such as vaccines and other temperature-sensitive critical medicines, will also be supported.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000164441138622351,
+          "perplexity": 85,
+          "sentence": "The fuel will be directly distributed to the facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001781161845428869,
+          "perplexity": 57,
+          "sentence": "\u201cThe ongoing fuel crisis has brought additional hardship to the vulnerable populations who have already been suffering from the severe consequences of the compounded crises in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001407472009304911,
+          "perplexity": 61,
+          "sentence": "With generous contributions from the donors, and as a complement to the CERF allocation, the LHF will provide exceptional time-bound humanitarian support to ensure continuation of critical health services in the country for a maximum of three months\u201d, said Dr. Najat Rochdi, the Humanitarian Coordinator for Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001695632963674143,
+          "perplexity": 45,
+          "sentence": "\u201cThe intervention is a one-off emergency support, which will not be extended beyond a maximum duration of three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014745595399290323,
+          "perplexity": 36,
+          "sentence": "The responsibility to ensure uninterrupted provision of basic services including health care and water delivery remains with the Government of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 6 September 2021 \u2013 The United Nation\u2019s Humanitarian Coordinator for Lebanon, Najat Rochdi, announced a US$6 million allocation from the Lebanon Humanitarian Fund (LHF) to ensure the continuation of critical health care services affected by the ongoing fuel crisis in the country. This will complement a $4 million allocation from the Central Emergency Response Fund (CERF) in support of water services as announced last week by the Emergency Relief Coordinator. The announcement came as severe electricity and fuel shortages have been affecting Lebanon, threathening essential services such as health care and water provision, and putting hundred thousands families on the brink of a humanitarian catastrophe. The new LHF reserve allocation aims to facilitate access to fuel for critical life saving health service providers, including 246 Primary Health Care centers, 554 dispensaries and 65 hospitals, to continue to operate over the next three months. A central warehouse and distribution sites at district level used to maintain cold chain and safe storage of essential health commodities, such as vaccines and other temperature-sensitive critical medicines, will also be supported. The fuel will be directly distributed to the facilities. \u201cThe ongoing fuel crisis has brought additional hardship to the vulnerable populations who have already been suffering from the severe consequences of the compounded crises in the country. With generous contributions from the donors, and as a complement to the CERF allocation, the LHF will provide exceptional time-bound humanitarian support to ensure continuation of critical health services in the country for a maximum of three months\u201d, said Dr. Najat Rochdi, the Humanitarian Coordinator for Lebanon. \u201cThe intervention is a one-off emergency support, which will not be extended beyond a maximum duration of three months. The responsibility to ensure uninterrupted provision of basic services including health care and water delivery remains with the Government of",
+  "date": "06 September 2021"
+}

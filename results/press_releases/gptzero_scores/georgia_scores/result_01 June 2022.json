@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ccd295ef-0183-4fa3-9517-94e9e1a7741f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.716827392578125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03743957355618477,
+          "perplexity": 30,
+          "sentence": "The Ministry of Internal affairs has launched an information campaign - \"Do Not Deprive of Childhood\", which aims to eliminate crimes of child marriage, raise public awareness on the issue, and ensure timely reporting of cases to law enforcement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03450756520032883,
+          "perplexity": 45,
+          "sentence": "Ministry of Internal Affairs prioritizes the fight against harmful practices of child marriage and the timely detection of such cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027444275096058846,
+          "perplexity": 61,
+          "sentence": "To respond effectively, the Human Rights Protection and Investigation Quality Control Department of the Ministry of Internal Affairs studies and monitors all possible cases of child marriages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027582256123423576,
+          "perplexity": 64,
+          "sentence": "The Deputy Minister of Internal Affairs Alexander Darakhvelidze, the head of the UNFPA Georgia Country Office, Lela Bakradze, and the Ambassador of the Kingdom of Sweden to Georgia H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025870995596051216,
+          "perplexity": 113,
+          "sentence": "Ulrik Tidestr\u00f6m addressed the guests at the campaign opening ceremony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023033464327454567,
+          "perplexity": 32,
+          "sentence": "The governmental and non-governmental sector representatives, the Public Defender's office, members of the Parliament, and international organizations dealing with this issue attended the event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01619815267622471,
+          "perplexity": 32,
+          "sentence": "At the meeting, the Human Rights Protection and Investigation Quality Control Department of the Ministry of Internal Affairs delivered a presentation informing the guests about the statistics on child marriages and the activities to be carried out in the framework of the campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014874972403049469,
+          "perplexity": 60,
+          "sentence": "In addition, Advisor to the Prime Minister on Human Rights, Niko Tatulashvili, First Deputy Minister of Education and Science Tamar Makharashvili, Deputy Minister of Labor, Health and Social Protection, Tamar Barkalaia, and Head of the Gender Department at the Public Defender's Office Sophie Rusetski participated in the panel discussion dedicated to the challenges associated with the work on elimination the harmful practices..",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01587672159075737,
+          "perplexity": 29,
+          "sentence": "Furthermore, a video was prepared on the topic of child marriage where the representatives of various fields talked about the harmful effects of child marriages and emphasized the importance of eliminating the practice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01765517145395279,
+          "perplexity": 27,
+          "sentence": "The campaign is carried out in partnership with the UNFPA office in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Ministry of Internal affairs has launched an information campaign - \"Do Not Deprive of Childhood\", which aims to eliminate crimes of child marriage, raise public awareness on the issue, and ensure timely reporting of cases to law enforcement. Ministry of Internal Affairs prioritizes the fight against harmful practices of child marriage and the timely detection of such cases. To respond effectively, the Human Rights Protection and Investigation Quality Control Department of the Ministry of Internal Affairs studies and monitors all possible cases of child marriages. The Deputy Minister of Internal Affairs Alexander Darakhvelidze, the head of the UNFPA Georgia Country Office, Lela Bakradze, and the Ambassador of the Kingdom of Sweden to Georgia H.E. Ulrik Tidestr\u00f6m addressed the guests at the campaign opening ceremony. The governmental and non-governmental sector representatives, the Public Defender\u2019s office, members of the Parliament, and international organizations dealing with this issue attended the event. At the meeting, the Human Rights Protection and Investigation Quality Control Department of the Ministry of Internal Affairs delivered a presentation informing the guests about the statistics on child marriages and the activities to be carried out in the framework of the campaign. In addition, Advisor to the Prime Minister on Human Rights, Niko Tatulashvili, First Deputy Minister of Education and Science Tamar Makharashvili , Deputy Minister of Labor, Health and Social Protection, Tamar Barkalaia, and Head of the Gender Department at the Public Defender\u2019s Office Sophie Rusetski participated in the panel discussion dedicated to the challenges associated with the work on elimination the harmful practices.. Furthermore, a video was prepared on the topic of child marriage where the representatives of various fields talked about the harmful effects of child marriages and emphasized the importance of eliminating the practice. The campaign is carried out in partnership with the UNFPA office in",
+  "date": "01 June 2022"
+}

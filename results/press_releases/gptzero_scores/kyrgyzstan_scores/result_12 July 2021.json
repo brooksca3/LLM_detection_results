@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e9f89f8f-bcb3-4450-9a3c-7a08e1a414fe",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 69.07282257080078,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000265308452071622,
+          "perplexity": 14,
+          "sentence": "OSH, Kyrgyzstan - The Russian Federation is providing a new batch of in-kind contributions to the World Food Programme (WFP) in Kyrgyzstan, in support of its operations for poor families in need of food assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002508103789296001,
+          "perplexity": 260,
+          "sentence": "Some 945 tons of Russian-made fortified flour are now heading to WFP warehouses in Osh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002564603346399963,
+          "perplexity": 41,
+          "sentence": "They will be used as part of food rations for more than 31,500 vulnerable families living below the poverty in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002687763480935246,
+          "perplexity": 36,
+          "sentence": "Each family will be given 150 kg of fortified wheat flour and 15 litres of vegetable oil to meet their basic food needs while they are participating in more than 500 community projects aimed at improving infrastructure and building resilience against future shocks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002870007010642439,
+          "perplexity": 39,
+          "sentence": "Some of the projects include rehabilitating irrigation networks and cropland, forest expansion, and construction of bridges and drainage systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026618054835125804,
+          "perplexity": 26,
+          "sentence": "The Russian Federation is the largest donor to WFP in the Kyrgyz Republic, in both funding and technical support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002455946523696184,
+          "perplexity": 34,
+          "sentence": "During the past 10 years, the Government of Russia - through WFP - has supported citizens of Kyrgyzstan at various levels, from emergency relief and recovery to development and social protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026012194575741887,
+          "perplexity": 74,
+          "sentence": "Thanks to its support, WFP was able to sustain its operations since the start of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023798605252522975,
+          "perplexity": 55,
+          "sentence": "And the support is especially critical now as Kyrgyz families cope with the social-economic crisis brought by the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020349370606709272,
+          "perplexity": 35,
+          "sentence": "The United Nations World Food Programme is the 2020 Nobel Peace Prize Laureate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002156926057068631,
+          "perplexity": 20,
+          "sentence": "We are the world's largest humanitarian organization, saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "OSH, Kyrgyzstan \u2013 The Russian Federation is providing a new batch of in-kind contributions to the World Food Programme (WFP) in Kyrgyzstan, in support of its operations for poor families in need of food assistance. Some 945 tons of Russian-made fortified flour are now heading to WFP warehouses in Osh. They will be used as part of food rations for more than 31,500 vulnerable families living below the poverty in the country. Each family will be given 150 kg of fortified wheat flour and 15 litres of vegetable oil to meet their basic food needs while they are participating in more than 500 community projects aimed at improving infrastructure and building resilience against future shocks. Some of the projects include rehabilitating irrigation networks and cropland, forest expansion, and construction of bridges and drainage systems. The Russian Federation is the largest donor to WFP in the Kyrgyz Republic, in both funding and technical support. During the past 10 years, the Government of Russia \u2013 through WFP \u2013 has supported citizens of Kyrgyzstan at various levels, from emergency relief and recovery to development and social protection. Thanks to its support, WFP was able to sustain its operations since the start of COVID-19. And the support is especially critical now as Kyrgyz families cope with the social-economic crisis brought by the pandemic. The United Nations World Food Programme is the 2020 Nobel Peace Prize Laureate. We are the world\u2019s largest humanitarian organization, saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.",
+  "date": "12 July 2021"
+}

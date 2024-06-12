@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5a0025b-5d46-425a-93a7-28b7f14bb3d4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.35780715942383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013404869241639972,
+          "perplexity": 12,
+          "sentence": "On Friday, 24 March, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) will release two new reports, on the treatment of prisoners of war and on the overall human rights situation in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001360594033030793,
+          "perplexity": 40,
+          "sentence": "HRMMU Head of Mission Matilda Bogner will present the reports at a press conference in Kyiv on Friday 24 March 2023 at 13:00 local time (11:00 UTC) at the Ukraine Crisis Media Centre (2 Khreshchatyk Street, (Ukrainian House), Kyiv).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014536743401549757,
+          "perplexity": 76,
+          "sentence": "The press conference will be in English, with interpretation into Ukrainian and sign language.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014816898328717798,
+          "perplexity": 25,
+          "sentence": "Background: Deployed in March 2014, the UN Human Rights Monitoring Mission in Ukraine monitors, publicly reports on and advocates for the human rights situation in the country with the aim of fostering access to justice and bringing perpetrators to account.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015030345821287483,
+          "perplexity": 25,
+          "sentence": "In the aftermath of the armed attack by the Russian Federation against Ukraine, the Mission has been fully dedicated to monitoring how the attack has impacted the human rights situation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013910357665736228,
+          "perplexity": 28,
+          "sentence": "HRMMU has relocated some of its operations due to the hostilities and is now present in Kyiv, Uzhhorod, Odesa, Dnipro and Poltava, as well as in Krak\u00f3w and Chi\u0219in\u0103u, and conducts regular visits to other cities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013141418457962573,
+          "perplexity": 107,
+          "sentence": "The Mission continues to remotely monitor the human rights situation in Crimea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001229878980666399,
+          "perplexity": 22,
+          "sentence": "Every day, human rights officers speak to victims and witnesses of human rights violations throughout the country, including those in territory occupied by the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014538837422151119,
+          "perplexity": 74,
+          "sentence": "Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On Friday, 24 March, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) will release two new reports, on the treatment of prisoners of war and on the overall human rights situation in Ukraine. HRMMU Head of Mission Matilda Bogner will present the reports at a press conference in Kyiv on Friday 24 March 2023 at 13:00 local time (11:00 UTC) at the Ukraine Crisis Media Centre (2 Khreshchatyk Street, (Ukrainian House), Kyiv). The press conference will be in English, with interpretation into Ukrainian and sign language. Background: Deployed in March 2014, the UN Human Rights Monitoring Mission in Ukraine monitors, publicly reports on and advocates for the human rights situation in the country with the aim of fostering access to justice and bringing perpetrators to account. In the aftermath of the armed attack by the Russian Federation against Ukraine, the Mission has been fully dedicated to monitoring how the attack has impacted the human rights situation in the country. HRMMU has relocated some of its operations due to the hostilities and is now present in Kyiv, Uzhhorod, Odesa, Dnipro and Poltava, as well as in Krak\u00f3w and Chi\u0219in\u0103u, and conducts regular visits to other cities. The Mission continues to remotely monitor the human rights situation in Crimea. Every day, human rights officers speak to victims and witnesses of human rights violations throughout the country, including those in territory occupied by the Russian Federation. Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+  "date": "21 March 2023"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4962dc45-2b2b-4e44-bb66-dba4aef26370",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 67.16596984863281,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003579632379114628,
+          "perplexity": 44,
+          "sentence": "\u201cThis year more than ever there is a certain poignancy about today, and it gives us an opportunity to reflect on what the world of work is going to look like, not just during the pandemic but more importantly as we recover\u201d - Mr Li said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005022203549742699,
+          "perplexity": 99,
+          "sentence": "In marking May Day and the unprecedented health and economic crisis brought about by COVID-19, Mr Donglin Li, stated: \u201cthis is not only a health crisis, but also creates challenges in supporting and safeguarding the economic livelihoods for businesses and workers in Myanmar, and we must ensure that any response measures respect for workers' rights and promote social justice\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0046632057055830956,
+          "perplexity": 119,
+          "sentence": "He noted that the situation is made more complex because Myanmar's hardship echoes that felt in other countries through various supply chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038852072320878506,
+          "perplexity": 99,
+          "sentence": "Mr Li highlighted the importance of sound occupational safety and health practices that do not put workers at risk - noting that this week was also world OSH day which raised awareness about actions to protect workers and their families against infection and the social security options available if Myanmar workers are laid off.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004072492942214012,
+          "perplexity": 40,
+          "sentence": "He also referred to effective social protection measures, protecting against stigma and discrimination, upholding workers' rights under Myanmar's labour laws and international labour standards, and ensuring that workers right to organize and bargain collectively are upheld.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026652354281395674,
+          "perplexity": 44,
+          "sentence": "The ILO has been providing immediate support to Governments, employers and workers across the globe and also in Myanmar to respond to the health crisis and accompanying social and economic crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002256021834909916,
+          "perplexity": 92,
+          "sentence": "The ILO initiated immediate support for CTUM to establish an emergency employment and reskilling centre for workers who have lost their jobs - particularly in the garment sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018061537994071841,
+          "perplexity": 246,
+          "sentence": "It supported the AFFM - IUF to prepare brochure and banners to raise awareness about COVID-19, establish self-help groups in five target areas, as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cThis year more than ever there is a certain poignancy about today, and it gives us an opportunity to reflect on what the world of work is going to look like, not just during the pandemic but more importantly as we recover\u201d \u2013 Mr Li said. In marking May Day and the unprecedented health and economic crisis brought about by COVID-19, Mr Donglin Li, stated: \u201cthis is not only a health crisis, but also creates challenges in supporting and safeguarding the economic livelihoods for businesses and workers in Myanmar, and we must ensure that any response measures respect for workers\u2019 rights and promote social justice\u201d. He noted that the situation is made more complex because Myanmar\u2019s hardship echoes that felt in other countries through various supply chains. Mr Li highlighted the importance of sound occupational safety and health practices that do not put workers at risk - noting that this week was also world OSH day which raised awareness about actions to protect workers and their families against infection and the social security options available if Myanmar workers are laid off. He also referred to effective social protection measures, protecting against stigma and discrimination, upholding workers\u2019 rights under Myanmar\u2019s labour laws and international labour standards, and ensuring that workers right to organize and bargain collectively are upheld. The ILO has been providing immediate support to Governments, employers and workers across the globe and also in Myanmar to respond to the health crisis and accompanying social and economic crisis. The ILO initiated immediate support for CTUM to establish an emergency employment and reskilling centre for workers who have lost their jobs \u2013 particularly in the garment sector. It supported the AFFM \u2013 IUF to prepare brochure and banners to raise awareness about COVID-19, establish self-help groups in five target areas, as",
+  "date": "01 May 2020"
+}

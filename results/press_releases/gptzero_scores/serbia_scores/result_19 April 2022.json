@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1c1aeb53-aae5-48b8-ad62-424b3b2d674b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 55.48420333862305,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012159417383372784,
+          "perplexity": 97,
+          "sentence": "In five days, Ukrainians and Russians will mark Easter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001256306713912636,
+          "perplexity": 65,
+          "sentence": "This holiday unites the Orthodox Christians in both Russia and Ukraine -- as well as Catholic Ukrainians -- in celebration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013579631922766566,
+          "perplexity": 90,
+          "sentence": "It is a time for reflection on the meaning of suffering, sacrifice, death \u1173 and rebirth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012965258792974055,
+          "perplexity": 64,
+          "sentence": "But this year, Holy Week is being observed under the cloud of a war that represents the total negation of the Easter message.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012776807125192136,
+          "perplexity": 67,
+          "sentence": "Instead of celebration of a new life, this Easter coincides with a Russian offensive in eastern Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001323089236393571,
+          "perplexity": 82,
+          "sentence": "The intense concentration of forces and firepower makes this battle inevitably more violent, bloody and destructive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001323456526733935,
+          "perplexity": 40,
+          "sentence": "The onslaught and terrible toll on civilians we have seen so far could pale in comparison to the horror that lies ahead.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011517694656504318,
+          "perplexity": 22,
+          "sentence": "Many good-faith efforts by many parties to reach a ceasefire in Ukraine have failed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011403601092752069,
+          "perplexity": 29,
+          "sentence": "Today I am calling for a 4-day Holy Week humanitarian pause beginning on Holy Thursday and running through Easter Sunday, April 24th, to allow for the opening of a series of humanitarian corridors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012111740215914324,
+          "perplexity": 108,
+          "sentence": "The humanitarian pause would provide the necessary conditions to meet two crucial imperatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011283039202680811,
+          "perplexity": 43,
+          "sentence": "First, safe passage of all civilians willing to leave the areas of current and expected confrontation, in coordination with the International Committee of the Red Cross.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001118186628445983,
+          "perplexity": 18,
+          "sentence": "Second, beyond humanitarian operations already taking place, a pause will allow for the safe delivery of lifesaving humanitarian aid to people in the hardest-hit areas such as Mariupol, Kherson, Donetsk and Luhansk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001113147081923671,
+          "perplexity": 41,
+          "sentence": "The United Nations is ready to send humanitarian aid convoys during this period to these locations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001107350763049908,
+          "perplexity": 120,
+          "sentence": "We are submitting detailed plans to the parties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010709324124036357,
+          "perplexity": 237,
+          "sentence": "Humanitarian needs are dire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010681959975045174,
+          "perplexity": 29,
+          "sentence": "People do not have food, water, supplies to treat the sick or wounded or simply to live day-to-day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.985287761082873e-05,
+          "perplexity": 34,
+          "sentence": "More than 12 million people need humanitarian assistance in Ukraine today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011092286877101287,
+          "perplexity": 156,
+          "sentence": "Of those,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In five days, Ukrainians and Russians will mark Easter. This holiday unites the Orthodox Christians in both Russia and Ukraine -- as well as Catholic Ukrainians -- in celebration. It is a time for reflection on the meaning of suffering, sacrifice, death \u2014 and rebirth. But this year, Holy Week is being observed under the cloud of a war that represents the total negation of the Easter message. Instead of celebration of a new life, this Easter coincides with a Russian offensive in eastern Ukraine. The intense concentration of forces and firepower makes this battle inevitably more violent, bloody and destructive. The onslaught and terrible toll on civilians we have seen so far could pale in comparison to the horror that lies ahead. Many good-faith efforts by many parties to reach a ceasefire in Ukraine have failed. Today I am calling for a 4-day Holy Week humanitarian pause beginning on Holy Thursday and running through Easter Sunday, April 24th, to allow for the opening of a series of humanitarian corridors. The humanitarian pause would provide the necessary conditions to meet two crucial imperatives. First, safe passage of all civilians willing to leave the areas of current and expected confrontation, in coordination with the International Committee of the Red Cross. Second, beyond humanitarian operations already taking place, a pause will allow for the safe delivery of lifesaving humanitarian aid to people in the hardest-hit areas such as Mariupol, Kherson, Donetsk and Luhansk. The United Nations is ready to send humanitarian aid convoys during this period to these locations. We are submitting detailed plans to the parties. Humanitarian needs are dire. People do not have food, water, supplies to treat the sick or wounded or simply to live day-to-day. More than 12 million people need humanitarian assistance in Ukraine today. Of those,",
+  "date": "19 April 2022"
+}

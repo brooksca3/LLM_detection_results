@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5f931d41-bec9-43b3-9fde-8dc828e2ce97",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.13212966918945,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.669698192737997e-05,
+          "perplexity": 124,
+          "sentence": "The UN Energy Compact Action Network launches with coalitions drawing on $600 billion in commitments to support energy access and transition, starting with Nigeria, Santiago, Namibia and others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001067487319232896,
+          "perplexity": 50,
+          "sentence": "New York, 4 May 2022 - Against the backdrop of a global energy crisis and worsening climate emergency, today the UN took a major step to catalyse the large-scale action and support needed for the transition to clean, affordable energy for all and net-zero emissions, with the launch of a Plan of Action by some thirty leading organizations comprising \u201cUN-Energy\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010657216625986621,
+          "perplexity": 30,
+          "sentence": "Speaking of the interlinked triple crises of energy, food and finance arising from the war in Ukraine, UN Secretary-General Ant\u00f3nio Guterres recently stated that \u201cwe can maximize this moment to push for the transformational change our world needs.\u201d He added that \u201cnow is the time to turn this crisis into an opportunity,\u201d to work towards progressively phasing out coal and other fossil fuels, and accelerating the deployment of renewable energy and a just energy transition, to address our worsening climate emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010289380588801578,
+          "perplexity": 65,
+          "sentence": "An Energy Compact Action Network was also launched to match those governments seeking support for their clean energy goals with those governments and businesses that have pledged over $600 billion to support these commitments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010041003406513482,
+          "perplexity": 70,
+          "sentence": "Coalitions were announced to support energy access and transition in Nigeria and the city of Santiago, Chile, showcasing the Network's potential, as well as to advance or expand coalitions supporting green hydrogen and a stronger role for women in leading and benefiting from the energy transition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010115694749401882,
+          "perplexity": 29,
+          "sentence": "Mr. Liu Zhenmin, Under-Secretary-General of the UN Department of Economic and Social Affairs and Secretary-General of the 2021 High-level Dialogue on Energy, stated: \u201cThe Global Roadmap that emerged from the High-level Dialogue calls for strengthened efforts by the UN system supported by UN-Energy, including the creation of a global multi-stakeholder Energy",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Energy Compact Action Network launches with coalitions drawing on $600 billion in commitments to support energy access and transition, starting with Nigeria, Santiago, Namibia and others. New York, 4 May 2022 \u2013 Against the backdrop of a global energy crisis and worsening climate emergency, today the UN took a major step to catalyse the large-scale action and support needed for the transition to clean, affordable energy for all and net-zero emissions, with the launch of a Plan of Action by some thirty leading organizations comprising \u201cUN-Energy\u201d. Speaking of the interlinked triple crises of energy, food and finance arising from the war in Ukraine, UN Secretary-General Ant\u00f3nio Guterres recently stated that \u201cwe can maximize this moment to push for the transformational change our world needs.\u201d He added that \u201cnow is the time to turn this crisis into an opportunity,\u201d to work towards progressively phasing out coal and other fossil fuels, and accelerating the deployment of renewable energy and a just energy transition, to address our worsening climate emergency. An Energy Compact Action Network was also launched to match those governments seeking support for their clean energy goals with those governments and businesses that have pledged over $600 billion to support these commitments. Coalitions were announced to support energy access and transition in Nigeria and the city of Santiago, Chile, showcasing the Network\u2019s potential, as well as to advance or expand coalitions supporting green hydrogen and a stronger role for women in leading and benefiting from the energy transition. Mr. Liu Zhenmin, Under-Secretary-General of the UN Department of Economic and Social Affairs and Secretary-General of the 2021 High-level Dialogue on Energy, stated: \u201cThe Global Roadmap that emerged from the High-level Dialogue calls for strengthened efforts by the UN system supported by UN-Energy, including the creation of a global multi-stakeholder Energy",
+  "date": "23 May 2022"
+}

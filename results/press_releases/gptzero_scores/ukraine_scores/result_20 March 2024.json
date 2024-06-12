@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cafbd20b-92ad-4f21-abf3-ce477eb5f275",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.846376419067383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016343883180525154,
+          "perplexity": 21,
+          "sentence": "GENEVA (20 March 2024) - The Russian Federation has created a stifling climate of fear in occupied areas of Ukraine, committing widespread violations of international humanitarian and human rights law in an effort to consolidate its control over the population living there, according to a UN Human Rights Office report issued today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016374862752854824,
+          "perplexity": 31,
+          "sentence": "The report, based on more than 2,300 interviews with victims and witnesses, details the measures taken by the Russian Federation to impose Russian language, citizenship, laws, court system, and education curricula on the occupied areas, while at the same time suppressing expressions of Ukrainian culture and identity, and dismantling Ukraine's governance and administrative systems in these regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001682484580669552,
+          "perplexity": 42,
+          "sentence": "\u201cThe actions of the Russian Federation have ruptured the social fabric of communities and left individuals isolated, with profound and long-lasting consequences for Ukrainian society as a whole,\u201d said UN High Commissioner for Human Rights Volker T\u00fcrk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015993343549780548,
+          "perplexity": 24,
+          "sentence": "Although the Russian Federation began its occupation of Ukrainian territory in Crimea in 2014, the report focuses on the situation in the territory of Ukraine that fell under Russian occupation following the full-scale armed attack launched by the Russian Federation on 24 February 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001499925128882751,
+          "perplexity": 25,
+          "sentence": "From the onset, Russian armed forces, acting with generalised impunity, committed widespread violations, including arbitrary detention of civilians, often accompanied by torture and ill-treatment, in some cases amounting to enforced disappearances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013860479521099478,
+          "perplexity": 75,
+          "sentence": "While Russian armed forces initially targeted individuals perceived as posing a security threat, over time a wider net was cast broadly to include any person perceived to oppose the occupation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013808767835143954,
+          "perplexity": 33,
+          "sentence": "Russian forces also used force to quash peaceful protests, restricted free expression, imposed strict controls on residents' movements, and pillaged homes and businesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001398919557686895,
+          "perplexity": 69,
+          "sentence": "The occupying authorities shut down Ukrainian internet and mobile networks, TV and radio channels, with traffic re-routed through Russian networks, which allowed control over information accessible",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (20 March 2024) \u2013 The Russian Federation has created a stifling climate of fear in occupied areas of Ukraine, committing widespread violations of international humanitarian and human rights law in an effort to consolidate its control over the population living there, according to a UN Human Rights Office report issued today. The report, based on more than 2,300 interviews with victims and witnesses, details the measures taken by the Russian Federation to impose Russian language, citizenship, laws, court system, and education curricula on the occupied areas, while at the same time suppressing expressions of Ukrainian culture and identity, and dismantling Ukraine\u2019s governance and administrative systems in these regions. \u201cThe actions of the Russian Federation have ruptured the social fabric of communities and left individuals isolated, with profound and long-lasting consequences for Ukrainian society as a whole,\u201d said UN High Commissioner for Human Rights Volker T\u00fcrk. Although the Russian Federation began its occupation of Ukrainian territory in Crimea in 2014, the report focuses on the situation in the territory of Ukraine that fell under Russian occupation following the full-scale armed attack launched by the Russian Federation on 24 February 2022. From the onset, Russian armed forces, acting with generalised impunity, committed widespread violations, including arbitrary detention of civilians, often accompanied by torture and ill-treatment, in some cases amounting to enforced disappearances. While Russian armed forces initially targeted individuals perceived as posing a security threat, over time a wider net was cast broadly to include any person perceived to oppose the occupation. Russian forces also used force to quash peaceful protests, restricted free expression, imposed strict controls on residents\u2019 movements, and pillaged homes and businesses. The occupying authorities shut down Ukrainian internet and mobile networks, TV and radio channels, with traffic re-routed through Russian networks, which allowed control over information accessible",
+  "date": "20 March 2024"
+}

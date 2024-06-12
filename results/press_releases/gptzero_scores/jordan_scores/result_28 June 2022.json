@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e79f98f3-5ec5-48c6-abe9-f8ae5cfc10dd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02115313278722631,
+        "human": 0.9783289685721962,
+        "mixed": 0.0005178986405775599
+      },
+      "completely_generated_prob": 0.02115313278722631,
+      "confidence_category": "high",
+      "confidence_score": 0.9783289685721962,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02115313278722631,
+          "human": 0.9783289685721962,
+          "mixed": 0.0005178986405775599
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 122.83645629882812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002691653498914093,
+          "perplexity": 83,
+          "sentence": "Amman - The United Nations Population Fund in Jordan, UNFPA, celebrated an exceptional woman and mid-wife, Ms. Munira Shaban.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025507621467113495,
+          "perplexity": 52,
+          "sentence": "\u201cMama Munira\u201d was honored in recognition of receiving the Medal of Excellence from His Majesty, King Abdullah II bin Al-Hussein, her outstanding contribution to Midwifery in Jordan and her service as a mid-Wife at the UNFPA-supported Sexual and Reproductive Health Clinic in Zaatari Refugee Camp.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002571542572695762,
+          "perplexity": 89,
+          "sentence": "\u201cMunira celebrates her 50th year working as a nurse and midwife in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025038098101504147,
+          "perplexity": 43,
+          "sentence": "Today, she serves some of the most vulnerable women and families in Zaatari Refugee Camp, who live under extraordinary circumstances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023367594985757023,
+          "perplexity": 136,
+          "sentence": "We are proud that Munira is part of UNFPA's efforts reach its strategic goals for 2030, of zero preventable maternal deaths\u201d, said Ms. Ensherah Ahmad, UNFPA in Jordan Representative The event was attended by H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023753424466121942,
+          "perplexity": 298,
+          "sentence": "Maria Hadjitheodosiou, EU Ambassador to Jordan, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022912058921065181,
+          "perplexity": 120,
+          "sentence": "Alexandra Rydmark, Sweden's Ambassador to Jordan, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022541366051882505,
+          "perplexity": 84,
+          "sentence": "Donica Pottie, Ambassador of Canada to Jordan, H.E Norwegian Ambassador to Jordan, Espen Lindb\u00e6ck and Dr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002918529324233532,
+          "perplexity": 509,
+          "sentence": "Ya'rub Ajlouni, JIHASi CEO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038890664000064135,
+          "perplexity": 62,
+          "sentence": "\u201cToday, in Zaatari Camp, I feel honored to provide refugee women and families with the knowledge and awareness I gained over the years about sexual and reproductive health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004167158156633377,
+          "perplexity": 23,
+          "sentence": "At the age of 4-years old, I became a refugee when my family fled our home in Jerusalem.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004308829549700022,
+          "perplexity": 40,
+          "sentence": "Life was difficult, but I was determined to pursue my dream of becoming a mid-wife and obtain the highest level of education in my field\u201d, said Munira.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003915177192538977,
+          "perplexity": 43,
+          "sentence": "Born in Jerusalem in 1944, Munira lived with her family in the city of Salt in Jordan until she completed high-school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030444220174103975,
+          "perplexity": 58,
+          "sentence": "She went on to complete a 3-year training in Midwifery at the Augusta Victoria Hospital in Jerusalem.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003257059957832098,
+          "perplexity": 125,
+          "sentence": "She returned to Salt, three years later, becoming Jordan's first certified mid-wife.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003197885351255536,
+          "perplexity": 116,
+          "sentence": "During the event, Mama Munira was presented a letter of gratitude",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - The United Nations Population Fund in Jordan, UNFPA, celebrated an exceptional woman and mid-wife, Ms. Munira Shaban. \u201cMama Munira\u201d was honored in recognition of receiving the Medal of Excellence from His Majesty, King Abdullah II bin Al-Hussein, her outstanding contribution to Midwifery in Jordan and her service as a mid-Wife at the UNFPA-supported Sexual and Reproductive Health Clinic in Zaatari Refugee Camp. \u201cMunira celebrates her 50th year working as a nurse and midwife in Jordan. Today, she serves some of the most vulnerable women and families in Zaatari Refugee Camp, who live under extraordinary circumstances. We are proud that Munira is part of UNFPA\u2019s efforts reach its strategic goals for 2030, of zero preventable maternal deaths\u201d, said Ms. Ensherah Ahmad, UNFPA in Jordan Representative The event was attended by H.E. Maria Hadjitheodosiou, EU Ambassador to Jordan, H.E. Alexandra Rydmark, Sweden's Ambassador to Jordan, H.E. Donica Pottie, Ambassador of Canada to Jordan, H.E Norwegian Ambassador to Jordan, Espen Lindb\u00e6ck and Dr. Ya\u2019rub Ajlouni, JIHASi CEO. \u201cToday, in Zaatari Camp, I feel honored to provide refugee women and families with the knowledge and awareness I gained over the years about sexual and reproductive health. At the age of 4-years old, I became a refugee when my family fled our home in Jerusalem. Life was difficult, but I was determined to pursue my dream of becoming a mid-wife and obtain the highest level of education in my field\u201d, said Munira. Born in Jerusalem in 1944, Munira lived with her family in the city of Salt in Jordan until she completed high-school. She went on to complete a 3-year training in Midwifery at the Augusta Victoria Hospital in Jerusalem. She returned to Salt, three years later, becoming Jordan\u2019s first certified mid-wife. During the event, Mama Munira was presented a letter of gratitude",
+  "date": "28 June 2022"
+}

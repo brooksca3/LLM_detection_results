@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "768ebdc4-93ff-417e-84e0-ba6050bc2812",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022344374884763436,
+        "human": 0.9770551561260853,
+        "mixed": 0.0006004689891512654
+      },
+      "completely_generated_prob": 0.022344374884763436,
+      "confidence_category": "high",
+      "confidence_score": 0.9770551561260853,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022344374884763436,
+          "human": 0.9770551561260853,
+          "mixed": 0.0006004689891512654
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.61970901489258,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0015437389956787229,
+          "perplexity": 65,
+          "sentence": "The WHO Director General on the advice of the International Health Regulations Emergency Committee has declare the novel coronavirus (2029-nCoV) outbreak a public health emergency of international concern.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013528133276849985,
+          "perplexity": 15,
+          "sentence": "WHO has identified 13 top priority countries (Algeria, Angola Cote d'Ivoire and the Democratic Republic of the Congo, Ethiopia, Ghana, Kenya, Mauritius, Nigeria, South Africa, Tanzania, Uganda and Zambia) which due to their direct links or high volume of travel to China need to increase their preparedness measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015398866962641478,
+          "perplexity": 62,
+          "sentence": "The top priority countries are WHO's first areas of focus, but the organization will support all countries in the region in their preparation efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002575814025476575,
+          "perplexity": 14,
+          "sentence": "Coronaviruses are a family of viruses that infect both animals and humans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017522175330668688,
+          "perplexity": 16,
+          "sentence": "Human coronaviruses can cause mild disease like a common cold, while others cause more severe disease (such as MERS - Middle East Respiratory Syndrome and SARS - Severe Acute Respiratory Syndrome).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015828347532078624,
+          "perplexity": 23,
+          "sentence": "Some coronaviruses that are found in animals can infect humans - these are known as zoonotic diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001383800059556961,
+          "perplexity": 51,
+          "sentence": "Human coronaviruses are usually spread through droplets (coughing) and close personal unprotected contact with an infected person (touching, shaking hands).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012903530150651932,
+          "perplexity": 29,
+          "sentence": "On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019367389613762498,
+          "perplexity": 51,
+          "sentence": "The virus did not match any other known virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017481452086940408,
+          "perplexity": 44,
+          "sentence": "This raised concern because when a virus is new, how it affects people may not be well known.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015862311702221632,
+          "perplexity": 36,
+          "sentence": "One week later, on 7 January 2020, Chinese authorities confirmed that they had identified a new virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005757773295044899,
+          "perplexity": 8,
+          "sentence": "The new virus is a coronavirus, which is a family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002774682594463229,
+          "perplexity": 188,
+          "sentence": "This new virus was temporarily named \u201c2019-nCoV.\u201d Find out more in this latest update issued by the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The WHO Director General on the advice of the International Health Regulations Emergency Committee has declare the novel coronavirus (2029-nCoV) outbreak a public health emergency of international concern. WHO has identified 13 top priority countries (Algeria, Angola Cote d\u2019Ivoire and the Democratic Republic of the Congo, Ethiopia, Ghana, Kenya, Mauritius, Nigeria, South Africa, Tanzania, Uganda and Zambia) which due to their direct links or high volume of travel to China need to increase their preparedness measures. The top priority countries are WHO\u2019s first areas of focus, but the organization will support all countries in the region in their preparation efforts. Coronaviruses are a family of viruses that infect both animals and humans. Human coronaviruses can cause mild disease like a common cold, while others cause more severe disease (such as MERS - Middle East Respiratory Syndrome and SARS \u2013 Severe Acute Respiratory Syndrome). Some coronaviruses that are found in animals can infect humans \u2013 these are known as zoonotic diseases. Human coronaviruses are usually spread through droplets (coughing) and close personal unprotected contact with an infected person (touching, shaking hands). On 31 December 2019, WHO was alerted to several cases of pneumonia in Wuhan City, Hubei Province of China. The virus did not match any other known virus. This raised concern because when a virus is new, how it affects people may not be well known. One week later, on 7 January 2020, Chinese authorities confirmed that they had identified a new virus. The new virus is a coronavirus, which is a family of viruses that are known to cause illness ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS. This new virus was temporarily named \u201c2019-nCoV.\u201d Find out more in this latest update issued by the",
+  "date": "31 January 2020"
+}

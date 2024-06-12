@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7958ab60-c0cc-4dbf-bfbf-e5a40c3a4869",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.240885734558105,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014990755880717188,
+          "perplexity": 26,
+          "sentence": "New York - United Nations Secretary-General Ant\u00f3nio Guterres today announced the appointment of Anita Kiki Gbeho of Ghana as his new Deputy Special Representative for the United Nations Assistance Mission in Somalia (UNSOM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014817492046859115,
+          "perplexity": 33,
+          "sentence": "Ms. Gbeho succeeds Raisedon Zenenga of Zimbabwe who has been appointed as Assistant Secretary-General and Mission Coordinator of the United Nations Support Mission in Libya (UNSMIL) and to whom the Secretary-General is grateful for his dedicated service and contribution to the work of the United Nations in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001420009066350758,
+          "perplexity": 45,
+          "sentence": "Ms. Gbeho brings over 25 years of experience in strategic planning, coordination and management in political, development and humanitarian affairs at United Nations Headquarters and in field operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013639262760989368,
+          "perplexity": 40,
+          "sentence": "Her work has included establishing high level political and strategic relations with national authorities, regional bodies and partners in conflict and post-conflict environments and diverse settings such as Angola, Cambodia, Iraq, Namibia, Sudan and Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001396141160512343,
+          "perplexity": 41,
+          "sentence": "Since May 2018, Ms. Gbeho has served as Deputy Joint Special Representative of the United Nations-African Union Hybrid Operation in Darfur (UNAMID) where she led the development and implementation of the Mission's transition strategy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013503976515494287,
+          "perplexity": 41,
+          "sentence": "From July 2015 to April 2018, she was Resident Coordinator and Resident Representative with the United Nations Development Programme in Namibia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001318004506174475,
+          "perplexity": 16,
+          "sentence": "She has also served as Chief of Section in the Office for the Coordination of Humanitarian Affairs (OCHA) in New York and as Head of Office for OCHA in Somalia and Southern Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014237617142498493,
+          "perplexity": 13,
+          "sentence": "Ms. Gbeho holds a Bachelor of Arts in Social Sciences and African Studies from the State University of New York and a Master's degree in International Relations from the University of Ghana.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York \u2013 United Nations Secretary-General Ant\u00f3nio Guterres today announced the appointment of Anita Kiki Gbeho of Ghana as his new Deputy Special Representative for the United Nations Assistance Mission in Somalia (UNSOM). Ms. Gbeho succeeds Raisedon Zenenga of Zimbabwe who has been appointed as Assistant Secretary-General and Mission Coordinator of the United Nations Support Mission in Libya (UNSMIL) and to whom the Secretary-General is grateful for his dedicated service and contribution to the work of the United Nations in Somalia. Ms. Gbeho brings over 25 years of experience in strategic planning, coordination and management in political, development and humanitarian affairs at United Nations Headquarters and in field operations. Her work has included establishing high level political and strategic relations with national authorities, regional bodies and partners in conflict and post-conflict environments and diverse settings such as Angola, Cambodia, Iraq, Namibia, Sudan and Somalia. Since May 2018, Ms. Gbeho has served as Deputy Joint Special Representative of the United Nations-African Union Hybrid Operation in Darfur (UNAMID) where she led the development and implementation of the Mission\u2019s transition strategy. From July 2015 to April 2018, she was Resident Coordinator and Resident Representative with the United Nations Development Programme in Namibia. She has also served as Chief of Section in the Office for the Coordination of Humanitarian Affairs (OCHA) in New York and as Head of Office for OCHA in Somalia and Southern Sudan. Ms. Gbeho holds a Bachelor of Arts in Social Sciences and African Studies from the State University of New York and a Master\u2019s degree in International Relations from the University of Ghana.",
+  "date": "30 December 2020"
+}

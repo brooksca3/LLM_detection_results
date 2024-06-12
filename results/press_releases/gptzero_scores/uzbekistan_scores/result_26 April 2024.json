@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e60e48f3-f6d1-4c71-88ae-66e0c2fbcab0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 73.44483184814453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00040341290878131986,
+          "perplexity": 31,
+          "sentence": "On 26 April 2024, the UN Human Rights Office in Central Asia (OHCHR) jointly with the National Human Rights Centre of the Republic of Uzbekistan and the international non-governmental organization UPR.INFO concluded the series of events dedicated to the outcomes of the Fourth cycle of the Universal Periodic Review (UPR) of Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043159283814020455,
+          "perplexity": 41,
+          "sentence": "During the week, the OHCHR carried out an introductory session on the UPR and the role of the Parliament for the deputies of the Legislative Chamber and the members of the Senate of the Oliy Majlis of Uzbekistan; two workshops on the development of actions plans for the implementation of the UPR recommendations for civil society organizations and the Ombudsperson Institution and a workshop on the development of indicators to measure the implementation of recommendations for the representatives of state bodies and academia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000440952047938481,
+          "perplexity": 238,
+          "sentence": "\u201cThe workshop for civil society was very useful.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047860119957476854,
+          "perplexity": 59,
+          "sentence": "We were able not only to learn about the UPR recommendations but create partnership with other civil society activists in order to promote their implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004943429958075285,
+          "perplexity": 65,
+          "sentence": "I have already got some ideas on how to unite efforts with peer colleagues, the government, state bodies, the National Human Rights Centre and others in order to implement the recommendations aimed at eradicating torture in my country\u201d stated Ms. Elena Urlaeva, Leader of the Human Rights Alliance of Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006288607255555689,
+          "perplexity": 34,
+          "sentence": "Mr. Nariman Umarov, Chairperson of the Committee for Combatting Corruption and Judicial-Legal Issues of the Parliament's Senate, emphasized the role of the Parliament in the UPR process and stressed the importance of cooperation: \u201cWe deeply understand the significance of the participation and role of the Parliament in these processes, and we express our readiness to collaborate with the National Human Rights Center, OHCHR and UPR.INFO to develop National Action Plan and to implement the recommendations\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004599765525199473,
+          "perplexity": 107,
+          "sentence": "Earlier, on 4 April 2024, the OHCHR",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 26 April 2024, the UN Human Rights Office in Central Asia (OHCHR) jointly with the National Human Rights Centre of the Republic of Uzbekistan and the international non-governmental organization UPR.INFO concluded the series of events dedicated to the outcomes of the Fourth cycle of the Universal Periodic Review (UPR) of Uzbekistan. During the week, the OHCHR carried out an introductory session on the UPR and the role of the Parliament for the deputies of the Legislative Chamber and the members of the Senate of the Oliy Majlis of Uzbekistan; two workshops on the development of actions plans for the implementation of the UPR recommendations for civil society organizations and the Ombudsperson Institution and a workshop on the development of indicators to measure the implementation of recommendations for the representatives of state bodies and academia. \u201cThe workshop for civil society was very useful. We were able not only to learn about the UPR recommendations but create partnership with other civil society activists in order to promote their implementation. I have already got some ideas on how to unite efforts with peer colleagues, the government, state bodies, the National Human Rights Centre and others in order to implement the recommendations aimed at eradicating torture in my country\u201d stated Ms. Elena Urlaeva, Leader of the Human Rights Alliance of Uzbekistan. Mr. Nariman Umarov, Chairperson of the Committee for Combatting Corruption and Judicial-Legal Issues of the Parliament\u2019s Senate, emphasized the role of the Parliament in the UPR process and stressed the importance of cooperation: \u201cWe deeply understand the significance of the participation and role of the Parliament in these processes, and we express our readiness to collaborate with the National Human Rights Center, OHCHR and UPR.INFO to develop National Action Plan and to implement the recommendations\u201d. Earlier, on 4 April 2024, the OHCHR",
+  "date": "26 April 2024"
+}

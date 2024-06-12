@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "24380cef-f834-4435-b0c9-33b119628332",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 111.42598724365234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017858519277069718,
+          "perplexity": 76,
+          "sentence": "Today the United Nations (UN) in Thailand, the Thai mental health organisation Knowing Mind and the social change agency Love Frankie launched an online campaign, Unknown Together, to address growing concerns around mental health and the well-being of the local communities in Thailand as the country slowly emerges from the COVID-19 health crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018121444736607373,
+          "perplexity": 31,
+          "sentence": "Supported by Facebook Thailand, a wide array of mental health experts and practitioners as well as prominent social media influencers are joining forces to normalize mental health conversations and provide practical resources for the Thai public.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020206085173413157,
+          "perplexity": 68,
+          "sentence": "\"At first glance, COVID-19 is a health crisis, but as its impacts have become apparent, we realise it has a tremendous effect on our mental health and well-being,\u201d said Gita Sabharwal, the UN Resident Coordinator in Thailand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001850993139669299,
+          "perplexity": 54,
+          "sentence": "\u201cThis is due to a range of interconnected issues, from physical distancing, where people are kept away from their loved ones, to economic distress, misinformation and rumours that pan out on social media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017684846534393728,
+          "perplexity": 39,
+          "sentence": "With such growing psychosocial distress indicated amongst the population in Thailand, the UN is taking this initiative to ensure that the people of the country have ready access to resources, and someone to turn to, for psychosocial support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017676386050879955,
+          "perplexity": 72,
+          "sentence": "This initiative builds on the UN policy brief 'COVID-19 and the Need for Action on Mental Health' and we look forward to working with our partners to realize this in Thailand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020773784490302205,
+          "perplexity": 34,
+          "sentence": "A recent study by the Department of Mental Health indicated that the stress levels of the Thai general public have risen rapidly due to COVID-19, with a 38% increase from March to April in the number of people who rated themselves as extremely stressed or highly stressed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020367346587590873,
+          "perplexity": 74,
+          "sentence": "The department received 600 calls on their hotline in March 2020 alone, compared to 20-40 calls in previous months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001931269944179803,
+          "perplexity": 386,
+          "sentence": "\u201cWe are all living through challenging",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today the United Nations (UN) in Thailand, the Thai mental health organisation Knowing Mind and the social change agency Love Frankie launched an online campaign, Unknown Together, to address growing concerns around mental health and the well-being of the local communities in Thailand as the country slowly emerges from the COVID-19 health crisis. Supported by Facebook Thailand, a wide array of mental health experts and practitioners as well as prominent social media influencers are joining forces to normalize mental health conversations and provide practical resources for the Thai public. \"At first glance, COVID-19 is a health crisis, but as its impacts have become apparent, we realise it has a tremendous effect on our mental health and well-being,\u201d said Gita Sabharwal, the UN Resident Coordinator in Thailand. \u201cThis is due to a range of interconnected issues, from physical distancing, where people are kept away from their loved ones, to economic distress, misinformation and rumours that pan out on social media. With such growing psychosocial distress indicated amongst the population in Thailand, the UN is taking this initiative to ensure that the people of the country have ready access to resources, and someone to turn to, for psychosocial support. This initiative builds on the UN policy brief \u2018COVID-19 and the Need for Action on Mental Health\u2019 and we look forward to working with our partners to realize this in Thailand. A recent study by the Department of Mental Health indicated that the stress levels of the Thai general public have risen rapidly due to COVID-19, with a 38% increase from March to April in the number of people who rated themselves as extremely stressed or highly stressed. The department received 600 calls on their hotline in March 2020 alone, compared to 20-40 calls in previous months. \u201cWe are all living through challenging",
+  "date": "29 May 2020"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "979beb8a-5466-44bd-9165-a31aeabd9cc8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.291589736938477,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012880258145742118,
+          "perplexity": 39,
+          "sentence": "Mogadishu, 20 March 2023 - A new report released today by the Federal Ministry of Health & Human Services, WHO and UNICEF suggests that an estimated 43,000 excess deaths might have occurred in 2022 in Somalia resulting from a deepening drought when compared with 2017 and 2018 drought crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012642524961847812,
+          "perplexity": 14,
+          "sentence": "Half of these deaths might have occurred among children under the age of 5.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012622035865206271,
+          "perplexity": 35,
+          "sentence": "The findings of the report were released today by the Minister of Health of the Federal Government of Somalia, Dr Ali Hadji Adam Abubakar, in the presence of Mr Adam Abdelmoula, Deputy Special Representative of the Secretary-General and United Nations Resident and Humanitarian Coordinator for Somalia, Ms Wafaa Saeed, UNICEF Country Representative of Somalia and Dr Sk Md Mamunur Rahman Malik, WHO Representative for Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001263329468201846,
+          "perplexity": 54,
+          "sentence": "For the first time, a scenario-based forecast model was also developed from the same study to enable anticipatory action and avert drought-related deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012736119970213622,
+          "perplexity": 40,
+          "sentence": "The forecast spanning from January to June 2023, estimates that 135 people might also die each day due to the crisis, with total deaths projected to fall between 18,100 and 34,200 during this period.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012008219346171245,
+          "perplexity": 28,
+          "sentence": "These estimates suggest that, although famine has been averted for now, the crisis is far from over and is already more severe than the 2017-2018 drought crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011686339712468907,
+          "perplexity": 39,
+          "sentence": "These figures are derived from a statistical model which estimated that the crude death rate increased across Somalia from 0.33 to 0.38 deaths per 10 000 person-days over the period January-December 2022; the rate in children younger than 5 years was nearly double these levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011680545867420733,
+          "perplexity": 42,
+          "sentence": "For 2023, the crude death rate is forecasted to reach 0.42 deaths per 10 000 person-days by June 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011383295350242406,
+          "perplexity": 27,
+          "sentence": "Commissioned by UNICEF Regional Office and WHO country office of Somalia and carried out by the London School of Hygiene and Tropical Medicine and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 20 March 2023 \u2013 A new report released today by the Federal Ministry of Health & Human Services, WHO and UNICEF suggests that an estimated 43,000 excess deaths might have occurred in 2022 in Somalia resulting from a deepening drought when compared with 2017 and 2018 drought crisis. Half of these deaths might have occurred among children under the age of 5. The findings of the report were released today by the Minister of Health of the Federal Government of Somalia, Dr Ali Hadji Adam Abubakar, in the presence of Mr Adam Abdelmoula, Deputy Special Representative of the Secretary-General and United Nations Resident and Humanitarian Coordinator for Somalia, Ms Wafaa Saeed, UNICEF Country Representative of Somalia and Dr Sk Md Mamunur Rahman Malik, WHO Representative for Somalia. For the first time, a scenario-based forecast model was also developed from the same study to enable anticipatory action and avert drought-related deaths. The forecast spanning from January to June 2023, estimates that 135 people might also die each day due to the crisis, with total deaths projected to fall between 18,100 and 34,200 during this period. These estimates suggest that, although famine has been averted for now, the crisis is far from over and is already more severe than the 2017-2018 drought crisis. These figures are derived from a statistical model which estimated that the crude death rate increased across Somalia from 0.33 to 0.38 deaths per 10 000 person-days over the period January\u2013December 2022; the rate in children younger than 5 years was nearly double these levels. For 2023, the crude death rate is forecasted to reach 0.42 deaths per 10 000 person-days by June 2023. Commissioned by UNICEF Regional Office and WHO country office of Somalia and carried out by the London School of Hygiene and Tropical Medicine and",
+  "date": "20 March 2023"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bf645827-5641-4e87-802c-475fed39a119",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.27760314941406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012762888218276203,
+          "perplexity": 22,
+          "sentence": "Extraction of the Earth's natural resources tripled in the past five decades, related to the massive build-up of infrastructure in many parts of the world and the high levels of material consumption, especially in upper-middle and high-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001243626029463485,
+          "perplexity": 26,
+          "sentence": "Material extraction is expected to rise by 60 per cent by 2060 and could derail efforts to achieve not only global climate, biodiversity, and pollution targets but also economic prosperity and human well-being, according to a report published today by the UN Environment Programme (UNEP)-hosted International Resource Panel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012456069816835225,
+          "perplexity": 43,
+          "sentence": "The 2024 Global Resource Outlook, developed by the International Resource Panel with authors from around the globe and launched during the sixth session of the UN Environment Assembly, calls for sweeping policy changes to bring humanity to live within its means and reduce this projected growth in resource use by one third, while growing the economy, improving well-being, and minimizing environmental impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012179864279460162,
+          "perplexity": 60,
+          "sentence": "The report finds that growth in resource use since 1970 from 30 to 106 billion tonnes - or from 23 to 39 kilogrammes of materials used on average per person per day - has dramatic environmental impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001186469235108234,
+          "perplexity": 23,
+          "sentence": "Overall, resource extraction and processing account for over 60 per cent of planet-warming emissions and for 40 per cent of health-related impacts of air pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011747654934879392,
+          "perplexity": 21,
+          "sentence": "The extraction and processing of biomass (e.g., agricultural crops and forestry) accounts for 90 per cent of land-related biodiversity loss and water stress, as well as one-third of greenhouse gas emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011509721662150696,
+          "perplexity": 13,
+          "sentence": "Similarly, extraction and processing of fossil fuels, metals and non-metallic minerals (e.g., sand, gravel, clay) together account for 35 per cent of global emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011793101293733343,
+          "perplexity": 164,
+          "sentence": "\u201cThe triple planetary crisis of climate change, nature loss and pollution is driven from a crisis of unsustainable consumption and production.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012202299694763497,
+          "perplexity": 166,
+          "sentence": "We must work with nature, instead of merely exploiting it,\u201d said Inger Andersen, Executive",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Extraction of the Earth\u2019s natural resources tripled in the past five decades, related to the massive build-up of infrastructure in many parts of the world and the high levels of material consumption, especially in upper-middle and high-income countries. Material extraction is expected to rise by 60 per cent by 2060 and could derail efforts to achieve not only global climate, biodiversity, and pollution targets but also economic prosperity and human well-being, according to a report published today by the UN Environment Programme (UNEP)-hosted International Resource Panel. The 2024 Global Resource Outlook, developed by the International Resource Panel with authors from around the globe and launched during the sixth session of the UN Environment Assembly, calls for sweeping policy changes to bring humanity to live within its means and reduce this projected growth in resource use by one third, while growing the economy, improving well-being, and minimizing environmental impacts. The report finds that growth in resource use since 1970 from 30 to 106 billion tonnes \u2013 or from 23 to 39 kilogrammes of materials used on average per person per day \u2013 has dramatic environmental impacts. Overall, resource extraction and processing account for over 60 per cent of planet-warming emissions and for 40 per cent of health-related impacts of air pollution. The extraction and processing of biomass (e.g., agricultural crops and forestry) accounts for 90 per cent of land-related biodiversity loss and water stress, as well as one-third of greenhouse gas emissions. Similarly, extraction and processing of fossil fuels, metals and non-metallic minerals (e.g., sand, gravel, clay) together account for 35 per cent of global emissions. \u201cThe triple planetary crisis of climate change, nature loss and pollution is driven from a crisis of unsustainable consumption and production. We must work with nature, instead of merely exploiting it,\u201d said Inger Andersen, Executive",
+  "date": "01 March 2024"
+}

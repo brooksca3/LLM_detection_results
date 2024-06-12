@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e76e25eb-121f-47ee-96e1-1e774e0596d7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.47128386028653235,
+        "human": 0.5271108740394824,
+        "mixed": 0.001605265673985135
+      },
+      "completely_generated_prob": 0.47128386028653235,
+      "confidence_category": "low",
+      "confidence_score": 0.5271108740394824,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.47128386028653235,
+          "human": 0.5271108740394824,
+          "mixed": 0.001605265673985135
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.44118118286133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9482332318004326,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8997611403465271,
+          "perplexity": 35,
+          "sentence": "The United Nations and the Government of Norway convened a High-Level Side Event on Sudan on 30 September 2021 on the margins of the 76th session of the United Nations General Assembly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9104805588722229,
+          "perplexity": 127,
+          "sentence": "Delegations from 24 Member States and 8 international and regional organizations, attended.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.906640350818634,
+          "perplexity": 173,
+          "sentence": "The Event commenced with opening remarks by H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9137569069862366,
+          "perplexity": 7,
+          "sentence": "Mr. Ant\u00f3nio Guterres, Secretary-General of the United Nations, and H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9141941666603088,
+          "perplexity": 68,
+          "sentence": "Ms. Ine Marie Eriksen S\u00f8reide, Minister of Foreign Affairs of Norway, followed by remarks by H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9114413261413574,
+          "perplexity": 62,
+          "sentence": "Mr. Abdalla Hamdok, Prime Minister of Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9137582778930664,
+          "perplexity": 104,
+          "sentence": "Subsequently, Member States and organizations delivered remarks on support to Sudan's transition to an inclusive democracy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9030075669288635,
+          "perplexity": 20,
+          "sentence": "The Secretary-General commended the Sudanese people for their perseverance in this historic transition that seeks to realize their aspirations for an inclusive, peaceful, prosperous, and democratic future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9049587249755859,
+          "perplexity": 40,
+          "sentence": "Over the past two years, the transitional Government has reached important milestones and continued to advance democratic governance and peacemaking efforts, despite ongoing challenges, notably in the establishment of transitional institutions and securing justice for past abuses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8914085030555725,
+          "perplexity": 48,
+          "sentence": "The High-Level Side Event provided an opportunity to take stock of the overall progress achieved thus far and reaffirm international support for the transition at a critical time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8933676481246948,
+          "perplexity": 22,
+          "sentence": "The Secretary-General called on all parties to remain committed to the transition, underscoring that any effort to undermine it will jeopardise the hard-earned progress made on political and economic fronts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8825303316116333,
+          "perplexity": 68,
+          "sentence": "In his remarks, Prime Minister Hamdok elaborated on the accomplishments and challenges of the Sudanese transition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8952459096908569,
+          "perplexity": 69,
+          "sentence": "He highlighted Sudan's legislative reform process, economic reform efforts that had enabled it to begin receiving debt relief under the Heavily Indebted Poor Countries (HIPC) Initiative and move Sudan towards economic progress and improved conditions for investment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8913353085517883,
+          "perplexity": 37,
+          "sentence": "Prime Minister Hamdok also highlighted ongoing efforts to implement the Juba Peace Agreement (JPA), signed almost a year ago, as well as efforts to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations and the Government of Norway convened a High-Level Side Event on Sudan on 30 September 2021 on the margins of the 76th session of the United Nations General Assembly. Delegations from 24 Member States and 8 international and regional organizations, attended. The Event commenced with opening remarks by H.E. Mr. Ant\u00f3nio Guterres, Secretary-General of the United Nations, and H.E. Ms. Ine Marie Eriksen S\u00f8reide, Minister of Foreign Affairs of Norway, followed by remarks by H.E. Mr. Abdalla Hamdok, Prime Minister of Sudan. Subsequently, Member States and organizations delivered remarks on support to Sudan\u2019s transition to an inclusive democracy. The Secretary-General commended the Sudanese people for their perseverance in this historic transition that seeks to realize their aspirations for an inclusive, peaceful, prosperous, and democratic future. Over the past two years, the transitional Government has reached important milestones and continued to advance democratic governance and peacemaking efforts, despite ongoing challenges, notably in the establishment of transitional institutions and securing justice for past abuses. The High-Level Side Event provided an opportunity to take stock of the overall progress achieved thus far and reaffirm international support for the transition at a critical time. The Secretary-General called on all parties to remain committed to the transition, underscoring that any effort to undermine it will jeopardise the hard-earned progress made on political and economic fronts. In his remarks, Prime Minister Hamdok elaborated on the accomplishments and challenges of the Sudanese transition. He highlighted Sudan\u2019s legislative reform process, economic reform efforts that had enabled it to begin receiving debt relief under the Heavily Indebted Poor Countries (HIPC) Initiative and move Sudan towards economic progress and improved conditions for investment. Prime Minister Hamdok also highlighted ongoing efforts to implement the Juba Peace Agreement (JPA), signed almost a year ago, as well as efforts to",
+  "date": "30 September 2021"
+}

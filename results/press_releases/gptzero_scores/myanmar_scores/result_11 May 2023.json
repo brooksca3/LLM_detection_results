@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "70f973dc-8eb7-403e-916d-b29169f3ea85",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.448104858398438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008574156672693789,
+          "perplexity": 58,
+          "sentence": "New Delhi - The Special Envoy of the UN Secretary-General on Myanmar Noeleen Heyzer today reinforced that a unified regional approach supporting Myanmar-led solutions, in accordance with the will and needs of the people, can make tangible progress on the ground, urgently address the suffering of the people and prevent a catastrophe in the heart of Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008578209672123194,
+          "perplexity": 27,
+          "sentence": "In her first visit to New Delhi as UN Special Envoy from 9 to 10 May, the Special Envoy held discussions with Minister of External Affairs of India H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007094647735357285,
+          "perplexity": 64,
+          "sentence": "Subrahmanyam Jaishankar, Foreign Secretary Vinay Mohan Kwatra and Joint Secretary (Bangladesh-Myanmar) Smita Pant.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012463239254429936,
+          "perplexity": 28,
+          "sentence": "Underlining that India as a neighbouring country has been particularly impacted by the situation in Myanmar, Indian officials emphasized the need for immediate cessation of violence by all sides and fostering dialogue for return of peace, stability and democracy in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001262117177248001,
+          "perplexity": 24,
+          "sentence": "Indian officials also reiterated their support to the efforts of the UN and ASEAN.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010821353644132614,
+          "perplexity": 75,
+          "sentence": "Special Envoy Heyzer highlighted India's key role in the United Nations and as a leader of the Global South holding the current presidency of the G20.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011235452257096767,
+          "perplexity": 34,
+          "sentence": "She appreciated India's constructive efforts towards peaceful resolution of the situation in Myanmar and also expressed the United Nations' gratitude to the Government and people of India for generously hosting over 53,000 people from Myanmar, acknowledging the major challenges facing Myanmar's neighbouring countries affected by the escalating conflict and violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006397594697773457,
+          "perplexity": 25,
+          "sentence": "In this context, the Special Envoy reinforced the need for concrete steps to resolve the crisis and build the foundation for sustainable peace and a return to civilian rule based on the will of the people, such as cessation of violence, immediate release of all political prisoners, including State Counsellor Aung San Suu Kyi and President Win Myint, and unimpeded humanitarian assistance through all available channels reaching the most vulnerable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New Delhi - The Special Envoy of the UN Secretary-General on Myanmar Noeleen Heyzer today reinforced that a unified regional approach supporting Myanmar-led solutions, in accordance with the will and needs of the people, can make tangible progress on the ground, urgently address the suffering of the people and prevent a catastrophe in the heart of Asia. In her first visit to New Delhi as UN Special Envoy from 9 to 10 May, the Special Envoy held discussions with Minister of External Affairs of India H.E. Subrahmanyam Jaishankar, Foreign Secretary Vinay Mohan Kwatra and Joint Secretary (Bangladesh-Myanmar) Smita Pant. Underlining that India as a neighbouring country has been particularly impacted by the situation in Myanmar, Indian officials emphasized the need for immediate cessation of violence by all sides and fostering dialogue for return of peace, stability and democracy in Myanmar. Indian officials also reiterated their support to the efforts of the UN and ASEAN. Special Envoy Heyzer highlighted India\u2019s key role in the United Nations and as a leader of the Global South holding the current presidency of the G20. She appreciated India\u2019s constructive efforts towards peaceful resolution of the situation in Myanmar and also expressed the United Nations\u2019 gratitude to the Government and people of India for generously hosting over 53,000 people from Myanmar, acknowledging the major challenges facing Myanmar\u2019s neighbouring countries affected by the escalating conflict and violence. In this context, the Special Envoy reinforced the need for concrete steps to resolve the crisis and build the foundation for sustainable peace and a return to civilian rule based on the will of the people, such as cessation of violence, immediate release of all political prisoners, including State Counsellor Aung San Suu Kyi and President Win Myint, and unimpeded humanitarian assistance through all available channels reaching the most vulnerable",
+  "date": "11 May 2023"
+}

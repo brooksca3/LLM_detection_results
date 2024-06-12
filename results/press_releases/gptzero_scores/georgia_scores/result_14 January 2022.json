@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e69b4945-b657-488d-aac5-1c5e28ee0af8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.24985694885254,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010777685092762113,
+          "perplexity": 108,
+          "sentence": "The United Nations Country Team in Georgia expresses its regret over the decision of Georgian authorities to abolish the State Inspector's Service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035464134998619556,
+          "perplexity": 108,
+          "sentence": "The United Nations Country Team in Georgia expresses its regret over the decision of Georgian authorities to abolish the State Inspector's Service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033245462691411376,
+          "perplexity": 54,
+          "sentence": "On 13 January 2022 the President has signed a new law abolishing the State Inspector's Service and creating two separate institutions: Special Investigative Service and Personal Data Protection Service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006377446698024869,
+          "perplexity": 35,
+          "sentence": "We are particularly concerned about the expedited manner and lack of inclusive and transparent discussions about the abolition of one of the most credible, independent and authoritative institutions in Georgia that is mandated to investigate alleged human rights violations committed by law enforcement officials and is entrusted with the oversight of personal data protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000814572733361274,
+          "perplexity": 40,
+          "sentence": "The lack of convincing justification for abolishing the State Inspector's Service and the absence of compelling rationale for stripping the State Inspector of her six-year mandate sends a chilling message to independent institutions of human rights protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000474096043035388,
+          "perplexity": 44,
+          "sentence": "We are concerned that the substantial broadening of the list of crimes falling within the mandate of a newly created Special Investigation Service entails a serious risk of overburdening the agency and distracting its team from fulfilling its primary mandate to combat impunity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021519300935324281,
+          "perplexity": 34,
+          "sentence": "We recall the recommendation by UN Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment on his mission to Georgia (2015) stating concerns 'at the risk that unduly broad jurisdiction, whether exclusive or discretionary, may make the task of the [State Inspector] overly burdensome [if]... offences committed by law enforcement agents that are not part of the core group of torture or cruel, inhuman or degrading treatment or punishment\u2026 [fall within its mandate]'.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024160821340046823,
+          "perplexity": 44,
+          "sentence": "We call on the authorities to request the opinion of relevant international institutions on the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Country Team in Georgia expresses its regret over the decision of Georgian authorities to abolish the State Inspector\u2019s Service. The United Nations Country Team in Georgia expresses its regret over the decision of Georgian authorities to abolish the State Inspector\u2019s Service. On 13 January 2022 the President has signed a new law abolishing the State Inspector\u2019s Service and creating two separate institutions: Special Investigative Service and Personal Data Protection Service. We are particularly concerned about the expedited manner and lack of inclusive and transparent discussions about the abolition of one of the most credible, independent and authoritative institutions in Georgia that is mandated to investigate alleged human rights violations committed by law enforcement officials and is entrusted with the oversight of personal data protection. The lack of convincing justification for abolishing the State Inspector\u2019s Service and the absence of compelling rationale for stripping the State Inspector of her six-year mandate sends a chilling message to independent institutions of human rights protection. We are concerned that the substantial broadening of the list of crimes falling within the mandate of a newly created Special Investigation Service entails a serious risk of overburdening the agency and distracting its team from fulfilling its primary mandate to combat impunity. We recall the recommendation by UN Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment on his mission to Georgia (2015) stating concerns \u2018at the risk that unduly broad jurisdiction, whether exclusive or discretionary, may make the task of the [State Inspector] overly burdensome [if] ... offences committed by law enforcement agents that are not part of the core group of torture or cruel, inhuman or degrading treatment or punishment\u2026 [fall within its mandate]\u2019. We call on the authorities to request the opinion of relevant international institutions on the",
+  "date": "14 January 2022"
+}

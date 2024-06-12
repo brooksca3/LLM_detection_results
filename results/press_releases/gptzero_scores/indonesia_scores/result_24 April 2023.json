@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c9203408-6544-42b9-9c7e-670749705f45",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 8.068456649780273,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001598340313648805,
+          "perplexity": 44,
+          "sentence": "Hangzhou, 24 April 2023 - With most of the Sustainable Development Goals (SDGs) still far from being achieved at this mid-point of the implementation of the 2030 Agenda, over 2,000 data experts from 140 countries are gathering in Hangzhou, China in person \u1173 almost 20,000 people will participate virtually \u1173 at the 2023 UN World Data Forum from 24 to 27 April to find solutions for equitable and open access to data.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001756474084686488,
+          "perplexity": 37,
+          "sentence": "Better data is central to accelerating progress towards the SDGs and addressing the multiple crises that are threatening poverty eradication, food security, the environment and peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000172521555214189,
+          "perplexity": 22,
+          "sentence": "\u201cWe can't carve out effective solutions to the problems we're facing if we don't fully understand the who, what, when, where, and why of the sources and the impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016488644178025424,
+          "perplexity": 37,
+          "sentence": "We need robust data that can give us the insights we need,\u201d said Li Junhua, UN Under-Secretary-General for Economic and Social Affairs, and head of the Forum secretariat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015865299792494625,
+          "perplexity": 44,
+          "sentence": "\u201cBy convening such a diverse range of practitioners across the global data and statistics landscape, this Forum can help generate the solutions, partnerships and pathways that we need to better leverage data for decision-making and bring the world closer to achieving the SDGs.\u201d The rapid expansion in new sources of data - from national statistical offices (NSOs) to citizen-generated data and private sector data for public good - are creating large-scale opportunities for innovative approaches and partnerships for better data to achieve a more sustainable future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014054551138542593,
+          "perplexity": 35,
+          "sentence": "The fourth of its kind and the first to be held in the Asia-Pacific region, the 2023 UN World Data Forum will bring together major data producers and users of data from NSOs, policymakers, the geospatial community, business, civil society and scientific institutions to collaborate and launch innovative initiatives that will deliver better data on",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Hangzhou, 24 April 2023 \u2013 With most of the Sustainable Development Goals (SDGs) still far from being achieved at this mid-point of the implementation of the 2030 Agenda, over 2,000 data experts from 140 countries are gathering in Hangzhou, China in person \u2014 almost 20,000 people will participate virtually \u2014 at the 2023 UN World Data Forum from 24 to 27 April to find solutions for equitable and open access to data. Better data is central to accelerating progress towards the SDGs and addressing the multiple crises that are threatening poverty eradication, food security, the environment and peace and security. \u201cWe can\u2019t carve out effective solutions to the problems we\u2019re facing if we don\u2019t fully understand the who, what, when, where, and why of the sources and the impacts. We need robust data that can give us the insights we need,\u201d said Li Junhua, UN Under-Secretary-General for Economic and Social Affairs, and head of the Forum secretariat. \u201cBy convening such a diverse range of practitioners across the global data and statistics landscape, this Forum can help generate the solutions, partnerships and pathways that we need to better leverage data for decision-making and bring the world closer to achieving the SDGs.\u201d The rapid expansion in new sources of data \u2013 from national statistical offices (NSOs) to citizen-generated data and private sector data for public good \u2013 are creating large-scale opportunities for innovative approaches and partnerships for better data to achieve a more sustainable future for all. The fourth of its kind and the first to be held in the Asia-Pacific region, the 2023 UN World Data Forum will bring together major data producers and users of data from NSOs, policymakers, the geospatial community, business, civil society and scientific institutions to collaborate and launch innovative initiatives that will deliver better data on",
+  "date": "24 April 2023"
+}

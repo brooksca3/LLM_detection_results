@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ef2db14a-aa7d-4e41-91b1-f830fbaf3a8d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.406675338745117,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002571535005699843,
+          "perplexity": 28,
+          "sentence": "VIENNA/GENEVA (24 August 2023) - Members of the United Nations Independent International Commission of Inquiry on Ukraine will undertake their third visit to the country from 28 August to 4 September 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000298068713163957,
+          "perplexity": 24,
+          "sentence": "The Commissioners will visit several locations in Ukraine, including Uman in Cherkasy region and Kyiv, as part of their ongoing fact-finding mission to investigate alleged human rights violations and abuses, and international humanitarian law violations and to meet with victims and witnesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030427894671447575,
+          "perplexity": 41,
+          "sentence": "The three Commissioners taking part in the mission - Erik M\u00f8se (Chair), Pablo de Greiff and Vrinda Grover - are expected to meet government officials, including key ministers, members of civil society, representatives of United Nations agencies, international organisations, and the diplomatic corps to discuss the situation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006807548343203962,
+          "perplexity": 70,
+          "sentence": "The Commissioners will hold a press conference towards the conclusion of their mission: Media contacts: Saule Mukhametrakhimova (traveling with the Commission), Commission of Inquiry Media Adviser, at saule.mukhametrakhimova@un.org / +43 676 3493464; In Geneva: Todd Pitman, Investigations Support Unit Media Adviser, todd.pitman@un.org / +41 76 691 1761, Pascal Sim, HRC Media Officer, simp@un.org / +41 79 477 4411.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009335622889921069,
+          "perplexity": 10,
+          "sentence": "Background: The UN Independent International Commission of Inquiry on Ukraine is an independent body mandated by the UN Human Rights Council to, among other things, investigate all alleged violations and abuses of human rights and violations of international humanitarian law, and related crimes in the context of the aggression against Ukraine by the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009342351113446057,
+          "perplexity": 40,
+          "sentence": "Its aim is to establish the facts, circumstances and root causes of any such violations and abuses; and to collect, consolidate and analyse evidence of such violations and abuses, including their gender dimension, in view of any future legal proceedings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010292546357959509,
+          "perplexity": 21,
+          "sentence": "The Commission will submit reports of its activities to the General Assembly in October 2023, and to the UN Human Rights Council in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "VIENNA/GENEVA (24 August 2023) - Members of the United Nations Independent International Commission of Inquiry on Ukraine will undertake their third visit to the country from 28 August to 4 September 2023. The Commissioners will visit several locations in Ukraine, including Uman in Cherkasy region and Kyiv, as part of their ongoing fact-finding mission to investigate alleged human rights violations and abuses, and international humanitarian law violations and to meet with victims and witnesses. The three Commissioners taking part in the mission - Erik M\u00f8se (Chair), Pablo de Greiff and Vrinda Grover - are expected to meet government officials, including key ministers, members of civil society, representatives of United Nations agencies, international organisations, and the diplomatic corps to discuss the situation in the country. The Commissioners will hold a press conference towards the conclusion of their mission: Media contacts: Saule Mukhametrakhimova (traveling with the Commission), Commission of Inquiry Media Adviser, at saule.mukhametrakhimova@un.org / +43 676 3493464; In Geneva: Todd Pitman, Investigations Support Unit Media Adviser, todd.pitman@un.org / +41 76 691 1761, Pascal Sim, HRC Media Officer, simp@un.org / +41 79 477 4411. Background: The UN Independent International Commission of Inquiry on Ukraine is an independent body mandated by the UN Human Rights Council to, among other things, investigate all alleged violations and abuses of human rights and violations of international humanitarian law, and related crimes in the context of the aggression against Ukraine by the Russian Federation. Its aim is to establish the facts, circumstances and root causes of any such violations and abuses; and to collect, consolidate and analyse evidence of such violations and abuses, including their gender dimension, in view of any future legal proceedings. The Commission will submit reports of its activities to the General Assembly in October 2023, and to the UN Human Rights Council in",
+  "date": "25 August 2023"
+}

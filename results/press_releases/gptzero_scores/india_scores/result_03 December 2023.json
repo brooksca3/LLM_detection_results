@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2c808913-b0a0-496f-b03f-397cdd717c6d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 192.377197265625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015685756807215512,
+          "perplexity": 39,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks for the COP28 Roundtable with Non-State Actors on the Report of the High-Level Expert Group on Net Zero on 3 December at Dubai, UAE: Businesses, financial institutions, civil society, cities, states and regions are all critical in the race to net-zero.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001795980060705915,
+          "perplexity": 50,
+          "sentence": "My Acceleration Agenda calls on governments and non-state actors to radically speed-up efforts to cut emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017635188123676926,
+          "perplexity": 54,
+          "sentence": "The report by my High-Level Expert Group on Net Zero, so well represented here, provides a blueprint for credible climate action by non-state actors that aligns with limiting global temperature rise to 1.5 degrees Celsius.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018447225738782436,
+          "perplexity": 79,
+          "sentence": "To be credible, transition plans must include five key elements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001498508354416117,
+          "perplexity": 549,
+          "sentence": "First -- plans must cover all activities, across every link of value chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001520813093520701,
+          "perplexity": 239,
+          "sentence": "Genuine decarbonization cannot be substituted with dubious offsets or carbon credits, in any scope of emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016367870557587594,
+          "perplexity": 135,
+          "sentence": "Second -- plans must detail targets for 2025, 2030 and 2035.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015952311514411122,
+          "perplexity": 34,
+          "sentence": "And these plans must be in line with science-based pathways to limit warming to 1.5 degrees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001472088333684951,
+          "perplexity": 512,
+          "sentence": "Third -- plans must disclose all lobbying, policy engagements and communication campaigns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001602015836397186,
+          "perplexity": 74,
+          "sentence": "We need to take every step to discourage greenwashing and ensure full transparency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015401023847516626,
+          "perplexity": 157,
+          "sentence": "Fourth -- plans must highlight efforts to change business models and internal operations to phase out fossil fuels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014423813263420016,
+          "perplexity": 622,
+          "sentence": "And fifth -- plans must outline a just, equitable and accelerated renewables transition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013318333367351443,
+          "perplexity": 95,
+          "sentence": "I'm encouraged by some initial steps to align transition plans with the High-Level Group's recommendations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012890469224657863,
+          "perplexity": 140,
+          "sentence": "The Climate Ambition Summit in September spotlighted first movers and doers from business, financial institutions, cities and regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014318925968836993,
+          "perplexity": 124,
+          "sentence": "Many of you are here today contributing with practical solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013813363329973072,
+          "perplexity": 41,
+          "sentence": "The UNFCCC is also working to bring consistency and transparency to how countries and companies report on their net-zero progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012500975572038442,
+          "perplexity": 46,
+          "sentence": "And this is vital to helping consumers, investors and regulators understand what is credible and what",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks for the COP28 Roundtable with Non-State Actors on the Report of the High-Level Expert Group on Net Zero on 3 December at Dubai, UAE: Businesses, financial institutions, civil society, cities, states and regions are all critical in the race to net-zero. My Acceleration Agenda calls on governments and non-state actors to radically speed-up efforts to cut emissions. The report by my High-Level Expert Group on Net Zero, so well represented here, provides a blueprint for credible climate action by non-state actors that aligns with limiting global temperature rise to 1.5 degrees Celsius. To be credible, transition plans must include five key elements. First -- plans must cover all activities, across every link of value chains. Genuine decarbonization cannot be substituted with dubious offsets or carbon credits, in any scope of emissions. Second -- plans must detail targets for 2025, 2030 and 2035. And these plans must be in line with science-based pathways to limit warming to 1.5 degrees. Third -- plans must disclose all lobbying, policy engagements and communication campaigns. We need to take every step to discourage greenwashing and ensure full transparency. Fourth -- plans must highlight efforts to change business models and internal operations to phase out fossil fuels. And fifth -- plans must outline a just, equitable and accelerated renewables transition. I\u2019m encouraged by some initial steps to align transition plans with the High-Level Group\u2019s recommendations. The Climate Ambition Summit in September spotlighted first movers and doers from business, financial institutions, cities and regions. Many of you are here today contributing with practical solutions. The UNFCCC is also working to bring consistency and transparency to how countries and companies report on their net-zero progress. And this is vital to helping consumers, investors and regulators understand what is credible and what",
+  "date": "03 December 2023"
+}

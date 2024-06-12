@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0abf12d6-4d62-4408-91ee-cea600f5dcc6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.281354904174805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015633406292181462,
+          "perplexity": 22,
+          "sentence": "Belgrade, 28 October 2019 - The United Nations in Serbia and the Government of the Republic of Serbia, represented at this event by the First Deputy Prime Minister and the Minister of Foreign Affairs, observed the 74th anniversary of the United Nations, reaffirming their commitments to multilateralism and cooperation to achieve the Sustainable Development Goals by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015299473307095468,
+          "perplexity": 57,
+          "sentence": "Speaking at the opening of the event, the newly appointed UN Resident Coordinator in Serbia Fran\u00e7oise Jacob emphasized commitment to values of the UN Charter and the Universal Declaration of Human Rights and the urgency to reach 17 Sustainable Development Goals by 2030 \u201cto make this planet a better world, with greater solidarity, trust, dignity and fairness, while Leaving No One Behind\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015589642862323672,
+          "perplexity": 60,
+          "sentence": "She also congratulated the Government of Serbia for submitting the Voluntary National Report on the implementation of the Agenda 2030 for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014481750258710235,
+          "perplexity": 44,
+          "sentence": "By quoting the UN Secretary-General Antonio Guterres who highlighted the UN's role to maintain peace - while bringing life-saving aid to millions caught in armed conflict, Ms Simona Miculescu, Representative of the UN Secretary General and Head of UN Office in Belgrade pointed that the UN is extremely grateful for the troop contributions made by the countries in this region to advance organization's peacekeeping efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013700081035494804,
+          "perplexity": 69,
+          "sentence": "\u201cSerbia has made a significant contribution in this respect, by deploying over 250 uniformed and civilian personnel in five peace operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001330086961388588,
+          "perplexity": 69,
+          "sentence": "We commend the professionalism and good reputation of Serbian peacekeepers and pay tribute to the eight Serbian peacekeepers who have made the ultimate sacrifice under the UN flag\u201d, said Ms. Miculescu.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013316581316757947,
+          "perplexity": 22,
+          "sentence": "First Deputy Prime Minister and the Minister of Foreign Affairs Ivica Da\u010di\u0107 highlighted the great importance that the Republic of Serbia attaches to the United Nations, as the global and the most important international organization which plays a key role in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 28 October 2019 \u2013 The United Nations in Serbia and the Government of the Republic of Serbia, represented at this event by the First Deputy Prime Minister and the Minister of Foreign Affairs, observed the 74th anniversary of the United Nations, reaffirming their commitments to multilateralism and cooperation to achieve the Sustainable Development Goals by 2030. Speaking at the opening of the event, the newly appointed UN Resident Coordinator in Serbia Fran\u00e7oise Jacob emphasized commitment to values of the UN Charter and the Universal Declaration of Human Rights and the urgency to reach 17 Sustainable Development Goals by 2030 \u201cto make this planet a better world, with greater solidarity, trust, dignity and fairness, while Leaving No One Behind\u201d. She also congratulated the Government of Serbia for submitting the Voluntary National Report on the implementation of the Agenda 2030 for Sustainable Development. By quoting the UN Secretary-General Antonio Guterres who highlighted the UN\u2019s role to maintain peace \u2013 while bringing life-saving aid to millions caught in armed conflict, Ms Simona Miculescu, Representative of the UN Secretary General and Head of UN Office in Belgrade pointed that the UN is extremely grateful for the troop contributions made by the countries in this region to advance organization\u2019s peacekeeping efforts. \u201cSerbia has made a significant contribution in this respect, by deploying over 250 uniformed and civilian personnel in five peace operations. We commend the professionalism and good reputation of Serbian peacekeepers and pay tribute to the eight Serbian peacekeepers who have made the ultimate sacrifice under the UN flag\u201d, said Ms. Miculescu. First Deputy Prime Minister and the Minister of Foreign Affairs Ivica Da\u010di\u0107 highlighted the great importance that the Republic of Serbia attaches to the United Nations, as the global and the most important international organization which plays a key role in",
+  "date": "28 October 2019"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b81fddcc-b519-499b-b139-b1d1abf42c89",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.3851318359375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007022598292678595,
+          "perplexity": 51,
+          "sentence": "Kuwait/25 March 2021, the International Organization for Migration (IOM), UN Migration agency in Kuwait in partnership with the Embassy of the Kingdom of the Netherlands in Kuwait organized workshops from the 21st until the 25th of March, on 'Responsible Reporting' for media professionals, to provide a better understanding of the local migration context and enhance their skills and accuracy of information when covering their stories in the media using a compassionate and humane approach.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007360114250332117,
+          "perplexity": 61,
+          "sentence": "This training event was implemented under IOM's cooperation project agreement signed with the Embassy of the Kingdom of the Netherlands in Kuwait in November of 2020, and in cooperation with the Ministry of Information.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006708739092573524,
+          "perplexity": 65,
+          "sentence": "The two workshops were organized within a duration of a week, 3 days workshop targeting media professionals and an additional two-day workshop for social media influencers and university students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007277546101249754,
+          "perplexity": 43,
+          "sentence": "\u201cBeyond these institutional responsibilities, the reality is that thousands of people post negative and hateful content on their social media accounts every day, and at some point, explicitly call for violent action against migrants and other vulnerable groups\u201d Mazen AboulHosn, IOM Kuwait Chief of Mission said during his opening remarks \u201cComments on social networks are more than just words, and they should not be seen as harmless, especially when social networks are a source of information for migrants and the general public, and contribute to their experiences.\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006801967392675579,
+          "perplexity": 14,
+          "sentence": "H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006223070085979998,
+          "perplexity": 81,
+          "sentence": "Laurens Westhoff, Ambassador of the Kingdom of the Netherlands in Kuwait said \u201cIn the past 10 years, social media has had increasing influence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005413045873865485,
+          "perplexity": 50,
+          "sentence": "Many people on social media do not adhere to the principles of responsible reporting and the algorithms make the receiver hear the same opinion over and over again.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005079127149656415,
+          "perplexity": 34,
+          "sentence": "We need to be inclusive and allow as many voices as possible to express their opinion then leave it to the receiver",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait/25 March 2021, the International Organization for Migration (IOM), UN Migration agency in Kuwait in partnership with the Embassy of the Kingdom of the Netherlands in Kuwait organized workshops from the 21st until the 25th of March, on \u2018Responsible Reporting\u2019 for media professionals , to provide a better understanding of the local migration context and enhance their skills and accuracy of information when covering their stories in the media using a compassionate and humane approach. This training event was implemented under IOM\u2019s cooperation project agreement signed with the Embassy of the Kingdom of the Netherlands in Kuwait in November of 2020, and in cooperation with the Ministry of Information. The two workshops were organized within a duration of a week, 3 days workshop targeting media professionals and an additional two-day workshop for social media influencers and university students. \u201cBeyond these institutional responsibilities, the reality is that thousands of people post negative and hateful content on their social media accounts every day, and at some point, explicitly call for violent action against migrants and other vulnerable groups\u201d Mazen AboulHosn, IOM Kuwait Chief of Mission said during his opening remarks \u201cComments on social networks are more than just words, and they should not be seen as harmless, especially when social networks are a source of information for migrants and the general public , and contribute to their experiences.\u201d. H.E. Laurens Westhoff, Ambassador of the Kingdom of the Netherlands in Kuwait said \u201cIn the past 10 years, social media has had increasing influence. Many people on social media do not adhere to the principles of responsible reporting and the algorithms make the receiver hear the same opinion over and over again. We need to be inclusive and allow as many voices as possible to express their opinion then leave it to the receiver",
+  "date": "25 March 2021"
+}

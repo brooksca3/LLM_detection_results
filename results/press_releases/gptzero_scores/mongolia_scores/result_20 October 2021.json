@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f081cfa2-011c-42de-8d3f-d1697e0e5297",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.43497848510742,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00812361016869545,
+          "perplexity": 35,
+          "sentence": "2021 marks the 60th anniversary of Mongolia's membership in the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0066823093220591545,
+          "perplexity": 38,
+          "sentence": "This diamond jubilee of Mongolia's full-fledged membership in the United Nations means its assurance of independence and sovereignty for Mongolia, strengthening its position in the international community.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004194706212729216,
+          "perplexity": 30,
+          "sentence": "To celebrate this special occasion, the Ministry of Foreign Affairs of Mongolia and the United Nations Country Team in Mongolia jointly launched the \u201cUN Week\u201d from 20 to 27 October to promote the significance of this historical milestone to the Mongolian public, as announced at a press conference held on 18 October at the Ministry of Foreign Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004319609142839909,
+          "perplexity": 24,
+          "sentence": "At the press conference, the UN Resident Coordinator in Mongolia congratulated the people of Mongolia on the 60th anniversary of Mongolia's joining the UN.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003974908497184515,
+          "perplexity": 46,
+          "sentence": "He further underscored that partnerships between the UN and Mongolia that have matured into a strong and mutually beneficial partnership over the last six decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003615418914705515,
+          "perplexity": 54,
+          "sentence": "\u201cWe are happy that the UN has contributed to Mongolia in its socio-economic development, environmental protection, promotion of democracy and human rights,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003735617268830538,
+          "perplexity": 110,
+          "sentence": "\u201cThe entire UN Mongolia Country Team is determined to support Mongolia to further accelerate its progress to sustainable and inclusive development through our stronger partnerships in the next 60 years.\u201d Today, the UN week was launched by a tree planting event at Mt Bayanzurkh, 15 km from Ulaanbaatar City.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027889010962098837,
+          "perplexity": 44,
+          "sentence": "In his opening remarks, Deputy Minister for Foreign Affairs, Mr. B. Munkhjin said: \u201cTree planting is considered as one of the most effective ways to restore degraded land and reverse desertification.\u201d At the tree planting event were the representatives from UN agencies in Mongolia, the Ministry of Environment and Tourism and the Environmental Department of the City Mayor's Office, as well as senior diplomats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004785639699548483,
+          "perplexity": 109,
+          "sentence": "This event becomes even more significant as it contributed to the pledge by the President of Mongolia",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "2021 marks the 60th anniversary of Mongolia\u2019s membership in the United Nations. This diamond jubilee of Mongolia\u2019s full-fledged membership in the United Nations means its assurance of independence and sovereignty for Mongolia, strengthening its position in the international community. To celebrate this special occasion, the Ministry of Foreign Affairs of Mongolia and the United Nations Country Team in Mongolia jointly launched the \u201cUN Week\u201d from 20 to 27 October to promote the significance of this historical milestone to the Mongolian public, as announced at a press conference held on 18 October at the Ministry of Foreign Affairs. At the press conference, the UN Resident Coordinator in Mongolia congratulated the people of Mongolia on the 60th anniversary of Mongolia\u2019s joining the UN. He further underscored that partnerships between the UN and Mongolia that have matured into a strong and mutually beneficial partnership over the last six decades. \u201cWe are happy that the UN has contributed to Mongolia in its socio-economic development, environmental protection, promotion of democracy and human rights,\u201d he added. \u201cThe entire UN Mongolia Country Team is determined to support Mongolia to further accelerate its progress to sustainable and inclusive development through our stronger partnerships in the next 60 years.\u201d Today, the UN week was launched by a tree planting event at Mt Bayanzurkh, 15 km from Ulaanbaatar City. In his opening remarks, Deputy Minister for Foreign Affairs, Mr. B. Munkhjin said: \u201cTree planting is considered as one of the most effective ways to restore degraded land and reverse desertification.\u201d At the tree planting event were the representatives from UN agencies in Mongolia, the Ministry of Environment and Tourism and the Environmental Department of the City Mayor\u2019s Office, as well as senior diplomats. This event becomes even more significant as it contributed to the pledge by the President of Mongolia",
+  "date": "20 October 2021"
+}

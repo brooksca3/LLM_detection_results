@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d612c45b-10c3-4678-9609-6ca3b07fceb8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 74.08103942871094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016188672452699393,
+          "perplexity": 42,
+          "sentence": "Malaria prevalence has reduced, but three children continue to die of malaria every day 25 April, 2013, Lusaka, Zambia - The 2013 Millennium Development Goals (MDGs) Report for Zambia, which will be launched on 7 May, brings out significant progress made, as well as needed areas for acceleration of gains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018902964075095952,
+          "perplexity": 88,
+          "sentence": "One of these critical issues is malaria.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017807645781431347,
+          "perplexity": 39,
+          "sentence": "Three children die of Malaria every day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018714355246629566,
+          "perplexity": 120,
+          "sentence": "These are preventable deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000160943265655078,
+          "perplexity": 36,
+          "sentence": "Since the world leaders adopted the MDGs in 2000, increase in preventive interventions and expanded access to diagnostic testing and life-saving medicines have averted more than a million deaths from malaria globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001513778988737613,
+          "perplexity": 20,
+          "sentence": "Zambia is among those countries, which has made a significant progress in reducing malaria prevalence under 5 children from 16.1 per cent in 2010 to 14.3 per cent in 2012, according to the preliminary results of the National Malaria Indicator Survey 2012.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001432881545042619,
+          "perplexity": 25,
+          "sentence": "Over 4.7 million cases of malaria were treated at health facilities and 6.1 million Rapid Diagnostic Test (RDTs) kits were distributed to health facilities in 2012 alone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001319941511610523,
+          "perplexity": 32,
+          "sentence": "The percentage of pregnant women and children under the age of five sleeping under the treated mosquito net have also increased from 45 per cent and 50 per cent in 2010 to about 60 per cent and 57 period in 2012 respectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013721823052037507,
+          "perplexity": 52,
+          "sentence": "Zambia was awarded with the African leaders Malaria Alliance Award by the United Nations in recognition of the Country's achievements in reducing malaria infection rate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001236438110936433,
+          "perplexity": 24,
+          "sentence": "On average, each Zambian household had two mosquito nets, and 68 per cent of households had at least one mosquito net.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001198917962028645,
+          "perplexity": 77,
+          "sentence": "The average rural household have at least three mosquito nets while the urban household has two nets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012416447862051427,
+          "perplexity": 297,
+          "sentence": "At least 74 per cent have nets sprayed with long lasting insecticide whilst this coverage is 63 per cent amongst the wealthiest quintile.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012833965593017638,
+          "perplexity": 58,
+          "sentence": "It is commendable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Malaria prevalence has reduced, but three children continue to die of malaria every day 25 April, 2013, Lusaka, Zambia \u2013 The 2013 Millennium Development Goals (MDGs) Report for Zambia, which will be launched on 7 May, brings out significant progress made, as well as needed areas for acceleration of gains. One of these critical issues is malaria. Three children die of Malaria every day. These are preventable deaths. Since the world leaders adopted the MDGs in 2000, increase in preventive interventions and expanded access to diagnostic testing and life-saving medicines have averted more than a million deaths from malaria globally. Zambia is among those countries, which has made a significant progress in reducing malaria prevalence under 5 children from 16.1 per cent in 2010 to 14.3 per cent in 2012, according to the preliminary results of the National Malaria Indicator Survey 2012. Over 4.7 million cases of malaria were treated at health facilities and 6.1 million Rapid Diagnostic Test (RDTs) kits were distributed to health facilities in 2012 alone. The percentage of pregnant women and children under the age of five sleeping under the treated mosquito net have also increased from 45 per cent and 50 per cent in 2010 to about 60 per cent and 57 period in 2012 respectively. Zambia was awarded with the African leaders Malaria Alliance Award by the United Nations in recognition of the Country\u2019s achievements in reducing malaria infection rate. On average, each Zambian household had two mosquito nets, and 68 per cent of households had at least one mosquito net. The average rural household have at least three mosquito nets while the urban household has two nets. At least 74 per cent have nets sprayed with long lasting insecticide whilst this coverage is 63 per cent amongst the wealthiest quintile. It is commendable",
+  "date": "25 April 2013"
+}

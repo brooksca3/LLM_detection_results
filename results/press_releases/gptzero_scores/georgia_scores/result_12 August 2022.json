@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6f72a4bb-7c15-47bf-9650-83f812e855ce",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 126.41905975341797,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00038126230356283486,
+          "perplexity": 16,
+          "sentence": "On August 12 and 14, on the occasion of the International Youth Day, the United Nations Population Fund (UNFPA), with the support of the European Union, organizes the Youth Week, combining education and entertainment events.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003663823299575597,
+          "perplexity": 39,
+          "sentence": "On August 12, the Week will open with a youth festival in the town of Akhaltsikhe, and on August 14, it will continue with a youth festival in the town of Zestafoni.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003400352434255183,
+          "perplexity": 23,
+          "sentence": "International Youth Day celebrated annually on August 12 - was established by the United Nations (UN) to promote the inclusion of issues important to young people on the international agenda and to recognize the key role young people play in modern society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003364805888850242,
+          "perplexity": 53,
+          "sentence": "Within the framework of the Youth Week, an exhibition installation: \u201cYouth for Social Change\u201d will be organized, introducing 12 active young people from different regions of Georgia who believe in gender equality, want to make changes in their community and help create a healthy environment for future generations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003742946428246796,
+          "perplexity": 420,
+          "sentence": "The photos belong to Dina Oganova, and the illustrations - to Tatia Nadareishvili and ForSet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030898573459126055,
+          "perplexity": 53,
+          "sentence": "In addition, a youth forum will be held in both towns, within the framework of which the Body Shop company will hold a grant competition for young people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003318792150821537,
+          "perplexity": 140,
+          "sentence": "Young people will also have the opportunity to participate in the Public Broadcaster's intellectual game \u201cBookshelf\u201d, and the events will end with a concert given by Mebo Nutsubidze.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003445868205744773,
+          "perplexity": 59,
+          "sentence": "On August 12, the youth festival in Akhaltsikhe is organized by UNFPA, in cooperation with the local municipality and Akhaltsikhe City Hall, within the framework of the programme \u201cAddressing Gender-biased Sex Selection and Related Harmful Practices in South Caucasus\u201d, implemented with the support of the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004303797904867679,
+          "perplexity": 66,
+          "sentence": "On August 14, an event dedicated to the International Youth Day organized in cooperation with the local municipality and Zestafoni City Hall will be held",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On August 12 and 14, on the occasion of the International Youth Day, the United Nations Population Fund (UNFPA), with the support of the European Union, organizes the Youth Week, combining education and entertainment events. On August 12, the Week will open with a youth festival in the town of Akhaltsikhe, and on August 14, it will continue with a youth festival in the town of Zestafoni. International Youth Day celebrated annually on August 12 - was established by the United Nations (UN) to promote the inclusion of issues important to young people on the international agenda and to recognize the key role young people play in modern society. Within the framework of the Youth Week, an exhibition installation: \u201cYouth for Social Change\u201d will be organized, introducing 12 active young people from different regions of Georgia who believe in gender equality, want to make changes in their community and help create a healthy environment for future generations. The photos belong to Dina Oganova, and the illustrations \u2013 to Tatia Nadareishvili and ForSet. In addition, a youth forum will be held in both towns, within the framework of which the Body Shop company will hold a grant competition for young people. Young people will also have the opportunity to participate in the Public Broadcaster\u2019s intellectual game \u201cBookshelf\u201d, and the events will end with a concert given by Mebo Nutsubidze. On August 12, the youth festival in Akhaltsikhe is organized by UNFPA, in cooperation with the local municipality and Akhaltsikhe City Hall, within the framework of the programme \u201cAddressing Gender-biased Sex Selection and Related Harmful Practices in South Caucasus\u201d, implemented with the support of the European Union. On August 14, an event dedicated to the International Youth Day organized in cooperation with the local municipality and Zestafoni City Hall will be held",
+  "date": "12 August 2022"
+}

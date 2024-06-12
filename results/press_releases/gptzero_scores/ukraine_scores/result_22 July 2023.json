@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b4e98fb5-8728-413f-9e7d-675594913435",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05167003447046238,
+        "human": 0.9472839652918104,
+        "mixed": 0.0010460002377273268
+      },
+      "completely_generated_prob": 0.05167003447046238,
+      "confidence_category": "medium",
+      "confidence_score": 0.9472839652918104,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05167003447046238,
+          "human": 0.9472839652918104,
+          "mixed": 0.0010460002377273268
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 9.048633575439453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03118741139769554,
+          "perplexity": 32,
+          "sentence": "NOTE TO CORRESPONDENTS ATTRIBUTABLE TO SAVIANO ABREU, SPOKESPERSON FOR THE UN OFFICE FOR THE COORDINATION OF HUMANITARIAN AFFAIRS IN UKRAINE Over the past few days, Ukraine has again made the headlines worldwide - for all the wrong reasons - following the Russian Federation's decision to terminate the crucial Black Sea Initiative and the wave of attacks on the civilian Port of Odesa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031799573451280594,
+          "perplexity": 19,
+          "sentence": "Fighting and hostilities here, however, have been as intense as ever over the past months, and although its humanitarian impact is not always captured at the same level, the truth is that the war continues to devastate the lives of civilians, particularly those living close to the front line.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03430171683430672,
+          "perplexity": 27,
+          "sentence": "In eastern and southern Ukraine, people struggle to access essential items and services, including vital water and food, life-saving health services, or even materials to repair their damaged homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030269378796219826,
+          "perplexity": 32,
+          "sentence": "Children's vaccinations have been impacted, and their right to go to school cannot be taken for granted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02222268283367157,
+          "perplexity": 41,
+          "sentence": "Since the escalation of the war in February 2022, the UN and our humanitarian partners have worked intensively to ensure people suffering from the consequences of this ferocious war can get some support, some relief.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02221195586025715,
+          "perplexity": 26,
+          "sentence": "Last year, 16 million people in Ukraine received assistance from the UN and our partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02074698731303215,
+          "perplexity": 40,
+          "sentence": "This work continues in 2023 and in the first six months of the year, humanitarians provided vital aid and protection services to nearly 7.3 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01834811456501484,
+          "perplexity": 33,
+          "sentence": "This is almost 2 million more than what we reported in May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02193935588002205,
+          "perplexity": 50,
+          "sentence": "Regrettably, only 4 per cent of the people reached live in areas under the military control of the Russian Federation, as impediments imposed on aid workers hamper life-saving activities in these areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01392589882016182,
+          "perplexity": 41,
+          "sentence": "Across the country, critical health care - as we all know these services have been decimated in the east and south - was",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NOTE TO CORRESPONDENTS ATTRIBUTABLE TO SAVIANO ABREU, SPOKESPERSON FOR THE UN OFFICE FOR THE COORDINATION OF HUMANITARIAN AFFAIRS IN UKRAINE Over the past few days, Ukraine has again made the headlines worldwide \u2013 for all the wrong reasons \u2013 following the Russian Federation\u2019s decision to terminate the crucial Black Sea Initiative and the wave of attacks on the civilian Port of Odesa. Fighting and hostilities here, however, have been as intense as ever over the past months, and although its humanitarian impact is not always captured at the same level, the truth is that the war continues to devastate the lives of civilians, particularly those living close to the front line. In eastern and southern Ukraine, people struggle to access essential items and services, including vital water and food, life-saving health services, or even materials to repair their damaged homes. Children\u2019s vaccinations have been impacted, and their right to go to school cannot be taken for granted. Since the escalation of the war in February 2022, the UN and our humanitarian partners have worked intensively to ensure people suffering from the consequences of this ferocious war can get some support, some relief. Last year, 16 million people in Ukraine received assistance from the UN and our partners. This work continues in 2023 and in the first six months of the year, humanitarians provided vital aid and protection services to nearly 7.3 million people. This is almost 2 million more than what we reported in May. Regrettably, only 4 per cent of the people reached live in areas under the military control of the Russian Federation, as impediments imposed on aid workers hamper life-saving activities in these areas. Across the country, critical health care \u2013 as we all know these services have been decimated in the east and south \u2013 was",
+  "date": "22 July 2023"
+}

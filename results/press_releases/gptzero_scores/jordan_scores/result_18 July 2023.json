@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c7351251-32e9-4d36-b097-b56f4eb13951",
+  "documents": [
+    {
+      "average_generated_prob": 1,
+      "class_probabilities": {
+        "ai": 0.7727242480039814,
+        "human": 0.2236377524733814,
+        "mixed": 0.0036379995226370836
+      },
+      "completely_generated_prob": 0.7727242480039814,
+      "confidence_category": "low",
+      "confidence_score": 0.7727242480039814,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.7727242480039814,
+          "human": 0.2236377524733814,
+          "mixed": 0.0036379995226370836
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.774688720703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9316904254198173,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "ai",
+      "sentences": [
+        {
+          "generated_prob": 0.9456002712249756,
+          "perplexity": 33,
+          "sentence": "Cairo - The United Nations World Food Programme (WFP) said today that further reductions in food assistance for refugees in Jordan have become unavoidable as funds run precariously low.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9446322321891785,
+          "perplexity": 62,
+          "sentence": "The food agency is compelled to reduce by one-third the monthly cash assistance for all 119,000 Syrian refugees in Zaatari and Azraq camps.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9317304491996765,
+          "perplexity": 18,
+          "sentence": "Starting in August, Syrian refugees in the camps will receive a reduced cash allowance of US$21 (JOD 15) per person per month, down from the previous amount of US$32 (JOD 23).",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.937650740146637,
+          "perplexity": 44,
+          "sentence": "Syrian refugees living in both camps have limited income sources with only 30 percent of adults working - mainly in temporary or seasonal jobs - while 57 percent of camp residents say cash assistance is their only source of income.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9380606412887573,
+          "perplexity": 110,
+          "sentence": "\u201cWe are deeply concerned about the potential deterioration of families' food security but as funding dries up, our hands are tied,\u201d said WFP Representative and Country Director in Jordan Alberto Correia Mendes.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9187268018722534,
+          "perplexity": 60,
+          "sentence": "\u201cThese reductions are likely to lead to increased negative coping strategies.\u201d Negative coping strategies, including child labour, withdrawal of children from school, child marriage, and accumulating more debt, have already increased among refugees in camps by 25 percent compared to last year.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9456400275230408,
+          "perplexity": 57,
+          "sentence": "The reduction in the level of assistance highlights the urgent challenges faced by WFP in providing crucial support to vulnerable refugees in Jordan.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.93867027759552,
+          "perplexity": 66,
+          "sentence": "Despite reducing the value of its cash assistance for all refugees living outside camps and gradually excluding approximately 50,000 individuals from the assistance to prioritize the poorest families, WFP still faces a critical funding shortfall of US$41 million until the end of 2023.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9665051102638245,
+          "perplexity": 30,
+          "sentence": "Since the onset of the Syria crisis, WFP has steadfastly provided life-saving support to vulnerable Syrian refugees in Jordan, ensuring their access to basic food needs.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9688844084739685,
+          "perplexity": 89,
+          "sentence": "However, with mounting funding challenges, WFP has been compelled to scale",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "AI_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Cairo \u2013 The United Nations World Food Programme (WFP) said today that further reductions in food assistance for refugees in Jordan have become unavoidable as funds run precariously low. The food agency is compelled to reduce by one-third the monthly cash assistance for all 119,000 Syrian refugees in Zaatari and Azraq camps. Starting in August, Syrian refugees in the camps will receive a reduced cash allowance of US$21 (JOD 15) per person per month, down from the previous amount of US$32 (JOD 23). Syrian refugees living in both camps have limited income sources with only 30 percent of adults working \u2013 mainly in temporary or seasonal jobs \u2013 while 57 percent of camp residents say cash assistance is their only source of income. \u201cWe are deeply concerned about the potential deterioration of families\u2019 food security but as funding dries up, our hands are tied,\u201d said WFP Representative and Country Director in Jordan Alberto Correia Mendes. \u201cThese reductions are likely to lead to increased negative coping strategies.\u201d Negative coping strategies, including child labour, withdrawal of children from school, child marriage, and accumulating more debt, have already increased among refugees in camps by 25 percent compared to last year. The reduction in the level of assistance highlights the urgent challenges faced by WFP in providing crucial support to vulnerable refugees in Jordan. Despite reducing the value of its cash assistance for all refugees living outside camps and gradually excluding approximately 50,000 individuals from the assistance to prioritize the poorest families, WFP still faces a critical funding shortfall of US$41 million until the end of 2023. Since the onset of the Syria crisis, WFP has steadfastly provided life-saving support to vulnerable Syrian refugees in Jordan, ensuring their access to basic food needs. However, with mounting funding challenges, WFP has been compelled to scale",
+  "date": "18 July 2023"
+}

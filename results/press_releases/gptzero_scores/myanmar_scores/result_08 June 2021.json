@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fe243972-608a-4ee8-8ef2-a4e7b68b2e3c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4448765242225371,
+        "human": 0.5534889568940549,
+        "mixed": 0.0016345188834080617
+      },
+      "completely_generated_prob": 0.4448765242225371,
+      "confidence_category": "low",
+      "confidence_score": 0.5534889568940549,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4448765242225371,
+          "human": 0.5534889568940549,
+          "mixed": 0.0016345188834080617
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.49332046508789,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.7011570930480957,
+          "perplexity": 59,
+          "sentence": "(Yangon): The United Nations in Myanmar is concerned about the rapidly deteriorating security and humanitarian situation in Kayah State and other areas in southeastern Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.720630943775177,
+          "perplexity": 19,
+          "sentence": "Recent violence in Kayah State, including indiscriminate attacks by security forces against civilian areas, has led to the internal displacement of an estimated 100,000 men, women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7305949330329895,
+          "perplexity": 172,
+          "sentence": "Many of them are currently seeking safety in host communities and forests across Kayah and southern parts of neighboring Shan state.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7259896993637085,
+          "perplexity": 58,
+          "sentence": "This crisis could push people across international borders seeking safety, as already seen in other parts of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7198203802108765,
+          "perplexity": 27,
+          "sentence": "The United Nations reiterates its earlier calls for all parties to urgently take the necessary measures and precautions to protect civilians and civilian infrastructure, particularly protected objects such as medical units and personnel, and to adhere to the fundamental principles of distinction, necessity, proportionality and protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7332093715667725,
+          "perplexity": 27,
+          "sentence": "People fleeing and those remaining in locations affected by ongoing hostilities are in urgent need of food, water, shelter, fuel and access to healthcare.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7262555360794067,
+          "perplexity": 54,
+          "sentence": "The United Nations and its partners have humanitarian supplies, including food, shelter materials and other basic relief items ready to be deployed to complement the local response, which has been immediate, but insufficient to address all needs, particularly for those persons in remote locations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7225561141967773,
+          "perplexity": 46,
+          "sentence": "Ongoing insecurity, travel restrictions imposed by security forces, and poor road conditions, however, are delaying the delivery of these supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7204545140266418,
+          "perplexity": 21,
+          "sentence": "The United Nations calls on the security forces to allow safe passage of humanitarian supplies and personnel and to facilitate the direct provision of relief assistance by the UN and its partners to all those in need in Kayah, as well as other states and regions across the country where there are urgent humanitarian needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7202516794204712,
+          "perplexity": 58,
+          "sentence": "The United Nations reiterates the Secretary General's call for a global ceasefire made in March 2020 and to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(Yangon): The United Nations in Myanmar is concerned about the rapidly deteriorating security and humanitarian situation in Kayah State and other areas in southeastern Myanmar. Recent violence in Kayah State, including indiscriminate attacks by security forces against civilian areas, has led to the internal displacement of an estimated 100,000 men, women and children. Many of them are currently seeking safety in host communities and forests across Kayah and southern parts of neighboring Shan state. This crisis could push people across international borders seeking safety, as already seen in other parts of the country. The United Nations reiterates its earlier calls for all parties to urgently take the necessary measures and precautions to protect civilians and civilian infrastructure, particularly protected objects such as medical units and personnel, and to adhere to the fundamental principles of distinction, necessity, proportionality and protection. People fleeing and those remaining in locations affected by ongoing hostilities are in urgent need of food, water, shelter, fuel and access to healthcare. The United Nations and its partners have humanitarian supplies, including food, shelter materials and other basic relief items ready to be deployed to complement the local response, which has been immediate, but insufficient to address all needs, particularly for those persons in remote locations. Ongoing insecurity, travel restrictions imposed by security forces, and poor road conditions, however, are delaying the delivery of these supplies. The United Nations calls on the security forces to allow safe passage of humanitarian supplies and personnel and to facilitate the direct provision of relief assistance by the UN and its partners to all those in need in Kayah, as well as other states and regions across the country where there are urgent humanitarian needs. The United Nations reiterates the Secretary General\u2019s call for a global ceasefire made in March 2020 and to",
+  "date": "08 June 2021"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "16d45341-c947-43c2-9e9f-c80102bdc112",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.619544982910156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00027122339815832675,
+          "perplexity": 34,
+          "sentence": "UNESCO organized a three-day workshop on gender-responsive learning materials development within the project on Strengthening Competency-Based, ICT-Enabled Science, Technology, Engineering and Mathematics (STEM) and Vocational Education and Training (VET) Education and Teacher-Training in Tajikistan funded by the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002566435723565519,
+          "perplexity": 167,
+          "sentence": "The workshop was attended by the representative of respective government line ministries, civil society organizations and national experts: textbook authors' teams and STEM teaching and learning materials developers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000353286974132061,
+          "perplexity": 42,
+          "sentence": "The workshop aimed at providing support to the working group responsible for curriculum and textbook development, with a focus on reviewing national curriculum framework, subject standards for physics, chemistry, and biology, as well as teaching and learning materials through a gender analysis tool.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032097112853080034,
+          "perplexity": 58,
+          "sentence": "The purpose of the tool is to assess the level of gender sensitivity integrated into the selected STEM textbooks as well as teaching and learning materials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028581073274835944,
+          "perplexity": 64,
+          "sentence": "More than 35 national experts enhanced their understanding of gender concepts, gender equality in and through education, and improved skills for mainstreaming gender equality in STEM curricula, textbooks, and teaching and learning materials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000241490313783288,
+          "perplexity": 71,
+          "sentence": "The UNESCO project \u201cStrengthening competency - based and ICT - enabled STEM and VET education and teacher - training in Tajikistan\u201d funded by the European Union under the Action Document \"Quality Education Support Programme II\" is aimed at designing textbooks, teaching and learning materials for selected STEM subjects based on competency-based curricula at the secondary education and VET level, training of teachers as well as equipping the teacher training institutes/centers in the areas of Information Communication Technology (ICT) and STEM.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027375429635867476,
+          "perplexity": 41,
+          "sentence": "For more information regarding the project, please contact: Ms Aizhan Kydyralieva, Project Coordinator, UNESCO Almaty, a.kydyralieva@unesco.org.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNESCO organized a three-day workshop on gender-responsive learning materials development within the project on Strengthening Competency-Based, ICT-Enabled Science, Technology, Engineering and Mathematics (STEM) and Vocational Education and Training (VET) Education and Teacher-Training in Tajikistan funded by the European Union. The workshop was attended by the representative of respective government line ministries, civil society organizations and national experts: textbook authors\u2019 teams and STEM teaching and learning materials developers. The workshop aimed at providing support to the working group responsible for curriculum and textbook development, with a focus on reviewing national curriculum framework, subject standards for physics, chemistry, and biology, as well as teaching and learning materials through a gender analysis tool. The purpose of the tool is to assess the level of gender sensitivity integrated into the selected STEM textbooks as well as teaching and learning materials. More than 35 national experts enhanced their understanding of gender concepts, gender equality in and through education, and improved skills for mainstreaming gender equality in STEM curricula, textbooks, and teaching and learning materials. The UNESCO project \u201cStrengthening competency \u2013 based and ICT \u2013 enabled STEM and VET education and teacher \u2013 training in Tajikistan\u201d funded by the European Union under the Action Document \"Quality Education Support Programme II\" is aimed at designing textbooks, teaching and learning materials for selected STEM subjects based on competency-based curricula at the secondary education and VET level, training of teachers as well as equipping the teacher training institutes/centers in the areas of Information Communication Technology (ICT) and STEM. For more information regarding the project, please contact: Ms Aizhan Kydyralieva, Project Coordinator, UNESCO Almaty, a.kydyralieva@unesco.org.",
+  "date": "14 June 2023"
+}

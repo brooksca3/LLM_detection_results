@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1f3ae258-404f-48ed-bd71-91f68b2bdf8b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 70.51679229736328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001768169313436374,
+          "perplexity": 39,
+          "sentence": "Bishkek - Today, people who newly became Kyrgyz citizens received national passport at the ceremony organized jointly by the Representation of the United Nations High Commissioner on Refugees (UNHCR), the Office of the Plenipotentiary Representative of the Government in Osh province, and the Department of Registration of Population and Acts of Civil Status of the State Registration Service under the Government of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018829460896085948,
+          "perplexity": 217,
+          "sentence": "These people are former stateless persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022779231949243695,
+          "perplexity": 30,
+          "sentence": "Kyrgyzstan is not unfamiliar with the phenomenon of statelessness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019367669301573187,
+          "perplexity": 27,
+          "sentence": "According to the State Registration Service (SRS) data, more than 50,000 persons had their Kyrgyz citizenship clarified and confirmed between 2010 and 2014.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019181959214620292,
+          "perplexity": 22,
+          "sentence": "In 2014, UNHCR and the Kyrgyz Government launched a joint project to address the remaining cases of statelessness with the aim to identify stateless persons and those at risk of statelessness across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017533532809466124,
+          "perplexity": 26,
+          "sentence": "As a result, more than 13,000 stateless and persons with undetermined nationality have been registered and nearly 12,000 of them have had their stateless situation resolved as of today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020416420011315495,
+          "perplexity": 198,
+          "sentence": "\u201cYour new passport is more than a document.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018382523558102548,
+          "perplexity": 64,
+          "sentence": "It is a proof of your legal connection to the state.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000170229934155941,
+          "perplexity": 38,
+          "sentence": "You will be able to move freely, to own property, to receive pension and healthcare, and to register your life events and that of your children such as birth and marriage, and finally to participate in the democratic process\u201d, said Ms. Yasuko Oda, Regional Representative/Regional Coordinator of UNHCR for Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021732220193371177,
+          "perplexity": 26,
+          "sentence": "While the majority of stateless people have lived in Kyrgyzstan all their lives, some others have become stateless later in life due to legislative gaps and other reasons such as international migration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027549307560548186,
+          "perplexity": 58,
+          "sentence": "Although well integrated in the local society, stateless and undocumented persons face insurmountable obstacles due to their lack of citizenship and identity document when registering marriage and childbirth, traveling abroad, or receiving",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek \u2013 Today, people who newly became Kyrgyz citizens received national passport at the ceremony organized jointly by the Representation of the United Nations High Commissioner on Refugees (UNHCR), the Office of the Plenipotentiary Representative of the Government in Osh province, and the Department of Registration of Population and Acts of Civil Status of the State Registration Service under the Government of the Kyrgyz Republic. These people are former stateless persons. Kyrgyzstan is not unfamiliar with the phenomenon of statelessness. According to the State Registration Service (SRS) data, more than 50,000 persons had their Kyrgyz citizenship clarified and confirmed between 2010 and 2014. In 2014, UNHCR and the Kyrgyz Government launched a joint project to address the remaining cases of statelessness with the aim to identify stateless persons and those at risk of statelessness across the country. As a result, more than 13,000 stateless and persons with undetermined nationality have been registered and nearly 12,000 of them have had their stateless situation resolved as of today. \u201cYour new passport is more than a document. It is a proof of your legal connection to the state. You will be able to move freely, to own property, to receive pension and healthcare, and to register your life events and that of your children such as birth and marriage, and finally to participate in the democratic process\u201d, said Ms. Yasuko Oda, Regional Representative/Regional Coordinator of UNHCR for Central Asia. While the majority of stateless people have lived in Kyrgyzstan all their lives, some others have become stateless later in life due to legislative gaps and other reasons such as international migration. Although well integrated in the local society, stateless and undocumented persons face insurmountable obstacles due to their lack of citizenship and identity document when registering marriage and childbirth, traveling abroad, or receiving",
+  "date": "12 September 2018"
+}

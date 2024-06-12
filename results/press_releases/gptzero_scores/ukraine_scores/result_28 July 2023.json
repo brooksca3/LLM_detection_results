@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ad6a1740-3e3e-4c2b-a524-cd793cf1bb67",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.6223258972168,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006944126798771322,
+          "perplexity": 55,
+          "sentence": "The UN in Ukraine supported the Sumy Regional Administration to convene a forum of local authorities, civil society organizations, international development partners, academia and private sector actors, joined by representatives of the national government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007286351756192744,
+          "perplexity": 60,
+          "sentence": "The discussions were aimed at establishing a regional recovery coordination mechanism to drive implementation of the Sumy Regional Economic Recovery and Development Strategy and strengthen the connections between the humanitarian response, recovery interventions, development planning, and private sector investments ongoing in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007514320313930511,
+          "perplexity": 48,
+          "sentence": "\u201cToday, we are demonstrating to international partners the potential and capabilities of the region, our desire and determination to recover and develop, and we are offering concrete steps and projects along the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006605339585803449,
+          "perplexity": 146,
+          "sentence": "At the forum, we are laying a solid platform for further cooperation with our foreign friends and the future basis for Sumy region development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006479457370005548,
+          "perplexity": 48,
+          "sentence": "We have all the resources for this: our desire and perseverance, and the great interest of donors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006641687359660864,
+          "perplexity": 55,
+          "sentence": "I am sincerely grateful to all our foreign friends who, despite the war, found the opportunity to come and join the forum, and to our strategic partners from the UN who helped organize this event and bring together in a constructive dialogue all those who are committed to development and recovery of Sumy region\u201d, said Volodymyr Artiukh, the Head of Sumy Regional State Administration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006500267772935331,
+          "perplexity": 114,
+          "sentence": "The UN Resident Coordinator in Ukraine, Denise Brown, noted the importance of regional and local leadership: \u201cWhat immediately captured my attention on my first visit last winter to Sumy were your efforts to design and launch a regional recovery and economic development strategy already at that time to shift from humanitarian to recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000509140023496002,
+          "perplexity": 28,
+          "sentence": "And not only did you design a strategy in the very difficult context you were still dealing with at the end of last year, but you did so in an inclusive and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN in Ukraine supported the Sumy Regional Administration to convene a forum of local authorities, civil society organizations, international development partners, academia and private sector actors, joined by representatives of the national government. The discussions were aimed at establishing a regional recovery coordination mechanism to drive implementation of the Sumy Regional Economic Recovery and Development Strategy and strengthen the connections between the humanitarian response, recovery interventions, development planning, and private sector investments ongoing in the region. \u201cToday, we are demonstrating to international partners the potential and capabilities of the region, our desire and determination to recover and develop, and we are offering concrete steps and projects along the way. At the forum, we are laying a solid platform for further cooperation with our foreign friends and the future basis for Sumy region development. We have all the resources for this: our desire and perseverance, and the great interest of donors. I am sincerely grateful to all our foreign friends who, despite the war, found the opportunity to come and join the forum, and to our strategic partners from the UN who helped organize this event and bring together in a constructive dialogue all those who are committed to development and recovery of Sumy region\u201d, said Volodymyr Artiukh, the Head of Sumy Regional State Administration. The UN Resident Coordinator in Ukraine, Denise Brown, noted the importance of regional and local leadership: \u201cWhat immediately captured my attention on my first visit last winter to Sumy were your efforts to design and launch a regional recovery and economic development strategy already at that time to shift from humanitarian to recovery. And not only did you design a strategy in the very difficult context you were still dealing with at the end of last year, but you did so in an inclusive and",
+  "date": "28 July 2023"
+}

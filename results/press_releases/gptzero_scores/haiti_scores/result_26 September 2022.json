@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "366548b0-da42-4c19-9fd3-0b7c762297d7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.794124603271484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00466461107134819,
+          "perplexity": 53,
+          "sentence": "Lives are being lost in Haiti as life-saving health services risk coming to a \u201cstandstill\u201d due to a lack of fuel, according to the United Nations most senior humanitarian official in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003819541772827506,
+          "perplexity": 25,
+          "sentence": "Ongoing insecurity and instability in Haiti and the blockading by criminal gangs of the country's main fuel terminal in the capital, Port-au-Prince, means the fuel needed to power hospitals is not being delivered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0041535091586411,
+          "perplexity": 59,
+          "sentence": "Many health staff are unable to report to work and provide care to patients, according to several local associations and organizations The ongoing situation is also negatively affecting the restocking of medicine and medical supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004616096615791321,
+          "perplexity": 97,
+          "sentence": "\u201cLives are being lost in Haiti because hospitals are unable to access fuel,\u201d said Ulrika Richardson, the UN Resident and Humanitarian Coordinator in Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004528266377747059,
+          "perplexity": 24,
+          "sentence": "\u201cIf this situation continues,\u201d she added, \u201clife-saving services risk coming to a standstill, including for pregnant women, newborns and children, as well as for persons suffering trauma and other life-threatening conditions.\u201d The lack of access to fuel is affecting around three-quarters of the major hospitals in the country, according to data recently collected by the UN's World Health Organization/Pan American Health Organization (WHO/PAHO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004585387650877237,
+          "perplexity": 40,
+          "sentence": "Some hospitals are unable to admit new patients and are preparing to close.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004552438855171204,
+          "perplexity": 123,
+          "sentence": "Providing sterile conditions for medical interventions is becoming more challenging and conserving vaccines due to the disruption to cold-chain facilities has become problematic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004639696329832077,
+          "perplexity": 42,
+          "sentence": "Many hospitals are also experiencing a shortage of oxygen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003859115531668067,
+          "perplexity": 41,
+          "sentence": "The shortage of fuel has also severely reduced the national ambulance service operations in Port-au-Prince which now functions with only three ambulances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00412752665579319,
+          "perplexity": 42,
+          "sentence": "Its services are severely curtailed or have stopped altogether throughout the rest of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004454611800611019,
+          "perplexity": 11,
+          "sentence": "The UN Children's Fund (UNICEF) estimates that some 22,100 children under the age of five, and over 28,000 newborns are at risk of not receiving essential health care services for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Lives are being lost in Haiti as life-saving health services risk coming to a \u201cstandstill\u201d due to a lack of fuel, according to the United Nations most senior humanitarian official in the country. Ongoing insecurity and instability in Haiti and the blockading by criminal gangs of the country\u2019s main fuel terminal in the capital, Port-au-Prince, means the fuel needed to power hospitals is not being delivered. Many health staff are unable to report to work and provide care to patients, according to several local associations and organizations The ongoing situation is also negatively affecting the restocking of medicine and medical supplies. \u201cLives are being lost in Haiti because hospitals are unable to access fuel,\u201d said Ulrika Richardson, the UN Resident and Humanitarian Coordinator in Haiti. \u201cIf this situation continues,\u201d she added, \u201clife-saving services risk coming to a standstill, including for pregnant women, newborns and children, as well as for persons suffering trauma and other life-threatening conditions.\u201d The lack of access to fuel is affecting around three-quarters of the major hospitals in the country, according to data recently collected by the UN\u2019s World Health Organization/Pan American Health Organization (WHO/PAHO). Some hospitals are unable to admit new patients and are preparing to close. Providing sterile conditions for medical interventions is becoming more challenging and conserving vaccines due to the disruption to cold-chain facilities has become problematic. Many hospitals are also experiencing a shortage of oxygen. The shortage of fuel has also severely reduced the national ambulance service operations in Port-au-Prince which now functions with only three ambulances. Its services are severely curtailed or have stopped altogether throughout the rest of the country. The UN Children\u2019s Fund (UNICEF) estimates that some 22,100 children under the age of five, and over 28,000 newborns are at risk of not receiving essential health care services for",
+  "date": "26 September 2022"
+}

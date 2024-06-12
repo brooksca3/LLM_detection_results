@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "45f0239a-9c6a-4648-b764-fe781e0ade66",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.325519561767578,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04479174315929413,
+          "perplexity": 58,
+          "sentence": "The B5 Fund, which was signed today, had been previously endorsed on April 29, 2021 by the Partnership Council of the Lebanon Financing Facility (LFF), a multi-donor trust fund established in December 2020 following the launch of the Reform, Recovery and Reconstruction Framework (3RF) to pool grant resources and strengthen the coherence and coordination of financing in support of the immediate socio-economic recovery of vulnerable people and businesses impacted by the Port of Beirut explosion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05120357498526573,
+          "perplexity": 59,
+          "sentence": "The Port of Beirut explosion, which came on the heels of an ongoing economic and financial crisis and the COVID-19 pandemic, had a severe impact on the productive sector in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04495646432042122,
+          "perplexity": 35,
+          "sentence": "The blast caused substantial physical damage and loss of stock and inventory to approximately 10,000 privately owned businesses located within a 5 km radius of the explosion site.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.043059855699539185,
+          "perplexity": 78,
+          "sentence": "It significantly affected firms' productivity and revenue generation and lead to substantial layoffs and bankruptcies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03269220143556595,
+          "perplexity": 43,
+          "sentence": "According to a World Bank rapid firm-level survey conducted during November and December 2020, around 17% of firms were confirmed or assumed to be permanently closed; 79% of firms experienced reduced sales (on average, a 69% decline); and 61% of firms had decreased the number of permanent workers by 43% on average.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0320364274084568,
+          "perplexity": 41,
+          "sentence": "Furthermore, the survey revealed that almost half of all surveyed firms (46%)\u1173both in Beirut and elsewhere\u1173have been affected by the explosion either directly or indirectly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030322961509227753,
+          "perplexity": 44,
+          "sentence": "The affected businesses across a number of sectors, specifically MSMEs, are struggling to finance their reconstruction and recovery needs, and find it extremely difficult to resume service delivery, unless they receive urgent financial assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028952980414032936,
+          "perplexity": 49,
+          "sentence": "The explosion also exposed the fragility of the financial sector (banking, insurance, and microfinance) Access to finance has severely deteriorated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023584354668855667,
+          "perplexity": 102,
+          "sentence": "With very limited policy responses by Lebanese authorities to support the recovery of the financial sector, firms affected by the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The B5 Fund, which was signed today, had been previously endorsed on April 29, 2021 by the Partnership Council of the Lebanon Financing Facility (LFF), a multi-donor trust fund established in December 2020 following the launch of the Reform, Recovery and Reconstruction Framework (3RF) to pool grant resources and strengthen the coherence and coordination of financing in support of the immediate socio-economic recovery of vulnerable people and businesses impacted by the Port of Beirut explosion. The Port of Beirut explosion, which came on the heels of an ongoing economic and financial crisis and the COVID-19 pandemic, had a severe impact on the productive sector in Lebanon. The blast caused substantial physical damage and loss of stock and inventory to approximately 10,000 privately owned businesses located within a 5 km radius of the explosion site. It significantly affected firms\u2019 productivity and revenue generation and lead to substantial layoffs and bankruptcies. According to a World Bank rapid firm-level survey conducted during November and December 2020, around 17% of firms were confirmed or assumed to be permanently closed; 79% of firms experienced reduced sales (on average, a 69% decline); and 61% of firms had decreased the number of permanent workers by 43% on average. Furthermore, the survey revealed that almost half of all surveyed firms (46%)\u2014both in Beirut and elsewhere\u2014have been affected by the explosion either directly or indirectly. The affected businesses across a number of sectors, specifically MSMEs, are struggling to finance their reconstruction and recovery needs, and find it extremely difficult to resume service delivery, unless they receive urgent financial assistance. The explosion also exposed the fragility of the financial sector (banking, insurance, and microfinance) Access to finance has severely deteriorated. With very limited policy responses by Lebanese authorities to support the recovery of the financial sector, firms affected by the",
+  "date": "05 August 2021"
+}

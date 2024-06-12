@@ -1,0 +1,189 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8e9a0f22-79fa-4319-9f79-e182b795c0fa",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.32806396484375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.3690412552989357e-18,
+          "num_sentences": 21,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008602299494668841,
+          "perplexity": 26,
+          "sentence": "Nine months since we first heard of COVID-19, the pandemic has claimed more than one million lives and infected more than 30 million people in 190 countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009122881456278265,
+          "perplexity": 91,
+          "sentence": "Infections are rising and there are troubling signs of new waves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010124548571184278,
+          "perplexity": 76,
+          "sentence": "Much about the virus remains unknown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009986759396269917,
+          "perplexity": 43,
+          "sentence": "But one basic fact is clear: the world was not prepared.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009886054322123528,
+          "perplexity": 47,
+          "sentence": "The pandemic has revealed utterly inadequate health systems, yawning gaps in social protection, and major structural inequalities within and between countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009391409694217145,
+          "perplexity": 68,
+          "sentence": "We must all draw the hard lessons of this crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009867976186797023,
+          "perplexity": 19,
+          "sentence": "One of those lessons is that under-investment in health can have a devastating impact on societies and economies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007736488478258252,
+          "perplexity": 30,
+          "sentence": "The pandemic is costing the global economy $375 billion a month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006790179177187383,
+          "perplexity": 40,
+          "sentence": "Some 500 million jobs have been lost so far.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006584235234186053,
+          "perplexity": 22,
+          "sentence": "Human development is going into reverse, for the first time since we started measuring it in 1990.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006308261072263122,
+          "perplexity": 126,
+          "sentence": "COVID-19 has shown that Universal Health Coverage, strong public health systems and emergency preparedness are essential to communities, to economies, to everyone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007232319330796599,
+          "perplexity": 46,
+          "sentence": "That is the backdrop to the Policy Brief we are launching today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006567363743670285,
+          "perplexity": 11,
+          "sentence": "At least half the world's people do not have access to the health services they need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006667213747277856,
+          "perplexity": 22,
+          "sentence": "Some 100 million people are driven into poverty each year by catastrophic health-care costs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007864311337471008,
+          "perplexity": 62,
+          "sentence": "This huge gap in health coverage is one reason why COVID-19 has caused so much pain and suffering.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006432134541682899,
+          "perplexity": 69,
+          "sentence": "Universal Health Coverage requires governments to step up investment in common goods for health, including surveillance and risk communication, so that the world never faces such a situation again.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006829131161794066,
+          "perplexity": 80,
+          "sentence": "It also requires public health programmes to be inclusive and equitable, without financial barriers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005645517958328128,
+          "perplexity": 61,
+          "sentence": "Health treatment should not depend on financial status.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005587784107774496,
+          "perplexity": 24,
+          "sentence": "All countries have agreed to work towards Universal Health Coverage as part of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006072277319617569,
+          "perplexity": 87,
+          "sentence": "But we cannot wait 10 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006591436685994267,
+          "perplexity": 1,
+          "sentence": "We",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Nine months since we first heard of COVID-19, the pandemic has claimed more than one million lives and infected more than 30 million people in 190 countries. Infections are rising and there are troubling signs of new waves. Much about the virus remains unknown. But one basic fact is clear: the world was not prepared. The pandemic has revealed utterly inadequate health systems, yawning gaps in social protection, and major structural inequalities within and between countries. We must all draw the hard lessons of this crisis. One of those lessons is that under-investment in health can have a devastating impact on societies and economies. The pandemic is costing the global economy $375 billion a month. Some 500 million jobs have been lost so far. Human development is going into reverse, for the first time since we started measuring it in 1990. COVID-19 has shown that Universal Health Coverage, strong public health systems and emergency preparedness are essential to communities, to economies, to everyone. That is the backdrop to the Policy Brief we are launching today. At least half the world\u2019s people do not have access to the health services they need. Some 100 million people are driven into poverty each year by catastrophic health-care costs. This huge gap in health coverage is one reason why COVID-19 has caused so much pain and suffering. Universal Health Coverage requires governments to step up investment in common goods for health, including surveillance and risk communication, so that the world never faces such a situation again. It also requires public health programmes to be inclusive and equitable, without financial barriers. Health treatment should not depend on financial status. All countries have agreed to work towards Universal Health Coverage as part of the 2030 Agenda for Sustainable Development. But we cannot wait 10 years. We",
+  "date": "07 October 2020"
+}

@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4e3a0d73-44b6-46b7-90ba-c0f61aa5d19b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 81.26410675048828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001853950321674347,
+          "perplexity": 16,
+          "sentence": "The new guidelines recommend at least 150 to 300 minutes of moderate to vigorous aerobic activity per week for all adults, including people living with chronic conditions or disability, and an average of 60 minutes per day for children and adolescents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016882368363440037,
+          "perplexity": 15,
+          "sentence": "WHO statistics show that one in four adults, and four out of five adolescents, do not get enough physical activity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001488806796260178,
+          "perplexity": 23,
+          "sentence": "Globally this is estimated to cost US$54 billion in direct health care and another US$14 billion to lost productivity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001917161513119936,
+          "perplexity": 34,
+          "sentence": "The guidelines encourage women to maintain regular physical activity throughout pregnancy and post-delivery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022014586720615625,
+          "perplexity": 33,
+          "sentence": "They also highlight the valuable health benefits of physical activity for people living with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016718825791031122,
+          "perplexity": 42,
+          "sentence": "Older adults (aged 65 years or older) are advised to add activities which emphasize balance and coordination, as well as muscle strengthening, to help prevent falls and improve health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013878451427444816,
+          "perplexity": 16,
+          "sentence": "Regular physical activity is key to preventing and helping to manage heart disease, type-2 diabetes, and cancer, as well as reducing symptoms of depression and anxiety, reducing cognitive decline, improving memory and boosting brain health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001381019945256412,
+          "perplexity": 98,
+          "sentence": "\u201cBeing physically active is critical for health and well-being - it can help to add years to life and life to years,\u201d said WHO Director-General Dr Tedros Adhanom Ghebreyesus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001453760894946754,
+          "perplexity": 296,
+          "sentence": "\u201cEvery move counts, especially now as we manage the constraints of the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009164813673123717,
+          "perplexity": 67,
+          "sentence": "We must all move every day - safely and creatively.\u201d All physical activity is beneficial and can be done as part of work, sport and leisure or transport (walking, wheeling and cycling), but also through dance, play and everyday household tasks, like gardening and cleaning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011380774667486548,
+          "perplexity": 60,
+          "sentence": "\u201cPhysical activity of any type, and any duration can improve health and wellbeing, but more is always better,\u201d said Dr Ruediger Krech, Director of Health Promotion, World Health Organization, \u201cand if you must spend a lot of time sitting still,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The new guidelines recommend at least 150 to 300 minutes of moderate to vigorous aerobic activity per week for all adults, including people living with chronic conditions or disability, and an average of 60 minutes per day for children and adolescents. WHO statistics show that one in four adults, and four out of five adolescents, do not get enough physical activity. Globally this is estimated to cost US$54 billion in direct health care and another US$14 billion to lost productivity. The guidelines encourage women to maintain regular physical activity throughout pregnancy and post-delivery. They also highlight the valuable health benefits of physical activity for people living with disabilities. Older adults (aged 65 years or older) are advised to add activities which emphasize balance and coordination, as well as muscle strengthening, to help prevent falls and improve health. Regular physical activity is key to preventing and helping to manage heart disease, type-2 diabetes, and cancer, as well as reducing symptoms of depression and anxiety, reducing cognitive decline, improving memory and boosting brain health. \u201cBeing physically active is critical for health and well-being \u2013 it can help to add years to life and life to years,\u201d said WHO Director-General Dr Tedros Adhanom Ghebreyesus. \u201cEvery move counts, especially now as we manage the constraints of the COVID-19 pandemic. We must all move every day \u2013 safely and creatively.\u201d All physical activity is beneficial and can be done as part of work, sport and leisure or transport (walking, wheeling and cycling), but also through dance, play and everyday household tasks, like gardening and cleaning. \u201cPhysical activity of any type, and any duration can improve health and wellbeing, but more is always better,\u201d said Dr Ruediger Krech, Director of Health Promotion, World Health Organization, \u201cand if you must spend a lot of time sitting still,",
+  "date": "28 November 2020"
+}

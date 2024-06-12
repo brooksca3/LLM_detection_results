@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4cac490f-5bf4-43cd-ac7c-977d824e61c5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.16925712761482667,
+        "human": 0.7715777702543268,
+        "mixed": 0.05916510213084649
+      },
+      "completely_generated_prob": 0.16925712761482667,
+      "confidence_category": "low",
+      "confidence_score": 0.7715777702543268,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.16925712761482667,
+          "human": 0.7715777702543268,
+          "mixed": 0.05916510213084649
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.552146911621094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.06788505859236459,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8188740611076355,
+          "perplexity": 61,
+          "sentence": "UNOPS - PRESS RELEASE: Over 62 million People to Benefit as KOICA and UNOPS Complete Water Quality Monitoring Project Over 62 million People to Benefit as KOICA and UNOPS Complete Water Quality Monitoring Project Islamabad: In an event held in Islamabad, Senator Mr. Muhammad Sabir Shah (Chief Guest), Senator Ms. Keshoo Bai, Ms. Samar Ihsan, Additional Secretary EAD, Ms. Sadia Sarwat, Additional Secretary Ministry of Climate Change, His Excellency Mr Park Ki Jun, Ambassador of the Republic of Korea, Mr Yeon Je Ho, Country Director KOICA Pakistan and Ms Jennifer Ankhom-Khan, Country Manager UNOPS Pakistan, attended the closing ceremony of the project \u201cEnhancing Water Quality Monitoring System to achieve SDG 6 in Islamabad, Punjab and KP\u201d Acknowledging the fundamental right to clean and safe drinking water, the initial and vital step is monitoring its quality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9781754016876221,
+          "perplexity": 19,
+          "sentence": "Pakistan faces a significant challenge, with almost 44% of the population lacking access to safe drinking water.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9594449996948242,
+          "perplexity": 23,
+          "sentence": "In response, the Korea International Cooperation Agency (KOICA) collaborated with UNOPS Pakistan to enhance water quality monitoring systems in Islamabad, Punjab, and Khyber Pakhtunkhwa (KP), Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005133821163326502,
+          "perplexity": 32,
+          "sentence": "UNOPS Pakistan is implementing this project in collaboration with the Ministry of Climate Change Pakistan (MoCC), Pakistan Council of Research in Water Resources (PCRWR), Pakistan Environmental Protection Agency (Pak-EPA) and Public Health and Engineering Departments of Government of Punjab & KP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0053377291187644005,
+          "perplexity": 182,
+          "sentence": "The $4.4 million project has been implemented in 35 district laboratories in Punjab, 8 divisional labs in KP and research and monitoring laboratories, PCRWR and Pak-EPA, in Islamabad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00725576002150774,
+          "perplexity": 45,
+          "sentence": "The project includes significant upgrades to water-quality testing laboratories, encompassing the procurement and installation of advanced laboratory equipment, minor infrastructure enhancements to ensure a safe working environment, capacity-building initiatives for laboratory staff and the WASH Cell of the MoCC, the introduction of a Management Information System (MIS) for improved coordination, and the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNOPS - PRESS RELEASE : Over 62 million People to Benefit as KOICA and UNOPS Complete Water Quality Monitoring Project Over 62 million People to Benefit as KOICA and UNOPS Complete Water Quality Monitoring Project Islamabad: In an event held in Islamabad, Senator Mr. Muhammad Sabir Shah (Chief Guest), Senator Ms. Keshoo Bai, Ms. Samar Ihsan, Additional Secretary EAD, Ms. Sadia Sarwat, Additional Secretary Ministry of Climate Change, His Excellency Mr Park Ki Jun, Ambassador of the Republic of Korea, Mr Yeon Je Ho, Country Director KOICA Pakistan and Ms Jennifer Ankhom-Khan, Country Manager UNOPS Pakistan, attended the closing ceremony of the project \u201cEnhancing Water Quality Monitoring System to achieve SDG 6 in Islamabad, Punjab and KP\u201d Acknowledging the fundamental right to clean and safe drinking water, the initial and vital step is monitoring its quality. Pakistan faces a significant challenge, with almost 44% of the population lacking access to safe drinking water. In response, the Korea International Cooperation Agency (KOICA) collaborated with UNOPS Pakistan to enhance water quality monitoring systems in Islamabad, Punjab, and Khyber Pakhtunkhwa (KP), Pakistan. UNOPS Pakistan is implementing this project in collaboration with the Ministry of Climate Change Pakistan (MoCC), Pakistan Council of Research in Water Resources (PCRWR), Pakistan Environmental Protection Agency (Pak-EPA) and Public Health and Engineering Departments of Government of Punjab & KP. The $4.4 million project has been implemented in 35 district laboratories in Punjab, 8 divisional labs in KP and research and monitoring laboratories, PCRWR and Pak-EPA, in Islamabad. The project includes significant upgrades to water-quality testing laboratories, encompassing the procurement and installation of advanced laboratory equipment, minor infrastructure enhancements to ensure a safe working environment, capacity-building initiatives for laboratory staff and the WASH Cell of the MoCC, the introduction of a Management Information System (MIS) for improved coordination, and the",
+  "date": "07 March 2024"
+}

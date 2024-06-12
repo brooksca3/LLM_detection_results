@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "63201101-40cf-482a-8a49-464633f3af9e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030465404879043968,
+        "human": 0.9689214507129743,
+        "mixed": 0.0006131444079816322
+      },
+      "completely_generated_prob": 0.030465404879043968,
+      "confidence_category": "high",
+      "confidence_score": 0.9689214507129743,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030465404879043968,
+          "human": 0.9689214507129743,
+          "mixed": 0.0006131444079816322
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.35970687866211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0067570628598332405,
+          "perplexity": 5,
+          "sentence": "Mandates of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; the Working Group on Arbitrary Detention; the Special Rapporteur on the rights to freedom of peaceful assembly and of association and the Special Rapporteur on the situation of human rights defenders We have the honour to address you in our capacities as Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Working Group on Arbitrary Detention; Special Rapporteur on the rights to freedom of peaceful assembly and of association and Special Rapporteur on the situation of human rights defenders, pursuant to Human Rights Council resolutions 52/9, 51/8, 50/17 and 52/4.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00681171752512455,
+          "perplexity": 25,
+          "sentence": "In this connection, we would like to bring to the attention of your Excellency's Government information we have received concerning the alleged crackdown against independent media in Kyrgyzstan, including searches against several independent news outlets and homes of journalists, and the arrest of associated staff and journalists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007575771305710077,
+          "perplexity": 30,
+          "sentence": "24.KG is an independent news agency based in Bishkek.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007224943954497576,
+          "perplexity": 25,
+          "sentence": "It is one of Kyrgyzstan's biggest private news outlets, known for its reporting on corruption, its criticism of the government and satire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003612268017604947,
+          "perplexity": 98,
+          "sentence": "Ms. Asel Otorbaeva is the general director of 24.KG, and Ms. Makhinur Niyazova and Mr. Anton Lymar are the chief editors of the outlet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002957276999950409,
+          "perplexity": 46,
+          "sentence": "Temirov Live is an independent news channel which reports on alleged cases of corruption in Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024962376337498426,
+          "perplexity": 38,
+          "sentence": "It was founded by award winning, anti-corruption journalist and human rights defender Mr. Bolot Temirov, who as a result of his journalistic work on corruption in the country, was criminalised, had his citizenship cancelled and was deported from Kyrgyzstan in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027554044499993324,
+          "perplexity": 48,
+          "sentence": "Kloop Media is a Kyrgyz news website, established in 2007, consisting of majority students and graduates of the Kloop Media Public Foundation School of Journalism.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mandates of the Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; the Working Group on Arbitrary Detention; the Special Rapporteur on the rights to freedom of peaceful assembly and of association and the Special Rapporteur on the situation of human rights defenders We have the honour to address you in our capacities as Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Working Group on Arbitrary Detention; Special Rapporteur on the rights to freedom of peaceful assembly and of association and Special Rapporteur on the situation of human rights defenders, pursuant to Human Rights Council resolutions 52/9, 51/8, 50/17 and 52/4. In this connection, we would like to bring to the attention of your Excellency\u2019s Government information we have received concerning the alleged crackdown against independent media in Kyrgyzstan, including searches against several independent news outlets and homes of journalists, and the arrest of associated staff and journalists. 24.KG is an independent news agency based in Bishkek. It is one of Kyrgyzstan\u2019s biggest private news outlets, known for its reporting on corruption, its criticism of the government and satire. Ms. Asel Otorbaeva is the general director of 24.KG, and Ms. Makhinur Niyazova and Mr. Anton Lymar are the chief editors of the outlet. Temirov Live is an independent news channel which reports on alleged cases of corruption in Kyrgyzstan. It was founded by award winning, anti-corruption journalist and human rights defender Mr. Bolot Temirov, who as a result of his journalistic work on corruption in the country, was criminalised, had his citizenship cancelled and was deported from Kyrgyzstan in 2022. Kloop Media is a Kyrgyz news website, established in 2007, consisting of majority students and graduates of the Kloop Media Public Foundation School of Journalism.",
+  "date": "15 March 2024"
+}

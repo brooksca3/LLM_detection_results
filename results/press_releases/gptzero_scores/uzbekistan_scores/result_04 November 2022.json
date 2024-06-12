@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "17922ace-46d5-476e-b544-889f5d49c798",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023540327319036332,
+        "human": 0.9754704771153758,
+        "mixed": 0.0009891955655879081
+      },
+      "completely_generated_prob": 0.023540327319036332,
+      "confidence_category": "high",
+      "confidence_score": 0.9754704771153758,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023540327319036332,
+          "human": 0.9754704771153758,
+          "mixed": 0.0009891955655879081
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.409034729003906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00916533824056387,
+          "perplexity": 112,
+          "sentence": "This was officially confirmed at the Launch Event on the Country Projects for the Implementation of the FAO Global Action on Green Development of Special Agricultural Products: \u201cOne Country One Priority Product\u201d (OCOP), held on 3 November 2022 at the Sheikh Zayed Center at FAO Headquarters in Rome, Italy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009941729716956615,
+          "perplexity": 61,
+          "sentence": "The participation of Mr. Nuriddin Kushnazarov, Deputy Permanent Representative of Uzbekistan to FAO, IFAD and WFP at the event, where he made a presentation on \u201cGreen Development of Sweet Cherry in Uzbekistan\u201d, symbolizes the attention and efforts of Uzbekistan towards the development of the agricultural sector and the achievement of food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008087550289928913,
+          "perplexity": 53,
+          "sentence": "In his presentation, Mr. Kushnazarov emphasized the importance of the agricultural sector for Uzbekistan and presented an evidence-based case for the selection of sweet cherries as one of the priority crops that needs technical assistance and capacity building support from FAO under the OCOP Initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006760232150554657,
+          "perplexity": 51,
+          "sentence": "The Global Action on One Country One Priority Product (OCOP) aims to build more sustainable food value chains, support family and smallholder farmers to be profitable and improve their livelihoods, minimize the use of chemical inputs and natural resources, reduce food loss and waste, and limit the negative impacts on the environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0038096411153674126,
+          "perplexity": 79,
+          "sentence": "Altogether 78 nations from five FAO regions have been designated as potential project countries, planning to promote 50 Special Agricultural Products (SAPs), under OCOP, which was launched by FAO last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031059179455041885,
+          "perplexity": 40,
+          "sentence": "The SAPs, covering all kinds of agricultural products, are locally known, available, or underutilized and have the potential to be promoted in national, regional and international markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002742635551840067,
+          "perplexity": 42,
+          "sentence": "\u201cThey include field and horticulture crops as well as forest and livestock products, they are locally known and unique to the specific agroecological regions, play a significant role in achieving food security and nutrition and have the potential to be promoted in local, regional",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This was officially confirmed at the Launch Event on the Country Projects for the Implementation of the FAO Global Action on Green Development of Special Agricultural Products: \u201cOne Country One Priority Product\u201d (OCOP), held on 3 November 2022 at the Sheikh Zayed Center at FAO Headquarters in Rome, Italy. The participation of Mr. Nuriddin Kushnazarov, Deputy Permanent Representative of Uzbekistan to FAO, IFAD and WFP at the event, where he made a presentation on \u201cGreen Development of Sweet Cherry in Uzbekistan\u201d, symbolizes the attention and efforts of Uzbekistan towards the development of the agricultural sector and the achievement of food security. In his presentation, Mr. Kushnazarov emphasized the importance of the agricultural sector for Uzbekistan and presented an evidence-based case for the selection of sweet cherries as one of the priority crops that needs technical assistance and capacity building support from FAO under the OCOP Initiative. The Global Action on One Country One Priority Product (OCOP) aims to build more sustainable food value chains, support family and smallholder farmers to be profitable and improve their livelihoods, minimize the use of chemical inputs and natural resources, reduce food loss and waste, and limit the negative impacts on the environment. Altogether 78 nations from five FAO regions have been designated as potential project countries, planning to promote 50 Special Agricultural Products (SAPs), under OCOP, which was launched by FAO last year. The SAPs, covering all kinds of agricultural products, are locally known, available, or underutilized and have the potential to be promoted in national, regional and international markets. \u201cThey include field and horticulture crops as well as forest and livestock products, they are locally known and unique to the specific agroecological regions, play a significant role in achieving food security and nutrition and have the potential to be promoted in local, regional",
+  "date": "04 November 2022"
+}

@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0992d315-17ba-4620-b8d8-f1d9a1dac44d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.33616638183594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014118484978098422,
+          "perplexity": 121,
+          "sentence": "On 30 May 2022, UN Resident Coordinator Antje Grawe and UN Human Rights Central Asia Regional Representative ad interim Fabio Piana met with the newly appointed Ombudsperson Dzhamilya Dzhamanbaeva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014709461538586766,
+          "perplexity": 47,
+          "sentence": "They discussed the vision and plans of the new Akyikatchy, including steps envisaged to bring the Akyikatchy Institute - the national human rights institution (NHRI) of the Kyrgyz Republic - fully in line with the Paris and Belgrade Principles, as recommended by the Global Alliance of NHRIs in 2012.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014992243086453527,
+          "perplexity": 42,
+          "sentence": "\u201cAn independent, pluralistic, accessible and effective Ombudsperson Institute that implements its mandate to promote and protect human rights with necessary financial and human resources, in line with the Paris Principles, is an essential pillar of the human rights protection system in Kyrgyzstan, in line with Kyrgyzstan's pledge as candidate for the Human Rights Council and recommendations of UN Human Rights Mechanisms\u201d, underlined Antje Grawe, UN Resident Coordinator in the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014373207523021847,
+          "perplexity": 50,
+          "sentence": "She noted that the UN family in Kyrgyzstan looks forward to continuing its cooperation with the Akyikatchy and her Institute, including through provision of technical advice on upgrading the Law \u201cOn Akyikatchy\u201d through an open, inclusive and consultative process; supporting her continued engagement with UN Human Rights Mechanisms; reinforcing cooperation with civil society, as well as strengthening the capacity of the Akyikatchy in Bishkek and in its regional offices, among other.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014631878002546728,
+          "perplexity": 48,
+          "sentence": "\u201cThe celebration this year of the 75thanniversary of the Universal Declaration of Human Rights gives us a unique opportunity to cooperate on joint initiatives and activities, promoting the universality of human rights and expanding civic space to make the enjoyment of human rights a reality in the Kyrgyz Republic\u201d added Fabio Piana, UN Human Rights Central Asia Regional Representative ad interim.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 30 May 2022, UN Resident Coordinator Antje Grawe and UN Human Rights Central Asia Regional Representative ad interim Fabio Piana met with the newly appointed Ombudsperson Dzhamilya Dzhamanbaeva. They discussed the vision and plans of the new Akyikatchy, including steps envisaged to bring the Akyikatchy Institute \u2013 the national human rights institution (NHRI) of the Kyrgyz Republic - fully in line with the Paris and Belgrade Principles, as recommended by the Global Alliance of NHRIs in 2012. \u201cAn independent, pluralistic, accessible and effective Ombudsperson Institute that implements its mandate to promote and protect human rights with necessary financial and human resources, in line with the Paris Principles, is an essential pillar of the human rights protection system in Kyrgyzstan, in line with Kyrgyzstan\u2019s pledge as candidate for the Human Rights Council and recommendations of UN Human Rights Mechanisms\u201d, underlined Antje Grawe, UN Resident Coordinator in the Kyrgyz Republic. She noted that the UN family in Kyrgyzstan looks forward to continuing its cooperation with the Akyikatchy and her Institute , including through provision of technical advice on upgrading the Law \u201cOn Akyikatchy\u201d through an open, inclusive and consultative process; supporting her continued engagement with UN Human Rights Mechanisms; reinforcing cooperation with civil society, as well as strengthening the capacity of the Akyikatchy in Bishkek and in its regional offices, among other. \u201cThe celebration this year of the 75thanniversary of the Universal Declaration of Human Rights gives us a unique opportunity to cooperate on joint initiatives and activities, promoting the universality of human rights and expanding civic space to make the enjoyment of human rights a reality in the Kyrgyz Republic\u201d added Fabio Piana, UN Human Rights Central Asia Regional Representative ad interim.",
+  "date": "30 May 2023"
+}

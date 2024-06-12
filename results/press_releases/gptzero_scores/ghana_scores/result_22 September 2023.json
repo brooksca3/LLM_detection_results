@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c51840bf-ee0a-41b1-bf72-9e7690809a9c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 9.227288246154785,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000893612508662045,
+          "perplexity": 45,
+          "sentence": "The plead follows a 5-day meeting of over 120 women and young people to discuss the current political crisis in the Sahel, the development and proposal of concrete strategies for greater involvement of women and young people in current and future political dialogue, and the development of joint regional programs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005922031705267727,
+          "perplexity": 21,
+          "sentence": "The United Nations Office for West Africa and the Sahel (UNOWAS), in cooperation with UN Women, organized the annual meeting of the Working Group on Women, Youth, Peace and Security in West Africa and the Sahel, from 18 to 22 September 2023, under the theme \"Unconstitutional seizure of power and transition in the Sahel region\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005381379160098732,
+          "perplexity": 34,
+          "sentence": "Nearly 121 women and young people (54 in person and 67 online) from 17 countries in West Africa and the Sahel took part in the meeting, which opened in the presence of Major General Francis Adu-Amanfoh, Special Advisor to the President of the Republic of Ghana on the Accra Initiative, Ms Francisca Atuluk, Director of Human Resources at the Ministry of Youth and Sports, Mr. George Amoh, Executive Secretary of the National Peace Council, and Mr. Charles Abani, Resident Coordinator of the United Nations System in Ghana.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006616858299821615,
+          "perplexity": 48,
+          "sentence": "The officials recalled that UN Security Council Resolution 1325 (2000) was the first to highlight the valuable role and essential contribution of women to peace and sustainable stability, recognizing that \"women matter for peace\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005313437432050705,
+          "perplexity": 37,
+          "sentence": "\"Similarly, resolution 2250 (2015) on youth, peace and security recognizes the positive contribution of young people to peace and sustainable development in their communities, humanitarian assistance and post-conflict reconstruction.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006857076659798622,
+          "perplexity": 31,
+          "sentence": "They also discussed the current security situation in the Sahel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008608145290054381,
+          "perplexity": 42,
+          "sentence": "The 5-day meeting discussed the current political crisis in the Sahel, the development and proposal of concrete strategies for greater involvement of women and young people in current and future political dialogue, and the development",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The plead follows a 5-day meeting of over 120 women and young people to discuss the current political crisis in the Sahel, the development and proposal of concrete strategies for greater involvement of women and young people in current and future political dialogue, and the development of joint regional programs. The United Nations Office for West Africa and the Sahel (UNOWAS), in cooperation with UN Women, organized the annual meeting of the Working Group on Women, Youth, Peace and Security in West Africa and the Sahel, from 18 to 22 September 2023, under the theme \"Unconstitutional seizure of power and transition in the Sahel region\". Nearly 121 women and young people (54 in person and 67 online) from 17 countries in West Africa and the Sahel took part in the meeting, which opened in the presence of Major General Francis Adu-Amanfoh, Special Advisor to the President of the Republic of Ghana on the Accra Initiative, Ms Francisca Atuluk, Director of Human Resources at the Ministry of Youth and Sports, Mr. George Amoh, Executive Secretary of the National Peace Council, and Mr. Charles Abani, Resident Coordinator of the United Nations System in Ghana. The officials recalled that UN Security Council Resolution 1325 (2000) was the first to highlight the valuable role and essential contribution of women to peace and sustainable stability, recognizing that \"women matter for peace\". \"Similarly, resolution 2250 (2015) on youth, peace and security recognizes the positive contribution of young people to peace and sustainable development in their communities, humanitarian assistance and post-conflict reconstruction.\" They also discussed the current security situation in the Sahel. The 5-day meeting discussed the current political crisis in the Sahel, the development and proposal of concrete strategies for greater involvement of women and young people in current and future political dialogue, and the development",
+  "date": "22 September 2023"
+}

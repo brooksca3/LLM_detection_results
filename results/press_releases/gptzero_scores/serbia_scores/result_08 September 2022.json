@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f20bc568-a7f7-4dad-a557-ff2010bcd030",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.811241149902344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015042936138343066,
+          "perplexity": 91,
+          "sentence": "Belgrade, 7 September 2022 - The United Nations in Serbia and the Government of Serbia held the first Steering Committee meeting of the Joint SDG Programme that focuses on catalysing a strengthened shock-responsive social protection system to mitigate the socio-economic impacts of the consecutive crisis that hit the country - such as Covid and Ukraine crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014638688298873603,
+          "perplexity": 45,
+          "sentence": "The members of the Steering Committee included representatives from the Ministry of Human and Minority Rights and Social Dialogue, Ministry of Public Administration and Local-Self Government, Ministry of Family Welfare and Demography, Ministry of Youth and Sports, Ministry of Labor, Employment, Veteran and Social Affairs, Standing Conference of Town and Municipalities, Statistical Office of the Republic of Serbia and Commissioner for the Protection of Equality, UN Resident Coordinator, representatives from implementing UN Agencies- UNICEF as the led Agency, UNFPA, UNHCR and RCO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013554662291426212,
+          "perplexity": 85,
+          "sentence": "The joint programme builds on the second priority of the UNSDCF 2021-2025 on social cohesion and related outcome on social protection, in line with SDGs and EU integration with the aim to (i) strengthen the data response on the impact of the crisis on the most vulnerable groups to feed into the introduction of legislative changes for adaptive social protection system (ii) apply the shock-responsive social protection principles to provide support for 170 vulnerable families with children- focusing on single parent and women households and older people households, refugees- mostly hit by the crisis, in rural areas, through the provision of a temporary basis cash transfer programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001271021756110713,
+          "perplexity": 140,
+          "sentence": "The total project value is $289.200, funded mainly by the UN Joint SDG Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012815743684768677,
+          "perplexity": 85,
+          "sentence": "\u201cThis is a short time initiative, that will help to produce significant data that will be used to advocate for strengthened shock- sensitive social protection measures in the national social protection system in the country that is responsive to current and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 7 September 2022 \u2013 The United Nations in Serbia and the Government of Serbia held the first Steering Committee meeting of the Joint SDG Programme that focuses on catalysing a strengthened shock-responsive social protection system to mitigate the socio-economic impacts of the consecutive crisis that hit the country \u2013 such as Covid and Ukraine crisis. The members of the Steering Committee included representatives from the Ministry of Human and Minority Rights and Social Dialogue, Ministry of Public Administration and Local-Self Government, Ministry of Family Welfare and Demography, Ministry of Youth and Sports, Ministry of Labor, Employment, Veteran and Social Affairs, Standing Conference of Town and Municipalities, Statistical Office of the Republic of Serbia and Commissioner for the Protection of Equality, UN Resident Coordinator, representatives from implementing UN Agencies- UNICEF as the led Agency, UNFPA, UNHCR and RCO. The joint programme builds on the second priority of the UNSDCF 2021-2025 on social cohesion and related outcome on social protection, in line with SDGs and EU integration with the aim to (i) strengthen the data response on the impact of the crisis on the most vulnerable groups to feed into the introduction of legislative changes for adaptive social protection system (ii) apply the shock-responsive social protection principles to provide support for 170 vulnerable families with children- focusing on single parent and women households and older people households, refugees- mostly hit by the crisis, in rural areas, through the provision of a temporary basis cash transfer programme. The total project value is $289.200, funded mainly by the UN Joint SDG Fund. \u201cThis is a short time initiative, that will help to produce significant data that will be used to advocate for strengthened shock- sensitive social protection measures in the national social protection system in the country that is responsive to current and",
+  "date": "08 September 2022"
+}

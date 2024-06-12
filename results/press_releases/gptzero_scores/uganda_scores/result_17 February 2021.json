@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "48ce2ec2-e7b2-464f-b226-365c87273924",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.198213577270508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012394795194268227,
+          "perplexity": 38,
+          "sentence": "NUP is the main opposition party that contested the Presidential and Parliamentary elections on 14th January 2021 The United Nations in Uganda confirms that today the leader of the National Unity Platform (NUP), Mr. Robert Kyagulanyi accompanied by five party officials handed over a petition on alleged human rights violations that marred the electoral process, to the United Nations Office of the High Commissioner of Human Rights (OHCHR) Representative in Uganda, Mr. Robert Kotchani at his office in Kampala.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020009339787065983,
+          "perplexity": 58,
+          "sentence": "In accordance with established procedures, OHCHR will immediately study these allegations and take the appropriate actions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015513425460085273,
+          "perplexity": 68,
+          "sentence": "The United Nations Resident Coordinator will share copies of this petition with the host government and United Nations Headquarters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001375027815811336,
+          "perplexity": 69,
+          "sentence": "The United Nations in Uganda wishes to recognize that the Uganda Police Force Very Important Persons Protection Unit (VVIPU) abided by established procedures which enabled the NUP leadership to have a peaceful meeting at the OHCHR office in Kampala.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013747180346399546,
+          "perplexity": 69,
+          "sentence": "The United Nations in Uganda wishes to deplore that prior to the meeting, members of the Uganda Military Police used excessive force to prevent a number of persons accompanying the NUP delegation from accessing OHCHR premises.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013625102583318949,
+          "perplexity": 33,
+          "sentence": "This behaviour contravenes the agreement with the Government of Uganda regarding the safety and security of UN premises, personnel and guests as well as national and international commitments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017392310546711087,
+          "perplexity": 15,
+          "sentence": "The Republic of Uganda is a member of the United Nations and has conveyed in the past its commitment to peace, justice, human rights and development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029162936843931675,
+          "perplexity": 11,
+          "sentence": "The UN calls on the Government to immediately investigate this incident and ensure that those responsible are brought to justice.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NUP is the main opposition party that contested the Presidential and Parliamentary elections on 14th January 2021 The United Nations in Uganda confirms that today the leader of the National Unity Platform (NUP), Mr. Robert Kyagulanyi accompanied by five party officials handed over a petition on alleged human rights violations that marred the electoral process, to the United Nations Office of the High Commissioner of Human Rights (OHCHR) Representative in Uganda, Mr. Robert Kotchani at his office in Kampala. In accordance with established procedures, OHCHR will immediately study these allegations and take the appropriate actions. The United Nations Resident Coordinator will share copies of this petition with the host government and United Nations Headquarters. The United Nations in Uganda wishes to recognize that the Uganda Police Force Very Important Persons Protection Unit (VVIPU) abided by established procedures which enabled the NUP leadership to have a peaceful meeting at the OHCHR office in Kampala. The United Nations in Uganda wishes to deplore that prior to the meeting, members of the Uganda Military Police used excessive force to prevent a number of persons accompanying the NUP delegation from accessing OHCHR premises. This behaviour contravenes the agreement with the Government of Uganda regarding the safety and security of UN premises, personnel and guests as well as national and international commitments. The Republic of Uganda is a member of the United Nations and has conveyed in the past its commitment to peace, justice, human rights and development. The UN calls on the Government to immediately investigate this incident and ensure that those responsible are brought to justice.",
+  "date": "17 February 2021"
+}

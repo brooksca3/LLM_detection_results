@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a3ea874f-7a2c-42b7-baf4-cb3d7b3507b9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002098745999265439,
+        "human": 0.9979012540007346,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002098745999265439,
+      "confidence_category": "high",
+      "confidence_score": 0.9979012540007346,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002098745999265439,
+          "human": 0.9979012540007346,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 416.2603759765625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001590677275089547,
+          "perplexity": 92,
+          "sentence": "New Delhi, 27 November 2021 - In view of surge in COVID-19 cases elsewhere globally and detection of new variant of concern Omicron, the World Health Organization today appealed to countries in South-East Asia Region to scale up surveillance, strengthen public health and social measures, and enhance vaccination coverage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015688374696765095,
+          "perplexity": 65,
+          "sentence": "\u201cThough COVID-19 cases have been declining in most countries of our Region, the surge in cases elsewhere in the world and confirmation of a new Variant of Concern, is a reminder of the persisting risk and the need for us to continue to do our best to protect against the virus and prevent its spread.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014556122187059373,
+          "perplexity": 91,
+          "sentence": "At no cost should we let our guards down,\u201d said Dr Poonam Khetrapal Singh, Regional Director, WHO South-East Asia Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001549402513774112,
+          "perplexity": 1395,
+          "sentence": "Countries must enhance surveillance and sequencing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001575290662003681,
+          "perplexity": 121,
+          "sentence": "They should assess the risk of importation through international travel based on updated information on circulating variants and response capacities, and take measures accordingly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014813648886047304,
+          "perplexity": 255,
+          "sentence": "\u201cComprehensive and tailored public health and social measures to prevent transmission must continue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001344439951935783,
+          "perplexity": 20,
+          "sentence": "The earlier the protective measures are implemented, the less restrictive they would need to be in order to be effective.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013598756049759686,
+          "perplexity": 101,
+          "sentence": "The more COVID-19 circulates, the more opportunities the virus will have to change and mutate, and the pandemic will last longer,\u201d the Regional Director said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011923124111490324,
+          "perplexity": 39,
+          "sentence": "The most important thing people must do is reduce their risk of exposure to the virus - wear a mask and wear it properly covering nose and mouth; keep distance; avoid poorly ventilated or crowded spaces; keep hands clean; cover cough and sneeze; and get vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011913271009689197,
+          "perplexity": 65,
+          "sentence": "\u201cAs of today 31% of the Region's population is fully vaccinated, 21% partially vaccinated while nearly 48%, or about a billion people are yet to receive even a single dose of the COVID-19 vaccine,\u201d she said, adding that they continue to be",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New Delhi, 27 November 2021 \u2013 In view of surge in COVID-19 cases elsewhere globally and detection of new variant of concern Omicron, the World Health Organization today appealed to countries in South-East Asia Region to scale up surveillance, strengthen public health and social measures, and enhance vaccination coverage. \u201cThough COVID-19 cases have been declining in most countries of our Region, the surge in cases elsewhere in the world and confirmation of a new Variant of Concern, is a reminder of the persisting risk and the need for us to continue to do our best to protect against the virus and prevent its spread. At no cost should we let our guards down,\u201d said Dr Poonam Khetrapal Singh, Regional Director, WHO South-East Asia Region. Countries must enhance surveillance and sequencing. They should assess the risk of importation through international travel based on updated information on circulating variants and response capacities, and take measures accordingly. \u201cComprehensive and tailored public health and social measures to prevent transmission must continue. The earlier the protective measures are implemented, the less restrictive they would need to be in order to be effective. The more COVID-19 circulates, the more opportunities the virus will have to change and mutate, and the pandemic will last longer,\u201d the Regional Director said. The most important thing people must do is reduce their risk of exposure to the virus \u2013 wear a mask and wear it properly covering nose and mouth; keep distance; avoid poorly ventilated or crowded spaces; keep hands clean; cover cough and sneeze; and get vaccinated. \u201cAs of today 31% of the Region\u2019s population is fully vaccinated, 21% partially vaccinated while nearly 48%, or about a billion people are yet to receive even a single dose of the COVID-19 vaccine,\u201d she said, adding that they continue to be",
+  "date": "02 December 2021"
+}

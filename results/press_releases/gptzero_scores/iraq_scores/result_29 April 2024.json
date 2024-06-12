@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8a5f61e8-d42f-42ce-8561-c0d67fb0322c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.699016571044922,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012625275121536106,
+          "perplexity": 62,
+          "sentence": "During a two-day visit, ILO Director-General Gilbert F. Houngbo held talks with Iraq's President, Prime Minister, senior Iraqi officials, social partners and youth representatives on advancing social justice and ensuring decent work in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016004843928385526,
+          "perplexity": 54,
+          "sentence": "BAGHDAD (ILO News) - ILO Director-General, Gilbert F. Houngbo, has concluded his first official visit to Iraq, during which he praised the country for transitioning from a focus on emergency relief response to stabilization and development, while calling for continued advancement towards greater social justice, growth of decent jobs and protection of workers in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015807285672053695,
+          "perplexity": 38,
+          "sentence": "During his visit, on 27-28 April, during which he was accompanied by the ILO Regional Director for Arab States, Ruba Jaradat, and other senior ILO officials, the Director-General discussed progress made through the ILO's work in the country with Iraqi President Abdul Latif Rashid, Prime Minister Mohammed Shia' Al Sudani, and Minister of Labour and Social Affairs Ahmed Jassem Saber Al-Asadi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019205475109629333,
+          "perplexity": 79,
+          "sentence": "The meetings also explored possibilities for further cooperation to accelerate decent work and economic growth in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016386419883929193,
+          "perplexity": 24,
+          "sentence": "Houngbo also met the ILO's social partners in Iraq, including representatives from the General Federation of Iraqi Workers (GFIW), the Conference of Iraqi Federations and Workers Unions (CIFWU) and the Iraqi Council Union (ICU), as well as employers' representatives from the Iraqi Federation of Industries (IFI).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001527003332739696,
+          "perplexity": 57,
+          "sentence": "The discussions focused on strengthening freedom of association and fostering tripartite social dialogue for better protection of workers' rights in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012483095633797348,
+          "perplexity": 53,
+          "sentence": "The Director-General held further talks with UN Resident Coordinator, Ghulam Mohammad Isaczai, and members of the UN Iraq country team, on forming close partnerships between the ILO and UN agencies on the ground, as part of the UN's wider goal of 'delivering as one' in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028235450736247003,
+          "perplexity": 41,
+          "sentence": "\u201cI commend Iraq for the progress made in the past years, which has paved the way for a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "During a two-day visit, ILO Director-General Gilbert F. Houngbo held talks with Iraq\u2019s President, Prime Minister, senior Iraqi officials, social partners and youth representatives on advancing social justice and ensuring decent work in Iraq. BAGHDAD (ILO News) \u2013 ILO Director-General, Gilbert F. Houngbo, has concluded his first official visit to Iraq, during which he praised the country for transitioning from a focus on emergency relief response to stabilization and development, while calling for continued advancement towards greater social justice, growth of decent jobs and protection of workers in the country. During his visit, on 27-28 April, during which he was accompanied by the ILO Regional Director for Arab States, Ruba Jaradat, and other senior ILO officials, the Director-General discussed progress made through the ILO\u2019s work in the country with Iraqi President Abdul Latif Rashid, Prime Minister Mohammed Shia' Al Sudani, and Minister of Labour and Social Affairs Ahmed Jassem Saber Al-Asadi. The meetings also explored possibilities for further cooperation to accelerate decent work and economic growth in the country. Houngbo also met the ILO\u2019s social partners in Iraq, including representatives from the General Federation of Iraqi Workers (GFIW), the Conference of Iraqi Federations and Workers Unions (CIFWU) and the Iraqi Council Union (ICU), as well as employers\u2019 representatives from the Iraqi Federation of Industries (IFI). The discussions focused on strengthening freedom of association and fostering tripartite social dialogue for better protection of workers\u2019 rights in Iraq. The Director-General held further talks with UN Resident Coordinator, Ghulam Mohammad Isaczai, and members of the UN Iraq country team, on forming close partnerships between the ILO and UN agencies on the ground, as part of the UN\u2019s wider goal of 'delivering as one' in Iraq. \u201cI commend Iraq for the progress made in the past years, which has paved the way for a",
+  "date": "29 April 2024"
+}

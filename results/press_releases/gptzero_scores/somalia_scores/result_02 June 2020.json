@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3e7afa0c-ee1b-423f-ba30-2a205fc8ff7b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.63790512084961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013343998580239713,
+          "perplexity": 51,
+          "sentence": "Mogadishu - Ventilators to treat COVID-19 patients are being supplied by IOM, the International Organization for Migration, to help thousands of Somali's affected by the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012894772225990891,
+          "perplexity": 30,
+          "sentence": "The ventilators, donated to the Federal Government of Somalia (FGS), and funded by the multi-donor Somalia Humanitarian Fund (SHF), will be used to set up an intensive care unit at the De Martino Hospital, the main public hospital in the country's capital designated by the country's Ministry of Health to treat COVID-19 cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001283400197280571,
+          "perplexity": 173,
+          "sentence": "The donation comes against the backdrop of daily increases in number of COVID-19 cases in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012255871843080968,
+          "perplexity": 44,
+          "sentence": "So far over 1,976 people have tested positive and nearly 80 have died.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012112156400689855,
+          "perplexity": 57,
+          "sentence": "The country has the second highest number of positive cases in East and Horn of Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012767259613610804,
+          "perplexity": 79,
+          "sentence": "The FGS has in place a health taskforce to fight the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012339976092334837,
+          "perplexity": 47,
+          "sentence": "It suspended all international and domestic flights, and established isolation facilities to try and mitigate exposure to the infection, when the first case was reported on March 16.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012816477101296186,
+          "perplexity": 100,
+          "sentence": "Somalia's health system infrastructure remains extremely fragile.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012664304813370109,
+          "perplexity": 70,
+          "sentence": "There are only nine ventilators in the hospital that will receive the donation, insufficient to face a major outbreak.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012037533451803029,
+          "perplexity": 83,
+          "sentence": "\u201cWith this donation, hospital capacity will be strengthened to save lives, protect its workers and provide better healthcare to those in critical conditions due to the virus,\u201d said H.E Dr. Fawziya Abikar Nur, Minister for Health and Human Services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001232856884598732,
+          "perplexity": 45,
+          "sentence": "During the handover ceremony held at the hospital today (02 June)in Mogadishu, the Minister added: \u201cWe appreciate the crucial support provided by IOM, SHF and all other partners working with the Federal Government of Somalia to contain the spread COVID-19 and to provide life-saving treatment to our people.\u201d With the SHF funding, IOM is also providing medical specialists, and donating medical equipment such as personal protective equipment, including masks and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu \u2013 Ventilators to treat COVID-19 patients are being supplied by IOM, the International Organization for Migration, to help thousands of Somali\u2019s affected by the disease. The ventilators, donated to the Federal Government of Somalia (FGS), and funded by the multi-donor Somalia Humanitarian Fund (SHF), will be used to set up an intensive care unit at the De Martino Hospital, the main public hospital in the country\u2019s capital designated by the country\u2019s Ministry of Health to treat COVID-19 cases . The donation comes against the backdrop of daily increases in number of COVID-19 cases in Somalia. So far over 1,976 people have tested positive and nearly 80 have died. The country has the second highest number of positive cases in East and Horn of Africa. The FGS has in place a health taskforce to fight the disease. It suspended all international and domestic flights, and established isolation facilities to try and mitigate exposure to the infection, when the first case was reported on March 16. Somalia\u2019s health system infrastructure remains extremely fragile. There are only nine ventilators in the hospital that will receive the donation, insufficient to face a major outbreak. \u201cWith this donation, hospital capacity will be strengthened to save lives, protect its workers and provide better healthcare to those in critical conditions due to the virus,\u201d said H.E Dr. Fawziya Abikar Nur, Minister for Health and Human Services. During the handover ceremony held at the hospital today (02 June)in Mogadishu, the Minister added: \u201cWe appreciate the crucial support provided by IOM, SHF and all other partners working with the Federal Government of Somalia to contain the spread COVID-19 and to provide life-saving treatment to our people.\u201d With the SHF funding, IOM is also providing medical specialists, and donating medical equipment such as personal protective equipment, including masks and",
+  "date": "02 June 2020"
+}

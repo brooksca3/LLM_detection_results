@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "038a20a0-d537-45e1-9530-10b4bcb90126",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.279293060302734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001352878607576713,
+          "perplexity": 46,
+          "sentence": "The Beirut Critical Environment Recovery, Restoration and Waste Management Program, signed today between the World Bank and the United Nations Development Program (UNDP) in the presence of HE Minister of Environment Nasser Yassine, is financed by the Lebanon Financing Facility (LFF), a multi-donor trust fund established in December 2020 following the launch of the Reform, Recovery and Reconstruction Framework (3RF) to pool grant resources and coordinate financing in support of the immediate socio-economic recovery of vulnerable people and businesses impacted by the Port of Beirut explosion on August 4, 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013724624295718968,
+          "perplexity": 43,
+          "sentence": "According to the Rapid Damage and Needs Assessment prepared in response to the explosion, physical damages to the environment sector were assessed at US$20 to 25 million and recovery and reconstruction needs were estimated at US$75 to 100 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001417816965840757,
+          "perplexity": 161,
+          "sentence": "The explosion caused severe environmental impacts from resulting huge quantities of waste streams, including hazardous and electronic waste and debris.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013234958169050515,
+          "perplexity": 65,
+          "sentence": "It also caused significant damage to municipal solid waste management infrastructure; pollution of the marine ecosystem around the explosion site; loss of green cover/vegetation in Beirut City; and short term increase in dust levels (particulate matter) containing asbestos, during demolition, rehabilitation, and reconstruction of damaged buildings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001613476633792743,
+          "perplexity": 40,
+          "sentence": "The presence of hazardous waste material in various waste streams poses a direct and immediate threat to the population and the environment in Beirut.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001123062611441128,
+          "perplexity": 120,
+          "sentence": "\u201cWe are launching today the fourth LFF financed project, after three other projects that address the recovery needs of micro- and small-enterprises, the social recovery needs of affected population groups and housing reconstruction and rehabilitation of cultural and creative industries in damaged neighborhoods in the city,\u201d said Saroj Kumar Jha, World Bank Mashreq Regional Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011342857033014297,
+          "perplexity": 175,
+          "sentence": "\u201cThis project will implement environment recovery activities in the city of Beirut to mitigate risks of a solid waste crisis and other environmental impacts which resulted",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Beirut Critical Environment Recovery, Restoration and Waste Management Program, signed today between the World Bank and the United Nations Development Program (UNDP) in the presence of HE Minister of Environment Nasser Yassine, is financed by the Lebanon Financing Facility (LFF), a multi-donor trust fund established in December 2020 following the launch of the Reform, Recovery and Reconstruction Framework (3RF) to pool grant resources and coordinate financing in support of the immediate socio-economic recovery of vulnerable people and businesses impacted by the Port of Beirut explosion on August 4, 2020. According to the Rapid Damage and Needs Assessment prepared in response to the explosion, physical damages to the environment sector were assessed at US$20 to 25 million and recovery and reconstruction needs were estimated at US$75 to 100 million. The explosion caused severe environmental impacts from resulting huge quantities of waste streams, including hazardous and electronic waste and debris. It also caused significant damage to municipal solid waste management infrastructure; pollution of the marine ecosystem around the explosion site; loss of green cover/vegetation in Beirut City; and short term increase in dust levels (particulate matter) containing asbestos, during demolition, rehabilitation, and reconstruction of damaged buildings. The presence of hazardous waste material in various waste streams poses a direct and immediate threat to the population and the environment in Beirut. \u201cWe are launching today the fourth LFF financed project, after three other projects that address the recovery needs of micro- and small-enterprises, the social recovery needs of affected population groups and housing reconstruction and rehabilitation of cultural and creative industries in damaged neighborhoods in the city,\u201d said Saroj Kumar Jha, World Bank Mashreq Regional Director. \u201cThis project will implement environment recovery activities in the city of Beirut to mitigate risks of a solid waste crisis and other environmental impacts which resulted",
+  "date": "18 May 2022"
+}

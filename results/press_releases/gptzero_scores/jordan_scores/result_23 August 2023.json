@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "50e4765e-9cb7-4c30-bcf3-51c5d32bb8a2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.748015403747559,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005782826337963343,
+          "perplexity": 28,
+          "sentence": "Amman - The Italian Government and the United Nations Educational, Scientific and Cultural Organization (UNESCO) signed today a 1.5 million Euro partnership agreement for a new initiative in Petra and Wadi Rum, to safeguard cultural heritage and support local communities in engaging more effectively in the protection of the World Heritage sites, through sustainable practices and alternative livelihood opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007296604453586042,
+          "perplexity": 24,
+          "sentence": "This additional contribution to a long-standing partnership between the Government of Italy and UNESCO in Jordan was cemented in the signing ceremony held today at the UNESCO Jordan Office premises, in the presence of the Italian Ambassador to Jordan, Mr. Luciano Pezzotti, the UNESCO Representative in Jordan, Ms. Min Jeong Kim, and representatives from the Italian Agency for Development Cooperation (AICS).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007482696673832834,
+          "perplexity": 62,
+          "sentence": "During the signing ceremony, Ambassador Pezzotti underscored \u201cthe Government of Italy's commitment to sustain Jordan's efforts in protecting culture as well as conserving heritage places and manage them efficiently, as a reaffirmation of the Italian dedication to valorize cultural assets and safeguard the rich and diverse living heritage of highly significant places, and provide for international cooperation and assistance in the field of cultural heritage\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007991231977939606,
+          "perplexity": 28,
+          "sentence": "UNESCO Representative, Ms. Min Jeong Kim, thanked the Government of Italy for its generous support and stated that, \u201cUNESCO will work closely with the Government of Jordan, as well as the local authorities and communities, to focus on activities that could help alleviate some of the pressures on the sites due to the exponential increase in the number of tourists in recent years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00074533506995067,
+          "perplexity": 43,
+          "sentence": "The ultimate goal of the project is to support the sustainable preservation and development of the World Heritage sites for future generations.\u201d The two-year initiative entitled \u201cLocal Communities and Sustainable Tourism in Petra and Wadi Rum\u201d will contribute to the sustainable protection of the two World Heritage sites, while focusing on empowering",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman \u2013 The Italian Government and the United Nations Educational, Scientific and Cultural Organization (UNESCO) signed today a 1.5 million Euro partnership agreement for a new initiative in Petra and Wadi Rum, to safeguard cultural heritage and support local communities in engaging more effectively in the protection of the World Heritage sites, through sustainable practices and alternative livelihood opportunities. This additional contribution to a long-standing partnership between the Government of Italy and UNESCO in Jordan was cemented in the signing ceremony held today at the UNESCO Jordan Office premises, in the presence of the Italian Ambassador to Jordan, Mr. Luciano Pezzotti, the UNESCO Representative in Jordan, Ms. Min Jeong Kim, and representatives from the Italian Agency for Development Cooperation (AICS). During the signing ceremony, Ambassador Pezzotti underscored \u201cthe Government of Italy\u2019s commitment to sustain Jordan\u2019s efforts in protecting culture as well as conserving heritage places and manage them efficiently, as a reaffirmation of the Italian dedication to valorize cultural assets and safeguard the rich and diverse living heritage of highly significant places, and provide for international cooperation and assistance in the field of cultural heritage\u201d. UNESCO Representative, Ms. Min Jeong Kim, thanked the Government of Italy for its generous support and stated that, \u201cUNESCO will work closely with the Government of Jordan, as well as the local authorities and communities, to focus on activities that could help alleviate some of the pressures on the sites due to the exponential increase in the number of tourists in recent years. The ultimate goal of the project is to support the sustainable preservation and development of the World Heritage sites for future generations.\u201d The two-year initiative entitled \u201cLocal Communities and Sustainable Tourism in Petra and Wadi Rum\u201d will contribute to the sustainable protection of the two World Heritage sites, while focusing on empowering",
+  "date": "23 August 2023"
+}

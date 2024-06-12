@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9ad31a7c-fd97-4d29-b6e2-1dd0c6dbfa74",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.14790344238281,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018740087398327887,
+          "perplexity": 18,
+          "sentence": "22 January 2023, Berlin - On the side lines of the Global Forum for Food and Agriculture (GFFA) in Berlin, the Food and Agriculture Organization of the United Nations (FAO) and the Government of Germany co-organized a special meeting on Saturday for G-7 Ministers on the situation in Ukraine and planning to address the impacts of the war on the Ukrainian people, livelihoods and agricultural output.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019439398602116853,
+          "perplexity": 68,
+          "sentence": "For 2023, FAO Chief Economist, M\u00e1ximo Torero Cullen, presented updates regarding FAO's Rapid Response Plan for the country, outlining three pillars of action, which together will require $205 million in funding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018890350474976003,
+          "perplexity": 71,
+          "sentence": "i) restoring food security and self-sufficiency for half a million rural households in frontline or otherwise heavily-impacted areas through provision of seeds, feed and cash; ii) restoring critical production and value chains by providing diesel and gas generators, seeds for wheat, barley, oats and peas, temporary and fixed modular storage units and other needs; iii) bolstering critical agrifood system services by supporting testing and certification for alternative grain export routes, restoring veterinary services, partnering with specialized organizations to facilitate the removal of explosive hazards from agricultural lands and conducting damage and loss assessments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023557340318802744,
+          "perplexity": 18,
+          "sentence": "The meeting was hosted by Cem \u00d6zdemir, Germany's Federal Minister for Food and Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022971996804699302,
+          "perplexity": 34,
+          "sentence": "Also present were Mykola Solskyi, Minister for Agrarian Policy and Food of Ukraine, and Vladimir Bolea, Minister for Agriculture and Food Industry of the Republic of Moldova, which has been impacted by the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001974425686057657,
+          "perplexity": 6,
+          "sentence": "Ministers and senior officials from Canada, France, Italy, Japan, Poland, Romania, the United Kingdom, and the European Union and the Organization for Economic Cooperation and Development (OECD) also participated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014892479521222413,
+          "perplexity": 135,
+          "sentence": "In 2022, FAO programmes included providing more than 26 000 grain sleeves able to store more than 5 million tonnes of cereals given that Ukraine's infrastructure has been damaged, helping more than",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "22 January 2023, Berlin \u2013 On the side lines of the Global Forum for Food and Agriculture (GFFA) in Berlin, the Food and Agriculture Organization of the United Nations (FAO) and the Government of Germany co-organized a special meeting on Saturday for G-7 Ministers on the situation in Ukraine and planning to address the impacts of the war on the Ukrainian people, livelihoods and agricultural output. For 2023, FAO Chief Economist, M\u00e1ximo Torero Cullen, presented updates regarding FAO\u2019s Rapid Response Plan for the country, outlining three pillars of action, which together will require $205 million in funding. i) restoring food security and self-sufficiency for half a million rural households in frontline or otherwise heavily-impacted areas through provision of seeds, feed and cash; ii) restoring critical production and value chains by providing diesel and gas generators, seeds for wheat, barley, oats and peas, temporary and fixed modular storage units and other needs; iii) bolstering critical agrifood system services by supporting testing and certification for alternative grain export routes, restoring veterinary services, partnering with specialized organizations to facilitate the removal of explosive hazards from agricultural lands and conducting damage and loss assessments. The meeting was hosted by Cem \u00d6zdemir, Germany\u2019s Federal Minister for Food and Agriculture. Also present were Mykola Solskyi, Minister for Agrarian Policy and Food of Ukraine, and Vladimir Bolea, Minister for Agriculture and Food Industry of the Republic of Moldova, which has been impacted by the conflict. Ministers and senior officials from Canada, France, Italy, Japan, Poland, Romania, the United Kingdom, and the European Union and the Organization for Economic Cooperation and Development (OECD) also participated. In 2022, FAO programmes included providing more than 26 000 grain sleeves able to store more than 5 million tonnes of cereals given that Ukraine\u2019s infrastructure has been damaged , helping more than",
+  "date": "23 January 2023"
+}

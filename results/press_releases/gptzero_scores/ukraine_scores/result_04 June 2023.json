@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c9298717-45f7-4a40-858c-cdf71caf42f6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.405487060546875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004344514571130276,
+          "perplexity": 23,
+          "sentence": "I would like to start with a number, a very important number that should shock and horrify the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003973427228629589,
+          "perplexity": 58,
+          "sentence": "And that is 1,500.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036775844637304544,
+          "perplexity": 80,
+          "sentence": "1,500 Ukrainian children killed or injured since the Russian invasion in February 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036417990922927856,
+          "perplexity": 35,
+          "sentence": "And unfortunately, that number goes up almost every single day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003837257856503129,
+          "perplexity": 31,
+          "sentence": "Last night, in Dnipro, three more children were injured in an explosion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003947123419493437,
+          "perplexity": 31,
+          "sentence": "Earlier this week, in Kyiv, a little girl was killed alongside her mother after a strike.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004303850699216127,
+          "perplexity": 47,
+          "sentence": "I know that that brings no solace, but it is important to document and keep track.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004623269196599722,
+          "perplexity": 21,
+          "sentence": "The Convention of the Rights of the Child, written at the United Nations, signed by Member States, ratified by Member States, including Russia, is intended to protect children - physically, psychologically, financially - and ensure that they stay with their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004606236703693867,
+          "perplexity": 144,
+          "sentence": "It specifically prohibits adoption during times of war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004144495818763971,
+          "perplexity": 23,
+          "sentence": "We know that the Convention for the Rights of the Child is being totally disregarded by Russia, as is International Humanitarian Law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037322964053601027,
+          "perplexity": 83,
+          "sentence": "It doesn't make these documents irrelevant.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003997495863586664,
+          "perplexity": 119,
+          "sentence": "It makes them extremely important for accountability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033616418950259686,
+          "perplexity": 24,
+          "sentence": "And the International Criminal Court has already issued two indictments for the forcible taking of children from Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034222195390611887,
+          "perplexity": 23,
+          "sentence": "And that's the beginning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003093520412221551,
+          "perplexity": 14,
+          "sentence": "We also know millions of Ukrainian children have been displaced because of violence, have seen their family members killed, have suffered great loss, have not been able to go to school, have not been able to access health care and are suffering from the trauma of the war brought by the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031110781710594893,
+          "perplexity": 32,
+          "sentence": "I also know that much has been done to support these children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003196070669218898,
+          "perplexity": 28,
+          "sentence": "In Kharkiv, a fantastic centre has been set up by local authorities and UNICEF to support them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003387199016287923,
+          "perplexity": 62,
+          "sentence": "And in Antonivka, in Khersonska oblast, I met a little boy who lived in a shelter and who had his tablet and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "I would like to start with a number, a very important number that should shock and horrify the world. And that is 1,500. 1,500 Ukrainian children killed or injured since the Russian invasion in February 2022. And unfortunately, that number goes up almost every single day. Last night, in Dnipro, three more children were injured in an explosion. Earlier this week, in Kyiv, a little girl was killed alongside her mother after a strike. I know that that brings no solace, but it is important to document and keep track. The Convention of the Rights of the Child, written at the United Nations, signed by Member States, ratified by Member States, including Russia, is intended to protect children \u2013 physically, psychologically, financially \u2013 and ensure that they stay with their families. It specifically prohibits adoption during times of war. We know that the Convention for the Rights of the Child is being totally disregarded by Russia, as is International Humanitarian Law. It doesn't make these documents irrelevant. It makes them extremely important for accountability. And the International Criminal Court has already issued two indictments for the forcible taking of children from Ukraine. And that's the beginning. We also know millions of Ukrainian children have been displaced because of violence, have seen their family members killed, have suffered great loss, have not been able to go to school, have not been able to access health care and are suffering from the trauma of the war brought by the Russian Federation. I also know that much has been done to support these children. In Kharkiv, a fantastic centre has been set up by local authorities and UNICEF to support them. And in Antonivka, in Khersonska oblast, I met a little boy who lived in a shelter and who had his tablet and",
+  "date": "04 June 2023"
+}

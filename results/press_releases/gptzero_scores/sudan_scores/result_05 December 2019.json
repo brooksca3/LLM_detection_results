@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d8bdee3d-0fff-4600-987c-115ae0a602df",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047255511555901,
+        "human": 0.9688736085837036,
+        "mixed": 0.0006538363007373658
+      },
+      "completely_generated_prob": 0.03047255511555901,
+      "confidence_category": "high",
+      "confidence_score": 0.9688736085837036,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047255511555901,
+          "human": 0.9688736085837036,
+          "mixed": 0.0006538363007373658
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 163.2583770751953,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00037063739728182554,
+          "perplexity": 12,
+          "sentence": "UN deploys a multi-agency delegation from 3 to 5 December to assess Sudan's current capability to use passenger data to detect and interdict foreign terrorist fighters Khartoum - In response to a request from the Government of Sudan, the UN deployed a multi-agency delegation from 3 to 5 December to assess Sudan's current capability to use passenger data to detect and interdict foreign terrorist fighters in accordance with UN Security Council resolution 2396 (2017).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041892644367180765,
+          "perplexity": 62,
+          "sentence": "\u201cThe Sudanese authorities are to be commended for inviting this mission and arranging for all relevant stakeholders to participate actively in the assessment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003927290963474661,
+          "perplexity": 83,
+          "sentence": "They gave consistent and strong expressions of commitment,\u201d said delegation leader Dr. Raffi Gregorian, who runs the UN's Office of Counterterrorism (UNOCT).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02793600596487522,
+          "perplexity": 25,
+          "sentence": "He noted that \u201cwhen implemented properly, the UN CT Travel Programme can help Sudan meet its obligations under UN Security Council resolution 2396 and demonstrate its willingness to be a credible and reliable partner in countering international terrorism,\u201d He added that \u201chaving such a system in place can also help Sudan preserve its sovereignty and territorial integrity while making it possible to facilitate legitimate travel and boost the economy.\u201d Launched on 7 May 2019, the UN Countering Terrorist Travel Programme is implemented by UNOCT through an \u201cAll-of-UN\u201d partnership with the Security Council's Counter-Terrorism Committee Executive Directorate (CTED), the UN Office on Drugs and Crime (UNODC), the International Civil Aviation Organization (ICAO), the Office of Information and Communications Technology (OICT), and the International Criminal Police Organization (INTERPOL).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024544494226574898,
+          "perplexity": 405,
+          "sentence": "The Programme includes an assessment component and provides legislative and operational support, transport industries engagement, and technical assistance using the UN goTravel software system.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN deploys a multi-agency delegation from 3 to 5 December to assess Sudan\u2019s current capability to use passenger data to detect and interdict foreign terrorist fighters Khartoum \u2013 In response to a request from the Government of Sudan, the UN deployed a multi-agency delegation from 3 to 5 December to assess Sudan\u2019s current capability to use passenger data to detect and interdict foreign terrorist fighters in accordance with UN Security Council resolution 2396 (2017). \u201cThe Sudanese authorities are to be commended for inviting this mission and arranging for all relevant stakeholders to participate actively in the assessment. They gave consistent and strong expressions of commitment,\u201d said delegation leader Dr. Raffi Gregorian, who runs the UN\u2019s Office of Counterterrorism (UNOCT). He noted that \u201cwhen implemented properly, the UN CT Travel Programme can help Sudan meet its obligations under UN Security Council resolution 2396 and demonstrate its willingness to be a credible and reliable partner in countering international terrorism,\u201d He added that \u201chaving such a system in place can also help Sudan preserve its sovereignty and territorial integrity while making it possible to facilitate legitimate travel and boost the economy.\u201d Launched on 7 May 2019, the UN Countering Terrorist Travel Programme is implemented by UNOCT through an \u201cAll-of-UN\u201d partnership with the Security Council\u2019s Counter-Terrorism Committee Executive Directorate (CTED), the UN Office on Drugs and Crime (UNODC), the International Civil Aviation Organization (ICAO), the Office of Information and Communications Technology (OICT), and the International Criminal Police Organization (INTERPOL). The Programme includes an assessment component and provides legislative and operational support, transport industries engagement, and technical assistance using the UN goTravel software system.",
+  "date": "05 December 2019"
+}

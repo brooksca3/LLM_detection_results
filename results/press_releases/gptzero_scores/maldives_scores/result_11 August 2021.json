@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a10a785b-b9da-4e98-8cb6-ed28f8e619a0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.087791442871094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006285836570896208,
+          "perplexity": 25,
+          "sentence": "A team led by the Office of the President, the Ministry of Foreign Affairs, the Ministry of Health, Representatives from the US Government and the United Nations, received the vaccines and supplies on the tarmac at Velana International Airport.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010538779897615314,
+          "perplexity": 41,
+          "sentence": "The Minister of Health, Honourable Ahmed Naseem noted that, \u201cwith this batch of vaccines, we can now start vaccinating children between the ages of 12 and 17, which would undoubtedly add renewed momentum to our vaccination efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009658304043114185,
+          "perplexity": 131,
+          "sentence": "I am confident that today's donation will not only expand our vaccine eligible population thereby decrease the infection rate and fatalities but will also boost overall economic recovery efforts\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008171950466930866,
+          "perplexity": 32,
+          "sentence": "Currently, Sinopharm vaccines are being used to administer the second dose and AstraZeneca vaccines are being used to administer first and second doses to all residents above the age of 18.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007203580462373793,
+          "perplexity": 133,
+          "sentence": "With a brief delay in the second jab to those who received the Covishield vaccine due to global vaccine supply shortages, the Government of Maldives had resumed the drive to fully vaccinate residents on 4 July 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000568658288102597,
+          "perplexity": 48,
+          "sentence": "As of 10 August 2021, around 80% of the eligible population has received the first dose and almost 70% received the second, making the country one of the few which has been able to achieve this impressive result, coming very close to vaccinating everyone eligible against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009172239806503057,
+          "perplexity": 121,
+          "sentence": "UNICEF Representative Marjan Montazemi stated that \u201cWe are delighted about the news of Maldives receiving additional doses of vaccines, thanks to the generous donation of the United States Government through the COVAX facility.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008233762928284705,
+          "perplexity": 144,
+          "sentence": "The Maldives has received praise for its inclusive COVID-19 vaccination program which ensure every resident irrespective of nationality receives vaccination against the Coronavirus disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006070986855775118,
+          "perplexity": 64,
+          "sentence": "Surely the timely administration of the vaccines combined with communication and community engagement will go a long way in ensuring that all eligible",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A team led by the Office of the President, the Ministry of Foreign Affairs, the Ministry of Health, Representatives from the US Government and the United Nations, received the vaccines and supplies on the tarmac at Velana International Airport. The Minister of Health, Honourable Ahmed Naseem noted that, \u201cwith this batch of vaccines, we can now start vaccinating children between the ages of 12 and 17, which would undoubtedly add renewed momentum to our vaccination efforts. I am confident that today\u2019s donation will not only expand our vaccine eligible population thereby decrease the infection rate and fatalities but will also boost overall economic recovery efforts\u201d. Currently, Sinopharm vaccines are being used to administer the second dose and AstraZeneca vaccines are being used to administer first and second doses to all residents above the age of 18. With a brief delay in the second jab to those who received the Covishield vaccine due to global vaccine supply shortages, the Government of Maldives had resumed the drive to fully vaccinate residents on 4 July 2021. As of 10 August 2021, around 80% of the eligible population has received the first dose and almost 70% received the second, making the country one of the few which has been able to achieve this impressive result, coming very close to vaccinating everyone eligible against COVID-19. UNICEF Representative Marjan Montazemi stated that \u201cWe are delighted about the news of Maldives receiving additional doses of vaccines, thanks to the generous donation of the United States Government through the COVAX facility. The Maldives has received praise for its inclusive COVID-19 vaccination program which ensure every resident irrespective of nationality receives vaccination against the Coronavirus disease. Surely the timely administration of the vaccines combined with communication and community engagement will go a long way in ensuring that all eligible",
+  "date": "11 August 2021"
+}

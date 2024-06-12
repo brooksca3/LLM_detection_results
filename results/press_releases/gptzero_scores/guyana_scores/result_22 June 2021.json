@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3fa15100-df85-45fc-8e0d-022c6c92b2e5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.89011001586914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03894618898630142,
+          "perplexity": 36,
+          "sentence": "The World Bank approved a US$6.7 million grant from the Global Partnership for Education (GPE) for the Guyana Education Sector Program Project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.040947314351797104,
+          "perplexity": 44,
+          "sentence": "The project aims to improve learning in nursery schools, increase technology use in primary schools, and improve functionality of the national education management information system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03741014748811722,
+          "perplexity": 123,
+          "sentence": "\u201cGuyana's education sector has made progress in the last 15 years,\u201d said Ozan Sevimli, World Bank Resident Representative for Jamaica and Guyana.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04068342596292496,
+          "perplexity": 36,
+          "sentence": "\u201cThere have been improvements, however the learning outcomes remain low, and improving the quality of education at all levels will be the priority for Guyana to develop its human capital.\u201d \u201cAs the impact of the pandemic on education is still being felt around the world, GPE's support to strengthen education in Guyana is more critical than ever,\u201d said Alice Albright, GPE Chief Executive Officer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04280269145965576,
+          "perplexity": 45,
+          "sentence": "\u201cGPE will continue to help make Guyana's education system more resilient and effective so that the most vulnerable girls and boys can go to school and learn.\u201d At the nursery level, the project will support teacher training to improve pedagogy and delivery of a new curriculum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050837595015764236,
+          "perplexity": 29,
+          "sentence": "The training will include foundational skills, as well as student-centered pedagogy, formative assessments, and socio-emotional aspects, which are of particular importance during the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04946399852633476,
+          "perplexity": 128,
+          "sentence": "The project will also provide learning materials and deliver parental education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05037868767976761,
+          "perplexity": 55,
+          "sentence": "At the primary level, the financing will equip schools with computer tablets to enable them to use technology for foundational skills like mathematics and literacy, as well as smart classrooms to support learning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.047710344195365906,
+          "perplexity": 81,
+          "sentence": "Given the inequitable access to learning during the school closures, technology-assisted learning can facilitate teaching and cater to more learning styles for students with different needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.038733676075935364,
+          "perplexity": 54,
+          "sentence": "Finally, the project will finance the further development and roll out of an integrated education management information system at the national level in the nursery, primary and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The World Bank approved a US$6.7 million grant from the Global Partnership for Education (GPE) for the Guyana Education Sector Program Project. The project aims to improve learning in nursery schools, increase technology use in primary schools, and improve functionality of the national education management information system. \u201cGuyana\u2019s education sector has made progress in the last 15 years,\u201d said Ozan Sevimli, World Bank Resident Representative for Jamaica and Guyana. \u201cThere have been improvements, however the learning outcomes remain low, and improving the quality of education at all levels will be the priority for Guyana to develop its human capital.\u201d \u201cAs the impact of the pandemic on education is still being felt around the world, GPE\u2019s support to strengthen education in Guyana is more critical than ever,\u201d said Alice Albright, GPE Chief Executive Officer. \u201cGPE will continue to help make Guyana\u2019s education system more resilient and effective so that the most vulnerable girls and boys can go to school and learn.\u201d At the nursery level, the project will support teacher training to improve pedagogy and delivery of a new curriculum. The training will include foundational skills, as well as student-centered pedagogy, formative assessments, and socio-emotional aspects, which are of particular importance during the pandemic. The project will also provide learning materials and deliver parental education. At the primary level, the financing will equip schools with computer tablets to enable them to use technology for foundational skills like mathematics and literacy, as well as smart classrooms to support learning. Given the inequitable access to learning during the school closures, technology-assisted learning can facilitate teaching and cater to more learning styles for students with different needs. Finally, the project will finance the further development and roll out of an integrated education management information system at the national level in the nursery, primary and",
+  "date": "22 June 2021"
+}

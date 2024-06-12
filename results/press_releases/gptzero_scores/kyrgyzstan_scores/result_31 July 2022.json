@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0bb8ebe4-ec9e-4b30-bd61-f7aedaa92f18",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 277.3514709472656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00020382110960781574,
+          "perplexity": 44,
+          "sentence": "On 30-31 July, 2022, more than 50 representatives of the Presidential Administration and the Cabinet of Ministers, as well as members of civil society and staff of the UN took part in the induction workshop to discuss the institutional landscape for the SDG coordination and oversight, considering the recent structural reforms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025378327700309455,
+          "perplexity": 75,
+          "sentence": "The participants, representing different departments and capacities, learnt about the SDGs progress and challenges through intersectoral discussions covering legal, policy-making and practical implementation of the Agenda 2030 in the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003118924505542964,
+          "perplexity": 45,
+          "sentence": "The workshop, organized by the UN with UNDP's technical leadership, at the request of the Department of the Political and Economic Research of the President's Administration, aims to enhance the government capacity in different dimensions of the SDGs to ensure consistency of the national policy among various government entities and contribute to institutional effectiveness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002902504929807037,
+          "perplexity": 114,
+          "sentence": "\u201cI would call today's workshop an attempt to dive into the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002440228417981416,
+          "perplexity": 52,
+          "sentence": "Today, as a team that prepares intellectual materials for decision-makers, we should work more efficiently and not miss out subtle factors in our analysis so that the decisions reflected in our programs and strategies are more accurate in responding to future challenges, as it is increasingly critical to make quick and effective decisions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020951598708052188,
+          "perplexity": 62,
+          "sentence": "I am inspired by the matrix and philosophy behind the SDGs, which reflects the process of interrelationship of various spheres such as people, peace, partnership, planet, and prosperity\u201d, in his opening remarks Almaz Isanov, Head of the Department of Political and Economic Research of the President's Administration of the Kyrgyz Republic, stated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019623916887212545,
+          "perplexity": 57,
+          "sentence": "He emphasized the importance of intersectoral development, with a particular attention paid to human rights, gender equality and environmental, protection, and noted the Government's full understanding with the UN on the Sustainable Development Goals, considering the impact of global processes on Kyrgyzstan, including COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019098210032097995,
+          "perplexity": 846,
+          "sentence": "Christine Jaulmes, UNRC",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 30-31 July, 2022, more than 50 representatives of the Presidential Administration and the Cabinet of Ministers, as well as members of civil society and staff of the UN took part in the induction workshop to discuss the institutional landscape for the SDG coordination and oversight, considering the recent structural reforms. The participants, representing different departments and capacities, learnt about the SDGs progress and challenges through intersectoral discussions covering legal, policy-making and practical implementation of the Agenda 2030 in the Kyrgyz Republic. The workshop, organized by the UN with UNDP\u2019s technical leadership, at the request of the Department of the Political and Economic Research of the President\u2019s Administration, aims to enhance the government capacity in different dimensions of the SDGs to ensure consistency of the national policy among various government entities and contribute to institutional effectiveness. \u201cI would call today's workshop an attempt to dive into the future. Today, as a team that prepares intellectual materials for decision-makers, we should work more efficiently and not miss out subtle factors in our analysis so that the decisions reflected in our programs and strategies are more accurate in responding to future challenges, as it is increasingly critical to make quick and effective decisions. I am inspired by the matrix and philosophy behind the SDGs, which reflects the process of interrelationship of various spheres such as people, peace, partnership, planet, and prosperity\u201d, in his opening remarks Almaz Isanov, Head of the Department of Political and Economic Research of the President\u2019s Administration of the Kyrgyz Republic, stated. He emphasized the importance of intersectoral development, with a particular attention paid to human rights, gender equality and environmental, protection, and noted the Government\u2019s full understanding with the UN on the Sustainable Development Goals, considering the impact of global processes on Kyrgyzstan, including COVID-19. Christine Jaulmes, UNRC",
+  "date": "31 July 2022"
+}

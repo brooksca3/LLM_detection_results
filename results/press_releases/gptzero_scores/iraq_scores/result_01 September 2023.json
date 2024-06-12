@@ -1,0 +1,87 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "54a446c8-0d27-48a4-be65-831ebebc7697",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.24809265136719,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005153795937076211,
+          "perplexity": 57,
+          "sentence": "Erbil 01 September 2023: As a part of its continued cooperation and engagement with the impacted Iraqi communities, the United Nations Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD) organized a conference in Erbil for Christian community leaders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005204508197493851,
+          "perplexity": 98,
+          "sentence": "The conference gathered over 30 Christian community leaders with UNITAD's dedicated units investigating ISIL crimes against the Christian community, including the destruction of Christian religious sites.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005014368798583746,
+          "perplexity": 9,
+          "sentence": "Also joining were representatives of the international community, including the United States, France, the United Kingdom, Canada, Germany, Hungary and the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06064260005950928,
+          "perplexity": 31,
+          "sentence": "Special Adviser and Head of UNITAD, Christian Ritscher commended the Christian community leaders, saying that: \u201c Your togetherness and your resilience are inspirational, not just to the Christian community in Iraq, but also to us at UNITAD.\u201d He further added that: \u201cISIL's ideology thrived on violence, sparing neither the people of Iraq nor their diverse cultures and beliefs\u2026As we work in pursuit of justice for all victims and survivors, those who suffered from ISIL's atrocities, we keep in heart and mind one of UNITAD's core principles: there is no hierarchy in victims.\u201d Special Adviser Ritscher highlighted that the Team's investigations have strengthened findings on crimes: \u201cincluding the destruction of Christian cultural heritage in Mosul and the Ninawa plains, where ISIL perpetrators targeted churches, monasteries, cemeteries, manuscripts, Christian symbols and artwork in barbaric attacks, rooted in hate and inhumanity.\u201d Special Adviser Ritscher also addressed progress that was made in the development of individual case files for ISIL members in relation to crimes committed in Hamdaniyah, including a high-level ISIL member associated with the Diwan of Spoils, mentioning that: \u201cThe identities of these ISIL members are corroborated by testimonial evidence, ISIL internal documents and case files provided by the Iraqi judiciary.\u201d He further reiterated his gratitude for the close partnership with the Team's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Erbil 01 September 2023: As a part of its continued cooperation and engagement with the impacted Iraqi communities, the United Nations Team to Promote Accountability for Crimes Committed by Da\u2019esh/ISIL (UNITAD) organized a conference in Erbil for Christian community leaders. The conference gathered over 30 Christian community leaders with UNITAD\u2019s dedicated units investigating ISIL crimes against the Christian community, including the destruction of Christian religious sites. Also joining were representatives of the international community, including the United States, France, the United Kingdom, Canada, Germany, Hungary and the European Union. Special Adviser and Head of UNITAD, Christian Ritscher commended the Christian community leaders, saying that: \u201c Your togetherness and your resilience are inspirational, not just to the Christian community in Iraq, but also to us at UNITAD.\u201d He further added that: \u201cISIL's ideology thrived on violence, sparing neither the people of Iraq nor their diverse cultures and beliefs\u2026As we work in pursuit of justice for all victims and survivors, those who suffered from ISIL's atrocities, we keep in heart and mind one of UNITAD\u2019s core principles: there is no hierarchy in victims.\u201d Special Adviser Ritscher highlighted that the Team\u2019s investigations have strengthened findings on crimes: \u201cincluding the destruction of Christian cultural heritage in Mosul and the Ninawa plains, where ISIL perpetrators targeted churches, monasteries, cemeteries, manuscripts, Christian symbols and artwork in barbaric attacks, rooted in hate and inhumanity.\u201d Special Adviser Ritscher also addressed progress that was made in the development of individual case files for ISIL members in relation to crimes committed in Hamdaniyah, including a high-level ISIL member associated with the Diwan of Spoils, mentioning that: \u201cThe identities of these ISIL members are corroborated by testimonial evidence, ISIL internal documents and case files provided by the Iraqi judiciary.\u201d He further reiterated his gratitude for the close partnership with the Team\u2019s",
+  "date": "01 September 2023"
+}

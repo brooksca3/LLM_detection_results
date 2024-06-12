@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2455c2c3-d3a7-4b5f-9f88-6800fea53183",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 140.01742553710938,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0040413811802864075,
+          "perplexity": 237,
+          "sentence": "The COVID-19 pandemic is a public health emergency \u1173 but it is far more.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031121682841330767,
+          "perplexity": 45,
+          "sentence": "It is an economic crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003427779069170356,
+          "perplexity": 530,
+          "sentence": "A social crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031456141732633114,
+          "perplexity": 50,
+          "sentence": "And a human crisis that is fast becoming a human rights crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0046125552617013454,
+          "perplexity": 18,
+          "sentence": "In February, I launched a Call to Action to put human dignity and the promise of the Universal Declaration of Human Rights at the core of our work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004223536234349012,
+          "perplexity": 76,
+          "sentence": "As I said then, human rights cannot be an afterthought in times of crisis \u1173 and we now face the biggest international crisis in generations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0039637270383536816,
+          "perplexity": 156,
+          "sentence": "Today, I am releasing a report highlighting how human rights can and must guide COVID-19 response and recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004272392485290766,
+          "perplexity": 103,
+          "sentence": "The message is clear: People \u1173 and their rights \u1173 must be front and centre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004451740998774767,
+          "perplexity": 38,
+          "sentence": "A human rights lens puts everyone in the picture and ensures that no one is left behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004445310682058334,
+          "perplexity": 85,
+          "sentence": "Human rights responses can help beat the pandemic, putting a focus on the imperative of healthcare for everyone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0040208506397902966,
+          "perplexity": 60,
+          "sentence": "But they also serve as an essential warning system \u1173 highlighting who is suffering most, why, and what can be done about it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004049040377140045,
+          "perplexity": 156,
+          "sentence": "We have seen how the virus does not discriminate, but its impacts do \u1173 exposing deep weaknesses in the delivery of public services and structural inequalities that impede access to them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003946835175156593,
+          "perplexity": 38,
+          "sentence": "We must make sure they are properly addressed in the response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004346362315118313,
+          "perplexity": 55,
+          "sentence": "We see the disproportionate effects on certain communities, the rise of hate speech, the targeting of vulnerable groups, and the risks of heavy-handed security responses undermining the health response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002525402931496501,
+          "perplexity": 32,
+          "sentence": "Against the background of rising ethno-nationalism, populism, authoritarianism and a pushback against human rights in some countries, the crisis can provide a pretext to adopt repressive measures for purposes unrelated to the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002704264596104622,
+          "perplexity": 21,
+          "sentence": "More than ever, governments must be transparent, responsive and accountable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025017298758029938,
+          "perplexity": 388,
+          "sentence": "Civic space and press freedom are critical.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019396481802687049,
+          "perplexity": 1,
+          "sentence": "Civil",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The COVID-19 pandemic is a public health emergency \u2014 but it is far more. It is an economic crisis. A social crisis. And a human crisis that is fast becoming a human rights crisis. In February, I launched a Call to Action to put human dignity and the promise of the Universal Declaration of Human Rights at the core of our work. As I said then, human rights cannot be an afterthought in times of crisis \u2014 and we now face the biggest international crisis in generations. Today, I am releasing a report highlighting how human rights can and must guide COVID-19 response and recovery. The message is clear: People \u2014 and their rights \u2014 must be front and centre. A human rights lens puts everyone in the picture and ensures that no one is left behind. Human rights responses can help beat the pandemic, putting a focus on the imperative of healthcare for everyone. But they also serve as an essential warning system \u2014 highlighting who is suffering most, why, and what can be done about it. We have seen how the virus does not discriminate, but its impacts do \u2014 exposing deep weaknesses in the delivery of public services and structural inequalities that impede access to them. We must make sure they are properly addressed in the response. We see the disproportionate effects on certain communities, the rise of hate speech, the targeting of vulnerable groups, and the risks of heavy-handed security responses undermining the health response. Against the background of rising ethno-nationalism, populism, authoritarianism and a pushback against human rights in some countries, the crisis can provide a pretext to adopt repressive measures for purposes unrelated to the pandemic. More than ever, governments must be transparent, responsive and accountable. Civic space and press freedom are critical. Civil",
+  "date": "23 April 2020"
+}

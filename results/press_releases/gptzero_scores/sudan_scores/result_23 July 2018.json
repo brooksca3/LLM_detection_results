@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0e97fa35-3ca0-424c-a42d-771c1e51ba61",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.49073791503906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003336468944326043,
+          "perplexity": 36,
+          "sentence": "The Federal Ministry of Health in Sudan with support from the World Health Organization (WHO) and in collaboration with emergency care partners and stakeholders, concluded a consensus meeting organized to address the gaps identified by the Emergency Care System Assessment (ECSA), conducted in Sudan in 2018.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030496198451146483,
+          "perplexity": 65,
+          "sentence": "The 2-day meeting which was attended by 51 participants including partners, policymakers, and emergency care providers from Federal and States levels, initiated the basis for developing a priorities action plan to strengthen the emergency care system in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000353865121724084,
+          "perplexity": 112,
+          "sentence": "The consensus on the findings of the comprehensive system-level assessment will consider the legislative and governance frameworks of the decentralized health system in Sudan's 18 states.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003305665741208941,
+          "perplexity": 22,
+          "sentence": "It will also guide the development of a countrywide Emergency Care System (ECS) implementation plan that focuses on a wide range of medical, surgical and obstetric services including injury, complications of pregnancy, exacerbations of non-communicable diseases, and acute infections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003062182804569602,
+          "perplexity": 100,
+          "sentence": "\u201cThe FMOH, WHO, and partners will continue work to identify potential resources and key stakeholders to step up the implementation of strengthening the emergency care system plan in Sudan,\u201d said Dr. Naeema Al Gasseer, WHO Representative in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002742496144492179,
+          "perplexity": 135,
+          "sentence": "\u201cEvery individual needs to be ready for emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023854013124946505,
+          "perplexity": 101,
+          "sentence": "We would like to advocate for conducting a series of first aid courses at schools, factories, and communities since such skills save lives\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023160537239164114,
+          "perplexity": 45,
+          "sentence": "WHO estimates road traffic death rate in Sudan to be among the highest in the Eastern Mediterranean Region standing at 24 deaths per 100 000 population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029118123347871006,
+          "perplexity": 111,
+          "sentence": "ECSA data also reflected the availability of fully certified specialist programs in emergency medicine for doctors but not for nurses or specialists in trauma care area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034195551415905356,
+          "perplexity": 73,
+          "sentence": "Findings also pinpointed the lack of formal and government-ratified certification pathway for pre-hospital care providers in addition to the absence of a single national emergency care access",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Federal Ministry of Health in Sudan with support from the World Health Organization (WHO) and in collaboration with emergency care partners and stakeholders, concluded a consensus meeting organized to address the gaps identified by the Emergency Care System Assessment (ECSA), conducted in Sudan in 2018. The 2-day meeting which was attended by 51 participants including partners, policymakers, and emergency care providers from Federal and States levels, initiated the basis for developing a priorities action plan to strengthen the emergency care system in the country. The consensus on the findings of the comprehensive system-level assessment will consider the legislative and governance frameworks of the decentralized health system in Sudan\u2019s 18 states. It will also guide the development of a countrywide Emergency Care System (ECS) implementation plan that focuses on a wide range of medical, surgical and obstetric services including injury, complications of pregnancy, exacerbations of non-communicable diseases, and acute infections. \u201cThe FMOH, WHO, and partners will continue work to identify potential resources and key stakeholders to step up the implementation of strengthening the emergency care system plan in Sudan,\u201d said Dr. Naeema Al Gasseer, WHO Representative in Sudan. \u201cEvery individual needs to be ready for emergencies. We would like to advocate for conducting a series of first aid courses at schools, factories, and communities since such skills save lives\u201d she added. WHO estimates road traffic death rate in Sudan to be among the highest in the Eastern Mediterranean Region standing at 24 deaths per 100 000 population. ECSA data also reflected the availability of fully certified specialist programs in emergency medicine for doctors but not for nurses or specialists in trauma care area. Findings also pinpointed the lack of formal and government-ratified certification pathway for pre-hospital care providers in addition to the absence of a single national emergency care access",
+  "date": "23 July 2018"
+}

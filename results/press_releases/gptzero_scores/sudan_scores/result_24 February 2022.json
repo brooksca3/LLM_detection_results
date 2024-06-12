@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a01c4658-d8a3-40d2-957b-006070bbd220",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.683856964111328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.011023128405213356,
+          "perplexity": 39,
+          "sentence": "Statement by the UN Human Rights Expert for Sudan Adama Dieng at the press conference organized at the end of his visit to the country Good morning to you all and thank you for coming.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011957627721130848,
+          "perplexity": 28,
+          "sentence": "First, let me express my thanks to the Authorities for inviting me to conduct this visit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011348155327141285,
+          "perplexity": 69,
+          "sentence": "Since my designation as Human Rights Expert for Sudan in November 2021, I have been monitoring the human rights situation remotely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0108907176181674,
+          "perplexity": 34,
+          "sentence": "So this, my first official visit, has given me the opportunity to observe the situation firsthand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008842535316944122,
+          "perplexity": 24,
+          "sentence": "During my five days in Sudan, I have met with the attorney-general, the acting Ministers of Foreign Affairs and of Justice, the National Reporting and Follow-up Mechanism (NMRF), the Unit on Combating Sexual Violence in the Ministry of Social Affairs, the Human Rights and Child Protection unit of the Rapid Support Forces, the Chief of the federal Police, a member of the Sovereignty Council in charge of Social Affairs, the civilian governor of Khartoum and head of the Joint Security Committee, as well as civil society representatives, human rights defenders, and crucially, many family members of victims of human rights violations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007834473624825478,
+          "perplexity": 109,
+          "sentence": "I have also met with diplomats, and heads of UN entities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008431925438344479,
+          "perplexity": 28,
+          "sentence": "The Chair of the Sovereign Council was unavailable to meet with me yesterday, but I am now scheduled to meet with him this morning before departing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007945740595459938,
+          "perplexity": 51,
+          "sentence": "I was also unable to meet with the Deputy chair of the Sovereignty Council as I am told that he has travelled.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007313463371247053,
+          "perplexity": 91,
+          "sentence": "I also visited Soba Prison and interacted with the prominent activists arrested recently and some of the young activists detained there.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007504547480493784,
+          "perplexity": 27,
+          "sentence": "I was deeply moved by the testimonies of loss and suffering I heard from many victims and their relatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007531794719398022,
+          "perplexity": 37,
+          "sentence": "Stories of loved ones shot dead or injured while taking part in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Statement by the UN Human Rights Expert for Sudan Adama Dieng at the press conference organized at the end of his visit to the country Good morning to you all and thank you for coming. First, let me express my thanks to the Authorities for inviting me to conduct this visit. Since my designation as Human Rights Expert for Sudan in November 2021, I have been monitoring the human rights situation remotely. So this, my first official visit, has given me the opportunity to observe the situation firsthand. During my five days in Sudan, I have met with the attorney-general, the acting Ministers of Foreign Affairs and of Justice, the National Reporting and Follow-up Mechanism (NMRF), the Unit on Combating Sexual Violence in the Ministry of Social Affairs, the Human Rights and Child Protection unit of the Rapid Support Forces, the Chief of the federal Police, a member of the Sovereignty Council in charge of Social Affairs, the civilian governor of Khartoum and head of the Joint Security Committee, as well as civil society representatives, human rights defenders, and crucially, many family members of victims of human rights violations. I have also met with diplomats, and heads of UN entities. The Chair of the Sovereign Council was unavailable to meet with me yesterday, but I am now scheduled to meet with him this morning before departing. I was also unable to meet with the Deputy chair of the Sovereignty Council as I am told that he has travelled. I also visited Soba Prison and interacted with the prominent activists arrested recently and some of the young activists detained there. I was deeply moved by the testimonies of loss and suffering I heard from many victims and their relatives. Stories of loved ones shot dead or injured while taking part in",
+  "date": "24 February 2022"
+}

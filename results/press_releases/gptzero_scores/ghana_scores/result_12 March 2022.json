@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "41b8c6b0-81b2-4502-8ea6-17eadb855b73",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.448875427246094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0031056967563927174,
+          "perplexity": 62,
+          "sentence": "A new UNICEF-World Bank report finds that lost earnings due to the COVID-19 pandemic have left 1 in 4 households with children going a day or more without food.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032329654786735773,
+          "perplexity": 106,
+          "sentence": "The report titled Impact of COVID-19 on the welfare of households with children presents findings from data collected in 35 countries, including Ghana.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034672142937779427,
+          "perplexity": 13,
+          "sentence": "It found that households with three or more children were most likely to have lost income, with more than three-quarters experiencing a reduction in earnings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031880687456578016,
+          "perplexity": 31,
+          "sentence": "This compares to 68 percent of households with one or two children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028082765638828278,
+          "perplexity": 20,
+          "sentence": "Findings from Ghana show that about 22 million people, making up about two-thirds of the population, experienced a decrease in household income because of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022598044015467167,
+          "perplexity": 38,
+          "sentence": "In a joint press release issued by the UN children's agency, UNICEF, and World Bank, the UNICEF Director of Programme Group, Sanjay Wijesekera says \u201cthe modest progress made in reducing child poverty in recent years risks being reversed in all parts of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026087076403200626,
+          "perplexity": 76,
+          "sentence": "Families have experienced income loss at a staggering scale.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020042001269757748,
+          "perplexity": 29,
+          "sentence": "While last year inflation reached its highest level in years, more than two thirds of households with children brought in less money.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002223006449639797,
+          "perplexity": 36,
+          "sentence": "Families cannot afford food or essential health care services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00201637321151793,
+          "perplexity": 207,
+          "sentence": "They cannot afford housing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023725214414298534,
+          "perplexity": 118,
+          "sentence": "It is a dire picture, and the poorest households are being pushed even deeper in poverty,\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017219171859323978,
+          "perplexity": 26,
+          "sentence": "The report finds that children in 40 percent of households did not engage in any form of educational activities while their schools were closed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014726003864780068,
+          "perplexity": 40,
+          "sentence": "In Ghana, 35 percent of children in Basic School and 28 percent of Senior High School students were not engaged in learning while they were at home from March to December 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015442181611433625,
+          "perplexity": 61,
+          "sentence": "The main challenge faced by children for home learning was access to basic tools such as computers or phones and internet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011758372420445085,
+          "perplexity": 191,
+          "sentence": "Given that data",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new UNICEF-World Bank report finds that lost earnings due to the COVID-19 pandemic have left 1 in 4 households with children going a day or more without food. The report titled Impact of COVID-19 on the welfare of households with children presents findings from data collected in 35 countries, including Ghana. It found that households with three or more children were most likely to have lost income, with more than three-quarters experiencing a reduction in earnings. This compares to 68 percent of households with one or two children. Findings from Ghana show that about 22 million people, making up about two-thirds of the population, experienced a decrease in household income because of the pandemic. In a joint press release issued by the UN children\u2019s agency, UNICEF, and World Bank, the UNICEF Director of Programme Group, Sanjay Wijesekera says \u201cthe modest progress made in reducing child poverty in recent years risks being reversed in all parts of the world. Families have experienced income loss at a staggering scale. While last year inflation reached its highest level in years, more than two thirds of households with children brought in less money. Families cannot afford food or essential health care services. They cannot afford housing. It is a dire picture, and the poorest households are being pushed even deeper in poverty,\u201d . The report finds that children in 40 percent of households did not engage in any form of educational activities while their schools were closed. In Ghana, 35 percent of children in Basic School and 28 percent of Senior High School students were not engaged in learning while they were at home from March to December 2020. The main challenge faced by children for home learning was access to basic tools such as computers or phones and internet. Given that data",
+  "date": "12 March 2022"
+}

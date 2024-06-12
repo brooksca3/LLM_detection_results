@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a9238e4-6e11-43dd-99f4-66adef9f062f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 84.24688720703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002023579436354339,
+          "perplexity": 22,
+          "sentence": "New York, 23 September 2019 - Leaders from government, business and civil society have announced potentially far-reaching steps to confront climate change at the United Nations Secretary-General's Climate Action Summit in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002183956967201084,
+          "perplexity": 102,
+          "sentence": "As carbon pollution, temperatures and climate destruction continue to rise, and public backlash mounts, the Summit has offered a turning point from inertia into momentum, action and global impact - if everyone gets on board.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021222866780590266,
+          "perplexity": 28,
+          "sentence": "The UN estimates that the world would need to increase its efforts between three- and five-fold to contain climate change to the levels dictated by science - a 1.5\u00b0C rise at most - and avoid escalating climate damage already taking place around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022504074149765074,
+          "perplexity": 31,
+          "sentence": "However, the Paris Agreement provides an open-door framework for countries to continuously ratchet up their positive actions, and today's Summit demonstrates how governments, businesses and civilians around the world are rising to the challenge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019290043564978987,
+          "perplexity": 18,
+          "sentence": "\u201cThe best science, according to the Intergovernmental Panel on Climate Change, tells us that any temperature rise above 1.5 degrees will lead to major and irreversible damage to the ecosystems that support us,\u201d said United Nations Secretary-General Ant\u00f3nio Guterres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017840972577687353,
+          "perplexity": 31,
+          "sentence": "\u201cScience tells us that on our current path, we face at least 3-degrees Celsius of global heating by the end of the century.\u201d \u201cThe climate emergency is a race we are losing, but it is a race we can win.\u201d \u201cThis is not a climate talk summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017551564087625593,
+          "perplexity": 189,
+          "sentence": "We have had enough talk,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001582284749019891,
+          "perplexity": 240,
+          "sentence": "\u201cThis is not a climate negotiation summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014577206457033753,
+          "perplexity": 103,
+          "sentence": "You don't negotiate with nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015720944793429226,
+          "perplexity": 62,
+          "sentence": "This is a climate action summit.\u201d He said, \u201cGovernments are here to show you are serious about enhancing Nationally Determined Contributions under the Paris Agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001588673476362601,
+          "perplexity": 104,
+          "sentence": "Cities and businesses are here showing what leadership looks like, investing in a green future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016223674174398184,
+          "perplexity": 247,
+          "sentence": "Financial actors are here to scale-up action and deploy",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 23 September 2019 - Leaders from government, business and civil society have announced potentially far-reaching steps to confront climate change at the United Nations Secretary-General\u2019s Climate Action Summit in New York. As carbon pollution, temperatures and climate destruction continue to rise, and public backlash mounts, the Summit has offered a turning point from inertia into momentum, action and global impact \u2013 if everyone gets on board. The UN estimates that the world would need to increase its efforts between three- and five-fold to contain climate change to the levels dictated by science \u2013 a 1.5\u00b0C rise at most \u2013 and avoid escalating climate damage already taking place around the world. However, the Paris Agreement provides an open-door framework for countries to continuously ratchet up their positive actions, and today\u2019s Summit demonstrates how governments, businesses and civilians around the world are rising to the challenge. \u201cThe best science, according to the Intergovernmental Panel on Climate Change, tells us that any temperature rise above 1.5 degrees will lead to major and irreversible damage to the ecosystems that support us,\u201d said United Nations Secretary-General Ant\u00f3nio Guterres. \u201cScience tells us that on our current path, we face at least 3-degrees Celsius of global heating by the end of the century.\u201d \u201cThe climate emergency is a race we are losing, but it is a race we can win.\u201d \u201cThis is not a climate talk summit. We have had enough talk,\u201d he added. \u201cThis is not a climate negotiation summit. You don\u2019t negotiate with nature. This is a climate action summit.\u201d He said, \u201cGovernments are here to show you are serious about enhancing Nationally Determined Contributions under the Paris Agreement. Cities and businesses are here showing what leadership looks like, investing in a green future. Financial actors are here to scale-up action and deploy",
+  "date": "23 September 2019"
+}

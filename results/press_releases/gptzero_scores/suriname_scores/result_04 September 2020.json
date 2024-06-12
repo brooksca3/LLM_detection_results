@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "01be755d-2f6b-4028-88eb-a77e31d805be",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.0633430480957,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002900405088439584,
+          "perplexity": 47,
+          "sentence": "In accordance with the National COVID Response Plan, the Ministry of Health is seeking to streamline all incoming shipments of supplies in accordance with clear rules and guidelines to ensure the safety of its people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023299054009839892,
+          "perplexity": 176,
+          "sentence": "The BGVS will support the Ministry to effectively manage and distribute these and future supplies to all health facilities in accordance with the National COVID-19 Needs List.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002386907144682482,
+          "perplexity": 60,
+          "sentence": "PAHO will continue to provide technical support in this area to strengthen the national logistics management information system and regulatory frameworks for essential medicines in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002285112568642944,
+          "perplexity": 70,
+          "sentence": "During a donation ceremony which took place on 13 August 2020 at the BGVS Headquarters, Dr. Karen Lewis-Bell, PAHO/WHO Representative to Suriname presented the donation to Minister of Health, Dr. Amar Ramadhin in the presence of Ministry of Health, PAHO Suriname and BGVS staff.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023400684585794806,
+          "perplexity": 73,
+          "sentence": "The donation includes respirator masks, protective goggles, gowns, oxygen concentrators, face shields, pulse oximeters and essential medicines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002561299770604819,
+          "perplexity": 86,
+          "sentence": "The Minister of Health thanked PAHO for its generous contributions of supplies in response to COVID-19 in Suriname along with the technical support being provided to all the working groups to intensify the response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023495923960581422,
+          "perplexity": 61,
+          "sentence": "Dr Lewis-Bell thanked the Minister for the continued partnership and reiterated PAHO's continued collaboration with the health sector partners to improve all aspects of the response including surveillance, case management, risk communication and the maintenance of essential health services, among others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002527179603930563,
+          "perplexity": 85,
+          "sentence": "Dr Bell indicated that \u201cto date, PAHO Suriname has provided the Ministry of Health and its partners with over USD$480,000 worth of supplies for COVID-19 management and more donations are incoming including oxygen concentrators and additional PPE.\u201d She expressed gratitude for the direct involvement of PAHO in all aspects of the response and hopes that the donations from PAHO would allow frontline workers to safely execute their duties.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In accordance with the National COVID Response Plan, the Ministry of Health is seeking to streamline all incoming shipments of supplies in accordance with clear rules and guidelines to ensure the safety of its people. The BGVS will support the Ministry to effectively manage and distribute these and future supplies to all health facilities in accordance with the National COVID-19 Needs List. PAHO will continue to provide technical support in this area to strengthen the national logistics management information system and regulatory frameworks for essential medicines in the country. During a donation ceremony which took place on 13 August 2020 at the BGVS Headquarters, Dr. Karen Lewis-Bell, PAHO/WHO Representative to Suriname presented the donation to Minister of Health, Dr. Amar Ramadhin in the presence of Ministry of Health, PAHO Suriname and BGVS staff. The donation includes respirator masks, protective goggles, gowns, oxygen concentrators, face shields, pulse oximeters and essential medicines. The Minister of Health thanked PAHO for its generous contributions of supplies in response to COVID-19 in Suriname along with the technical support being provided to all the working groups to intensify the response. Dr Lewis-Bell thanked the Minister for the continued partnership and reiterated PAHO\u2019s continued collaboration with the health sector partners to improve all aspects of the response including surveillance, case management, risk communication and the maintenance of essential health services, among others. Dr Bell indicated that \u201cto date, PAHO Suriname has provided the Ministry of Health and its partners with over USD$480,000 worth of supplies for COVID-19 management and more donations are incoming including oxygen concentrators and additional PPE.\u201d She expressed gratitude for the direct involvement of PAHO in all aspects of the response and hopes that the donations from PAHO would allow frontline workers to safely execute their duties.",
+  "date": "04 September 2020"
+}

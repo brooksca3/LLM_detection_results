@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dbf56fd6-b871-46be-8b35-af99eae885e2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4200164068908942,
+        "human": 0.5225594749794913,
+        "mixed": 0.05742411812961444
+      },
+      "completely_generated_prob": 0.4200164068908942,
+      "confidence_category": "low",
+      "confidence_score": 0.5225594749794913,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4200164068908942,
+          "human": 0.5225594749794913,
+          "mixed": 0.05742411812961444
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.946640968322754,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.6485902070999146,
+          "perplexity": 52,
+          "sentence": "Three years since the military overturned the democratically elected Government and arbitrarily detained its leaders on 1 February 2021, the crisis in Myanmar continues to deteriorate, with devastating impacts on civilians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6330978870391846,
+          "perplexity": 41,
+          "sentence": "On this somber anniversary, the Secretary-General underscores the urgency of forging a path towards a democratic transition with a return to civilian rule.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6412516236305237,
+          "perplexity": 19,
+          "sentence": "The Secretary-General condemns all forms of violence and calls for the protection of civilians and cessation of hostilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6834434866905212,
+          "perplexity": 40,
+          "sentence": "An inclusive solution to this crisis requires conditions that permit the people of Myanmar to exercise their human rights freely and peacefully.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7000316977500916,
+          "perplexity": 37,
+          "sentence": "The military's campaign of violence targeting civilians and political repression must end, and those responsible be held to account.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7089688777923584,
+          "perplexity": 36,
+          "sentence": "The Secretary-General also reiterates his concern regarding the military's stated intention to move toward elections amid intensifying conflict and human rights violations across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.6743806004524231,
+          "perplexity": 21,
+          "sentence": "Some 18.6 million people in Myanmar - one-third of the population - urgently need humanitarian support this year - compared to one million before the military takeover three years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7235721945762634,
+          "perplexity": 33,
+          "sentence": "Unimpeded humanitarian access is also required for the United Nations and its partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7109400629997253,
+          "perplexity": 21,
+          "sentence": "The Secretary-General calls for sustained international and regional attention and coherent collective action to support the people of Myanmar and remains committed to work with all stakeholders, including ASEAN and other regional actors, to help secure a sustainable and inclusive peace in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.649342954158783,
+          "perplexity": 15,
+          "sentence": "The Secretary-General stands in solidarity with the people of Myanmar and their desire for an inclusive, peaceful and just society and stresses the need to ensure the protection of all communities, including the Rohingya, who are risking dangerous journeys in increasing numbers in search of safety, basic rights and dignity.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Three years since the military overturned the democratically elected Government and arbitrarily detained its leaders on 1 February 2021, the crisis in Myanmar continues to deteriorate, with devastating impacts on civilians. On this somber anniversary, the Secretary-General underscores the urgency of forging a path towards a democratic transition with a return to civilian rule. The Secretary-General condemns all forms of violence and calls for the protection of civilians and cessation of hostilities. An inclusive solution to this crisis requires conditions that permit the people of Myanmar to exercise their human rights freely and peacefully. The military\u2019s campaign of violence targeting civilians and political repression must end, and those responsible be held to account. The Secretary-General also reiterates his concern regarding the military\u2019s stated intention to move toward elections amid intensifying conflict and human rights violations across the country. Some 18.6 million people in Myanmar \u2013 one-third of the population \u2013 urgently need humanitarian support this year \u2013 compared to one million before the military takeover three years ago. Unimpeded humanitarian access is also required for the United Nations and its partners. The Secretary-General calls for sustained international and regional attention and coherent collective action to support the people of Myanmar and remains committed to work with all stakeholders, including ASEAN and other regional actors, to help secure a sustainable and inclusive peace in Myanmar. The Secretary-General stands in solidarity with the people of Myanmar and their desire for an inclusive, peaceful and just society and stresses the need to ensure the protection of all communities, including the Rohingya, who are risking dangerous journeys in increasing numbers in search of safety, basic rights and dignity.",
+  "date": "31 January 2024"
+}

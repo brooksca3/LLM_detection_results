@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a748b736-8055-45a7-af04-7705933426a4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 87.57853698730469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001949627185240388,
+          "perplexity": 32,
+          "sentence": "Paris, 7 September 2023 - Today, the UNESCO Committee for the Protection of Cultural Property in the Event of Armed Conflict held an extraordinary meeting to strengthen the protection of cultural heritage in Ukraine, including the granting of provisional enhanced protection to 20 cultural properties as well as deciding the training of Ukrainian security forces and judiciary personnel on heritage protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019718785188160837,
+          "perplexity": 38,
+          "sentence": "Following repeated destructions of cultural properties in Ukraine, an extraordinary session of the Committee for the Protection of Cultural Property in the Event of Armed Conflict was held today, at Ukraine's request.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017885580018628389,
+          "perplexity": 105,
+          "sentence": "During its session, the UNESCO Second Protocol to the 1954 Hague Convention Committee adopted a declaration \u201cdeploring that serious damages were caused by Russian missile strikes to historical buildings of cultural significance within the properties in L'viv, Odesa and Chernihiv.\u201d The Committee decided to provisionally inscribe 20 cultural properties in Ukraine on the International List of Cultural Property under Enhanced Protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001802674523787573,
+          "perplexity": 292,
+          "sentence": "These inscriptions increase their immunity in the course of ongoing war, potentially enabling competent bodies of all 87 States Parties to the 1999 Second Protocol to prosecute or extradite alleged offenders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025493325665593147,
+          "perplexity": 44,
+          "sentence": "\u201cOne and a half years on since the invasion, we are witnessing an alarming increase in attacks against Ukraine's cultural heritage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001890631829155609,
+          "perplexity": 87,
+          "sentence": "More actions are needed to avoid irreversible damage to the shared heritage of humanity, and today's outcome represents a decisive step in the right direction.\u201d - Ernesto Ottone R., Assistant Director General for Culture These 20 properties now benefit from the highest level of immunity from military attacks as well as threats of making it a military target.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001696321996860206,
+          "perplexity": 92,
+          "sentence": "Non-compliance with these clauses would be qualified as a \u201cserious violation\u201d to the 1954 Hague Convention and its Second Protocol.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015175610315054655,
+          "perplexity": 174,
+          "sentence": "The Committee also decided to financially support the organization of trainings by UNESCO for Ukrainian security",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Paris, 7 September 2023 \u2013 Today, the UNESCO Committee for the Protection of Cultural Property in the Event of Armed Conflict held an extraordinary meeting to strengthen the protection of cultural heritage in Ukraine, including the granting of provisional enhanced protection to 20 cultural properties as well as deciding the training of Ukrainian security forces and judiciary personnel on heritage protection. Following repeated destructions of cultural properties in Ukraine, an extraordinary session of the Committee for the Protection of Cultural Property in the Event of Armed Conflict was held today, at Ukraine\u2019s request. During its session, the UNESCO Second Protocol to the 1954 Hague Convention Committee adopted a declaration \u201cdeploring that serious damages were caused by Russian missile strikes to historical buildings of cultural significance within the properties in L'viv, Odesa and Chernihiv.\u201d The Committee decided to provisionally inscribe 20 cultural properties in Ukraine on the International List of Cultural Property under Enhanced Protection. These inscriptions increase their immunity in the course of ongoing war, potentially enabling competent bodies of all 87 States Parties to the 1999 Second Protocol to prosecute or extradite alleged offenders. \u201cOne and a half years on since the invasion, we are witnessing an alarming increase in attacks against Ukraine\u2019s cultural heritage. More actions are needed to avoid irreversible damage to the shared heritage of humanity, and today\u2019s outcome represents a decisive step in the right direction.\u201d \u2013 Ernesto Ottone R., Assistant Director General for Culture These 20 properties now benefit from the highest level of immunity from military attacks as well as threats of making it a military target. Non-compliance with these clauses would be qualified as a \u201cserious violation\u201d to the 1954 Hague Convention and its Second Protocol. The Committee also decided to financially support the organization of trainings by UNESCO for Ukrainian security",
+  "date": "07 September 2023"
+}

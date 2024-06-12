@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4d5437a0-9887-4954-9323-288294437c01",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.15843200683594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015883978630881757,
+          "perplexity": 33,
+          "sentence": "Amman - Events are taking place across Jordan today to celebrate World Children's Day - UNICEF's annual day in support of the realization of children's rights - with a special focus this year on inclusion for every child.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001590383326401934,
+          "perplexity": 9,
+          "sentence": "World Children's Day, which marks the adoption of the Convention on the Rights of the Child (CRC) by the UN General Assembly on 20 November 1989, is a day of action for children by children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014937193191144615,
+          "perplexity": 83,
+          "sentence": "Children in UNICEF-supported Makani centres will be taking part in theatre and musical activities focused on child rights, while a football match organized together with Special Olympics Jordan will highlight the power of sport to drive inclusion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001618774695089087,
+          "perplexity": 129,
+          "sentence": "\u201cEvery child has the right to an equal start in life, to be included and to be protected,\u201d said Samuel Kipngetich Too, Acting Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014908583834767342,
+          "perplexity": 31,
+          "sentence": "\u201cThis year World Children's Day is particularly momentous coming after the adoption of the Child Rights Law, a historic achievement from the Government of Jordan and the National Council of Family Affairs, to help improve children's wellbeing and development.\u201d \u201cThe year 2022 is a special year for children of Jordan with the adoption of the Child Rights Law, allowing Jordan to enter its second centenary, realizing the importance of investing in childhood, and realizing the law's compatibility with the Economic Modernization Vision, including the law's emphasis on educational reform as a basis for economic development\u201d, said Dr. Mohammad Miqdadi, the Secretary-General of the National Council of Family Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010244972072541714,
+          "perplexity": 37,
+          "sentence": "The Child Rights Law aligns with Jordan's adoption of the CRC over three decades ago, Jordan's Vision 2025 and the 2030 Agenda for Sustainable Development - as well as Jordan's position as a pathfinder country to end all forms of violence against children in line with the CRC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009148325189016759,
+          "perplexity": 21,
+          "sentence": "UNICEF will continue to work with the Government",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - Events are taking place across Jordan today to celebrate World Children\u2019s Day - UNICEF\u2019s annual day in support of the realization of children\u2019s rights - with a special focus this year on inclusion for every child. World Children\u2019s Day, which marks the adoption of the Convention on the Rights of the Child (CRC) by the UN General Assembly on 20 November 1989, is a day of action for children by children. Children in UNICEF-supported Makani centres will be taking part in theatre and musical activities focused on child rights, while a football match organized together with Special Olympics Jordan will highlight the power of sport to drive inclusion. \u201cEvery child has the right to an equal start in life, to be included and to be protected,\u201d said Samuel Kipngetich Too, Acting Representative, UNICEF Jordan. \u201cThis year World Children\u2019s Day is particularly momentous coming after the adoption of the Child Rights Law, a historic achievement from the Government of Jordan and the National Council of Family Affairs, to help improve children\u2019s wellbeing and development.\u201d \u201cThe year 2022 is a special year for children of Jordan with the adoption of the Child Rights Law, allowing Jordan to enter its second centenary, realizing the importance of investing in childhood, and realizing the law\u2019s compatibility with the Economic Modernization Vision, including the law\u2019s emphasis on educational reform as a basis for economic development\u201d, said Dr. Mohammad Miqdadi, the Secretary-General of the National Council of Family Affairs. The Child Rights Law aligns with Jordan's adoption of the CRC over three decades ago, Jordan\u2019s Vision 2025 and the 2030 Agenda for Sustainable Development \u2013 as well as Jordan\u2019s position as a pathfinder country to end all forms of violence against children in line with the CRC. UNICEF will continue to work with the Government",
+  "date": "20 November 2022"
+}

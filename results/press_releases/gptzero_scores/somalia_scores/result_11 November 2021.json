@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1a54c7ce-036a-4e33-9256-fa0aac0d5d28",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 84.77392578125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013578764628618956,
+          "perplexity": 19,
+          "sentence": "Mogadishu, 17 September 2021 - While commemorating World Patient Safety Day yesterday, the Federal Government of Somalia, in collaboration with the World Health Organization (WHO), United Nations Children's Fund (UNICEF) and United Nations Population Fund (UNFPA), urged health facilities, health care workers and other stakeholders to step up efforts to ensure mothers and newborns remain safe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001435178710380569,
+          "perplexity": 113,
+          "sentence": "This message echoes this year's theme for World Patient Safety Day \u1173 'Safe maternal and newborn care' \u1173 and comes at a time when the coronavirus disease-2019 (COVID-19) has disrupted continuity of already overstretched essential health services across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013295267126522958,
+          "perplexity": 33,
+          "sentence": "A national 'pulse survey', conducted by WHO over seven months in 2020 and 2021 to determine the continuity of essential services in Somalia, found that during May-September 2020, 33% of essential health services had been disrupted (one out of three services), while during January-March 2021, there was continued disruption of 12% of essential health services (six out of 51 services), indicating that substantial disruptions persisted even after one year of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012281785893719643,
+          "perplexity": 43,
+          "sentence": "Six of the major essential health services (where significant disruptions were noted) include reproductive, maternal, newborn, child and adolescent health services, that experienced between 5-50% disruption, and immunization services, disrupted by between 5-20%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012016626715194434,
+          "perplexity": 17,
+          "sentence": "Even before the COVID-19 outbreak was confirmed in Somalia, the country was known to have one of the highest maternal mortality rates in the world, at 692 maternal deaths per 100 000, and a neonatal mortality rate of 40 deaths per 1000 live births.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012079146836185828,
+          "perplexity": 56,
+          "sentence": "\u201cBefore the COVID-19 pandemic, 68% of women did not visit health facilities for antenatal care and only one-third of births were delivered with the help of a qualified health care practitioner,\u201d said Dr Fawziya Abikar Nur, Minister of Health and Human Services for Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012112387776141986,
+          "perplexity": 254,
+          "sentence": "\u201cSince the COVID-19 pandemic was confirmed in Somalia, women have been",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 17 September 2021 \u2013 While commemorating World Patient Safety Day yesterday, the Federal Government of Somalia, in collaboration with the World Health Organization (WHO), United Nations Children\u2019s Fund (UNICEF) and United Nations Population Fund (UNFPA), urged health facilities, health care workers and other stakeholders to step up efforts to ensure mothers and newborns remain safe. This message echoes this year\u2019s theme for World Patient Safety Day \u2014 \u2018Safe maternal and newborn care\u2019 \u2014 and comes at a time when the coronavirus disease-2019 (COVID-19) has disrupted continuity of already overstretched essential health services across the country. A national \u2018pulse survey\u2019, conducted by WHO over seven months in 2020 and 2021 to determine the continuity of essential services in Somalia, found that during May\u2013September 2020, 33% of essential health services had been disrupted (one out of three services), while during January\u2013March 2021, there was continued disruption of 12% of essential health services (six out of 51 services), indicating that substantial disruptions persisted even after one year of the pandemic. Six of the major essential health services (where significant disruptions were noted) include reproductive, maternal, newborn, child and adolescent health services, that experienced between 5-50% disruption, and immunization services, disrupted by between 5-20%. Even before the COVID-19 outbreak was confirmed in Somalia, the country was known to have one of the highest maternal mortality rates in the world, at 692 maternal deaths per 100 000, and a neonatal mortality rate of 40 deaths per 1000 live births. \u201cBefore the COVID-19 pandemic, 68% of women did not visit health facilities for antenatal care and only one-third of births were delivered with the help of a qualified health care practitioner,\u201d said Dr Fawziya Abikar Nur, Minister of Health and Human Services for Somalia. \u201cSince the COVID-19 pandemic was confirmed in Somalia, women have been",
+  "date": "11 November 2021"
+}

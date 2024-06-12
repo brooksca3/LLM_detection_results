@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8f7efb6d-aa15-4ccb-8643-7e10fc9e5964",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.486534118652344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001512936141807586,
+          "perplexity": 33,
+          "sentence": "Lusaka, Zambia, 17 February 2021: The United Nations Development Programme (UNDP) in partnership with the Lusaka City Council (LCC) and the Ministry of Health (MoH) today launched the pilot phase of the Safe Markets, Safe Communities project, an initiative towards ensuring that community markets are compliant to COVID-19 public health regulations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015340243407990783,
+          "perplexity": 30,
+          "sentence": "The initiative is co-funded by UNDP and the Governments of Sweden and Ireland.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001508874847786501,
+          "perplexity": 179,
+          "sentence": "\u201cThe project will strengthen knowledge and individual collective responsibilities toward adhering to public health regulations and prevent the spread of the deadly virus in our markets,\u201d says Lusaka Deputy Mayor, Christopher Shakafuswa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014670941163785756,
+          "perplexity": 122,
+          "sentence": "\u201cAs Lusaka City Council, we would like to thank the United Nations Development Programme for supplementing government's efforts towards the fight against COVID-19 in markets and look forward to a successful partnership in executing identified activities efficiently,\u201d the Lusaka Deputy Mayor said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037907258956693113,
+          "perplexity": 97,
+          "sentence": "The event which was restricted to only 14 guests, in compliance with COVID-19 prevention measures, had in attendance the Lusaka Deputy Mayor, Christopher Shakafuswa, UNDP Deputy Resident Representative, Roland Seri, the Ministry of Health's Director of Public Health, Dr. Andrew Silumesi, the LCC's Director of Public Health, Edgar Mulwanda and the LCC's Director of Housing and Social Services, Danny Chibinda along with three representatives from Nyumba Yanga, Chilenje and Lilanda Markets that were selected for the pilot phase.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004549634177237749,
+          "perplexity": 101,
+          "sentence": "Handing over an assortment of equipment, cleaning and awareness creation materials to the Lusaka City Council, UNDP Deputy Resident Representative Roland Seri emphasized the need to help protect the livelihoods of women and youth who work in markets by enabling them continue their activities while adhering to COVID-19 measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004225393058732152,
+          "perplexity": 55,
+          "sentence": "\u201cMarkets have not only served as sources of affordable food to most households in the country but help to provide a means of income generation for the many women and youth that have set up",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Lusaka, Zambia, 17 February 2021: The United Nations Development Programme (UNDP) in partnership with the Lusaka City Council (LCC) and the Ministry of Health (MoH) today launched the pilot phase of the Safe Markets, Safe Communities project, an initiative towards ensuring that community markets are compliant to COVID-19 public health regulations. The initiative is co-funded by UNDP and the Governments of Sweden and Ireland. \u201cThe project will strengthen knowledge and individual collective responsibilities toward adhering to public health regulations and prevent the spread of the deadly virus in our markets,\u201d says Lusaka Deputy Mayor, Christopher Shakafuswa. \u201cAs Lusaka City Council, we would like to thank the United Nations Development Programme for supplementing government\u2019s efforts towards the fight against COVID-19 in markets and look forward to a successful partnership in executing identified activities efficiently,\u201d the Lusaka Deputy Mayor said. The event which was restricted to only 14 guests, in compliance with COVID-19 prevention measures, had in attendance the Lusaka Deputy Mayor, Christopher Shakafuswa, UNDP Deputy Resident Representative, Roland Seri, the Ministry of Health\u2019s Director of Public Health, Dr. Andrew Silumesi, the LCC\u2019s Director of Public Health, Edgar Mulwanda and the LCC\u2019s Director of Housing and Social Services, Danny Chibinda along with three representatives from Nyumba Yanga, Chilenje and Lilanda Markets that were selected for the pilot phase. Handing over an assortment of equipment, cleaning and awareness creation materials to the Lusaka City Council, UNDP Deputy Resident Representative Roland Seri emphasized the need to help protect the livelihoods of women and youth who work in markets by enabling them continue their activities while adhering to COVID-19 measures. \u201cMarkets have not only served as sources of affordable food to most households in the country but help to provide a means of income generation for the many women and youth that have set up",
+  "date": "18 February 2021"
+}

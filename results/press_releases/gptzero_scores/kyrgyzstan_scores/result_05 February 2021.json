@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d7125f71-fe58-4e1b-98e0-a1b248c8e0de",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.021143711189884885,
+        "human": 0.9778932212196855,
+        "mixed": 0.0009630675904295393
+      },
+      "completely_generated_prob": 0.021143711189884885,
+      "confidence_category": "high",
+      "confidence_score": 0.9778932212196855,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.021143711189884885,
+          "human": 0.9778932212196855,
+          "mixed": 0.0009630675904295393
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.51218032836914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01439573336392641,
+          "perplexity": 18,
+          "sentence": "The Swiss Government has allocated CHF 2.5 million to the United Nations World Food Programme (WFP), in support of the vulnerable people severely affected by the socio-economic impact of the pandemic in Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01445871964097023,
+          "perplexity": 17,
+          "sentence": "The funds will be used to support 80,000 people living in poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014825108461081982,
+          "perplexity": 67,
+          "sentence": "They will receive cash assistance in urban areas, with a possibility to participate in creating community assets and skills trainings for better job prospects and enhanced income opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012524852529168129,
+          "perplexity": 41,
+          "sentence": "This approach will ensure that not only assistance is extended to the people whose livelihoods were impacted by the Pandemic adverse effects, but also give appropriate tools to make them better prepared and resilient to the future stresses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012258797883987427,
+          "perplexity": 32,
+          "sentence": "WFP in partnership with the Ministry of Labour and Social Development will prioritize poor families who have lost their incomes and are forced to deplete family assets to meet their basic food needs and reduce expenses for other essential services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0056439293548464775,
+          "perplexity": 62,
+          "sentence": "\u201cThe Swiss Government and people of Switzerland are proud to stand together with Kyrgyzstan in supporting the most vulnerable people who are hit by the COVID-19 crises,\u201d said Ambassador of Switzerland to the Kyrgyz Republic V\u00e9ronique Hulmann.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002442357363179326,
+          "perplexity": 41,
+          "sentence": "\u201cOur partnership with WFP will support poorest families to sustain their livelihood through these difficult times.\u201d \u201cThanks to the generous contribution from the Government of Switzerland, WFP is able to provide cash assistance to food insecure people in the urban and semi-urban areas giving them the freedom of choice with the added value of creating demand in the local markets\u201d - remarked Andrea Bagnoli, WFP Country Director for the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006363894790410995,
+          "perplexity": 92,
+          "sentence": "In April 2020, as an immediate response, Switzerland through WFP had already allocated CHF 200'000 to support social inpatient institutions and boarding schools across the country, benefiting more than 3'000 people (orphans, elderly and people with disabilities) for three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001147213508374989,
+          "perplexity": 1,
+          "sentence": "The",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Swiss Government has allocated CHF 2.5 million to the United Nations World Food Programme (WFP), in support of the vulnerable people severely affected by the socio-economic impact of the pandemic in Kyrgyzstan. The funds will be used to support 80,000 people living in poverty. They will receive cash assistance in urban areas, with a possibility to participate in creating community assets and skills trainings for better job prospects and enhanced income opportunities. This approach will ensure that not only assistance is extended to the people whose livelihoods were impacted by the Pandemic adverse effects, but also give appropriate tools to make them better prepared and resilient to the future stresses. WFP in partnership with the Ministry of Labour and Social Development will prioritize poor families who have lost their incomes and are forced to deplete family assets to meet their basic food needs and reduce expenses for other essential services. \u201cThe Swiss Government and people of Switzerland are proud to stand together with Kyrgyzstan in supporting the most vulnerable people who are hit by the COVID-19 crises,\u201d said Ambassador of Switzerland to the Kyrgyz Republic V\u00e9ronique Hulmann. \u201cOur partnership with WFP will support poorest families to sustain their livelihood through these difficult times.\u201d \u201cThanks to the generous contribution from the Government of Switzerland, WFP is able to provide cash assistance to food insecure people in the urban and semi-urban areas giving them the freedom of choice with the added value of creating demand in the local markets\u201d - remarked Andrea Bagnoli, WFP Country Director for the Kyrgyz Republic. In April 2020, as an immediate response, Switzerland through WFP had already allocated CHF 200\u2019000 to support social inpatient institutions and boarding schools across the country, benefiting more than 3\u2019000 people (orphans, elderly and people with disabilities) for three months. The",
+  "date": "05 February 2021"
+}

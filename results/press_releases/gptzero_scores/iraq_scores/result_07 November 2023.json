@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c8a50d98-61ee-4f5d-be09-dc02f2c119f1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.435306549072266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0070205386728048325,
+          "perplexity": 30,
+          "sentence": "Baghdad, Iraq, 07 November 2023:UNHCR, the UN Refugee Agency, is grateful for the continued support of the European Union through its Civil Protection and Humanitarian Aid Operations (ECHO) to assist Iraqis in getting their identity documents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006672573741525412,
+          "perplexity": 60,
+          "sentence": "For the third consecutive year, the European Union's assistance has helped provide civil documentation to vulnerable Iraqis including ones forcibly displaced by Da'esh violence and those who may have never had such identity documents before.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01031489484012127,
+          "perplexity": 36,
+          "sentence": "Civil documents such as birth and nationality certificates and identity cards are pivotal for Iraqis to access public services and participate in the public affairs of their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009941955097019672,
+          "perplexity": 146,
+          "sentence": "Many Iraqis have expired, lost or damaged civil documents due to fleeing violence, persecution and displacement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01015736348927021,
+          "perplexity": 33,
+          "sentence": "Others may have never had access to such documentation due to administrative and socio-economic barriers, making them at risk of being stateless if unable to prove their Iraqi nationality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010729638859629631,
+          "perplexity": 90,
+          "sentence": "The importance of obtaining civil documentation cannot be understated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009056163020431995,
+          "perplexity": 23,
+          "sentence": "It is the first step for Iraqis to establish their legal identity and ensure they are recognised in their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006810094695538282,
+          "perplexity": 25,
+          "sentence": "Without civil documents, Iraqis would not be able to enrol their children in school, receive medical care or apply for social security benefits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005473296623677015,
+          "perplexity": 24,
+          "sentence": "They will also be unable to participate in most aspects of civic and political life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030151701066643,
+          "perplexity": 48,
+          "sentence": "The European Union's steadfast partnership has enabled UNHCR and its partners, including two local organisations, to help Iraqis get access to civil documents through outreach and awareness sessions on topics related to the importance of civil documentation and how to obtain it; individual legal counselling for those who may have difficulties proving their Iraqi nationality, their marriage or the birth of their children; and the facilitation of mobile missions by the Iraqi Civil Affairs Department to deliver these documents to the most vulnerable across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002962037455290556,
+          "perplexity": 19,
+          "sentence": "Over the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq, 07 November 2023 :UNHCR, the UN Refugee Agency, is grateful for the continued support of the European Union through its Civil Protection and Humanitarian Aid Operations (ECHO) to assist Iraqis in getting their identity documents. For the third consecutive year, the European Union\u2019s assistance has helped provide civil documentation to vulnerable Iraqis including ones forcibly displaced by Da\u2019esh violence and those who may have never had such identity documents before. Civil documents such as birth and nationality certificates and identity cards are pivotal for Iraqis to access public services and participate in the public affairs of their country. Many Iraqis have expired, lost or damaged civil documents due to fleeing violence, persecution and displacement. Others may have never had access to such documentation due to administrative and socio-economic barriers, making them at risk of being stateless if unable to prove their Iraqi nationality. The importance of obtaining civil documentation cannot be understated. It is the first step for Iraqis to establish their legal identity and ensure they are recognised in their country. Without civil documents, Iraqis would not be able to enrol their children in school, receive medical care or apply for social security benefits. They will also be unable to participate in most aspects of civic and political life. The European Union's steadfast partnership has enabled UNHCR and its partners, including two local organisations, to help Iraqis get access to civil documents through outreach and awareness sessions on topics related to the importance of civil documentation and how to obtain it; individual legal counselling for those who may have difficulties proving their Iraqi nationality, their marriage or the birth of their children; and the facilitation of mobile missions by the Iraqi Civil Affairs Department to deliver these documents to the most vulnerable across the country. Over the",
+  "date": "07 November 2023"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d7f97742-1d10-45bf-812b-84b75d55e581",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.114566802978516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006117768934927881,
+          "perplexity": 60,
+          "sentence": "Amman - UNESCO Office in Jordan and its partners celebrated the conclusion of the activities that were carried out in Mafraq Governorate as part of the project \u201cSupport to Livelihoods through cultural heritage development\u201d funded by the European Union, under the umbrella of the Regional Trust Fund in Response to the Syrian Crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006375440862029791,
+          "perplexity": 25,
+          "sentence": "Implemented in close collaboration with the Jordanian Ministry of Tourism and Antiquities, the Department of Antiquities, and the International Labor Organization (ILO), the project aims at ensuring sustainable livelihoods and creating economic and job opportunities for vulnerable Jordanians and Syrian refugees through the implementation of employment Intensive plans in cultural heritage sites located in the north of Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006228630081750453,
+          "perplexity": 80,
+          "sentence": "As part of the project, a total of 763 workers was hired to carry out basic conservation interventions in Mafraq, in the sites of Um es-Surab, Rihab and Al-Fudayn.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006657676422037184,
+          "perplexity": 38,
+          "sentence": "Shurooq Al-Essa, one of the beneficiaries of the Support to Livelihoods through Cultural Heritage Development project who was hired to work in the archaeological site of Um Es-Surab, pointed out that the project contributed to raising awareness on cultural heritage amongst local communities, as well as improving the standard of living for many, in addition to making the area more attractive for tourism in the future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005424483097158372,
+          "perplexity": 59,
+          "sentence": "Rashaa Al-Enezi, one of the Syrian beneficiaries, said that the project provided unemployed youth with an opportunity to acquire new skills and experiences in dealing with archaeological sites and architectural restoration, such as preserving mosaic floors, in addition to developing communication skills, and building relationships between Syrians and Jordanians through joint work in a team spirit, while also empowering the people economically and financially.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005948375328443944,
+          "perplexity": 55,
+          "sentence": "The closing ceremony was attended by the Ambassador of the European Union to Jordan, Mrs. Maria Hadjitheodosiou, the Representative of UNESCO in Jordan, Mrs. Min Jeong-Kim, the Representative of the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - UNESCO Office in Jordan and its partners celebrated the conclusion of the activities that were carried out in Mafraq Governorate as part of the project \u201cSupport to Livelihoods through cultural heritage development\u201d funded by the European Union, under the umbrella of the Regional Trust Fund in Response to the Syrian Crisis. Implemented in close collaboration with the Jordanian Ministry of Tourism and Antiquities, the Department of Antiquities, and the International Labor Organization (ILO), the project aims at ensuring sustainable livelihoods and creating economic and job opportunities for vulnerable Jordanians and Syrian refugees through the implementation of employment Intensive plans in cultural heritage sites located in the north of Jordan. As part of the project, a total of 763 workers was hired to carry out basic conservation interventions in Mafraq, in the sites of Um es-Surab, Rihab and Al-Fudayn. Shurooq Al-Essa, one of the beneficiaries of the Support to Livelihoods through Cultural Heritage Development project who was hired to work in the archaeological site of Um Es-Surab, pointed out that the project contributed to raising awareness on cultural heritage amongst local communities, as well as improving the standard of living for many, in addition to making the area more attractive for tourism in the future. Rashaa Al-Enezi, one of the Syrian beneficiaries, said that the project provided unemployed youth with an opportunity to acquire new skills and experiences in dealing with archaeological sites and architectural restoration, such as preserving mosaic floors, in addition to developing communication skills, and building relationships between Syrians and Jordanians through joint work in a team spirit, while also empowering the people economically and financially. The closing ceremony was attended by the Ambassador of the European Union to Jordan, Mrs. Maria Hadjitheodosiou, the Representative of UNESCO in Jordan, Mrs. Min Jeong-Kim, the Representative of the",
+  "date": "06 June 2023"
+}

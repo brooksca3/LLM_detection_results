@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5391ef67-8dfe-4836-81b3-cd0840a0f248",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.68978500366211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001416517043253407,
+          "perplexity": 52,
+          "sentence": "The Minister of Agriculture Abbas Hajj Hassan representing the Prime Minister attended the event with the FAO Representative in Lebanon, Nora Ourabah Haddad, the Head of Cooperation at the Delegation of the European Union to Lebanon, Alessandra Viezzer, in addition to ministers, deputies, ambassadors, heads of chambers of commerce, industry and agriculture, representatives of economic bodies, farmers' unions and media professionals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016131368465721607,
+          "perplexity": 50,
+          "sentence": "Funded by the European Union, the Farmers' Registry is a program which will include farm data, parcel and location identification data, farmers' livelihood conditions data, and farmers' household and socio-economic and demographic information.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016763820894993842,
+          "perplexity": 74,
+          "sentence": "In his welcoming speech, Minister Hajj Hassan explained that this initiative aims to register people practicing agricultural work and targets, in the first stage, 50,000 farmers across Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001603814889676869,
+          "perplexity": 48,
+          "sentence": "\"The registry will provide us with accurate knowledge of all the details in the agricultural sector, the cultivated areas, and the quality of the crops, and thus improve our ability to determine the quantities of production... and match needs with capabilities,\" he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015421492571476847,
+          "perplexity": 68,
+          "sentence": "From her side, FAO Representative in Lebanon, Nora Ourabah Haddad, said that the registery will constitute a reference for the development and organization of the agricultural sector and will be used to manage the data of about 170,000 farmers in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015687178529333323,
+          "perplexity": 67,
+          "sentence": "\u201cThe Farmer's Registry is a significant step forward in our efforts to support the neediest ones by also promoting sustainable agriculture and rural development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001495378091931343,
+          "perplexity": 95,
+          "sentence": "Managed correctly, Lebanon can reap huge rewards from shifting to a more productive economy\u201d said Alessandra Viezzer, Head of Cooperation at the Delegation of the European Union to Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001815063296817243,
+          "perplexity": 92,
+          "sentence": "Several farmers from all over Lebanon participated in the launching event and shared their expectations in the benefits of the registry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001436698657926172,
+          "perplexity": 243,
+          "sentence": "Farmer Walid Abu Saifan will invite all his farmers colleagues to head to the nearest agricultural center and register",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Minister of Agriculture Abbas Hajj Hassan representing the Prime Minister attended the event with the FAO Representative in Lebanon, Nora Ourabah Haddad, the Head of Cooperation at the Delegation of the European Union to Lebanon, Alessandra Viezzer, in addition to ministers, deputies, ambassadors, heads of chambers of commerce, industry and agriculture, representatives of economic bodies, farmers' unions and media professionals. Funded by the European Union, the Farmers\u2019 Registry is a program which will include farm data, parcel and location identification data, farmers\u2019 livelihood conditions data, and farmers\u2019 household and socio-economic and demographic information. In his welcoming speech, Minister Hajj Hassan explained that this initiative aims to register people practicing agricultural work and targets, in the first stage, 50,000 farmers across Lebanon. \"The registry will provide us with accurate knowledge of all the details in the agricultural sector, the cultivated areas, and the quality of the crops, and thus improve our ability to determine the quantities of production ... and match needs with capabilities,\" he said. From her side, FAO Representative in Lebanon, Nora Ourabah Haddad, said that the registery will constitute a reference for the development and organization of the agricultural sector and will be used to manage the data of about 170,000 farmers in Lebanon. \u201cThe Farmer\u2019s Registry is a significant step forward in our efforts to support the neediest ones by also promoting sustainable agriculture and rural development. Managed correctly, Lebanon can reap huge rewards from shifting to a more productive economy\u201d said Alessandra Viezzer, Head of Cooperation at the Delegation of the European Union to Lebanon. Several farmers from all over Lebanon participated in the launching event and shared their expectations in the benefits of the registry. Farmer Walid Abu Saifan will invite all his farmers colleagues to head to the nearest agricultural center and register",
+  "date": "06 March 2023"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0cdfe321-70ca-4e8f-95be-83c53da5fb85",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.625619888305664,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.06207438185811043,
+          "perplexity": 44,
+          "sentence": "The International Organization for Migration (IOM) in partnership with the Social Work Society (SWS), and in cooperation with a community volunteering group and re:food, distributed personal protective equipment (PPE) kits to over four thousand foreign workers, covering all 6 governorates in the State of Kuwait, and including residents at the Public Authority for Manpower's (PAM) government-run shelter for female foreign workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07694271206855774,
+          "perplexity": 110,
+          "sentence": "This initiative was generously funded by private sector partners, in support to the government of Kuwait's continuous efforts and response to contain the ongoing COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07449813187122345,
+          "perplexity": 57,
+          "sentence": "This was mainly focused on the inclusion of vulnerable foreign workers who continue to perform daily tasks without preventive equipment, in line with the recommendations of the World Health Organizations' (WHO) for maintaining personal hygiene and preventing contagion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06103360280394554,
+          "perplexity": 61,
+          "sentence": "Mr. Mazen AboulHosn, Chief of Mission of the International Organization for Migration (IOM), \u201cPersonal protective equipment (PPE) is effective in preventing infection for everyone, especially foreign workers who work in highly exposed environments; everyone can do their part to reduce the risk that COVID-19 has imposed on our societies\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06540809571743011,
+          "perplexity": 43,
+          "sentence": "For his part, Dr. Mubarak Al-Azmi, Acting Director General of the Public Authority for Manpower (PAM), appreciated the continuous cooperation with the International Organization for Migration in the State of Kuwait, adding that the personal protection equipment kits were distributed to the residents of the shelter for female foreign workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07197290658950806,
+          "perplexity": 113,
+          "sentence": "He stressed on the Public Authority for Manpower's keenness to adhere to international health standards and ensure full compliance in all areas, including the shelter for female foreign workers, in aim to limit the spread of Covid-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07662314921617508,
+          "perplexity": 31,
+          "sentence": "The International Organization for Migration takes pride in its successful partnership with private sector partners, government key stakeholders and non-governmental and civil society organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10199795663356781,
+          "perplexity": 75,
+          "sentence": "With the support provided by various entities, IOM is enabled to respond more efficiently and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The International Organization for Migration (IOM) in partnership with the Social Work Society (SWS), and in cooperation with a community volunteering group and re:food, distributed personal protective equipment (PPE) kits to over four thousand foreign workers, covering all 6 governorates in the State of Kuwait, and including residents at the Public Authority for Manpower\u2019s (PAM) government-run shelter for female foreign workers. This initiative was generously funded by private sector partners, in support to the government of Kuwait\u2019s continuous efforts and response to contain the ongoing COVID-19 pandemic. This was mainly focused on the inclusion of vulnerable foreign workers who continue to perform daily tasks without preventive equipment, in line with the recommendations of the World Health Organizations\u2019 (WHO) for maintaining personal hygiene and preventing contagion. Mr. Mazen AboulHosn, Chief of Mission of the International Organization for Migration (IOM), \u201cPersonal protective equipment (PPE) is effective in preventing infection for everyone, especially foreign workers who work in highly exposed environments; everyone can do their part to reduce the risk that COVID-19 has imposed on our societies\u201d. For his part, Dr. Mubarak Al-Azmi, Acting Director General of the Public Authority for Manpower (PAM), appreciated the continuous cooperation with the International Organization for Migration in the State of Kuwait, adding that the personal protection equipment kits were distributed to the residents of the shelter for female foreign workers. He stressed on the Public Authority for Manpower's keenness to adhere to international health standards and ensure full compliance in all areas, including the shelter for female foreign workers, in aim to limit the spread of Covid-19. The International Organization for Migration takes pride in its successful partnership with private sector partners, government key stakeholders and non-governmental and civil society organizations. With the support provided by various entities, IOM is enabled to respond more efficiently and",
+  "date": "20 November 2020"
+}

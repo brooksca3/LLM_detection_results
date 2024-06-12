@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c683e2c4-6730-4fc1-a074-8fc6659e40d3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0021606226521643057,
+        "human": 0.9972173799176672,
+        "mixed": 0.0006219974301685122
+      },
+      "completely_generated_prob": 0.0021606226521643057,
+      "confidence_category": "high",
+      "confidence_score": 0.9972173799176672,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0021606226521643057,
+          "human": 0.9972173799176672,
+          "mixed": 0.0006219974301685122
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.20188331604004,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010102120722876862,
+          "perplexity": 65,
+          "sentence": "Gilbert F. Houngbo made his statement at this year's Arab Labour Conference in Baghdad, where he invited stakeholders in the region to join the Global Coalition for Social Justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012624914234038442,
+          "perplexity": 42,
+          "sentence": "BAGHDAD (ILO News) - The mounting challenges facing the world of work in the Arab region can only be addressed through concerted joint efforts and multilateral partnerships, including the Global Coalition for Social Justice, ILO Director-General Gilbert F. Houngbo told attendees at this year's Arab Labour Conference (ALC) in Baghdad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013908538676332682,
+          "perplexity": 67,
+          "sentence": "\u201cIt is only by working towards a common vision that can we rise to the challenges facing the world of work today, seize opportunities, and advance towards a future with social justice for all,\u201d Houngbo told delegates during the ALC opening session.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011875308700837195,
+          "perplexity": 23,
+          "sentence": "The Global Coalition is an ILO-led initiative to foster multilateral cooperation, strengthen social justice globally and accelerate progress toward the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011527384776854888,
+          "perplexity": 44,
+          "sentence": "It has brought together more than 200 partners so far, including governments, worker and employer organizations and civil society, including numerous partners from the Arab region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015566351066809148,
+          "perplexity": 44,
+          "sentence": "Extending the invitation to other Arab stakeholders to join the Coalition, Houngbo announced: \u201cThis month, the League of Arab States decided to join the Coalition, an addition I am proud of and deem to be a historic feat for the ILO, the Arab world and social justice worldwide.\u201d Houngbo participated in the opening session of the ALC, convened by the Arab Labour Organization (ALO) under the auspices of Iraqi Prime Minister Mohammad Shaya'a Al Sudani, along with a delegation of senior ILO officials including Regional Director for Arab States Ruba Jaradat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007929882849566638,
+          "perplexity": 25,
+          "sentence": "During his address at the opening session, the Director-General expressed his profound concern at the renewed conflict in Occupied Palestinian Territory and the impact it is having on Palestinian workers and employers, as well as potential spill-over effects",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Gilbert F. Houngbo made his statement at this year\u2019s Arab Labour Conference in Baghdad, where he invited stakeholders in the region to join the Global Coalition for Social Justice. BAGHDAD (ILO News) \u2013 The mounting challenges facing the world of work in the Arab region can only be addressed through concerted joint efforts and multilateral partnerships, including the Global Coalition for Social Justice, ILO Director-General Gilbert F. Houngbo told attendees at this year\u2019s Arab Labour Conference (ALC) in Baghdad. \u201cIt is only by working towards a common vision that can we rise to the challenges facing the world of work today, seize opportunities, and advance towards a future with social justice for all,\u201d Houngbo told delegates during the ALC opening session. The Global Coalition is an ILO-led initiative to foster multilateral cooperation, strengthen social justice globally and accelerate progress toward the Sustainable Development Goals (SDGs). It has brought together more than 200 partners so far, including governments, worker and employer organizations and civil society, including numerous partners from the Arab region. Extending the invitation to other Arab stakeholders to join the Coalition, Houngbo announced: \u201cThis month, the League of Arab States decided to join the Coalition, an addition I am proud of and deem to be a historic feat for the ILO, the Arab world and social justice worldwide.\u201d Houngbo participated in the opening session of the ALC, convened by the Arab Labour Organization (ALO) under the auspices of Iraqi Prime Minister Mohammad Shaya\u2019a Al Sudani, along with a delegation of senior ILO officials including Regional Director for Arab States Ruba Jaradat. During his address at the opening session, the Director-General expressed his profound concern at the renewed conflict in Occupied Palestinian Territory and the impact it is having on Palestinian workers and employers, as well as potential spill-over effects",
+  "date": "28 April 2024"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "90a03fd8-93af-4aca-a069-5b4ba656890c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030755795549549995,
+        "human": 0.9685859430920044,
+        "mixed": 0.0006582613584455498
+      },
+      "completely_generated_prob": 0.030755795549549995,
+      "confidence_category": "high",
+      "confidence_score": 0.9685859430920044,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030755795549549995,
+          "human": 0.9685859430920044,
+          "mixed": 0.0006582613584455498
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.896427154541016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.013509679585695267,
+          "perplexity": 35,
+          "sentence": "We, the leaders of global health, human rights and development institutions, come together to urgently draw the attention of political leaders to the heightened vulnerability of prisoners and other people deprived of liberty to the COVID-19 pandemic, and urge them to take all appropriate public health measures in respect of this vulnerable population that is part of our communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016180433332920074,
+          "perplexity": 33,
+          "sentence": "Acknowledging that the risk of introducing COVID-19 into prisons or other places of detention varies from country to country, we emphasize the need to minimize the occurrence of the disease in these settings and to guarantee that adequate preventive measures are in place to ensure a gender-responsive approach and preventing large outbreaks of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012235177680850029,
+          "perplexity": 50,
+          "sentence": "We equally emphasize the need to establish an up-to-date coordination system that brings together health and justice sectors, keeps prison staff well-informed and guarantees that all human rights in these settings are respected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013585938140749931,
+          "perplexity": 85,
+          "sentence": "In the light of overcrowding in many places of detention, which undermines hygiene, health, safety and human dignity, a health response to COVID-19 in closed settings alone is insufficient.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013612151145935059,
+          "perplexity": 91,
+          "sentence": "Overcrowding constitutes an insurmountable obstacle for preventing, preparing for or responding to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014252668246626854,
+          "perplexity": 26,
+          "sentence": "We urge political leaders to consider limiting the deprivation of liberty, including pretrial detention, to a measure of last resort, particularly in the case of overcrowding, and to enhance efforts to resort to non-custodial measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014958885498344898,
+          "perplexity": 33,
+          "sentence": "These efforts should encompass release mechanisms for people at particular risk of COVID-19, such as older people and people with pre-existing health conditions, as well as other people who could be released without compromising public safety, such as those sentenced for minor, non-violent offences, with specific consideration given to women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015863776206970215,
+          "perplexity": 124,
+          "sentence": "A swift and firm response aimed at ensuring healthy and safe custody, and reducing overcrowding, is essential to mitigate the risk of COVID-19 entering and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "We, the leaders of global health, human rights and development institutions, come together to urgently draw the attention of political leaders to the heightened vulnerability of prisoners and other people deprived of liberty to the COVID-19 pandemic, and urge them to take all appropriate public health measures in respect of this vulnerable population that is part of our communities. Acknowledging that the risk of introducing COVID-19 into prisons or other places of detention varies from country to country, we emphasize the need to minimize the occurrence of the disease in these settings and to guarantee that adequate preventive measures are in place to ensure a gender-responsive approach and preventing large outbreaks of COVID-19. We equally emphasize the need to establish an up-to-date coordination system that brings together health and justice sectors, keeps prison staff well-informed and guarantees that all human rights in these settings are respected. In the light of overcrowding in many places of detention, which undermines hygiene, health, safety and human dignity, a health response to COVID-19 in closed settings alone is insufficient. Overcrowding constitutes an insurmountable obstacle for preventing, preparing for or responding to COVID-19. We urge political leaders to consider limiting the deprivation of liberty, including pretrial detention, to a measure of last resort, particularly in the case of overcrowding, and to enhance efforts to resort to non-custodial measures. These efforts should encompass release mechanisms for people at particular risk of COVID-19, such as older people and people with pre-existing health conditions, as well as other people who could be released without compromising public safety, such as those sentenced for minor, non-violent offences, with specific consideration given to women and children. A swift and firm response aimed at ensuring healthy and safe custody, and reducing overcrowding, is essential to mitigate the risk of COVID-19 entering and",
+  "date": "13 May 2020"
+}

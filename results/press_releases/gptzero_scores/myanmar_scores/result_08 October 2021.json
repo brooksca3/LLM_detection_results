@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c17ef7de-56b0-49bf-96d5-47a4e06cf95d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02115136975296287,
+        "human": 0.9782474285227926,
+        "mixed": 0.0006012017242444226
+      },
+      "completely_generated_prob": 0.02115136975296287,
+      "confidence_category": "high",
+      "confidence_score": 0.9782474285227926,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02115136975296287,
+          "human": 0.9782474285227926,
+          "mixed": 0.0006012017242444226
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.800350189208984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001433774596080184,
+          "perplexity": 70,
+          "sentence": "Alarming reports indicate that there has been substantial deployment of heavy weapons and troops by the Myanmar military, the Tatmadaw, over the past few weeks in Kanpetlet and Hakha townships in Chin State; Kani and Monywa townships in the central Sagaing region; and Gangaw township in Magway.. Two high-level commanders have also been deployed to the area and the Internet has been shut down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018488122150301933,
+          "perplexity": 35,
+          "sentence": "We are gravely concerned by these developments, particularly given the intensifying attacks by the military that we have documented over the past month in these areas, including killings, raiding of villages and burning of houses, apparently to seek out armed resistance elements and as reprisals against villages perceived to be sympathetic to people's defence forces or ethnic armed groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001961716450750828,
+          "perplexity": 14,
+          "sentence": "There have been reports of mass arrests, as well as torture and summary executions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017008180730044842,
+          "perplexity": 155,
+          "sentence": "Military \u201cclearance operations\u201d have involved the use of artillery barrages and airstrikes against villages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018103350885212421,
+          "perplexity": 58,
+          "sentence": "The Internet shutdowns have also meant that millions of people have lost the means to communicate and obtain information necessary for their survival, and cast an information blackout over potential abuses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001502988743595779,
+          "perplexity": 50,
+          "sentence": "As the High Commissioner has already noted, there has been an established pattern of attacks by the Tatmadaw against unarmed individuals using lethal force, destruction of residential properties, mass arbitrary detention and deaths in military custody.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002031562151387334,
+          "perplexity": 22,
+          "sentence": "We urge the international community to speak with one voice, to prevent the commission of further serious human rights violations against the people of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002540284302085638,
+          "perplexity": 30,
+          "sentence": "Influential states must prevail on the Tatmadaw to de-escalate the situation, protect civilian lives and property, and ensure access to humanitarian aid for those who need it.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Alarming reports indicate that there has been substantial deployment of heavy weapons and troops by the Myanmar military, the Tatmadaw, over the past few weeks in Kanpetlet and Hakha townships in Chin State; Kani and Monywa townships in the central Sagaing region; and Gangaw township in Magway.. Two high-level commanders have also been deployed to the area and the Internet has been shut down. We are gravely concerned by these developments, particularly given the intensifying attacks by the military that we have documented over the past month in these areas, including killings, raiding of villages and burning of houses, apparently to seek out armed resistance elements and as reprisals against villages perceived to be sympathetic to people\u2019s defence forces or ethnic armed groups. There have been reports of mass arrests, as well as torture and summary executions. Military \u201cclearance operations\u201d have involved the use of artillery barrages and airstrikes against villages. The Internet shutdowns have also meant that millions of people have lost the means to communicate and obtain information necessary for their survival, and cast an information blackout over potential abuses. As the High Commissioner has already noted, there has been an established pattern of attacks by the Tatmadaw against unarmed individuals using lethal force, destruction of residential properties, mass arbitrary detention and deaths in military custody. We urge the international community to speak with one voice, to prevent the commission of further serious human rights violations against the people of Myanmar. Influential states must prevail on the Tatmadaw to de-escalate the situation, protect civilian lives and property, and ensure access to humanitarian aid for those who need it.",
+  "date": "08 October 2021"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8f754adb-803b-4856-9487-15df67882904",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.04732131958008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008441845420747995,
+          "perplexity": 25,
+          "sentence": "Under the auspices of HE Mariam Al-Aqeel, Minister of State for Economic Affairs and Minister of Social Affairs, the Supreme Council for Planning and Development (GSSCPD) along with the Public Authority for Manpower (PAM) signed the STRENGTH initiative project agreement with the United Nations Migration (IOM) and the United Nations Development Programme (UNDP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000709767104126513,
+          "perplexity": 33,
+          "sentence": "The signing took place in the presence of Dr. Khaled Mehdi, Secretary General of the General Secretariat for The Supreme Council of Planning and Development, Mr. Ahmed El Moussa, Director General of the Public Authority for Manpower, Ms. Iman Ereiqat, Chief of Mission of the International Organization for Migration and Hideko Hadzialic, Resident Representative of the United Nations Development Programme in Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005844997358508408,
+          "perplexity": 139,
+          "sentence": "The 'Tamkeen' Initiative aims to contribute towards the strengthening of Kuwait's Global Positioning pillar under the Kuwait National Development Plan (KNDP) 2035, predominantly in the context of secondary COVID-19 response, by promoting national mechanisms on good migration and mobility governance, and to enhance the facilitation of labour mobility for an improved recruitment experience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044078147038817406,
+          "perplexity": 81,
+          "sentence": "HE Mariam Al-Aqeel, Minister of State for Economic Affairs and Minister of Social Affairs commented on the initiative for which she had coined the name, \u201cTamkeen is another step in the right direction that will essentially contribute to a better Kuwait both as a leading humanitarian center and a progressive government with modernized business and mobility governance technologies and procedures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005330380517989397,
+          "perplexity": 58,
+          "sentence": "We are always working towards growth and development.\u201d Dr. Khaled Mehdi, Secretary General of the General Secretariat for The Supreme Council of Planning and Development exclaimed, \u201cKuwait is making strides in the era of digital transformation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003781419072765857,
+          "perplexity": 107,
+          "sentence": "All endeavors and resources that we devote must be both efficient and responsive to market needs, and to regulate the recruitment of foreign workers in addition protecting employers and workers simultaneously.\u201d \u201cWe are looking forward to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Under the auspices of HE Mariam Al-Aqeel, Minister of State for Economic Affairs and Minister of Social Affairs, the Supreme Council for Planning and Development (GSSCPD) along with the Public Authority for Manpower (PAM) signed the STRENGTH initiative project agreement with the United Nations Migration (IOM) and the United Nations Development Programme (UNDP). The signing took place in the presence of Dr. Khaled Mehdi, Secretary General of the General Secretariat for The Supreme Council of Planning and Development, Mr. Ahmed El Moussa, Director General of the Public Authority for Manpower, Ms. Iman Ereiqat, Chief of Mission of the International Organization for Migration and Hideko Hadzialic, Resident Representative of the United Nations Development Programme in Kuwait. The \u2018Tamkeen\u2019 Initiative aims to contribute towards the strengthening of Kuwait\u2019s Global Positioning pillar under the Kuwait National Development Plan (KNDP) 2035, predominantly in the context of secondary COVID-19 response, by promoting national mechanisms on good migration and mobility governance, and to enhance the facilitation of labour mobility for an improved recruitment experience. HE Mariam Al-Aqeel, Minister of State for Economic Affairs and Minister of Social Affairs commented on the initiative for which she had coined the name, \u201cTamkeen is another step in the right direction that will essentially contribute to a better Kuwait both as a leading humanitarian center and a progressive government with modernized business and mobility governance technologies and procedures. We are always working towards growth and development.\u201d Dr. Khaled Mehdi, Secretary General of the General Secretariat for The Supreme Council of Planning and Development exclaimed, \u201cKuwait is making strides in the era of digital transformation. All endeavors and resources that we devote must be both efficient and responsive to market needs, and to regulate the recruitment of foreign workers in addition protecting employers and workers simultaneously.\u201d \u201cWe are looking forward to",
+  "date": "03 September 2020"
+}

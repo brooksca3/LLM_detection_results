@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3fa925f7-a92d-4b92-8bb1-169367b79c6f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0014140862417020708,
+        "human": 0.9980040190968222,
+        "mixed": 0.0005818946614755938
+      },
+      "completely_generated_prob": 0.0014140862417020708,
+      "confidence_category": "high",
+      "confidence_score": 0.9980040190968222,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0014140862417020708,
+          "human": 0.9980040190968222,
+          "mixed": 0.0005818946614755938
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.39094543457031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001288850326091051,
+          "perplexity": 18,
+          "sentence": "To mark the World Contraception the Ministry of Health of the Republic of Serbia and United Nations Population Fund (UNFPA) Office in Serbia presented the National Program for Safeguarding and Improving Sexual and Reproductive Health of the Citizens of the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013109353312756866,
+          "perplexity": 39,
+          "sentence": "With the adoption of this National Programme, Serbia becomes one of the few countries that fully aligned national priorities in the area of sexual and reproductive health with international standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012464837345760316,
+          "perplexity": 20,
+          "sentence": "Belgrade, 26 September 2018 - To mark the World Contraception Day the Ministry of Health of the Republic of Serbia and United Nations Population Fund (UNFPA) Office in Serbia presented the National Program for Safeguarding and Improving Sexual and Reproductive Health of the Citizens of the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011958192771999165,
+          "perplexity": 24,
+          "sentence": "With the adoption of this National Programme, Serbia becomes one of the few countries that fully aligned national priorities in the area of sexual and reproductive health with the Global Strategy for Women's, Children's and Adolescents' Health (2016-2030) and the WHO Action Plan for Sexual and Reproductive Health: Towards achieving the 2030 Agenda for Sustainable Development in Europe - leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016319808491971344,
+          "perplexity": 34,
+          "sentence": "Less than one-fifth of women in Serbia are using reliable methods of contraception, while young people are burdened with prejudices and know little on how to protect their health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013647340529132634,
+          "perplexity": 132,
+          "sentence": "\u201e With this set of measures, we wish to raise awarness of general public about importance of protecting reproductive health, as well as to reduce number of unitended pregannices that end with unsafe abortions and spread of sexually transmitted infections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013524657697416842,
+          "perplexity": 90,
+          "sentence": "With the Programme we also aim to prevent violence in our society and provide for better protection of women exposed to violence,\u201d states Dr Vesna Knjeginjic, Assistant Minister at the Ministry of Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020887369464617223,
+          "perplexity": 39,
+          "sentence": "Participants at the event agreed that universal access to sexual and reproductive health",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "To mark the World Contraception the Ministry of Health of the Republic of Serbia and United Nations Population Fund (UNFPA) Office in Serbia presented the National Program for Safeguarding and Improving Sexual and Reproductive Health of the Citizens of the Republic of Serbia. With the adoption of this National Programme, Serbia becomes one of the few countries that fully aligned national priorities in the area of sexual and reproductive health with international standards. Belgrade, 26 September 2018 \u2013 To mark the World Contraception Day the Ministry of Health of the Republic of Serbia and United Nations Population Fund (UNFPA) Office in Serbia presented the National Program for Safeguarding and Improving Sexual and Reproductive Health of the Citizens of the Republic of Serbia. With the adoption of this National Programme, Serbia becomes one of the few countries that fully aligned national priorities in the area of sexual and reproductive health with the Global Strategy for Women\u2019s, Children\u2019s and Adolescents\u2019 Health (2016-2030) and the WHO Action Plan for Sexual and Reproductive Health: Towards achieving the 2030 Agenda for Sustainable Development in Europe \u2013 leaving no one behind. Less than one-fifth of women in Serbia are using reliable methods of contraception, while young people are burdened with prejudices and know little on how to protect their health. \u201e With this set of measures, we wish to raise awarness of general public about importance of protecting reproductive health, as well as to reduce number of unitended pregannices that end with unsafe abortions and spread of sexually transmitted infections. With the Programme we also aim to prevent violence in our society and provide for better protection of women exposed to violence,\u201d states Dr Vesna Knjeginjic, Assistant Minister at the Ministry of Health. Participants at the event agreed that universal access to sexual and reproductive health",
+  "date": "26 September 2018"
+}

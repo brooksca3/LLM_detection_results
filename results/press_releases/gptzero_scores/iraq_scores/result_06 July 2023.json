@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e07fb989-aa50-4fcf-b906-0110f6ee68ab",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047255511555901,
+        "human": 0.9688736085837036,
+        "mixed": 0.0006538363007373658
+      },
+      "completely_generated_prob": 0.03047255511555901,
+      "confidence_category": "high",
+      "confidence_score": 0.9688736085837036,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047255511555901,
+          "human": 0.9688736085837036,
+          "mixed": 0.0006538363007373658
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 359.2483825683594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006738504162058234,
+          "perplexity": 73,
+          "sentence": "Baghdad, 05 July 2023 - After 5 years of fruitful collaboration between UN-Habitat Iraq and the Ministry of Migration and Displacement (MOMD) of Iraq, a cooperation framework was signed under the patronage of HE Mrs. Evan Faeq Gabro.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006297051440924406,
+          "perplexity": 23,
+          "sentence": "The cooperation framework aims to strengthen the cooperation between UN-Habitat and MOMD through joint efforts to provide a framework for cooperation and facilitate partnership between UN-Habitat and MOMD to find and implement durable solutions to issues related to the return of displaced people, as well as to provide appropriate support and approaches for return and reintegration in Sinjar in line with the new vision and the working mechanism, as well as to provide technical advice on returns and adequate housing, through the rehabilitation and reconstruction of damaged houses, basic services and related infrastructure and upgrade of water, hygiene and sanitation facilities to ensure safe and dignified return.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007638802053406835,
+          "perplexity": 30,
+          "sentence": "Given the severe consequences of displacement and the subsequent occupation of a number of Iraqi cities by ISIS, many individuals lost their homes and assets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00067422806750983,
+          "perplexity": 56,
+          "sentence": "To ensure a secure and dignified return, the Ministry considers UN-Habitat as their primary external technical advisor in all matters related to the cooperation's implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0238962359726429,
+          "perplexity": 93,
+          "sentence": "HE Mrs. Evan Faeq Gabro, Minister of Migration and Displacement, emphasized the necessity of signing the cooperation framework to ensure the sustainable return of displaced people and achieve durable solutions in the current context.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01685374416410923,
+          "perplexity": 46,
+          "sentence": "\u201cWhat we are signing today is a result of a great collaboration with the Ministry of Displacement and Migration which is one of our main counterparts to promote the dignified and sustainable return of IDPs in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02086777426302433,
+          "perplexity": 56,
+          "sentence": "UN-Habitat will continue to support the MOMD in this matter to facilitate the sustainable return of IDPs\u201d, emphasized Mr. Wael Al-Ashhab, Head of UN-Habitat Iraq, during the signing ceremony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02394888550043106,
+          "perplexity": 1068,
+          "sentence": "The framework of cooperation encompasses",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 05 July 2023 - After 5 years of fruitful collaboration between UN-Habitat Iraq and the Ministry of Migration and Displacement (MOMD) of Iraq, a cooperation framework was signed under the patronage of HE Mrs. Evan Faeq Gabro. The cooperation framework aims to strengthen the cooperation between UN-Habitat and MOMD through joint efforts to provide a framework for cooperation and facilitate partnership between UN-Habitat and MOMD to find and implement durable solutions to issues related to the return of displaced people, as well as to provide appropriate support and approaches for return and reintegration in Sinjar in line with the new vision and the working mechanism, as well as to provide technical advice on returns and adequate housing, through the rehabilitation and reconstruction of damaged houses, basic services and related infrastructure and upgrade of water, hygiene and sanitation facilities to ensure safe and dignified return. Given the severe consequences of displacement and the subsequent occupation of a number of Iraqi cities by ISIS, many individuals lost their homes and assets. To ensure a secure and dignified return, the Ministry considers UN-Habitat as their primary external technical advisor in all matters related to the cooperation\u2019s implementation. HE Mrs. Evan Faeq Gabro, Minister of Migration and Displacement, emphasized the necessity of signing the cooperation framework to ensure the sustainable return of displaced people and achieve durable solutions in the current context. \u201cWhat we are signing today is a result of a great collaboration with the Ministry of Displacement and Migration which is one of our main counterparts to promote the dignified and sustainable return of IDPs in Iraq. UN-Habitat will continue to support the MOMD in this matter to facilitate the sustainable return of IDPs\u201d, emphasized Mr. Wael Al-Ashhab, Head of UN-Habitat Iraq, during the signing ceremony. The framework of cooperation encompasses",
+  "date": "06 July 2023"
+}

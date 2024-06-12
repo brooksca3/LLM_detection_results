@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "05d2d407-2b62-4e41-8c26-e909dc916a19",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.79576873779297,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010875620500883088,
+          "perplexity": 22,
+          "sentence": "Kyiv, May 26, 2024 - Recent attacks in Kharkiv city, including Saturday's strike on a large shopping center, fit into a pattern of increasing civilian casualties in Kharkiv region and city, the United Nations Human Rights Monitoring Mission in Ukraine (HRMMU) said today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010496171307750046,
+          "perplexity": 33,
+          "sentence": "Since Russian armed forces launched a ground offensive into Kharkiv region on 10 May, HRMMU has verified that 45 civilians have been killed and 189 injured in Kharkiv region and city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010484786616871133,
+          "perplexity": 51,
+          "sentence": "Two air-dropped munitions struck the Epitsentr hypermarket in Kharkiv city during a busy shopping afternoon on Saturday, killing at least 16 and injuring 43, according to the local authorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010183754056924954,
+          "perplexity": 40,
+          "sentence": "Several store employees were killed or injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010451965499669313,
+          "perplexity": 83,
+          "sentence": "Search operations were continuing on Sunday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010634954378474504,
+          "perplexity": 56,
+          "sentence": "Another attack Saturday afternoon near a caf\u00e9 and barbershop in the city center reportedly injured 25 people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001101747402572073,
+          "perplexity": 74,
+          "sentence": "\u201cThe Russian Federation's intensified military offensive has resulted in significant civilian casualties over the past two weeks, especially in Kharkiv region and city,\u201d said Danielle Bell who heads HRMMU.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010961786028929055,
+          "perplexity": 94,
+          "sentence": "\u201cThe victims of the most recent attacks were employees of a hypermarket and a printing press, along with shoppers.\u201d HRMMU visited the site of the strike on the shopping center and other places recently attacked and collected information to verify the number of civilian casualties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010556235793046653,
+          "perplexity": 118,
+          "sentence": "The Epitsentr strike was the second attack causing multiple fatalities in Kharkiv city in just three days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010263284639222547,
+          "perplexity": 29,
+          "sentence": "On Thursday, a missile hit a printing plant, one of Ukraine's largest, killing 7 employees and destroying more than 50,000 books.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010511014988878742,
+          "perplexity": 53,
+          "sentence": "Over the past several days the residents of Kharkiv have lived with daily air-raid alerts amid intensifying Russian attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012363815039861947,
+          "perplexity": 29,
+          "sentence": "The attacks on Kharkiv came on the heels of a ground offensive that triggered a wave of new displacement when Russian troops swept into several villages to the north of the city, with thousands coming to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kyiv, May 26, 2024 - Recent attacks in Kharkiv city, including Saturday\u2019s strike on a large shopping center, fit into a pattern of increasing civilian casualties in Kharkiv region and city, the United Nations Human Rights Monitoring Mission in Ukraine (HRMMU) said today. Since Russian armed forces launched a ground offensive into Kharkiv region on 10 May, HRMMU has verified that 45 civilians have been killed and 189 injured in Kharkiv region and city. Two air-dropped munitions struck the Epitsentr hypermarket in Kharkiv city during a busy shopping afternoon on Saturday, killing at least 16 and injuring 43, according to the local authorities. Several store employees were killed or injured. Search operations were continuing on Sunday. Another attack Saturday afternoon near a caf\u00e9 and barbershop in the city center reportedly injured 25 people. \u201cThe Russian Federation\u2019s intensified military offensive has resulted in significant civilian casualties over the past two weeks, especially in Kharkiv region and city,\u201d said Danielle Bell who heads HRMMU. \u201cThe victims of the most recent attacks were employees of a hypermarket and a printing press, along with shoppers.\u201d HRMMU visited the site of the strike on the shopping center and other places recently attacked and collected information to verify the number of civilian casualties. The Epitsentr strike was the second attack causing multiple fatalities in Kharkiv city in just three days. On Thursday, a missile hit a printing plant, one of Ukraine\u2019s largest, killing 7 employees and destroying more than 50,000 books. Over the past several days the residents of Kharkiv have lived with daily air-raid alerts amid intensifying Russian attacks. The attacks on Kharkiv came on the heels of a ground offensive that triggered a wave of new displacement when Russian troops swept into several villages to the north of the city, with thousands coming to",
+  "date": "26 May 2024"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d851b85b-64b3-4e68-abcb-6035e7367d68",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 129.05055236816406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.006339969579130411,
+          "perplexity": 12,
+          "sentence": "Jeremy Laurence, Spokesperson for the UN High Commissioner for Human Rights: \u201cWe have serious concerns that a new law due to come into force in Kyrgyzstan in just over a week's time will pose a serious threat to the work of numerous civil society organisations in the country, and, more broadly, violate fundamental rights to freedom of expression, association, peaceful assembly and the right to take part in public affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006297543179243803,
+          "perplexity": 443,
+          "sentence": "Earlier this week, President Sadyr Japarov signed into law the \u201cforeign representatives\u201d bill.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007119725923985243,
+          "perplexity": 66,
+          "sentence": "This grants the authorities extensive oversight of non-commercial organisations and stipulates that NGOs engaging in what are broadly termed \u201cpolitical activities\u201d and receiving foreign funding must register as \u201cforeign representatives\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007694220170378685,
+          "perplexity": 22,
+          "sentence": "Failure to do so could result in their operations being suspended for up to six months, and possibly forced liquidation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007636715192347765,
+          "perplexity": 38,
+          "sentence": "The majority of NGOs actively operating in Kyrgyzstan receive grants, including from international organisations and foreign donors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006258430425077677,
+          "perplexity": 69,
+          "sentence": "We are concerned that many of the affected NGOs could feel compelled to close to avoid being stigmatised as \u201cforeign representatives\u201d, exposed to arbitrary checks by the authorities, and having to pay for annual audits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006062568165361881,
+          "perplexity": 97,
+          "sentence": "Those that choose to be registered as \u201cforeign representatives\u201d could end up having to self-censor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005479329265654087,
+          "perplexity": 35,
+          "sentence": "This, in turn, would lead to legitimate public advocacy, human rights monitoring and reporting, and discussion of matters of public interest being seriously stifled.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007176284212619066,
+          "perplexity": 29,
+          "sentence": "We call on the authorities to repeal the new law and ensure all future legislation fully respects international human rights law and standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007956057786941528,
+          "perplexity": 23,
+          "sentence": "We also urge the authorities to engage in meaningful consultations with all relevant stakeholders, including civil society organisations and human rights defenders in this regard.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Jeremy Laurence, Spokesperson for the UN High Commissioner for Human Rights: \u201cWe have serious concerns that a new law due to come into force in Kyrgyzstan in just over a week\u2019s time will pose a serious threat to the work of numerous civil society organisations in the country, and, more broadly, violate fundamental rights to freedom of expression, association, peaceful assembly and the right to take part in public affairs. Earlier this week, President Sadyr Japarov signed into law the \u201cforeign representatives\u201d bill. This grants the authorities extensive oversight of non-commercial organisations and stipulates that NGOs engaging in what are broadly termed \u201cpolitical activities\u201d and receiving foreign funding must register as \u201cforeign representatives\u201d. Failure to do so could result in their operations being suspended for up to six months, and possibly forced liquidation. The majority of NGOs actively operating in Kyrgyzstan receive grants, including from international organisations and foreign donors. We are concerned that many of the affected NGOs could feel compelled to close to avoid being stigmatised as \u201cforeign representatives\u201d, exposed to arbitrary checks by the authorities, and having to pay for annual audits. Those that choose to be registered as \u201cforeign representatives\u201d could end up having to self-censor. This, in turn, would lead to legitimate public advocacy, human rights monitoring and reporting, and discussion of matters of public interest being seriously stifled. We call on the authorities to repeal the new law and ensure all future legislation fully respects international human rights law and standards. We also urge the authorities to engage in meaningful consultations with all relevant stakeholders, including civil society organisations and human rights defenders in this regard.\u201d",
+  "date": "08 April 2024"
+}

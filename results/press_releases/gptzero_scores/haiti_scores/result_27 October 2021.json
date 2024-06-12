@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "627009ce-8d90-4ccf-a5d2-643ace0ae248",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 209.57278442382812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000260334083577618,
+          "perplexity": 111,
+          "sentence": "Lives are \u201clikely to be lost\u201d in Haiti if fuel supplies do not reach hospitals immediately, according to the acting UN Humanitarian Coordinator in the country, Pierre Honnorat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024475916870869696,
+          "perplexity": 39,
+          "sentence": "Hospitals in the capital, Port-au Prince and other cities in the country are reporting extremely low reserves of the fuel they need to power the generators which keep services running.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002464969002176076,
+          "perplexity": 44,
+          "sentence": "In two of the capital's major hospitals, pediatric services for 300 children, maternal health care for 45 women and critical care for 70 other patients will be interrupted if supplies are not received by next Tuesday, 26 October, leading to a loss of lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030032932409085333,
+          "perplexity": 17,
+          "sentence": "The United Nations continues to provide emergency relief aid to the south-west of the country which was struck by a 7.2 magnitude earthquake in August.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002941932179965079,
+          "perplexity": 31,
+          "sentence": "Some 2,200 people died and 800,000 remain affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031048114760778844,
+          "perplexity": 21,
+          "sentence": "The upsurge in gang violence, along with the fuel shortages as a result of the blockades, have affected the delivery of assistance to the earthquake zone as well as to other areas of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003045577905140817,
+          "perplexity": 16,
+          "sentence": "The United Nations and its partners in Haiti remain committed to helping people in need, but to do so we need to be able to access those people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025555919273756444,
+          "perplexity": 21,
+          "sentence": "The UN calls on all the actors in Haiti who have an influence over the current situation to ensure that fuel supplies can be delivered to hospitals so that life-saving services can be provided to those in need and to ensure that humanitarian access to earthquake-affected people in the south-west is not further impeded.. For more information, contact: Daniel Dickinson, Communication Officer, UN Resident Coordinator's Office, Port-au-Prince, Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020114565268158913,
+          "perplexity": 660,
+          "sentence": "dickinsond@un.org +509 4638 6636",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Lives are \u201clikely to be lost\u201d in Haiti if fuel supplies do not reach hospitals immediately, according to the acting UN Humanitarian Coordinator in the country, Pierre Honnorat. Hospitals in the capital, Port-au Prince and other cities in the country are reporting extremely low reserves of the fuel they need to power the generators which keep services running. In two of the capital\u2019s major hospitals, pediatric services for 300 children, maternal health care for 45 women and critical care for 70 other patients will be interrupted if supplies are not received by next Tuesday, 26 October, leading to a loss of lives. The United Nations continues to provide emergency relief aid to the south-west of the country which was struck by a 7.2 magnitude earthquake in August. Some 2,200 people died and 800,000 remain affected. The upsurge in gang violence, along with the fuel shortages as a result of the blockades, have affected the delivery of assistance to the earthquake zone as well as to other areas of the country. The United Nations and its partners in Haiti remain committed to helping people in need, but to do so we need to be able to access those people. The UN calls on all the actors in Haiti who have an influence over the current situation to ensure that fuel supplies can be delivered to hospitals so that life-saving services can be provided to those in need and to ensure that humanitarian access to earthquake-affected people in the south-west is not further impeded.. For more information, contact: Daniel Dickinson, Communication Officer, UN Resident Coordinator\u2019s Office, Port-au-Prince, Haiti. dickinsond@un.org +509 4638 6636",
+  "date": "27 October 2021"
+}

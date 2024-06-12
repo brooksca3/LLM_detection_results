@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b77dbd83-c183-41b1-932b-53f0b3e8df54",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.08599090576172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016103812959045172,
+          "perplexity": 53,
+          "sentence": "The event brought together partners implementing programmes under the European Union Agri-food Business Development Programme, and national stakeholders involved in the development of the agricultural sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001251465582754463,
+          "perplexity": 43,
+          "sentence": "Baghdad, Iraq - 29 May 2023 - An event was held by partners implementing the European Union Agri-food Business Development Programme (AfBDP) in Baghdad on Monday (May 29) to discuss the development of farmers' organizations and cooperatives in Iraq and ways to strengthen their role so they can better respond to the needs of society, particularly the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001539481309009716,
+          "perplexity": 65,
+          "sentence": "The event marks the first in a series of events under the AfBDP, to showcase and discuss relevant topics under the boarder Agri-food Business Development Programme, which seeks to strengthen governance and promote sustainable job creation in Iraq's agri-foodsector through activities that address the entire food value chain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017652618407737464,
+          "perplexity": 35,
+          "sentence": "Social and solidarity economy entities such as cooperatives and farmers' organizations can play a crucial role in supporting the development of these value chains by facilitating coordination among farmers, improving access to markets and finance, and advocating for more conducive policy and regulatory reforms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010584216943243518,
+          "perplexity": 39,
+          "sentence": "\u201cThis event today is an opportunity, the first of its kind that brings together stakeholders from the various sectors of the government, the private sector and organizations, to come up with recommendations that will help regulate or organize cooperative work with a new concept\u2026I invite all organizations to provide their support so that we can modernize the concept of cooperative work in Iraq,\u201d said MithaqAbdul-Hussein, the Undersecretary of the Ministry of Agriculture.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010232307977275923,
+          "perplexity": 20,
+          "sentence": "The first event was attended by relevant entities, including representatives from the Council of Ministers, the Ministries of Labour and Social Affairs, Agriculture, Planning, Education and Higher Education, as well as workers' and employers' organizations, farmers' associations, civil society organizations, parliament, representatives from banks in Iraq, universities and research institutes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000110537264845334,
+          "perplexity": 1,
+          "sentence": "It",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event brought together partners implementing programmes under the European Union Agri-food Business Development Programme, and national stakeholders involved in the development of the agricultural sector. Baghdad, Iraq \u2013 29 May 2023 - An event was held by partners implementing the European Union Agri-food Business Development Programme (AfBDP) in Baghdad on Monday (May 29) to discuss the development of farmers\u2019 organizations and cooperatives in Iraq and ways to strengthen their role so they can better respond to the needs of society, particularly the most vulnerable. The event marks the first in a series of events under the AfBDP, to showcase and discuss relevant topics under the boarder Agri-food Business Development Programme, which seeks to strengthen governance and promote sustainable job creation in Iraq\u2019s agri-foodsector through activities that address the entire food value chain. Social and solidarity economy entities such as cooperatives and farmers' organizations can play a crucial role in supporting the development of these value chains by facilitating coordination among farmers, improving access to markets and finance, and advocating for more conducive policy and regulatory reforms. \u201cThis event today is an opportunity, the first of its kind that brings together stakeholders from the various sectors of the government, the private sector and organizations, to come up with recommendations that will help regulate or organize cooperative work with a new concept\u2026I invite all organizations to provide their support so that we can modernize the concept of cooperative work in Iraq,\u201d said MithaqAbdul-Hussein, the Undersecretary of the Ministry of Agriculture. The first event was attended by relevant entities, including representatives from the Council of Ministers, the Ministries of Labour and Social Affairs, Agriculture, Planning, Education and Higher Education, as well as workers\u2019 and employers\u2019 organizations, farmers\u2019 associations, civil society organizations, parliament, representatives from banks in Iraq, universities and research institutes. It",
+  "date": "29 May 2023"
+}

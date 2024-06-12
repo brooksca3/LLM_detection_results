@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5b67eedb-75cc-4eb2-aa24-e6ffa63e3d62",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4448765242225371,
+        "human": 0.5534889568940549,
+        "mixed": 0.0016345188834080617
+      },
+      "completely_generated_prob": 0.4448765242225371,
+      "confidence_category": "low",
+      "confidence_score": 0.5534889568940549,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4448765242225371,
+          "human": 0.5534889568940549,
+          "mixed": 0.0016345188834080617
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 54.16047668457031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.7955140744878513,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8386593461036682,
+          "perplexity": 34,
+          "sentence": "In a rapidly changing world pressured by climate change and increasing populations, sustainable land management (SLM) is vital for development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8442922830581665,
+          "perplexity": 32,
+          "sentence": "It can help to improve livelihoods, achieve food security and protect ecosystems while ensuring that land, as an important resource, is also sustained for the benefit of future generations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8449161648750305,
+          "perplexity": 48,
+          "sentence": "SLM includes technologies, policies and activities that allow the use of land resources - including soils, water, animals and plants - to produce goods that meet changing human needs, while ensuring the resources maintain productivity and environmental functions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.834205687046051,
+          "perplexity": 112,
+          "sentence": "For example, it may involve countries developing coherent policies and institutional framework that govern use and development of land.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8236818909645081,
+          "perplexity": 181,
+          "sentence": "SLM is also supported through knowledge sharing and lessons learnt to scale up good land management practices including among land users.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8243858218193054,
+          "perplexity": 68,
+          "sentence": "SLM recognizes that interaction between land resources, climate and human activities influence productivity and sustainability of land-use systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8063980340957642,
+          "perplexity": 26,
+          "sentence": "Globally and nationally, SLM remains a priority with partners like the Food and Agriculture Organization of the United Nations (FAO) actively involved in assisting member countries to create enabling environment for sustainable development of land resources to meet the ever-increasing needs and demands of the world's rapidly growing population and as a means for achieving Food Security for All (SDG 2).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7972798943519592,
+          "perplexity": 33,
+          "sentence": "With regards to Sustainable Development Goals (SDG), SLM is also linked to SDG 15: \u201cProtect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.\u201d More so, SLM is important to achieving SDG Target 15.3: \u201cBy 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.\u201d While it is recognized that all forms of land degradation cannot be stopped, it can be offset by improved management of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In a rapidly changing world pressured by climate change and increasing populations, sustainable land management (SLM) is vital for development. It can help to improve livelihoods, achieve food security and protect ecosystems while ensuring that land, as an important resource, is also sustained for the benefit of future generations. SLM includes technologies, policies and activities that allow the use of land resources \u2013 including soils, water, animals and plants \u2013 to produce goods that meet changing human needs, while ensuring the resources maintain productivity and environmental functions. For example, it may involve countries developing coherent policies and institutional framework that govern use and development of land. SLM is also supported through knowledge sharing and lessons learnt to scale up good land management practices including among land users. SLM recognizes that interaction between land resources, climate and human activities influence productivity and sustainability of land-use systems. Globally and nationally, SLM remains a priority with partners like the Food and Agriculture Organization of the United Nations (FAO) actively involved in assisting member countries to create enabling environment for sustainable development of land resources to meet the ever-increasing needs and demands of the world\u2019s rapidly growing population and as a means for achieving Food Security for All (SDG 2). With regards to Sustainable Development Goals (SDG), SLM is also linked to SDG 15: \u201cProtect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss.\u201d More so, SLM is important to achieving SDG Target 15.3: \u201cBy 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world.\u201d While it is recognized that all forms of land degradation cannot be stopped, it can be offset by improved management of",
+  "date": "21 May 2021"
+}

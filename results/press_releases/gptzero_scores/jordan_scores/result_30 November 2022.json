@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca1fbe21-6560-42ec-8a8b-3514ee457fcd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.13932991027832,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005944613367319107,
+          "perplexity": 19,
+          "sentence": "Establishing a Regional Pesticide Management Network in the Near East and North Africa is a Key Recommendations of the Workshop Amman - The Food and Agriculture Organization of the United Nations (FAO) concluded the regional workshop on the Sound Management of Pesticides in the Near East and North Africa (NENA) region, which lasted for three days, from 28 to 30 November, in the Jordanian capital, Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0055366456508636475,
+          "perplexity": 42,
+          "sentence": "The workshop came in cooperation with the FAO Plant Production and Protection Division (NSP) and the Ministry of Agriculture in the Hashemite Kingdom of Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0054365829564630985,
+          "perplexity": 40,
+          "sentence": "The workshop introduced a set of recommendations on the Sound Management of Pesticides, calling for the adoption of the Farmer Field Schools (FFS), the launch of a training program for pesticide applicators, in addition to the creation of a regional information base to assess the risks of pesticides in coordination with FAO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004379145801067352,
+          "perplexity": 59,
+          "sentence": "At the end of the workshop, the recommendations also emphasized the need for the countries of the NENA region to cooperate into the reduction of pesticide smuggling by unifying and harmonizing legislation and adopting an electronic system for the validation of pesticide registration certificates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004492831416428089,
+          "perplexity": 80,
+          "sentence": "\u201cThe responsibility of all stakeholders and operating parties in this sector lies in exerting great efforts and employing appropriate expertise for the better use of pesticides and the reduction of their residues in food,\u201d emphasized Dr. Thaer Yaseen, Regional Plant Protection officer at FAO Office for the Near East and North Africa.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0056452322751283646,
+          "perplexity": 92,
+          "sentence": "\"Our goal is to secure sufficient, safe, and sustainable food for all,\u201d added Yaseen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005131926853209734,
+          "perplexity": 48,
+          "sentence": "During the workshop, participants from NENA received training on the guidelines for the registration of microbial, botanical, and semi-chemical pesticides as well as on how to mitigate the risks of highly hazardous pesticides (HHPs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005586046259850264,
+          "perplexity": 56,
+          "sentence": "The training also touched on the International Code of Conduct for Pesticide Management,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Establishing a Regional Pesticide Management Network in the Near East and North Africa is a Key Recommendations of the Workshop Amman - The Food and Agriculture Organization of the United Nations (FAO) concluded the regional workshop on the Sound Management of Pesticides in the Near East and North Africa (NENA) region, which lasted for three days, from 28 to 30 November, in the Jordanian capital, Amman. The workshop came in cooperation with the FAO Plant Production and Protection Division (NSP) and the Ministry of Agriculture in the Hashemite Kingdom of Jordan. The workshop introduced a set of recommendations on the Sound Management of Pesticides, calling for the adoption of the Farmer Field Schools (FFS), the launch of a training program for pesticide applicators, in addition to the creation of a regional information base to assess the risks of pesticides in coordination with FAO. At the end of the workshop, the recommendations also emphasized the need for the countries of the NENA region to cooperate into the reduction of pesticide smuggling by unifying and harmonizing legislation and adopting an electronic system for the validation of pesticide registration certificates. \u201cThe responsibility of all stakeholders and operating parties in this sector lies in exerting great efforts and employing appropriate expertise for the better use of pesticides and the reduction of their residues in food,\u201d emphasized Dr. Thaer Yaseen, Regional Plant Protection officer at FAO Office for the Near East and North Africa. \"Our goal is to secure sufficient, safe, and sustainable food for all,\u201d added Yaseen. During the workshop, participants from NENA received training on the guidelines for the registration of microbial, botanical, and semi-chemical pesticides as well as on how to mitigate the risks of highly hazardous pesticides (HHPs). The training also touched on the International Code of Conduct for Pesticide Management,",
+  "date": "30 November 2022"
+}

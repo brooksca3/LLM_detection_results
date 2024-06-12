@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b15f08d9-0eb1-47da-be24-df89f9a81d18",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.479793548583984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007294184761121869,
+          "perplexity": 71,
+          "sentence": "\u201cThis generous fund is a continuation of the Italian government's support to the health system in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006395776872523129,
+          "perplexity": 41,
+          "sentence": "As always we remain true to our motto that health should be available for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005479886312969029,
+          "perplexity": 151,
+          "sentence": "And I like to add that no one should be left behind,\u201d said Dr. Iman Shankiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005842571845278144,
+          "perplexity": 29,
+          "sentence": "This project is implemented by WHO in close coordination with the Ministry of Public Health (MOPH) in Lebanon in line with the Ministry's priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007472485885955393,
+          "perplexity": 76,
+          "sentence": "Nicoletta Bombardiere, Ambassador of Italy in Lebanon, said: \u201cThe goal of the Italian Cooperation is to contribute to global health by promoting universal health coverage, equity and access to health for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006957461591809988,
+          "perplexity": 59,
+          "sentence": "Strengthening the public health system and improving quality health services are key examples of our strategy in this sector in Lebanon.\u201d Alessandra Piermattei, Director of AICS Beirut, said: \u201cFor the Italian Cooperation, health is an essential aspect of the social and economic development of the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005404088296927512,
+          "perplexity": 27,
+          "sentence": "For this reason, we consider access to medicine and health care very important in the current difficult context in Lebanon.\u201d The government of Italy has always been at the forefront of supporting the Lebanese people by providing generous contributions for to the strengthening of the health system, both in terms of governance as well as infrastructure, and in terms of improving the quality of care, especially in emergency care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004186541773378849,
+          "perplexity": 34,
+          "sentence": "Furthermore, the Government of Italy provided an emergency donation of pediatric cancer medications, with a value of 500,000 euros, that were delivered to the Lebanese Ministry of Public Health through the World Health Organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003519532911013812,
+          "perplexity": 72,
+          "sentence": "WHO Lebanon, Hala Habib, WHO communication officer, hhabib@who.int, +961 3 870 459 Tel +961 (05) 954955, Fax+961 (05) 959616, Press.Beirut@esteri.it",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cThis generous fund is a continuation of the Italian government\u2019s support to the health system in Lebanon. As always we remain true to our motto that health should be available for all. And I like to add that no one should be left behind,\u201d said Dr. Iman Shankiti. This project is implemented by WHO in close coordination with the Ministry of Public Health (MOPH) in Lebanon in line with the Ministry\u2019s priorities. Nicoletta Bombardiere, Ambassador of Italy in Lebanon, said: \u201cThe goal of the Italian Cooperation is to contribute to global health by promoting universal health coverage, equity and access to health for all. Strengthening the public health system and improving quality health services are key examples of our strategy in this sector in Lebanon.\u201d Alessandra Piermattei, Director of AICS Beirut, said: \u201cFor the Italian Cooperation, health is an essential aspect of the social and economic development of the population. For this reason, we consider access to medicine and health care very important in the current difficult context in Lebanon.\u201d The government of Italy has always been at the forefront of supporting the Lebanese people by providing generous contributions for to the strengthening of the health system, both in terms of governance as well as infrastructure, and in terms of improving the quality of care, especially in emergency care. Furthermore, the Government of Italy provided an emergency donation of pediatric cancer medications, with a value of 500,000 euros, that were delivered to the Lebanese Ministry of Public Health through the World Health Organization. WHO Lebanon, Hala Habib, WHO communication officer, hhabib@who.int, +961 3 870 459 Tel +961 (05) 954955 , Fax+961 (05) 959616 , Press.Beirut@esteri.it",
+  "date": "19 May 2022"
+}

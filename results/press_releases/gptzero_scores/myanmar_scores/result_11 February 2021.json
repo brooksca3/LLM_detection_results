@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dc934d29-2478-4461-a133-b957f48612cf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05169036241132647,
+        "human": 0.9476566442076518,
+        "mixed": 0.0006529933810216378
+      },
+      "completely_generated_prob": 0.05169036241132647,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476566442076518,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05169036241132647,
+          "human": 0.9476566442076518,
+          "mixed": 0.0006529933810216378
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.40445899963379,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02836746536195278,
+          "perplexity": 29,
+          "sentence": "In light of recent political events in Myanmar, UN Women expresses strong concern over the use of force by security forces against peaceful demonstrators including women and calls upon all stakeholders to listen to the voices of Myanmar women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02405489608645439,
+          "perplexity": 67,
+          "sentence": "On 9 February 2021, there were several reports from Nay Pyi Taw, Mandalay and other cities in Myanmar of demonstrators having been injured by security forces in connection with the peaceful disobedience movement sweeping across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024855582043528557,
+          "perplexity": 41,
+          "sentence": "It was later confirmed that Ma Mya Thwate Thwate Khaing a 19-year old woman, who was shot in the head by security forces, was the first reported victim of this violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022281872108578682,
+          "perplexity": 26,
+          "sentence": "Doctors have confirmed since that the young woman is currently in critical condition and being kept on life support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022222645580768585,
+          "perplexity": 103,
+          "sentence": "Ma Mya Thwate Thwate Khaing should have been celebrating her 20th birthday today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027325786650180817,
+          "perplexity": 22,
+          "sentence": "UN Women extends its deepest sympathy to her family and friends and calls upon the military and police to refrain from using disproportionate force against demonstrators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028593089431524277,
+          "perplexity": 23,
+          "sentence": "Over the past decade, the women and women civil society organizations of Myanmar have played an essential role in the transition process towards a prosperous and democratic society and have been central in advocating for peace and inclusive governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025751765817403793,
+          "perplexity": 31,
+          "sentence": "During the past year, we have also seen the women of Myanmar, in all sectors of society, rise to the occasion and stand firm on the frontlines of the country's efforts to prevent and respond to the COVID-19 pandemic, even though the crisis was disproportionally impacting them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028630129992961884,
+          "perplexity": 18,
+          "sentence": "Today, UN Women stands in solidarity with the women and women's civil society organizations of Myanmar as they seek to exercise their fundamental right to demonstrate peacefully and express their hopes and desires for the future of their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02690177969634533,
+          "perplexity": 82,
+          "sentence": "We urge all stakeholders in Myanmar and abroad to listen",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In light of recent political events in Myanmar, UN Women expresses strong concern over the use of force by security forces against peaceful demonstrators including women and calls upon all stakeholders to listen to the voices of Myanmar women. On 9 February 2021, there were several reports from Nay Pyi Taw, Mandalay and other cities in Myanmar of demonstrators having been injured by security forces in connection with the peaceful disobedience movement sweeping across the country. It was later confirmed that Ma Mya Thwate Thwate Khaing a 19-year old woman, who was shot in the head by security forces, was the first reported victim of this violence. Doctors have confirmed since that the young woman is currently in critical condition and being kept on life support. Ma Mya Thwate Thwate Khaing should have been celebrating her 20th birthday today. UN Women extends its deepest sympathy to her family and friends and calls upon the military and police to refrain from using disproportionate force against demonstrators. Over the past decade, the women and women civil society organizations of Myanmar have played an essential role in the transition process towards a prosperous and democratic society and have been central in advocating for peace and inclusive governance. During the past year, we have also seen the women of Myanmar, in all sectors of society, rise to the occasion and stand firm on the frontlines of the country\u2019s efforts to prevent and respond to the COVID-19 pandemic, even though the crisis was disproportionally impacting them. Today, UN Women stands in solidarity with the women and women\u2019s civil society organizations of Myanmar as they seek to exercise their fundamental right to demonstrate peacefully and express their hopes and desires for the future of their country. We urge all stakeholders in Myanmar and abroad to listen",
+  "date": "11 February 2021"
+}

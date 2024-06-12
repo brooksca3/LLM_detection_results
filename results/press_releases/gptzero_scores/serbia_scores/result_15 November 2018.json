@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7a262599-0b51-4851-bcd7-22bae6a3d22b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.16620635986328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002832912723533809,
+          "perplexity": 43,
+          "sentence": "Belgrade, 15-November-2018 - Total antibiotic consumption in Serbia for systemic use has been reduced by 32.8 percent, from 36.5 defined daily doses per 1,000 inhabitants in 2015 to 24.53 in 2017.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032882715458981693,
+          "perplexity": 27,
+          "sentence": "Very good results have also been achieved in the field of pediatrics with the rate of prescribed antibiotics per 1,000 children reduced by 12 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000317496684147045,
+          "perplexity": 43,
+          "sentence": "The outcomes of a three-year effort in combating antimicrobial resistance were presented at a conference on the occasion of the World Antibiotic Awareness Week 2018 with participation of Dr Zlatibor Loncar, Minister of Health, Dr Zsofia Pusztai, WHO representative in Serbia, Dr Verica Jovanovic, Director of the Institute of Public Health of Serbia, Dr Sanja Radojevic Skodric, Director of the Health Insurance Fund and representatives of other ministries, international partners, associations, civil sector and the media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042118041892535985,
+          "perplexity": 38,
+          "sentence": "Pointing to the dangers of inappropriate antibiotic use and appealing to the public, Dr Pusztai encouraged citizens to think twice and seek advice and only use antimicrobials if and when prescribed by a health professional.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046395714161917567,
+          "perplexity": 36,
+          "sentence": "She also pointed to this year's focus on taking a One Health approach, recognizing that human health, animal health and environment health are inextricably linked.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048095377860590816,
+          "perplexity": 31,
+          "sentence": "Through statements to the media, the public was warned that excessive use of antibiotics by certain bacteria became resistant to them, and that infections caused by such bacteria could lead to complicated treatment or even fatal outcomes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002558575652074069,
+          "perplexity": 53,
+          "sentence": "Strengthened surveillance of antimicrobial use in Serbia was enforced in the past few years along with effective campaigning for the rational use of antibiotics which was launched by the Serbian Ministry of Health, supported by WHO and implemented through the Second Serbia Health Project funded by the World Bank.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042413113988004625,
+          "perplexity": 121,
+          "sentence": "Addressing antimicrobial resistance in itself, and particularly by adopting the One Health approach, would contribute to Serbia's progression towards achieving the Sustainable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 15-November-2018 - Total antibiotic consumption in Serbia for systemic use has been reduced by 32.8 percent, from 36.5 defined daily doses per 1,000 inhabitants in 2015 to 24.53 in 2017. Very good results have also been achieved in the field of pediatrics with the rate of prescribed antibiotics per 1,000 children reduced by 12 percent. The outcomes of a three-year effort in combating antimicrobial resistance were presented at a conference on the occasion of the World Antibiotic Awareness Week 2018 with participation of Dr Zlatibor Loncar, Minister of Health, Dr Zsofia Pusztai, WHO representative in Serbia, Dr Verica Jovanovic, Director of the Institute of Public Health of Serbia, Dr Sanja Radojevic Skodric, Director of the Health Insurance Fund and representatives of other ministries, international partners, associations, civil sector and the media. Pointing to the dangers of inappropriate antibiotic use and appealing to the public, Dr Pusztai encouraged citizens to think twice and seek advice and only use antimicrobials if and when prescribed by a health professional. She also pointed to this year\u2019s focus on taking a One Health approach, recognizing that human health, animal health and environment health are inextricably linked. Through statements to the media, the public was warned that excessive use of antibiotics by certain bacteria became resistant to them, and that infections caused by such bacteria could lead to complicated treatment or even fatal outcomes. Strengthened surveillance of antimicrobial use in Serbia was enforced in the past few years along with effective campaigning for the rational use of antibiotics which was launched by the Serbian Ministry of Health, supported by WHO and implemented through the Second Serbia Health Project funded by the World Bank. Addressing antimicrobial resistance in itself, and particularly by adopting the One Health approach, would contribute to Serbia\u2019s progression towards achieving the Sustainable",
+  "date": "15 November 2018"
+}

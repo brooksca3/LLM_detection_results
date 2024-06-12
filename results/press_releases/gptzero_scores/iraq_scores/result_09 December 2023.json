@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "30912371-eedc-4ec2-bef7-89ac6faf6bf5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.70329666137695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018103861657436937,
+          "perplexity": 32,
+          "sentence": "The Government of Iraq, UNICEF and Germany inaugurate wastewater treatment plants at the largest medical complex in Iraq Baghdad, Iraq - 9 December 2023 - Today, the Government of Iraq, UNICEF and the German delegation inaugurated eight wastewater treatment plants at the Medical City in Baghdad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001736964622978121,
+          "perplexity": 43,
+          "sentence": "The eight plants of the largest medical complex in Iraq will benefit more than 3.5 million people in Baghdad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027585579664446414,
+          "perplexity": 34,
+          "sentence": "Dr. Maximilian Rasch, Charg\u00e9 d'Affaires of the German Embassy stressed in his opening remarks that \u201cThis climate-resilient project mitigates the impact of water scarcity, secures a greener environment, and raises awareness of the importance of wastewater treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023719387536402792,
+          "perplexity": 185,
+          "sentence": "It also directly benefits local communities in Baghdad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022090166748967022,
+          "perplexity": 39,
+          "sentence": "Germany is a prime partner of the Iraqi Government and will continue to support the country and its people.\u201d Before the installment and operationalization of these wastewater treatment plants, more than 2,300m3 of untreated water was discharged into the Tigris River daily.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004046191752422601,
+          "perplexity": 70,
+          "sentence": "The discharged untreated water degrades natural resources and puts the health of children and their families at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027839248650707304,
+          "perplexity": 101,
+          "sentence": "\u201cI am proud to witness the operationalization of these wastewater treatment plants,\u201d said Dr. Anna- Christine Janke, Director of the Office of the German Development Bank KfW in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003657088673207909,
+          "perplexity": 105,
+          "sentence": "\u201cIt is a further example of our partnership with UNICEF in contributing to improved water sanitation,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024344419944100082,
+          "perplexity": 32,
+          "sentence": "\u201cUNICEF is committed to supporting the Government of Iraq in upholding the rights of children to quality health care and safe environment as enshrined in the Convention on the Rights of the Child,\u201d said Sandra Lattouf, UNICEF in Iraq Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002559930144343525,
+          "perplexity": 62,
+          "sentence": "\u201cThis project is part of our commitment to mitigate climate change and secure a better and greener environment towards achieving the Sustainable Development Goals.\u201d With funding from the German Government, through the German Development Bank, KfW, UNICEF supported Baghdad Medical City in installing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Iraq, UNICEF and Germany inaugurate wastewater treatment plants at the largest medical complex in Iraq Baghdad, Iraq \u2013 9 December 2023 \u2013 Today, the Government of Iraq, UNICEF and the German delegation inaugurated eight wastewater treatment plants at the Medical City in Baghdad. The eight plants of the largest medical complex in Iraq will benefit more than 3.5 million people in Baghdad. Dr. Maximilian Rasch, Charg\u00e9 d\u2019Affaires of the German Embassy stressed in his opening remarks that \u201cThis climate-resilient project mitigates the impact of water scarcity, secures a greener environment, and raises awareness of the importance of wastewater treatment. It also directly benefits local communities in Baghdad. Germany is a prime partner of the Iraqi Government and will continue to support the country and its people.\u201d Before the installment and operationalization of these wastewater treatment plants, more than 2,300m3 of untreated water was discharged into the Tigris River daily. The discharged untreated water degrades natural resources and puts the health of children and their families at risk. \u201cI am proud to witness the operationalization of these wastewater treatment plants,\u201d said Dr. Anna- Christine Janke, Director of the Office of the German Development Bank KfW in Iraq. \u201cIt is a further example of our partnership with UNICEF in contributing to improved water sanitation,\u201d she added. \u201cUNICEF is committed to supporting the Government of Iraq in upholding the rights of children to quality health care and safe environment as enshrined in the Convention on the Rights of the Child,\u201d said Sandra Lattouf, UNICEF in Iraq Representative. \u201cThis project is part of our commitment to mitigate climate change and secure a better and greener environment towards achieving the Sustainable Development Goals.\u201d With funding from the German Government, through the German Development Bank, KfW, UNICEF supported Baghdad Medical City in installing",
+  "date": "09 December 2023"
+}

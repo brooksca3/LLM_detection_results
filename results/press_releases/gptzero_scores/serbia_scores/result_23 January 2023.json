@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c379615f-8ec9-4f5b-94bb-9a5125c2d85c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.377634048461914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0019259399268776178,
+          "perplexity": 66,
+          "sentence": "Belgrade, January 23, 2023 - The European Cervical Cancer Prevention Week, celebrated from 23 to 29 January this year, was marked in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016967132687568665,
+          "perplexity": 45,
+          "sentence": "According to data from the Cancer Registry of the Institute for Public Health of Serbia \"Dr. Milan Jovanovi\u0107 Batut,\" in 2020, 1,087 newly diagnosed women were registered in Serbia, and 453 women died of this malignant disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019417799776419997,
+          "perplexity": 23,
+          "sentence": "Based on the latest estimates of the European Information System for the year 2020, Serbia ranks fifth in Europe after Montenegro, Romania, Estonia, and Lithuania, with an incidence rate of 26.3 per 100,000 women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018656436586752534,
+          "perplexity": 15,
+          "sentence": "Cervical cancer death rates are also high at 9.1 per 100,000 women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014376958133652806,
+          "perplexity": 19,
+          "sentence": "Traditionally, the United Nations Population Fund (UNFPA), in cooperation with the Institute for Public Health of Serbia, the Ministry of Health, and the Committee for International Cooperation of Medical Students - Serbia, organized educational and health-promotion activities in four dormitories in Belgrade that lasted throughout the week.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013282938161864877,
+          "perplexity": 50,
+          "sentence": "These activities aimed to raise awareness of the importance of regular preventive examinations and the understanding that primary and secondary prevention measures can almost entirely prevent this disease: timely immunization against the Human Papillomavirus and regular controls and preventive examinations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0057213157415390015,
+          "perplexity": 43,
+          "sentence": "The beginning of European Cervical Cancer Prevention Week kicked off with a press conference on Monday, January 23, while public actions in student dormitories continued until Friday, January 27.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003335267538204789,
+          "perplexity": 38,
+          "sentence": "Dr. Verica Jovanovic, director of the Institute for Public Health of Serbia \"Dr. Milan Jovanovi\u0107 Batut,\" prof. Dr. Ferenc Vicko, State Secretary in the Ministry of Health, Prof. Sanja Radojevic Skodric, director of the Republic Fund for Health Insurance, Prof. Dr. Ana Banko from the Institute of Microbiology and Immunology of the Faculty of Medicine in Belgrade, Dr. Jelena Mitrovic in front of HC Simo Milo\u0161evi\u0107 and Ms. Borka Jeremi\u0107, head of the UNFPA office in Serbia spoke",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, January 23, 2023 - The European Cervical Cancer Prevention Week, celebrated from 23 to 29 January this year, was marked in Serbia. According to data from the Cancer Registry of the Institute for Public Health of Serbia \"Dr. Milan Jovanovi\u0107 Batut,\" in 2020, 1,087 newly diagnosed women were registered in Serbia, and 453 women died of this malignant disease. Based on the latest estimates of the European Information System for the year 2020, Serbia ranks fifth in Europe after Montenegro, Romania, Estonia, and Lithuania, with an incidence rate of 26.3 per 100,000 women. Cervical cancer death rates are also high at 9.1 per 100,000 women. Traditionally, the United Nations Population Fund (UNFPA), in cooperation with the Institute for Public Health of Serbia, the Ministry of Health, and the Committee for International Cooperation of Medical Students - Serbia, organized educational and health-promotion activities in four dormitories in Belgrade that lasted throughout the week. These activities aimed to raise awareness of the importance of regular preventive examinations and the understanding that primary and secondary prevention measures can almost entirely prevent this disease: timely immunization against the Human Papillomavirus and regular controls and preventive examinations. The beginning of European Cervical Cancer Prevention Week kicked off with a press conference on Monday, January 23, while public actions in student dormitories continued until Friday, January 27. Dr. Verica Jovanovic, director of the Institute for Public Health of Serbia \"Dr. Milan Jovanovi\u0107 Batut,\" prof. Dr. Ferenc Vicko, State Secretary in the Ministry of Health, Prof. Sanja Radojevic Skodric, director of the Republic Fund for Health Insurance, Prof. Dr. Ana Banko from the Institute of Microbiology and Immunology of the Faculty of Medicine in Belgrade, Dr. Jelena Mitrovic in front of HC Simo Milo\u0161evi\u0107 and Ms. Borka Jeremi\u0107, head of the UNFPA office in Serbia spoke",
+  "date": "23 January 2023"
+}

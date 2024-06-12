@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a5ef5c37-3d07-4eef-b69d-c184fd8bf537",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05362152918762895,
+        "human": 0.9457949897669803,
+        "mixed": 0.0005834810453909104
+      },
+      "completely_generated_prob": 0.05362152918762895,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457949897669803,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05362152918762895,
+          "human": 0.9457949897669803,
+          "mixed": 0.0005834810453909104
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.12833786010742,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0342007577419281,
+          "perplexity": 26,
+          "sentence": "26 October 2021 - Amman, Jordan: The United Nations Development Programme (UNDP) welcomes the generous US$9 million contribution of the Ministry of Foreign Affairs of the Netherlands to promote safety and justice in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03816332668066025,
+          "perplexity": 35,
+          "sentence": "The violent conflict in Yemen has resulted in the collapse of several public institutions, including the Rule of Law, forcing Yemenis to rely on dysfunctional services, damaged or destroyed infrastructure, limited equipment, and reduced human resource capacities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.035608578473329544,
+          "perplexity": 34,
+          "sentence": "Compounded by a lack of inclusiveness in decision making and increasing corruption, the ability of the Yemeni population to live in safety and security, with access to effective justice, has become difficult.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03355973958969116,
+          "perplexity": 25,
+          "sentence": "The funding will help establish a new three-year project, Promoting Inclusive Access to Justice in Yemen (PIAJ), that aims to strengthen the resilience of institutions and communities, and to maintain a foundation for recovery and reconstruction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029946891590952873,
+          "perplexity": 65,
+          "sentence": "It will be Implemented in the four governorates of Aden, Hadramout, Hodeidah and Sana'a and has four key focus areas: \u201cFragmented public institutions not only prevent inclusive access to justice, but the trickle-down effects of unstable Rule of Law institutions can seriously stifle Yemen's economic, social and political recovery,\" says Auke Lootsma, UNDP Yemen Resident Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03371408209204674,
+          "perplexity": 29,
+          "sentence": "\"By restoring the community's trust in local authorities and justice services, Yemenis have more opportunity to rebuild their lives and livelihoods, provide for their families, and facilitate access to education for the next generation.\u201d Building on this, Ambassador of the Kingdom of the Netherlands, Mr. Peter Derrek Hof adds, \u201cAccess to justice for all, including the most vulnerable and marginalized groups is not only a priority for the Netherlands, but is also essential for a just and inclusive peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03652620688080788,
+          "perplexity": 24,
+          "sentence": "We are excited to strengthen our partnership with UNDP to promote people-centered justice and the rule of law in Yemen\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03465224429965019,
+          "perplexity": 126,
+          "sentence": "The PIAJ project is committed to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "26 October 2021 \u2013 Amman, Jordan: The United Nations Development Programme (UNDP) welcomes the generous US$9 million contribution of the Ministry of Foreign Affairs of the Netherlands to promote safety and justice in Yemen. The violent conflict in Yemen has resulted in the collapse of several public institutions, including the Rule of Law, forcing Yemenis to rely on dysfunctional services, damaged or destroyed infrastructure, limited equipment, and reduced human resource capacities. Compounded by a lack of inclusiveness in decision making and increasing corruption, the ability of the Yemeni population to live in safety and security, with access to effective justice, has become difficult. The funding will help establish a new three-year project, Promoting Inclusive Access to Justice in Yemen (PIAJ), that aims to strengthen the resilience of institutions and communities, and to maintain a foundation for recovery and reconstruction. It will be Implemented in the four governorates of Aden, Hadramout, Hodeidah and Sana\u2019a and has four key focus areas: \u201cFragmented public institutions not only prevent inclusive access to justice, but the trickle-down effects of unstable Rule of Law institutions can seriously stifle Yemen\u2019s economic, social and political recovery,\" says Auke Lootsma, UNDP Yemen Resident Representative. \"By restoring the community\u2019s trust in local authorities and justice services, Yemenis have more opportunity to rebuild their lives and livelihoods, provide for their families, and facilitate access to education for the next generation.\u201d Building on this, Ambassador of the Kingdom of the Netherlands, Mr. Peter Derrek Hof adds, \u201cAccess to justice for all, including the most vulnerable and marginalized groups is not only a priority for the Netherlands, but is also essential for a just and inclusive peace. We are excited to strengthen our partnership with UNDP to promote people-centered justice and the rule of law in Yemen\". The PIAJ project is committed to",
+  "date": "28 October 2021"
+}

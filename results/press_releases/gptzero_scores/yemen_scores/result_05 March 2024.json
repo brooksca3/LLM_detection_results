@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5dbabfbb-a4ff-4cc1-b8cf-549cc31fea7d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.799518585205078,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.08510543406009674,
+          "perplexity": 25,
+          "sentence": "In just 4 days, a polio immunization campaign in Yemen has reached more than 1.29 million children aged under 5 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08394745737314224,
+          "perplexity": 46,
+          "sentence": "Overall, the campaign achieved 101% coverage, with a range of 89% to over 100%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07766176015138626,
+          "perplexity": 10,
+          "sentence": "Yemen's Ministry of Public Health and Population collaborated with the United Nations Children's Fund (UNICEF) and the World Health Organization (WHO) to deliver this successful campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07829975336790085,
+          "perplexity": 51,
+          "sentence": "\u201cThis is an important step to protect children from deadly childhood diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07885283976793289,
+          "perplexity": 100,
+          "sentence": "With confirmed cases of polio among Yemeni children, an imminent threat persists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08199665695428848,
+          "perplexity": 24,
+          "sentence": "This is an ongoing risk to the life of every unvaccinated child.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08020072430372238,
+          "perplexity": 50,
+          "sentence": "Health authorities and donors must continue to work together to ensure universal immunization coverage for all children across Yemen,\u201d said Peter Hawkins, UNICEF Representative in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07707297801971436,
+          "perplexity": 44,
+          "sentence": "\u201cThis is a major achievement in advancing the health outcomes and well-being of children in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06247119978070259,
+          "perplexity": 23,
+          "sentence": "Poliovirus and other childhood diseases can cause permanent disabilities and, in many cases, death.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06317730247974396,
+          "perplexity": 37,
+          "sentence": "But a small dose of vaccine can provide the necessary protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06525760143995285,
+          "perplexity": 9,
+          "sentence": "There is no reason for children to die of vaccine-preventable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06477337330579758,
+          "perplexity": 83,
+          "sentence": "Children are the future, and all investment in their health is an investment in the development of the country,\u201d said Dr Arturo Pesigan, WHO Representative in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06646934896707535,
+          "perplexity": 36,
+          "sentence": "The campaign was implemented with the generous support of the Global Polio Eradication Initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05568796023726463,
+          "perplexity": 85,
+          "sentence": "Through this campaign, Yemen joined more than 35 countries in using the novel oral polio vaccine type 2 (nOPV2), which has been granted WHO prequalification.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05341256409883499,
+          "perplexity": 36,
+          "sentence": "The success of the campaign also resulted from joining forces with health providers who worked hard to reach unvaccinated and zero-dose children to reduce the spread of the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04769616946578026,
+          "perplexity": 28,
+          "sentence": "From 2021 to 2023, Yemen reported 237 variant poliovirus type 2 cases - both circulating vaccine-derived poliovirus type 2 (cVDPV2) and vaccine-derived poliovirus (VDPV).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03734093904495239,
+          "perplexity": 114,
+          "sentence": "These are known to emerge in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In just 4 days, a polio immunization campaign in Yemen has reached more than 1.29 million children aged under 5 years. Overall, the campaign achieved 101% coverage, with a range of 89% to over 100%. Yemen\u2019s Ministry of Public Health and Population collaborated with the United Nations Children\u2019s Fund (UNICEF) and the World Health Organization (WHO) to deliver this successful campaign. \u201cThis is an important step to protect children from deadly childhood diseases. With confirmed cases of polio among Yemeni children, an imminent threat persists. This is an ongoing risk to the life of every unvaccinated child. Health authorities and donors must continue to work together to ensure universal immunization coverage for all children across Yemen,\u201d said Peter Hawkins, UNICEF Representative in Yemen. \u201cThis is a major achievement in advancing the health outcomes and well-being of children in Yemen. Poliovirus and other childhood diseases can cause permanent disabilities and, in many cases, death. But a small dose of vaccine can provide the necessary protection. There is no reason for children to die of vaccine-preventable diseases. Children are the future, and all investment in their health is an investment in the development of the country,\u201d said Dr Arturo Pesigan, WHO Representative in Yemen. The campaign was implemented with the generous support of the Global Polio Eradication Initiative. Through this campaign, Yemen joined more than 35 countries in using the novel oral polio vaccine type 2 (nOPV2), which has been granted WHO prequalification. The success of the campaign also resulted from joining forces with health providers who worked hard to reach unvaccinated and zero-dose children to reduce the spread of the disease. From 2021 to 2023, Yemen reported 237 variant poliovirus type 2 cases \u2013 both circulating vaccine-derived poliovirus type 2 (cVDPV2) and vaccine-derived poliovirus (VDPV). These are known to emerge in",
+  "date": "05 March 2024"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0e735a46-f070-46f0-bb04-ff01d42fd6a6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 109.00873565673828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.009003756567835808,
+          "perplexity": 49,
+          "sentence": "Stressing the primary role of affected communities during crises, the UN Humanitarian Coordinator in Lebanon and the UNOCHA celebrated the occasion by presenting and honoring the work of five local organizations in Lebanon: Egna Legna, the Lebanese Red Cross, the Lebanese Union for People with Physical Disabilities, Women-Now for Development and Women's Programs Association.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011045699007809162,
+          "perplexity": 30,
+          "sentence": "Representatives from the five honored organizations underscored in their statement the significance of this recognition, reaffirming their commitment to principled humanitarian action to serve Lebanon's most vulnerable communities, including Lebanese, refugees, migrants, and people with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010724269784986973,
+          "perplexity": 28,
+          "sentence": "The ceremony commemorated the 20th anniversary of the tragic bombing at the United Nations compound in Baghdad on 19 August 2003, and celebrated humanitarian workers around the world for their unwavering commitment to deliver for the communities they serve, no matter who, no matter where and #NoMatterWhat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008218573406338692,
+          "perplexity": 28,
+          "sentence": "In her opening remarks, the UNOCHA Head of Office in Lebanon, Ms. S\u00e9verine Rey paid tribute to humanitarian workers killed in the line of duty and reaffirmed the principles underpinning humanitarian action, calling for the protection, well-being and dignity of all people affected by crises, and for the safety and security of the aid workers who support them: \u201cAttacks on aid workers and facilities - as attacks on civilians - are violation of international law and perpetrators must be held accountable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01091939676553011,
+          "perplexity": 328,
+          "sentence": "We are #NotATarget.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00896213948726654,
+          "perplexity": 50,
+          "sentence": "We are here for one sole purpose: saving and protecting lives.\u201d Commending the commitment of all humanitarians in Lebanon, Mr. Imran Riza said, \u201cToday, we are here to recognize and honor the dedication of humanitarian workers in Lebanon, particularly those, the most numerous, who are from the very communities they serve.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009916745126247406,
+          "perplexity": 70,
+          "sentence": "Through their engagement, they show us that despite the challenges, a remarkable sense of shared humanity continues to prevail in Lebanon and that many resourcefully seek out solutions",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Stressing the primary role of affected communities during crises, the UN Humanitarian Coordinator in Lebanon and the UNOCHA celebrated the occasion by presenting and honoring the work of five local organizations in Lebanon: Egna Legna, the Lebanese Red Cross, the Lebanese Union for People with Physical Disabilities, Women-Now for Development and Women\u2019s Programs Association. Representatives from the five honored organizations underscored in their statement the significance of this recognition, reaffirming their commitment to principled humanitarian action to serve Lebanon's most vulnerable communities, including Lebanese, refugees, migrants, and people with disabilities. The ceremony commemorated the 20th anniversary of the tragic bombing at the United Nations compound in Baghdad on 19 August 2003, and celebrated humanitarian workers around the world for their unwavering commitment to deliver for the communities they serve, no matter who, no matter where and #NoMatterWhat. In her opening remarks, the UNOCHA Head of Office in Lebanon, Ms. S\u00e9verine Rey paid tribute to humanitarian workers killed in the line of duty and reaffirmed the principles underpinning humanitarian action, calling for the protection, well-being and dignity of all people affected by crises, and for the safety and security of the aid workers who support them: \u201cAttacks on aid workers and facilities \u2013 as attacks on civilians \u2013 are violation of international law and perpetrators must be held accountable. We are #NotATarget. We are here for one sole purpose: saving and protecting lives.\u201d Commending the commitment of all humanitarians in Lebanon, Mr. Imran Riza said, \u201cToday, we are here to recognize and honor the dedication of humanitarian workers in Lebanon, particularly those, the most numerous, who are from the very communities they serve. Through their engagement, they show us that despite the challenges, a remarkable sense of shared humanity continues to prevail in Lebanon and that many resourcefully seek out solutions",
+  "date": "21 August 2023"
+}

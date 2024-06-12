@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a42cb06c-2f74-4144-a9b1-f90c99740fe6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.13158416748047,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003756484074983746,
+          "perplexity": 38,
+          "sentence": "Belgrade, 8 October 2018 - The Republic of Serbia has successfully conducted the Joint External Evaluation (JEE) on the capacities for the implementation of the International Health Regulations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000346054119290784,
+          "perplexity": 26,
+          "sentence": "The Joint External Evaluation (JEE) is a voluntary, collaborative process to assess a country's capacity under the International Health Regulations in order to prevent, detect and rapidly respond to public health threats whether occurring naturally or due to deliberate or accidental events.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000350493734003976,
+          "perplexity": 82,
+          "sentence": "In the framework of strengthening the capacities to effectively respond to possible public health emergencies and crisis situations, Serbia recognized the significance of the WHO JEE tool and initiated this process in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003064729389734566,
+          "perplexity": 38,
+          "sentence": "Evaluation has been conducted jointly by an international independent expert team and representatives of all relevant national sectors, agencies and institutions including Ministry of Health, Ministry of Agriculture, Ministry of Interior, Ministry of Environmental Protection, Institute of Public Health, Serbian Environmental Protection Agency, Serbian Radiation Protection and Nuclear Safety Agency, Institute for Virology, Vaccines and Sera \u201cTorlak\u201d and Belgrade airport \u201cNikola Tesla\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029349172837100923,
+          "perplexity": 74,
+          "sentence": "The evaluation sessions were opened by Assistant Health Minister, Dr Vesna Knjeginjic, followed by introductory addresses of State Secretary at the Ministry of Agriculture, Mr. Velimir Stanojevic, WHO Representative, Dr Zsofia Pusztai as well as Director of the National Institute of Public Health and national IHR focal point, Dr Verica Jovanovic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027631534612737596,
+          "perplexity": 84,
+          "sentence": "The external technical experts had the opportunity to meet national stakeholders in the field through scheduled visits to the Clinic for Infectious and Tropical Diseases - National Clinical Center, Veterinary Directorate of the Ministry of Agriculture, Forestry and Water Management, National Institute of Public Health, Institute for Virology, Vaccines and Sera \u201cTorlak\u201d, but also Belgrade Airport and the Belgrade Emergency Operations Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027902013971470296,
+          "perplexity": 71,
+          "sentence": "Outcomes of the JEE have identified priority actions that will lead to the development of the National Action Plan for Health",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 8 October 2018 - The Republic of Serbia has successfully conducted the Joint External Evaluation (JEE) on the capacities for the implementation of the International Health Regulations. The Joint External Evaluation (JEE) is a voluntary, collaborative process to assess a country\u2019s capacity under the International Health Regulations in order to prevent, detect and rapidly respond to public health threats whether occurring naturally or due to deliberate or accidental events. In the framework of strengthening the capacities to effectively respond to possible public health emergencies and crisis situations, Serbia recognized the significance of the WHO JEE tool and initiated this process in the country. Evaluation has been conducted jointly by an international independent expert team and representatives of all relevant national sectors, agencies and institutions including Ministry of Health, Ministry of Agriculture, Ministry of Interior, Ministry of Environmental Protection, Institute of Public Health, Serbian Environmental Protection Agency, Serbian Radiation Protection and Nuclear Safety Agency, Institute for Virology, Vaccines and Sera \u201cTorlak\u201d and Belgrade airport \u201cNikola Tesla\u201d. The evaluation sessions were opened by Assistant Health Minister, Dr Vesna Knjeginjic, followed by introductory addresses of State Secretary at the Ministry of Agriculture, Mr. Velimir Stanojevic, WHO Representative, Dr Zsofia Pusztai as well as Director of the National Institute of Public Health and national IHR focal point, Dr Verica Jovanovic. The external technical experts had the opportunity to meet national stakeholders in the field through scheduled visits to the Clinic for Infectious and Tropical Diseases \u2013 National Clinical Center, Veterinary Directorate of the Ministry of Agriculture, Forestry and Water Management, National Institute of Public Health, Institute for Virology, Vaccines and Sera \u201cTorlak\u201d, but also Belgrade Airport and the Belgrade Emergency Operations Center. Outcomes of the JEE have identified priority actions that will lead to the development of the National Action Plan for Health",
+  "date": "10 October 2018"
+}

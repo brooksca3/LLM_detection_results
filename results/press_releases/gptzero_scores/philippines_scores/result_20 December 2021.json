@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c159fbee-315a-4cdb-aa5b-843729438ae2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.36019515991211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001054191161529161,
+          "perplexity": 9,
+          "sentence": "The Philippines-United Nations (UN) Joint Programme on human rights took its first major step with agreement on a roadmap to implement Human Rights Council (HRC) resolution 45/33, adopted on 7 October 2020, which outlined specific areas for capacity-building and technical cooperation for the promotion and protection of human rights in the Philippines MANILA, 20 December 2021\u1173The Philippines-United Nations (UN) Joint Programme on human rights took its first major step today at the Steering Committee meeting of government and civil society partners and participating UN agencies, where they agreed on a roadmap to implement Human Rights Council (HRC) resolution 45/33, adopted on 7 October 2020, which outlined specific areas for capacity-building and technical cooperation for the promotion and protection of human rights in the Philippines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.833608055487275e-05,
+          "perplexity": 76,
+          "sentence": "The steering committee meeting today was participated in by Department of Justice Secretary Menardo I. Guevarra, UN Resident Coordinator Gustavo Gonzalez, and representatives of government, UN and civil society partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010189387830905616,
+          "perplexity": 35,
+          "sentence": "Guevarra said, \"The Joint Programme seeks to affirm the commitment of the Philippines to the primacy of human rights, the importance of a free democratic space for civil society, and the principle of international cooperation\u1173key values that the Philippines holds dear as a founding charter member of the UN.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000509635778144002,
+          "perplexity": 65,
+          "sentence": "UN Resident Coordinator in the Philippines Gustavo Gonzalez said, \u201cToday's meeting is an important step forward in the implementation of Human Rights Council resolution 45/33.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041763330227695405,
+          "perplexity": 161,
+          "sentence": "Concrete actions, milestones and tools have been discussed and adopted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048662867629900575,
+          "perplexity": 96,
+          "sentence": "Everyone has a role in the joint programme and is accountable for the expected results.\u201d The human rights joint programme received a boost recently with combined financial support from the governments of Norway and Australia of some Php29 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005412919563241303,
+          "perplexity": 91,
+          "sentence": "\u201cI thank the Governments of Australia and Norway for their readiness in supporting the Joint Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005434533813968301,
+          "perplexity": 44,
+          "sentence": "They know that respect for human rights",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Philippines-United Nations (UN) Joint Programme on human rights took its first major step with agreement on a roadmap to implement Human Rights Council (HRC) resolution 45/33, adopted on 7 October 2020, which outlined specific areas for capacity-building and technical cooperation for the promotion and protection of human rights in the Philippines MANILA, 20 December 2021\u2014The Philippines-United Nations (UN) Joint Programme on human rights took its first major step today at the Steering Committee meeting of government and civil society partners and participating UN agencies, where they agreed on a roadmap to implement Human Rights Council (HRC) resolution 45/33, adopted on 7 October 2020, which outlined specific areas for capacity-building and technical cooperation for the promotion and protection of human rights in the Philippines. The steering committee meeting today was participated in by Department of Justice Secretary Menardo I. Guevarra, UN Resident Coordinator Gustavo Gonzalez, and representatives of government, UN and civil society partners. Guevarra said, \"The Joint Programme seeks to affirm the commitment of the Philippines to the primacy of human rights, the importance of a free democratic space for civil society, and the principle of international cooperation\u2014key values that the Philippines holds dear as a founding charter member of the UN.\" UN Resident Coordinator in the Philippines Gustavo Gonzalez said, \u201cToday\u2019s meeting is an important step forward in the implementation of Human Rights Council resolution 45/33. Concrete actions, milestones and tools have been discussed and adopted. Everyone has a role in the joint programme and is accountable for the expected results.\u201d The human rights joint programme received a boost recently with combined financial support from the governments of Norway and Australia of some Php29 million. \u201cI thank the Governments of Australia and Norway for their readiness in supporting the Joint Programme. They know that respect for human rights",
+  "date": "20 December 2021"
+}

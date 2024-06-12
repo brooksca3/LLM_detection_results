@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "132ff6e5-0048-444f-be36-f7bf30e3a79d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.091127395629883,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.052597228437662125,
+          "perplexity": 40,
+          "sentence": "The World Bank has approved the re-allocation of US$10 million under the existing Roads and Employment Project to support small-scale Lebanese farmers with agricultural inputs and animal feed to help them sustain their plant and animal production, and support their ability to contribute to food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.055960144847631454,
+          "perplexity": 95,
+          "sentence": "The program is expected to benefit around 26,700 small-scale farmers who have suffered from this year's COVID-19-related planting and harvesting delays.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05406567081809044,
+          "perplexity": 80,
+          "sentence": "It will also provide approximately 1 million animal vaccine doses to contribute to the annual livestock vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05796876177191734,
+          "perplexity": 41,
+          "sentence": "Agriculture is seen as a critical sector for employment creation and poverty reduction in Lebanon, for both Lebanese people and Syrian refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05411014333367348,
+          "perplexity": 67,
+          "sentence": "The Lebanese agriculture sector has been severely affected by the recent economic and financial crisis and the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05130932852625847,
+          "perplexity": 44,
+          "sentence": "The absence of credit facilities, the currency devaluation and the capital control measures hindering the payment of suppliers in the agriculture sector have severely impacted agriculture production given the country's reliance on imports of agricultural inputs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04523558169603348,
+          "perplexity": 52,
+          "sentence": "\u201cPreserving and strengthening agricultural domestic production and value chains are not only critical to mitigate the short-term risk related to food security, but also to boost the local economy and create employment opportunities in the agriculture sector\u201d, said Saroj Kumar Jha, World Bank Mashreq Regional Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03570245951414108,
+          "perplexity": 46,
+          "sentence": "\u201cThe World Bank is strongly committed to stand by Lebanon as it faces unprecedented compounded crises by saving people's lives and livelihoods and supporting a faster economic recovery.\u201d The small-scale farmers' support program will provide eligible farmers with two types of vouchers for the procurement of essential inputs to enable continued agricultural production: vouchers for crop production inputs (fertilizers, seeds, seedlings and other eligible agricultural inputs) and vouchers for livestock production inputs, mostly feed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.034911006689071655,
+          "perplexity": 63,
+          "sentence": "The value of each voucher would be US$300.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028521385043859482,
+          "perplexity": 60,
+          "sentence": "Given that most of the agricultural inputs in Lebanon are",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The World Bank has approved the re-allocation of US$10 million under the existing Roads and Employment Project to support small-scale Lebanese farmers with agricultural inputs and animal feed to help them sustain their plant and animal production, and support their ability to contribute to food security. The program is expected to benefit around 26,700 small-scale farmers who have suffered from this year\u2019s COVID-19-related planting and harvesting delays. It will also provide approximately 1 million animal vaccine doses to contribute to the annual livestock vaccination campaign. Agriculture is seen as a critical sector for employment creation and poverty reduction in Lebanon, for both Lebanese people and Syrian refugees. The Lebanese agriculture sector has been severely affected by the recent economic and financial crisis and the COVID-19 pandemic. The absence of credit facilities, the currency devaluation and the capital control measures hindering the payment of suppliers in the agriculture sector have severely impacted agriculture production given the country\u2019s reliance on imports of agricultural inputs. \u201cPreserving and strengthening agricultural domestic production and value chains are not only critical to mitigate the short-term risk related to food security, but also to boost the local economy and create employment opportunities in the agriculture sector\u201d, said Saroj Kumar Jha, World Bank Mashreq Regional Director. \u201cThe World Bank is strongly committed to stand by Lebanon as it faces unprecedented compounded crises by saving people\u2019s lives and livelihoods and supporting a faster economic recovery.\u201d The small-scale farmers\u2019 support program will provide eligible farmers with two types of vouchers for the procurement of essential inputs to enable continued agricultural production: vouchers for crop production inputs (fertilizers, seeds, seedlings and other eligible agricultural inputs) and vouchers for livestock production inputs, mostly feed. The value of each voucher would be US$300. Given that most of the agricultural inputs in Lebanon are",
+  "date": "21 May 2021"
+}

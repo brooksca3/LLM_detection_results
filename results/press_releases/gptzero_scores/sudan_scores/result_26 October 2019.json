@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b9393d16-deb3-4c56-a6c7-5007cf1796c7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 83.70355987548828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01991954818367958,
+          "perplexity": 28,
+          "sentence": "The Government of Sudan, WHO, UNICEF and health partners mark World Polio week 2019 The Government of Sudan in partnership with World Health Organization (WHO), the United Nations Children's Funds (UNICEF), and other health partners supporting the national polio program in Sudan marked World Polio week 2019 and the declaration of the global eradication of poliovirus- type 3 strain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022487418726086617,
+          "perplexity": 74,
+          "sentence": "The celebrations involved a series of awareness raising activities and emphasized the importance of the continued support by the international community to eradicate the remaining Type -1 virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01533278077840805,
+          "perplexity": 46,
+          "sentence": "\u201cThe Government of Sudan, WHO, UNICEF and all partners have achieved a milestone success in keeping the country free of polio and protecting our children against this crippling and fatal infectious disease,\u201d said Dr. Akram Ali Altoum, Federal Minister of Health in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01352587342262268,
+          "perplexity": 104,
+          "sentence": "\u201cWe need to continue advocating for a strong routine immunization program in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013476191088557243,
+          "perplexity": 279,
+          "sentence": "We hold ourselves and our community members accountable for maintaining polio- free Sudan,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01390345860272646,
+          "perplexity": 51,
+          "sentence": "Sudan has not reported any polio cases since March 2009 and was announced polio-free in 2015 by the Regional Certification Committee of WHO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010248035192489624,
+          "perplexity": 16,
+          "sentence": "Over 95 percent of children are reached with polio vaccine, thanks to the strong collaboration between the Federal and State Ministries of health, partners, and the generous support from donors such as the Bill & Melinda Gates Foundation, Rotary International, the Centers for Disease Control and Prevention (CDC), the Vaccine Alliance GAVI, the Department for International Development (DFID)- United Kingdom, United States Agency for International Development (USAID), and the Norwegian Agency for Development Cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00720757944509387,
+          "perplexity": 102,
+          "sentence": "\u201cThe world can only overcome the final hurdles to completely eradicate polio if the present strategies put to reach and vaccinate children everywhere in the world receive sufficient resources and commitments from governments, donors, multilateral organizations and local communities,\u201d said Dr Naeema Al Gasseer, WHO",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Sudan, WHO, UNICEF and health partners mark World Polio week 2019 The Government of Sudan in partnership with World Health Organization (WHO), the United Nations Children\u2019s Funds (UNICEF), and other health partners supporting the national polio program in Sudan marked World Polio week 2019 and the declaration of the global eradication of poliovirus- type 3 strain. The celebrations involved a series of awareness raising activities and emphasized the importance of the continued support by the international community to eradicate the remaining Type -1 virus. \u201cThe Government of Sudan, WHO, UNICEF and all partners have achieved a milestone success in keeping the country free of polio and protecting our children against this crippling and fatal infectious disease,\u201d said Dr. Akram Ali Altoum, Federal Minister of Health in Sudan. \u201cWe need to continue advocating for a strong routine immunization program in Sudan. We hold ourselves and our community members accountable for maintaining polio- free Sudan,\u201d he added. Sudan has not reported any polio cases since March 2009 and was announced polio-free in 2015 by the Regional Certification Committee of WHO. Over 95 percent of children are reached with polio vaccine, thanks to the strong collaboration between the Federal and State Ministries of health, partners, and the generous support from donors such as the Bill & Melinda Gates Foundation, Rotary International, the Centers for Disease Control and Prevention (CDC), the Vaccine Alliance GAVI, the Department for International Development (DFID)- United Kingdom, United States Agency for International Development (USAID), and the Norwegian Agency for Development Cooperation. \u201cThe world can only overcome the final hurdles to completely eradicate polio if the present strategies put to reach and vaccinate children everywhere in the world receive sufficient resources and commitments from governments, donors, multilateral organizations and local communities,\u201d said Dr Naeema Al Gasseer, WHO",
+  "date": "26 October 2019"
+}

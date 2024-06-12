@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "78b05c65-d287-44e8-b515-115b30ba750f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10562879617416508,
+        "human": 0.893121528627087,
+        "mixed": 0.0012496751987478862
+      },
+      "completely_generated_prob": 0.10562879617416508,
+      "confidence_category": "medium",
+      "confidence_score": 0.893121528627087,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10562879617416508,
+          "human": 0.893121528627087,
+          "mixed": 0.0012496751987478862
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.94439697265625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0014660940505564213,
+          "perplexity": 74,
+          "sentence": "This support includes procurement of test kits, personal protective equipment, specialized medical equipment, and the expansion of health and quarantine facility capacities; strengthening planning and coordination, resource mobilization as well as direct engagement and support in awareness raising and promotion of hygiene among the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015858201077207923,
+          "perplexity": 64,
+          "sentence": "The Access to Health Fund, managed by the United Nations Office for Project Services, UNOPS, together with the Good Neighbors International have supported the National Health Laboratory (NHL) with much-needed testing equipment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014333144063130021,
+          "perplexity": 49,
+          "sentence": "A total of US$700,000 has been mobilized to procure the necessary equipment to conduct 20,000 tests for COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001166059635579586,
+          "perplexity": 87,
+          "sentence": "This equipment includes 5,000 real-time Polymerase Chain Reaction (PCR) tests and 10,000 viral transport media tubes which arrived in Myanmar recently.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001305779442191124,
+          "perplexity": 40,
+          "sentence": "Within the next 24 hours, the UNOPS Access to Health Fund is set to also deliver another 150,000 surgical gloves and 500,000 surgical masks to the Ministry of Health and Sports to support health workers in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013254181249067187,
+          "perplexity": 54,
+          "sentence": "\u201cWe are pleased to be able to support the Government of Myanmar in its efforts to increase testing capacities, which is essential to containing this virus,\u201d said Mr. Ola Almgren, the United Nations Resident and Humanitarian Coordinator. \"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012526923092082143,
+          "perplexity": 78,
+          "sentence": "The National Health Laboratory has a critical role in finding and isolating cases, supporting treatment and breaking the chain of transmission,\u201d said Mr. Oren Ginzburg, Fund Director of the Access to Health Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010474500013515353,
+          "perplexity": 23,
+          "sentence": "\u201cOn behalf of our donors - the United Kingdom, Sweden, United States and Switzerland - we are happy to be able to play a role in the Government's efforts to protect the people of Myanmar.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2704607844352722,
+          "perplexity": 4.208589045564599,
+          "sentence": "\u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002\u1021\u1016\u103d\u1032\u1037\u1021\u1005\u100a\u103a\u0983\u1019\u103b\u102c\u0983\u104a \u101b\u1014\u103a\u1015\u102f\u030a\u1004\u103d\u1031\u1015\u1031\u0983\u101b\u1031\u0983\u1014\u103e\u1004\u1037\u103a \u1021\u1000\u1030\u1021\u100a\u102e\u1015\u1031\u0983\u101b\u1031\u0983\u1021\u1005\u102e\u1021\u1005\u1009\u103a\u1019\u103b\u102c\u0983\u101e\u100a\u103a \u1015\u103c\u100a\u103a\u1010\u103d\u1004\u103a\u0983\u1014\u103e\u1004\u1037\u103a \u1014\u102d\u102f\u1004\u103a\u1004\u030a\u1010\u1000\u102c \u1019\u102d\u1010\u103a\u1016\u1000\u103a\u1021\u1016\u103d\u1032\u1037\u1021\u1005\u100a\u103a\u0983\u1019\u103b\u102c\u0983\u1014\u103e\u1004\u1037\u103a\u1021\u1010\u1030 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u030a\u101b\u103e\u102d COVID-19 \u101b\u1031\u102c\u1002\u102b\u1000\u102c\u1000\u103d\u101a\u103a\u1011\u102d\u1014\u103a\u0983\u1001\u103b\u102f\u1015\u103a\u101b\u1031\u0983 \u1000\u103c\u102d\u102f\u0983\u1015\u1019\u103a\u0983\u1019\u103e\u102f \u1019\u103b\u102c\u0983\u104c \u1000\u103b\u1014\u103a\u0983\u1019\u102c\u101b\u1031\u0983\u1021\u102c\u100f\u102c\u1015\u102d\u102f\u1004\u103a\u1019\u103b\u102c\u0983\u1021\u102c\u0983 \u1005\u1009\u103a\u1006\u1000\u103a\u1019\u1015\u103c\u1010\u103a\u1000\u1030\u100a\u102e\u1015\u030a\u1037\u1015\u102d\u102f\u0983\u1015\u1031\u0983\u101c\u103b\u1000\u103a\u101b\u103e\u102d\u1015\u102b\u101e\u100a\u103a\u104b \u1024\u101e\u102d\u102f\u1037\u1000\u1030\u100a\u102e\u1015\u030a\u1037\u1015\u102d\u102f\u0983\u101b\u102c\u104c \u1005\u102e\u1019\u030a\u101b\u1031\u0983\u1014\u103e\u1004\u1037\u103a\u100a\u103e\u102d\u1014\u103e\u102d\u102f\u1004\u103a\u0983\u1006\u1031\u102c\u1004\u103a\u101b\u103d\u1000\u103a\u1001\u103c\u1004\u103a\u0983\u104a \u1021\u101b\u1004\u103a\u0983\u1021\u1019\u103c\u1005\u103a\u1019\u103b\u102c\u0983\u1005\u102f\u1005\u100a\u103a\u0983\u1001\u103c\u1004\u103a\u0983\u1021\u1015\u103c\u1004\u103a \u101c\u1030\u1011\u102f\u1021\u1000\u103c\u102c\u0983 \u1021\u101e\u102d\u1015\u100a\u102c\u1015\u1031\u0983\u1001\u103c\u1004\u103a\u0983\u1014\u103e\u1004\u1037\u103a \u1010\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u101e\u1014\u1037\u103a\u101b\u103e\u1004\u103a\u0983\u1019\u103e\u102f\u1019\u103c\u103e\u1004\u1037\u103a\u1010\u1004\u103a\u1001\u103c\u1004\u103a\u0983\u1019\u103b\u102c\u0983\u104c \u1010\u102d\u102f\u1000\u103a\u101b\u102d\u102f\u1000\u103a\u1015\u102b0\u1004\u103a\u1015\u030a\u1037\u1015\u102d\u102f\u0983\u1000\u1030\u100a\u102e\u1001\u103c\u1004\u103a\u0983\u1019\u103b\u102c\u0983\u1000\u102d\u102f \u1015\u102d\u102f\u1019\u102d\u102f\u1001\u102d\u102f\u1004\u103a\u1019\u102c \u1005\u1031\u101c\u103b\u1000\u103a \u1005\u1019\u103a\u0983\u101e\u1015\u103a\u1000\u102d\u101b\u102d\u101a\u102c\u1019\u103b\u102c\u0983\u104a \u1010\u1005\u103a\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u1000\u102c\u1000\u103d\u101a\u103a\u101b\u1031\u09830\u1010\u103a\u1005\u102f\u030a\u1019\u103b\u102c\u0983\u104a \u1006\u1031\u0983\u1014\u103e\u1004\u1037\u103a\u1006\u1031\u0983\u1015\u1005\u1039\u1005\u100a\u103a\u0983\u1019\u103b\u102c\u0983\u101b\u101b\u103e\u102d\u101b\u1031\u0983\u1014\u103e\u1004\u1037\u103a \u1000\u103b\u1014\u103a\u0983\u1019\u102c\u101b\u1031\u0983\u1014\u103e\u1004\u1037\u103a\u1021\u101e\u103d\u102c\u0983\u1021\u101c\u102c\u1000\u1014\u1037\u103a\u101e\u1010\u103a\u1019\u103e\u102f\u100c\u102c\u1014\u1006\u102d\u102f\u1004\u103a\u101b\u102c\u1005\u1014\u1005\u103a\u1019\u103b\u102c\u0983 \u1010\u102d\u102f\u0983\u1001\u103b\u1032\u1037\u1001\u103c\u1004\u103a\u0983\u1019\u103b\u102c\u0983 \u1015\u102b0\u1004\u103a\u1015\u102b\u101e\u100a\u103a\u104b \u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002 \u1005\u102e\u1019\u030a\u1000\u102d\u1014\u103a\u0983\u101c\u102f\u1015\u103a\u1004\u1014\u103a\u0983\u1019\u103b\u102c\u0983\u1006\u102d\u102f\u1004\u103a\u101b\u102c\u101b\u102f\u030a\u0983 (UNOPS) \u1000 \u1005\u102e\u1019\u030a\u1006\u1031\u102c\u1004\u103a\u101b\u103d\u1000\u103a\u101e\u100a\u1037\u103a '\u1000\u103b\u1014\u103a\u0983\u1019\u102c\u101b\u1031\u0983\u1005\u1031\u102c\u1004\u1037\u103a\u101b\u103e\u1031\u102c\u1000\u103a\u1019\u103e\u102f \u101c\u1000\u103a\u101c\u103e\u1019\u103a\u0983\u1019\u102e\u101b\u101b\u103e\u102d\u101b\u1031\u0983\u101b\u1014\u103a\u1015\u102f\u030a\u1004\u103d\u1031' (Access to Health Fund) \u101e\u100a\u103a Good",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This support includes procurement of test kits, personal protective equipment, specialized medical equipment, and the expansion of health and quarantine facility capacities; strengthening planning and coordination, resource mobilization as well as direct engagement and support in awareness raising and promotion of hygiene among the population. The Access to Health Fund, managed by the United Nations Office for Project Services, UNOPS, together with the Good Neighbors International have supported the National Health Laboratory (NHL) with much-needed testing equipment. A total of US$700,000 has been mobilized to procure the necessary equipment to conduct 20,000 tests for COVID-19. This equipment includes 5,000 real-time Polymerase Chain Reaction (PCR) tests and 10,000 viral transport media tubes which arrived in Myanmar recently. Within the next 24 hours, the UNOPS Access to Health Fund is set to also deliver another 150,000 surgical gloves and 500,000 surgical masks to the Ministry of Health and Sports to support health workers in Myanmar. \u201cWe are pleased to be able to support the Government of Myanmar in its efforts to increase testing capacities, which is essential to containing this virus,\u201d said Mr. Ola Almgren, the United Nations Resident and Humanitarian Coordinator. \" The National Health Laboratory has a critical role in finding and isolating cases, supporting treatment and breaking the chain of transmission,\u201d said Mr. Oren Ginzburg, Fund Director of the Access to Health Fund. \u201cOn behalf of our donors - the United Kingdom, Sweden, United States and Switzerland - we are happy to be able to play a role in the Government\u2019s efforts to protect the people of Myanmar.\" \u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002\u1021\u1016\u103d\u1032\u1037\u1021\u1005\u100a\u103a\u1038\u1019\u103b\u102c\u1038\u104a \u101b\u1014\u103a\u1015\u102f\u1036\u1004\u103d\u1031\u1015\u1031\u1038\u101b\u1031\u1038\u1014\u103e\u1004\u1037\u103a \u1021\u1000\u1030\u1021\u100a\u102e\u1015\u1031\u1038\u101b\u1031\u1038\u1021\u1005\u102e\u1021\u1005\u1009\u103a\u1019\u103b\u102c\u1038\u101e\u100a\u103a \u1015\u103c\u100a\u103a\u1010\u103d\u1004\u103a\u1038\u1014\u103e\u1004\u1037\u103a \u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1000\u102c \u1019\u102d\u1010\u103a\u1016\u1000\u103a\u1021\u1016\u103d\u1032\u1037\u1021\u1005\u100a\u103a\u1038\u1019\u103b\u102c\u1038\u1014\u103e\u1004\u1037\u103a\u1021\u1010\u1030 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u101b\u103e\u102d COVID-19 \u101b\u1031\u102c\u1002\u102b\u1000\u102c\u1000\u103d\u101a\u103a\u1011\u102d\u1014\u103a\u1038\u1001\u103b\u102f\u1015\u103a\u101b\u1031\u1038 \u1000\u103c\u102d\u102f\u1038\u1015\u1019\u103a\u1038\u1019\u103e\u102f \u1019\u103b\u102c\u1038\u104c \u1000\u103b\u1014\u103a\u1038\u1019\u102c\u101b\u1031\u1038\u1021\u102c\u100f\u102c\u1015\u102d\u102f\u1004\u103a\u1019\u103b\u102c\u1038\u1021\u102c\u1038 \u1005\u1009\u103a\u1006\u1000\u103a\u1019\u1015\u103c\u1010\u103a\u1000\u1030\u100a\u102e\u1015\u1036\u1037\u1015\u102d\u102f\u1038\u1015\u1031\u1038\u101c\u103b\u1000\u103a\u101b\u103e\u102d\u1015\u102b\u101e\u100a\u103a\u104b \u1024\u101e\u102d\u102f\u1037\u1000\u1030\u100a\u102e\u1015\u1036\u1037\u1015\u102d\u102f\u1038\u101b\u102c\u104c \u1005\u102e\u1019\u1036\u101b\u1031\u1038\u1014\u103e\u1004\u1037\u103a\u100a\u103e\u102d\u1014\u103e\u102d\u102f\u1004\u103a\u1038\u1006\u1031\u102c\u1004\u103a\u101b\u103d\u1000\u103a\u1001\u103c\u1004\u103a\u1038\u104a \u1021\u101b\u1004\u103a\u1038\u1021\u1019\u103c\u1005\u103a\u1019\u103b\u102c\u1038\u1005\u102f\u1005\u100a\u103a\u1038\u1001\u103c\u1004\u103a\u1038\u1021\u1015\u103c\u1004\u103a \u101c\u1030\u1011\u102f\u1021\u1000\u103c\u102c\u1038 \u1021\u101e\u102d\u1015\u100a\u102c\u1015\u1031\u1038\u1001\u103c\u1004\u103a\u1038\u1014\u103e\u1004\u1037\u103a \u1010\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u101e\u1014\u1037\u103a\u101b\u103e\u1004\u103a\u1038\u1019\u103e\u102f\u1019\u103c\u103e\u1004\u1037\u103a\u1010\u1004\u103a\u1001\u103c\u1004\u103a\u1038\u1019\u103b\u102c\u1038\u104c \u1010\u102d\u102f\u1000\u103a\u101b\u102d\u102f\u1000\u103a\u1015\u102b\u101d\u1004\u103a\u1015\u1036\u1037\u1015\u102d\u102f\u1038\u1000\u1030\u100a\u102e\u1001\u103c\u1004\u103a\u1038\u1019\u103b\u102c\u1038\u1000\u102d\u102f \u1015\u102d\u102f\u1019\u102d\u102f\u1001\u102d\u102f\u1004\u103a\u1019\u102c \u1005\u1031\u101c\u103b\u1000\u103a \u1005\u1019\u103a\u1038\u101e\u1015\u103a\u1000\u102d\u101b\u102d\u101a\u102c\u1019\u103b\u102c\u1038\u104a \u1010\u1005\u103a\u1000\u102d\u102f\u101a\u103a\u101b\u1031\u1000\u102c\u1000\u103d\u101a\u103a\u101b\u1031\u1038\u101d\u1010\u103a\u1005\u102f\u1036\u1019\u103b\u102c\u1038\u104a \u1006\u1031\u1038\u1014\u103e\u1004\u1037\u103a\u1006\u1031\u1038\u1015\u1005\u1039\u1005\u100a\u103a\u1038\u1019\u103b\u102c\u1038\u101b\u101b\u103e\u102d\u101b\u1031\u1038\u1014\u103e\u1004\u1037\u103a \u1000\u103b\u1014\u103a\u1038\u1019\u102c\u101b\u1031\u1038\u1014\u103e\u1004\u1037\u103a\u1021\u101e\u103d\u102c\u1038\u1021\u101c\u102c\u1000\u1014\u1037\u103a\u101e\u1010\u103a\u1019\u103e\u102f\u100c\u102c\u1014\u1006\u102d\u102f\u1004\u103a\u101b\u102c\u1005\u1014\u1005\u103a\u1019\u103b\u102c\u1038 \u1010\u102d\u102f\u1038\u1001\u103b\u1032\u1037\u1001\u103c\u1004\u103a\u1038\u1019\u103b\u102c\u1038 \u1015\u102b\u101d\u1004\u103a\u1015\u102b\u101e\u100a\u103a\u104b \u1000\u102f\u101c\u101e\u1019\u1002\u1039\u1002 \u1005\u102e\u1019\u1036\u1000\u102d\u1014\u103a\u1038\u101c\u102f\u1015\u103a\u1004\u1014\u103a\u1038\u1019\u103b\u102c\u1038\u1006\u102d\u102f\u1004\u103a\u101b\u102c\u101b\u102f\u1036\u1038 (UNOPS) \u1000 \u1005\u102e\u1019\u1036\u1006\u1031\u102c\u1004\u103a\u101b\u103d\u1000\u103a\u101e\u100a\u1037\u103a \u2018\u1000\u103b\u1014\u103a\u1038\u1019\u102c\u101b\u1031\u1038\u1005\u1031\u102c\u1004\u1037\u103a\u101b\u103e\u1031\u102c\u1000\u103a\u1019\u103e\u102f \u101c\u1000\u103a\u101c\u103e\u1019\u103a\u1038\u1019\u102e\u101b\u101b\u103e\u102d\u101b\u1031\u1038\u101b\u1014\u103a\u1015\u102f\u1036\u1004\u103d\u1031\u2019 (Access to Health Fund) \u101e\u100a\u103a Good",
+  "date": "14 April 2020"
+}

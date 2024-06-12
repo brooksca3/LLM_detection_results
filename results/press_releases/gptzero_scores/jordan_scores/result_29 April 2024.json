@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9375f449-e796-4f3a-8026-b413b8438764",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023252354818537126,
+        "human": 0.9632637399533589,
+        "mixed": 0.013483905228104068
+      },
+      "completely_generated_prob": 0.023252354818537126,
+      "confidence_category": "high",
+      "confidence_score": 0.9632637399533589,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023252354818537126,
+          "human": 0.9632637399533589,
+          "mixed": 0.013483905228104068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1801.7364501953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005613769870251417,
+          "perplexity": 226,
+          "sentence": "This four-year programme support priority actions of the Ministry of Health's Strategic Plan, guided by Jordan Economic Modernization vision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00658660102635622,
+          "perplexity": 23,
+          "sentence": "The Minister of Health, Dr. Firas Al-Hawari, patronized the signing ceremony of the funding agreement provided by the European Union (EU) to the World Health Organization (WHO) to strengthen primary health care services in Jordan, at the Ministry of Health in the presence of Mr. Patrick Lambrechts, Head of Cooperation at the European Union Delegation to Jordan and the Representative of the World Health Organization in Jordan Dr. Jamila Al-Raiby.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010006860829889774,
+          "perplexity": 84,
+          "sentence": "This fund comes within the \u201cStrengthening access to quality primary health care services for Syrian refugees and host communities in Jordan\u201d project, where the EU committed \u040415 million to support the WHO's efforts to strengthen Jordan's primary health care services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013418328948318958,
+          "perplexity": 33,
+          "sentence": "The project will contribute to improving the efficiency, equity, and responsiveness of the Primary Health Care (PHC) system and addressing the population's needs in Jordan, including the refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011755541898310184,
+          "perplexity": 78,
+          "sentence": "This four-year programme, funded by the EU through its Neighborhood, Development and International Cooperation Instrument (NDICI Global Europe) in response to the Syrian crisis, supports priority actions of the Ministry of Health's Strategic Plan, guided by Jordan Economic Modernization vision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012468421831727028,
+          "perplexity": 38,
+          "sentence": "Minister of Health, Dr. Firas Al-Hawari, said that the efforts made by the European Union and the World Health Organization would contribute to helping the government prepare primary healthcare centers, which would directly support its plan towards achieving universal health coverage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012473097071051598,
+          "perplexity": 123,
+          "sentence": "Hawari continued, \u201cBy upgrading selected PHC facilities to meet service standards (in terms of improving healthcare workers skills, support Health Information System infrastructures, equipment, and supplies), it will increase the utilization of Primary Health Care facilities in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020499015226960182,
+          "perplexity": 115,
+          "sentence": "It's important to recognize the invaluable support of WHO and the EU in advancing Jordan's healthcare priorities.\u201d H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012502851895987988,
+          "perplexity": 5492,
+          "sentence": "Dr Feras Hawari valued the support",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This four-year programme support priority actions of the Ministry of Health\u2019s Strategic Plan, guided by Jordan Economic Modernization vision. The Minister of Health, Dr. Firas Al-Hawari, patronized the signing ceremony of the funding agreement provided by the European Union (EU) to the World Health Organization (WHO) to strengthen primary health care services in Jordan, at the Ministry of Health in the presence of Mr. Patrick Lambrechts, Head of Cooperation at the European Union Delegation to Jordan and the Representative of the World Health Organization in Jordan Dr. Jamila Al-Raiby. This fund comes within the \u201cStrengthening access to quality primary health care services for Syrian refugees and host communities in Jordan\u201d project, where the EU committed \u20ac15 million to support the WHO\u2019s efforts to strengthen Jordan\u2019s primary health care services. The project will contribute to improving the efficiency, equity, and responsiveness of the Primary Health Care (PHC) system and addressing the population\u2019s needs in Jordan, including the refugees. This four-year programme, funded by the EU through its Neighborhood, Development and International Cooperation Instrument (NDICI Global Europe) in response to the Syrian crisis, supports priority actions of the Ministry of Health\u2019s Strategic Plan, guided by Jordan Economic Modernization vision. Minister of Health, Dr. Firas Al-Hawari, said that the efforts made by the European Union and the World Health Organization would contribute to helping the government prepare primary healthcare centers, which would directly support its plan towards achieving universal health coverage. Hawari continued, \u201cBy upgrading selected PHC facilities to meet service standards (in terms of improving healthcare workers skills, support Health Information System infrastructures, equipment, and supplies), it will increase the utilization of Primary Health Care facilities in Jordan. It's important to recognize the invaluable support of WHO and the EU in advancing Jordan's healthcare priorities.\u201d H.E. Dr Feras Hawari valued the support",
+  "date": "29 April 2024"
+}

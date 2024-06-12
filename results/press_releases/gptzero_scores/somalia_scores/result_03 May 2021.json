@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0557278f-e3a9-49ff-b78f-d4c935db7dc4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 184.22540283203125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00026255607372149825,
+          "perplexity": 14,
+          "sentence": "Mogadishu, 3 May 2021 - On the occasion of World Press Freedom Day, the Special Representative of the United Nations Secretary-General for Somalia, James Swan, reaffirmed the importance of this annual celebration, as it provides an opportunity to advance the principles of press freedom and to pay tribute to journalists who have lost their lives in the line of duty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025974703021347523,
+          "perplexity": 529,
+          "sentence": "SRSG Swan noted UNSOM's role in contributing to a vibrant media in Somalia through several trainings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001986105926334858,
+          "perplexity": 151,
+          "sentence": "\u201cThis year the Mission plans to conduct capacity building trainings for about 160 journalists, to date approximately 45 journalists have been trained.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001910128485178575,
+          "perplexity": 41,
+          "sentence": "The workshops aim at strengthening the capacity of Somali journalists in freedom of expression, rights and responsibilities and women's political participation.\u201d A free, independent and pluralistic media has never been so important to empower Somali women and men, strengthen good governance and the rule of law, and take forward the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001797962177079171,
+          "perplexity": 117,
+          "sentence": "\u201cThis year's theme, 'Information as a Public Good' responds to the covid-19 global pandemic, recognizing that with information which is freely distributed and received, families and communities can be guided and saved.\u201d \u201cIn April UNSOM supported the Federation of Somali Journalists (FESOJ) to hold a three-day virtual capacity-building workshop for journalists from the different federal states on promoting advocacy towards COVAX Vaccine Rollout for COVID-19 in Somalia,\u201d Swan said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019897073798347265,
+          "perplexity": 43,
+          "sentence": "SRSG Swan noted that although this year celebrates the 30th anniversary of the Windhoek Declaration for the Development of a Free, Independent and Pluralistic African Press, it should also serve as a reminder that the media are still being censored, fined, suspended, harassed, attacked, detained and even murdered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003048462967853993,
+          "perplexity": 8,
+          "sentence": "The United Nations Universal Declaration of Human Rights, of which Somalia is a signatory, establishes that freedom of expression is a fundamental human right.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 3 May 2021 \u2013 On the occasion of World Press Freedom Day, the Special Representative of the United Nations Secretary-General for Somalia, James Swan, reaffirmed the importance of this annual celebration, as it provides an opportunity to advance the principles of press freedom and to pay tribute to journalists who have lost their lives in the line of duty. SRSG Swan noted UNSOM\u2019s role in contributing to a vibrant media in Somalia through several trainings. \u201cThis year the Mission plans to conduct capacity building trainings for about 160 journalists, to date approximately 45 journalists have been trained. The workshops aim at strengthening the capacity of Somali journalists in freedom of expression, rights and responsibilities and women\u2019s political participation.\u201d A free, independent and pluralistic media has never been so important to empower Somali women and men, strengthen good governance and the rule of law, and take forward the 2030 Agenda for Sustainable Development. \u201cThis year\u2019s theme, \u2018Information as a Public Good\u2019 responds to the covid-19 global pandemic, recognizing that with information which is freely distributed and received, families and communities can be guided and saved.\u201d \u201cIn April UNSOM supported the Federation of Somali Journalists (FESOJ) to hold a three-day virtual capacity-building workshop for journalists from the different federal states on promoting advocacy towards COVAX Vaccine Rollout for COVID-19 in Somalia,\u201d Swan said. SRSG Swan noted that although this year celebrates the 30th anniversary of the Windhoek Declaration for the Development of a Free, Independent and Pluralistic African Press, it should also serve as a reminder that the media are still being censored, fined, suspended, harassed, attacked, detained and even murdered. The United Nations Universal Declaration of Human Rights, of which Somalia is a signatory, establishes that freedom of expression is a fundamental human right.",
+  "date": "03 May 2021"
+}

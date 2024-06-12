@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "14094826-309f-4d1d-8209-d07a544bcee4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 64.63951873779297,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0018775324570015073,
+          "perplexity": 53,
+          "sentence": "Amman - The Government of Japan and UNOPS signed a new agreement to enhance the operational capacity of the Royal Medical Services (RMS) and strengthen the health response in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001218331977725029,
+          "perplexity": 46,
+          "sentence": "With the USD 1.7 million funding from the Government of Japan, this project will further enhance the RMS operational capacity in the provision of critical/urgent health services through procurement of medical equipment for RMS health facilities across Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017783941002562642,
+          "perplexity": 26,
+          "sentence": "The project intends to support the Government of Jordan to meet increased demand for health services while continuing to strengthen the resilience and quality of services provided for the Jordanian population and Syrian refugees in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014417197089642286,
+          "perplexity": 74,
+          "sentence": "Mr. OKUYAMA Jiro, Ambassador of Japan to Jordan, said: \u201cResponding to immediate humanitarian needs and providing assistance for social stabilization are the top priorities for Japan's development cooperation policy in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002012035343796015,
+          "perplexity": 28,
+          "sentence": "Given Jordan's growing population and the influx of refugees, the health system is overburdened making it challenging to provide both Jordanians and Syrian refugees with quality health care services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008897853549569845,
+          "perplexity": 40,
+          "sentence": "We hope that our assistance will ease the burden of Jordan in offering essential services to vulnerable people.\u201d Brigadier General Dr. Yousef Zureikat, the Director of RMS, said: \u201cthe newly generous support provided to the RMS by the Government of Japan and UNOPS will give the RMS facilities more momentum in their ardent efforts to continually improve the quality of medical care provided by the RMS and its facilities to those who need it most when they need it most.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006190812564454973,
+          "perplexity": 188,
+          "sentence": "And this replacement of outdated equipment within The Government of Japan and the UNOPS project for the year 2023 will enhance the Royal Medical Services' capacity support to cover the continuously increased workload.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007948724669404328,
+          "perplexity": 172,
+          "sentence": "as well, this endeavor would undoubtedly bring about the coherence of efforts, open avenues for future cooperation, and implement further proposed projects.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - The Government of Japan and UNOPS signed a new agreement to enhance the operational capacity of the Royal Medical Services (RMS) and strengthen the health response in Jordan. With the USD 1.7 million funding from the Government of Japan, this project will further enhance the RMS operational capacity in the provision of critical/urgent health services through procurement of medical equipment for RMS health facilities across Jordan. The project intends to support the Government of Jordan to meet increased demand for health services while continuing to strengthen the resilience and quality of services provided for the Jordanian population and Syrian refugees in the country. Mr. OKUYAMA Jiro, Ambassador of Japan to Jordan, said: \u201cResponding to immediate humanitarian needs and providing assistance for social stabilization are the top priorities for Japan\u2019s development cooperation policy in Jordan. Given Jordan\u2019s growing population and the influx of refugees, the health system is overburdened making it challenging to provide both Jordanians and Syrian refugees with quality health care services. We hope that our assistance will ease the burden of Jordan in offering essential services to vulnerable people.\u201d Brigadier General Dr. Yousef Zureikat, the Director of RMS, said: \u201cthe newly generous support provided to the RMS by the Government of Japan and UNOPS will give the RMS facilities more momentum in their ardent efforts to continually improve the quality of medical care provided by the RMS and its facilities to those who need it most when they need it most. And this replacement of outdated equipment within The Government of Japan and the UNOPS project for the year 2023 will enhance the Royal Medical Services\u2019 capacity support to cover the continuously increased workload. as well, this endeavor would undoubtedly bring about the coherence of efforts, open avenues for future cooperation, and implement further proposed projects.\u201d",
+  "date": "27 March 2023"
+}

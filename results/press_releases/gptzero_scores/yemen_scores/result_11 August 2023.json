@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "eac947a2-f510-4aef-b5ce-5a65d7770331",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.79022216796875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00033524143509566784,
+          "perplexity": 53,
+          "sentence": "More than 1.1 million barrels of oil transferred to the replacement tanker over 18 days At 1800 local time, the United Nations successfully completed the transfer of oil from the FSO Safer supertanker off Yemen's Red Sea coast, preventing the immediate threat of a massive spill.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004531205049715936,
+          "perplexity": 84,
+          "sentence": "The Safer has been at risk of breaking up or exploding for years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003692309546750039,
+          "perplexity": 44,
+          "sentence": "A major spill from the vessel would have resulted in an environmental and humanitarian catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022618686489295214,
+          "perplexity": 86,
+          "sentence": "The cargo of oil aboard the FSO Safer has been pumped onto the replacement vessel MOST Yemen (formerly Nautica) in a ship-to-ship transfer that began on 25 July, following preparations on site for the operation that began in May by leading marine salvage company SMIT, a subsidiary of Boskalis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002364047832088545,
+          "perplexity": 51,
+          "sentence": "The UN Development Programme (UNDP), which contracted SMIT, is implementing the operation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023974489886313677,
+          "perplexity": 91,
+          "sentence": "As much of the 1.14 million barrels has been extracted as possible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023168684856500477,
+          "perplexity": 58,
+          "sentence": "However, less than 2 percent of the original oil cargo remains mixed in with sediment that will be removed during the final cleaning of the Safer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002745201054494828,
+          "perplexity": 48,
+          "sentence": "UN Secretary-General Ant\u00f3nio Guterres said: \u201cI welcome the news that the transfer of oil from the FSO Safer has been safely concluded today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022373996034730226,
+          "perplexity": 38,
+          "sentence": "The United Nations-led operation has prevented what could have been an environmental and humanitarian catastrophe on a colossal scale.\u201d UNDP Administrator Achim Steiner said: \u201cToday is a proud moment for the many people across the UN System as well as our donors and partners who have worked tirelessly over the past months and years to avert a disaster in a country already vulnerable following protracted conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024619224132038653,
+          "perplexity": 34,
+          "sentence": "There is still work to be done, but today we can say with confidence that the immediate threat of a spill has been averted.\u201d The UN Resident and Humanitarian Coordinator for Yemen, David Gressly, who has led UN",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "More than 1.1 million barrels of oil transferred to the replacement tanker over 18 days At 1800 local time, the United Nations successfully completed the transfer of oil from the FSO Safer supertanker off Yemen\u2019s Red Sea coast, preventing the immediate threat of a massive spill. The Safer has been at risk of breaking up or exploding for years. A major spill from the vessel would have resulted in an environmental and humanitarian catastrophe. The cargo of oil aboard the FSO Safer has been pumped onto the replacement vessel MOST Yemen (formerly Nautica) in a ship-to-ship transfer that began on 25 July, following preparations on site for the operation that began in May by leading marine salvage company SMIT, a subsidiary of Boskalis. The UN Development Programme (UNDP), which contracted SMIT, is implementing the operation. As much of the 1.14 million barrels has been extracted as possible. However, less than 2 percent of the original oil cargo remains mixed in with sediment that will be removed during the final cleaning of the Safer. UN Secretary-General Ant\u00f3nio Guterres said: \u201cI welcome the news that the transfer of oil from the FSO Safer has been safely concluded today. The United Nations-led operation has prevented what could have been an environmental and humanitarian catastrophe on a colossal scale.\u201d UNDP Administrator Achim Steiner said: \u201cToday is a proud moment for the many people across the UN System as well as our donors and partners who have worked tirelessly over the past months and years to avert a disaster in a country already vulnerable following protracted conflict. There is still work to be done, but today we can say with confidence that the immediate threat of a spill has been averted.\u201d The UN Resident and Humanitarian Coordinator for Yemen, David Gressly, who has led UN",
+  "date": "11 August 2023"
+}

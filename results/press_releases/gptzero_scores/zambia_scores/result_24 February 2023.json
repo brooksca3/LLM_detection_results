@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6162dcd4-de2d-4823-96ad-645eb7d6c7bd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.18998718261719,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000261467881500721,
+          "perplexity": 16,
+          "sentence": "The United Nations in Zambia has called for wider stakeholder involvement in ensuring sustainable development and attainment of the Sustainable Development Goals (SDGs) in Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002136034454451874,
+          "perplexity": 47,
+          "sentence": "Speaking at a Joint SDG Fund event in Lusaka on 22 February, UN Resident Coordinator, Ms. Beatrice Mutali said that all stakeholders should work towards economic transformation for the benefit of the people of Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019498076289892197,
+          "perplexity": 78,
+          "sentence": "Over 150 participants that included representatives of diplomatic missions, Government ministries, private Sector, think tanks, Civil Society and youth attended the event that showcased key results achieved through the Zambia Integrated National Financing Framework for SDGs joint programme, which the UN has implemented since June 2020 to support sustainable development in Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018962824833579361,
+          "perplexity": 47,
+          "sentence": "Ms Mutali said this in a speech read on her behalf by International Labour Organization (ILO) Director for Zambia, Malawi and Mozambique, Mr. George Okutho.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018613682186696678,
+          "perplexity": 97,
+          "sentence": "\u201cWe cannot continue with business as usual in our planning and implementation processes anymore but enhance efficiency and effectiveness of our interventions in addressing challenges to achieve the desired impact to drive the much-needed transformation to improve the lives of the people of Zambia,\u201d Ms Mutali said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020308044622652233,
+          "perplexity": 87,
+          "sentence": "Speaking at the same event, Minister of Finance and National Planning Dr Situmbeko Musokotwane appealed for innovative approaches for development financing to ensure progress on the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016761134611442685,
+          "perplexity": 90,
+          "sentence": "In a speech read on his behalf by Permanent Secretary for Planning and Administration, Ms Lois Mulube, Dr Musokotwane said that the Government had put in place several interventions in various sectors to support attainment of the SDGs in Zambia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018191836716141552,
+          "perplexity": 45,
+          "sentence": "He also paid tribute to the United Nations for supporting the Government's development aspirations, as outlined in Zambia's Vision 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016036099987104535,
+          "perplexity": 215,
+          "sentence": "\u201cWe appreciate the support rendered to the Government by the UN Family through the Fund in supporting budget and expenditure analysis including facilitating stakeholder engagement; a study on implementation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations in Zambia has called for wider stakeholder involvement in ensuring sustainable development and attainment of the Sustainable Development Goals (SDGs) in Zambia. Speaking at a Joint SDG Fund event in Lusaka on 22 February, UN Resident Coordinator, Ms. Beatrice Mutali said that all stakeholders should work towards economic transformation for the benefit of the people of Zambia. Over 150 participants that included representatives of diplomatic missions, Government ministries, private Sector, think tanks, Civil Society and youth attended the event that showcased key results achieved through the Zambia Integrated National Financing Framework for SDGs joint programme, which the UN has implemented since June 2020 to support sustainable development in Zambia. Ms Mutali said this in a speech read on her behalf by International Labour Organization (ILO) Director for Zambia, Malawi and Mozambique, Mr. George Okutho. \u201cWe cannot continue with business as usual in our planning and implementation processes anymore but enhance efficiency and effectiveness of our interventions in addressing challenges to achieve the desired impact to drive the much-needed transformation to improve the lives of the people of Zambia,\u201d Ms Mutali said. Speaking at the same event, Minister of Finance and National Planning Dr Situmbeko Musokotwane appealed for innovative approaches for development financing to ensure progress on the SDGs. In a speech read on his behalf by Permanent Secretary for Planning and Administration, Ms Lois Mulube, Dr Musokotwane said that the Government had put in place several interventions in various sectors to support attainment of the SDGs in Zambia. He also paid tribute to the United Nations for supporting the Government\u2019s development aspirations, as outlined in Zambia\u2019s Vision 2030. \u201cWe appreciate the support rendered to the Government by the UN Family through the Fund in supporting budget and expenditure analysis including facilitating stakeholder engagement; a study on implementation",
+  "date": "24 February 2023"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "436f8712-7736-4bef-89c8-9634f21caa4d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 66.33626556396484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0020050948951393366,
+          "perplexity": 22,
+          "sentence": "Sarajevo, 14 October 2019 \u1173 A conference on how to respond to South-East Europe's demographic changes by strengthening human capital, gender equality and human rights will take place in Sarajevo, Bosnia and Herzegovina, on 21-22 October 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025913738645613194,
+          "perplexity": 14,
+          "sentence": "The high-level regional conference on \u201cPopulation Dynamics, Human Capital and Sustainable Development in South-East Europe\u201d is organized by UNFPA, the United Nations Population Fund, in collaboration with the Ministry of Foreign Affairs of Bosnia and Herzegovina, the Regional Cooperation Council (RCC), and the United Nations Economic Commission for Europe (UNECE).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024319561198353767,
+          "perplexity": 8,
+          "sentence": "The event is supported by the Offices of the UN Resident Coordinators in Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, and the Office of UN Development Coordinator in Kosovo,[1] as well as the International Organisation for Migration (IOM), United Nations Development Programme (UNDP), and United Nations High Commissioner for Refugees (UNHCR).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00240137567743659,
+          "perplexity": 22,
+          "sentence": "The conference will gather government representatives, academics, civil society, the United Nations and other international multilateral institutions in South-East Europe to discuss demographic trends such as low fertility, population ageing and migration, and how they can be turned from challenge into opportunity by investing in human capital, expanding gender equality and ensuring respect for the rights of all people, including those left behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002130643930286169,
+          "perplexity": 29,
+          "sentence": "Discussions will result in recommendations for action to be taken by the countries in the region for the development of population and social policies that are based on evidence and human rights, and for strengthening regional cooperation on population dynamics and human capital development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002290699165314436,
+          "perplexity": 83,
+          "sentence": "\u201cThe demographic changes happening in South-East Europe are too often seen as a crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019050390692427754,
+          "perplexity": 41,
+          "sentence": "It's time to change this narrative: when managed properly, demographic change can actually open up many new opportunities for the countries in the region,\u201d said Alanna Armitage, UNFPA Regional Director for Eastern Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002211391692981124,
+          "perplexity": 207,
+          "sentence": "This is also key",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sarajevo, 14 October 2019 \u2014 A conference on how to respond to South-East Europe\u2019s demographic changes by strengthening human capital, gender equality and human rights will take place in Sarajevo, Bosnia and Herzegovina, on 21-22 October 2019. The high-level regional conference on \u201cPopulation Dynamics, Human Capital and Sustainable Development in South-East Europe\u201d is organized by UNFPA, the United Nations Population Fund, in collaboration with the Ministry of Foreign Affairs of Bosnia and Herzegovina, the Regional Cooperation Council (RCC), and the United Nations Economic Commission for Europe (UNECE). The event is supported by the Offices of the UN Resident Coordinators in Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, Serbia, and the Office of UN Development Coordinator in Kosovo,[1] as well as the International Organisation for Migration (IOM), United Nations Development Programme (UNDP), and United Nations High Commissioner for Refugees (UNHCR). The conference will gather government representatives, academics, civil society, the United Nations and other international multilateral institutions in South-East Europe to discuss demographic trends such as low fertility, population ageing and migration, and how they can be turned from challenge into opportunity by investing in human capital, expanding gender equality and ensuring respect for the rights of all people, including those left behind. Discussions will result in recommendations for action to be taken by the countries in the region for the development of population and social policies that are based on evidence and human rights, and for strengthening regional cooperation on population dynamics and human capital development. \u201cThe demographic changes happening in South-East Europe are too often seen as a crisis. It\u2019s time to change this narrative: when managed properly, demographic change can actually open up many new opportunities for the countries in the region,\u201d said Alanna Armitage, UNFPA Regional Director for Eastern Europe and Central Asia. This is also key",
+  "date": "14 October 2019"
+}

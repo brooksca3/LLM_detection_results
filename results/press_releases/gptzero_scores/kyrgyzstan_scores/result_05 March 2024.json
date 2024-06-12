@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "31e22c51-5c9b-4dc4-a0d5-cf3cb52a5788",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 88.32235717773438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014215425471775234,
+          "perplexity": 31,
+          "sentence": "A delegation from the World Health Organization's (WHO) Regional Office for Europe, led by Dr Natasha Azzopardi-Muscat, Director of the Division of Country Health Policies and Systems, visited Kyrgyzstan on February 29th for site visits and meetings with key partners on joint priorities for human resources for health, mental health and digital health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016752391820773482,
+          "perplexity": 37,
+          "sentence": "Bishkek, KYRGYZSTAN - A delegation from the World Health Organization's (WHO) Regional Office for Europe, led by Dr Natasha Azzopardi-Muscat, Director of the Division of Country Health Policies and Systems, visited Kyrgyzstan on February 29th for site visits and meetings with key partners on joint priorities for human resources for health, mental health and digital health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017953278438653797,
+          "perplexity": 242,
+          "sentence": "The delegation started with a site visit to the Family Medicine Centre in Alamedin rayon, Chuy oblast.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002797966590151191,
+          "perplexity": 30,
+          "sentence": "The Centre has been testing a new programme for nurses that emphasizes the importance of increased involvement of patients in the management of their diabetes care, as well as in promoting nutrition and healthy lifestyles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002553212398197502,
+          "perplexity": 222,
+          "sentence": "\u201cInvolving patients in their own treatment process has proven benefits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023910938762128353,
+          "perplexity": 42,
+          "sentence": "When patients are allowed to participate in monitoring and treatment, they become more responsible for their own condition, leading to better health outcomes\u201d, said Dr Azzopardi-Muscat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018316229397896677,
+          "perplexity": 56,
+          "sentence": "\u201cThis is one of the key messages we continue to build on from last year's high-level conference on trust and transformation for more resilient and sustainable health systems of the future.\u201d The delegation also met with Dr Mederbek Ismailov, First Deputy Minister of Health and Dr. Aijamal Shambetova, Deputy Minister of Health, to discuss the implementation of WHO's new Country Cooperation Strategy in Kyrgyzstan, signed in November 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024622486671432853,
+          "perplexity": 63,
+          "sentence": "The discussion focused on human resources for health -retention, recruitment, management and training, mental health, and also on health financing and primary health care strengthening as the most effective approach to deliver health care services",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A delegation from the World Health Organization's (WHO) Regional Office for Europe, led by Dr Natasha Azzopardi-Muscat, Director of the Division of Country Health Policies and Systems, visited Kyrgyzstan on February 29th for site visits and meetings with key partners on joint priorities for human resources for health, mental health and digital health. Bishkek, KYRGYZSTAN \u2013 A delegation from the World Health Organization's (WHO) Regional Office for Europe, led by Dr Natasha Azzopardi-Muscat, Director of the Division of Country Health Policies and Systems, visited Kyrgyzstan on February 29th for site visits and meetings with key partners on joint priorities for human resources for health, mental health and digital health. The delegation started with a site visit to the Family Medicine Centre in Alamedin rayon, Chuy oblast. The Centre has been testing a new programme for nurses that emphasizes the importance of increased involvement of patients in the management of their diabetes care, as well as in promoting nutrition and healthy lifestyles. \u201cInvolving patients in their own treatment process has proven benefits. When patients are allowed to participate in monitoring and treatment, they become more responsible for their own condition, leading to better health outcomes\u201d, said Dr Azzopardi-Muscat. \u201cThis is one of the key messages we continue to build on from last year\u2019s high-level conference on trust and transformation for more resilient and sustainable health systems of the future.\u201d The delegation also met with Dr Mederbek Ismailov, First Deputy Minister of Health and Dr. Aijamal Shambetova, Deputy Minister of Health, to discuss the implementation of WHO\u2019s new Country Cooperation Strategy in Kyrgyzstan, signed in November 2023. The discussion focused on human resources for health -retention, recruitment, management and training, mental health, and also on health financing and primary health care strengthening as the most effective approach to deliver health care services",
+  "date": "05 March 2024"
+}

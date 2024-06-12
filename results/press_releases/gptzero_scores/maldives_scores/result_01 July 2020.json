@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2caee59b-2b1a-4815-8e9f-5c8cb62a2d25",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.238826751708984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004844640498049557,
+          "perplexity": 58,
+          "sentence": "Today marked the culmination of 'Youth Vision - an Art Workshop' - a series of virtual art camps held over two successful workshops, where 50 Maldivian youth from across the country were guided and mentored to create an art piece that reflects their own personal stories and lived experiences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043928815284743905,
+          "perplexity": 48,
+          "sentence": "The work of the participants is being showcased in a virtual exhibition launched at the closing ceremony of the event held this afternoon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003007929481100291,
+          "perplexity": 43,
+          "sentence": "'Youth Vision - An Art Workshop' is an initiative by the United Nations Development Programme (UNDP) in Maldives, in collaboration with the Ministry of Youth, Sports and Community Empowerment, European Union and Ooredoo Maldives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004244601586833596,
+          "perplexity": 24,
+          "sentence": "'We are living through challenging times but the light at the end of the tunnel seems bright.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003986495139542967,
+          "perplexity": 62,
+          "sentence": "Dear youth, my message to you is go out there, explore the opportunities; the world is now connected more than ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037014216650277376,
+          "perplexity": 63,
+          "sentence": "Don't give up, because you are the leaders whom we are counting on to pass the torch,' said Mr. Ahmed Irash, Registrar of NGO's at the Ministry of Youth, Sports and Community Empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044179437099955976,
+          "perplexity": 37,
+          "sentence": "With the aim to promote physical and mental well-being of young people amidst the COVID-19 pandemic, the virtual art camps targeted at youth between the age of 16-25 years of age, aimed to create a space for young people to meaningfully engage with each other while building their leadership and critical thinking skills.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005088719772174954,
+          "perplexity": 43,
+          "sentence": "Using art as a means to spark conversations, the art camps provided a safe space to help young people engage in respectful dialogue about important societal issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003218128113076091,
+          "perplexity": 54,
+          "sentence": "'The European Union is proud to support initiatives such as the Youth Vision: Art Workshop, as part of our larger efforts to build community resilience and promote social cohesion through our ongoing EUR 1 million project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003263187827542424,
+          "perplexity": 41,
+          "sentence": "We are pleased to partner with UNDP",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today marked the culmination of \u2018Youth Vision \u2013 an Art Workshop\u2019 \u2013 a series of virtual art camps held over two successful workshops, where 50 Maldivian youth from across the country were guided and mentored to create an art piece that reflects their own personal stories and lived experiences. The work of the participants is being showcased in a virtual exhibition launched at the closing ceremony of the event held this afternoon. \u2018Youth Vision \u2013 An Art Workshop\u2019 is an initiative by the United Nations Development Programme (UNDP) in Maldives, in collaboration with the Ministry of Youth, Sports and Community Empowerment, European Union and Ooredoo Maldives. \u2018We are living through challenging times but the light at the end of the tunnel seems bright. Dear youth, my message to you is go out there, explore the opportunities; the world is now connected more than ever. Don\u2019t give up, because you are the leaders whom we are counting on to pass the torch,\u2019 said Mr. Ahmed Irash, Registrar of NGO\u2019s at the Ministry of Youth, Sports and Community Empowerment. With the aim to promote physical and mental well-being of young people amidst the COVID-19 pandemic, the virtual art camps targeted at youth between the age of 16-25 years of age, aimed to create a space for young people to meaningfully engage with each other while building their leadership and critical thinking skills. Using art as a means to spark conversations, the art camps provided a safe space to help young people engage in respectful dialogue about important societal issues. \u2018The European Union is proud to support initiatives such as the Youth Vision: Art Workshop, as part of our larger efforts to build community resilience and promote social cohesion through our ongoing EUR 1 million project. We are pleased to partner with UNDP",
+  "date": "01 July 2020"
+}

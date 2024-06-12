@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9952d9e5-ee63-4f87-8dbb-66c3f535140e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 115.61566925048828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004297996638342738,
+          "perplexity": 24,
+          "sentence": "The United Nations (UN) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) have observed with concern the increasing violence acts arising from the recent by-elections in Montserrado County.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003014540998265147,
+          "perplexity": 23,
+          "sentence": "We deplore the violent attacks that have taken place during the Senatorial and Representative by-elections and reiterate that electoral violence in all its forms and manifestations is criminal and unjustifiable, regardless of their motivation, and constitutes one of the most serious threats to peace and security of Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027376814978197217,
+          "perplexity": 51,
+          "sentence": "We condemn the violence that occurred on Saturday, 17 August in District #15, Montserrado County, between supporters of the Coalition for Democratic Change and supporters of the Opposition Collaborating Political Parties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000299024221021682,
+          "perplexity": 356,
+          "sentence": "We commend the Government of Liberia's swift move to defusetensions and foster dialogue between antagonists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027141120517626405,
+          "perplexity": 13,
+          "sentence": "We, therefore, urge the Ministry of Justice and the Liberia National Police to carry out a prompt and impartial investigation into the unfortunate incident so that those responsible are held accountable, regardless of their political affiliations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003076926223002374,
+          "perplexity": 34,
+          "sentence": "We urge all Liberians in general and political parties in particular to reject violence and avoid using inflammatory language or hate speech that could further increase tensions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029654745594598353,
+          "perplexity": 51,
+          "sentence": "We appeal to Liberians to safeguard the hard-won gains made in consolidating peace and democracy and urge them to address electoral complaints in a peaceful manner and through legal means.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003219824575353414,
+          "perplexity": 23,
+          "sentence": "The United Nations (UN) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) wish to renew our continued support to peaceful, credible and inclusive elections.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations (UN) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) have observed with concern the increasing violence acts arising from the recent by-elections in Montserrado County. We deplore the violent attacks that have taken place during the Senatorial and Representative by-elections and reiterate that electoral violence in all its forms and manifestations is criminal and unjustifiable, regardless of their motivation, and constitutes one of the most serious threats to peace and security of Liberia. We condemn the violence that occurred on Saturday, 17 August in District #15, Montserrado County, between supporters of the Coalition for Democratic Change and supporters of the Opposition Collaborating Political Parties. We commend the Government of Liberia\u2019s swift move to defusetensions and foster dialogue between antagonists. We, therefore, urge the Ministry of Justice and the Liberia National Police to carry out a prompt and impartial investigation into the unfortunate incident so that those responsible are held accountable, regardless of their political affiliations. We urge all Liberians in general and political parties in particular to reject violence and avoid using inflammatory language or hate speech that could further increase tensions. We appeal to Liberians to safeguard the hard-won gains made in consolidating peace and democracy and urge them to address electoral complaints in a peaceful manner and through legal means. The United Nations (UN) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) wish to renew our continued support to peaceful, credible and inclusive elections.",
+  "date": "19 August 2019"
+}

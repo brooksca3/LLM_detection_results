@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "914b004b-eb6f-472a-a8bd-131b828b7aee",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 110.56220245361328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001116500236093998,
+          "perplexity": 60,
+          "sentence": "It is noted that there has been a progressive downward trend on the number of new confirmed COVD-19 cases - Minister of Health In the past 24 hours, Malawi has registered 46 new COVID-19 cases, 156 new recoveries and four new deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010352638782933354,
+          "perplexity": 95,
+          "sentence": "All new cases are locally transmitted: 17 from Blantyre, 12 from Lilongwe, four from Mangochi, two each from Mzomba North, Zomba, Dowa, and Neno, and one each from Salima, Kasungu, Mchinji, Thyolo, and Machinga Districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009284396655857563,
+          "perplexity": 127,
+          "sentence": "Four new deaths were registered in the past 24 hours: two each from Mchinji and Neno Districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009184989612549543,
+          "perplexity": 435,
+          "sentence": "All new deaths were not vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014380114153027534,
+          "perplexity": 18,
+          "sentence": "To the families that have lost their loved ones during this pandemic, may you find peace, hope and love during this difficult time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018469080096110702,
+          "perplexity": 33,
+          "sentence": "May the souls of the departed rest in peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009314864873886108,
+          "perplexity": 83,
+          "sentence": "Cumulatively, Malawi has recorded 61,098 cases including 2,236 deaths (Case Fatality Rate is at 3.66%).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008957683457992971,
+          "perplexity": 97,
+          "sentence": "Of these cases, 2,616 are imported infections and 58,482 are locally transmitted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009053245303221047,
+          "perplexity": 51,
+          "sentence": "Cumulatively, 50,312 cases have now recovered (recovery rate of 82.4%) and 232 were lost to follow-up.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00142007099930197,
+          "perplexity": 34,
+          "sentence": "This brings the total number of active cases to 8,318.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023441691882908344,
+          "perplexity": 67,
+          "sentence": "In the past 24 hours, there were eight new admissions (six new admissions are not vaccinated, one received on dose of AstraZeneca while one is fully vaccinated) in the treatment units while four cases were discharged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029514282941818237,
+          "perplexity": 76,
+          "sentence": "Currently, a total of 82 active cases are currently hospitalised (of these, 13 cases are in critical condition of which 12 are not vaccinated while one got a single dose of AstraZeneca vaccine): 21 in Lilongwe, 14 in Blantyre, 0 in Mzimba North, seven in Zomba, six in Karonga, three each in Thyolo and Chikwawa, two each in Mangochi, Salima, Dowa, and Chiradzulu, and one each in Nkhata Bay, Neno, Mchinji, Balaka, Dedza, Nkhotakota, Ntcheu, Phalombe, Machinga, and Nsanje",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "It is noted that there has been a progressive downward trend on the number of new confirmed COVD-19 cases - Minister of Health In the past 24 hours, Malawi has registered 46 new COVID-19 cases, 156 new recoveries and four new deaths. All new cases are locally transmitted: 17 from Blantyre, 12 from Lilongwe, four from Mangochi, two each from Mzomba North, Zomba, Dowa, and Neno, and one each from Salima, Kasungu, Mchinji, Thyolo, and Machinga Districts. Four new deaths were registered in the past 24 hours: two each from Mchinji and Neno Districts. All new deaths were not vaccinated. To the families that have lost their loved ones during this pandemic, may you find peace, hope and love during this difficult time. May the souls of the departed rest in peace. Cumulatively, Malawi has recorded 61,098 cases including 2,236 deaths (Case Fatality Rate is at 3.66%). Of these cases, 2,616 are imported infections and 58,482 are locally transmitted. Cumulatively, 50,312 cases have now recovered (recovery rate of 82.4%) and 232 were lost to follow-up. This brings the total number of active cases to 8,318. In the past 24 hours, there were eight new admissions (six new admissions are not vaccinated, one received on dose of AstraZeneca while one is fully vaccinated) in the treatment units while four cases were discharged. Currently, a total of 82 active cases are currently hospitalised (of these, 13 cases are in critical condition of which 12 are not vaccinated while one got a single dose of AstraZeneca vaccine): 21 in Lilongwe, 14 in Blantyre, 0 in Mzimba North, seven in Zomba, six in Karonga, three each in Thyolo and Chikwawa, two each in Mangochi, Salima, Dowa, and Chiradzulu, and one each in Nkhata Bay, Neno, Mchinji, Balaka, Dedza, Nkhotakota, Ntcheu, Phalombe, Machinga, and Nsanje",
+  "date": "11 September 2021"
+}

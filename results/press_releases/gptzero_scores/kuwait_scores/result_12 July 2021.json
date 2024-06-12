@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f3732903-6879-437e-a4ce-6c725a332886",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.94013595581055,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022284469741862267,
+          "perplexity": 39,
+          "sentence": "Kuwait - Monday 12 July 2021, Driven by mutual objective of promoting sustainable development, Agenda 2030 among private sector in Kuwait within Kuwait vision 2035, the Kuwait Chamber of Commerce and Industry (KCCI) and the United Nations (UN) in Kuwait signed a Memorandum of Understanding (MOU) that articulate their partnership and potential collaboration in support of Kuwait private sector active engagement in national, regional and international collective actions to achieve sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020668677461799234,
+          "perplexity": 57,
+          "sentence": "The partnership is based on goodwill, active collaboration as well as mutually beneficial activities and will among other things: This MoU will focus on areas of promoting sustainable development among the chamber constituents in Kuwait; strengthening partnerships and cooperation to support youth-led innovation initiatives in Kuwait; supporting the activities for community led initiatives in support of National Development Plan of State of Kuwait through private sector activities and initiatives, in addition to information/ knowledge exchange and organization of joint events, workshops, webinars and activities to advance private sector effective engagement and dialogue as the leading force for the advancement of sustainable development and the economy for the upcoming era in Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021457427646964788,
+          "perplexity": 62,
+          "sentence": "Dr Tarek Elsheikh, the Representative of the United Nations Secretary General and the Resident Coordinator to the State of Kuwait emphasized that: \u201cThis collaboration comes in a timely manner allowing both partners to build on existing efforts and explore opportunities in many areas such as environment, socioeconomic, governance (ESG) and policies, to ensure sustainable business practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001824970677262172,
+          "perplexity": 185,
+          "sentence": "The MoU also covers areas of support to capacity building and development of policy papers, assessments, and situation analysis, providing support from UN Specialized Agencies, programmes and Funds through the One UN approach in accordance with the Kuwait/UN Strategic Cooperation Framework 2020-2025\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021659609046764672,
+          "perplexity": 128,
+          "sentence": "\u201cThe UN is committed to actively provide support through its own resources, networks, systems and tools, bringing top",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait - Monday 12 July 2021, Driven by mutual objective of promoting sustainable development, Agenda 2030 among private sector in Kuwait within Kuwait vision 2035, the Kuwait Chamber of Commerce and Industry (KCCI) and the United Nations (UN) in Kuwait signed a Memorandum of Understanding (MOU) that articulate their partnership and potential collaboration in support of Kuwait private sector active engagement in national, regional and international collective actions to achieve sustainable development. The partnership is based on goodwill, active collaboration as well as mutually beneficial activities and will among other things: This MoU will focus on areas of promoting sustainable development among the chamber constituents in Kuwait; strengthening partnerships and cooperation to support youth-led innovation initiatives in Kuwait; supporting the activities for community led initiatives in support of National Development Plan of State of Kuwait through private sector activities and initiatives, in addition to information/ knowledge exchange and organization of joint events, workshops, webinars and activities to advance private sector effective engagement and dialogue as the leading force for the advancement of sustainable development and the economy for the upcoming era in Kuwait. Dr Tarek Elsheikh, the Representative of the United Nations Secretary General and the Resident Coordinator to the State of Kuwait emphasized that : \u201cThis collaboration comes in a timely manner allowing both partners to build on existing efforts and explore opportunities in many areas such as environment, socioeconomic, governance (ESG) and policies, to ensure sustainable business practices. The MoU also covers areas of support to capacity building and development of policy papers, assessments, and situation analysis, providing support from UN Specialized Agencies, programmes and Funds through the One UN approach in accordance with the Kuwait/UN Strategic Cooperation Framework 2020-2025\u201d. \u201cThe UN is committed to actively provide support through its own resources, networks, systems and tools, bringing top",
+  "date": "12 July 2021"
+}

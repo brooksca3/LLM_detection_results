@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f8de9452-7729-4314-8cce-3e95dc5d5dec",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.60137939453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001136588616645895,
+          "perplexity": 67,
+          "sentence": "The new UNICEF Representative in Iraq, Sandra Lattouf, presented yesterday her credentials to Counsellor Mr. Ammar Mohammed Dawood, Head of the Protocol Department, Ministry of Foreign Affairs of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011986344179604203,
+          "perplexity": 81,
+          "sentence": "BAGHDAD, 17 July 2023 - Sandra Lattouf presented her credentials yesterday as UNICEF's new Representative in Iraq to Counsellor Mr. Ammar Mohammed Dawood, Head of the Protocol Department, Ministry of Foreign Affairs of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010977382771670818,
+          "perplexity": 79,
+          "sentence": "\u201cIt is a great honour to join the team in Iraq to serve the most vulnerable children and lead the remarkable work for children as we transition from humanitarian into development work,' said Ms. Lattouf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010959487553918734,
+          "perplexity": 30,
+          "sentence": "\u201cI look forward to working closely with the Government of Iraq, partners, other UN agencies and civil society to uphold the rights of every child and young people and enable them to reach their full potential.\u201d From July 2020 to June 2023, Ms. Lattouf was the UNICEF Representative in Burkina Faso.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011114151129731908,
+          "perplexity": 18,
+          "sentence": "Previously, she was the UNICEF Representative in Gambia (2017-2020) and the Deputy Representative in Sierra Leone (2015-2017).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001070690414053388,
+          "perplexity": 15,
+          "sentence": "She also held numerous positions in UNICEF, including at headquarters in New York, as well as in country and field offices, notably in Haiti, Sudan, and the Democratic Republic of Congo (DRC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011091853230027482,
+          "perplexity": 33,
+          "sentence": "Prior to joining UNICEF, Ms. Lattouf worked for the international NGO Solidarit\u00e9s (1999-2002) as a Nutrition Programme Coordinator and served in Bujumbura, Burundi; Goma, DRC; and Paris, France.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011283427011221647,
+          "perplexity": 100,
+          "sentence": "Ms. Lattouf is a national of Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010848895908566192,
+          "perplexity": 20,
+          "sentence": "She holds an advanced university degree in Nutrition and Food Security from the University of Montpellier in France; a Master's Degree in Biochemistry and a License in Chemistry from the University of Sciences and Techniques in Tours in France.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010428002860862762,
+          "perplexity": 47,
+          "sentence": "The new Representative will play a critical role in steering the UNICEF Country Office in Iraq in supporting the Government of Iraq in fulfilling their commitments on the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The new UNICEF Representative in Iraq, Sandra Lattouf, presented yesterday her credentials to Counsellor Mr. Ammar Mohammed Dawood, Head of the Protocol Department, Ministry of Foreign Affairs of Iraq. BAGHDAD, 17 July 2023 - Sandra Lattouf presented her credentials yesterday as UNICEF\u2019s new Representative in Iraq to Counsellor Mr. Ammar Mohammed Dawood, Head of the Protocol Department, Ministry of Foreign Affairs of Iraq. \u201cIt is a great honour to join the team in Iraq to serve the most vulnerable children and lead the remarkable work for children as we transition from humanitarian into development work,\u2019 said Ms. Lattouf. \u201cI look forward to working closely with the Government of Iraq, partners, other UN agencies and civil society to uphold the rights of every child and young people and enable them to reach their full potential.\u201d From July 2020 to June 2023, Ms. Lattouf was the UNICEF Representative in Burkina Faso. Previously, she was the UNICEF Representative in Gambia (2017-2020) and the Deputy Representative in Sierra Leone (2015-2017). She also held numerous positions in UNICEF, including at headquarters in New York, as well as in country and field offices, notably in Haiti, Sudan, and the Democratic Republic of Congo (DRC). Prior to joining UNICEF, Ms. Lattouf worked for the international NGO Solidarit\u00e9s (1999-2002) as a Nutrition Programme Coordinator and served in Bujumbura, Burundi; Goma, DRC; and Paris, France. Ms. Lattouf is a national of Lebanon. She holds an advanced university degree in Nutrition and Food Security from the University of Montpellier in France; a Master\u2019s Degree in Biochemistry and a License in Chemistry from the University of Sciences and Techniques in Tours in France. The new Representative will play a critical role in steering the UNICEF Country Office in Iraq in supporting the Government of Iraq in fulfilling their commitments on the",
+  "date": "17 July 2023"
+}

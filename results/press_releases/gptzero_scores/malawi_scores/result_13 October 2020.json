@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9fb063c8-ab8c-49c9-bf95-e869e191c0a3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.58234405517578,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005642700474709272,
+          "perplexity": 27,
+          "sentence": "WFP's Nobel Peace Prize dedicated to partners fighting hunger in Malawi The United Nations in Malawi congratulates the World Food Programme (WFP) for winning the 2020 Nobel Peace Prize, and commends the existing partnerships with national authorities, the private sector and communities to effectively respond to food insecurity in the country since 1965.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005032836459577084,
+          "perplexity": 19,
+          "sentence": "The 2020 Nobel Peace Prize was awarded to WFP on Friday, 9th October, by the Norwegian Nobel Committee for its efforts to combat hunger, fight the use of hunger as a weapon of war and improve conditions for peace across the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005366799887269735,
+          "perplexity": 41,
+          "sentence": "In 2018, WFP and other UN entities promoted the passing of a groundbreaking UN Security Council Resolution 2417 that, for the first time, highlighted the link between conflict and food insecurity, indicating the world cannot end hunger if there is no peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005509503651410341,
+          "perplexity": 83,
+          "sentence": "\u201cI am proud that WFP has received this prestigious award.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004760099109262228,
+          "perplexity": 108,
+          "sentence": "It is a recognition of the hard work and dedication to side with those who suffer most to realize the right to food in peace and at war,\u201d said Resident Coordinator Maria Jose Torres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004268714692443609,
+          "perplexity": 46,
+          "sentence": "\u201cWe dedicate the award to men and women in the forefront of efforts to ensure that zero hunger becomes a reality in Malawi.\u201d In Malawi, WFP provides assistance to people affected by climate shocks such as floods or drought.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003103814786300063,
+          "perplexity": 40,
+          "sentence": "Moreover, the country hosts over 40,000 refugees and asylum seekers who receive WFP cash assistance to buy food in the local markets which contributes to their peaceful coexistence with the host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002391326241195202,
+          "perplexity": 113,
+          "sentence": "WFP also works with other UN agencies as part of \u201cOne UN\u201d to keep girls in school, to build resilience and to fight climate change in an integrated approach for smallholder farmers through cash for assets, climate advisories, crop insurance, village savings and loan schemes, as well as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WFP\u2019s Nobel Peace Prize dedicated to partners fighting hunger in Malawi The United Nations in Malawi congratulates the World Food Programme (WFP) for winning the 2020 Nobel Peace Prize, and commends the existing partnerships with national authorities, the private sector and communities to effectively respond to food insecurity in the country since 1965. The 2020 Nobel Peace Prize was awarded to WFP on Friday, 9th October, by the Norwegian Nobel Committee for its efforts to combat hunger, fight the use of hunger as a weapon of war and improve conditions for peace across the world. In 2018, WFP and other UN entities promoted the passing of a groundbreaking UN Security Council Resolution 2417 that, for the first time, highlighted the link between conflict and food insecurity, indicating the world cannot end hunger if there is no peace. \u201cI am proud that WFP has received this prestigious award. It is a recognition of the hard work and dedication to side with those who suffer most to realize the right to food in peace and at war,\u201d said Resident Coordinator Maria Jose Torres. \u201cWe dedicate the award to men and women in the forefront of efforts to ensure that zero hunger becomes a reality in Malawi.\u201d In Malawi, WFP provides assistance to people affected by climate shocks such as floods or drought. Moreover, the country hosts over 40,000 refugees and asylum seekers who receive WFP cash assistance to buy food in the local markets which contributes to their peaceful coexistence with the host communities. WFP also works with other UN agencies as part of \u201cOne UN\u201d to keep girls in school, to build resilience and to fight climate change in an integrated approach for smallholder farmers through cash for assets, climate advisories, crop insurance, village savings and loan schemes, as well as",
+  "date": "13 October 2020"
+}

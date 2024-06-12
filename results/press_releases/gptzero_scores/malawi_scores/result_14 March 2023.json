@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c28246a2-4e3b-4d3f-8029-522629ac1701",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.398162841796875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008881916292011738,
+          "perplexity": 23,
+          "sentence": "The United Nations commends the Government of Malawi for its leadership of preparedness and response measures and calls upon partners to step up efforts to assist people in the districts most affected by the cyclone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007058090413920581,
+          "perplexity": 40,
+          "sentence": "(Lilongwe, 14 March 2023) In the wake of the declaration of a State of Disaster in the Southern Region by the President of the Republic of Malawi, Lazarus Chakwera, the United Nations in Malawi is calling for urgent coordinated support for the people impacted by the destruction caused by Tropical Cyclone Freddy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008043763809837401,
+          "perplexity": 89,
+          "sentence": "Tropical Cyclone Freddy has created an unprecedented crisis in Malawi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006762919365428388,
+          "perplexity": 23,
+          "sentence": "The United Nations commends the Government of Malawi for its leadership of preparedness and response measures and calls upon partners to step up efforts to assist people in the districts most affected by the cyclone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005336292088031769,
+          "perplexity": 86,
+          "sentence": "The UN has been rapidly mobilising support to address immediate needs pending a multi-sectoral assessment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004484810051508248,
+          "perplexity": 33,
+          "sentence": "Technical and financial support provided by the United Nations to establish an Emergency Operations Centre (EOC) has been critical in strengthening humanitarian coordination among Government, NGO and development partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039083254523575306,
+          "perplexity": 44,
+          "sentence": "Furthermore, several UN Agencies have deployed personnel to the affected areas to support coordination of response and assessment efforts in information management and logistics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003695258346851915,
+          "perplexity": 18,
+          "sentence": "UN is providing critical logistical support, including transportation for search and rescue operations as well as to ferry humanitarian workers, equipment and supplies to communities that have been cut off by flooding and landslides, as well as medical supplies and equipment to improve water and sanitation infrastructure to address immediate health needs, including preventing the spread of Cholera.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003789515467360616,
+          "perplexity": 27,
+          "sentence": "Protection of the most vulnerable populations and prevention of sexual exploitation and abuse remain central to the work of the UN, including in humanitarian response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003101217153016478,
+          "perplexity": 35,
+          "sentence": "To this end, UN Agencies are providing food and non-food items such as shelter materials, tents and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations commends the Government of Malawi for its leadership of preparedness and response measures and calls upon partners to step up efforts to assist people in the districts most affected by the cyclone. (Lilongwe, 14 March 2023) In the wake of the declaration of a State of Disaster in the Southern Region by the President of the Republic of Malawi, Lazarus Chakwera, the United Nations in Malawi is calling for urgent coordinated support for the people impacted by the destruction caused by Tropical Cyclone Freddy. Tropical Cyclone Freddy has created an unprecedented crisis in Malawi. The United Nations commends the Government of Malawi for its leadership of preparedness and response measures and calls upon partners to step up efforts to assist people in the districts most affected by the cyclone. The UN has been rapidly mobilising support to address immediate needs pending a multi-sectoral assessment. Technical and financial support provided by the United Nations to establish an Emergency Operations Centre (EOC) has been critical in strengthening humanitarian coordination among Government, NGO and development partners. Furthermore, several UN Agencies have deployed personnel to the affected areas to support coordination of response and assessment efforts in information management and logistics. UN is providing critical logistical support, including transportation for search and rescue operations as well as to ferry humanitarian workers, equipment and supplies to communities that have been cut off by flooding and landslides, as well as medical supplies and equipment to improve water and sanitation infrastructure to address immediate health needs, including preventing the spread of Cholera. Protection of the most vulnerable populations and prevention of sexual exploitation and abuse remain central to the work of the UN, including in humanitarian response. To this end, UN Agencies are providing food and non-food items such as shelter materials, tents and",
+  "date": "14 March 2023"
+}

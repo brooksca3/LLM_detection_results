@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "984e46bb-eddd-431f-bf87-68cf24994cb1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.846649169921875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002599293366074562,
+          "perplexity": 34,
+          "sentence": "Mogadishu, 12th April, 2022: Millions of Somalis are at risk of sliding into famine as the impact of a prolonged drought continues to destroy lives and livelihoods, and growing needs outpace available resources for humanitarian assistance, United Nations agencies warned today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026532565243542194,
+          "perplexity": 5,
+          "sentence": "The United Nations Food and Agriculture Organization (FAO), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Children's Fund (UNICEF), and the United Nations World Food Programme (WFP) are calling for an immediate injection of funds to enable a scale up of life-saving assistance in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027921810396946967,
+          "perplexity": 37,
+          "sentence": "This follows the release of a new Integrated Food Security Phase Classification (IPC) report that found six million Somalis, or almost 40 per cent of the population, are now facing extreme levels of food insecurity, with pockets of famine conditions likely in six areas of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002911343181040138,
+          "perplexity": 21,
+          "sentence": "This is nearly a two-fold increase in the number of people facing extreme levels of acute food insecurity due to the drought and related shocks since the beginning of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002703513309825212,
+          "perplexity": 24,
+          "sentence": "It reflects a rapid deterioration of the humanitarian situation, as millions of Somalis have exhausted their ability to cope with the crisis and funding shortfalls mean humanitarians will be unable to meet the needs of the growing number of people facing emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023980799596756697,
+          "perplexity": 108,
+          "sentence": "\u201cThe projection for the risk of famine in six locations is extremely worrisome and should serve as a very serious warning if we really meant 'never again' after 2011.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002254391147289425,
+          "perplexity": 57,
+          "sentence": "The reality is that time is not on our side and many more lives and livelihoods are bound to be lost in case of further funding delays,\u201d said Adam Abdelmoula, Deputy Special Representative of the Secretary-General, Resident and Humanitarian Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021081368322484195,
+          "perplexity": 91,
+          "sentence": "\u201cI therefore continue to call on the authorities and our development partners to act decisively and help scale up resources to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 12th April, 2022: Millions of Somalis are at risk of sliding into famine as the impact of a prolonged drought continues to destroy lives and livelihoods, and growing needs outpace available resources for humanitarian assistance, United Nations agencies warned today. The United Nations Food and Agriculture Organization (FAO), the Office for the Coordination of Humanitarian Affairs (OCHA), the United Nations Children\u2019s Fund (UNICEF), and the United Nations World Food Programme (WFP) are calling for an immediate injection of funds to enable a scale up of life-saving assistance in Somalia. This follows the release of a new Integrated Food Security Phase Classification (IPC) report that found six million Somalis, or almost 40 per cent of the population, are now facing extreme levels of food insecurity, with pockets of famine conditions likely in six areas of the country. This is nearly a two-fold increase in the number of people facing extreme levels of acute food insecurity due to the drought and related shocks since the beginning of the year. It reflects a rapid deterioration of the humanitarian situation, as millions of Somalis have exhausted their ability to cope with the crisis and funding shortfalls mean humanitarians will be unable to meet the needs of the growing number of people facing emergency. \u201cThe projection for the risk of famine in six locations is extremely worrisome and should serve as a very serious warning if we really meant \u2018never again\u2019 after 2011. The reality is that time is not on our side and many more lives and livelihoods are bound to be lost in case of further funding delays,\u201d said Adam Abdelmoula, Deputy Special Representative of the Secretary-General, Resident and Humanitarian Coordinator. \u201cI therefore continue to call on the authorities and our development partners to act decisively and help scale up resources to",
+  "date": "12 April 2022"
+}

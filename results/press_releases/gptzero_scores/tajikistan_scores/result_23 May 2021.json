@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b45bb0e6-5981-4074-88a3-86140465c072",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.29475975036621,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002051764604402706,
+          "perplexity": 76,
+          "sentence": "Dushanbe 23 May 2021 - 4,6 million doses of polio vaccine arrived to Dushanbe early Sunday morning, 23rd of May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019120164506603032,
+          "perplexity": 52,
+          "sentence": "These vaccines will be used during the national polio immunization campaign planned for May-July 2021 to stop circulation of poliovirus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022252772760111839,
+          "perplexity": 17,
+          "sentence": "In the course of the campaign almost 1.4 million children under the age of six will be targeted to receive oral polio vaccine to strengthen the protection against poliomyelitis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024445506278425455,
+          "perplexity": 105,
+          "sentence": "The shipment was received by the head of the Republic Center of Immunoprofilactic Mr Faizali Saidzoda and the staff of the UNICEF and World Health Organization in Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022818923753220588,
+          "perplexity": 20,
+          "sentence": "The vaccination campaign is led by the Ministry of Health and Social Protection of Population of Tajikistan, and supported by WHO and UNICEF, within the Global Polio Eradication Initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022488823742605746,
+          "perplexity": 70,
+          "sentence": "\u201cUNICEF is working with partners to support local authorities to conduct important rounds of polio campaign to strengthen the immunity of the children against the poliovirus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022372545208781958,
+          "perplexity": 72,
+          "sentence": "The supplemental campaign will be accompanied by a social mobilization campaign to encourage communities to get their children vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020066752040293068,
+          "perplexity": 76,
+          "sentence": "\u201csaid Zainab Al-Azzawi, Deputy Representative for UNICEF Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021456404647324234,
+          "perplexity": 21,
+          "sentence": "After thorough investigation of poliomyelitis cases in the Republic of Tajikistan, the Government and health partners have been working hand-in-hand to prepare for and conduct supplemental immunization of children to prevent transmission of the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015684799291193485,
+          "perplexity": 31,
+          "sentence": "According to the decree of the Government of Tajikistan, two rounds of polio vaccination campaign have been planned on 31 May to 5 June and 28 June - 3 July respectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022347515914589167,
+          "perplexity": 24,
+          "sentence": "\u201cThere is no cure for polio, it can only be prevented through vaccination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003696507483255118,
+          "perplexity": 73,
+          "sentence": "Polio vaccine, given multiple times, can protect a child for life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035449632559902966,
+          "perplexity": 23,
+          "sentence": "Oral polio vaccine is safe and effective, its use enabled eradication of polio in most of the countries around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008777334005571902,
+          "perplexity": 56,
+          "sentence": "The use of oral polio vaccine in Tajikistan is crucial",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Dushanbe 23 May 2021 \u2013 4,6 million doses of polio vaccine arrived to Dushanbe early Sunday morning, 23rd of May. These vaccines will be used during the national polio immunization campaign planned for May-July 2021 to stop circulation of poliovirus. In the course of the campaign almost 1.4 million children under the age of six will be targeted to receive oral polio vaccine to strengthen the protection against poliomyelitis. The shipment was received by the head of the Republic Center of Immunoprofilactic Mr Faizali Saidzoda and the staff of the UNICEF and World Health Organization in Tajikistan. The vaccination campaign is led by the Ministry of Health and Social Protection of Population of Tajikistan, and supported by WHO and UNICEF, within the Global Polio Eradication Initiative. \u201cUNICEF is working with partners to support local authorities to conduct important rounds of polio campaign to strengthen the immunity of the children against the poliovirus. The supplemental campaign will be accompanied by a social mobilization campaign to encourage communities to get their children vaccinated. \u201csaid Zainab Al-Azzawi, Deputy Representative for UNICEF Tajikistan. After thorough investigation of poliomyelitis cases in the Republic of Tajikistan, the Government and health partners have been working hand-in-hand to prepare for and conduct supplemental immunization of children to prevent transmission of the virus. According to the decree of the Government of Tajikistan, two rounds of polio vaccination campaign have been planned on 31 May to 5 June and 28 June \u2013 3 July respectively. \u201cThere is no cure for polio, it can only be prevented through vaccination. Polio vaccine, given multiple times, can protect a child for life. Oral polio vaccine is safe and effective, its use enabled eradication of polio in most of the countries around the world. The use of oral polio vaccine in Tajikistan is crucial",
+  "date": "23 May 2021"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "966d490a-895c-4606-b9f3-5ce2b506ef3f",
+  "documents": [
+    {
+      "average_generated_prob": 0.42857142857142855,
+      "class_probabilities": {
+        "ai": 0.31453311258606614,
+        "human": 0.12616916528368965,
+        "mixed": 0.5592977221302442
+      },
+      "completely_generated_prob": 0.31453311258606614,
+      "confidence_category": "low",
+      "confidence_score": 0.5592977221302442,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.31453311258606614,
+          "human": 0.12616916528368965,
+          "mixed": 0.5592977221302442
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.50038528442383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.01437310773797646,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "mixed",
+      "sentences": [
+        {
+          "generated_prob": 0.35586342215538025,
+          "perplexity": 157,
+          "sentence": "\u201cBy utilizing culture as a resilience-building tool and applying Employment Intensive initiatives to the rehabilitation of Cultural Heritage sites, this innovative project provided short-terms economic opportunities to a total of 1,305 beneficiaries, Jordanians and Syrians\" Under the patronage of H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.40251871943473816,
+          "perplexity": 53,
+          "sentence": "Mr. Makram Queisi, Minister of Tourism and Antiquities, and with the support of the European Union, Friends of Jordan Festivals, and UNESCO Jordan Office, organized an event in Pella and Beit Eidis, Irbid Governorate, to mark the successful conclusion of an initiative aimed at providing dignified and sustainable livelihoods to Syrian refugees and Jordanian host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.44368812441825867,
+          "perplexity": 35,
+          "sentence": "The event held on May 31, 2024, and attended by representatives from UNESCO, the European Union, public authorities, diplomatic community, UN agencies, civil society organizations, and local communities, served as a platform to mark the completion of the \u201cSupport to Livelihoods Through Cultural Heritage Development\u201d project, which was funded by the European Union under the umbrella of the Regional Trust Fund in Response to the Syrian Crisis (Madad).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5119396448135376,
+          "perplexity": 22,
+          "sentence": "Under this initiative, UNESCO, with support of the International Labour Organization (ILO), and in close collaboration with the Ministry of Tourism and Antiquities and the Department of Antiquities (DOA), implemented rehabilitation and maintenance works on six archaeological sites located in the Irbid and Mafraq governorates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9447287321090698,
+          "perplexity": 34,
+          "sentence": "The initiative aims to preserve Jordan's rich cultural heritage while creating short-term employment opportunities for 1,305 people, who are amongst the most vulnerable members of the local communities and Syrian refugees.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.955810546875,
+          "perplexity": 77,
+          "sentence": "The interventions carried out addressed various aspects of conservation and maintenance works, such as general cleaning, consolidation, stabilization and limited reconstruction of walls, preservation of mosaics, implementation of safety and accessibility measures, and maintenance of tourist trails.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9883665442466736,
+          "perplexity": 38,
+          "sentence": "The Jordanian Department of Antiquities played a pivotal role in the successful implementation of the project, offering accessibility to the sites, and ensuring",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "MIXED",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cBy utilizing culture as a resilience-building tool and applying Employment Intensive initiatives to the rehabilitation of Cultural Heritage sites, this innovative project provided short-terms economic opportunities to a total of 1,305 beneficiaries, Jordanians and Syrians\" Under the patronage of H.E. Mr. Makram Queisi, Minister of Tourism and Antiquities, and with the support of the European Union, Friends of Jordan Festivals, and UNESCO Jordan Office, organized an event in Pella and Beit Eidis, Irbid Governorate, to mark the successful conclusion of an initiative aimed at providing dignified and sustainable livelihoods to Syrian refugees and Jordanian host communities. The event held on May 31, 2024, and attended by representatives from UNESCO, the European Union, public authorities, diplomatic community, UN agencies, civil society organizations, and local communities, served as a platform to mark the completion of the \u201cSupport to Livelihoods Through Cultural Heritage Development\u201d project, which was funded by the European Union under the umbrella of the Regional Trust Fund in Response to the Syrian Crisis (Madad). Under this initiative, UNESCO, with support of the International Labour Organization (ILO), and in close collaboration with the Ministry of Tourism and Antiquities and the Department of Antiquities (DOA), implemented rehabilitation and maintenance works on six archaeological sites located in the Irbid and Mafraq governorates. The initiative aims to preserve Jordan\u2019s rich cultural heritage while creating short-term employment opportunities for 1,305 people, who are amongst the most vulnerable members of the local communities and Syrian refugees. The interventions carried out addressed various aspects of conservation and maintenance works, such as general cleaning, consolidation, stabilization and limited reconstruction of walls, preservation of mosaics, implementation of safety and accessibility measures, and maintenance of tourist trails. The Jordanian Department of Antiquities played a pivotal role in the successful implementation of the project, offering accessibility to the sites, and ensuring",
+  "date": "03 June 2024"
+}

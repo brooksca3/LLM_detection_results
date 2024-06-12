@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fd24d742-9c9a-4be0-ba41-7b2fc671c296",
+  "documents": [
+    {
+      "average_generated_prob": 1,
+      "class_probabilities": {
+        "ai": 0.7727242480039814,
+        "human": 0.2236377524733814,
+        "mixed": 0.0036379995226370836
+      },
+      "completely_generated_prob": 0.7727242480039814,
+      "confidence_category": "low",
+      "confidence_score": 0.7727242480039814,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.7727242480039814,
+          "human": 0.2236377524733814,
+          "mixed": 0.0036379995226370836
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.991756439208984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9103421900070616,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "ai",
+      "sentences": [
+        {
+          "generated_prob": 0.9562428593635559,
+          "perplexity": 19,
+          "sentence": "The 14th Meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (CMS COP14) is set to take place in the historic city of Samarkand, Uzbekistan, from 12 to 17 February 2024.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9553571343421936,
+          "perplexity": 38,
+          "sentence": "The conference will be convened under the slogan, \"Nature knows no borders\", which, along with the logo, is a reminder that the journeys of migratory species do not adhere to political boundaries, and that their survival is dependent on international collaboration and transboundary conservations efforts.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9584128260612488,
+          "perplexity": 39,
+          "sentence": "CMS COP14 is a significant international meeting where governments, scientists and stakeholders will come together to agree on strategies for the conservation of migratory species and their habitats.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9578482508659363,
+          "perplexity": 27,
+          "sentence": "This meeting will be the first global biodiversity gathering since the adoption of the Kunming-Montreal Global Biodiversity Framework (GBF) in 2022, and will address a wide range of important conservation priorities and new initiatives, including many that will support the implementation of the GBF.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9563751220703125,
+          "perplexity": 21,
+          "sentence": "The triennial international meeting will highlight the issues of habitat conservation and restoration as well as threats to species such as overexploitation, habitat loss and fragmentation, pollution and climate change.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.959555983543396,
+          "perplexity": 32,
+          "sentence": "It will also provide a unique opportunity for the launch of major new reports and guidelines, including the first-ever report on the 'State of the World's Migratory Species', new global guidelines on light pollution, and best practices for linear infrastructure to minimize impacts on migratory species.",
+          "highlight_sentence_for_ai": true
+        },
+        {
+          "generated_prob": 0.9607546329498291,
+          "perplexity": 95,
+          "sentence": "COP14-associated events and meetings such as the 54th Meeting of the CMS Standing Committee, the High-Level Segment and the Migratory Species Champion Night will take place in the same location on 11 February.",
+          "highlight_sentence_for_ai": true
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "AI_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The 14th Meeting of the Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals (CMS COP14) is set to take place in the historic city of Samarkand, Uzbekistan, from 12 to 17 February 2024. The conference will be convened under the slogan, \"Nature knows no borders\", which, along with the logo, is a reminder that the journeys of migratory species do not adhere to political boundaries, and that their survival is dependent on international collaboration and transboundary conservations efforts. CMS COP14 is a significant international meeting where governments, scientists and stakeholders will come together to agree on strategies for the conservation of migratory species and their habitats. This meeting will be the first global biodiversity gathering since the adoption of the Kunming-Montreal Global Biodiversity Framework (GBF) in 2022, and will address a wide range of important conservation priorities and new initiatives, including many that will support the implementation of the GBF. The triennial international meeting will highlight the issues of habitat conservation and restoration as well as threats to species such as overexploitation, habitat loss and fragmentation, pollution and climate change. It will also provide a unique opportunity for the launch of major new reports and guidelines, including the first-ever report on the \u2018State of the World\u2019s Migratory Species\u2019, new global guidelines on light pollution, and best practices for linear infrastructure to minimize impacts on migratory species. COP14-associated events and meetings such as the 54th Meeting of the CMS Standing Committee, the High-Level Segment and the Migratory Species Champion Night will take place in the same location on 11 February.",
+  "date": "22 January 2024"
+}

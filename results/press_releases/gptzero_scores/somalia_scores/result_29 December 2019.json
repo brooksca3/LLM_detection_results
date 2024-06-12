@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6fa4131a-1ca2-4af7-b4a1-ac2208cd2bb2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030492492213868388,
+        "human": 0.9695075077861316,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.030492492213868388,
+      "confidence_category": "high",
+      "confidence_score": 0.9695075077861316,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030492492213868388,
+          "human": 0.9695075077861316,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.626035690307617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.011015322059392929,
+          "perplexity": 54,
+          "sentence": "New York - The members of the Security Council condemned in the strongest possible terms the terrorist attack of 28 December 2019 at the Ex-control Afgoye Junction in Mogadishu, which killed and injured innocent people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011092845350503922,
+          "perplexity": 11,
+          "sentence": "The members of the Security Council expressed their deepest sympathy and condolences to the families of the victims, as well as to the people and Government of Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010854851454496384,
+          "perplexity": 51,
+          "sentence": "The members of the Security Council wished a speedy recovery to those injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01083022728562355,
+          "perplexity": 8,
+          "sentence": "The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009903981350362301,
+          "perplexity": 12,
+          "sentence": "The members of the Security Council underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with the Government of Somalia and all other relevant authorities in this regard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010031397454440594,
+          "perplexity": 26,
+          "sentence": "The members of the Security Council reiterated that any acts of terrorism are criminal and unjustifiable, regardless of their motivation, wherever, whenever and by whomsoever committed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009062557481229305,
+          "perplexity": 11,
+          "sentence": "The members of the Security Council reaffirmed the need for all States to combat by all means, in accordance with the Charter of the United Nations and other obligations under international law, including international human rights law, international refugee law and international humanitarian law, threats to international peace and security caused by terrorist attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008927813731133938,
+          "perplexity": 28,
+          "sentence": "The members of the Security Council paid tribute to all Somali and international actors working to bring peace and stability in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009866844862699509,
+          "perplexity": 23,
+          "sentence": "The members of the Security Council reiterated their determination to support peace, stability, and development in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008068564347922802,
+          "perplexity": 65,
+          "sentence": "They underlined that neither this nor any other terrorist attack would weaken that determination.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York \u2013 The members of the Security Council condemned in the strongest possible terms the terrorist attack of 28 December 2019 at the Ex-control Afgoye Junction in Mogadishu, which killed and injured innocent people. The members of the Security Council expressed their deepest sympathy and condolences to the families of the victims, as well as to the people and Government of Somalia. The members of the Security Council wished a speedy recovery to those injured. The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security. The members of the Security Council underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with the Government of Somalia and all other relevant authorities in this regard. The members of the Security Council reiterated that any acts of terrorism are criminal and unjustifiable, regardless of their motivation, wherever, whenever and by whomsoever committed. The members of the Security Council reaffirmed the need for all States to combat by all means, in accordance with the Charter of the United Nations and other obligations under international law, including international human rights law, international refugee law and international humanitarian law, threats to international peace and security caused by terrorist attacks. The members of the Security Council paid tribute to all Somali and international actors working to bring peace and stability in Somalia. The members of the Security Council reiterated their determination to support peace, stability, and development in Somalia. They underlined that neither this nor any other terrorist attack would weaken that determination.",
+  "date": "29 December 2019"
+}

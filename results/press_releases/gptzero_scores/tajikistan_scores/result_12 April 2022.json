@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "43650278-c532-4ca6-b3a5-923c78106d01",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.35144805908203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00025644127163104713,
+          "perplexity": 23,
+          "sentence": "The United Nations Population Fund (UNFPA) in cooperation with the UNHCR Representation in Tajikistan, with the financial support of the UK Government provided 1,080 hygiene kits and 80 food packages for Afghan refugee families, who live in Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025698196259327233,
+          "perplexity": 80,
+          "sentence": "The handing-over ceremony attended by Mr. Paul Robbins, Regional Portfolio Manager for Central Asia (UK CSSF), Mr. Yu Yu UNFPA Representative in Uzbekistan and Country Director in Tajikistan, Ms. Nargis Rakhimova- UNFPA Tajikistan Head of Office, Ms. Roza Minasyan, International Protection Officer UNHCR, the UN Refugee Agency, Mr. Musovir Bahoduri, representative of the community of Afghan refugees in Tajikistan \u201cAriana\u201d, as well as officers of the above organizations and media representatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002883745764847845,
+          "perplexity": 81,
+          "sentence": "Mr. Yu Yu- \u00abUNFPA would like to extend its sincere appreciation to UK CSSF, the Government of Tajikistan and UNHCR for providing funding and support to help women and girls at risk of violence, and the community of Afghan refugees for its strong commitment for the delivery of our dignity kits down to communities\u00bb.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030016989912837744,
+          "perplexity": 177,
+          "sentence": "Mr. Paul Robbins - \u00abUK CSSF funded the great work that UNFPA has carried out in strengthening the national capacities across the Central Asia in prevention and responses to the violence against women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002740937750786543,
+          "perplexity": 137,
+          "sentence": "This project has been important in development and operationalization Standard Operational Procedures, protocol and packages in health, psychosocial and police services and they are promoting a multi-sectoral support to GBV.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003085381118580699,
+          "perplexity": 206,
+          "sentence": "The project has paid a special attention to the integrating the need of the vulnerable groups\u00bb.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003003620309755206,
+          "perplexity": 96,
+          "sentence": "Ms. Roza Minasyan - \u00abThis support is very important because without WASH and sanitation there is a high risk of the spread of the diseases among households and communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029958283994346857,
+          "perplexity": 94,
+          "sentence": "It is very timely to provide the dignity kits to Afghan families, women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002819002140313387,
+          "perplexity": 30,
+          "sentence": "This is a good start and we will continue our efforts in mobilizing funds",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Population Fund (UNFPA) in cooperation with the UNHCR Representation in Tajikistan, with the financial support of the UK Government provided 1,080 hygiene kits and 80 food packages for Afghan refugee families, who live in Tajikistan. The handing-over ceremony attended by Mr. Paul Robbins, Regional Portfolio Manager for Central Asia (UK CSSF), Mr. Yu Yu UNFPA Representative in Uzbekistan and Country Director in Tajikistan, Ms. Nargis Rakhimova- UNFPA Tajikistan Head of Office, Ms. Roza Minasyan, International Protection Officer UNHCR, the UN Refugee Agency, Mr. Musovir Bahoduri, representative of the community of Afghan refugees in Tajikistan \u201cAriana\u201d, as well as officers of the above organizations and media representatives. Mr. Yu Yu- \u00abUNFPA would like to extend its sincere appreciation to UK CSSF, the Government of Tajikistan and UNHCR for providing funding and support to help women and girls at risk of violence, and the community of Afghan refugees for its strong commitment for the delivery of our dignity kits down to communities\u00bb. Mr. Paul Robbins - \u00abUK CSSF funded the great work that UNFPA has carried out in strengthening the national capacities across the Central Asia in prevention and responses to the violence against women. This project has been important in development and operationalization Standard Operational Procedures, protocol and packages in health, psychosocial and police services and they are promoting a multi-sectoral support to GBV. The project has paid a special attention to the integrating the need of the vulnerable groups\u00bb. Ms. Roza Minasyan - \u00abThis support is very important because without WASH and sanitation there is a high risk of the spread of the diseases among households and communities. It is very timely to provide the dignity kits to Afghan families, women and children. This is a good start and we will continue our efforts in mobilizing funds",
+  "date": "12 April 2022"
+}

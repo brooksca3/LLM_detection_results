@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f2dcadaf-4ed3-41ab-b89a-5864133fff9c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.4219970703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0039086476899683475,
+          "perplexity": 43,
+          "sentence": "To mark the occasion, WHO held a ceremony at the UNESCO Palace in Beirut under the patronage and in the presence of Dr Firass Abiad, the Minister of Public Health, Dr Abdinasir Abubakar, the WHO Representative in Lebanon, Mr Imran Riza, the United Nations Resident Coordinator, Mr Andreas Kindl, the German Ambassador, and a remarkable number of official and diplomatic figures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003825897118076682,
+          "perplexity": 64,
+          "sentence": "The ceremony started with a short documentary on the history of WHO since the establishment of its presence in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034738914109766483,
+          "perplexity": 33,
+          "sentence": "The documentary focused on the most important events involving the Organization during the crises of the years before the civil war, through the war and its aftermath, and up to the present day, covering the different emergencies and epidemics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003542072605341673,
+          "perplexity": 34,
+          "sentence": "In a pre-recorded speech for World Health Day (7 April), Prime Minister Najib Mikati said: \u201cWe thank WHO for its constant support for health issues in Lebanon and its tireless support through its continuous cooperation with the Ministry of Public Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002668278757482767,
+          "perplexity": 27,
+          "sentence": "We are confident that the national strategy for the health sector that we launched at the beginning of the year will contribute to the restructuring of the health system to become more equitable, integrated and effective for universal access to high-quality health care focused on individuals.\u201d In his opening speech at the event, Dr Abubakar welcomed the attendees and dignitaries and described the WHO's efforts and most significant achievements as a major player in the field of global health over the decades, saying that: \u201cWHO and its partners are working together on multiple fronts to achieve scientific and field programmes that will change the face of the world today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023417517077177763,
+          "perplexity": 189,
+          "sentence": "Only joint and continuous efforts will enable us to achieve Health for All and renew motivation towards achieving health justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002741441363468766,
+          "perplexity": 41,
+          "sentence": "Along with expressing our commitment to improving the health and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "To mark the occasion, WHO held a ceremony at the UNESCO Palace in Beirut under the patronage and in the presence of Dr Firass Abiad, the Minister of Public Health, Dr Abdinasir Abubakar, the WHO Representative in Lebanon, Mr Imran Riza, the United Nations Resident Coordinator, Mr Andreas Kindl, the German Ambassador, and a remarkable number of official and diplomatic figures. The ceremony started with a short documentary on the history of WHO since the establishment of its presence in Lebanon. The documentary focused on the most important events involving the Organization during the crises of the years before the civil war, through the war and its aftermath, and up to the present day, covering the different emergencies and epidemics. In a pre-recorded speech for World Health Day (7 April), Prime Minister Najib Mikati said: \u201cWe thank WHO for its constant support for health issues in Lebanon and its tireless support through its continuous cooperation with the Ministry of Public Health. We are confident that the national strategy for the health sector that we launched at the beginning of the year will contribute to the restructuring of the health system to become more equitable, integrated and effective for universal access to high-quality health care focused on individuals.\u201d In his opening speech at the event, Dr Abubakar welcomed the attendees and dignitaries and described the WHO\u2019s efforts and most significant achievements as a major player in the field of global health over the decades, saying that: \u201cWHO and its partners are working together on multiple fronts to achieve scientific and field programmes that will change the face of the world today. Only joint and continuous efforts will enable us to achieve Health for All and renew motivation towards achieving health justice. Along with expressing our commitment to improving the health and",
+  "date": "18 April 2023"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6b18766f-e349-4348-af92-b077a3a46def",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17397510725630513,
+        "human": 0.8245139782740364,
+        "mixed": 0.001510914469658452
+      },
+      "completely_generated_prob": 0.17397510725630513,
+      "confidence_category": "low",
+      "confidence_score": 0.8245139782740364,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17397510725630513,
+          "human": 0.8245139782740364,
+          "mixed": 0.001510914469658452
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.832666397094727,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.19951118528842926,
+          "perplexity": 76,
+          "sentence": "Amman - Under the patronage of H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21946819126605988,
+          "perplexity": 44,
+          "sentence": "Dr. Fadi Balawi, Director General of the Department of Antiquities, the UNESCO Office in Jordan celebrated today in Pella the conclusion of the activities that were implemented in Irbid Governorate (Um Qais, Beit Idis, and Pella) under the EU Madad Fund project \u201cSupport to Livelihoods through Cultural Heritage Development.\u201d The project, falling under the umbrella of the EU Madad Fund, and implemented in close collaboration with the Ministry of Tourism and Antiquities, the Department of Antiquities, and the International Labor Organization (ILO) aimed at creating livelihoods opportunities for vulnerable Jordanians and Syrian refugees, through the implementation of Employment Intensive initiatives in cultural heritage sites located in Northern Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.17606177926063538,
+          "perplexity": 76,
+          "sentence": "The ceremony, held on 5th of September marked the successful completion of the project's activities in Irbid, where a total of 540 workers carried out basic conservation interventions in Umm Qays, Beit Eidis, and Pella over a period of 4 months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1828601360321045,
+          "perplexity": 30,
+          "sentence": "The event provided a platform for project partners, stakeholders, and participants to share their experiences and insights, showcasing the progress achieved during the implementation period.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13893429934978485,
+          "perplexity": 50,
+          "sentence": "In his opening remarks at the event, His Excellency Dr. Fadi Balawi, the Director General of the Department of Antiquities, stated that \"In celebrating the successful conclusion of field activities in Irbid Governorate under this EU Madad Fund project we recognize the invaluable contribution of this initiative in preserving and promoting our rich cultural heritage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1497567743062973,
+          "perplexity": 34,
+          "sentence": "These efforts have not only conserved our historical sites but have also created sustainable livelihood opportunities for vulnerable members of our community\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14101305603981018,
+          "perplexity": 86,
+          "sentence": "The European Union Representative, Ms. Mary Horvers, commended the programme for \u201csucceeding to provide access to dignified employment opportunities for Syrians and Jordanians in Irbid and Mafraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13664324581623077,
+          "perplexity": 56,
+          "sentence": "More broadly, the programme also contributed to creating an enabling environment for entrepreneurship in the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - Under the patronage of H.E. Dr. Fadi Balawi, Director General of the Department of Antiquities, the UNESCO Office in Jordan celebrated today in Pella the conclusion of the activities that were implemented in Irbid Governorate (Um Qais, Beit Idis, and Pella) under the EU Madad Fund project \u201cSupport to Livelihoods through Cultural Heritage Development.\u201d The project, falling under the umbrella of the EU Madad Fund, and implemented in close collaboration with the Ministry of Tourism and Antiquities, the Department of Antiquities, and the International Labor Organization (ILO) aimed at creating livelihoods opportunities for vulnerable Jordanians and Syrian refugees, through the implementation of Employment Intensive initiatives in cultural heritage sites located in Northern Jordan. The ceremony, held on 5th of September marked the successful completion of the project\u2019s activities in Irbid, where a total of 540 workers carried out basic conservation interventions in Umm Qays, Beit Eidis, and Pella over a period of 4 months. The event provided a platform for project partners, stakeholders, and participants to share their experiences and insights, showcasing the progress achieved during the implementation period. In his opening remarks at the event, His Excellency Dr. Fadi Balawi, the Director General of the Department of Antiquities, stated that \"In celebrating the successful conclusion of field activities in Irbid Governorate under this EU Madad Fund project we recognize the invaluable contribution of this initiative in preserving and promoting our rich cultural heritage. These efforts have not only conserved our historical sites but have also created sustainable livelihood opportunities for vulnerable members of our community\". The European Union Representative, Ms. Mary Horvers, commended the programme for \u201csucceeding to provide access to dignified employment opportunities for Syrians and Jordanians in Irbid and Mafraq. More broadly, the programme also contributed to creating an enabling environment for entrepreneurship in the",
+  "date": "05 September 2023"
+}

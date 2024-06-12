@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d574d75f-7075-4690-a046-8cb412214e63",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.831050872802734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013708432379644364,
+          "perplexity": 82,
+          "sentence": "WASHINGTON, June 17, 2021 \u1173 The World Bank today approved a US$20 million grant package.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012758206867147237,
+          "perplexity": 25,
+          "sentence": "This package is composed of US$9 million from International Development Association (IDA), US$$7.76 million from the UK's Foreign, Commonwealth & Development Office (FCDO), and US$3.25 million from the Health Emergency Preparedness and Response Fund (HEPR).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012710229202639312,
+          "perplexity": 72,
+          "sentence": "This is the first additional financing to the Yemen's COVID-19 Response Project (YCRP), bringing the World Bank's total contributions to the country's national COVID-19 response and vaccination campaign to US$47 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012070095544913784,
+          "perplexity": 54,
+          "sentence": "The additional resources will support some of the deployment costs of administering vaccines to at least 1.3 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012032128870487213,
+          "perplexity": 131,
+          "sentence": "It will also help cover the costs of monitoring and specialized analysis\u1173carried out by the Health Resources and Services Availability Monitoring System (HeRAMS)\u1173and more training for two national COVID-19 hotline centers in Aden and Sana'a.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001255533134099096,
+          "perplexity": 54,
+          "sentence": "The Yemen COVID-19 Response Project will continue to support the early detection and screening of the virus, provide essential medicines and medical equipment to treatment centers, and build the capacity of human resources to address the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001256360555998981,
+          "perplexity": 59,
+          "sentence": "\u201cYears of conflict have taken a massive toll on the health system in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001191478077089414,
+          "perplexity": 113,
+          "sentence": "Only half of the country's health facilities remain open and still lack essential items to be fully functional -water, fuel, and oxygen amongst others.\u201d said Tania Meyer, World Bank Country Manager for Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001201243358082138,
+          "perplexity": 39,
+          "sentence": "\u201cThese additional resources will help strengthen the healthcare system, facilitate the rollout of the vaccine and protect the poorest households from the direct impact of the pandemic.\u201d The scaled-up YCRP will build on work done since 2017 by the Emergency Health and Nutrition Project (EHNP), which was also supported by the World Bank and implemented through WHO and the UN's Children's Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011174808605574071,
+          "perplexity": 90,
+          "sentence": "That project has supported strengthening the health system through its support to 72 hospitals and close to 2,000 primary",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WASHINGTON, June 17, 2021 \u2014 The World Bank today approved a US$20 million grant package. This package is composed of US$9 million from International Development Association (IDA), US$$7.76 million from the UK\u2019s Foreign, Commonwealth & Development Office (FCDO), and US$3.25 million from the Health Emergency Preparedness and Response Fund (HEPR). This is the first additional financing to the Yemen\u2019s COVID-19 Response Project (YCRP), bringing the World Bank\u2019s total contributions to the country\u2019s national COVID-19 response and vaccination campaign to US$47 million. The additional resources will support some of the deployment costs of administering vaccines to at least 1.3 million people. It will also help cover the costs of monitoring and specialized analysis\u2014carried out by the Health Resources and Services Availability Monitoring System (HeRAMS)\u2014and more training for two national COVID-19 hotline centers in Aden and Sana\u2019a. The Yemen COVID-19 Response Project will continue to support the early detection and screening of the virus, provide essential medicines and medical equipment to treatment centers, and build the capacity of human resources to address the pandemic. \u201cYears of conflict have taken a massive toll on the health system in Yemen. Only half of the country\u2019s health facilities remain open and still lack essential items to be fully functional \u2013water, fuel, and oxygen amongst others.\u201d said Tania Meyer, World Bank Country Manager for Yemen. \u201cThese additional resources will help strengthen the healthcare system, facilitate the rollout of the vaccine and protect the poorest households from the direct impact of the pandemic.\u201d The scaled-up YCRP will build on work done since 2017 by the Emergency Health and Nutrition Project (EHNP), which was also supported by the World Bank and implemented through WHO and the UN\u2019s Children\u2019s Fund. That project has supported strengthening the health system through its support to 72 hospitals and close to 2,000 primary",
+  "date": "17 June 2021"
+}

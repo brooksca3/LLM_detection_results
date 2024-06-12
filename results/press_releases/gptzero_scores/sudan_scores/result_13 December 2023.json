@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8d9b0599-9d2f-4a11-bcb2-47e6ac2c8ccd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.830339431762695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012959550076629966,
+          "perplexity": 28,
+          "sentence": "PORT SUDAN - Parts of war-ravaged Sudan are at a high risk of slipping into catastrophic hunger conditions by next year's lean season if the United Nations World Food Programme (WFP) is unable to expand access and regularly deliver food assistance to people trapped in conflict hotspots such as Khartoum, the Darfurs, and the Kordofans, warns the UN food agency today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013426360965240747,
+          "perplexity": 31,
+          "sentence": "Sudan - once described as East Africa's future breadbasket - is facing a deepening hunger crisis as the conflict raging across the country approaches its eighth month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012445110769476742,
+          "perplexity": 51,
+          "sentence": "A new food security analysis for Sudan shows the highest levels of hunger ever recorded during the harvest season (October through February), typically a period where more food is available.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012640452769119292,
+          "perplexity": 84,
+          "sentence": "If there is no significant increase in food assistance by the time the lean season arrives next May, conflict hotspots could see the emergence of catastrophic hunger, also known as Phase 5 on the Integrated Food Security Phase Classification (IPC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001269219646928832,
+          "perplexity": 93,
+          "sentence": "\u201cWe urgently call on all parties to the conflict for a humanitarian pause and unfettered access to avert a hunger catastrophe in the upcoming lean season.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011541244020918384,
+          "perplexity": 97,
+          "sentence": "Lives depend on it, yet there are far too many people trapped in areas with active fighting who we can only reach sporadically, if at all,\u201d said Eddie Rowe, WFP Country Director and Representative in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011600647849263623,
+          "perplexity": 28,
+          "sentence": "Nearly 18 million people across Sudan are facing acute hunger (IPC3+) - more than double the number at the same time a year ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011661849566735327,
+          "perplexity": 51,
+          "sentence": "This figure is also higher than the initial projection of 15 million made in the previous assessment in August, demonstrating just how rapidly the food security situation is worsening.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011297552555333823,
+          "perplexity": 45,
+          "sentence": "Currently, close to 5 million people are in emergency levels of food insecurity (IPC4) with over three-quarters of these people cornered in areas where humanitarian access has",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "PORT SUDAN \u2013 Parts of war-ravaged Sudan are at a high risk of slipping into catastrophic hunger conditions by next year\u2019s lean season if the United Nations World Food Programme (WFP) is unable to expand access and regularly deliver food assistance to people trapped in conflict hotspots such as Khartoum, the Darfurs, and the Kordofans, warns the UN food agency today. Sudan \u2013 once described as East Africa\u2019s future breadbasket \u2013 is facing a deepening hunger crisis as the conflict raging across the country approaches its eighth month. A new food security analysis for Sudan shows the highest levels of hunger ever recorded during the harvest season (October through February), typically a period where more food is available. If there is no significant increase in food assistance by the time the lean season arrives next May, conflict hotspots could see the emergence of catastrophic hunger, also known as Phase 5 on the Integrated Food Security Phase Classification (IPC). \u201cWe urgently call on all parties to the conflict for a humanitarian pause and unfettered access to avert a hunger catastrophe in the upcoming lean season. Lives depend on it, yet there are far too many people trapped in areas with active fighting who we can only reach sporadically, if at all,\u201d said Eddie Rowe, WFP Country Director and Representative in Sudan. Nearly 18 million people across Sudan are facing acute hunger (IPC3+) \u2013 more than double the number at the same time a year ago. This figure is also higher than the initial projection of 15 million made in the previous assessment in August, demonstrating just how rapidly the food security situation is worsening. Currently, close to 5 million people are in emergency levels of food insecurity (IPC4) with over three-quarters of these people cornered in areas where humanitarian access has",
+  "date": "13 December 2023"
+}

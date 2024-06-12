@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "31744698-cf92-4706-a59e-d5ede07ba8cf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.80936813354492,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023937445075716823,
+          "perplexity": 57,
+          "sentence": "The United Nations (UN) in Lesotho today handed over a shipment of personal protective equipment (PPE) and COVID-19 diagnostics and patient management equipment to the Government of Lesotho through the Minister of Health, Honorable Motlatsi Maqelepo and the National COVID-19 Secretariat CEO, Mr. Thabo Khasipe, at the Ministry of health headquarters in Maseru.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002732127031777054,
+          "perplexity": 41,
+          "sentence": "Despite the impact of COVID-19 on global supply chains, the UN, with logistical support from World Food Programme, through humanitarian flights, has been able to procure and deliver these essential commodities to support the Government response to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002769642451312393,
+          "perplexity": 128,
+          "sentence": "The supplies will be critical for healthcare workers on the frontlines supporting Basotho who need critical care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023671537928748876,
+          "perplexity": 127,
+          "sentence": "Upon handing over the equipment, the UN Resident Coordinator in Lesotho, Mr. Salvator Niyonzima, expressed solidarity and support on behalf of the UN family and said, \u201cno one ministry or agency or donor can fight COVID-19 alone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020866432168986648,
+          "perplexity": 71,
+          "sentence": "These essential items will help equip healthcare workers and communities to protect themselves while caring for those affected by COVID-19...The UN stands ready to support the Government in its efforts to defeat the epidemic, including supporting additional procurement through the Global COVID-19 Supply Portal allowing the country to continue to procure essential supplies\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021512368402909487,
+          "perplexity": 75,
+          "sentence": "The World Bank Country Representative, Mr. Yoichiro Ishihara highlighted that the World Bank has joined hands with other development partners to assist Lesotho to respond effectively to COVID-19 to save the lives of the Basotho people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018926174379885197,
+          "perplexity": 47,
+          "sentence": "\u201cIn addition to financing the procurement of PPE, the World Bank has been implementing US$7.5 million Lesotho COVID-19 Emergency Preparedness and Response Project to prevent, detect and respond to the threat posed by COVID-19 and strengthen national systems for public health preparedness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002573190431576222,
+          "perplexity": 16,
+          "sentence": "We remain committed to helping the Government of Lesotho in its efforts to curbing the damage that can be caused by the spread of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations (UN) in Lesotho today handed over a shipment of personal protective equipment (PPE) and COVID-19 diagnostics and patient management equipment to the Government of Lesotho through the Minister of Health, Honorable Motlatsi Maqelepo and the National COVID-19 Secretariat CEO, Mr. Thabo Khasipe, at the Ministry of health headquarters in Maseru. Despite the impact of COVID-19 on global supply chains, the UN, with logistical support from World Food Programme, through humanitarian flights, has been able to procure and deliver these essential commodities to support the Government response to COVID-19. The supplies will be critical for healthcare workers on the frontlines supporting Basotho who need critical care. Upon handing over the equipment, the UN Resident Coordinator in Lesotho, Mr. Salvator Niyonzima, expressed solidarity and support on behalf of the UN family and said, \u201cno one ministry or agency or donor can fight COVID-19 alone. These essential items will help equip healthcare workers and communities to protect themselves while caring for those affected by COVID-19...The UN stands ready to support the Government in its efforts to defeat the epidemic, including supporting additional procurement through the Global COVID-19 Supply Portal allowing the country to continue to procure essential supplies\u201d. The World Bank Country Representative, Mr. Yoichiro Ishihara highlighted that the World Bank has joined hands with other development partners to assist Lesotho to respond effectively to COVID-19 to save the lives of the Basotho people. \u201cIn addition to financing the procurement of PPE, the World Bank has been implementing US$7.5 million Lesotho COVID-19 Emergency Preparedness and Response Project to prevent, detect and respond to the threat posed by COVID-19 and strengthen national systems for public health preparedness. We remain committed to helping the Government of Lesotho in its efforts to curbing the damage that can be caused by the spread of",
+  "date": "25 August 2020"
+}

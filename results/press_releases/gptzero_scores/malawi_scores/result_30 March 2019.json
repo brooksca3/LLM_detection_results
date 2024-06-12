@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f82e15d3-c6cf-42a6-920d-f67f8dfe2fa2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.243186950683594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011705667566275224,
+          "perplexity": 53,
+          "sentence": "Minister of Homeland Security, Nicholas Dausi, said the response plan will direct and coordinate support to immediate needs among the flood victims On 28th March 2019, the Malawi Government, in collaboration with its partners, launched the Flood Response Plan to respond to diverse humanitarian needs from the floods that have devastated 15 of the country's 28 districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012436391261871904,
+          "perplexity": 53,
+          "sentence": "The response plan covers interventions to meet immediate needs in food, shelter, health and nutrition, water and sanitation, and protection services in the affected districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012323101691436023,
+          "perplexity": 104,
+          "sentence": "It targets 162,240 households, including about 87,000 displaced people in various districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011807018745457754,
+          "perplexity": 64,
+          "sentence": "Minister of Homeland Security, Nicholas Dausi, said the response plan will direct and coordinate support to immediate needs among the flood victims, saying more resources are, however, still needed to ensure an efficient response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011725652439054102,
+          "perplexity": 24,
+          "sentence": "Of the required US$45.2 million for the response, Malawi Government and its partners have secured US$14.6 million, leaving a gap of US$30.6 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012560395407490432,
+          "perplexity": 160,
+          "sentence": "The response plan is for immediate humanitarian needs for the initial three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013351520465221256,
+          "perplexity": 62,
+          "sentence": "\u201cAs we respond to the disaster, we should aim to provide durable solutions to the affected people to avoid a repeat of the same scenario in future,\u201d said Dausi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012040484580211341,
+          "perplexity": 53,
+          "sentence": "\u201cThe government, through the Department of Disaster Management Affairs and district councils, is working to ensure all affected people in need of assistance get the necessary relief support regardless of distance, location and terrain.\u201d Dausi commended the United Nations, development partners and other members of the humanitarian community, including NGOs, companies and individuals, for rendering prompt support during disaster.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001281939767068252,
+          "perplexity": 70,
+          "sentence": "UN Resident Coordinator, Maria Jose Torres, said the occurrence of the disaster at the peak of the food insecurity lean season, coupled with chronic poverty in the affected districts, aggravated its impact, but the UN managed to mobilise as soon as the floods hit to provide swift support.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Minister of Homeland Security, Nicholas Dausi, said the response plan will direct and coordinate support to immediate needs among the flood victims On 28th March 2019, the Malawi Government, in collaboration with its partners, launched the Flood Response Plan to respond to diverse humanitarian needs from the floods that have devastated 15 of the country\u2019s 28 districts. The response plan covers interventions to meet immediate needs in food, shelter, health and nutrition, water and sanitation, and protection services in the affected districts. It targets 162,240 households, including about 87,000 displaced people in various districts. Minister of Homeland Security, Nicholas Dausi, said the response plan will direct and coordinate support to immediate needs among the flood victims, saying more resources are, however, still needed to ensure an efficient response. Of the required US$45.2 million for the response, Malawi Government and its partners have secured US$14.6 million, leaving a gap of US$30.6 million. The response plan is for immediate humanitarian needs for the initial three months. \u201cAs we respond to the disaster, we should aim to provide durable solutions to the affected people to avoid a repeat of the same scenario in future,\u201d said Dausi. \u201cThe government, through the Department of Disaster Management Affairs and district councils, is working to ensure all affected people in need of assistance get the necessary relief support regardless of distance, location and terrain.\u201d Dausi commended the United Nations, development partners and other members of the humanitarian community, including NGOs, companies and individuals, for rendering prompt support during disaster. UN Resident Coordinator, Maria Jose Torres, said the occurrence of the disaster at the peak of the food insecurity lean season, coupled with chronic poverty in the affected districts, aggravated its impact, but the UN managed to mobilise as soon as the floods hit to provide swift support.",
+  "date": "30 March 2019"
+}

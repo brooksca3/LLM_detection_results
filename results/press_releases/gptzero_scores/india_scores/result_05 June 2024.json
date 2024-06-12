@@ -1,0 +1,189 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5216b805-584e-47bd-933a-e67751a4bb7f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 120.43150329589844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.3690412552989357e-18,
+          "num_sentences": 21,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005546836764551699,
+          "perplexity": 28,
+          "sentence": "Following is UN Secretary-General Ant\u00f3nio Guterres' special address on climate action, \u201cA Moment of Truth\u201d, to the American Museum of Natural History, in New York on 5 June: Today is World Environment Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005459089879877865,
+          "perplexity": 52,
+          "sentence": "It is also the day that the European Commission's Copernicus Climate Change Service officially reports May 2024 as the hottest May in recorded history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005997144035063684,
+          "perplexity": 108,
+          "sentence": "This marks 12 straight months of the hottest months ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007783863693475723,
+          "perplexity": 24,
+          "sentence": "For the past year, every turn of the calendar has turned up the heat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010576879139989614,
+          "perplexity": 46,
+          "sentence": "Our planet is trying to tell us something.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009588823304511607,
+          "perplexity": 18,
+          "sentence": "But we don't seem to be listening.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008118003024719656,
+          "perplexity": 24,
+          "sentence": "The American Museum of Natural History is the ideal place to make the point.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008125099120661616,
+          "perplexity": 76,
+          "sentence": "This great Museum tells the amazing story of our natural world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007663610740564764,
+          "perplexity": 28,
+          "sentence": "Of the vast forces that have shaped life on Earth over billions of years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008837887435220182,
+          "perplexity": 38,
+          "sentence": "Humanity is just one small blip on the radar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007594064809381962,
+          "perplexity": 25,
+          "sentence": "But like the meteor that wiped out the dinosaurs, we're having an outsized impact.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007246773457154632,
+          "perplexity": 41,
+          "sentence": "In the case of climate, we are not the dinosaurs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007146274438127875,
+          "perplexity": 560,
+          "sentence": "We are the meteor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006898882566019893,
+          "perplexity": 56,
+          "sentence": "We are not only in danger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008584996103309095,
+          "perplexity": 226,
+          "sentence": "We are the danger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006365975714288652,
+          "perplexity": 77,
+          "sentence": "But we are also the solution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005393071915023029,
+          "perplexity": 30,
+          "sentence": "We are at a moment of truth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044479293865151703,
+          "perplexity": 17,
+          "sentence": "The truth is almost 10 years since the Paris Agreement was adopted, the target of limiting long-term global warming to 1.5 degrees Celsius is hanging by a thread.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004089360299985856,
+          "perplexity": 36,
+          "sentence": "The truth is the world is spewing emissions so fast that by 2030, a far higher temperature rise would be all but guaranteed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003207294503226876,
+          "perplexity": 51,
+          "sentence": "Brand new data from leading climate scientists released today show the remaining carbon budget to limit long-term warming to 1.5 degrees is now around 200 billion tons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038802099879831076,
+          "perplexity": 13,
+          "sentence": "That is the maximum amount of carbon dioxide that the Earth's atmosphere can take if we are to have a fighting chance of staying within the limit.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is UN Secretary-General Ant\u00f3nio Guterres\u2019 special address on climate action, \u201cA Moment of Truth\u201d, to the American Museum of Natural History, in New York on 5 June: Today is World Environment Day. It is also the day that the European Commission\u2019s Copernicus Climate Change Service officially reports May 2024 as the hottest May in recorded history. This marks 12 straight months of the hottest months ever. For the past year, every turn of the calendar has turned up the heat. Our planet is trying to tell us something. But we don\u2019t seem to be listening. The American Museum of Natural History is the ideal place to make the point. This great Museum tells the amazing story of our natural world. Of the vast forces that have shaped life on Earth over billions of years. Humanity is just one small blip on the radar. But like the meteor that wiped out the dinosaurs, we\u2019re having an outsized impact. In the case of climate, we are not the dinosaurs. We are the meteor. We are not only in danger. We are the danger. But we are also the solution. We are at a moment of truth. The truth is almost 10 years since the Paris Agreement was adopted, the target of limiting long-term global warming to 1.5 degrees Celsius is hanging by a thread. The truth is the world is spewing emissions so fast that by 2030, a far higher temperature rise would be all but guaranteed. Brand new data from leading climate scientists released today show the remaining carbon budget to limit long-term warming to 1.5 degrees is now around 200 billion tons. That is the maximum amount of carbon dioxide that the Earth\u2019s atmosphere can take if we are to have a fighting chance of staying within the limit.",
+  "date": "05 June 2024"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a160122c-c2be-403f-be37-e8ad3e5367d5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.43405809873259527,
+        "human": 0.5642755283523737,
+        "mixed": 0.0016663729150310043
+      },
+      "completely_generated_prob": 0.43405809873259527,
+      "confidence_category": "low",
+      "confidence_score": 0.5642755283523737,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.43405809873259527,
+          "human": 0.5642755283523737,
+          "mixed": 0.0016663729150310043
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.849640846252441,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.5745471715927124,
+          "perplexity": 52,
+          "sentence": "(Yangon): The United Nations in Myanmar is alarmed by the humanitarian impact of ongoing violence in the town of Mindat in Chin State in western Myanmar, following reports of indiscriminate attacks by the security forces against civilians and resulting population displacement and civilian casualties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5805966258049011,
+          "perplexity": 30,
+          "sentence": "Local sources indicated that close to 4,000 people have been internally displaced since the hostilities escalated in the town of Mindat on 12 May, with an unconfirmed number, believed to be in thousands, hiding in nearby forests and mountains in search of safety and protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5535414814949036,
+          "perplexity": 69,
+          "sentence": "A higher number of civilians remain in Mindat as they were reportedly not allowed to leave during the height of the hostilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.546095609664917,
+          "perplexity": 33,
+          "sentence": "There are reports of houses and other civilian property damaged, destroyed or occupied by security forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5670863389968872,
+          "perplexity": 16,
+          "sentence": "An unconfirmed number of men, women, and children have lost their lives or sustained injuries because of the violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5687122941017151,
+          "perplexity": 23,
+          "sentence": "The United Nations is also concerned by reports about the security forces using civilians as human shields and incidents of sexual assault perpetrated against women and girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5888765454292297,
+          "perplexity": 22,
+          "sentence": "People who have already fled and others who remain are in urgent need of food, water, shelter, access to healthcare and gender-based violence and psychological support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5695098042488098,
+          "perplexity": 33,
+          "sentence": "The United Nations and humanitarian partners are making efforts to assess and address these needs; however, humanitarian access challenges, including due to insecurity and road blockages, are complicating these efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5863668918609619,
+          "perplexity": 27,
+          "sentence": "The United Nations calls on security forces to urgently take all necessary measures and precautions to spare civilians and civilian infrastructure, and to adhere to the fundamental principles of distinction, necessity, proportionality and protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5790495872497559,
+          "perplexity": 26,
+          "sentence": "We also call upon security forces to allow civilians who choose to leave areas of danger to do so without obstruction or delay, securing their safety, and to ensure that those who are injured are transferred to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(Yangon): The United Nations in Myanmar is alarmed by the humanitarian impact of ongoing violence in the town of Mindat in Chin State in western Myanmar, following reports of indiscriminate attacks by the security forces against civilians and resulting population displacement and civilian casualties. Local sources indicated that close to 4,000 people have been internally displaced since the hostilities escalated in the town of Mindat on 12 May, with an unconfirmed number, believed to be in thousands, hiding in nearby forests and mountains in search of safety and protection. A higher number of civilians remain in Mindat as they were reportedly not allowed to leave during the height of the hostilities. There are reports of houses and other civilian property damaged, destroyed or occupied by security forces. An unconfirmed number of men, women, and children have lost their lives or sustained injuries because of the violence. The United Nations is also concerned by reports about the security forces using civilians as human shields and incidents of sexual assault perpetrated against women and girls. People who have already fled and others who remain are in urgent need of food, water, shelter, access to healthcare and gender-based violence and psychological support. The United Nations and humanitarian partners are making efforts to assess and address these needs; however, humanitarian access challenges, including due to insecurity and road blockages, are complicating these efforts. The United Nations calls on security forces to urgently take all necessary measures and precautions to spare civilians and civilian infrastructure, and to adhere to the fundamental principles of distinction, necessity, proportionality and protection. We also call upon security forces to allow civilians who choose to leave areas of danger to do so without obstruction or delay, securing their safety, and to ensure that those who are injured are transferred to",
+  "date": "21 May 2021"
+}

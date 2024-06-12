@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "be4c2a1b-f056-4efe-90e5-e1e7af5775cb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.869431495666504,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000210906975553371,
+          "perplexity": 60,
+          "sentence": "22-23 February 2022, Belgrade, Serbia / online: UNODC held the 2nd Steering Committee on the EU-UNODC joint action promoting rule of law and good governance through targeted border control measures at ports and airports in South-Eastern Europe in a hybrid mode to discuss the main developments within the action to date and agree on the way forward.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002875018981285393,
+          "perplexity": 35,
+          "sentence": "The initiative is aimed at enhancing the capacities of authorities in the Western Balkans to fight organized crime, by supporting more effective and coordinated responses to illicit trafficking by border law enforcement at land and port border crossing points and international airports in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003027280035894364,
+          "perplexity": 23,
+          "sentence": "The action is funded by the European Union (EU) and is implemented by the UNODC-WCO Container Control Programme (CCP) and the UNODC-WCO-INTERPOL Airport Communication Project (AIRCOP) in cooperation with the UNODC Regional Programme for South Eastern Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024933781241998076,
+          "perplexity": 42,
+          "sentence": "Specifically, UNODC is working on the establishment of joint airport inter-agency groups composed of an AIRCOP Joint Airport Interdiction Task Force (JAITF) and a CCP Air Cargo Control Unit (ACCU) to cover both cargo and passenger threats as well as providing continuous technical assistance to the existing Port Control Units (PCUs) established by CCP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019697625248227268,
+          "perplexity": 45,
+          "sentence": "The action's main stakeholders were convened to the event, including senior representatives from the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR), EU delegations and the Government authorities in the region as well as UNODC along with WCO and INTERPOL.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017823680536821485,
+          "perplexity": 62,
+          "sentence": "The UNODC Chief of the Regional Section for Europe, West and Central Asia and Regional Representative for South Eastern Europe opened the event and highlighted that \u201cinternational commitment and cooperation is an investment in our shared vision of the future and if we have learnt anything from the pandemic it is from the numerous examples globally of how acting together we are stronger and can tackle the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "22-23 February 2022, Belgrade, Serbia / online: UNODC held the 2nd Steering Committee on the EU-UNODC joint action promoting rule of law and good governance through targeted border control measures at ports and airports in South-Eastern Europe in a hybrid mode to discuss the main developments within the action to date and agree on the way forward. The initiative is aimed at enhancing the capacities of authorities in the Western Balkans to fight organized crime, by supporting more effective and coordinated responses to illicit trafficking by border law enforcement at land and port border crossing points and international airports in the region. The action is funded by the European Union (EU) and is implemented by the UNODC-WCO Container Control Programme (CCP) and the UNODC-WCO-INTERPOL Airport Communication Project (AIRCOP) in cooperation with the UNODC Regional Programme for South Eastern Europe. Specifically, UNODC is working on the establishment of joint airport inter-agency groups composed of an AIRCOP Joint Airport Interdiction Task Force (JAITF) and a CCP Air Cargo Control Unit (ACCU) to cover both cargo and passenger threats as well as providing continuous technical assistance to the existing Port Control Units (PCUs) established by CCP. The action\u2019s main stakeholders were convened to the event, including senior representatives from the Directorate-General for Neighbourhood and Enlargement Negotiations (DG NEAR), EU delegations and the Government authorities in the region as well as UNODC along with WCO and INTERPOL. The UNODC Chief of the Regional Section for Europe, West and Central Asia and Regional Representative for South Eastern Europe opened the event and highlighted that \u201cinternational commitment and cooperation is an investment in our shared vision of the future and if we have learnt anything from the pandemic it is from the numerous examples globally of how acting together we are stronger and can tackle the",
+  "date": "22 February 2022"
+}

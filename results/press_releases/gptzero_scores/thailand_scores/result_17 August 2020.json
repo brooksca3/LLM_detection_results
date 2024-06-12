@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "91caa67a-2c7f-4280-baba-0f8621a783b1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03001131912628157,
+        "human": 0.9475127065009751,
+        "mixed": 0.022475974372743374
+      },
+      "completely_generated_prob": 0.03001131912628157,
+      "confidence_category": "medium",
+      "confidence_score": 0.9475127065009751,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03001131912628157,
+          "human": 0.9475127065009751,
+          "mixed": 0.022475974372743374
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 85.9844970703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.009292177855968475,
+          "perplexity": 11,
+          "sentence": "The Secretariat of the House of Representatives of Thailand and the United Nations Development Programme (UNDP) signed a memorandum of understanding (MoU) to empower parliamentarians and parliamentary staff members to play a significant role in implementing the Sustainable Development Goals (SDGs) in Thailand, to achieve the Agenda 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01264172326773405,
+          "perplexity": 11,
+          "sentence": "The Secretariat of the House of Representatives of Thailand and the United Nations Development Programme (UNDP) signed a memorandum of understanding (MoU) to empower parliamentarians and parliamentary staff members to play a significant role in implementing the Sustainable Development Goals (SDGs) in Thailand, to achieve the Agenda 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012300432659685612,
+          "perplexity": 95,
+          "sentence": "The MoU was signed between Mr Sorasak Pienvej, Secretary General, for the Secretariat of the House of Representatives and Mr Renaud Meyer, Resident Representative, for UNDP at an official event organized in the Parliament Building.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01808292046189308,
+          "perplexity": 37,
+          "sentence": "The MoU will encourage the two bodies to cooperate not only to enhance the knowledge and capacities of the parliamentarians and parliamentary staff members around SDGs, but also promote an exchange of knowledge by facilitating interactions between the House of Representatives and other development actors on issues related to the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.039658382534980774,
+          "perplexity": 260,
+          "sentence": "The event included the presence of Mr Pakpoom Mingmitr, Chief of Secretary - General of the House of Representatives Division Acting the office of the ASEAN Community Center who offered his opening remarks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04051060229539871,
+          "perplexity": 66,
+          "sentence": "He highlighted that, \u201cThe cooperation between the two organisations will enhance the knowledge and competency of the parliamentarians and parliamentary staff members to drive the Thai Parliament to institutionalize the Sustainable Development Goals.\u201d Moreover, Ms Gita Sabharwal, United Nations Resident Coordinator in Thailand, also offered her congratulatory message at the event.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.049711838364601135,
+          "perplexity": 66,
+          "sentence": "Speaking on the importance of the MoU, she expressed, \u201cToday's signing ceremony institutionalizes an important partnership between the Parliament of Thailand and UNDP, creating an avenue for parliamentarians and parliamentary staff members to play",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Secretariat of the House of Representatives of Thailand and the United Nations Development Programme (UNDP) signed a memorandum of understanding (MoU) to empower parliamentarians and parliamentary staff members to play a significant role in implementing the Sustainable Development Goals (SDGs) in Thailand, to achieve the Agenda 2030. The Secretariat of the House of Representatives of Thailand and the United Nations Development Programme (UNDP) signed a memorandum of understanding (MoU) to empower parliamentarians and parliamentary staff members to play a significant role in implementing the Sustainable Development Goals (SDGs) in Thailand, to achieve the Agenda 2030. The MoU was signed between Mr Sorasak Pienvej, Secretary General, for the Secretariat of the House of Representatives and Mr Renaud Meyer, Resident Representative, for UNDP at an official event organized in the Parliament Building. The MoU will encourage the two bodies to cooperate not only to enhance the knowledge and capacities of the parliamentarians and parliamentary staff members around SDGs, but also promote an exchange of knowledge by facilitating interactions between the House of Representatives and other development actors on issues related to the SDGs. The event included the presence of Mr Pakpoom Mingmitr, Chief of Secretary - General of the House of Representatives Division Acting the office of the ASEAN Community Center who offered his opening remarks. He highlighted that, \u201cThe cooperation between the two organisations will enhance the knowledge and competency of the parliamentarians and parliamentary staff members to drive the Thai Parliament to institutionalize the Sustainable Development Goals.\u201d Moreover, Ms Gita Sabharwal, United Nations Resident Coordinator in Thailand, also offered her congratulatory message at the event. Speaking on the importance of the MoU, she expressed, \u201cToday\u2019s signing ceremony institutionalizes an important partnership between the Parliament of Thailand and UNDP, creating an avenue for parliamentarians and parliamentary staff members to play",
+  "date": "17 August 2020"
+}

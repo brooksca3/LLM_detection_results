@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7e31f852-ac98-48f3-a55f-c70eeee98f07",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.920766830444336,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012054177932441235,
+          "perplexity": 109,
+          "sentence": "FAO completes large-scale livestock vaccination and treatment campaign to shield the livelihoods of over 36 000 livestock-dependent households.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012566182704176754,
+          "perplexity": 28,
+          "sentence": "4 August, Sana'a- The Food and Agriculture Organization of the United Nations (FAO) has completed a month-long livestock vaccination and treatment campaign in Yemen as part of its continued efforts to control transboundary animal diseases and build resilience of communities through regular vaccination and treatment activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012083086039638147,
+          "perplexity": 59,
+          "sentence": "Over 600 000 sheep and goats in 16 districts throughout the country were vaccinated against Peste des Petits Ruminants (PPR) and Sheep and Goat Pox (SGP), and treated against various internal and external parasites and diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011953746434301138,
+          "perplexity": 51,
+          "sentence": "PPR and SGP are two highly infectious animal diseases that affect most small ruminants in Yemen, decreasing the viability of the livestock sector, which is one of the remaining lifelines and income sources for the majority of the rural population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001257997064385563,
+          "perplexity": 80,
+          "sentence": "According to FAO Representative in Yemen, Dr Hussein Gadain, animal diseases - if not adequately addressed, can have severe consequences on the country's already compromised food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012111001706216484,
+          "perplexity": 31,
+          "sentence": "\"In Yemen, where over half of the population is grappling with acute hunger and the resilience of livelihoods has been eroded by six years of continuous conflict, keeping livestock alive and healthy is becoming increasingly vital\", he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001186783701996319,
+          "perplexity": 59,
+          "sentence": "\"It is campaigns such as these that provide much-needed respite to thousands of vulnerable livestock-dependent households who would otherwise lose their only remaining productive assets \", he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011434525367803872,
+          "perplexity": 24,
+          "sentence": "The campaign is part of the implementation of a three-year programme titled Supporting Resilient Livelihoods and Food Security in Yemen (ERRYII), jointly funded by the European Union (EU) and the Swedish International Development Cooperation Agency (SIDA), and was carried out in close coordination with local authorities and the Ministry of Agriculture with additional support from the Smallholder Agricultural Productivity Restoration and Enhancement Project (SAPREP) funded by the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "FAO completes large-scale livestock vaccination and treatment campaign to shield the livelihoods of over 36 000 livestock-dependent households. 4 August, Sana\u2019a\u2013 The Food and Agriculture Organization of the United Nations (FAO) has completed a month-long livestock vaccination and treatment campaign in Yemen as part of its continued efforts to control transboundary animal diseases and build resilience of communities through regular vaccination and treatment activities. Over 600 000 sheep and goats in 16 districts throughout the country were vaccinated against Peste des Petits Ruminants (PPR) and Sheep and Goat Pox (SGP), and treated against various internal and external parasites and diseases. PPR and SGP are two highly infectious animal diseases that affect most small ruminants in Yemen, decreasing the viability of the livestock sector, which is one of the remaining lifelines and income sources for the majority of the rural population. According to FAO Representative in Yemen, Dr Hussein Gadain, animal diseases - if not adequately addressed, can have severe consequences on the country's already compromised food security. \"In Yemen, where over half of the population is grappling with acute hunger and the resilience of livelihoods has been eroded by six years of continuous conflict, keeping livestock alive and healthy is becoming increasingly vital\", he said. \"It is campaigns such as these that provide much-needed respite to thousands of vulnerable livestock-dependent households who would otherwise lose their only remaining productive assets \", he added. The campaign is part of the implementation of a three-year programme titled Supporting Resilient Livelihoods and Food Security in Yemen (ERRYII), jointly funded by the European Union (EU) and the Swedish International Development Cooperation Agency (SIDA), and was carried out in close coordination with local authorities and the Ministry of Agriculture with additional support from the Smallholder Agricultural Productivity Restoration and Enhancement Project (SAPREP) funded by the",
+  "date": "04 August 2021"
+}

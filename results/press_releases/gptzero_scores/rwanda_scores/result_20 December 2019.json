@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1ca9706e-9c9d-4d7f-b802-d98c67fdf8e8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.27902603149414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00023287924705073237,
+          "perplexity": 19,
+          "sentence": "The United Nations World Food Programme (WFP) today welcomed a contribution of \u00a33 million (US$3.8 million) from the United Kingdom to help save the lives of over 60,000 Burundian refugees in Mahama camp in eastern Rwanda who had faced ration cuts this month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021537079010158777,
+          "perplexity": 109,
+          "sentence": "\u201cThis contribution enables WFP to continue to reach the most vulnerable women, girls, boys and men in Mahama with life-saving food and nutritional assistance,\u201d said Edith Heines, WFP Rwanda Representative and Country Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022160119260661304,
+          "perplexity": 179,
+          "sentence": "\u201cThese funds through the Department for International Development allowed WFP to avert cuts from this month and reinstate cash-based transfers to all camp residents,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002561138535384089,
+          "perplexity": 89,
+          "sentence": "WFP uses a hybrid model of cash and in-kind food assistance to support the Burundian refugees in Mahama.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023280044842977077,
+          "perplexity": 48,
+          "sentence": "Cash enables refugees to purchase food of their choice at markets in or around the camp, improving their dietary diversity and supporting the local economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022238455130718648,
+          "perplexity": 71,
+          "sentence": "With support from the United Kingdom and other donors, WFP can also continue providing highly fortified nutritious foods to the most vulnerable in Mahama to improve their nutritional status.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019445126235950738,
+          "perplexity": 10,
+          "sentence": "These include children under two years of age, pregnant women and nursing mothers, as well as people living with HIV/AIDS and patients with tuberculosis who are on treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001728864444885403,
+          "perplexity": 22,
+          "sentence": "As a result of such nutrition support, child stunting was cut from 46 percent in 2015 to 25.5 percent in 2019 and wasting went from 10.3 percent to 2.3 percent in the same time period.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021341942192520946,
+          "perplexity": 117,
+          "sentence": "Refugees in Mahama have limited livelihood opportunities and mainly depend on food and nutritional assistance from WFP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023851852165535092,
+          "perplexity": 79,
+          "sentence": "WFP continues to explore opportunities for refugees to find livelihoods and integrate with local host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021620033658109605,
+          "perplexity": 12,
+          "sentence": "This is supported jointly by partners such as the UN refugee agency, the Food and Agriculture Organization (FAO) of the United Nations, civil society organizations and the government of Rwanda.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations World Food Programme (WFP) today welcomed a contribution of \u00a33 million (US$3.8 million) from the United Kingdom to help save the lives of over 60,000 Burundian refugees in Mahama camp in eastern Rwanda who had faced ration cuts this month. \u201cThis contribution enables WFP to continue to reach the most vulnerable women, girls, boys and men in Mahama with life-saving food and nutritional assistance,\u201d said Edith Heines, WFP Rwanda Representative and Country Director. \u201cThese funds through the Department for International Development allowed WFP to avert cuts from this month and reinstate cash-based transfers to all camp residents,\u201d she added. WFP uses a hybrid model of cash and in-kind food assistance to support the Burundian refugees in Mahama. Cash enables refugees to purchase food of their choice at markets in or around the camp, improving their dietary diversity and supporting the local economy. With support from the United Kingdom and other donors, WFP can also continue providing highly fortified nutritious foods to the most vulnerable in Mahama to improve their nutritional status. These include children under two years of age, pregnant women and nursing mothers, as well as people living with HIV/AIDS and patients with tuberculosis who are on treatment. As a result of such nutrition support, child stunting was cut from 46 percent in 2015 to 25.5 percent in 2019 and wasting went from 10.3 percent to 2.3 percent in the same time period. Refugees in Mahama have limited livelihood opportunities and mainly depend on food and nutritional assistance from WFP. WFP continues to explore opportunities for refugees to find livelihoods and integrate with local host communities. This is supported jointly by partners such as the UN refugee agency, the Food and Agriculture Organization (FAO) of the United Nations, civil society organizations and the government of Rwanda.",
+  "date": "20 December 2019"
+}

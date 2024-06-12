@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2c9d7bd8-7d0c-4efa-b646-707369198815",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.23430417590895938,
+        "human": 0.76442601343749,
+        "mixed": 0.0012698106535506478
+      },
+      "completely_generated_prob": 0.23430417590895938,
+      "confidence_category": "low",
+      "confidence_score": 0.76442601343749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.23430417590895938,
+          "human": 0.76442601343749,
+          "mixed": 0.0012698106535506478
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.165679931640625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.49819472432136536,
+          "perplexity": 15,
+          "sentence": "United Nations Special Representative of the Secretary-General on Sexual Violence in Conflict, Mrs. Pramila Patten, is gravely concerned about the situation in Sudan following recent reports of attacks by security forces and paramilitaries against the pro-democracy protesters who have been holding a sit-in outside army headquarters in Khartoum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.515365719795227,
+          "perplexity": 93,
+          "sentence": "Despite restrictions on communications in Sudan, reports have emerged alleging serious human rights violations being committed by elements of the Rapid Support Forces and militias since 3 June 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5235984921455383,
+          "perplexity": 38,
+          "sentence": "These include the rapes and gang rapes of protesters, women's human rights defenders and women medical personnel working in hospitals near the sit-in.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5231073498725891,
+          "perplexity": 44,
+          "sentence": "Pending verification of these alleged incidents by relevant United Nations bodies, Special Representative Patten highlights the fact that the weakness of the rule of law and a general climate of impunity for alleged perpetrators of human rights violations in Sudan is further compounding a highly-volatile context.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5265579223632812,
+          "perplexity": 52,
+          "sentence": "\u201cI demand the immediate and complete cessation of all violence against civilians including sexual violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5144943594932556,
+          "perplexity": 57,
+          "sentence": "The Rapid Support Forces, which have consistently been listed by the Secretary-General in his annual report on conflict-related sexual violence, should take effective measures to prevent and punish sexual violence in accordance with relevant Security Council resolutions, including resolution 2467 (2019),\u201d stated Special Representative Patten.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.515728235244751,
+          "perplexity": 149,
+          "sentence": "\u201cI urge the prompt investigation of all credible allegations of sexual violence and accountability for those responsible,\u201d Special Representative added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5059162974357605,
+          "perplexity": 30,
+          "sentence": "Special Representative Patten strongly supports the rapid deployment of a United Nations human rights monitoring team to examine the situation on the ground, including alleged cases of sexual violence, and appeals for the full cooperation of the transitional authority in the deployment of such a mission.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5116768479347229,
+          "perplexity": 19,
+          "sentence": "She also calls upon the international community, including members of the Security Council, to use all possible diplomatic channels with leaders of Sudan to pave the way for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "United Nations Special Representative of the Secretary-General on Sexual Violence in Conflict, Mrs. Pramila Patten, is gravely concerned about the situation in Sudan following recent reports of attacks by security forces and paramilitaries against the pro-democracy protesters who have been holding a sit-in outside army headquarters in Khartoum. Despite restrictions on communications in Sudan, reports have emerged alleging serious human rights violations being committed by elements of the Rapid Support Forces and militias since 3 June 2019. These include the rapes and gang rapes of protesters, women\u2019s human rights defenders and women medical personnel working in hospitals near the sit-in. Pending verification of these alleged incidents by relevant United Nations bodies, Special Representative Patten highlights the fact that the weakness of the rule of law and a general climate of impunity for alleged perpetrators of human rights violations in Sudan is further compounding a highly-volatile context. \u201cI demand the immediate and complete cessation of all violence against civilians including sexual violence. The Rapid Support Forces, which have consistently been listed by the Secretary-General in his annual report on conflict-related sexual violence, should take effective measures to prevent and punish sexual violence in accordance with relevant Security Council resolutions, including resolution 2467 (2019),\u201d stated Special Representative Patten. \u201cI urge the prompt investigation of all credible allegations of sexual violence and accountability for those responsible,\u201d Special Representative added. Special Representative Patten strongly supports the rapid deployment of a United Nations human rights monitoring team to examine the situation on the ground, including alleged cases of sexual violence, and appeals for the full cooperation of the transitional authority in the deployment of such a mission. She also calls upon the international community, including members of the Security Council, to use all possible diplomatic channels with leaders of Sudan to pave the way for",
+  "date": "13 June 2019"
+}

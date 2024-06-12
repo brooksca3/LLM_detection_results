@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f53115d-6812-4675-9ac4-bea59682d448",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03001131912628157,
+        "human": 0.9475127065009751,
+        "mixed": 0.022475974372743374
+      },
+      "completely_generated_prob": 0.03001131912628157,
+      "confidence_category": "medium",
+      "confidence_score": 0.9475127065009751,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03001131912628157,
+          "human": 0.9475127065009751,
+          "mixed": 0.022475974372743374
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.86903381347656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007144507020711899,
+          "perplexity": 27,
+          "sentence": "The European Commission, in close cooperation with the Swedish Presidency of the Council of the European Union and the European External Action Service, hosted a high-level meeting in Brussels on 16 May 2023 to discuss the implementation of specific actions of the EU action plan on firearms trafficking, including the Western Balkans SALW Control Roadmap.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005709246266633272,
+          "perplexity": 33,
+          "sentence": "The meeting gathered Ministers of Interior and representatives of Ministries of Foreign Affairs from the Western Balkans, representatives of EU member states, Moldova and Ukraine, and key international organisations, with the aim to review progress and discuss the way forward.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032573009375482798,
+          "perplexity": 152,
+          "sentence": "In the Western Balkans a number of firearms incidents involving victims is in decrease since 2019, but majority is still committed with illegal firearms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026280370075255632,
+          "perplexity": 37,
+          "sentence": "Since 2018, over 22,500 pieces of firearms were seized, over 136,000 voluntary surrendered and over 52,000 pieces of firearms destroyed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002359401434659958,
+          "perplexity": 55,
+          "sentence": "Progress was made in harmonisation of legislation with the EU acquis as well as in strengthening the capacities of authorities for detection and investigation of firearms related crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028656458016484976,
+          "perplexity": 140,
+          "sentence": "Progress in the implementation is closely monitored by SEESAC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034448530059307814,
+          "perplexity": 42,
+          "sentence": "\u201cWe share a common objective - to increase the European security, to protect all of our citizens - be it here, in the European Union, and also, and I want to stress it, in our future Member States.\u201d Josep Borrell Fontelles, High Representative of the EU/Vice-President of the European Commission \u201cYou have not made only your own homes safer, you have made the whole of Europe safer.\u201d \u201cWorldwide, armed violence is still alarmingly prevalent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005321185104548931,
+          "perplexity": 51,
+          "sentence": "More human rights abuses are committed with small arms than with any other means.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016722124069929123,
+          "perplexity": 32,
+          "sentence": "We have witnessed tragic events in the region recently, which resulted in the loss of 17 lives and left 21 injured, and these must serve as a grim reminder of the imperative to continue efforts in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The European Commission, in close cooperation with the Swedish Presidency of the Council of the European Union and the European External Action Service, hosted a high-level meeting in Brussels on 16 May 2023 to discuss the implementation of specific actions of the EU action plan on firearms trafficking, including the Western Balkans SALW Control Roadmap. The meeting gathered Ministers of Interior and representatives of Ministries of Foreign Affairs from the Western Balkans, representatives of EU member states, Moldova and Ukraine, and key international organisations, with the aim to review progress and discuss the way forward. In the Western Balkans a number of firearms incidents involving victims is in decrease since 2019, but majority is still committed with illegal firearms. Since 2018, over 22,500 pieces of firearms were seized, over 136,000 voluntary surrendered and over 52,000 pieces of firearms destroyed. Progress was made in harmonisation of legislation with the EU acquis as well as in strengthening the capacities of authorities for detection and investigation of firearms related crimes. Progress in the implementation is closely monitored by SEESAC. \u201cWe share a common objective - to increase the European security, to protect all of our citizens - be it here, in the European Union, and also, and I want to stress it, in our future Member States.\u201d Josep Borrell Fontelles, High Representative of the EU/Vice-President of the European Commission \u201cYou have not made only your own homes safer, you have made the whole of Europe safer.\u201d \u201cWorldwide, armed violence is still alarmingly prevalent. More human rights abuses are committed with small arms than with any other means. We have witnessed tragic events in the region recently, which resulted in the loss of 17 lives and left 21 injured, and these must serve as a grim reminder of the imperative to continue efforts in",
+  "date": "18 May 2023"
+}

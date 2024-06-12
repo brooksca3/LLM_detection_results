@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b1dedc18-0d90-4666-a266-43ea80073564",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.7769660949707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004795817076228559,
+          "perplexity": 26,
+          "sentence": "Doolow - A new maternal and child health care clinic for internally displaced expectant and nursing mothers and children has been opened in Doolow, Somalia, by the International Organization for Migration (IOM) in partnership with the Ministry of Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004938204656355083,
+          "perplexity": 23,
+          "sentence": "The new health centre, funded by the Government of Japan, was set up to assist with free health care over 5,800 families living in Kabasa, one of the most impoverished communities of internally displaced persons (IDPs) in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048146245535463095,
+          "perplexity": 118,
+          "sentence": "The clinic, coordinated by IOM and implemented by the local partner Human Development Concern, will provide multiple services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046398432459682226,
+          "perplexity": 29,
+          "sentence": "This includes antenatal care, delivery and postnatal care, outpatient consultations, emergency services and immunization for childhood diseases, such as tuberculosis, diphtheria, tetanus, hepatitis and polio -a disease eradicated in many parts of the world but still a problem in Somalia-.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004295928229112178,
+          "perplexity": 193,
+          "sentence": "Child nutrition and treating malnutrition services will also be offered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004930722061544657,
+          "perplexity": 42,
+          "sentence": "Prior to the opening of the clinic, many expectant mothers in Doolow had a higher risk of death because of antenatal and postnatal complications, and particularly during childbirths and stillbirths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041204836452379823,
+          "perplexity": 47,
+          "sentence": "This was due to a lack of access to maternity services caused in part by security-related restrictions of movement between IDP camps, which left many expectant mothers unable to reach the nearest maternity unit -located four kilometres away-, to which they often had to walk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038537231739610434,
+          "perplexity": 35,
+          "sentence": "As a result, many of them had to rely on unskilled traditional birth attendants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003759157843887806,
+          "perplexity": 80,
+          "sentence": "Hawa, a mother of five, is one of the women will who benefit from the new clinic: \u201cToday, people in Kabasa are enthusiastic, and a sigh of relief is observed as services are available day and night and mothers will be attended to by skilled midwives.\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003449725336395204,
+          "perplexity": 135,
+          "sentence": "This health facility will be the first to provide delivery services in the Kabasa IDP site in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Doolow - A new maternal and child health care clinic for internally displaced expectant and nursing mothers and children has been opened in Doolow, Somalia, by the International Organization for Migration (IOM) in partnership with the Ministry of Health. The new health centre, funded by the Government of Japan, was set up to assist with free health care over 5,800 families living in Kabasa, one of the most impoverished communities of internally displaced persons (IDPs) in the country. The clinic, coordinated by IOM and implemented by the local partner Human Development Concern, will provide multiple services. This includes antenatal care, delivery and postnatal care, outpatient consultations, emergency services and immunization for childhood diseases, such as tuberculosis, diphtheria, tetanus, hepatitis and polio \u2013a disease eradicated in many parts of the world but still a problem in Somalia\u2013. Child nutrition and treating malnutrition services will also be offered. Prior to the opening of the clinic, many expectant mothers in Doolow had a higher risk of death because of antenatal and postnatal complications, and particularly during childbirths and stillbirths. This was due to a lack of access to maternity services caused in part by security-related restrictions of movement between IDP camps, which left many expectant mothers unable to reach the nearest maternity unit \u2013located four kilometres away\u2013, to which they often had to walk. As a result, many of them had to rely on unskilled traditional birth attendants. Hawa, a mother of five, is one of the women will who benefit from the new clinic: \u201cToday, people in Kabasa are enthusiastic, and a sigh of relief is observed as services are available day and night and mothers will be attended to by skilled midwives.\u201d she said. This health facility will be the first to provide delivery services in the Kabasa IDP site in",
+  "date": "30 October 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "222fbd62-a759-4b7d-95e7-5153009e4b7d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.923946380615234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004767333623021841,
+          "perplexity": 38,
+          "sentence": "Yangon, Myanmar - In the first major study on the prevalence of forced labour in Myanmar since 2015, the UNOPS-managed Livelihoods and Food Security Fund (LIFT) shows that one in six workers in low-skilled employment is in a situation of forced labour due to multiple gaps in existing labour protection frameworks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004580251406878233,
+          "perplexity": 63,
+          "sentence": "The LIFT-funded report From the Rice Paddy to the Industrial Park: Working Conditions and Forced Labour in Myanmar's Rapidly Shifting Labour Market assesses the practical experiences of over 2,400 low skilled workers in relation to freedom of association, wage protection, equal treatment of women, access to justice and other key labour rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0048513589426875114,
+          "perplexity": 43,
+          "sentence": "The study reveals that despite advances being made in increasing workers' rights, 91 percent of interviewed workers had no formal contract and 93 per cent of workers had no access to social security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004597299266606569,
+          "perplexity": 80,
+          "sentence": "This is largely attributed to the decades under neglect - leading up to 2000 - when workers in Myanmar were left without access to basic rights and unprotected by an outdated legislative framework.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004570355173200369,
+          "perplexity": 36,
+          "sentence": "While reforms to labour governance were initiated in 2010, the labour market itself has continued to be dominated by informality and poor working conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004442355129867792,
+          "perplexity": 57,
+          "sentence": "The research findings showed an alarming prevalence of the two elements of forced labour, 'involuntary work', experienced by a staggering 63 per cent of workers and 'threat or menace of penalty' among low-skilled workers reported by 19 percent of respondents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035378404427319765,
+          "perplexity": 32,
+          "sentence": "Not being told about dangerous working conditions (32 per cent), working for very low wages (25 percent), degrading living conditions in employer-provided housing (16 per cent) and a job that differed to what was agreed upon (11 per cent) are named as the most common forms of involuntary work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0045210495591163635,
+          "perplexity": 28,
+          "sentence": "These and other findings suggest a high prevalence of exploitative employment practices and a lack of decent work",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Yangon, Myanmar - In the first major study on the prevalence of forced labour in Myanmar since 2015, the UNOPS-managed Livelihoods and Food Security Fund (LIFT) shows that one in six workers in low-skilled employment is in a situation of forced labour due to multiple gaps in existing labour protection frameworks. The LIFT-funded report From the Rice Paddy to the Industrial Park: Working Conditions and Forced Labour in Myanmar\u2019s Rapidly Shifting Labour Market assesses the practical experiences of over 2,400 low skilled workers in relation to freedom of association, wage protection, equal treatment of women, access to justice and other key labour rights. The study reveals that despite advances being made in increasing workers\u2019 rights, 91 percent of interviewed workers had no formal contract and 93 per cent of workers had no access to social security. This is largely attributed to the decades under neglect - leading up to 2000 - when workers in Myanmar were left without access to basic rights and unprotected by an outdated legislative framework. While reforms to labour governance were initiated in 2010, the labour market itself has continued to be dominated by informality and poor working conditions. The research findings showed an alarming prevalence of the two elements of forced labour, \u2018involuntary work\u2019, experienced by a staggering 63 per cent of workers and \u2018threat or menace of penalty\u2019 among low-skilled workers reported by 19 percent of respondents. Not being told about dangerous working conditions (32 per cent), working for very low wages (25 percent), degrading living conditions in employer-provided housing (16 per cent) and a job that differed to what was agreed upon (11 per cent) are named as the most common forms of involuntary work. These and other findings suggest a high prevalence of exploitative employment practices and a lack of decent work",
+  "date": "06 August 2021"
+}

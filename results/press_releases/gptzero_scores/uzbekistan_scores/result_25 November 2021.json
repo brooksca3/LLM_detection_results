@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a4fbc4f6-a48b-4a2f-87a5-b75dbc89a9cf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.817283630371094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003952135157305747,
+          "perplexity": 71,
+          "sentence": "Ms. Matilda Dimovska, Resident Representative of UNDP in Uzbekistan, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036507658660411835,
+          "perplexity": 37,
+          "sentence": "Mr. Yoshinori Fujiyama, Ambassador of Japan to Uzbekistan and Mr. Yu Yu, Representative of UNFPA in Uzbekistan attended the launch ceremony of the pilot facilities in Karakalpakstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005335946334525943,
+          "perplexity": 34,
+          "sentence": "Today, Ms. Matilda Dimovska, Resident Representative of the United Nations Development Programme (UNDP) in Uzbekistan, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000509437348227948,
+          "perplexity": 23,
+          "sentence": "Mr. Yoshinori Fujiyama, Ambassador Extraordinary and Plenipotentiary of Japan to Uzbekistan and Mr. Yu Yu, Representative of the United Nations Population Fund (UNFPA) in Uzbekistan paid a visit to the Republic of Karakalpakstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006982404156588018,
+          "perplexity": 42,
+          "sentence": "The purpose of the visit was to meet with national partners, discuss prospects for further cooperation, get acquainted with the implementation of joint initiatives in the Aral Sea region, launch pilot facilities to improve the infrastructure of rural districts, and participate in the celebration of International Volunteer Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007295915856957436,
+          "perplexity": 33,
+          "sentence": "The mission was organized within the framework of the Joint UNDP-UNFPA Programme on \"Building the resilience of local communities against health, environmental and economic insecurities caused by environmental destruction in the Aral Sea region\", funded by the Government of Japan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008173102978616953,
+          "perplexity": 37,
+          "sentence": "According to the visit agenda, the first meeting was held at a high level in the Jokargy Kenes of the Republic of Karakalpakstan with Mr. Murat Kamalov, Chairperson of the Jokargy Kenes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011680073803290725,
+          "perplexity": 71,
+          "sentence": "In her welcoming speech, Ms. Matilda Dimovska emphasized that UNDP looks forward to raising the ambition of joint engagement to support the implementation of the UN Resolution on the Aral Sea region - Zone of Ecological Innovation and Technology, thus ensuring the sustainable development of the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001262009609490633,
+          "perplexity": 36,
+          "sentence": "She thanked the Government of Uzbekistan, the Government of Karakalpakstan and the Government of Japan for support and joining hands in this important endeavour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001336239161901176,
+          "perplexity": 111,
+          "sentence": "\u201cI hope that this visit will serve as a standing point for further enhanced collaboration to jointly explore synergies and coordinated assistance to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ms. Matilda Dimovska, Resident Representative of UNDP in Uzbekistan, H.E. Mr. Yoshinori Fujiyama, Ambassador of Japan to Uzbekistan and Mr. Yu Yu, Representative of UNFPA in Uzbekistan attended the launch ceremony of the pilot facilities in Karakalpakstan. Today, Ms. Matilda Dimovska, Resident Representative of the United Nations Development Programme (UNDP) in Uzbekistan, H.E. Mr. Yoshinori Fujiyama, Ambassador Extraordinary and Plenipotentiary of Japan to Uzbekistan and Mr. Yu Yu, Representative of the United Nations Population Fund (UNFPA) in Uzbekistan paid a visit to the Republic of Karakalpakstan. The purpose of the visit was to meet with national partners, discuss prospects for further cooperation, get acquainted with the implementation of joint initiatives in the Aral Sea region, launch pilot facilities to improve the infrastructure of rural districts, and participate in the celebration of International Volunteer Day. The mission was organized within the framework of the Joint UNDP-UNFPA Programme on \"Building the resilience of local communities against health, environmental and economic insecurities caused by environmental destruction in the Aral Sea region\", funded by the Government of Japan. According to the visit agenda, the first meeting was held at a high level in the Jokargy Kenes of the Republic of Karakalpakstan with Mr. Murat Kamalov, Chairperson of the Jokargy Kenes. In her welcoming speech, Ms. Matilda Dimovska emphasized that UNDP looks forward to raising the ambition of joint engagement to support the implementation of the UN Resolution on the Aral Sea region \u2013 Zone of Ecological Innovation and Technology, thus ensuring the sustainable development of the region. She thanked the Government of Uzbekistan, the Government of Karakalpakstan and the Government of Japan for support and joining hands in this important endeavour. \u201cI hope that this visit will serve as a standing point for further enhanced collaboration to jointly explore synergies and coordinated assistance to",
+  "date": "25 November 2021"
+}

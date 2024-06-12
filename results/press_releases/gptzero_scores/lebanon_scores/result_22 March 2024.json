@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "15b1753d-b95a-4f8a-a32e-726069ae69f1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.253753662109375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019665798754431307,
+          "perplexity": 165,
+          "sentence": "Beirut, 21 March 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019975255418103188,
+          "perplexity": 32,
+          "sentence": "The Government of the Republic of Korea in Lebanon and the United Nations Human Settlements Programme (UN-Habitat) have signed an agreement to provide emergency support to the Zahle Civil Defense Centre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002071138733299449,
+          "perplexity": 70,
+          "sentence": "The event was held at the Civil Defense in Zahle in the presence of the Korean Ambassador to Lebanon, Mr. Il Park, and Head of UN-Habitat Lebanon Country Programme, Ms. Taina Christiansen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020445018890313804,
+          "perplexity": 89,
+          "sentence": "Under the title \u201cEmergency support to Zahle Civil Defense to enhance preparedness and crisis response capacities to better protect communities and respond to conflict and natural disasters\u201d, the project will fully rehabilitate the Centre and provide extensive equipment to enhance the response capacities of the Civil Defense in Zahle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021534613915719092,
+          "perplexity": 105,
+          "sentence": "This intervention serves as a second phase of Korea's ongoing project supporting public institutions in Zahle and is considered a milestone within UN-Habitat's wider focus on sustainable urban regeneration and development in Zahle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016787141794338822,
+          "perplexity": 65,
+          "sentence": "A delegation from the Government of Korea in Lebanon and UN-Habitat visited project sites to observe implementation progress under the first phase of the project, which includes the provision of renewable energy solutions to the Tel Chiha Hospital, a water pumping station run by the Beqaa Water Establishment and the installation of renewable energy street lighting fixtures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017201693844981492,
+          "perplexity": 80,
+          "sentence": "\u201cWe are excited to launch our second project in Zahle in partnership with UN-Habitat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014934914361219853,
+          "perplexity": 62,
+          "sentence": "I hope that this project will contribute to improving the working conditions and safety of the civil defense staffs and volunteers, which in turn will facilitate better access to emergency assistance for the people of Zahle\u201d said Mr. Il Park, the Korean Ambassador to Lebanon \u201cThe Municipality of Zahle welcomes the efforts of UN-Habitat and thanks the Korean funding to secure renewable energy for the water well of the Zahle Industrial Zone and the Tal Chiha Hospital, which is currently",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 21 March 2024. The Government of the Republic of Korea in Lebanon and the United Nations Human Settlements Programme (UN-Habitat) have signed an agreement to provide emergency support to the Zahle Civil Defense Centre. The event was held at the Civil Defense in Zahle in the presence of the Korean Ambassador to Lebanon, Mr. Il Park, and Head of UN-Habitat Lebanon Country Programme, Ms. Taina Christiansen. Under the title \u201cEmergency support to Zahle Civil Defense to enhance preparedness and crisis response capacities to better protect communities and respond to conflict and natural disasters\u201d, the project will fully rehabilitate the Centre and provide extensive equipment to enhance the response capacities of the Civil Defense in Zahle. This intervention serves as a second phase of Korea\u2019s ongoing project supporting public institutions in Zahle and is considered a milestone within UN-Habitat\u2019s wider focus on sustainable urban regeneration and development in Zahle. A delegation from the Government of Korea in Lebanon and UN-Habitat visited project sites to observe implementation progress under the first phase of the project, which includes the provision of renewable energy solutions to the Tel Chiha Hospital, a water pumping station run by the Beqaa Water Establishment and the installation of renewable energy street lighting fixtures. \u201cWe are excited to launch our second project in Zahle in partnership with UN-Habitat. I hope that this project will contribute to improving the working conditions and safety of the civil defense staffs and volunteers, which in turn will facilitate better access to emergency assistance for the people of Zahle\u201d said Mr. Il Park, the Korean Ambassador to Lebanon \u201cThe Municipality of Zahle welcomes the efforts of UN-Habitat and thanks the Korean funding to secure renewable energy for the water well of the Zahle Industrial Zone and the Tal Chiha Hospital, which is currently",
+  "date": "22 March 2024"
+}

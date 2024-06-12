@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f7145e20-7835-4fdf-8963-be747adc6921",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 7.798046112060547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00024394049250986427,
+          "perplexity": 16,
+          "sentence": "United Nations humanitarian agencies in Haiti are \u201cready to provide assistance\u201d to communities caught in the crossfire of gang violence \u201cas soon as they can gain access to the affected people.\u201d A recent upsurge in fighting between rival gangs in the Cit\u00e9 Soleil neighbourhood of the capital Port-au-Prince has led to the deaths of 99 people with 135 injured according to data reported by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002148060011677444,
+          "perplexity": 29,
+          "sentence": "In less than one week and according to a report released by OCHA covering 7 to14 July, at least 2,500 people have also been forced to flee their homes because of the fighting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022755352256353945,
+          "perplexity": 20,
+          "sentence": "Twenty people have been reported missing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002926359011325985,
+          "perplexity": 34,
+          "sentence": "Every day, with continued fighting, more people will suffer and be forced to flee, often risking their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028649604064412415,
+          "perplexity": 22,
+          "sentence": "Cit\u00e9 Soleil, with a population of around 300,000 is one of the poorest neighbourhoods in the Haitian capital, where gangs have gained more influence over the past several years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025144603569060564,
+          "perplexity": 33,
+          "sentence": "OCHA said that \u201ca large proportion of the population are trapped in Cit\u00e9 Soleil as gangs attempt to exert their influence,\u201d adding that \u201cthe people in some areas have not had access to food or water since July 8.\u201d One child in five is suffering from severe malnutrition \u201ca rate well above emergency thresholds.\u201d \u201cAs people continue to suffer in Cit\u00e9 Soleil, insecurity is preventing humanitarian agencies from entering the area,\u201d said Ulrika Richardson, the UN Humanitarian Coordinator, the organization's most senior humanitarian official in Haiti.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024594191927462816,
+          "perplexity": 36,
+          "sentence": "\u201cThe UN is ready to provide assistance to the many children, women and men caught in the crossfire of gang violence as soon as humanitarian partners can gain access to the affected zones.\u201d 'The people of Cit\u00e9 Soleil are amongst the most impacted by the current waves of violence in Haiti,\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "United Nations humanitarian agencies in Haiti are \u201cready to provide assistance\u201d to communities caught in the crossfire of gang violence \u201cas soon as they can gain access to the affected people.\u201d A recent upsurge in fighting between rival gangs in the Cit\u00e9 Soleil neighbourhood of the capital Port-au-Prince has led to the deaths of 99 people with 135 injured according to data reported by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) in Haiti. In less than one week and according to a report released by OCHA covering 7 to14 July, at least 2,500 people have also been forced to flee their homes because of the fighting. Twenty people have been reported missing. Every day, with continued fighting, more people will suffer and be forced to flee, often risking their lives. Cit\u00e9 Soleil, with a population of around 300,000 is one of the poorest neighbourhoods in the Haitian capital, where gangs have gained more influence over the past several years. OCHA said that \u201ca large proportion of the population are trapped in Cit\u00e9 Soleil as gangs attempt to exert their influence,\u201d adding that \u201cthe people in some areas have not had access to food or water since July 8.\u201d One child in five is suffering from severe malnutrition \u201ca rate well above emergency thresholds.\u201d \u201cAs people continue to suffer in Cit\u00e9 Soleil, insecurity is preventing humanitarian agencies from entering the area,\u201d said Ulrika Richardson, the UN Humanitarian Coordinator, the organization\u2019s most senior humanitarian official in Haiti. \u201cThe UN is ready to provide assistance to the many children, women and men caught in the crossfire of gang violence as soon as humanitarian partners can gain access to the affected zones.\u201d \u2018The people of Cit\u00e9 Soleil are amongst the most impacted by the current waves of violence in Haiti,\u201d",
+  "date": "15 July 2022"
+}

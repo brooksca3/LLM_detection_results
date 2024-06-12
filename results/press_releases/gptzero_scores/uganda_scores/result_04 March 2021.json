@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e0697335-14ab-4757-954a-48deb764c4fa",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03605035016814241,
+        "human": 0.830945503955768,
+        "mixed": 0.13300414587608952
+      },
+      "completely_generated_prob": 0.06650207293804476,
+      "confidence_category": "low",
+      "confidence_score": 0.830945503955768,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03605035016814241,
+          "human": 0.830945503955768,
+          "mixed": 0.13300414587608952
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 103.1863784790039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.008773094043135643,
+          "perplexity": 12,
+          "sentence": "The Open Data Platform (ODP) acts as a data warehouse for Uganda's statistical data and metadata for SDGs, and provides dashboards and visualisations to users, as well as data downloads in a variety of formats Uganda now has a national Sustainable Development Goals (SDGs) data and metadata platform, which enables anyone to obtain information on the SDGs in Uganda online at https://uganda.opendataforafrica.org/sdg The Open Data Platform (ODP) acts as a data warehouse for Uganda's statistical data and metadata for SDGs, and provides dashboards and visualisations to users, as well as data downloads in a variety of formats, useful for both the public interested in a high-level overview of how Uganda is progressing towards the SDGs and policy analysts and researchers who may want to explore the data in more detail.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.314388245344162,
+          "perplexity": 18,
+          "sentence": "Uganda is one of twenty countries across Africa and Asia participating in the UNSD-DFID project, which is led by the United Nations Statistics Division (UNSD) and funded by the UK Department for International Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3493596315383911,
+          "perplexity": 16,
+          "sentence": "The overall objective of the project is to make Sustainable Development Goals (SDGs) data open and available to the widest possible audience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.37733927369117737,
+          "perplexity": 103,
+          "sentence": "The project aims to improve the availability of data on nationally aligned SDG indicators and making them more accessible through national data and metadata platforms for dissemination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005442681722342968,
+          "perplexity": 11,
+          "sentence": "ODP is a cloud-based dissemination platform developed by the African Development Bank (AfDB) with support from the International Monetary Fund (IMF) and is available to all African countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004269839730113745,
+          "perplexity": 41,
+          "sentence": "UNSD and AfDB worked with Uganda Bureau of Statistics (UBOS) and the SDG Secretariat at the Office of the Prime Minister to develop the platform, with support from the UN Resident Coordinator's Office (RCO) in Uganda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004259352572262287,
+          "perplexity": 110,
+          "sentence": "UBOS is the chair of the Data Technical Working Group within the National SDG Coordination Framework.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004489279817789793,
+          "perplexity": 313,
+          "sentence": "The ODP platform currently contains data for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Open Data Platform (ODP) acts as a data warehouse for Uganda\u2019s statistical data and metadata for SDGs, and provides dashboards and visualisations to users, as well as data downloads in a variety of formats Uganda now has a national Sustainable Development Goals (SDGs) data and metadata platform, which enables anyone to obtain information on the SDGs in Uganda online at https://uganda.opendataforafrica.org/sdg The Open Data Platform (ODP) acts as a data warehouse for Uganda\u2019s statistical data and metadata for SDGs, and provides dashboards and visualisations to users, as well as data downloads in a variety of formats, useful for both the public interested in a high-level overview of how Uganda is progressing towards the SDGs and policy analysts and researchers who may want to explore the data in more detail. Uganda is one of twenty countries across Africa and Asia participating in the UNSD-DFID project, which is led by the United Nations Statistics Division (UNSD) and funded by the UK Department for International Development. The overall objective of the project is to make Sustainable Development Goals (SDGs) data open and available to the widest possible audience. The project aims to improve the availability of data on nationally aligned SDG indicators and making them more accessible through national data and metadata platforms for dissemination. ODP is a cloud-based dissemination platform developed by the African Development Bank (AfDB) with support from the International Monetary Fund (IMF) and is available to all African countries. UNSD and AfDB worked with Uganda Bureau of Statistics (UBOS) and the SDG Secretariat at the Office of the Prime Minister to develop the platform, with support from the UN Resident Coordinator\u2019s Office (RCO) in Uganda. UBOS is the chair of the Data Technical Working Group within the National SDG Coordination Framework. The ODP platform currently contains data for",
+  "date": "04 March 2021"
+}

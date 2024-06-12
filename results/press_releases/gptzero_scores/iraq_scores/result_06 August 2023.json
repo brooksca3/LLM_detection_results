@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d9535403-83e9-4a0b-bf07-d3f1ff4cd670",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.575241088867188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019621932005975395,
+          "perplexity": 92,
+          "sentence": "UNICEF receives close to USD500,000 from Daewoo E&C to increase access to early learning in Basra Governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019751564832404256,
+          "perplexity": 59,
+          "sentence": "Baghdad, 06 August 2023 - UNICEF has signed a partnership with Daewoo E&C to provide 750 young children with access to early childhood education (ECE) services in disadvantaged areas in Basra Governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026581130805425346,
+          "perplexity": 44,
+          "sentence": "Co-led by the Basra Directorate of Education, this partnership will ensure inclusive and equitable quality education for every child, enhancing school readiness and facilitating a steady and effective transition to primary education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021976679272484034,
+          "perplexity": 37,
+          "sentence": "ECE is central in enabling younger children to start primary education at the right age and with the necessary competencies to succeed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018356897635385394,
+          "perplexity": 97,
+          "sentence": "With Daewoo E&C's support, UNICEF will build five ECE centers in five schools (one classroom per school).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017528634634800255,
+          "perplexity": 92,
+          "sentence": "Each ECE center will include a classroom, water, sanitation and hygiene (WASH) facilities and a small safe play area, serving two shifts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016884293290786445,
+          "perplexity": 30,
+          "sentence": "In alignment with Iraq National Education Strategy, UNICEF is supporting the Government's goal to provide access to ECE for at least 30 per cent of all children in Iraq by 2031.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005962322931736708,
+          "perplexity": 44,
+          "sentence": "\u201cUNICEF will support the Ministry of Education (MoE) in providing vulnerable girls and boys with access to quality early childhood development, care and pre-primary education, which will accelerate progress towards Sustainable Development Goal 4.2,\u201d said Sandra Lattouf, UNICEF Representative in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007103352341800928,
+          "perplexity": 21,
+          "sentence": "\u201cWith Daewoo E&C's support, MoE and UNICEF will ensure that these children are able to fulfil their rights and reach their full potential.\u201d \u201cDaewoo E&C is proud to have entered into a partnership with UNICEF to provide early childhood education (ECE) support to 750 children from disadvantaged areas in Basra Governorate,\u201d said Baek Jung-wan, CEO of Daewoo E&C.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0064633493311703205,
+          "perplexity": 33,
+          "sentence": "\"I hope our support for ECE will help create a stable and healthy future for children in Iraq and we plan to further contribute to the development of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF receives close to USD500,000 from Daewoo E&C to increase access to early learning in Basra Governorate. Baghdad, 06 August 2023 \u2013 UNICEF has signed a partnership with Daewoo E&C to provide 750 young children with access to early childhood education (ECE) services in disadvantaged areas in Basra Governorate. Co-led by the Basra Directorate of Education, this partnership will ensure inclusive and equitable quality education for every child, enhancing school readiness and facilitating a steady and effective transition to primary education. ECE is central in enabling younger children to start primary education at the right age and with the necessary competencies to succeed. With Daewoo E&C\u2019s support, UNICEF will build five ECE centers in five schools (one classroom per school). Each ECE center will include a classroom, water, sanitation and hygiene (WASH) facilities and a small safe play area, serving two shifts. In alignment with Iraq National Education Strategy, UNICEF is supporting the Government\u2019s goal to provide access to ECE for at least 30 per cent of all children in Iraq by 2031. \u201cUNICEF will support the Ministry of Education (MoE) in providing vulnerable girls and boys with access to quality early childhood development, care and pre-primary education, which will accelerate progress towards Sustainable Development Goal 4.2,\u201d said Sandra Lattouf, UNICEF Representative in Iraq. \u201cWith Daewoo E&C\u2019s support, MoE and UNICEF will ensure that these children are able to fulfil their rights and reach their full potential.\u201d \u201cDaewoo E&C is proud to have entered into a partnership with UNICEF to provide early childhood education (ECE) support to 750 children from disadvantaged areas in Basra Governorate,\u201d said Baek Jung-wan, CEO of Daewoo E&C. \"I hope our support for ECE will help create a stable and healthy future for children in Iraq and we plan to further contribute to the development of",
+  "date": "06 August 2023"
+}

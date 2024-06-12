@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "12ae9c2d-91fb-4680-b884-1ed973cbeacf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05167003447046238,
+        "human": 0.9472839652918104,
+        "mixed": 0.0010460002377273268
+      },
+      "completely_generated_prob": 0.05167003447046238,
+      "confidence_category": "medium",
+      "confidence_score": 0.9472839652918104,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05167003447046238,
+          "human": 0.9472839652918104,
+          "mixed": 0.0010460002377273268
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.290010452270508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010642815323080868,
+          "perplexity": 21,
+          "sentence": "Funded by EU & Sida, The Supporting Resilient Livelihoods, Food Security and Climate Adaptation in Yemen Joint Programme (ERRY III) is a 3 - year programme jointly implemented by the Food and Agriculture Organization (FAO), International Labour Organization (ILO), United Nations Development Programme (UNDP) and World Food Programme (WFP).The Joint programme aims to reduce vulnerability and strengthen resilience of crisis- affected communities in Yemen through creating sustainable livelihoods as well as improving resilience, food security and access to basic services in five vulnerable governorates in Yemen: Hajjah, Hodeidah, Lahj, Abyan, Taiz.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011268600064795464,
+          "perplexity": 32,
+          "sentence": "Sana'a, Yemen - The European Union (EU) and Sweden's International Development Cooperation Agency (Sida) have contributed new funding totaling US$ 49.37 million to boost resilience, livelihoods, food security, and climate adaptation in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011205968621652573,
+          "perplexity": 88,
+          "sentence": "The recently signed agreement to support the third phase of the Supporting Resilient Livelihoods, Food Security and Climate Adaption in Yemen - Joint Programme (ERRY III) covers a three-year period starting in March 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011067742161685601,
+          "perplexity": 48,
+          "sentence": "The programme aims to enhance capacity of crisis-affected communities to manage local risks and shocks for increased resilience and self-reliance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07774775475263596,
+          "perplexity": 19,
+          "sentence": "Specifically, it will target the most vulnerable community groups, including women, the unemployed, youth, marginalized minority groups, internally displaced persons (IDPs) and stressed host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08415211737155914,
+          "perplexity": 81,
+          "sentence": "\u201cThe European Union believes in the future of Yemen and in the ability of Yemenis to build resilience and pathways towards sustainable development even during the ongoing conflict,\u201d said the EU Ambassador to Yemen Gabriel Munuera Vi\u00f1als.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07987450808286667,
+          "perplexity": 21,
+          "sentence": "\u201cWith the additional funding, the European Union contributes to investing in Yemen's future while supporting people in Yemen to address immediate challenges.\u201d The programme will potentially reach nearly 847,000 direct beneficiaries and will be implemented jointly by the United Nations Development Programme (UNDP), the Food and Agriculture Organization of the United Nations (FAO), the International Labour Organization (ILO), and the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Funded by EU & Sida, The Supporting Resilient Livelihoods, Food Security and Climate Adaptation in Yemen Joint Programme (ERRY III) is a 3 - year programme jointly implemented by the Food and Agriculture Organization (FAO), International Labour Organization (ILO), United Nations Development Programme (UNDP) and World Food Programme (WFP).The Joint programme aims to reduce vulnerability and strengthen resilience of crisis- affected communities in Yemen through creating sustainable livelihoods as well as improving resilience, food security and access to basic services in five vulnerable governorates in Yemen: Hajjah, Hodeidah, Lahj, Abyan, Taiz. Sana\u2019a, Yemen \u2013 The European Union (EU) and Sweden's International Development Cooperation Agency (Sida) have contributed new funding totaling US$ 49.37 million to boost resilience, livelihoods, food security, and climate adaptation in Yemen. The recently signed agreement to support the third phase of the Supporting Resilient Livelihoods, Food Security and Climate Adaption in Yemen - Joint Programme (ERRY III) covers a three-year period starting in March 2022. The programme aims to enhance capacity of crisis-affected communities to manage local risks and shocks for increased resilience and self-reliance. Specifically, it will target the most vulnerable community groups, including women, the unemployed, youth, marginalized minority groups, internally displaced persons (IDPs) and stressed host communities. \u201cThe European Union believes in the future of Yemen and in the ability of Yemenis to build resilience and pathways towards sustainable development even during the ongoing conflict,\u201d said the EU Ambassador to Yemen Gabriel Munuera Vi\u00f1als. \u201cWith the additional funding, the European Union contributes to investing in Yemen\u2019s future while supporting people in Yemen to address immediate challenges.\u201d The programme will potentially reach nearly 847,000 direct beneficiaries and will be implemented jointly by the United Nations Development Programme (UNDP), the Food and Agriculture Organization of the United Nations (FAO), the International Labour Organization (ILO), and the",
+  "date": "28 March 2022"
+}

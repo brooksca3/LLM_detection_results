@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8210cc21-7228-4898-a7ab-474b79e45b8d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.26207160949707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014339530025608838,
+          "perplexity": 106,
+          "sentence": "Delegates reiterated their support for the FAO Strategic Framework 2022-31, which calls for the transformation to more efficient, more inclusive, more resilient, and more sustainable global agrifood systems to assure the \u201cFour Betters\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011698537855409086,
+          "perplexity": 26,
+          "sentence": "The 37th session of the Regional Ministerial Conference for the Near East and North Africa (NENA) of the Food and Agriculture Organization of the United Nations (FAO) ended today with a Ministerial Declaration supporting the FAO Strategic Framework 2022-31, supported by the Organization's flagship initiatives, and calling for a ceasefire in Gaza.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011579196871025488,
+          "perplexity": 48,
+          "sentence": "The Ministerial Declaration was agreed by Members of the NENA region at the end of a two-day high-level gathering in Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000132165543618612,
+          "perplexity": 65,
+          "sentence": "Delegates reiterated their support for the FAO Strategic Framework 2022-31, which calls for the transformation to more efficient, more inclusive, more resilient, and more sustainable global agrifood systems to assure the \u201cFour Betters\u201d: better production, better nutrition, a better environment, and a better life, leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001164362474810332,
+          "perplexity": 26,
+          "sentence": "The FAO Strategic Framework supports Members in achieving the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011118008114863187,
+          "perplexity": 56,
+          "sentence": "The high-level participants also endorsed the four Regional Priorities for FAO's programme of work as set out in its Strategic Framework for the next decade, and which reflect strategic areas to support countries in the region in transforming their agrifood systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012781938130501658,
+          "perplexity": 58,
+          "sentence": "The Ministers also reiterated their support for FAO's flagship initiatives, including the One Country One Priority Product, Hand-in-Hand, and 1000 Digital Villages, and committed to support their implementation in their countries in line with national priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013831304386258125,
+          "perplexity": 34,
+          "sentence": "Ministers and Heads of Delegation of the region also called for a ceasefire in Gaza and an end to \u201call forms of violence.\u201d The Declaration expresses \u201cdeep concern about the deteriorating security situation in the region and the resulting food security and nutrition crisis, particularly in Gaza, Sudan, Yemen",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Delegates reiterated their support for the FAO Strategic Framework 2022\u201331, which calls for the transformation to more efficient, more inclusive, more resilient, and more sustainable global agrifood systems to assure the \u201cFour Betters\u201d. The 37th session of the Regional Ministerial Conference for the Near East and North Africa (NENA) of the Food and Agriculture Organization of the United Nations (FAO) ended today with a Ministerial Declaration supporting the FAO Strategic Framework 2022-31, supported by the Organization\u2019s flagship initiatives, and calling for a ceasefire in Gaza. The Ministerial Declaration was agreed by Members of the NENA region at the end of a two-day high-level gathering in Amman. Delegates reiterated their support for the FAO Strategic Framework 2022\u201331, which calls for the transformation to more efficient, more inclusive, more resilient, and more sustainable global agrifood systems to assure the \u201cFour Betters\u201d: better production, better nutrition, a better environment, and a better life, leaving no one behind. The FAO Strategic Framework supports Members in achieving the 2030 Agenda for Sustainable Development and the Sustainable Development Goals (SDGs). The high-level participants also endorsed the four Regional Priorities for FAO\u2019s programme of work as set out in its Strategic Framework for the next decade, and which reflect strategic areas to support countries in the region in transforming their agrifood systems. The Ministers also reiterated their support for FAO\u2019s flagship initiatives, including the One Country One Priority Product, Hand-in-Hand, and 1000 Digital Villages, and committed to support their implementation in their countries in line with national priorities. Ministers and Heads of Delegation of the region also called for a ceasefire in Gaza and an end to \u201call forms of violence.\u201d The Declaration expresses \u201cdeep concern about the deteriorating security situation in the region and the resulting food security and nutrition crisis, particularly in Gaza, Sudan, Yemen",
+  "date": "06 March 2024"
+}

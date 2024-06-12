@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e98f9483-7754-471e-a755-d3ab01ff9a95",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.683713912963867,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001095469226129353,
+          "perplexity": 23,
+          "sentence": "The United Nations Children's Fund in partnership with the Ministry for Support of Mahalla and Family of the Republic of Uzbekistan, and the Republican Center for the Social Adaptation of Children conducted training sessions for staff from the social services department of the Hokimiyat, representatives from the Ministry for Support of Mahalla and Family of the Republic of Uzbekistan, as well as for other social service workers, whose role includes supporting families with children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013584314147010446,
+          "perplexity": 30,
+          "sentence": "The training sessions were conducted within the framework of the UN Joint Program on Strengthening Social Protection in Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012535719433799386,
+          "perplexity": 36,
+          "sentence": "The program aims to support the Uzbek government in developing a national social protection strategy, an effective mechanism for interagency interaction and social protection, as well as improving social protection for people with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008703363710083067,
+          "perplexity": 53,
+          "sentence": "\u201cManagement and mahalla workers who have acquired knowledge and skills in the provision of social services according to case management standards, will be able to provide qualified assistance to vulnerable families, especially families with children, to overcome difficult life situations caused by poverty, unemployment, disability, the consequences of labour migration and domestic violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008385565597563982,
+          "perplexity": 98,
+          "sentence": "During the training sessions, staff members learned the toolkit for case management, and had the opportunity to apply their learning in practice in assessing families and developing plans for their withdrawal from a difficult life situation in two pilot regions,\u201d said Tulinoy Kadirova, Chief Specialist of the Department for Strengthening Family Values of the Ministry for Support of Family and Mahalla.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009770748438313603,
+          "perplexity": 54,
+          "sentence": "The training sessions were designed to familiarize social services sector managers and the chairmen of mahallas in the pilot districts with the goals and objectives of the project, the concept of providing social services based on case management standards, and effective methods and approaches in social services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011838931823149323,
+          "perplexity": 46,
+          "sentence": "During the training sessions, managers discussed their roles in the provision of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Children\u2019s Fund in partnership with the Ministry for Support of Mahalla and Family of the Republic of Uzbekistan, and the Republican Center for the Social Adaptation of Children conducted training sessions for staff from the social services department of the Hokimiyat, representatives from the Ministry for Support of Mahalla and Family of the Republic of Uzbekistan, as well as for other social service workers, whose role includes supporting families with children. The training sessions were conducted within the framework of the UN Joint Program on Strengthening Social Protection in Uzbekistan. The program aims to support the Uzbek government in developing a national social protection strategy, an effective mechanism for interagency interaction and social protection, as well as improving social protection for people with disabilities. \u201cManagement and mahalla workers who have acquired knowledge and skills in the provision of social services according to case management standards, will be able to provide qualified assistance to vulnerable families, especially families with children, to overcome difficult life situations caused by poverty, unemployment, disability, the consequences of labour migration and domestic violence. During the training sessions, staff members learned the toolkit for case management, and had the opportunity to apply their learning in practice in assessing families and developing plans for their withdrawal from a difficult life situation in two pilot regions,\u201d said Tulinoy Kadirova, Chief Specialist of the Department for Strengthening Family Values of the Ministry for Support of Family and Mahalla. The training sessions were designed to familiarize social services sector managers and the chairmen of mahallas in the pilot districts with the goals and objectives of the project, the concept of providing social services based on case management standards, and effective methods and approaches in social services. During the training sessions, managers discussed their roles in the provision of",
+  "date": "07 July 2021"
+}

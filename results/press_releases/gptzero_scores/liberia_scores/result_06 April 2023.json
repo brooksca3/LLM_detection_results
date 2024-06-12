@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ef132171-24ec-441e-be4d-ea46c2df6c4b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03046253450449943,
+        "human": 0.9685550036764128,
+        "mixed": 0.0009824618190877544
+      },
+      "completely_generated_prob": 0.03046253450449943,
+      "confidence_category": "high",
+      "confidence_score": 0.9685550036764128,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03046253450449943,
+          "human": 0.9685550036764128,
+          "mixed": 0.0009824618190877544
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.8856201171875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011416896450100467,
+          "perplexity": 42,
+          "sentence": "06 March 2023 -The Deputy Special Representative of the Secretary-General and Officer in Charge of the United Nations Office for West Africa and the Sahel (UNOWAS), Giovanie BIHA, today concluded a four-day working visit to the Republic of Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011191273370059207,
+          "perplexity": 45,
+          "sentence": "The objective of the visit was to participate in the signing ceremony of The Revised Farmington River Declaration 2023, organized on 4th April in Margibi under the auspices of Liberia's National Elections Commission (NEC), the Economic Community of West African States(ECOWAS), and the United Nations (UN); and to discuss with the authorities', ways of reinforcing UN-Liberia partnership ahead of presidential and parliamentary elections, scheduled for October 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011872308823512867,
+          "perplexity": 76,
+          "sentence": "Prior to the signing ceremony of the Farmington River Declaration 2023, the Deputy Special Representative was received in audience by His Excellency Dr. George Manneh Weah, President of the Republic of Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016363751143217087,
+          "perplexity": 83,
+          "sentence": "She also met with Dee-Maxwell Saah Kemayah, Minister of Foreign Affairs, Frank Musa Dean, Minister of Justice, Maria G. Harrison, Secretary-General of the Mano River Union (MRU), members of the international community, Davidetta Browne Lansanah, the Chairperson of the National Elections Commission (NEC) and NEC commissioners, civil society organizations, and the UN Country Team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017936334013938904,
+          "perplexity": 74,
+          "sentence": "In her meetings, Ms. Biha applauded the tireless efforts being taken by the authorities and national actors to consolidate peace and democracy in Liberia, and renewed the United Nations support to accompany them in their endeavor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01627926342189312,
+          "perplexity": 84,
+          "sentence": "In Margibi, along with H.E President George Weah in his capacity of a political leader and standard-bearer, H. E. Dr. Omar Alieu Touray, President of the Economic Community of West African States (ECOWAS), Ms. Biha witnessed the signing ceremony of The Revised Farmington River Declaration 2023 during which the leaders of 27 political parties pledged their commitment to peaceful,transparent, and credible elections for the upcoming presidential and legislative polls in October 2023.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "06 March 2023 -The Deputy Special Representative of the Secretary-General and Officer in Charge of the United Nations Office for West Africa and the Sahel (UNOWAS), Giovanie BIHA, today concluded a four-day working visit to the Republic of Liberia. The objective of the visit was to participate in the signing ceremony of The Revised Farmington River Declaration 2023, organized on 4th April in Margibi under the auspices of Liberia's National Elections Commission (NEC), the Economic Community of West African States(ECOWAS), and the United Nations (UN); and to discuss with the authorities\u2019, ways of reinforcing UN-Liberia partnership ahead of presidential and parliamentary elections, scheduled for October 2023. Prior to the signing ceremony of the Farmington River Declaration 2023, the Deputy Special Representative was received in audience by His Excellency Dr. George Manneh Weah, President of the Republic of Liberia. She also met with Dee-Maxwell Saah Kemayah, Minister of Foreign Affairs, Frank Musa Dean, Minister of Justice, Maria G. Harrison, Secretary-General of the Mano River Union (MRU), members of the international community, Davidetta Browne Lansanah, the Chairperson of the National Elections Commission (NEC) and NEC commissioners, civil society organizations, and the UN Country Team. In her meetings, Ms. Biha applauded the tireless efforts being taken by the authorities and national actors to consolidate peace and democracy in Liberia, and renewed the United Nations support to accompany them in their endeavor. In Margibi, along with H.E President George Weah in his capacity of a political leader and standard-bearer, H. E. Dr. Omar Alieu Touray, President of the Economic Community of West African States (ECOWAS), Ms. Biha witnessed the signing ceremony of The Revised Farmington River Declaration 2023 during which the leaders of 27 political parties pledged their commitment to peaceful,transparent, and credible elections for the upcoming presidential and legislative polls in October 2023.",
+  "date": "06 April 2023"
+}

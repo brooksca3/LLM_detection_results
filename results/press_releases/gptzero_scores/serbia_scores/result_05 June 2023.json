@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3a0daebf-4cbd-474c-8962-a7a3be35d294",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.488542556762695,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000661078782286495,
+          "perplexity": 40,
+          "sentence": "GENEVA (5 June 2023) - Serbia must take immediate and effective measures against hateful and divisive rhetoric in public discourse which fuels violence in society, a UN expert* said after two mass shootings in Belgrade killed 17 people, including eight children, and led to mass protests earlier this month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007152502075769007,
+          "perplexity": 49,
+          "sentence": "\u201cThe shootings have traumatised the entire country,\u201d said Irene Khan, UN Special Rapporteur on freedom of opinion and expression.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007991216843947768,
+          "perplexity": 36,
+          "sentence": "\u201cIt is unconscionable to use this tragedy as yet another occasion to stir up hatred, demonising and vilifying independent media, human rights defenders, political opponents and others critical of the government.\u201d Khan noted that thousands of people took to the streets to demand accountability for the crimes committed, better arms control, and robust action against \u201chate speech\u201d and incitement to hatred and violence in tabloid media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007575841736979783,
+          "perplexity": 85,
+          "sentence": "\u201cRather than promoting justice and accountability, recent speeches - including by members of the Government - appear to have encouraged harassment and even physical attacks against opposition politicians, journalists and activists,\u201d said Khan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008989628404378891,
+          "perplexity": 45,
+          "sentence": "During her official visit to Serbia in April, Khan had expressed serious concerns about the tabloid press and populist media outlets promoting and amplifying toxic statements by politicians and public officials, and the failure of the media regulatory body to take action against the media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009023306192830205,
+          "perplexity": 36,
+          "sentence": "\u201cFreedom of expression is a fundamental right that must be protected at all times but international law is clear that it is not a license to harass, intimidate or threaten critical voices,\u201d said Khan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010664236033335328,
+          "perplexity": 107,
+          "sentence": "\u201cThe current climate of political discourse in Serbia is deeply disturbing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007802161853760481,
+          "perplexity": 40,
+          "sentence": "The Government of Serbia must immediately investigate and sanction intimidation, threats and incitement to violence, especially by government officials, and ensure that all institutions and organs of the State follow the United Nations guidelines on combating hate speech while upholding freedom of expression,\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (5 June 2023) \u2013 Serbia must take immediate and effective measures against hateful and divisive rhetoric in public discourse which fuels violence in society, a UN expert* said after two mass shootings in Belgrade killed 17 people, including eight children, and led to mass protests earlier this month. \u201cThe shootings have traumatised the entire country,\u201d said Irene Khan, UN Special Rapporteur on freedom of opinion and expression. \u201cIt is unconscionable to use this tragedy as yet another occasion to stir up hatred, demonising and vilifying independent media, human rights defenders, political opponents and others critical of the government.\u201d Khan noted that thousands of people took to the streets to demand accountability for the crimes committed, better arms control, and robust action against \u201chate speech\u201d and incitement to hatred and violence in tabloid media. \u201cRather than promoting justice and accountability, recent speeches \u2013 including by members of the Government \u2013 appear to have encouraged harassment and even physical attacks against opposition politicians, journalists and activists,\u201d said Khan. During her official visit to Serbia in April, Khan had expressed serious concerns about the tabloid press and populist media outlets promoting and amplifying toxic statements by politicians and public officials, and the failure of the media regulatory body to take action against the media. \u201cFreedom of expression is a fundamental right that must be protected at all times but international law is clear that it is not a license to harass, intimidate or threaten critical voices,\u201d said Khan. \u201cThe current climate of political discourse in Serbia is deeply disturbing. The Government of Serbia must immediately investigate and sanction intimidation, threats and incitement to violence, especially by government officials, and ensure that all institutions and organs of the State follow the United Nations guidelines on combating hate speech while upholding freedom of expression,\u201d",
+  "date": "05 June 2023"
+}

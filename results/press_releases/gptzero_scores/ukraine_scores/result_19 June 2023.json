@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c6764bbd-6dee-4a2f-9d42-fda0cc0a79dd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.14350891113281,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0027549853548407555,
+          "perplexity": 29,
+          "sentence": "A comprehensive UNDP-led report takes a deep dive into Ukraine's Humanitarian Crisis Kyiv, 19 June 2023 - The United Nations in Ukraine today released its Human Impact Assessment (HIA), providing comprehensive insights into the effects of Russia's invasion on living conditions, health, access to education, livelihoods, food security, social inclusion, and gender equality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021483744494616985,
+          "perplexity": 33,
+          "sentence": "Twelve UN agencies contributed to the UNDP-led joint initiative, implemented at the request of the Office of the President and the Government of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026711432728916407,
+          "perplexity": 19,
+          "sentence": "Yulia Sokolovska, Deputy Head of the Office of the President of Ukraine, said the Assessment marks an important milestone in understanding the true human cost of the war in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029111732728779316,
+          "perplexity": 47,
+          "sentence": "\u201cThe Human Impact Assessment provides crucial insights into the resilience of our people, as well as the areas where we need to focus our recovery efforts,\u201d he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027801739051938057,
+          "perplexity": 48,
+          "sentence": "\u201cWe understand the depth of our responsibility, and are committed to ensuring the needs of our most vulnerable citizens are not just recognized but met.\u201d Denise Brown, UN Resident and Humanitarian Coordinator in Ukraine said: \u201cThe data in this Assessment underscores the stark impacts of the Russian invasion, particularly on Ukraine's most vulnerable people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001897912472486496,
+          "perplexity": 68,
+          "sentence": "Its recommendations will also help guide the entire UN system as we work with the Government, communities, and civil society in Ukraine, doing what is needed as they navigate their way to recovery.\u201d The Assessment reveals that although living standards and access to basic services stabilized following the initial months of conflict, living conditions faced a setback in winter 2022/2023 due to country-wide utility disruptions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017955629155039787,
+          "perplexity": 29,
+          "sentence": "Health and education were similarly impacted with 22 percent of households spending over a quarter of their monthly income on healthcare, and 11 percent of youth identifying a lack of access to quality education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001846099505200982,
+          "perplexity": 141,
+          "sentence": "The HIA concludes with key recommendations for the Government of Ukraine, International",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A comprehensive UNDP-led report takes a deep dive into Ukraine's Humanitarian Crisis Kyiv, 19 June 2023 \u2013 The United Nations in Ukraine today released its Human Impact Assessment (HIA), providing comprehensive insights into the effects of Russia\u2019s invasion on living conditions, health, access to education, livelihoods, food security, social inclusion, and gender equality. Twelve UN agencies contributed to the UNDP-led joint initiative, implemented at the request of the Office of the President and the Government of Ukraine. Yulia Sokolovska, Deputy Head of the Office of the President of Ukraine, said the Assessment marks an important milestone in understanding the true human cost of the war in Ukraine. \u201cThe Human Impact Assessment provides crucial insights into the resilience of our people, as well as the areas where we need to focus our recovery efforts,\u201d he said. \u201cWe understand the depth of our responsibility, and are committed to ensuring the needs of our most vulnerable citizens are not just recognized but met.\u201d Denise Brown, UN Resident and Humanitarian Coordinator in Ukraine said: \u201cThe data in this Assessment underscores the stark impacts of the Russian invasion, particularly on Ukraine\u2019s most vulnerable people. Its recommendations will also help guide the entire UN system as we work with the Government, communities, and civil society in Ukraine, doing what is needed as they navigate their way to recovery.\u201d The Assessment reveals that although living standards and access to basic services stabilized following the initial months of conflict, living conditions faced a setback in winter 2022/2023 due to country-wide utility disruptions. Health and education were similarly impacted with 22 percent of households spending over a quarter of their monthly income on healthcare, and 11 percent of youth identifying a lack of access to quality education. The HIA concludes with key recommendations for the Government of Ukraine, International",
+  "date": "19 June 2023"
+}

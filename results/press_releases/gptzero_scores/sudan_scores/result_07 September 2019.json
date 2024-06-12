@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ca6ed700-4845-4fca-b498-dbe7b20f66f7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05168813087365124,
+        "human": 0.9476157326836061,
+        "mixed": 0.0006961364427427776
+      },
+      "completely_generated_prob": 0.05168813087365124,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476157326836061,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05168813087365124,
+          "human": 0.9476157326836061,
+          "mixed": 0.0006961364427427776
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.08289337158203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014569784980267286,
+          "perplexity": 33,
+          "sentence": "Khartoum - His Excellency the Prime Minister of Sudan, Dr. Abdullah Hamdouk, today delivered a key note speech at the opening session of the UN Coordination Meeting taking place in Khartoum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014420512889046222,
+          "perplexity": 43,
+          "sentence": "The three-day meeting is discussing a road map for the UN system to support the transitional government on the development, economic, human rights, humanitarian and peace building tracks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014855661720503122,
+          "perplexity": 54,
+          "sentence": "Dr. Abdullah Hamdouk said the revolution slogan of \u201cFreedom, Peace and Justice\u201d will shape the future of the country adding he expects the United Nations to play a major role in supporting the transition process, achieving the transitional government's priorities and addressing the multiple challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05622214823961258,
+          "perplexity": 35,
+          "sentence": "\u201cWe expect the UN to play a leading role in orchestrating international support and we hope to see a comprehensive approach to this effort,\u201d said Dr. Hamdouk, adding that \u201cwe expect the UN to come up with a comprehensive plan addressing short, medium and long term interventions adjusted and crafted according to the transitional government's priorities and taking into consideration home-grown initiatives and demand-driven approaches.\u201d As part of its continuing efforts to support the people of Sudan, the United Nations at the instruction of the UN Secretary General has commenced this meeting to produce a shared analysis of the current situation in country while exploring key areas that the UN is best placed to support the transitional government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05179585516452789,
+          "perplexity": 51,
+          "sentence": "The meeting is expected to deliver a coordinated and coherent UN approach to the transitional government while being nimble and flexible to adapt to the priorities of the government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06422149389982224,
+          "perplexity": 20,
+          "sentence": "Mr. Nicholas Haysom, the Special Adviser of the Secretary-General on Sudan, conveyed the Secretary-General's congratulations to the Prime Minister and to the Sudanese people on the formation of transitional government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06216683238744736,
+          "perplexity": 127,
+          "sentence": "He pledged the support of the United Nations to the transition process, emphasizing that \u201cif we expected the Sudanese",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Khartoum - His Excellency the Prime Minister of Sudan, Dr. Abdullah Hamdouk, today delivered a key note speech at the opening session of the UN Coordination Meeting taking place in Khartoum. The three-day meeting is discussing a road map for the UN system to support the transitional government on the development, economic, human rights, humanitarian and peace building tracks. Dr. Abdullah Hamdouk said the revolution slogan of \u201cFreedom, Peace and Justice\u201d will shape the future of the country adding he expects the United Nations to play a major role in supporting the transition process, achieving the transitional government\u2019s priorities and addressing the multiple challenges. \u201cWe expect the UN to play a leading role in orchestrating international support and we hope to see a comprehensive approach to this effort,\u201d said Dr. Hamdouk, adding that \u201cwe expect the UN to come up with a comprehensive plan addressing short, medium and long term interventions adjusted and crafted according to the transitional government\u2019s priorities and taking into consideration home-grown initiatives and demand-driven approaches.\u201d As part of its continuing efforts to support the people of Sudan, the United Nations at the instruction of the UN Secretary General has commenced this meeting to produce a shared analysis of the current situation in country while exploring key areas that the UN is best placed to support the transitional government. The meeting is expected to deliver a coordinated and coherent UN approach to the transitional government while being nimble and flexible to adapt to the priorities of the government. Mr. Nicholas Haysom, the Special Adviser of the Secretary-General on Sudan, conveyed the Secretary-General\u2019s congratulations to the Prime Minister and to the Sudanese people on the formation of transitional government. He pledged the support of the United Nations to the transition process, emphasizing that \u201cif we expected the Sudanese",
+  "date": "07 September 2019"
+}

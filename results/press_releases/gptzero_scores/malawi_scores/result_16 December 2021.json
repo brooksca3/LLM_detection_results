@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a77ff65b-cb60-437e-a00b-4bc06fa73a54",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02115136975296287,
+        "human": 0.9782474285227926,
+        "mixed": 0.0006012017242444226
+      },
+      "completely_generated_prob": 0.02115136975296287,
+      "confidence_category": "high",
+      "confidence_score": 0.9782474285227926,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02115136975296287,
+          "human": 0.9782474285227926,
+          "mixed": 0.0006012017242444226
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 124.0602798461914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002334791701287031,
+          "perplexity": 83,
+          "sentence": "Press Statement on COVID-19 Situation Update as of 16 December 2021 In the past 24 hours, Malawi has registered 475 new COVID-19 cases, 40 new recoveries and one new death.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022964496165513992,
+          "perplexity": 72,
+          "sentence": "458 of the new cases are locally transmitted; 205 from Lilongwe, 130 from Blantyre, 55 from Mzimba North, 16 from Salima, 10 from Zomba, eight from Mzimba South, seven from Rumphi, four from Neno, three each from Dowa, Nkhata Bay and Thyolo, two each from Balaka, Mangochi, Mchinji, and Nkhotakota, and one each from Dedza, Karonga, Machinga, Mulanje, Mwanza and Phalombe districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018566329963505268,
+          "perplexity": 127,
+          "sentence": "17 of the new cases are imported; 12 identified at Mwanza border and their destination districts are still under investigation, three from Lilongwe, and two from Machinga districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020587474573403597,
+          "perplexity": 271,
+          "sentence": "The new death is from Blantyre and was not vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018062219023704529,
+          "perplexity": 96,
+          "sentence": "Cumulatively, Malawi has recorded 63,408 cases including 2,311 deaths (Case Fatality Rate is at 3.64%).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015924664912745357,
+          "perplexity": 98,
+          "sentence": "Of these cases, 2,759 are imported infections and 60,649 are locally transmitted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001726132002659142,
+          "perplexity": 55,
+          "sentence": "Cumulatively, 59,040 cases have now recovered (recovery rate of 93.11%) and 232 were lost to follow-up.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003180836793035269,
+          "perplexity": 26,
+          "sentence": "This brings the total number of active cases to 1,825.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023478432558476925,
+          "perplexity": 35,
+          "sentence": "In the past 24 hours, there were two new admissions and six new discharges in the treatment units.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014853220200166106,
+          "perplexity": 69,
+          "sentence": "Currently, 12 active cases are currently hospitalised; four from Blantyre, three in Lilongwe, two in Mzimba North, and one each in Zomba and Phalombe districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014057242078706622,
+          "perplexity": 512,
+          "sentence": "The new admissions are not vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001253469381481409,
+          "perplexity": 93,
+          "sentence": "On testing, in the past 24 hours, 1,773 COVID-19 tests were conducted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011795475147664547,
+          "perplexity": 64,
+          "sentence": "Of these, 1,040 tests were through SARS-CoV-2 Antigen Rapid Diagnostic test while the rest were through RT-PCR test.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008932009222917259,
+          "perplexity": 60,
+          "sentence": "The positive cases out of the total number tested (past 24 hours) translates to a positivity rate of 26.79% and the weekly positivity rate (seven days moving average) is at 15.2%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009276270866394043,
+          "perplexity": 54,
+          "sentence": "Cumulatively, 456,392 tests have been conducted in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Press Statement on COVID-19 Situation Update as of 16 December 2021 In the past 24 hours, Malawi has registered 475 new COVID-19 cases, 40 new recoveries and one new death. 458 of the new cases are locally transmitted; 205 from Lilongwe, 130 from Blantyre, 55 from Mzimba North, 16 from Salima, 10 from Zomba, eight from Mzimba South, seven from Rumphi, four from Neno, three each from Dowa, Nkhata Bay and Thyolo, two each from Balaka, Mangochi, Mchinji, and Nkhotakota, and one each from Dedza, Karonga, Machinga, Mulanje, Mwanza and Phalombe districts. 17 of the new cases are imported; 12 identified at Mwanza border and their destination districts are still under investigation, three from Lilongwe, and two from Machinga districts. The new death is from Blantyre and was not vaccinated. Cumulatively, Malawi has recorded 63,408 cases including 2,311 deaths (Case Fatality Rate is at 3.64%). Of these cases, 2,759 are imported infections and 60,649 are locally transmitted. Cumulatively, 59,040 cases have now recovered (recovery rate of 93.11%) and 232 were lost to follow-up. This brings the total number of active cases to 1,825. In the past 24 hours, there were two new admissions and six new discharges in the treatment units. Currently, 12 active cases are currently hospitalised; four from Blantyre, three in Lilongwe, two in Mzimba North, and one each in Zomba and Phalombe districts. The new admissions are not vaccinated. On testing, in the past 24 hours, 1,773 COVID-19 tests were conducted. Of these, 1,040 tests were through SARS-CoV-2 Antigen Rapid Diagnostic test while the rest were through RT-PCR test. The positive cases out of the total number tested (past 24 hours) translates to a positivity rate of 26.79% and the weekly positivity rate (seven days moving average) is at 15.2%. Cumulatively, 456,392 tests have been conducted in",
+  "date": "16 December 2021"
+}

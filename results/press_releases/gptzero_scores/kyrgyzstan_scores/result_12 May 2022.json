@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2038c164-6411-4108-9075-b1cb3fc13fe1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.014202492774566474,
+        "human": 0.9852854046242775,
+        "mixed": 0.0005121026011560694
+      },
+      "completely_generated_prob": 0.014202492774566474,
+      "confidence_category": "high",
+      "confidence_score": 0.9852854046242775,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.014202492774566474,
+          "human": 0.9852854046242775,
+          "mixed": 0.0005121026011560694
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 86.1168441772461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0014391114236786962,
+          "perplexity": 140,
+          "sentence": "As part of the two-day working visit to Nur-Sultan, on 12 May 2022 the UN Country Team led by UN Resident Coordinator Ozonnia Ojielo met with the Head of the Islamic Development Bank (IsDB) Regional Hub Kazakhstan Ibrahim Shoukry and his team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018981710309162736,
+          "perplexity": 110,
+          "sentence": "The UN Country Team and the representative of the IsDB discussed strategic collaboration and the ongoing projects, as well as exchanged ideas on expanding opportunities to take project-based ideas to the next level to ensure their increased sustainability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002100286539644003,
+          "perplexity": 72,
+          "sentence": "The IsDB representative Ibrahim Shoukry provided an overview of the IsDB activities, including the ongoing joint projects, and priorities in the region and the Kyrgyz Republic and presented initial ideas for collaboration in the energy sector, water and agriculture, social sector (health and education).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002771810395643115,
+          "perplexity": 289,
+          "sentence": "The potential interventions in energy sector include solar power solutions and crowdfunding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019198411609977484,
+          "perplexity": 79,
+          "sentence": "As for the water and agriculture, the sides discussed the need for improvement of the sewerage and sanitations system in rural areas, such as in Jalal-Abad, Batken, and Talas, reinforced with public awareness campaign targeting vulnerable groups: women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014020163798704743,
+          "perplexity": 141,
+          "sentence": "The IsDB representative suggested further work with UN agencies to develop a project for building improved seed supply system in the country as well as digitizing agriculture support services, to promote financial inclusion through development of Rural or SME Finance programs, to support affordable housing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001409493968822062,
+          "perplexity": 152,
+          "sentence": "Joint activities in the areas related to disaster risk reduction/ climate hazards, vocational training for youth in vulnerable areas, social protection program (microfinancing and targeting systems) were discussed in detail as well.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002203008159995079,
+          "perplexity": 133,
+          "sentence": "In terms of social sector, the IsDB representative informed about the ongoing preparations for projects aimed at improving technical capacity of health facilities to provide better services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002192143816500902,
+          "perplexity": 316,
+          "sentence": "UN Resident Coordinator Ozonnia Ojielo stressed the importance of engaging a wider group of actors to share costs and to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As part of the two-day working visit to Nur-Sultan, on 12 May 2022 the UN Country Team led by UN Resident Coordinator Ozonnia Ojielo met with the Head of the Islamic Development Bank (IsDB) Regional Hub Kazakhstan Ibrahim Shoukry and his team. The UN Country Team and the representative of the IsDB discussed strategic collaboration and the ongoing projects, as well as exchanged ideas on expanding opportunities to take project-based ideas to the next level to ensure their increased sustainability. The IsDB representative Ibrahim Shoukry provided an overview of the IsDB activities, including the ongoing joint projects, and priorities in the region and the Kyrgyz Republic and presented initial ideas for collaboration in the energy sector, water and agriculture, social sector (health and education). The potential interventions in energy sector include solar power solutions and crowdfunding. As for the water and agriculture, the sides discussed the need for improvement of the sewerage and sanitations system in rural areas, such as in Jalal-Abad, Batken, and Talas, reinforced with public awareness campaign targeting vulnerable groups: women and children. The IsDB representative suggested further work with UN agencies to develop a project for building improved seed supply system in the country as well as digitizing agriculture support services, to promote financial inclusion through development of Rural or SME Finance programs, to support affordable housing. Joint activities in the areas related to disaster risk reduction/ climate hazards, vocational training for youth in vulnerable areas, social protection program (microfinancing and targeting systems) were discussed in detail as well. In terms of social sector, the IsDB representative informed about the ongoing preparations for projects aimed at improving technical capacity of health facilities to provide better services. UN Resident Coordinator Ozonnia Ojielo stressed the importance of engaging a wider group of actors to share costs and to",
+  "date": "12 May 2022"
+}

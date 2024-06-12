@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "99f09037-ec52-4fdc-8bb2-98a069fad185",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022899958772937705,
+        "human": 0.9771000412270624,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.022899958772937705,
+      "confidence_category": "high",
+      "confidence_score": 0.9771000412270624,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022899958772937705,
+          "human": 0.9771000412270624,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.556537628173828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004109637346118689,
+          "perplexity": 17,
+          "sentence": "UNICEF - PRESS RELEASE: Restricting female humanitarians from working and female students from access to education in Afghanistan is a 'blatant violation of fundamental human rights' Restricting female humanitarians from working and female students from access to education in Afghanistan is a 'blatant violation of fundamental human rights' NEW YORK, 26 December 2022 - \u201cUNICEF strongly condemns the recent decree issued by the Taliban de facto authorities banning all female humanitarian workers at national and international NGOs from working across Afghanistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004026834387332201,
+          "perplexity": 19,
+          "sentence": "This decision is a blatant violation of obligations under international humanitarian law and the most fundamental human rights of women in Afghanistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004218139220029116,
+          "perplexity": 36,
+          "sentence": "It comes just days after the decision to ban all women from access to higher education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034911197144538164,
+          "perplexity": 25,
+          "sentence": "\u201cBeyond the egregious roll back of basic rights, these decisions will have far-reaching consequences for the delivery of essential services for children and families across the country - especially in the areas of health, nutrition, education and child protection - areas where female humanitarian workers have an immeasurably important role to play.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032834357116371393,
+          "perplexity": 27,
+          "sentence": "This includes the programming of UNICEF, through which we provide services to 19 million people, including more than 10 million children, across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003296823939308524,
+          "perplexity": 29,
+          "sentence": "\u201cBy banning female NGO workers, the Taliban de facto authorities are effectively denying these services to a significant portion of the population and putting the lives and well-being of all Afghans, especially women and children, at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018595319706946611,
+          "perplexity": 48,
+          "sentence": "\u201cUNICEF calls on the Taliban de facto authorities to immediately reverse both decisions, on higher education and humanitarian work, and to allow all female students to go back to school and female NGO workers to continue their important work in Afghanistan across the humanitarian sector.\u201d UNICEF works in some of the world's toughest places, to reach the world's most disadvantaged children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016377440188080072,
+          "perplexity": 46,
+          "sentence": "Across 190 countries and territories, we",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF - PRESS RELEASE : Restricting female humanitarians from working and female students from access to education in Afghanistan is a \u2018blatant violation of fundamental human rights\u2019 Restricting female humanitarians from working and female students from access to education in Afghanistan is a \u2018blatant violation of fundamental human rights\u2019 NEW YORK, 26 December 2022 \u2013 \u201cUNICEF strongly condemns the recent decree issued by the Taliban de facto authorities banning all female humanitarian workers at national and international NGOs from working across Afghanistan. This decision is a blatant violation of obligations under international humanitarian law and the most fundamental human rights of women in Afghanistan. It comes just days after the decision to ban all women from access to higher education. \u201cBeyond the egregious roll back of basic rights, these decisions will have far-reaching consequences for the delivery of essential services for children and families across the country \u2013 especially in the areas of health, nutrition, education and child protection \u2013 areas where female humanitarian workers have an immeasurably important role to play. This includes the programming of UNICEF, through which we provide services to 19 million people, including more than 10 million children, across the country. \u201cBy banning female NGO workers, the Taliban de facto authorities are effectively denying these services to a significant portion of the population and putting the lives and well-being of all Afghans, especially women and children, at risk. \u201cUNICEF calls on the Taliban de facto authorities to immediately reverse both decisions, on higher education and humanitarian work, and to allow all female students to go back to school and female NGO workers to continue their important work in Afghanistan across the humanitarian sector.\u201d UNICEF works in some of the world\u2019s toughest places, to reach the world\u2019s most disadvantaged children. Across 190 countries and territories, we",
+  "date": "27 December 2022"
+}

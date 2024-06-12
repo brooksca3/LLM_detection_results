@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0a17ebe7-572b-4520-a8f9-74222de9a9ba",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.66778564453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0045445323921740055,
+          "perplexity": 29,
+          "sentence": "at Indian Council of World Affairs, New Delhi on 24 January 2024 Your Excellency, Ambassador Ms. Vijay Thakur Singh, Director General of the Indian Council of World Affairs, Let me begin by expressing my deepest appreciation to Ambassador Singh's generous invitation to join you today and for her kind introduction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006078858859837055,
+          "perplexity": 92,
+          "sentence": "It is indeed an honour to address this renowned Indian Council of World Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003341083414852619,
+          "perplexity": 67,
+          "sentence": "As India's first independent international affairs Think Tank, the Council has unmatched standing on the global political landscape - and I look forward to hearing your views and recommendations for addressing today's global state of affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029618486296385527,
+          "perplexity": 19,
+          "sentence": "Exactly 70 years ago, India's Vijaya Lakshmi Pandit became the first woman to serve as President of the United Nations General Assembly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003428296884521842,
+          "perplexity": 147,
+          "sentence": "I am therefore privileged to lean on her pioneering shoulders, as one among the woefully low number of female Presidents of the Assembly in 78 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00374571792781353,
+          "perplexity": 44,
+          "sentence": "When I assumed the Presidency of the General Assembly last September, I made a pledge to reignite solidarity and to renew trust in multilateralism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004298259038478136,
+          "perplexity": 130,
+          "sentence": "I am under no illusion regarding the significant challenges of delivering that pledge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023069572634994984,
+          "perplexity": 72,
+          "sentence": "In the last year alone, military takeovers have repeatedly supplanted established orders across Western Africa; the war of aggression against Ukraine has entered another bloody chapter; and Haiti has descended into lawlessness - while violent conflict persists in such places as Yemen, Myanmar, and Sudan, resulting in massive internal human displacement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024611966218799353,
+          "perplexity": 32,
+          "sentence": "One month into my tenure, the international community was rocked yet again by another major phase of the conflict in the Middle East.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026315590366721153,
+          "perplexity": 29,
+          "sentence": "The horrific escalation of violence since the 7 October attacks on Israel has further eroded trust between and among nations, triggered a humanitarian catastrophe in the Gaza Strip, and heightened security concerns throughout the world, particularly as it relates to the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "at Indian Council of World Affairs, New Delhi on 24 January 2024 Your Excellency, Ambassador Ms. Vijay Thakur Singh, Director General of the Indian Council of World Affairs, Let me begin by expressing my deepest appreciation to Ambassador Singh\u2019s generous invitation to join you today and for her kind introduction. It is indeed an honour to address this renowned Indian Council of World Affairs. As India\u2019s first independent international affairs Think Tank, the Council has unmatched standing on the global political landscape \u2013 and I look forward to hearing your views and recommendations for addressing today\u2019s global state of affairs. Exactly 70 years ago, India\u2019s Vijaya Lakshmi Pandit became the first woman to serve as President of the United Nations General Assembly. I am therefore privileged to lean on her pioneering shoulders, as one among the woefully low number of female Presidents of the Assembly in 78 years. When I assumed the Presidency of the General Assembly last September, I made a pledge to reignite solidarity and to renew trust in multilateralism. I am under no illusion regarding the significant challenges of delivering that pledge. In the last year alone, military takeovers have repeatedly supplanted established orders across Western Africa; the war of aggression against Ukraine has entered another bloody chapter; and Haiti has descended into lawlessness \u2013 while violent conflict persists in such places as Yemen, Myanmar, and Sudan, resulting in massive internal human displacement. One month into my tenure, the international community was rocked yet again by another major phase of the conflict in the Middle East. The horrific escalation of violence since the 7 October attacks on Israel has further eroded trust between and among nations, triggered a humanitarian catastrophe in the Gaza Strip, and heightened security concerns throughout the world, particularly as it relates to the",
+  "date": "25 January 2024"
+}

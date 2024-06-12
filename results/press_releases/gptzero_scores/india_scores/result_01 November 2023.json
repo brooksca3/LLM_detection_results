@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "90f983ff-d832-4534-9291-07777b731fa0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1355.1700439453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005665492499247193,
+          "perplexity": 15,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks at the Nepalese Parliament in Kathmandu on 31 October: Allow me before I start, to express my deep gratitude for the wonderful hospitality that the Government and the people of Nepal have provided to me during these three days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000498828710988164,
+          "perplexity": 55,
+          "sentence": "All the facilities that were put at my disposal have transformed this visit into an enormous success.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005181084270589054,
+          "perplexity": 40,
+          "sentence": "I learned a lot, and I commit to use what I learned to support Nepal in your struggle against Climate Change and for the development of your country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005211720708757639,
+          "perplexity": 42,
+          "sentence": "When I am here, I am twice at home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005576275289058685,
+          "perplexity": 25,
+          "sentence": "I am at home because I am in Nepal, and I am at home because I am in a parliament, and I was eighteen years in my own parliament.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004877762112300843,
+          "perplexity": 56,
+          "sentence": "So, allow me to call you \"dear colleagues\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004923869273625314,
+          "perplexity": 9,
+          "sentence": "It is an honour to be here with you today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004136395000386983,
+          "perplexity": 166,
+          "sentence": "And a privilege to be back in beautiful Nepal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042535507236607373,
+          "perplexity": 59,
+          "sentence": "My first visit was in nineteen hundred seventy-eight.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004758753930218518,
+          "perplexity": 20,
+          "sentence": "And every time I have visited, I have been astounded.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041791252442635596,
+          "perplexity": 30,
+          "sentence": "What I have seen and experienced in the past few days will stay with me always: The sunlight hitting the Himalayas; the warmth of the people; the richness of your cultural diversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003828803892247379,
+          "perplexity": 34,
+          "sentence": "I thank the government of Nepal for your invitation, your hospitality and your welcome to me and to my delegation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003161534550599754,
+          "perplexity": 24,
+          "sentence": "Decades of progress on poverty and hunger are being reversed in large parts of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035971414763480425,
+          "perplexity": 21,
+          "sentence": "Women are under-represented and underpaid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034762261202558875,
+          "perplexity": 105,
+          "sentence": "And I recognise the enormous effort that Nepal is doing in the way for gender equality, full gender equality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036768053541891277,
+          "perplexity": 126,
+          "sentence": "And I praise your efforts and its results.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041409319965168834,
+          "perplexity": 27,
+          "sentence": "While the conflict in the Middle East is thousands of miles away, Nepalis were among the many victims of Hamas' brutal attacks in Israel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047060364158824086,
+          "perplexity": 5797,
+          "sentence": "I send",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks at the Nepalese Parliament in Kathmandu on 31 October: Allow me before I start, to express my deep gratitude for the wonderful hospitality that the Government and the people of Nepal have provided to me during these three days. All the facilities that were put at my disposal have transformed this visit into an enormous success. I learned a lot, and I commit to use what I learned to support Nepal in your struggle against Climate Change and for the development of your country. When I am here, I am twice at home. I am at home because I am in Nepal, and I am at home because I am in a parliament, and I was eighteen years in my own parliament. So, allow me to call you \"dear colleagues\". It is an honour to be here with you today. And a privilege to be back in beautiful Nepal. My first visit was in nineteen hundred seventy-eight. And every time I have visited, I have been astounded. What I have seen and experienced in the past few days will stay with me always: The sunlight hitting the Himalayas; the warmth of the people; the richness of your cultural diversity. I thank the government of Nepal for your invitation, your hospitality and your welcome to me and to my delegation. Decades of progress on poverty and hunger are being reversed in large parts of the world. Women are under-represented and underpaid. And I recognise the enormous effort that Nepal is doing in the way for gender equality, full gender equality. And I praise your efforts and its results. While the conflict in the Middle East is thousands of miles away, Nepalis were among the many victims of Hamas\u2019 brutal attacks in Israel. I send",
+  "date": "01 November 2023"
+}

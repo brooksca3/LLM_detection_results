@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f4958d1c-afa4-4fb6-a119-abf58ce7f6c6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10110741801583774,
+        "human": 0.8976365892137792,
+        "mixed": 0.0012559927703830777
+      },
+      "completely_generated_prob": 0.10110741801583774,
+      "confidence_category": "medium",
+      "confidence_score": 0.8976365892137792,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10110741801583774,
+          "human": 0.8976365892137792,
+          "mixed": 0.0012559927703830777
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.779325485229492,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.16830095648765564,
+          "perplexity": 37,
+          "sentence": "Since the first case was confirmed on 5 October 2022, over 1400 suspected cases have been reported across the country, including 381 laboratory-confirmed cases and 17 deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16692033410072327,
+          "perplexity": 33,
+          "sentence": "While the outbreak was initially confined to northern districts, it rapidly spread, with laboratory-confirmed cases now reported from all eight governorates and 18 out of 26 districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16934573650360107,
+          "perplexity": 80,
+          "sentence": "Serotype Vibrio Cholerae O1 El-Tor Ogawa was identified as the currently circulating cholera strain, similar to the one circulating in Syria.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.17231914401054382,
+          "perplexity": 30,
+          "sentence": "\u201cCholera is deadly, but it's also preventable through vaccines and access to safe water and sanitation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.16746357083320618,
+          "perplexity": 73,
+          "sentence": "It can be easily treated with timely oral rehydration or antibiotics for more severe cases,\u201d said Dr. Abdinasir Abubakar, WHO representative in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15684200823307037,
+          "perplexity": 52,
+          "sentence": "\u201cThe situation in Lebanon is fragile as the country already struggles to fight other crises - compounded by prolonged political and economic deterioration.\u201d The World Health Organization (WHO) is joining efforts with the Ministry of Public Health and other health partners to curb the evolving cholera outbreak.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13501965999603271,
+          "perplexity": 57,
+          "sentence": "WHO and humanitarian partners supported the Ministry of Public Health to develop a national cholera preparedness and response plan outlining the most urgent response interventions required while scaling up surveillance and active case-finding in hotspot areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13481561839580536,
+          "perplexity": 56,
+          "sentence": "Given the shortage of both health staff and medical supplies in the country, WHO provided the two reference laboratories, three prisons, and 12 hospitals designated for cholera treatment with laboratory reagents, treatment kits, and rapid diagnostic tests, and deployed nurses and doctors as surge capacity to hospitals in the most affected areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1228286549448967,
+          "perplexity": 116,
+          "sentence": "Procurement and prepositioning of additional cholera supplies are being also finalized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1403791308403015,
+          "perplexity": 42,
+          "sentence": "WHO is ensuring that proper clinical management, practices, infection prevention, and control (IPC), and cholera testing protocols are in place for adequate referral and channeling of cases to the needed level of care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1151227280497551,
+          "perplexity": 17,
+          "sentence": "Over the past few weeks, WHO has",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Since the first case was confirmed on 5 October 2022, over 1400 suspected cases have been reported across the country, including 381 laboratory-confirmed cases and 17 deaths. While the outbreak was initially confined to northern districts, it rapidly spread, with laboratory-confirmed cases now reported from all eight governorates and 18 out of 26 districts. Serotype Vibrio Cholerae O1 El-Tor Ogawa was identified as the currently circulating cholera strain, similar to the one circulating in Syria. \u201cCholera is deadly, but it\u2019s also preventable through vaccines and access to safe water and sanitation. It can be easily treated with timely oral rehydration or antibiotics for more severe cases,\u201d said Dr. Abdinasir Abubakar, WHO representative in Lebanon. \u201cThe situation in Lebanon is fragile as the country already struggles to fight other crises \u2013 compounded by prolonged political and economic deterioration.\u201d The World Health Organization (WHO) is joining efforts with the Ministry of Public Health and other health partners to curb the evolving cholera outbreak. WHO and humanitarian partners supported the Ministry of Public Health to develop a national cholera preparedness and response plan outlining the most urgent response interventions required while scaling up surveillance and active case-finding in hotspot areas. Given the shortage of both health staff and medical supplies in the country, WHO provided the two reference laboratories, three prisons, and 12 hospitals designated for cholera treatment with laboratory reagents, treatment kits, and rapid diagnostic tests, and deployed nurses and doctors as surge capacity to hospitals in the most affected areas. Procurement and prepositioning of additional cholera supplies are being also finalized. WHO is ensuring that proper clinical management, practices, infection prevention, and control (IPC), and cholera testing protocols are in place for adequate referral and channeling of cases to the needed level of care. Over the past few weeks, WHO has",
+  "date": "31 October 2022"
+}

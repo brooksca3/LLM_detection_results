@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "db0730d6-01e3-442d-8519-bb694aadcac6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 128.01739501953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0025021848268806934,
+          "perplexity": 43,
+          "sentence": "Today, the Jamaican Economy Panel (JEP) publishes the eighth round of its discussions focusing, this month, on the high rate of obesity in Jamaica and possible remedies for this challenge that can be achieved through government policy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027351544704288244,
+          "perplexity": 8,
+          "sentence": "According to the World Health Organization (WHO), 39% of adults are overweight (with a Body Mass Index, or BMI, above 25), and 13% are obese (BMI above 30).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029666388873010874,
+          "perplexity": 11,
+          "sentence": "This prevalence of obesity puts people at greater risk for cardiovascular diseases, diabetes and musculoskeletal disorders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003183129709213972,
+          "perplexity": 17,
+          "sentence": "In the case of Jamaica, almost a quarter of the adult population is considered obese, with obesity being more prevalent amongst women than amongst men.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002649886766448617,
+          "perplexity": 57,
+          "sentence": "Mr. Ian Stein, PAHO/WHO Representative in Jamaica, comments that \u201cJamaica has seen an increase in the levels of obesity not only among adults, where females are more affected but there has also been a worrying increase in the levels of childhood and adolescent obesity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025944961234927177,
+          "perplexity": 20,
+          "sentence": "The plentiful availability of low-cost, high-fat, high-sugar, high-salt, energy-dense and micronutrient-poor foods exacerbates the risk of obesity and increases the chance of developing non-communicable diseases.\u201d The JEP panellists collectively agreed that the challenge of obesity deserves to be the subject of public policy, and the single-highest priority area for intervention is in education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024767655413597822,
+          "perplexity": 24,
+          "sentence": "Only through education will it be possible to achieve the kind of generational change required to address the root causes of obesity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019154869951307774,
+          "perplexity": 32,
+          "sentence": "However, several other areas also play a crucial role, including the agricultural sector, which has to be supported to fully provide the type of food Jamaicans need to make healthy choices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002085370710119605,
+          "perplexity": 14,
+          "sentence": "Finally, there is the issue of taxation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00226931762881577,
+          "perplexity": 37,
+          "sentence": "The experience from Mexico, which introduced a tax on sugary drinks in 2014, has been studied extensively and indicated that in response, consumption moved away from sugary drinks towards alternatives with less sugar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017410856671631336,
+          "perplexity": 448,
+          "sentence": "Most JEP panellists agree",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, the Jamaican Economy Panel (JEP) publishes the eighth round of its discussions focusing, this month, on the high rate of obesity in Jamaica and possible remedies for this challenge that can be achieved through government policy. According to the World Health Organization (WHO), 39% of adults are overweight (with a Body Mass Index, or BMI, above 25), and 13% are obese (BMI above 30). This prevalence of obesity puts people at greater risk for cardiovascular diseases, diabetes and musculoskeletal disorders. In the case of Jamaica, almost a quarter of the adult population is considered obese, with obesity being more prevalent amongst women than amongst men. Mr. Ian Stein, PAHO/WHO Representative in Jamaica, comments that \u201cJamaica has seen an increase in the levels of obesity not only among adults, where females are more affected but there has also been a worrying increase in the levels of childhood and adolescent obesity. The plentiful availability of low-cost, high-fat, high-sugar, high-salt, energy-dense and micronutrient-poor foods exacerbates the risk of obesity and increases the chance of developing non-communicable diseases.\u201d The JEP panellists collectively agreed that the challenge of obesity deserves to be the subject of public policy, and the single-highest priority area for intervention is in education. Only through education will it be possible to achieve the kind of generational change required to address the root causes of obesity. However, several other areas also play a crucial role, including the agricultural sector, which has to be supported to fully provide the type of food Jamaicans need to make healthy choices. Finally, there is the issue of taxation. The experience from Mexico, which introduced a tax on sugary drinks in 2014, has been studied extensively and indicated that in response, consumption moved away from sugary drinks towards alternatives with less sugar. Most JEP panellists agree",
+  "date": "01 February 2022"
+}

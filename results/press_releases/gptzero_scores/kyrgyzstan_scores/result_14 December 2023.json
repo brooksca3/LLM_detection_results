@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "040a7e1b-79ac-4c31-b5e2-1e577e5ddc63",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.41526222229004,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013230552431195974,
+          "perplexity": 30,
+          "sentence": "BISHKEK, Kyrgyzstan, 11 December - During the Human Rights 75 high-level event in Geneva, Kyrgyzstan, as a Member State of the United Nations, made pledges to take specific action to promote and protect human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001296037109568715,
+          "perplexity": 25,
+          "sentence": "As part of a year-long campaign initiated by the Office of the UN High Commissioner, Member States from across the world made pledges today to bring about concrete change towards greater enjoyment of human rights for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012973202392458916,
+          "perplexity": 39,
+          "sentence": "*On the right to education - expanding access to quality, multilingual, inclusive education for children, especially children with disabilities, representatives of ethnic minorities and children in difficult life situations, as well as improving the educational infrastructure and environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001342488918453455,
+          "perplexity": 25,
+          "sentence": "*On women's rights - to ensure that the definitions of the types of crimes related to sexual violence are in line with the CEDAW and to take measures to prevent all forms of violence against women, including forced marriage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013938095653429627,
+          "perplexity": 20,
+          "sentence": "*On the rights of people with disabilities - the adoption of the \"Accessible Country\" program, which includes programs for the rehabilitation of people with disabilities, the development of alternative methods of support for people with mental and psychosocial disorders, and the development of measures to combat violence against people with disabilities, aimed at granting access to public buildings and transport, creating favorable conditions for people with disabilities in political, social and cultural life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001048368401825428,
+          "perplexity": 69,
+          "sentence": "*To fight corruption - to strengthen the potential of government officials, judges and law enforcement officers; intensifying the work on involving those responsible for corruption, including corruption in electoral processes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010117620695382357,
+          "perplexity": 62,
+          "sentence": "*On children's rights - adoption of a family support plan, legal prohibition of corporal punishment of children, introduction of measures on positive parenting and non-violent upbringing of children, conducting regular educational activities on spreading and understanding the principles of the Convention on Children's Rights, strengthening punishment for crimes",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BISHKEK, Kyrgyzstan, 11 December \u2013 During the Human Rights 75 high-level event in Geneva, Kyrgyzstan, as a Member State of the United Nations, made pledges to take specific action to promote and protect human rights. As part of a year-long campaign initiated by the Office of the UN High Commissioner, Member States from across the world made pledges today to bring about concrete change towards greater enjoyment of human rights for all. *On the right to education - expanding access to quality, multilingual, inclusive education for children, especially children with disabilities, representatives of ethnic minorities and children in difficult life situations, as well as improving the educational infrastructure and environment. *On women's rights - to ensure that the definitions of the types of crimes related to sexual violence are in line with the CEDAW and to take measures to prevent all forms of violence against women, including forced marriage. *On the rights of people with disabilities - the adoption of the \"Accessible Country\" program, which includes programs for the rehabilitation of people with disabilities, the development of alternative methods of support for people with mental and psychosocial disorders, and the development of measures to combat violence against people with disabilities, aimed at granting access to public buildings and transport, creating favorable conditions for people with disabilities in political, social and cultural life. *To fight corruption - to strengthen the potential of government officials, judges and law enforcement officers; intensifying the work on involving those responsible for corruption, including corruption in electoral processes. *On children's rights - adoption of a family support plan, legal prohibition of corporal punishment of children, introduction of measures on positive parenting and non-violent upbringing of children, conducting regular educational activities on spreading and understanding the principles of the Convention on Children's Rights, strengthening punishment for crimes",
+  "date": "14 December 2023"
+}

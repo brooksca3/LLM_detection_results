@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2b9d63d0-f225-4c06-a3c3-442ede8d0b4a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.57776641845703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003726600843947381,
+          "perplexity": 56,
+          "sentence": "The International Partners in Liberia wish to commend all stakeholders for the peaceful manner in which the June 7 protest took place and record it as another of Liberia's achievements in the consolidation of democracy, peace and stability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004484483215492219,
+          "perplexity": 30,
+          "sentence": "We commend the Government of Liberia (GoL) for respecting the right to peaceful assembly, and ensuring that security was provided to all citizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004645698645617813,
+          "perplexity": 31,
+          "sentence": "We also wish to commend the Council of Patriots (CoP) for organising the protest in an orderly and peaceful manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005001074750907719,
+          "perplexity": 71,
+          "sentence": "The International Partners in Liberia also congratulate the people of Liberia for demonstrating their commitment to peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005011028260923922,
+          "perplexity": 35,
+          "sentence": "We welcome the high level of cooperation between the Government, including security agencies, and the protest organizers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041332279215566814,
+          "perplexity": 13,
+          "sentence": "We also recognise the role played by the Economic Community of West African States (ECOWAS) observers and the Independent National Commission on Human Rights (INCHR) monitors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000411655695643276,
+          "perplexity": 32,
+          "sentence": "We stress the importance of inclusiveness, national dialogue, unity and continued respect for the rule of law to move Liberia's development goals forward.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039717659819871187,
+          "perplexity": 27,
+          "sentence": "In this regard, we welcome the statement made by H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003417545813135803,
+          "perplexity": 79,
+          "sentence": "President George Weah on 11 June 2019, including his call to all concerned Liberian stakeholders for a round-table discussion on the economy, and affirm our pledge to support this initiative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003520193859003484,
+          "perplexity": 60,
+          "sentence": "The International Partners in Liberia commit to continue supporting the government and people of Liberia in their efforts to consolidate peace and, as stated by the President yesterday, place the \u201ccountry on a path of sustainable development and transformation.\u201d",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The International Partners in Liberia wish to commend all stakeholders for the peaceful manner in which the June 7 protest took place and record it as another of Liberia\u2019s achievements in the consolidation of democracy, peace and stability. We commend the Government of Liberia (GoL) for respecting the right to peaceful assembly, and ensuring that security was provided to all citizens. We also wish to commend the Council of Patriots (CoP) for organising the protest in an orderly and peaceful manner. The International Partners in Liberia also congratulate the people of Liberia for demonstrating their commitment to peace. We welcome the high level of cooperation between the Government, including security agencies, and the protest organizers. We also recognise the role played by the Economic Community of West African States (ECOWAS) observers and the Independent National Commission on Human Rights (INCHR) monitors. We stress the importance of inclusiveness, national dialogue, unity and continued respect for the rule of law to move Liberia\u2019s development goals forward. In this regard, we welcome the statement made by H.E. President George Weah on 11 June 2019, including his call to all concerned Liberian stakeholders for a round-table discussion on the economy, and affirm our pledge to support this initiative. The International Partners in Liberia commit to continue supporting the government and people of Liberia in their efforts to consolidate peace and, as stated by the President yesterday, place the \u201ccountry on a path of sustainable development and transformation.\u201d",
+  "date": "12 June 2019"
+}

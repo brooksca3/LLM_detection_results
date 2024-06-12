@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "93f081ae-964d-4146-a1a8-f69f0ecaefc0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023891670834309302,
+        "human": 0.9755765590676299,
+        "mixed": 0.0005317700980609385
+      },
+      "completely_generated_prob": 0.023891670834309302,
+      "confidence_category": "high",
+      "confidence_score": 0.9755765590676299,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023891670834309302,
+          "human": 0.9755765590676299,
+          "mixed": 0.0005317700980609385
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.884370803833008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0037232297472655773,
+          "perplexity": 31,
+          "sentence": "Yangon - Six months since the military takeover in Myanmar, the country faces a compounded political and public health crisis, on top of intensification of conflicts, putting the lives of even more women and girls at serious risk with the deteriorating socio-economic situation adding hundreds of thousands of people to those in need of humanitarian assistance in the country who were not previously targeted for humanitarian support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0043914588168263435,
+          "perplexity": 21,
+          "sentence": "Since February 1, women and girls have been at the frontlines as leaders of civil society organizations, civil servants, activists, journalists, artists and influencers, exercising their fundamental rights to express their hopes for the future of their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004329523537307978,
+          "perplexity": 50,
+          "sentence": "Even before the coup, women, who make up 75 per cent of Myanmar's healthcare professionals, were at the forefront of the COVID-19 response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003117326879873872,
+          "perplexity": 87,
+          "sentence": "Now, during a tragic surge in COVID-19 cases, many women continue in their activism and serve their communities while also assuming significant responsibilities as caregivers for sick family members, and for their children's home-based learning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034398080315440893,
+          "perplexity": 21,
+          "sentence": "Women and children are also expected to bear the heaviest brunt of the combined crises with those most at-risk including single women, pregnant and breastfeeding women and girls, ethnic and religious minorities, older persons, people with disabilities, children and people of diverse gender identities and sexual orientations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005159652791917324,
+          "perplexity": 39,
+          "sentence": "The impact on women workers has already been pronounced with 580,000 women estimated to have lost employment since February 1.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005242318846285343,
+          "perplexity": 33,
+          "sentence": "Women and girls experience challenges to access sexual and reproductive health services due to the collapsed health system, with attacks on hospitals, financial barriers and movement restrictions further jeopardizing their health and well-being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003918025176972151,
+          "perplexity": 28,
+          "sentence": "Over 685,000 women are currently pregnant in Myanmar and it is estimated that nearly 250 preventable maternal deaths may occur in the next month alone if they are not able to access appropriate emergency obstetric care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006059608887881041,
+          "perplexity": 7,
+          "sentence": "Furthermore,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Yangon \u2013 Six months since the military takeover in Myanmar, the country faces a compounded political and public health crisis, on top of intensification of conflicts, putting the lives of even more women and girls at serious risk with the deteriorating socio-economic situation adding hundreds of thousands of people to those in need of humanitarian assistance in the country who were not previously targeted for humanitarian support. Since February 1, women and girls have been at the frontlines as leaders of civil society organizations, civil servants, activists, journalists, artists and influencers, exercising their fundamental rights to express their hopes for the future of their country. Even before the coup, women, who make up 75 per cent of Myanmar\u2019s healthcare professionals, were at the forefront of the COVID-19 response. Now, during a tragic surge in COVID-19 cases, many women continue in their activism and serve their communities while also assuming significant responsibilities as caregivers for sick family members, and for their children\u2019s home-based learning. Women and children are also expected to bear the heaviest brunt of the combined crises with those most at-risk including single women, pregnant and breastfeeding women and girls, ethnic and religious minorities, older persons, people with disabilities, children and people of diverse gender identities and sexual orientations. The impact on women workers has already been pronounced with 580,000 women estimated to have lost employment since February 1. Women and girls experience challenges to access sexual and reproductive health services due to the collapsed health system, with attacks on hospitals, financial barriers and movement restrictions further jeopardizing their health and well-being. Over 685,000 women are currently pregnant in Myanmar and it is estimated that nearly 250 preventable maternal deaths may occur in the next month alone if they are not able to access appropriate emergency obstetric care. Furthermore,",
+  "date": "01 August 2021"
+}

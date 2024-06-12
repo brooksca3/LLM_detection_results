@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "df135052-32e6-428e-b1c3-4cfcaedad2c0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.4742488861084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0013072958681732416,
+          "perplexity": 67,
+          "sentence": "Belgrade, 10 July 2018 - The importance of modern family planning has been at the heart of this year's commemoration of the World Population Day globally themed \"Family Planning is a Human Right\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001274419715628028,
+          "perplexity": 18,
+          "sentence": "This year marks the 50th anniversary of the 1968 International Conference on Human Rights, where family planning was, for the first time, globally affirmed to be a human right.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014167743502184749,
+          "perplexity": 103,
+          "sentence": "\u201cAccess to voluntary family planning enables women to space their births, benefiting both mothers' and children's health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014242626493796706,
+          "perplexity": 23,
+          "sentence": "The right to family planning also permits the enjoyment of other rights, including the rights to health, education, and the achievement of a life with dignity.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001221013953909278,
+          "perplexity": 68,
+          "sentence": "said Dr Doina Bologa, UNFPA Country Director for Serbia at the press conference organized on 10 July in Belgrade, one day ahead of the global marking of the World Population Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013956930488348007,
+          "perplexity": 41,
+          "sentence": "When it comes to family planning situation regionally, data shows that the countries in our region have some of the world's lowest modern contraceptive usage rates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012157746823504567,
+          "perplexity": 49,
+          "sentence": "According to Multiple Indicators Cluster Survey (MICS 5), modern contraception in Serbia is used by less than one-fifth of women in the general population who are married or in union (18.4%), while a traditional methods, primarily withdrawal, is used nearly twice more (40 %).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011464067501947284,
+          "perplexity": 48,
+          "sentence": "The situation is even worse in marginalized categories of women, as only 7.2% of Roma women living in Roma settlements in Serbia are using modern contraception, while a traditional methods are used by 54 % of respondents.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012546601938083768,
+          "perplexity": 49,
+          "sentence": "Several reasons can explain this: too many women in our region still believe the myth that modern methods are harmful, and social pressure can get in the way of people asking for advice and supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012644724920392036,
+          "perplexity": 65,
+          "sentence": "Additionally, not all medical personnel are trained to provide quality advice and services, and not always is a wide range of contraceptives",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 10 July 2018 - The importance of modern family planning has been at the heart of this year's commemoration of the World Population Day globally themed \"Family Planning is a Human Right\u201d. This year marks the 50th anniversary of the 1968 International Conference on Human Rights, where family planning was, for the first time, globally affirmed to be a human right. \u201cAccess to voluntary family planning enables women to space their births, benefiting both mothers\u2019 and children\u2019s health. The right to family planning also permits the enjoyment of other rights, including the rights to health, education, and the achievement of a life with dignity.\" said Dr Doina Bologa, UNFPA Country Director for Serbia at the press conference organized on 10 July in Belgrade, one day ahead of the global marking of the World Population Day. When it comes to family planning situation regionally, data shows that the countries in our region have some of the world\u2019s lowest modern contraceptive usage rates. According to Multiple Indicators Cluster Survey (MICS 5), modern contraception in Serbia is used by less than one-fifth of women in the general population who are married or in union (18.4%), while a traditional methods, primarily withdrawal, is used nearly twice more (40 %). The situation is even worse in marginalized categories of women, as only 7.2% of Roma women living in Roma settlements in Serbia are using modern contraception, while a traditional methods are used by 54 % of respondents. Several reasons can explain this: too many women in our region still believe the myth that modern methods are harmful, and social pressure can get in the way of people asking for advice and supplies. Additionally, not all medical personnel are trained to provide quality advice and services, and not always is a wide range of contraceptives",
+  "date": "10 July 2018"
+}

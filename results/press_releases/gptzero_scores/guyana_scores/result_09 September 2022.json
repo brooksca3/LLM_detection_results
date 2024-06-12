@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3d527b0c-9db8-4d47-9687-7376b11be9b8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.183326721191406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014730206748936325,
+          "perplexity": 38,
+          "sentence": "The Honourable Hugh Hilton Todd, Minister of Foreign Affairs and International Cooperation, and President of the 76th Session of the United Nations General Assembly (PGA), His Excellency Abdulla Shahid engaged in bilateral talks today at the Ramphal House on a range of issues of mutual interest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014587354962714016,
+          "perplexity": 83,
+          "sentence": "The PGA is currently in Guyana for an official visit which concludes tomorrow, 10 September 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014641550660599023,
+          "perplexity": 39,
+          "sentence": "The PGA is also the Minister of Foreign Affairs of the Maldives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014251934771891683,
+          "perplexity": 26,
+          "sentence": "Honourable Minister Todd commended His Excellency Shahid for stewardship of the work of the General Assembly during his tenure and committed to working closely with the Maldives at both the bilateral and multilateral levels to build on the work that the PGA undertook during his presidency and to explore new ways of strengthening the relations between Guyana and the Maldives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014442391693592072,
+          "perplexity": 37,
+          "sentence": "His Excellency Shahid thanked Minister Todd for the excellent support that Guyana provided to him in his role as President of the General Assembly and noted the key role that Guyana played in the process of the establishment of the UN Youth Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012748208246193826,
+          "perplexity": 22,
+          "sentence": "On 8 September 2022, the UN Member States unanimously decided to establish a UN Youth Office dedicated to engagement and advocacy for the advancement of youth issues across the United Nations in the areas of peace and security, sustainable development and human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001334635162493214,
+          "perplexity": 31,
+          "sentence": "His Excellency Shahid is the first Maldivian national to serve as President of the General Assembly and was intent on instilling hope to the membership by taking practical steps to address several of the challenges that are of concern to the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024653354194015265,
+          "perplexity": 28,
+          "sentence": "He focused on issues of gender equality and women's empowerment, youth involvement in decision- making, financing for development, and climate change issues, among others.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Honourable Hugh Hilton Todd, Minister of Foreign Affairs and International Cooperation, and President of the 76th Session of the United Nations General Assembly (PGA), His Excellency Abdulla Shahid engaged in bilateral talks today at the Ramphal House on a range of issues of mutual interest. The PGA is currently in Guyana for an official visit which concludes tomorrow, 10 September 2022. The PGA is also the Minister of Foreign Affairs of the Maldives. Honourable Minister Todd commended His Excellency Shahid for stewardship of the work of the General Assembly during his tenure and committed to working closely with the Maldives at both the bilateral and multilateral levels to build on the work that the PGA undertook during his presidency and to explore new ways of strengthening the relations between Guyana and the Maldives. His Excellency Shahid thanked Minister Todd for the excellent support that Guyana provided to him in his role as President of the General Assembly and noted the key role that Guyana played in the process of the establishment of the UN Youth Office. On 8 September 2022, the UN Member States unanimously decided to establish a UN Youth Office dedicated to engagement and advocacy for the advancement of youth issues across the United Nations in the areas of peace and security, sustainable development and human rights. His Excellency Shahid is the first Maldivian national to serve as President of the General Assembly and was intent on instilling hope to the membership by taking practical steps to address several of the challenges that are of concern to the United Nations. He focused on issues of gender equality and women\u2019s empowerment, youth involvement in decision- making, financing for development, and climate change issues, among others.",
+  "date": "09 September 2022"
+}

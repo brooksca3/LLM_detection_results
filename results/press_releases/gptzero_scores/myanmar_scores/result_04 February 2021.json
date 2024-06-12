@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6e300193-88f4-4764-8a3a-e7e15bff1299",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022899958772937705,
+        "human": 0.9771000412270624,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.022899958772937705,
+      "confidence_category": "high",
+      "confidence_score": 0.9771000412270624,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022899958772937705,
+          "human": 0.9771000412270624,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.043859481811523,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00160554691683501,
+          "perplexity": 26,
+          "sentence": "The following Security Council press statement was issued today by Council President Barbara Woodward (United Kingdom): The members of the Security Council expressed deep concern at the declaration of the state of emergency imposed in Myanmar by the military on 1 February and the arbitrary detention of members of the Government, including State Counsellor Aung San Suu Kyi and President Win Myint and others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020950851030647755,
+          "perplexity": 16,
+          "sentence": "They called for the immediate release of all those detained.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024819355458021164,
+          "perplexity": 24,
+          "sentence": "The members of the Security Council emphasized the need for the continued support of the democratic transition in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022384875919669867,
+          "perplexity": 19,
+          "sentence": "They stressed the need to uphold democratic institutions and processes, refrain from violence and fully respect human rights, fundamental freedoms and the rule of law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002415777649730444,
+          "perplexity": 52,
+          "sentence": "They encouraged the pursuance of dialogue and reconciliation in accordance with the will and interests of the people of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021471953950822353,
+          "perplexity": 32,
+          "sentence": "The members of the Security Council expressed concern at the restrictions on civil society, journalists and media workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019740560092031956,
+          "perplexity": 26,
+          "sentence": "They also called for safe and unimpeded humanitarian access to all people in need, including through the re-establishment of United Nations relief flights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016264824662357569,
+          "perplexity": 25,
+          "sentence": "The members of the Security Council reiterated their strong support to regional organizations, in particular the Association of Southeast Asian Nations (ASEAN) and welcomed the ASEAN Chair's Statement dated 1 February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015629283152520657,
+          "perplexity": 48,
+          "sentence": "They also reiterated their support to the Special Envoy of the Secretary-General on Myanmar for her good offices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018542222678661346,
+          "perplexity": 17,
+          "sentence": "The members of the Security Council reiterated the need to address the root causes of the crisis in Rakhine State and to create conditions necessary for the safe, voluntary, sustainable and dignified return of displaced persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018358075758442283,
+          "perplexity": 19,
+          "sentence": "The members of the Security Council reaffirmed their strong commitment to the sovereignty, political independence, territorial integrity and unity of Myanmar.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The following Security Council press statement was issued today by Council President Barbara Woodward (United Kingdom): The members of the Security Council expressed deep concern at the declaration of the state of emergency imposed in Myanmar by the military on 1 February and the arbitrary detention of members of the Government, including State Counsellor Aung San Suu Kyi and President Win Myint and others. They called for the immediate release of all those detained. The members of the Security Council emphasized the need for the continued support of the democratic transition in Myanmar. They stressed the need to uphold democratic institutions and processes, refrain from violence and fully respect human rights, fundamental freedoms and the rule of law. They encouraged the pursuance of dialogue and reconciliation in accordance with the will and interests of the people of Myanmar. The members of the Security Council expressed concern at the restrictions on civil society, journalists and media workers. They also called for safe and unimpeded humanitarian access to all people in need, including through the re\u2011establishment of United Nations relief flights. The members of the Security Council reiterated their strong support to regional organizations, in particular the Association of Southeast Asian Nations (ASEAN) and welcomed the ASEAN Chair\u2019s Statement dated 1 February. They also reiterated their support to the Special Envoy of the Secretary-General on Myanmar for her good offices. The members of the Security Council reiterated the need to address the root causes of the crisis in Rakhine State and to create conditions necessary for the safe, voluntary, sustainable and dignified return of displaced persons. The members of the Security Council reaffirmed their strong commitment to the sovereignty, political independence, territorial integrity and unity of Myanmar.",
+  "date": "04 February 2021"
+}

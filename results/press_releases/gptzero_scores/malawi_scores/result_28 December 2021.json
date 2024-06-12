@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1d3b3d47-a84d-4d66-b784-8a38b3fb450f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 207.62051391601562,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005500703118741512,
+          "perplexity": 60,
+          "sentence": "To improve access to COVID-19 testing, the Ministry of Health has increased antigen testing sites to 320 across the country on top of the 15 Molecular laboratories which are performing real time Polymerase Chain Reaction (PCR) testing for COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005858609802089632,
+          "perplexity": 60,
+          "sentence": "To improve access to COVID-19 testing, the Ministry of Health has increased antigen testing sites to 320 across the country on top of the 15 Molecular laboratories which are performing real time Polymerase Chain Reaction (PCR) testing for COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008010360761545599,
+          "perplexity": 17,
+          "sentence": "Please be reminded that the most common symptoms of Covid-19 include fever, dry cough, and tiredness, while in some patients present with aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste or smell, rash on the skin, or discolouration of fingers or toes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007228904869407415,
+          "perplexity": 82,
+          "sentence": "When one has these symptoms, there is need to seek care early and have a COVID-19 test.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005333155277185142,
+          "perplexity": 215,
+          "sentence": "COVID-19 testing can be assessed from the following public and private health facilities: Remember to: Watch your distance!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005237545119598508,
+          "perplexity": 71,
+          "sentence": "Wash your hands!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004959477810189128,
+          "perplexity": 169,
+          "sentence": "Wear your mask!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004152023757342249,
+          "perplexity": 440,
+          "sentence": "Get Vaccinated!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005714207654818892,
+          "perplexity": 628,
+          "sentence": "Seek care early upon development of symptoms of COVID-19.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "To improve access to COVID-19 testing, the Ministry of Health has increased antigen testing sites to 320 across the country on top of the 15 Molecular laboratories which are performing real time Polymerase Chain Reaction (PCR) testing for COVID-19. To improve access to COVID-19 testing, the Ministry of Health has increased antigen testing sites to 320 across the country on top of the 15 Molecular laboratories which are performing real time Polymerase Chain Reaction (PCR) testing for COVID-19. Please be reminded that the most common symptoms of Covid-19 include fever, dry cough, and tiredness, while in some patients present with aches and pains, sore throat, diarrhoea, conjunctivitis, headache, loss of taste or smell, rash on the skin, or discolouration of fingers or toes. When one has these symptoms, there is need to seek care early and have a COVID-19 test. COVID-19 testing can be assessed from the following public and private health facilities: Remember to : Watch your distance! Wash your hands! Wear your mask! Get Vaccinated! Seek care early upon development of symptoms of COVID-19.",
+  "date": "28 December 2021"
+}

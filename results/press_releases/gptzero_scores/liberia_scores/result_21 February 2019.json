@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9403c613-a281-4805-8c87-315e9dc9d52e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.10567299704528232,
+        "human": 0.893495259569867,
+        "mixed": 0.0008317433848507071
+      },
+      "completely_generated_prob": 0.10567299704528232,
+      "confidence_category": "medium",
+      "confidence_score": 0.893495259569867,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.10567299704528232,
+          "human": 0.893495259569867,
+          "mixed": 0.0008317433848507071
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.85936164855957,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1492418646812439,
+          "perplexity": 20,
+          "sentence": "The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) note with grave concern the use of inciteful messages in the media, particularly in the social media, which has become intensified in recent weeks and days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14607419073581696,
+          "perplexity": 33,
+          "sentence": "Liberia has taken great strides in building peace and stability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14129507541656494,
+          "perplexity": 66,
+          "sentence": "It is encouraging that the Kamara Abdullah Kamara Act of Press Freedom was recently passed by the Legislature, ensuring that all Liberians are entitled to all the protection that this new law extends.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.14560095965862274,
+          "perplexity": 40,
+          "sentence": "It is important that all Liberians respect all the laws and exercise their rights freely, but always in a manner that carries responsibility towards other people and towards the nation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1355694681406021,
+          "perplexity": 25,
+          "sentence": "The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS), believe that this is a time that all Liberians need to come together to ensure that the hard won peace is sustained and a greater focus on the development of Liberia should be paramount, rather than media messages that distract and promote violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1299140453338623,
+          "perplexity": 16,
+          "sentence": "The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) condemn all such media messages that threaten peace and stability of Liberia and call on all to take immediate steps to refrain from acts and utterances that are inimical to peace and stability in Liberia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11653505265712738,
+          "perplexity": 26,
+          "sentence": "We shall continue to closely follow the media as well as the political climate, and remain committed to supporting the people and government of Liberia in all their endeavours for a peaceful country.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) note with grave concern the use of inciteful messages in the media, particularly in the social media, which has become intensified in recent weeks and days. Liberia has taken great strides in building peace and stability. It is encouraging that the Kamara Abdullah Kamara Act of Press Freedom was recently passed by the Legislature, ensuring that all Liberians are entitled to all the protection that this new law extends. It is important that all Liberians respect all the laws and exercise their rights freely, but always in a manner that carries responsibility towards other people and towards the nation. The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS), believe that this is a time that all Liberians need to come together to ensure that the hard won peace is sustained and a greater focus on the development of Liberia should be paramount, rather than media messages that distract and promote violence. The United Nations (UN), the African Union Liaison Office in Liberia (AU) and the Office of the Special Representative of the ECOWAS Commission in Liberia (ECOWAS) condemn all such media messages that threaten peace and stability of Liberia and call on all to take immediate steps to refrain from acts and utterances that are inimical to peace and stability in Liberia. We shall continue to closely follow the media as well as the political climate, and remain committed to supporting the people and government of Liberia in all their endeavours for a peaceful country.",
+  "date": "21 February 2019"
+}

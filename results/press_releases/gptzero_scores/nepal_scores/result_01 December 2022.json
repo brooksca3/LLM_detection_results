@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "107e6672-8c6b-4067-845b-9a0f0513aaf9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.129499435424805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.012330427765846252,
+          "perplexity": 19,
+          "sentence": "Gender-based violence (GBV) is a serious and widespread violation of human rights worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011190233752131462,
+          "perplexity": 44,
+          "sentence": "Statistics tell us that in Nepal, GBV affects more than one in four women and girls in their lifetime.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012310855090618134,
+          "perplexity": 24,
+          "sentence": "Violence disproportionately affects women and girls who face multiple forms of discrimination based on disability, caste, or ethnicity, limiting their access to protection, treatment, and justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006039184518158436,
+          "perplexity": 118,
+          "sentence": "This year, on 30 November, the United Nations in Nepal and International Development Partners, marked 16 Day of Activism Against Gender Based Violence Campaign at the Dhangadi Sub-Metropolitan Office together with the Ministry of Social Development of the Sudurpaschim Province and representatives from Embassies, development partners civil society, and the women's movement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00698236795142293,
+          "perplexity": 60,
+          "sentence": "Speaking at the event, Mr. Ganesh Singh, Acting Secretary of the Ministry of Social Development, Sudurpaschim Province, urged everyone to unite to end gender-based violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005671306047588587,
+          "perplexity": 40,
+          "sentence": "This event served as a platform to mobilize key stakeholders to take action to prevent and respond to gender based violence against women and girls by strengthening comprehensive essential services to survivors of violence; investing in reliable data collection on GBV; increasing programming on addressing gender discriminatory norms; and strengthening protection mechanisms to prevent and eliminate violence and discrimination against women's rights advocates/activists in line with international standards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003994233440607786,
+          "perplexity": 38,
+          "sentence": "Speaking on behalf of the United Nations in Nepal and as Co-chair of the International Development Partners Group, Elke Wisch, UNICEF Representative in Nepal, \u201cGender-based violence continues to undermine the rights, dignity, security and autonomy of women, girls as well as LBGTIQ+ persons particularly those from marginalized communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00431111641228199,
+          "perplexity": 43,
+          "sentence": "Beyond violating the rights of each individual, neglecting women and girls undermines half the potential for progress, prosperity and well-being for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031342320144176483,
+          "perplexity": 60,
+          "sentence": "It will therefore require a 'whole of society' effort to break down the silence and tackle the culture of acceptance to achieve zero tolerance for violence against",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Gender-based violence (GBV) is a serious and widespread violation of human rights worldwide. Statistics tell us that in Nepal, GBV affects more than one in four women and girls in their lifetime. Violence disproportionately affects women and girls who face multiple forms of discrimination based on disability, caste, or ethnicity, limiting their access to protection, treatment, and justice. This year, on 30 November, the United Nations in Nepal and International Development Partners, marked 16 Day of Activism Against Gender Based Violence Campaign at the Dhangadi Sub-Metropolitan Office together with the Ministry of Social Development of the Sudurpaschim Province and representatives from Embassies, development partners civil society, and the women\u2019s movement. Speaking at the event, Mr. Ganesh Singh, Acting Secretary of the Ministry of Social Development, Sudurpaschim Province, urged everyone to unite to end gender-based violence. This event served as a platform to mobilize key stakeholders to take action to prevent and respond to gender based violence against women and girls by strengthening comprehensive essential services to survivors of violence; investing in reliable data collection on GBV; increasing programming on addressing gender discriminatory norms; and strengthening protection mechanisms to prevent and eliminate violence and discrimination against women\u2019s rights advocates/activists in line with international standards. Speaking on behalf of the United Nations in Nepal and as Co-chair of the International Development Partners Group, Elke Wisch, UNICEF Representative in Nepal, \u201cGender-based violence continues to undermine the rights, dignity, security and autonomy of women, girls as well as LBGTIQ+ persons particularly those from marginalized communities. Beyond violating the rights of each individual, neglecting women and girls undermines half the potential for progress, prosperity and well-being for all. It will therefore require a \u2018whole of society\u2019 effort to break down the silence and tackle the culture of acceptance to achieve zero tolerance for violence against",
+  "date": "01 December 2022"
+}

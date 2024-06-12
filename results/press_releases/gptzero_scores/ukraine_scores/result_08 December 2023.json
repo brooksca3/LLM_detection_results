@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4a9f7503-5dfb-4e59-95bc-debfe7b94b98",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.4444388531746531,
+        "human": 0.5529444325629961,
+        "mixed": 0.0026167142623507657
+      },
+      "completely_generated_prob": 0.4444388531746531,
+      "confidence_category": "low",
+      "confidence_score": 0.5529444325629961,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.4444388531746531,
+          "human": 0.5529444325629961,
+          "mixed": 0.0026167142623507657
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.831104278564453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.7001071572303772,
+          "perplexity": 21,
+          "sentence": "STATEMENT BY THE HUMANITARIAN COORDINATOR FOR UKRAINE, DENISE BROWN, ON RECENT ATTACKS IMPACTING CIVILIANS, CIVILIAN INFRASTRUCTURE AND HUMANITARIAN OPERATIONS IN UKRAINE The attacks by Russian forces over the past week, harming civilians, civilian infrastructure and humanitarian operations across Ukraine, are unacceptable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7596758604049683,
+          "perplexity": 57,
+          "sentence": "The week began with significant damage to a humanitarian hub of a local non-governmental organization following an attack in Kherson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7462658286094666,
+          "perplexity": 59,
+          "sentence": "Life-saving humanitarian supplies were destroyed, depriving thousands of people of aid in this difficult winter time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7506780028343201,
+          "perplexity": 37,
+          "sentence": "The following day, a volunteer from another national NGO, a resident of Kherson, was killed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7476352453231812,
+          "perplexity": 16,
+          "sentence": "Since the beginning of the year, 15 aid workers have been killed in Ukraine, including 11 in the line of duty, and 34 injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7450830936431885,
+          "perplexity": 61,
+          "sentence": "In further attacks during this week, more health facilities were damaged, and four health workers were injured in Kherson City.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.751011312007904,
+          "perplexity": 24,
+          "sentence": "Attacks continued in other parts of southern and eastern Ukraine, as well as in the central Dnipro Region, killing and injuring civilians, harming civilian infrastructure and impeding aid distribution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7455160021781921,
+          "perplexity": 26,
+          "sentence": "I strongly condemn the civilian toll of these attacks, which indicate a blatant disregard for civilian life and international humanitarian law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.743179202079773,
+          "perplexity": 30,
+          "sentence": "Civilians and critical civilian infrastructure, including humanitarian and medical facilities, which are crucial for saving lives, must be protected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7632823586463928,
+          "perplexity": 29,
+          "sentence": "Humanitarians must be allowed to operate safely to provide relief to millions of civilians affected by the brutality of this war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.7036936283111572,
+          "perplexity": 75,
+          "sentence": "Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "STATEMENT BY THE HUMANITARIAN COORDINATOR FOR UKRAINE, DENISE BROWN, ON RECENT ATTACKS IMPACTING CIVILIANS, CIVILIAN INFRASTRUCTURE AND HUMANITARIAN OPERATIONS IN UKRAINE The attacks by Russian forces over the past week, harming civilians, civilian infrastructure and humanitarian operations across Ukraine, are unacceptable. The week began with significant damage to a humanitarian hub of a local non-governmental organization following an attack in Kherson. Life-saving humanitarian supplies were destroyed, depriving thousands of people of aid in this difficult winter time. The following day, a volunteer from another national NGO, a resident of Kherson, was killed. Since the beginning of the year, 15 aid workers have been killed in Ukraine, including 11 in the line of duty, and 34 injured. In further attacks during this week, more health facilities were damaged, and four health workers were injured in Kherson City. Attacks continued in other parts of southern and eastern Ukraine, as well as in the central Dnipro Region, killing and injuring civilians, harming civilian infrastructure and impeding aid distribution. I strongly condemn the civilian toll of these attacks, which indicate a blatant disregard for civilian life and international humanitarian law. Civilians and critical civilian infrastructure, including humanitarian and medical facilities, which are crucial for saving lives, must be protected. Humanitarians must be allowed to operate safely to provide relief to millions of civilians affected by the brutality of this war. Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+  "date": "08 December 2023"
+}

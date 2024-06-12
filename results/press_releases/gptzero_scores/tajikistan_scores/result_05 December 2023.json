@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9e957b82-9ab4-42e7-9754-0f8cadb96a3a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.8316707611084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003507317160256207,
+          "perplexity": 11,
+          "sentence": "OHCHR ROCA, UN Women and UNICEF co-organized with the Ombudsman Office the roundtable on Advancement of Human Rights in the Republic of Tajikistan dedicated to the 75th anniversary of the Universal Declaration of Human Rights, 30th anniversary of the ratification of the Convention on the Elimination of All Forms of Discrimination against Women as well as ratification of the Convention on the Rights of the Child.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038739709998480976,
+          "perplexity": 35,
+          "sentence": "The event took place in Dushanbe on 5 December 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038799692993052304,
+          "perplexity": 97,
+          "sentence": "Mr Umed Bobozoda, Commissioner for Human Rights stressed the importance of raising public awareness on human rights declared in UDHR and human rights treaties and ensure that everyone, especially vulnerable groups know how to claim their rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003526279760990292,
+          "perplexity": 92,
+          "sentence": "Mr Firuz Orzuzoda, Head of the Human Rights Guarantees Department of the Executive Office of the President underlined that \u201cto ensure implementation of recommendations of UN human rights mechanisms, Tajikistan adopted more than 17 sectorial National Action Plans and a Strategy for Protection of Human Rights up to 2038 and its action plan\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041382998460903764,
+          "perplexity": 46,
+          "sentence": "Mr Bahriddin Ziyoi, member of the Parliamentary Committee on Legislation and Human Rights, emphasized that UDHR inspired not only drafting of international human rights treaties but also served as a guidance for preparation of the national legislation of Tajikistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045641555334441364,
+          "perplexity": 73,
+          "sentence": "\u201cChapter 2 of the Constitution of Tajikistan is solely devoted to human rights and freedoms\u201d, he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003844091552309692,
+          "perplexity": 75,
+          "sentence": "Mr Pavlo Byalyk, UN Human Rights Advisor, on behalf of Ms Parvathy Ramaswami, UN Resident Coordinator in Tajikistan, commended the Government on brining improvements into the normative human rights framework but emphasized that the adopted laws, policies and strategies should be effectively implemented.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042462479905225337,
+          "perplexity": 45,
+          "sentence": "He encouraged all stakeholders to re-double their efforts to promote, protect and fulfil human rights of all people in Tajikistan, with particular focus on the most vulnerable groups in line with the principle \u201cleave no-one",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "OHCHR ROCA, UN Women and UNICEF co-organized with the Ombudsman Office the roundtable on Advancement of Human Rights in the Republic of Tajikistan dedicated to the 75th anniversary of the Universal Declaration of Human Rights, 30th anniversary of the ratification of the Convention on the Elimination of All Forms of Discrimination against Women as well as ratification of the Convention on the Rights of the Child. The event took place in Dushanbe on 5 December 2023. Mr Umed Bobozoda, Commissioner for Human Rights stressed the importance of raising public awareness on human rights declared in UDHR and human rights treaties and ensure that everyone, especially vulnerable groups know how to claim their rights. Mr Firuz Orzuzoda, Head of the Human Rights Guarantees Department of the Executive Office of the President underlined that \u201cto ensure implementation of recommendations of UN human rights mechanisms, Tajikistan adopted more than 17 sectorial National Action Plans and a Strategy for Protection of Human Rights up to 2038 and its action plan\u201d. Mr Bahriddin Ziyoi, member of the Parliamentary Committee on Legislation and Human Rights, emphasized that UDHR inspired not only drafting of international human rights treaties but also served as a guidance for preparation of the national legislation of Tajikistan. \u201cChapter 2 of the Constitution of Tajikistan is solely devoted to human rights and freedoms\u201d, he added. Mr Pavlo Byalyk, UN Human Rights Advisor, on behalf of Ms Parvathy Ramaswami, UN Resident Coordinator in Tajikistan, commended the Government on brining improvements into the normative human rights framework but emphasized that the adopted laws, policies and strategies should be effectively implemented. He encouraged all stakeholders to re-double their efforts to promote, protect and fulfil human rights of all people in Tajikistan, with particular focus on the most vulnerable groups in line with the principle \u201cleave no-one",
+  "date": "05 December 2023"
+}

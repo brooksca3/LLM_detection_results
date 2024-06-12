@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b26f2d0f-6804-4d1b-a600-2108bec8b37d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 119.9749984741211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011063185229431838,
+          "perplexity": 34,
+          "sentence": "Bishkek - The First Deputy Minister of Education of the Russian Federation, the Deputy Minister of Education and Science of the Kyrgyz Republic, Representatives of the UN World Food Program (WFP) and of the Social and Industrial Foodservice Institute (SIFI) visited the school #70 to launch the \u201cHealthy Eating Month\u201d campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010977529746014625,
+          "perplexity": 41,
+          "sentence": "The initiative is timed to coincide with the International School Meals Day, which around the world is celebrated on 11 March to raise awareness on the importance of healthy and nutritious school feeding programmes which not only generate high returns in increasing human capital, they also enhance local economies, especially the earning power of women; and can support peacebuilding and community resilience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011707688099704683,
+          "perplexity": 35,
+          "sentence": "The \"Healthy Eating Month\" campaign aims to stimulate students' interest and desire to lead a healthy lifestyle, to choose foods and dishes that are good for them, building from childhood the foundation for proper eating behaviour throughout the rest of their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011655389243969694,
+          "perplexity": 32,
+          "sentence": "\u201cHealthy nutrition during a child's stay at school, as well as at home, is one of the prerequisites for maintaining health and academic success.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010853385902009904,
+          "perplexity": 94,
+          "sentence": "We are proud that WFP supports the government to provide healthy meals in more than 700 schools across the country \u201c- said WFP Kyrgyz Republic Country Director Andrea Bagnoli.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010808078513946384,
+          "perplexity": 25,
+          "sentence": "\u201cIt's an investment that pays off in the future with better educated, stronger and healthier adults, and it's also a critical safety net to prevent the most vulnerable children from suffering in times of economic difficulties.\u201d Since 2013, the Ministry of Education and Science of the Kyrgyz Republic in partnership with the UN World Food Program and SIFI, with financial support from the Russian Federation and other partners, has been implementing the Optimized School Meals Programme aimed at improving nutrition in the country's primary schools.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010172184556722641,
+          "perplexity": 355,
+          "sentence": "School meals optimization in the Kyrgyz Republic",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Bishkek \u2013 The First Deputy Minister of Education of the Russian Federation, the Deputy Minister of Education and Science of the Kyrgyz Republic, Representatives of the UN World Food Program (WFP) and of the Social and Industrial Foodservice Institute (SIFI) visited the school #70 to launch the \u201cHealthy Eating Month\u201d campaign. The initiative is timed to coincide with the International School Meals Day, which around the world is celebrated on 11 March to raise awareness on the importance of healthy and nutritious school feeding programmes which not only generate high returns in increasing human capital, they also enhance local economies, especially the earning power of women; and can support peacebuilding and community resilience. The \"Healthy Eating Month\" campaign aims to stimulate students' interest and desire to lead a healthy lifestyle, to choose foods and dishes that are good for them, building from childhood the foundation for proper eating behaviour throughout the rest of their lives. \u201cHealthy nutrition during a child's stay at school, as well as at home, is one of the prerequisites for maintaining health and academic success. We are proud that WFP supports the government to provide healthy meals in more than 700 schools across the country \u201c\u2013 said WFP Kyrgyz Republic Country Director Andrea Bagnoli. \u201cIt\u2019s an investment that pays off in the future with better educated, stronger and healthier adults, and it\u2019s also a critical safety net to prevent the most vulnerable children from suffering in times of economic difficulties.\u201d Since 2013, the Ministry of Education and Science of the Kyrgyz Republic in partnership with the UN World Food Program and SIFI, with financial support from the Russian Federation and other partners, has been implementing the Optimized School Meals Programme aimed at improving nutrition in the country's primary schools. School meals optimization in the Kyrgyz Republic",
+  "date": "15 March 2021"
+}

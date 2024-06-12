@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "99a04d3d-5693-4d15-b925-68d3d6a5c152",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.88142013549805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003400905115995556,
+          "perplexity": 29,
+          "sentence": "Mogadishu, 3 March 2021 UNHCR donates large tents and personal protective equipment to combat the rise of COVID19 cases in Somalia UNHCR, the UN Refugee Agency, has donated medical items in the form of large tents and personal protective equipment (PPE) to the Federal Government's Ministry of Humanitarian Affairs and Disaster Management amid the rising number of COVID-19 cases in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003635058819781989,
+          "perplexity": 61,
+          "sentence": "The latest donation, consisting of three large isolation/treatment medical tents, 50,000 face shields and 10,000 pairs of gloves, is part of UNHCR's ongoing efforts to support the government of Somalia in curbing the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002903766871895641,
+          "perplexity": 85,
+          "sentence": "UNHCR's response to the pandemic since last year has included availing more than forty large isolation and/or treatment medical tents and containers to the government, awareness raising campaigns and messaging that has reached well over one million individuals with life-savings information, capacity building of health facilities with medical materials, install ing nearly one hundred hand-washing stations and/or boreholes, distributing PPEs and hygiene/sanitary kits to tens of thousands of individuals and more.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027612311532720923,
+          "perplexity": 118,
+          "sentence": "\u201cThe United Nations and International Community are working hard alongside the Government for the urgent roll-out of vaccinations under COVAX and similar health initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035688505158759654,
+          "perplexity": 93,
+          "sentence": "Somalia's latest wave of COVID-19 reignites the emergency that started one year ago, and underscores the need for humanitarian actors to support the Government and the people of Somalia to restrain the spread of this very contagious virus through prevention and treatment measures,\u201d said UNHCR Representative Johann Siffointe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005901853437535465,
+          "perplexity": 41,
+          "sentence": "In the course of receiving the donation, the Minister for Humanitarian Affairs and Disaster Management, Khadija Mohamed Diriye, commended UNHCR for its timely support to the Federal Government during a trying and difficult time in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000696429458912462,
+          "perplexity": 22,
+          "sentence": "According to figures from the World Health Organization (WHO) and the Federal Government, Somalia had recorded 7,392 laboratory-confirmed cases and 243 deaths since the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, 3 March 2021 UNHCR donates large tents and personal protective equipment to combat the rise of COVID19 cases in Somalia UNHCR, the UN Refugee Agency, has donated medical items in the form of large tents and personal protective equipment (PPE) to the Federal Government\u2019s Ministry of Humanitarian Affairs and Disaster Management amid the rising number of COVID-19 cases in Somalia. The latest donation, consisting of three large isolation/treatment medical tents, 50,000 face shields and 10,000 pairs of gloves, is part of UNHCR\u2019s ongoing efforts to support the government of Somalia in curbing the spread of COVID-19. UNHCR\u2019s response to the pandemic since last year has included availing more than forty large isolation and/or treatment medical tents and containers to the government, awareness raising campaigns and messaging that has reached well over one million individuals with life-savings information, capacity building of health facilities with medical materials, install ing nearly one hundred hand-washing stations and/or boreholes, distributing PPEs and hygiene/sanitary kits to tens of thousands of individuals and more. \u201cThe United Nations and International Community are working hard alongside the Government for the urgent roll-out of vaccinations under COVAX and similar health initiatives. Somalia\u2019s latest wave of COVID-19 reignites the emergency that started one year ago, and underscores the need for humanitarian actors to support the Government and the people of Somalia to restrain the spread of this very contagious virus through prevention and treatment measures,\u201d said UNHCR Representative Johann Siffointe. In the course of receiving the donation, the Minister for Humanitarian Affairs and Disaster Management, Khadija Mohamed Diriye, commended UNHCR for its timely support to the Federal Government during a trying and difficult time in Somalia. According to figures from the World Health Organization (WHO) and the Federal Government, Somalia had recorded 7,392 laboratory-confirmed cases and 243 deaths since the",
+  "date": "03 March 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6eecba42-c333-4b0b-abf5-bc0bc3fcbfb4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075705112649612,
+        "human": 0.9686254847185095,
+        "mixed": 0.0006174641549942572
+      },
+      "completely_generated_prob": 0.03075705112649612,
+      "confidence_category": "high",
+      "confidence_score": 0.9686254847185095,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075705112649612,
+          "human": 0.9686254847185095,
+          "mixed": 0.0006174641549942572
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.702799797058105,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.018418418243527412,
+          "perplexity": 12,
+          "sentence": "The following statement was issued by the Spokesman for UN Secretary-General Ant\u00f3nio Guterres on 5 February: The Secretary-General, in consultation with United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) Commissioner-General Philippe Lazzarini, has appointed an independent review group to assess whether the Agency is doing everything within its power to ensure neutrality and to respond to allegations of serious breaches when they are made.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017025092616677284,
+          "perplexity": 52,
+          "sentence": "The review will be led by Catherine Colonna, the former Minister for Foreign Affairs of France, who will work with three research organizations: the Raoul Wallenberg Institute in Sweden, the Chr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015969721600413322,
+          "perplexity": 41,
+          "sentence": "Michelsen Institute in Norway and the Danish Institute for Human Rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01767745614051819,
+          "perplexity": 19,
+          "sentence": "The review group will begin its work on 14 February and is expected to submit an interim report to the Secretary-General late March 2024, with a final report expected to be completed by late April 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01912590116262436,
+          "perplexity": 26,
+          "sentence": "The final report will be made public.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019592974334955215,
+          "perplexity": 26,
+          "sentence": "This review is in response to a request made by UNRWA Commissioner-General Lazzarini earlier this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017349516972899437,
+          "perplexity": 14,
+          "sentence": "The Secretary-General notes that these accusations come at a time when UNRWA, the largest UN organization in the region, is working under extremely challenging conditions to deliver life-saving assistance to the 2 million people in the Gaza Strip who depend on it for their survival amidst one of the largest and most complex humanitarian crises in the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017198948189616203,
+          "perplexity": 28,
+          "sentence": "This independent external review will take place in parallel with an investigation currently under way by the UN Office of Internal Oversight Services (OIOS) into allegations of the involvement of 12 UNRWA personnel in the 7 October attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020134327933192253,
+          "perplexity": 24,
+          "sentence": "The cooperation of the Israeli authorities, who made these allegations, will be critical to the success of the investigation.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The following statement was issued by the Spokesman for UN Secretary-General Ant\u00f3nio Guterres on 5 February: The Secretary-General, in consultation with United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) Commissioner-General Philippe Lazzarini, has appointed an independent review group to assess whether the Agency is doing everything within its power to ensure neutrality and to respond to allegations of serious breaches when they are made. The review will be led by Catherine Colonna, the former Minister for Foreign Affairs of France, who will work with three research organizations: the Raoul Wallenberg Institute in Sweden, the Chr. Michelsen Institute in Norway and the Danish Institute for Human Rights. The review group will begin its work on 14 February and is expected to submit an interim report to the Secretary-General late March 2024, with a final report expected to be completed by late April 2024. The final report will be made public. This review is in response to a request made by UNRWA Commissioner-General Lazzarini earlier this year. The Secretary-General notes that these accusations come at a time when UNRWA, the largest UN organization in the region, is working under extremely challenging conditions to deliver life-saving assistance to the 2 million people in the Gaza Strip who depend on it for their survival amidst one of the largest and most complex humanitarian crises in the world. This independent external review will take place in parallel with an investigation currently under way by the UN Office of Internal Oversight Services (OIOS) into allegations of the involvement of 12 UNRWA personnel in the 7 October attacks. The cooperation of the Israeli authorities, who made these allegations, will be critical to the success of the investigation.",
+  "date": "06 February 2024"
+}

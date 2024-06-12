@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "acfcf0a0-7029-413c-bf8e-0d44f6264379",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.066226959228516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002236866275779903,
+          "perplexity": 40,
+          "sentence": "Kuwait 15 November 2021, The United Nations Team in Kuwait, led by Dr. Tarek ElSheikh, Representative of the United Nations Secretary General and Resident Coordinator in the State of Kuwait with the participation of Mr. Mazen AbulHosn, Chief of the International Organization for Migration Office in Kuwait and members of the UN Resident Coordinator Office visited the tire recycling factory at Al-Salmi Area and discussed topics related to climate action, environment, waste management and sustainability during their visit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027697556652128696,
+          "perplexity": 43,
+          "sentence": "Representative of the United Nations Secretary General and Resident Coordinator in the State of Kuwait, Dr. Tarek ElSheikh addressed the team involved in the tire recycling project and highlighted to the enormous efforts that have been made by EPSCO and partners in cooperation with various governmental entities related to the tire recycling project in Rohya.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025214176275767386,
+          "perplexity": 50,
+          "sentence": "Dr. ElSheikh also expressed the importance of working on sustainable projects related to waste management and recycling complex materials such as tires in order to reduce waste and boost the Kuwaiti economy in terms of exports and supporting sustainable industries, hoping that this step would be a beginning towards contributing to the State's aspiration for a sustainable future and a symbol to represent perseverance and persistence to sustainable industries globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020222680177539587,
+          "perplexity": 78,
+          "sentence": "Mr. Mazen AbulHosn, Chief of the International Organization for Migration Office in Kuwait expressed his pride of the work of Kuwaiti women, Engineer Alaa Hasan, Founder and Representative of EPSCO and associates, especially in her and the team efforts towards supporting a sustainable environment in the State of Kuwait, which epitomizes Kuwait's climate action commitment locally, regionally and globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018278456991538405,
+          "perplexity": 143,
+          "sentence": "In return, Engineer Alaa Hasan, Representative of EPSCO International said that the idea to establish a factory to recycle tires in Kuwait and specifically at Al-Salmi area came to her during seeing the big number of tires at",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait 15 November 2021, The United Nations Team in Kuwait, led by Dr. Tarek ElSheikh, Representative of the United Nations Secretary General and Resident Coordinator in the State of Kuwait with the participation of Mr. Mazen AbulHosn, Chief of the International Organization for Migration Office in Kuwait and members of the UN Resident Coordinator Office visited the tire recycling factory at Al-Salmi Area and discussed topics related to climate action, environment, waste management and sustainability during their visit. Representative of the United Nations Secretary General and Resident Coordinator in the State of Kuwait, Dr. Tarek ElSheikh addressed the team involved in the tire recycling project and highlighted to the enormous efforts that have been made by EPSCO and partners in cooperation with various governmental entities related to the tire recycling project in Rohya. Dr. ElSheikh also expressed the importance of working on sustainable projects related to waste management and recycling complex materials such as tires in order to reduce waste and boost the Kuwaiti economy in terms of exports and supporting sustainable industries, hoping that this step would be a beginning towards contributing to the State\u2019s aspiration for a sustainable future and a symbol to represent perseverance and persistence to sustainable industries globally. Mr. Mazen AbulHosn, Chief of the International Organization for Migration Office in Kuwait expressed his pride of the work of Kuwaiti women, Engineer Alaa Hasan, Founder and Representative of EPSCO and associates, especially in her and the team efforts towards supporting a sustainable environment in the State of Kuwait, which epitomizes Kuwait\u2019s climate action commitment locally, regionally and globally. In return, Engineer Alaa Hasan, Representative of EPSCO International said that the idea to establish a factory to recycle tires in Kuwait and specifically at Al-Salmi area came to her during seeing the big number of tires at",
+  "date": "15 November 2021"
+}

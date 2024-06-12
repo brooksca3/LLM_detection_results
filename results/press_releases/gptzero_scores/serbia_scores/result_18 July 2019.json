@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "27d34884-b988-437a-ad2e-f54abb09163b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.77039337158203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005094492807984352,
+          "perplexity": 23,
+          "sentence": "New York, 18 July 2019 - A four-day ministerial meeting of the High-Level Political Forum on Sustainable Development is being held in New York at the United Nations Headquarters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005302376230247319,
+          "perplexity": 26,
+          "sentence": "The theme of this year's meeting is \"empowering people and ensuring inclusiveness and equality,\" during which 47 UN member states, including the Republic of Serbia, will present their Voluntary National Reviews on the implementation of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005610341904684901,
+          "perplexity": 195,
+          "sentence": "The central part of Serbia's first Voluntary National Review encompasses the views of young people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004744758189190179,
+          "perplexity": 25,
+          "sentence": "\"The vision of a sustainable future that we share with our children and young people takes central stage in this report, because today's children and young people will be the leaders of society and social change in 2030,\" said Prof. Dr Slavica Djukic Dejanovic, Minister without Portfolio in charge of Demography and Population Policy of the Republic of Serbia and the President of the Inter-Ministerial Working Group for the Implementation of the 2030 Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047072680899873376,
+          "perplexity": 56,
+          "sentence": "Tijana Cupic, the youth delegate of the Republic of Serbia to the United Nations, introduced a short film about the views of young people about the Sustainable Development Goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005245368811301887,
+          "perplexity": 46,
+          "sentence": "The film was made and presented at the United Nations Headquarters in cooperation with UNICEF Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005330029525794089,
+          "perplexity": 95,
+          "sentence": "Minister Djukic Dejanovic also participated in the general debate at the High-Level Political Forum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007459933403879404,
+          "perplexity": 20,
+          "sentence": "Officials in the debate pointed to the numerous challenges that countries face in various parts of the world in the implementation of the 2030 Agenda and stressed the need for necessary political commitment and strengthening partnerships between the public and private sectors, as well as civil society and academia.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 18 July 2019 - A four-day ministerial meeting of the High-Level Political Forum on Sustainable Development is being held in New York at the United Nations Headquarters. The theme of this year's meeting is \"empowering people and ensuring inclusiveness and equality,\" during which 47 UN member states, including the Republic of Serbia, will present their Voluntary National Reviews on the implementation of the 2030 Agenda for Sustainable Development. The central part of Serbia's first Voluntary National Review encompasses the views of young people. \"The vision of a sustainable future that we share with our children and young people takes central stage in this report, because today's children and young people will be the leaders of society and social change in 2030,\" said Prof. Dr Slavica Djukic Dejanovic, Minister without Portfolio in charge of Demography and Population Policy of the Republic of Serbia and the President of the Inter-Ministerial Working Group for the Implementation of the 2030 Agenda. Tijana Cupic, the youth delegate of the Republic of Serbia to the United Nations, introduced a short film about the views of young people about the Sustainable Development Goals. The film was made and presented at the United Nations Headquarters in cooperation with UNICEF Serbia. Minister Djukic Dejanovic also participated in the general debate at the High-Level Political Forum. Officials in the debate pointed to the numerous challenges that countries face in various parts of the world in the implementation of the 2030 Agenda and stressed the need for necessary political commitment and strengthening partnerships between the public and private sectors, as well as civil society and academia.",
+  "date": "18 July 2019"
+}

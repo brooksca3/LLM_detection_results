@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7004ce1c-5e5c-42b6-a918-30ad1fe016a4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.940853118896484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013616468640975654,
+          "perplexity": 18,
+          "sentence": "Islamabad: The Food and Agriculture Organization of the United Nations (FAO) and the Government of Pakistan today signed a USD 5 million funding agreement for a project through which FAO will contribute to the Government's efforts to recover from the devastating floods that hit the country and Balochistan in particular, in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001331375096924603,
+          "perplexity": 22,
+          "sentence": "The collaboration between FAO and the Balochistan Agriculture & Cooperatives Department (BACD) represents the first time that FAO has received funds by and through a Government in its role as recipient of funding from the Asian Development Bank (ADB).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001280722935916856,
+          "perplexity": 81,
+          "sentence": "Indeed, this project follows ADB's approval of a USD 5 million grant to provide Emergency Flood Assistance and to strengthen the country's disaster and climate resilience, and food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012906186748296022,
+          "perplexity": 55,
+          "sentence": "The ADB Grant was in turn financed by the Japan Fund for Prosperous and Resilient Asia and the Pacific (JFPR) and is part of the larger USD 475 million Emergency Assistance Loan (EAL) and USD 3 million technical assistance grant approved by ADB in December 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013037785538472235,
+          "perplexity": 14,
+          "sentence": "The assistance responds to the Government of Pakistan's request to support its post-flood recovery and reconstruction efforts, and is aimed at supporting the restoration of irrigation, drainage, flood risk management, on-farm water management, and transport infrastructure in the flood-affected provinces of Balochistan, Khyber Pakhtunkhwa, and Sindh.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012497733405325562,
+          "perplexity": 53,
+          "sentence": "The additional financing of the JFPR Grant expands the scope of ADB's post-flood rehabilitation efforts, particularly by supporting (i) urgent provision of climate-resilient seeds for staple crop cultivation and (ii) women-led livelihoods to meet basic household needs, incorporating measures to strengthen community resilience to disasters caused by natural hazards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012296490604057908,
+          "perplexity": 71,
+          "sentence": "Through this project, FAO will ensure the provision of climate-adaptive rice seeds to 60000 farm households for the next Kharif sowing season in order to increase productivity in four Balochistan districts most affected by the 2022 floods; Nasirabad, Jaffarabad,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Islamabad: The Food and Agriculture Organization of the United Nations (FAO) and the Government of Pakistan today signed a USD 5 million funding agreement for a project through which FAO will contribute to the Government\u2019s efforts to recover from the devastating floods that hit the country and Balochistan in particular, in 2022. The collaboration between FAO and the Balochistan Agriculture & Cooperatives Department (BACD) represents the first time that FAO has received funds by and through a Government in its role as recipient of funding from the Asian Development Bank (ADB). Indeed, this project follows ADB\u2019s approval of a USD 5 million grant to provide Emergency Flood Assistance and to strengthen the country\u2019s disaster and climate resilience, and food security. The ADB Grant was in turn financed by the Japan Fund for Prosperous and Resilient Asia and the Pacific (JFPR) and is part of the larger USD 475 million Emergency Assistance Loan (EAL) and USD 3 million technical assistance grant approved by ADB in December 2022. The assistance responds to the Government of Pakistan\u2019s request to support its post-flood recovery and reconstruction efforts, and is aimed at supporting the restoration of irrigation, drainage, flood risk management, on-farm water management, and transport infrastructure in the flood-affected provinces of Balochistan, Khyber Pakhtunkhwa, and Sindh. The additional financing of the JFPR Grant expands the scope of ADB\u2019s post-flood rehabilitation efforts, particularly by supporting (i) urgent provision of climate-resilient seeds for staple crop cultivation and (ii) women-led livelihoods to meet basic household needs, incorporating measures to strengthen community resilience to disasters caused by natural hazards. Through this project, FAO will ensure the provision of climate-adaptive rice seeds to 60000 farm households for the next Kharif sowing season in order to increase productivity in four Balochistan districts most affected by the 2022 floods; Nasirabad, Jaffarabad,",
+  "date": "01 March 2023"
+}

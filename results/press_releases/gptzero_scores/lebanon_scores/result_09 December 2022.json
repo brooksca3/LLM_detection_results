@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3c07da30-ee81-4146-9ccb-be03f149b28d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05233292404841257,
+        "human": 0.9230661287493424,
+        "mixed": 0.024600947202245226
+      },
+      "completely_generated_prob": 0.05233292404841257,
+      "confidence_category": "medium",
+      "confidence_score": 0.9230661287493424,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05233292404841257,
+          "human": 0.9230661287493424,
+          "mixed": 0.024600947202245226
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.56987762451172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.14259600639343262,
+          "perplexity": 60,
+          "sentence": "The campaign launch initiated a multi-level dialogue about women's housing, land, and property rights in Lebanon while highlighting the importance of protecting these rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12492087483406067,
+          "perplexity": 38,
+          "sentence": "The event offered an opportunity for women who have had their HLP rights safeguarded, to share how this has empowered them and ensured the socio-economic wellbeing of their families and communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10724329948425293,
+          "perplexity": 46,
+          "sentence": "During the event Ms. Claudine Aoun, president of NCLW, said: ''Today, we look forward to have an evolution in mentalities and practices, so that our daily lives become more in line with the principles we hold, and for the prevailing culture in our society to be a living culture inspired by our contemporary life, and not by experiences lived by our ancestors and which belong to times completely different from ours.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11042744666337967,
+          "perplexity": 164,
+          "sentence": "Hence our call to update the laws governing our lives of which the personal status laws, including the special provisions on inheritance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13025245070457458,
+          "perplexity": 55,
+          "sentence": "Therefore, we call that there be in Lebanon a unified civil law for personal status that equalizes the rights recognized for women and those for men, in everything related to managing their lives and their personal and family lives.\u201d \u201cImproving women's housing, land, and property rights in Lebanon is absolutely essential.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.12940436601638794,
+          "perplexity": 65,
+          "sentence": "By ensuring these rights, the socio-economic development opportunities and wellbeing for families and communities can significantly improve, at all income levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09894148260354996,
+          "perplexity": 16,
+          "sentence": "The protection of women's housing, land and property rights contributes to the realization and enjoyment of a wide range of human rights such as the right to an adequate standard of living, adequate housing, health, work, and education.''",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11360878497362137,
+          "perplexity": 94,
+          "sentence": "said Taina Christiansen, Head of UN-Habitat Lebanon Country Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07079493254423141,
+          "perplexity": 85,
+          "sentence": "During the event Ms. Randa Abboud, Public Notary, Treasurer, Executive Board Secretary and Member of the Gender Based Violence Committee and the Legal Committee at NCLW, provided a legal review of women's housing,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The campaign launch initiated a multi-level dialogue about women\u2019s housing, land, and property rights in Lebanon while highlighting the importance of protecting these rights. The event offered an opportunity for women who have had their HLP rights safeguarded, to share how this has empowered them and ensured the socio-economic wellbeing of their families and communities. During the event Ms. Claudine Aoun, president of NCLW, said: \u2018\u2019Today, we look forward to have an evolution in mentalities and practices, so that our daily lives become more in line with the principles we hold, and for the prevailing culture in our society to be a living culture inspired by our contemporary life, and not by experiences lived by our ancestors and which belong to times completely different from ours. Hence our call to update the laws governing our lives of which the personal status laws, including the special provisions on inheritance. Therefore, we call that there be in Lebanon a unified civil law for personal status that equalizes the rights recognized for women and those for men, in everything related to managing their lives and their personal and family lives.\u201d \u201cImproving women\u2019s housing, land, and property rights in Lebanon is absolutely essential. By ensuring these rights, the socio-economic development opportunities and wellbeing for families and communities can significantly improve, at all income levels. The protection of women\u2019s housing, land and property rights contributes to the realization and enjoyment of a wide range of human rights such as the right to an adequate standard of living, adequate housing, health, work, and education.\u2019\u2019 said Taina Christiansen, Head of UN-Habitat Lebanon Country Programme. During the event Ms. Randa Abboud, Public Notary, Treasurer, Executive Board Secretary and Member of the Gender Based Violence Committee and the Legal Committee at NCLW, provided a legal review of women's housing,",
+  "date": "09 December 2022"
+}

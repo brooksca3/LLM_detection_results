@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a1be0313-a53e-4607-80f6-b3fe353de2d5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.785056114196777,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04480847716331482,
+          "perplexity": 32,
+          "sentence": "UN Women aligns with the statements made by the UN Secretary-General in strongly condemning the violent crackdown and the use of lethal force against peaceful protestors over the past month in Myanmar and expresses its deep concern over the targeted and disproportionate violence against women being recorded in this situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04484506696462631,
+          "perplexity": 26,
+          "sentence": "This repressive response has already taken the lives of six women and resulted in the arrest of close to 600 women, including young women, LGBTIQ+ and civil society activists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.042853668332099915,
+          "perplexity": 54,
+          "sentence": "In addition, those in detention are also reportedly experiencing sexual harassment and violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03863820806145668,
+          "perplexity": 38,
+          "sentence": "Women have long played a celebrated and vital role in the history of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03496667742729187,
+          "perplexity": 28,
+          "sentence": "They continue to do so and must not be attacked and punished for the peaceful expression of their views.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031170861795544624,
+          "perplexity": 16,
+          "sentence": "Myanmar is a signatory to the Convention on the Elimination of All Forms of Discrimination Against Women, which states, inter alia, that \u201cthe full and complete development of a country, the welfare of the world and the cause of peace require the maximum participation of women on equal terms with men in all fields\u201d and guarantees \u201cthe exercise and enjoyment of human rights and fundamental freedoms on a basis of equality with men\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.033132053911685944,
+          "perplexity": 43,
+          "sentence": "The CEDAW committee has further clearly established that violence against women is a form of discrimination prohibited under the Convention.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03283480554819107,
+          "perplexity": 12,
+          "sentence": "We call upon Myanmar's military and police to ensure that the right to peaceful assembly is fully respected and that demonstrators, including women, are not subjected to reprisals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03145396709442139,
+          "perplexity": 17,
+          "sentence": "We further call on the military and police to respect the human rights of women who have been arrested and are currently being detained and reiterate the calls for the immediate release of all detainees.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Women aligns with the statements made by the UN Secretary-General in strongly condemning the violent crackdown and the use of lethal force against peaceful protestors over the past month in Myanmar and expresses its deep concern over the targeted and disproportionate violence against women being recorded in this situation. This repressive response has already taken the lives of six women and resulted in the arrest of close to 600 women, including young women, LGBTIQ+ and civil society activists. In addition, those in detention are also reportedly experiencing sexual harassment and violence. Women have long played a celebrated and vital role in the history of Myanmar. They continue to do so and must not be attacked and punished for the peaceful expression of their views. Myanmar is a signatory to the Convention on the Elimination of All Forms of Discrimination Against Women, which states, inter alia, that \u201cthe full and complete development of a country, the welfare of the world and the cause of peace require the maximum participation of women on equal terms with men in all fields\u201d and guarantees \u201cthe exercise and enjoyment of human rights and fundamental freedoms on a basis of equality with men\u201d. The CEDAW committee has further clearly established that violence against women is a form of discrimination prohibited under the Convention. We call upon Myanmar\u2019s military and police to ensure that the right to peaceful assembly is fully respected and that demonstrators, including women, are not subjected to reprisals. We further call on the military and police to respect the human rights of women who have been arrested and are currently being detained and reiterate the calls for the immediate release of all detainees.",
+  "date": "12 March 2021"
+}

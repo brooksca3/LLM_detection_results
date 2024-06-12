@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "af22166e-f8b2-4a95-8ffb-a94b1f3e4edf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.34749984741211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019523133232723922,
+          "perplexity": 31,
+          "sentence": "The Ministry of Labor, Social Security and Migration (MLSSM) and the United Nations World Food Programme (WFP) have launched an innovative pilot project in Kadamjai and Jumgal districts to assist 100 poor families graduate out of poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002006019203690812,
+          "perplexity": 76,
+          "sentence": "The project will provide a one-time cash grant of 100,000 KGS through the \u201cSocial Assistance to Poor Families on the Basis of a Social Contract\u201d pilot project in support of the local populations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019389788212720305,
+          "perplexity": 47,
+          "sentence": "The \u201cSocial Contract\u201d is an agreement between low-income families and the Government, whereby vulnerable families receive a cash grant to start income-generating or self-employment activities, combined with a comprehensive support package, including training on financial literacy, assistance to develop business plans, vocational or agricultural training, social services and mentoring to successfully pursue longer-term business and livelihood activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017960982222575694,
+          "perplexity": 78,
+          "sentence": "The project is targeted at households living below the national poverty line with sound business ideas, seed assets and basic knowledge for proposed businesses, such as livestock breeding, selling dairy products, sewing services, greenhouses and other initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001977907813852653,
+          "perplexity": 70,
+          "sentence": "Where suitable, the social contracts are also implemented in collaboration with local business and entrepreneurs, who create sustainable employment opportunities for targeted low-income beneficiary families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018517223361413926,
+          "perplexity": 38,
+          "sentence": "The pilot will also serve as a learning opportunity to improve the design of the project for further scale-up.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014398913481272757,
+          "perplexity": 35,
+          "sentence": "The United Nations World Food Programme is the 2020 Nobel Peace Prize Laureate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001444740773877129,
+          "perplexity": 20,
+          "sentence": "We are the world's largest humanitarian organization, saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Ministry of Labor, Social Security and Migration (MLSSM) and the United Nations World Food Programme (WFP) have launched an innovative pilot project in Kadamjai and Jumgal districts to assist 100 poor families graduate out of poverty. The project will provide a one-time cash grant of 100,000 KGS through the \u201cSocial Assistance to Poor Families on the Basis of a Social Contract\u201d pilot project in support of the local populations. The \u201cSocial Contract\u201d is an agreement between low-income families and the Government, whereby vulnerable families receive a cash grant to start income-generating or self-employment activities, combined with a comprehensive support package, including training on financial literacy, assistance to develop business plans, vocational or agricultural training, social services and mentoring to successfully pursue longer-term business and livelihood activities. The project is targeted at households living below the national poverty line with sound business ideas, seed assets and basic knowledge for proposed businesses, such as livestock breeding, selling dairy products, sewing services, greenhouses and other initiatives. Where suitable, the social contracts are also implemented in collaboration with local business and entrepreneurs, who create sustainable employment opportunities for targeted low-income beneficiary families. The pilot will also serve as a learning opportunity to improve the design of the project for further scale-up. The United Nations World Food Programme is the 2020 Nobel Peace Prize Laureate. We are the world\u2019s largest humanitarian organization, saving lives in emergencies and using food assistance to build a pathway to peace, stability and prosperity for people recovering from conflict, disasters and the impact of climate change.",
+  "date": "24 February 2022"
+}

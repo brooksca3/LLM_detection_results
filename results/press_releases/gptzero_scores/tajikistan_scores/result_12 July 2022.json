@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "60f5d329-e10d-43af-956d-a296f7762d77",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 72.28868865966797,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.08287816494703293,
+          "perplexity": 246,
+          "sentence": "The theme of World Drug Day 2022 is 'health and humanitarian crises'.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07717009633779526,
+          "perplexity": 82,
+          "sentence": "To commemorate the Day, the UNODC Cross-Border Cooperation Project in Central Asia conducted the campaign to raise public awareness of illicit drug problems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07874000072479248,
+          "perplexity": 66,
+          "sentence": "Central Asia borders Afghanistan - the world's largest opium poppy producer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08058001846075058,
+          "perplexity": 31,
+          "sentence": "The region is on the front line of efforts to counter drug trafficking along the northern route.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07342902570962906,
+          "perplexity": 40,
+          "sentence": "Thematic public awareness-raising campaigns play an important role in the fight against illicit drugs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07281333953142166,
+          "perplexity": 16,
+          "sentence": "It is crucial to inform, in particular, young people, who make up more than half of the population in Central Asian countries about the risks posed by drug use and illicit drug trafficking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07286763191223145,
+          "perplexity": 18,
+          "sentence": "The awareness-raising campaign was conducted at the Korday border crossing point (BCP) on the Kazakh-Kyrgyz border, the Sypatay Batyr BCP on the Kazakh-Kyrgyz border, the Ak-Zhol BCP on the Kyrgyz-Kazakh border, the Zhibek Zholy BCP on the Kazakh-Uzbek border, the Dusti BCP on the Tajik-Uzbek border, the Sariosiyo BCP on the Uzbek-Tajik border, the Gisht Kuprik BCP on the Uzbek-Kazakh border and the Aktau International Airport in Kazakhstan, the International Airport Manas in Kyrgyzstan and the Tashkent International Airport in Uzbekistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0058837286196649075,
+          "perplexity": 120,
+          "sentence": "During the campaign, the UNODC team and law enforcement officers working at the BCPs and international airports placed information banners and disseminated fridge magnets among people crossing the borders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005632251966744661,
+          "perplexity": 21,
+          "sentence": "The messages on the banners and magnets were presented in English, Kazakh, Kyrgyz, Russian, Tajik, and Uzbek languages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004079464823007584,
+          "perplexity": 164,
+          "sentence": "A campaign video dedicated to the Day was shown at the arrival and departure terminals of international flights of the Aktau International Airport and the border terminal of the Sypatay Batyr BCP.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004702885169535875,
+          "perplexity": 102,
+          "sentence": "The UNODC representatives and law enforcement officers informed the citizens crossing the land and air borders about World Drug Day, the harmful health consequences of drug use and the legal",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The theme of World Drug Day 2022 is \u2018health and humanitarian crises\u2019. To commemorate the Day, the UNODC Cross-Border Cooperation Project in Central Asia conducted the campaign to raise public awareness of illicit drug problems. Central Asia borders Afghanistan - the world\u2019s largest opium poppy producer. The region is on the front line of efforts to counter drug trafficking along the northern route. Thematic public awareness-raising campaigns play an important role in the fight against illicit drugs. It is crucial to inform, in particular, young people, who make up more than half of the population in Central Asian countries about the risks posed by drug use and illicit drug trafficking. The awareness-raising campaign was conducted at the Korday border crossing point (BCP) on the Kazakh-Kyrgyz border, the Sypatay Batyr BCP on the Kazakh-Kyrgyz border, the Ak-Zhol BCP on the Kyrgyz-Kazakh border, the Zhibek Zholy BCP on the Kazakh-Uzbek border, the Dusti BCP on the Tajik-Uzbek border, the Sariosiyo BCP on the Uzbek-Tajik border, the Gisht Kuprik BCP on the Uzbek-Kazakh border and the Aktau International Airport in Kazakhstan, the International Airport Manas in Kyrgyzstan and the Tashkent International Airport in Uzbekistan. During the campaign, the UNODC team and law enforcement officers working at the BCPs and international airports placed information banners and disseminated fridge magnets among people crossing the borders. The messages on the banners and magnets were presented in English, Kazakh, Kyrgyz, Russian, Tajik, and Uzbek languages. A campaign video dedicated to the Day was shown at the arrival and departure terminals of international flights of the Aktau International Airport and the border terminal of the Sypatay Batyr BCP. The UNODC representatives and law enforcement officers informed the citizens crossing the land and air borders about World Drug Day, the harmful health consequences of drug use and the legal",
+  "date": "12 July 2022"
+}

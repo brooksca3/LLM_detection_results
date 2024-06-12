@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "52995967-37a1-4a95-9b7d-0b86164dc569",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.2761869430542,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005932115018367767,
+          "perplexity": 22,
+          "sentence": "On March 3-4, 2022, a high-level international conference on the topic: \u201cRegional cooperation of Central Asian countries within the framework of the Joint Action Plan for the Implementation of the UN Global Counter-Terrorism Strategy\u201d, will be held in Tashkent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006381704937666655,
+          "perplexity": 14,
+          "sentence": "This landmark international event, proposed by the President of Uzbekistan Shavkat Mirziyoyev in his address to the 75th session of the UN General Assembly, and coinciding with the 10th anniversary of the Joint Plan of Action (JPoA) will make a significant contribution to consolidating the efforts of the countries of the region and the international community in the implementation of the UN Global Counter-Terrorism Strategy (UN GCTS) in Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00543831055983901,
+          "perplexity": 8,
+          "sentence": "The conference is co-organized by the Institute for Strategic and Regional Studies under the President of the Republic of Uzbekistan (ISRS), the Ministry of Foreign Affairs of the Republic of Uzbekistan, the United Nations Office of Counter-Terrorism (UNOCT), the UN Regional Center for Preventive Diplomacy for Central Asia (UNRCCA) and the Organization for Security and Cooperation in Europe (OSCE).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008992480579763651,
+          "perplexity": 18,
+          "sentence": "The Tashkent Conference will be held in a hybrid format with more than 600 senior Member State officials from Asia, Europe, and the Middle East, including the five permanent members of the Security Council, together with representatives of international and regional organizations, think tanks, and civil society institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008416264900006354,
+          "perplexity": 27,
+          "sentence": "Among the invitees are the members of the United Nations Global Counter-Terrorism Compact for the implementation of counter-terrorism measures, representatives of Member States as well as donor states of counter-terrorism activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009429559577256441,
+          "perplexity": 13,
+          "sentence": "At the opening ceremony, an address is expected on behalf of the President of the Republic of Uzbekistan, Mr. Shavkat Mirziyoyev and a video message from the Secretary-General of the United Nations, Mr. Ant\u00f3nio Guterres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008244581404142082,
+          "perplexity": 51,
+          "sentence": "Other speakers include OSCE Secretary General Helga Maria Schmid, UN Under-Secretary-General for Counter-Terrorism Mr. Vladimir Voronkov, Special Representative",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On March 3-4, 2022, a high-level international conference on the topic: \u201cRegional cooperation of Central Asian countries within the framework of the Joint Action Plan for the Implementation of the UN Global Counter-Terrorism Strategy\u201d, will be held in Tashkent. This landmark international event, proposed by the President of Uzbekistan Shavkat Mirziyoyev in his address to the 75th session of the UN General Assembly, and coinciding with the 10th anniversary of the Joint Plan of Action (JPoA) will make a significant contribution to consolidating the efforts of the countries of the region and the international community in the implementation of the UN Global Counter-Terrorism Strategy (UN GCTS) in Central Asia. The conference is co-organized by the Institute for Strategic and Regional Studies under the President of the Republic of Uzbekistan (ISRS), the Ministry of Foreign Affairs of the Republic of Uzbekistan, the United Nations Office of Counter-Terrorism (UNOCT), the UN Regional Center for Preventive Diplomacy for Central Asia (UNRCCA) and the Organization for Security and Cooperation in Europe (OSCE). The Tashkent Conference will be held in a hybrid format with more than 600 senior Member State officials from Asia, Europe, and the Middle East, including the five permanent members of the Security Council, together with representatives of international and regional organizations, think tanks, and civil society institutions. Among the invitees are the members of the United Nations Global Counter-Terrorism Compact for the implementation of counter-terrorism measures, representatives of Member States as well as donor states of counter-terrorism activities. At the opening ceremony, an address is expected on behalf of the President of the Republic of Uzbekistan, Mr. Shavkat Mirziyoyev and a video message from the Secretary-General of the United Nations, Mr. Ant\u00f3nio Guterres. Other speakers include OSCE Secretary General Helga Maria Schmid, UN Under-Secretary-General for Counter-Terrorism Mr. Vladimir Voronkov, Special Representative",
+  "date": "28 February 2022"
+}

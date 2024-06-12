@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9cdc6adf-7359-4db9-a6e2-551a78285352",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 121.02835083007812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005003036931157112,
+          "perplexity": 50,
+          "sentence": "Statement of Tarek El-Sheikh, Representative of UN Secretary General and Resident Coordinator - State of Kuwait Kuwait - 7 March 2021, This year's theme to mark the International Women's Day,\"Women in leadership: Achieving an equal future in a COVID-19 world\", celebrates the tremendous efforts by women and girls around the world in shaping a more equal future and recovery from the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00428141700103879,
+          "perplexity": 26,
+          "sentence": "It is also aligned with the priority theme of the 65th session of the Commission on the Status of Women, \"Women in public life, equal participation in decision making\", and the flagship Generation Equality campaign, which calls for women's right to decision-making in all areas of life, equal pay, equal sharing of unpaid care and domestic work, an end all forms of violence against women and girls, and health-care services that respond to their needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003827926004305482,
+          "perplexity": 43,
+          "sentence": "Women stand at the front lines of the COVID-19 crisis, as health care workers, caregivers, innovators, community organizers and as some of the most exemplary and effective national leaders in combating the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004416778218001127,
+          "perplexity": 69,
+          "sentence": "The crisis has highlighted both the centrality of their contributions and the disproportionate burdens that women carry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002291653770953417,
+          "perplexity": 120,
+          "sentence": "I also wish to highlight that we had many Women leaders across history who opened the doors for more women equality, yet still long way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018763222033157945,
+          "perplexity": 68,
+          "sentence": "I recall Jessy Astrait (Australia) the first women to participate in the United Nations Establishment conference in 1945 and she was behind the formulation of article 8 of the United Nations Charter that gave women equal access to United Nations positions as men.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019483003998175263,
+          "perplexity": 30,
+          "sentence": "We are seeing it ourselves at the United Nations, where I am proud that we have achieved gender parity in UN leadership posts for the first time in history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001626672106795013,
+          "perplexity": 63,
+          "sentence": "Also at the Resident Coordinator Office, we are 60% females, 40% males.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001974651822820306,
+          "perplexity": 412,
+          "sentence": "In Kuwait, Mariam",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Statement of Tarek El-Sheikh, Representative of UN Secretary General and Resident Coordinator \u2013 State of Kuwait Kuwait - 7 March 2021, This year\u2019s theme to mark the International Women\u2019s Day,\"Women in leadership: Achieving an equal future in a COVID-19 world\", celebrates the tremendous efforts by women and girls around the world in shaping a more equal future and recovery from the COVID-19 pandemic. It is also aligned with the priority theme of the 65th session of the Commission on the Status of Women, \"Women in public life, equal participation in decision making\", and the flagship Generation Equality campaign, which calls for women\u2019s right to decision-making in all areas of life, equal pay, equal sharing of unpaid care and domestic work, an end all forms of violence against women and girls, and health-care services that respond to their needs. Women stand at the front lines of the COVID-19 crisis, as health care workers, caregivers, innovators, community organizers and as some of the most exemplary and effective national leaders in combating the pandemic. The crisis has highlighted both the centrality of their contributions and the disproportionate burdens that women carry. I also wish to highlight that we had many Women leaders across history who opened the doors for more women equality, yet still long way. I recall Jessy Astrait (Australia) the first women to participate in the United Nations Establishment conference in 1945 and she was behind the formulation of article 8 of the United Nations Charter that gave women equal access to United Nations positions as men. We are seeing it ourselves at the United Nations, where I am proud that we have achieved gender parity in UN leadership posts for the first time in history. Also at the Resident Coordinator Office, we are 60% females, 40% males. In Kuwait, Mariam",
+  "date": "07 March 2021"
+}

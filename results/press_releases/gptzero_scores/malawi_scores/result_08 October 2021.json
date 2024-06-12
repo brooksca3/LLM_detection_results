@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "55c26d79-4200-41de-a3f7-5a3fd743db36",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01445494476612452,
+        "human": 0.9845754067650919,
+        "mixed": 0.0009696484687835083
+      },
+      "completely_generated_prob": 0.01445494476612452,
+      "confidence_category": "high",
+      "confidence_score": 0.9845754067650919,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01445494476612452,
+          "human": 0.9845754067650919,
+          "mixed": 0.0009696484687835083
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.009464263916016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00127115985378623,
+          "perplexity": 33,
+          "sentence": "It is worth pointing out that there is also a corresponding decline in the level of the epidemic in our neighboring countries and in the rest of the region Good Afternoon, and welcome to this press conference that has been called to update you members of the press, and all Malawians, on the status of the corona virus pandemic in the country, and the steps that have been agreed upon by the taskforce at its recent meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013943007215857506,
+          "perplexity": 49,
+          "sentence": "As has been communicated several times before, the Presidential Task Force on Coronavirus, working with the Emergency Operation Centre on COVID-19 (EOC), continues to closely monitor the trend of the pandemic in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012179195182397962,
+          "perplexity": 43,
+          "sentence": "And available data indicates that since the end of August, we continue to observe a downward trend in the number of new COVD-19 cases, those admitted to treatment units, those passing away from the disease and the proportion of those testing positive for the virus, the positivity rate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011672754772007465,
+          "perplexity": 101,
+          "sentence": "On COVID-19 statistics, as of 7th October 2021, Malawi has recorded a total of 61,648 cases including 2,287 deaths, giving us a Case Fatality Ratio of 3.71%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009588237735442817,
+          "perplexity": 86,
+          "sentence": "Of these cases, 58,992 (95.7%) were locally transmitted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008118493133224547,
+          "perplexity": 78,
+          "sentence": "Cumulatively, 56,208 cases have now recovered (recovery rate of 91.2%).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001264452119357884,
+          "perplexity": 41,
+          "sentence": "Currently, there are 2,921 active cases, 15 of which are hospitalized in our treatment units across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017412687884643674,
+          "perplexity": 71,
+          "sentence": "Let me point out at this stage that we are observing that the majority of those with severe disease and those dying from COVID-19 are not vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002037301193922758,
+          "perplexity": 42,
+          "sentence": "The country has been recording a positivity rate of below 10% since 28th August and less than 5% from 20thSeptember to date, and the seven-day moving average is at 2% as of 7thOctober 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036054684314876795,
+          "perplexity": 14,
+          "sentence": "It is worth pointing out that there is also a corresponding decline in the level of the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "It is worth pointing out that there is also a corresponding decline in the level of the epidemic in our neighboring countries and in the rest of the region Good Afternoon, and welcome to this press conference that has been called to update you members of the press, and all Malawians, on the status of the corona virus pandemic in the country, and the steps that have been agreed upon by the taskforce at its recent meeting. As has been communicated several times before, the Presidential Task Force on Coronavirus, working with the Emergency Operation Centre on COVID-19 (EOC), continues to closely monitor the trend of the pandemic in the country. And available data indicates that since the end of August, we continue to observe a downward trend in the number of new COVD-19 cases, those admitted to treatment units, those passing away from the disease and the proportion of those testing positive for the virus, the positivity rate. On COVID-19 statistics, as of 7th October 2021, Malawi has recorded a total of 61,648 cases including 2,287 deaths, giving us a Case Fatality Ratio of 3.71%. Of these cases, 58,992 (95.7%) were locally transmitted. Cumulatively, 56,208 cases have now recovered (recovery rate of 91.2%). Currently, there are 2,921 active cases, 15 of which are hospitalized in our treatment units across the country. Let me point out at this stage that we are observing that the majority of those with severe disease and those dying from COVID-19 are not vaccinated. The country has been recording a positivity rate of below 10% since 28th August and less than 5% from 20thSeptember to date, and the seven-day moving average is at 2% as of 7thOctober 2021. It is worth pointing out that there is also a corresponding decline in the level of the",
+  "date": "08 October 2021"
+}

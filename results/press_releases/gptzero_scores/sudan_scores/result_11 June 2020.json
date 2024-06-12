@@ -1,0 +1,87 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e1888d69-4f38-4bb6-806b-b8bd98710488",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.021143711189884885,
+        "human": 0.9778932212196855,
+        "mixed": 0.0009630675904295393
+      },
+      "completely_generated_prob": 0.021143711189884885,
+      "confidence_category": "high",
+      "confidence_score": 0.9778932212196855,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.021143711189884885,
+          "human": 0.9778932212196855,
+          "mixed": 0.0009630675904295393
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.832773208618164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005067705176770687,
+          "perplexity": 28,
+          "sentence": "The adoption of the National Action Plan is an important milestone in the ongoing political transition as it fulfils one of the key commitments in the Constitutional Declaration to \u201capply UN Security Council Resolution 1325 and the relevant African Union resolutions regarding participation of women at all levels in the peace process Khartoum, 11 June 2020 -- The UN Resident and Humanitarian Coordinator, Ms. Gwi-Yeop Son, congratulates the government and people of Sudan on the adoption of a National Action Plan for the Implementation of the UN Security Council Resolution 1325 on women peace and security (NAP 1325) on June 10, 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019803026225417852,
+          "perplexity": 35,
+          "sentence": "Ms Son stated that, \u201cThe adoption of the National Action Plan is an important milestone in the ongoing political transition as it fulfils one of the key commitments in the Constitutional Declaration to \u201capply UN Security Council Resolution 1325 and the relevant African Union resolutions regarding participation of women at all levels in the peace process.\u201d The Country Representative of UN Women in Sudan, Ms Adjaratou Fatou Ndiaye, equally applauds the adoption of the National Action Plan and by the government of Sudan and acknowledged that through their commitment and dedication to gender equality and women's empowerment, the Ministry of Labour and Social Development has spearheaded this amongst other achievements during the short time of its establishment in the new dispensation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013298632111400366,
+          "perplexity": 64,
+          "sentence": "She committed in line with UN Women mandate to support the Government to implement an operational plan focused on measurable indicators to showcase the impact of the implementation of the UNSCR 1325 action plan on the realization of peace in Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017429720610380173,
+          "perplexity": 81,
+          "sentence": "Ms Son further observed, \u201cSudan is emerging from three decades of dictatorship and conflict, during which fundamental human rights were largely eroded and women and girls specifically, were subjected to systematic violence, marginalized from political decision-making",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The adoption of the National Action Plan is an important milestone in the ongoing political transition as it fulfils one of the key commitments in the Constitutional Declaration to \u201capply UN Security Council Resolution 1325 and the relevant African Union resolutions regarding participation of women at all levels in the peace process Khartoum, 11 June 2020 -- The UN Resident and Humanitarian Coordinator, Ms. Gwi-Yeop Son, congratulates the government and people of Sudan on the adoption of a National Action Plan for the Implementation of the UN Security Council Resolution 1325 on women peace and security (NAP 1325) on June 10, 2020. Ms Son stated that, \u201cThe adoption of the National Action Plan is an important milestone in the ongoing political transition as it fulfils one of the key commitments in the Constitutional Declaration to \u201capply UN Security Council Resolution 1325 and the relevant African Union resolutions regarding participation of women at all levels in the peace process.\u201d The Country Representative of UN Women in Sudan, Ms Adjaratou Fatou Ndiaye, equally applauds the adoption of the National Action Plan and by the government of Sudan and acknowledged that through their commitment and dedication to gender equality and women\u2019s empowerment, the Ministry of Labour and Social Development has spearheaded this amongst other achievements during the short time of its establishment in the new dispensation. She committed in line with UN Women mandate to support the Government to implement an operational plan focused on measurable indicators to showcase the impact of the implementation of the UNSCR 1325 action plan on the realization of peace in Sudan. Ms Son further observed, \u201cSudan is emerging from three decades of dictatorship and conflict, during which fundamental human rights were largely eroded and women and girls specifically, were subjected to systematic violence, marginalized from political decision-making",
+  "date": "11 June 2020"
+}

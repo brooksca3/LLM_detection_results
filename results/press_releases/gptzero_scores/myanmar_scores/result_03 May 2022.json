@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "03fe6c38-d70a-4de0-8e61-bd5351fc1bc5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.777332305908203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007262632134370506,
+          "perplexity": 39,
+          "sentence": "The United Nations Secretary-General's Special Envoy on Myanmar, Noeleen Heyzer, welcomes the convening of the Consultative Meeting on ASEAN Humanitarian Assistance to Myanmar on 6 May and strongly urges ASEAN leaders and donors to prioritise principled engagement with diverse local humanitarian networks to effectively deliver aid to all communities in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007537316414527595,
+          "perplexity": 33,
+          "sentence": "Over the past few months, the Special Envoy has held extensive engagements with some of Myanmar's civil society organisations and local humanitarian networks who have been at the frontline in addressing the widening crisis amid escalating violence and increasing displaced populations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008852800820022821,
+          "perplexity": 80,
+          "sentence": "These groups have called for unhindered and safe humanitarian access to facilitate delivery of assistance without discrimination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006363182910718024,
+          "perplexity": 27,
+          "sentence": "The key messages from local humanitarian networks are clear: there is a need for the utmost respect of international humanitarian law and humanitarian principles; urgently needed humanitarian aid must not be instrumentalised for political purposes; military infrastructure must not be legitimised through aid delivery; and there is a need not only for more donor funding but also for donor flexibility to support local humanitarian actors and networks with access to hard-to-reach conflict affected areas, including internally displaced people, border communities and civilians affected by conflict, including in urban areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005976064712740481,
+          "perplexity": 54,
+          "sentence": "In Myanmar's currently violent, unstable and insecure context, effective delivery of humanitarian aid requires firm commitment by all aid actors to adhere to international humanitarian law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005818731151521206,
+          "perplexity": 21,
+          "sentence": "Given the complexity of Myanmar's conflict it is imperative that humanitarian assistance is delivered through a diverse range of channels, without discrimination or favour, and reaches the most vulnerable in every part of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004975171177648008,
+          "perplexity": 27,
+          "sentence": "Safe and unimpeded access for all aid actors is non-negotiable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004055985191371292,
+          "perplexity": 55,
+          "sentence": "It is imperative that we build strong, effective and equal partnerships with local and informal humanitarian networks, who have unique access, local knowledge and established trust on the ground, to support",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Secretary-General's Special Envoy on Myanmar, Noeleen Heyzer, welcomes the convening of the Consultative Meeting on ASEAN Humanitarian Assistance to Myanmar on 6 May and strongly urges ASEAN leaders and donors to prioritise principled engagement with diverse local humanitarian networks to effectively deliver aid to all communities in need. Over the past few months, the Special Envoy has held extensive engagements with some of Myanmar\u2019s civil society organisations and local humanitarian networks who have been at the frontline in addressing the widening crisis amid escalating violence and increasing displaced populations. These groups have called for unhindered and safe humanitarian access to facilitate delivery of assistance without discrimination. The key messages from local humanitarian networks are clear: there is a need for the utmost respect of international humanitarian law and humanitarian principles; urgently needed humanitarian aid must not be instrumentalised for political purposes; military infrastructure must not be legitimised through aid delivery; and there is a need not only for more donor funding but also for donor flexibility to support local humanitarian actors and networks with access to hard-to-reach conflict affected areas, including internally displaced people, border communities and civilians affected by conflict, including in urban areas. In Myanmar\u2019s currently violent, unstable and insecure context, effective delivery of humanitarian aid requires firm commitment by all aid actors to adhere to international humanitarian law. Given the complexity of Myanmar\u2019s conflict it is imperative that humanitarian assistance is delivered through a diverse range of channels, without discrimination or favour, and reaches the most vulnerable in every part of the country. Safe and unimpeded access for all aid actors is non-negotiable. It is imperative that we build strong, effective and equal partnerships with local and informal humanitarian networks, who have unique access, local knowledge and established trust on the ground, to support",
+  "date": "03 May 2022"
+}

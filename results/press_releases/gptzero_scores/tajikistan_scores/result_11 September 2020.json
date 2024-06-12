@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e9bf5487-8092-43f7-b87d-37abe3285605",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.946388244628906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00040957803139463067,
+          "perplexity": 17,
+          "sentence": "The handover ceremony was attended by representatives from WFP, the Embassy of the Russian Federation in Tajikistan, the Ministry of Education and Science of Tajikistan and other partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037567951949313283,
+          "perplexity": 68,
+          "sentence": "\u201cThanks to the close partnership with the Government of Tajikistan and the Russian Federation, WFP helps the young generation through school meals to reach their full potential,\u201d said WFP Tajikistan Representative and Country Director Alberto Correia Mendes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034914270509034395,
+          "perplexity": 79,
+          "sentence": "\u201cWe are extremely grateful for Russia's considerable and consistent support, which has proven crucial in assisting schoolchildren.\u201d In 2019, more than 500,000 Tajik schoolchildren from grades 1 to 4 in 2,000 schools across 52 rural districts were served hot, nutritious soup or other local meals and a piece of traditional bread baked using WFP wheat flour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045171307283453643,
+          "perplexity": 96,
+          "sentence": "The School Feeding Programme is WFP's largest operation in Tajikistan and represents the organization's strong commitment to changing lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003420461725909263,
+          "perplexity": 34,
+          "sentence": "In vulnerable and food insecure communities, providing healthy food to children at school can means better nutrition, improved health as well as increased access to education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003767570888157934,
+          "perplexity": 112,
+          "sentence": "In Tajikistan, WFP focuses on supporting development programmes that help strengthen institutional capacities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003496737335808575,
+          "perplexity": 38,
+          "sentence": "Since 1999, the organization has been partnering with the Government of Tajikistan to implement and manage school feeding in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023580147535540164,
+          "perplexity": 35,
+          "sentence": "With the financial support of the Russian Federation, WFP, in cooperation with the Russian NGO Social and Industrial Foodservice Institute (SIFI), is working with the Tajik Ministry of Health and Social Protection of the Population and the Ministry of Education and Science towards the gradual transition of the School Feeding Programme to full national ownership starting from 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028454966377466917,
+          "perplexity": 16,
+          "sentence": "The United Nations World Food Programme is the world's largest humanitarian organization, saving lives in emergencies, building prosperity and supporting a sustainable future for people recovering from conflict, disasters and the impact of climate change.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The handover ceremony was attended by representatives from WFP, the Embassy of the Russian Federation in Tajikistan, the Ministry of Education and Science of Tajikistan and other partners. \u201cThanks to the close partnership with the Government of Tajikistan and the Russian Federation, WFP helps the young generation through school meals to reach their full potential,\u201d said WFP Tajikistan Representative and Country Director Alberto Correia Mendes. \u201cWe are extremely grateful for Russia\u2019s considerable and consistent support, which has proven crucial in assisting schoolchildren.\u201d In 2019, more than 500,000 Tajik schoolchildren from grades 1 to 4 in 2,000 schools across 52 rural districts were served hot, nutritious soup or other local meals and a piece of traditional bread baked using WFP wheat flour. The School Feeding Programme is WFP\u2019s largest operation in Tajikistan and represents the organization\u2019s strong commitment to changing lives. In vulnerable and food insecure communities, providing healthy food to children at school can means better nutrition, improved health as well as increased access to education. In Tajikistan, WFP focuses on supporting development programmes that help strengthen institutional capacities. Since 1999, the organization has been partnering with the Government of Tajikistan to implement and manage school feeding in the country. With the financial support of the Russian Federation, WFP, in cooperation with the Russian NGO Social and Industrial Foodservice Institute (SIFI), is working with the Tajik Ministry of Health and Social Protection of the Population and the Ministry of Education and Science towards the gradual transition of the School Feeding Programme to full national ownership starting from 2021. The United Nations World Food Programme is the world\u2019s largest humanitarian organization, saving lives in emergencies, building prosperity and supporting a sustainable future for people recovering from conflict, disasters and the impact of climate change.",
+  "date": "11 September 2020"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6071a3ae-87a8-48ef-a669-da36e215ba6b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.024541736100590822,
+        "human": 0.9339494016058173,
+        "mixed": 0.04150886229359188
+      },
+      "completely_generated_prob": 0.024541736100590822,
+      "confidence_category": "medium",
+      "confidence_score": 0.9339494016058173,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.024541736100590822,
+          "human": 0.9339494016058173,
+          "mixed": 0.04150886229359188
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.573640823364258,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010385167552158237,
+          "perplexity": 30,
+          "sentence": "A conference organised by the Baghdad-based Bait Al-Hikma think tank, in cooperation with the ILO and several academic entities, focused on issues related to achieving human security and sustainable development and some of the challenges and solutions in Iraq and the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025046616792678833,
+          "perplexity": 19,
+          "sentence": "Baghdad, Iraq (ILO News) An international conference was held in Baghdad on the 15th and 16th of November, bringing together academics, stakeholders, tripartite constituents and partners from across the spectrum, to discuss issues related to sustainable development and human security in Iraq and the Arab World.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002207178622484207,
+          "perplexity": 33,
+          "sentence": "The two-day event was held Under the Patronage of the Prime Minister of Iraq, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004258628934621811,
+          "perplexity": 41,
+          "sentence": "Mohammed Shia'a Al-Sudani, and organised by the Baghdad-based Bait Al-Hikma think tank, in collaboration with the International Labour Organization, the Journalists Syndicate, the International Federation of Universities, the Areed platform, and several Iraqi and Arab universities, academies, and research centres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00779557041823864,
+          "perplexity": 91,
+          "sentence": "Among other partners, the ILO provided technical and financial support for this conference as part of boarder efforts of a European Union funded programme to reform social protection in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031928710639476776,
+          "perplexity": 47,
+          "sentence": "The conference shed light on the reality of sustainable development in Iraq and the Arab World through 160 research papers conducted by academics from across the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02017255872488022,
+          "perplexity": 7,
+          "sentence": "Participants included those from Jordan, Lebanon, Egypt, Libya, Oman, Saudi Arabia, Algeria, Tunis, Morocco, Syria, Yemen, Somalia, Sudan, the United Arab Emirates, and the Occupied Palestinian Territory.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026252828538417816,
+          "perplexity": 78,
+          "sentence": "Some of the studies will continue to be presented virtually next week.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.033222638070583344,
+          "perplexity": 43,
+          "sentence": "The research and discussions aim to identifying some of the threats and challenges facing human security, while exploring the relationship between human rights and sustainable development goals in Iraq and the Arab World.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03241018205881119,
+          "perplexity": 58,
+          "sentence": "\u201cThis conference sheds light on the reality of sustainable development in Iraq and the Arab World through research and statistics, to identify the most significant threats to human",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A conference organised by the Baghdad-based Bait Al-Hikma think tank, in cooperation with the ILO and several academic entities, focused on issues related to achieving human security and sustainable development and some of the challenges and solutions in Iraq and the region. Baghdad, Iraq (ILO News) An international conference was held in Baghdad on the 15th and 16th of November, bringing together academics, stakeholders, tripartite constituents and partners from across the spectrum, to discuss issues related to sustainable development and human security in Iraq and the Arab World. The two-day event was held Under the Patronage of the Prime Minister of Iraq, H.E. Mohammed Shia'a Al-Sudani, and organised by the Baghdad-based Bait Al-Hikma think tank, in collaboration with the International Labour Organization, the Journalists Syndicate, the International Federation of Universities, the Areed platform, and several Iraqi and Arab universities, academies, and research centres. Among other partners, the ILO provided technical and financial support for this conference as part of boarder efforts of a European Union funded programme to reform social protection in Iraq. The conference shed light on the reality of sustainable development in Iraq and the Arab World through 160 research papers conducted by academics from across the region. Participants included those from Jordan, Lebanon, Egypt, Libya, Oman, Saudi Arabia, Algeria, Tunis, Morocco, Syria, Yemen, Somalia, Sudan, the United Arab Emirates, and the Occupied Palestinian Territory. Some of the studies will continue to be presented virtually next week. The research and discussions aim to identifying some of the threats and challenges facing human security, while exploring the relationship between human rights and sustainable development goals in Iraq and the Arab World. \u201cThis conference sheds light on the reality of sustainable development in Iraq and the Arab World through research and statistics, to identify the most significant threats to human",
+  "date": "16 November 2023"
+}

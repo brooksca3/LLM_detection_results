@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "edf60a4c-9bdb-40ec-8a95-51aa73c88340",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.645057678222656,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.06508537381887436,
+          "perplexity": 36,
+          "sentence": "Mogadishu, Somalia 25 August 2020 - The Micronutrient Survey launched by Federal Ministry of Health and UNICEF today shines a spotlight on the nutrition status of women and children in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06719560921192169,
+          "perplexity": 21,
+          "sentence": "According to the survey, the nutrition status of women and children has improved during the past decade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07678966224193573,
+          "perplexity": 44,
+          "sentence": "Nine in ten infants are breastfed and the prevalence of both stunting and wasting has decreased.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07380343973636627,
+          "perplexity": 45,
+          "sentence": "\u201cCompleting the micronutrient survey is an accomplishment that we should all be proud of.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08222451061010361,
+          "perplexity": 26,
+          "sentence": "It shows our unwavering commitment to the women and children of Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06498893350362778,
+          "perplexity": 86,
+          "sentence": "But while we celebrate the good progress, let us remember that the fight against malnutrition in Somalia is not yet over,\u201d said the Acting Minister of Health H.E Dr Fawziya Abikar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06455708295106888,
+          "perplexity": 26,
+          "sentence": "The survey results indicate that good nutrition is still out of reach for millions of Somali children under the age of five.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06841486692428589,
+          "perplexity": 19,
+          "sentence": "While many babies are breastfed, only a third of them are exclusively breastfed for six months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07505191117525101,
+          "perplexity": 58,
+          "sentence": "This places them at greater risk of diarrhea and malnutrition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06865858286619186,
+          "perplexity": 14,
+          "sentence": "Almost one in five children show signs of chronic malnutrition and one in ten are acutely malnourished.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07444377988576889,
+          "perplexity": 136,
+          "sentence": "These deadly conditions curtail children's physical and brain development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07458657771348953,
+          "perplexity": 30,
+          "sentence": "Vitamin A deficiency affects a third of children, exposing them to infections and weakening their immune systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0755898654460907,
+          "perplexity": 27,
+          "sentence": "Iron deficiency anaemia, impacting more than a quarter of all children, hinders their ability to learn.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07509690523147583,
+          "perplexity": 235,
+          "sentence": "The COVID-19 pandemic is exasperating the situation further and putting vulnerable lives at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06554765999317169,
+          "perplexity": 126,
+          "sentence": "The stretched healthcare systems, interrupted food systems and loss of income inhibit many children and women from gaining access to nutritious diets and essential nutrition services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0580451563000679,
+          "perplexity": 84,
+          "sentence": "\u201cThe micronutrient survey has provided us with invaluable data on the nutritional status of Somali women and children,\u201d said UNICEF Somalia Representative Werner Schultink.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.053092364221811295,
+          "perplexity": 115,
+          "sentence": "\u201cThe results of this study will help chart",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Mogadishu, Somalia 25 August 2020 \u2013 The Micronutrient Survey launched by Federal Ministry of Health and UNICEF today shines a spotlight on the nutrition status of women and children in Somalia. According to the survey, the nutrition status of women and children has improved during the past decade. Nine in ten infants are breastfed and the prevalence of both stunting and wasting has decreased. \u201cCompleting the micronutrient survey is an accomplishment that we should all be proud of. It shows our unwavering commitment to the women and children of Somalia. But while we celebrate the good progress, let us remember that the fight against malnutrition in Somalia is not yet over,\u201d said the Acting Minister of Health H.E Dr Fawziya Abikar. The survey results indicate that good nutrition is still out of reach for millions of Somali children under the age of five. While many babies are breastfed, only a third of them are exclusively breastfed for six months. This places them at greater risk of diarrhea and malnutrition. Almost one in five children show signs of chronic malnutrition and one in ten are acutely malnourished. These deadly conditions curtail children\u2019s physical and brain development. Vitamin A deficiency affects a third of children, exposing them to infections and weakening their immune systems. Iron deficiency anaemia, impacting more than a quarter of all children, hinders their ability to learn. The COVID-19 pandemic is exasperating the situation further and putting vulnerable lives at risk. The stretched healthcare systems, interrupted food systems and loss of income inhibit many children and women from gaining access to nutritious diets and essential nutrition services. \u201cThe micronutrient survey has provided us with invaluable data on the nutritional status of Somali women and children,\u201d said UNICEF Somalia Representative Werner Schultink. \u201cThe results of this study will help chart",
+  "date": "25 August 2020"
+}

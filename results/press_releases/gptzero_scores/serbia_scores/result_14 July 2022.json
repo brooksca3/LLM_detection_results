@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c3369ed2-603b-4c12-b219-bb9f98ea1837",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010887811144562718,
+        "human": 0.9884935632222235,
+        "mixed": 0.0006186256332137908
+      },
+      "completely_generated_prob": 0.010887811144562718,
+      "confidence_category": "high",
+      "confidence_score": 0.9884935632222235,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010887811144562718,
+          "human": 0.9884935632222235,
+          "mixed": 0.0006186256332137908
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.629859924316406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003050829691346735,
+          "perplexity": 46,
+          "sentence": "The quality of life for more than 3,000 citizens from vulnerable social groups has improved through the enhanced social protection services as a result of 41 projects implemented by local self-governments with the support of the Swiss Government through the Swiss PRO Programme, as highlighted during the event held on June 9, 2022 in Belgrade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030202660127542913,
+          "perplexity": 52,
+          "sentence": "The total value of support provided by the Swiss Government through two public calls of the Swiss PRO Programme under the slogan \"Join Forces, Provide Support\" is over 530,000 euros, while local self-governments co-funded the project in the amount of about 170,000 euros.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026616582181304693,
+          "perplexity": 43,
+          "sentence": "Also, local self-governments received technical support for the development and implementation of social protection services, such as home care and a senior club for the elderly, a personal assistant and day care center for people with disabilities and counseling for families, youth and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003060168819501996,
+          "perplexity": 52,
+          "sentence": "\"Improving the position of vulnerable groups is the policy of the Government of Serbia and the priority of the social protection system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025327515322715044,
+          "perplexity": 46,
+          "sentence": "Local self-governments are one of the most important parts of the system and support for strengthening their capacities is very valuable because in the future they should become even more important bearers of social protection and social policy at the local level\", pointed out Biljana Zekavica, Assistant Ministry of Labor, Employment, Veterans and Social Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028473749989643693,
+          "perplexity": 42,
+          "sentence": "Improving social inclusion is one of the key priorities of Swiss development cooperation with Serbia, and close cooperation between Swiss PRO and national and local partners has contributed to observable progress in this area, said Melina Papageorgiou, Head of Governance at the Swiss Cooperation Office in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038359829341061413,
+          "perplexity": 76,
+          "sentence": "\"Greater quality, scope and inclusiveness of public services for citizens, especially social protection services for vulnerable groups, is an important aspect of public administration reform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002416427945718169,
+          "perplexity": 129,
+          "sentence": "The COVID-19 pandemic has been and continues to be",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The quality of life for more than 3,000 citizens from vulnerable social groups has improved through the enhanced social protection services as a result of 41 projects implemented by local self-governments with the support of the Swiss Government through the Swiss PRO Programme, as highlighted during the event held on June 9, 2022 in Belgrade. The total value of support provided by the Swiss Government through two public calls of the Swiss PRO Programme under the slogan \"Join Forces, Provide Support\" is over 530,000 euros, while local self-governments co-funded the project in the amount of about 170,000 euros. Also, local self-governments received technical support for the development and implementation of social protection services, such as home care and a senior club for the elderly, a personal assistant and day care center for people with disabilities and counseling for families, youth and children. \"Improving the position of vulnerable groups is the policy of the Government of Serbia and the priority of the social protection system. Local self-governments are one of the most important parts of the system and support for strengthening their capacities is very valuable because in the future they should become even more important bearers of social protection and social policy at the local level\", pointed out Biljana Zekavica, Assistant Ministry of Labor, Employment, Veterans and Social Affairs. Improving social inclusion is one of the key priorities of Swiss development cooperation with Serbia, and close cooperation between Swiss PRO and national and local partners has contributed to observable progress in this area, said Melina Papageorgiou, Head of Governance at the Swiss Cooperation Office in Serbia. \"Greater quality, scope and inclusiveness of public services for citizens, especially social protection services for vulnerable groups, is an important aspect of public administration reform. The COVID-19 pandemic has been and continues to be",
+  "date": "14 July 2022"
+}

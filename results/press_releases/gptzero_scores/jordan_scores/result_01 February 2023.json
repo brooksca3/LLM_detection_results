@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0358b064-11d3-4599-9046-8cc38d94bb44",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.04993763172609574,
+        "human": 0.9494315167677463,
+        "mixed": 0.0006308515061579709
+      },
+      "completely_generated_prob": 0.04993763172609574,
+      "confidence_category": "medium",
+      "confidence_score": 0.9494315167677463,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.04993763172609574,
+          "human": 0.9494315167677463,
+          "mixed": 0.0006308515061579709
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 4456.85986328125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02382669970393181,
+          "perplexity": 39,
+          "sentence": "Amman - Under the patronage of Her Royal highness Princess Basma Bint Ali, Chairman of the Board of Trustees of the Hashemite Fund for the Development of the Jordan Badia, the United Nations Human Settlement program (UN-Habitat) and The Hashemite Fund for the Development of the Jordan Badia signed an agreement of cooperation on February 1st, 2023 for the \u201cIncreasing the resilience of both displaced persons and host communities to climate change-related water challenges in Jordan\u201d project that is funded by the Adaptation Fund.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026681598275899887,
+          "perplexity": 41,
+          "sentence": "The director of the Hashemite Fund for the Development of the Jordan Badia, Jamal Trad Al-Fayez, stated that the project aims to relieve the pressure on natural water sources by resorting to non-traditional, alternative sources in agriculture, in the face of drought and extreme heat and changing patterns of rainfall which has become a major source of concern.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026582693681120872,
+          "perplexity": 19,
+          "sentence": "He also pointed out that the Al-Mafraq-Badiya area, which has hosted a large number of refugees in recent years, has led to an increase in pressure on available water quantities and infrastructure, which has put the water supply and sanitation systems at risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02246822603046894,
+          "perplexity": 52,
+          "sentence": "Al-Fayez stressed that the Fund will work through this project to implement and manage the reuse of treated wastewater from the Al-Mafraq treatment plant, and establish agricultural projects in the western North Badiya region, through the establishment of new and effective recycling technology, as well as building the capacities of farmers and raising awareness about water management and effective irrigation systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02243286743760109,
+          "perplexity": 44,
+          "sentence": "The Senior Urban Program Officer at UN-Habitat, Lubna Shaheen, stated that the program focuses on four strategic goals, aimed at reducing spatial inequality and poverty in communities, enhancing shared prosperity for cities and regions, promoting climate-related actions and improving urban environment, and preventing and responding to crises in urban areas effectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019010281190276146,
+          "perplexity": 10956,
+          "sentence": "The Regional Project",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - Under the patronage of Her Royal highness Princess Basma Bint Ali, Chairman of the Board of Trustees of the Hashemite Fund for the Development of the Jordan Badia, the United Nations Human Settlement program (UN-Habitat) and The Hashemite Fund for the Development of the Jordan Badia signed an agreement of cooperation on February 1st, 2023 for the \u201cIncreasing the resilience of both displaced persons and host communities to climate change-related water challenges in Jordan\u201d project that is funded by the Adaptation Fund. The director of the Hashemite Fund for the Development of the Jordan Badia, Jamal Trad Al-Fayez, stated that the project aims to relieve the pressure on natural water sources by resorting to non-traditional, alternative sources in agriculture, in the face of drought and extreme heat and changing patterns of rainfall which has become a major source of concern. He also pointed out that the Al-Mafraq-Badiya area, which has hosted a large number of refugees in recent years, has led to an increase in pressure on available water quantities and infrastructure, which has put the water supply and sanitation systems at risk. Al-Fayez stressed that the Fund will work through this project to implement and manage the reuse of treated wastewater from the Al-Mafraq treatment plant, and establish agricultural projects in the western North Badiya region, through the establishment of new and effective recycling technology, as well as building the capacities of farmers and raising awareness about water management and effective irrigation systems. The Senior Urban Program Officer at UN-Habitat, Lubna Shaheen, stated that the program focuses on four strategic goals, aimed at reducing spatial inequality and poverty in communities, enhancing shared prosperity for cities and regions, promoting climate-related actions and improving urban environment, and preventing and responding to crises in urban areas effectively. The Regional Project",
+  "date": "01 February 2023"
+}

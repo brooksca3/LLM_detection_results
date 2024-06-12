@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f229458-3586-4c4d-a1e4-0c32282c2d3c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.596328735351562,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000660437683109194,
+          "perplexity": 111,
+          "sentence": "Margibi, Liberia, 05 March 2021 - Liberia received 96,000 COVID-19 vaccine doses shipped via the COVAX initiative, a partnership between CEPI, Gavi, UNICEF and WHO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008492431952618062,
+          "perplexity": 66,
+          "sentence": "The arrival of the vaccines in Liberia is part of the historic step towards achieving the goal of equitable distribution of COVID-19 vaccines globally, in what will be the largest vaccine procurement and supply operation in history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009638274204917252,
+          "perplexity": 21,
+          "sentence": "This delivery is part of a first wave of shipments that will continue to different countries in the coming days and weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008538251277059317,
+          "perplexity": 30,
+          "sentence": "The arrival of the 96,000 doses of the AstraZeneca vaccine, manufactured by the Serum Institute of India (SII), marks the first batch of vaccine shipped to Liberia by the COVAX initiative as part of its unprecedented efforts to deliver at least 2 billion doses of the vaccine globally by the end of 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007724366150796413,
+          "perplexity": 46,
+          "sentence": "Ahead of the arrival of the vaccines, Liberia received 97,000 syringes and 600 safety boxes that will be used for the administration and disposal of immunization waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007944544195197523,
+          "perplexity": 33,
+          "sentence": "The syringes are vital as the vaccine itself and it is critical to have adequate supply of syringes in Liberia ahead of the arrival of the vaccine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005934785003773868,
+          "perplexity": 59,
+          "sentence": "\"Today we are making history in Liberia with the arrival of the first doses of the COVID-19 vaccine into the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004490187275223434,
+          "perplexity": 81,
+          "sentence": "We are proud to be part of COVAX global cooperation which demonstrates the best of humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042213484994135797,
+          "perplexity": 39,
+          "sentence": "Vaccines save lives and we are all confident that this important milestone will allow Liberia to get back to business and continue our efforts to build back the economy of Liberia,\u201d Honorable Dr. Wilhelmina Jallah, Health Minister of the Republic of Liberia \u201cThe arrival of the first vaccines represents an important moment for Liberia as it gives the people a tool to halt a global disease that has already impacted the lives",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Margibi, Liberia, 05 March 2021 - Liberia received 96,000 COVID-19 vaccine doses shipped via the COVAX initiative, a partnership between CEPI, Gavi, UNICEF and WHO. The arrival of the vaccines in Liberia is part of the historic step towards achieving the goal of equitable distribution of COVID-19 vaccines globally, in what will be the largest vaccine procurement and supply operation in history. This delivery is part of a first wave of shipments that will continue to different countries in the coming days and weeks. The arrival of the 96,000 doses of the AstraZeneca vaccine, manufactured by the Serum Institute of India (SII), marks the first batch of vaccine shipped to Liberia by the COVAX initiative as part of its unprecedented efforts to deliver at least 2 billion doses of the vaccine globally by the end of 2021. Ahead of the arrival of the vaccines, Liberia received 97,000 syringes and 600 safety boxes that will be used for the administration and disposal of immunization waste. The syringes are vital as the vaccine itself and it is critical to have adequate supply of syringes in Liberia ahead of the arrival of the vaccine. \"Today we are making history in Liberia with the arrival of the first doses of the COVID-19 vaccine into the country. We are proud to be part of COVAX global cooperation which demonstrates the best of humanity. Vaccines save lives and we are all confident that this important milestone will allow Liberia to get back to business and continue our efforts to build back the economy of Liberia,\u201d Honorable Dr. Wilhelmina Jallah, Health Minister of the Republic of Liberia \u201cThe arrival of the first vaccines represents an important moment for Liberia as it gives the people a tool to halt a global disease that has already impacted the lives",
+  "date": "06 March 2021"
+}

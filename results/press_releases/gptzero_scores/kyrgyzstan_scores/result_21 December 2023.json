@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "60752b62-fff9-4bee-be2f-e36cf283a92b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022343487838710107,
+        "human": 0.9770163681570956,
+        "mixed": 0.0006401440041944493
+      },
+      "completely_generated_prob": 0.022343487838710107,
+      "confidence_category": "high",
+      "confidence_score": 0.9770163681570956,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022343487838710107,
+          "human": 0.9770163681570956,
+          "mixed": 0.0006401440041944493
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.029733657836914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.005360048729926348,
+          "perplexity": 49,
+          "sentence": "On behalf of the UN Country Team in Kyrgyzstan, UN Resident Coordinator Antje Grawe addressed relevant authorities of the Kyrgyz Republic in a letter expressing concern about the public dissemination of personal information and identities of women alleged to have engaged in prostitution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004246342461556196,
+          "perplexity": 49,
+          "sentence": "Close-up images of the women's faces and documents were featured in a video widely published in the media, following State Committee for National Security operations at a number of locations in Bishkek City and the Chui region, reportedly identified as massage parlors and brothels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005893419962376356,
+          "perplexity": 25,
+          "sentence": "Highlighting potential violations of the women's rights to privacy, non-discrimination, to be presumed innocent and not to be subjected to degrading treatment, she also emphasized the need to protect potential victims and witnesses of serious criminal offences, such as trafficking in human beings and forced prostitution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00613791448995471,
+          "perplexity": 27,
+          "sentence": "The UN Resident Coordinator called for a prompt review of the circumstances leading to the dissemination of the women's images to prevent similar incidents in the future and to provide protection and support to affected women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004033916629850864,
+          "perplexity": 41,
+          "sentence": "She also urged the authorities to identify and uphold the rights of potential victims and witnesses of trafficking or exploitation of prostitution among affected women, and to facilitate the immediate removal of all images of the concerned women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012094508856534958,
+          "perplexity": 21,
+          "sentence": "The Committee on the Elimination of Discrimination against Women, after its review in November 2021 of the fifth periodic report of the Kyrgyz Republic on the implementation of the UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), in its Concluding Observations welcomed the \u201cdirectives approved by the Ministry of Internal Affairs on the detection, identification and referral of victims of trafficking in persons and on the confidentiality of personal information of victims\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011332224821671844,
+          "perplexity": 65,
+          "sentence": "The Committee, inter alia, recommended the Kyrgyz Republic to \u201censure the early identification of victims of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On behalf of the UN Country Team in Kyrgyzstan, UN Resident Coordinator Antje Grawe addressed relevant authorities of the Kyrgyz Republic in a letter expressing concern about the public dissemination of personal information and identities of women alleged to have engaged in prostitution. Close-up images of the women\u2019s faces and documents were featured in a video widely published in the media, following State Committee for National Security operations at a number of locations in Bishkek City and the Chui region, reportedly identified as massage parlors and brothels. Highlighting potential violations of the women\u2019s rights to privacy, non-discrimination, to be presumed innocent and not to be subjected to degrading treatment, she also emphasized the need to protect potential victims and witnesses of serious criminal offences, such as trafficking in human beings and forced prostitution. The UN Resident Coordinator called for a prompt review of the circumstances leading to the dissemination of the women\u2019s images to prevent similar incidents in the future and to provide protection and support to affected women. She also urged the authorities to identify and uphold the rights of potential victims and witnesses of trafficking or exploitation of prostitution among affected women, and to facilitate the immediate removal of all images of the concerned women. The Committee on the Elimination of Discrimination against Women, after its review in November 2021 of the fifth periodic report of the Kyrgyz Republic on the implementation of the UN Convention on the Elimination of All Forms of Discrimination against Women (CEDAW), in its Concluding Observations welcomed the \u201cdirectives approved by the Ministry of Internal Affairs on the detection, identification and referral of victims of trafficking in persons and on the confidentiality of personal information of victims\u201d. The Committee, inter alia, recommended the Kyrgyz Republic to \u201censure the early identification of victims of",
+  "date": "21 December 2023"
+}

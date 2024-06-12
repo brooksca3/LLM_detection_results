@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c3f562b0-d4af-4ba8-af12-89cd1219ef72",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17972576021770018,
+        "human": 0.8193002166597645,
+        "mixed": 0.0009740231225353856
+      },
+      "completely_generated_prob": 0.17972576021770018,
+      "confidence_category": "low",
+      "confidence_score": 0.8193002166597645,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17972576021770018,
+          "human": 0.8193002166597645,
+          "mixed": 0.0009740231225353856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 82.52339935302734,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.2809540927410126,
+          "perplexity": 21,
+          "sentence": "The Food and Agriculture Organization of the United Nations and the Iraqi Ministry of Agriculture have announced the launch of the digital application \"Al-Rafidain for Agricultural Extension\" for the benefit of farmers throughout the Republic of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2875033915042877,
+          "perplexity": 42,
+          "sentence": "The launching ceremony was held at the Ministry's headquarters in Baghdad under the patronage of His Excellency the Minister of Agriculture Engineer Abbas Jabr Al-Alawi, represented by the Technical Deputy Minister Dr. Mithaq Al-Khafaji, Director General of Agricultural Extension, Mr. Munir Kredi, Dr. Hadi Hashim, and Dr. Salah El Hajj Hassan, FAO Representative in Iraq, as well as a large number of specialists, university experts, partners, and agricultural extension officers from all agricultural departments.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2748178243637085,
+          "perplexity": 109,
+          "sentence": "During the event, the digital application \"Al-Rafidain Agricultural Extension\", which serves both the crop and livestock sectors of agriculture was presented.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2683582305908203,
+          "perplexity": 290,
+          "sentence": "Participants urged agricultural extension officers to widely use the application and promote it among farmers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2607833445072174,
+          "perplexity": 60,
+          "sentence": "Dr. Mithaq Al-Khafaji stressed the importance of supporting successful experiments and projects that contribute to the development of the agricultural process, improve the agricultural reality and generalize them in all regions of Iraq, while adopting scientific methods of modern agriculture to improve the agricultural sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.256295770406723,
+          "perplexity": 55,
+          "sentence": "Dr Hadi Hashim stressed the importance of working with this application for its role in providing agricultural information and advice and expressed his gratitude to FAO for supporting the agricultural sector in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2579641342163086,
+          "perplexity": 53,
+          "sentence": "The Director General of the Agricultural Extension and Training Department stated that this project, the result of joint technical cooperation between the ministry and the FAO, will enable the adoption of a modern system for Iraqi agricultural extension through digital innovation and capacity development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2595955729484558,
+          "perplexity": 104,
+          "sentence": "Dr. Salah El Haj Hassan, stated in his opening speech that supporting digital agriculture and agricultural extension services is one of the organization's key initiatives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2764029800891876,
+          "perplexity": 30,
+          "sentence": "The main objective is to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations and the Iraqi Ministry of Agriculture have announced the launch of the digital application \"Al-Rafidain for Agricultural Extension\" for the benefit of farmers throughout the Republic of Iraq. The launching ceremony was held at the Ministry's headquarters in Baghdad under the patronage of His Excellency the Minister of Agriculture Engineer Abbas Jabr Al-Alawi, represented by the Technical Deputy Minister Dr. Mithaq Al-Khafaji, Director General of Agricultural Extension, Mr. Munir Kredi, Dr. Hadi Hashim, and Dr. Salah El Hajj Hassan, FAO Representative in Iraq , as well as a large number of specialists, university experts, partners, and agricultural extension officers from all agricultural departments. During the event, the digital application \"Al-Rafidain Agricultural Extension\", which serves both the crop and livestock sectors of agriculture was presented. Participants urged agricultural extension officers to widely use the application and promote it among farmers. Dr. Mithaq Al-Khafaji stressed the importance of supporting successful experiments and projects that contribute to the development of the agricultural process, improve the agricultural reality and generalize them in all regions of Iraq, while adopting scientific methods of modern agriculture to improve the agricultural sector. Dr Hadi Hashim stressed the importance of working with this application for its role in providing agricultural information and advice and expressed his gratitude to FAO for supporting the agricultural sector in Iraq. The Director General of the Agricultural Extension and Training Department stated that this project, the result of joint technical cooperation between the ministry and the FAO, will enable the adoption of a modern system for Iraqi agricultural extension through digital innovation and capacity development. Dr. Salah El Haj Hassan, stated in his opening speech that supporting digital agriculture and agricultural extension services is one of the organization's key initiatives. The main objective is to",
+  "date": "18 June 2023"
+}

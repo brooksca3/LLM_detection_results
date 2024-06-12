@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "096d0eb1-8fb4-492d-b353-bba3f13c9627",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.01966094970703,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014525838196277618,
+          "perplexity": 26,
+          "sentence": "Number of children without critical social protection increasing globally - ILO and UNICEF Multiple crises set to plunge more children into poverty creating an urgent need to scale-up social protection; new report warns GENEVA/NEW YORK, 2 March 2023 - The number of children without access to social protection is increasing year-on-year, leaving them at risk of poverty, hunger and discrimination, according to a new report released by the International Labour Organization (ILO) and UNICEF today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001346811041003093,
+          "perplexity": 43,
+          "sentence": "More than a billion reasons: The urgent need to build universal social protection for children warns that an additional 50 million children aged 0-15 missed out on a critical social protection provision - specifically, child benefits (paid in cash or tax credits) - between 2016 and 2020, driving up the total to 1.46 billion children under 15 globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013790372759103775,
+          "perplexity": 60,
+          "sentence": "\u201cUltimately, strengthened efforts to ensure adequate investment in universal social protection for children, ideally through universal child benefits to support families at all times, is the ethical and rational choice, and the one that paves the way to sustainable development and social justice,\u201d said Shahra Razavi, Director of the Social Protection Department at the ILO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013067718828096986,
+          "perplexity": 36,
+          "sentence": "According to the report, child and family benefit coverage rates fell or stagnated in every region in the world between 2016 and 2020, leaving no country on track to achieve the Sustainable Development Goal of achieving substantial social protection coverage by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013017572928220034,
+          "perplexity": 24,
+          "sentence": "In Latin America and the Caribbean, for example, coverage fell significantly from approximately 51 per cent to 42 per cent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012378393148537725,
+          "perplexity": 81,
+          "sentence": "In many other regions, coverage has stalled and remains low.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011782545334426686,
+          "perplexity": 15,
+          "sentence": "In Central Asia and Southern Asia; Eastern Asia and South-eastern Asia; Sub-Saharan Africa; and Western Asia and Northern Africa coverage rates have been at around 21 per cent, 14 per cent, 11 per cent and 28 per cent respectively since",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Number of children without critical social protection increasing globally \u2013 ILO and UNICEF Multiple crises set to plunge more children into poverty creating an urgent need to scale-up social protection; new report warns GENEVA/NEW YORK, 2 March 2023 - The number of children without access to social protection is increasing year-on-year, leaving them at risk of poverty, hunger and discrimination, according to a new report released by the International Labour Organization (ILO) and UNICEF today. More than a billion reasons: The urgent need to build universal social protection for children warns that an additional 50 million children aged 0-15 missed out on a critical social protection provision \u2013 specifically, child benefits (paid in cash or tax credits) \u2013 between 2016 and 2020, driving up the total to 1.46 billion children under 15 globally. \u201cUltimately, strengthened efforts to ensure adequate investment in universal social protection for children, ideally through universal child benefits to support families at all times, is the ethical and rational choice, and the one that paves the way to sustainable development and social justice,\u201d said Shahra Razavi, Director of the Social Protection Department at the ILO. According to the report, child and family benefit coverage rates fell or stagnated in every region in the world between 2016 and 2020, leaving no country on track to achieve the Sustainable Development Goal of achieving substantial social protection coverage by 2030. In Latin America and the Caribbean, for example, coverage fell significantly from approximately 51 per cent to 42 per cent. In many other regions, coverage has stalled and remains low. In Central Asia and Southern Asia; Eastern Asia and South-eastern Asia; Sub-Saharan Africa; and Western Asia and Northern Africa coverage rates have been at around 21 per cent, 14 per cent, 11 per cent and 28 per cent respectively since",
+  "date": "03 March 2023"
+}

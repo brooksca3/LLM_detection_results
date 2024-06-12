@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "db443d55-47ce-4525-a657-cee319780e13",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05168813087365124,
+        "human": 0.9476157326836061,
+        "mixed": 0.0006961364427427776
+      },
+      "completely_generated_prob": 0.05168813087365124,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476157326836061,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05168813087365124,
+          "human": 0.9476157326836061,
+          "mixed": 0.0006961364427427776
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 906.9337768554688,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.032083626836538315,
+          "perplexity": 44,
+          "sentence": "The \"Creative Jordan\" project aims to support Jordan's textile value chain in creating jobs and boosting the country's economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026853101328015327,
+          "perplexity": 49,
+          "sentence": "Amman - Funded by the Italian Government through the Italian Agency for Development Cooperation (AICS), the project \"Supporting the textile value chain to create employment and economic opportunities in Jordan\" - known under the name \"Creative Jordan\" - saw, on Tuesday, the graduation of 170 participants in a comprehensive training program.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02582443319261074,
+          "perplexity": 88,
+          "sentence": "The United Nations Industrial Development Organization (UNIDO) and the Design & Training Services (GSC), implementers of this successful project, organized the ceremony of certificate awarding for the participant designers and professionals from the garment and textile SMEs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023135632276535034,
+          "perplexity": 94,
+          "sentence": "Following a widespread call for applications, 170 participants were selected based on expert-designed eligibility criteria and the results of the conducted need assessment study to reach the right target.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023334356024861336,
+          "perplexity": 99,
+          "sentence": "The three-month, intensive training program (174 hours), which provided a professional qualification while complying with the highest international standards and practices, covered the following topics: Technical and skill development training programs including Pattern Making, garment production, and digital fashion, are available for SMEs and individuals individual designers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023045841604471207,
+          "perplexity": 60,
+          "sentence": "Business development training is provided to selected SMEs, GSC trainers, individual designers, and trainees, covering topics related to business development, marketing, and export and sourcing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02592596970498562,
+          "perplexity": 25,
+          "sentence": "It is worth noting that women represent more than 80% of the total participants in the trainings, which will enhance their participation in this sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02539978362619877,
+          "perplexity": 44,
+          "sentence": "The \"Creative Jordan\" project aims to support Jordan's textile value chain in creating jobs and boosting the country's economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026352379471063614,
+          "perplexity": 2932,
+          "sentence": "The two fashion brands \"JO!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.023224113509058952,
+          "perplexity": 83,
+          "sentence": "By Creative Jordan\" and \"Khayt,\" which serve as the storytelling umbrella for the fashion industry and will be further promoted in international markets, as well as providing technical training to the participants in the value chain, are the focus of one of the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The \"Creative Jordan\" project aims to support Jordan's textile value chain in creating jobs and boosting the country's economy. Amman - Funded by the Italian Government through the Italian Agency for Development Cooperation (AICS), the project \"Supporting the textile value chain to create employment and economic opportunities in Jordan\" - known under the name \"Creative Jordan\" - saw, on Tuesday, the graduation of 170 participants in a comprehensive training program. The United Nations Industrial Development Organization (UNIDO) and the Design & Training Services (GSC), implementers of this successful project, organized the ceremony of certificate awarding for the participant designers and professionals from the garment and textile SMEs. Following a widespread call for applications, 170 participants were selected based on expert-designed eligibility criteria and the results of the conducted need assessment study to reach the right target. The three-month, intensive training program (174 hours), which provided a professional qualification while complying with the highest international standards and practices, covered the following topics: Technical and skill development training programs including Pattern Making, garment production, and digital fashion, are available for SMEs and individuals individual designers. Business development training is provided to selected SMEs, GSC trainers, individual designers, and trainees, covering topics related to business development, marketing, and export and sourcing. It is worth noting that women represent more than 80% of the total participants in the trainings, which will enhance their participation in this sector. The \"Creative Jordan\" project aims to support Jordan's textile value chain in creating jobs and boosting the country's economy. The two fashion brands \"JO! By Creative Jordan\" and \"Khayt,\" which serve as the storytelling umbrella for the fashion industry and will be further promoted in international markets, as well as providing technical training to the participants in the value chain, are the focus of one of the",
+  "date": "21 February 2023"
+}

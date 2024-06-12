@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f1a5d3ac-c335-4a65-994a-9e3a239acaf0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 55.41851043701172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0045586987398564816,
+          "perplexity": 176,
+          "sentence": "Amman - UNHCR, the United Nations Refugee Agency, marks the 30 years anniversary of DAFI, the Albert Einstein German Academic Refugee Initiative Fund, a scholarship programme which allowed generations of refugees around the globe to go to university.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037452448159456253,
+          "perplexity": 53,
+          "sentence": "The programme was introduced to Jordan in 2007, and has provided 978 young refugees from in and outside camps with the means to pursue higher education opportunities in Jordanian universities over the years, of which 119 are currently enrolled, and an additional 15 joining this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005133161786943674,
+          "perplexity": 162,
+          "sentence": "DAFI ensures gender balance, with 62 per cent of the currently enrolled students being young ladies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004662287421524525,
+          "perplexity": 16,
+          "sentence": "Refugee students from Syria, Iraq, Sudan, and other countries, are majoring in a variety of fields, from medicine to engineering, linguistics, and computer sciences, among many other studies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004481171723455191,
+          "perplexity": 78,
+          "sentence": "The DAFI scholarship covers tuition fees, books, transportation expenses and a subsistence allowance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005277653224766254,
+          "perplexity": 44,
+          "sentence": "Without this support, many refugees would never have the chance to access higher education, taking into consideration the relatively high tuitions fees in Jordan, in a time where many refugees encounter challenges in securing their most basic needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0037363660521805286,
+          "perplexity": 34,
+          "sentence": "Mohammad, who arrived from Syria as a child, is about to complete his bachelor's degree in Arabic literature: \u201cI am one semester away from graduation, thanks to the DAFI scholarship programme\u201d he says, looking forward to starting a new chapter in his life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004771045874804258,
+          "perplexity": 46,
+          "sentence": "As of July 2022, 223,266 refugees in Jordan are between 18 and 35 years old, an age that comes with high expectations to complete their education and achieve their life goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005414181854575872,
+          "perplexity": 26,
+          "sentence": "However, access to higher education remains a major challenge for the majority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022133809980005026,
+          "perplexity": 56,
+          "sentence": "\u201cHigher education represents the beacon of hope for youth, motivating young women and men to achieve and be productive members of the host community, but also be part of the reconstruction of their home country",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - UNHCR, the United Nations Refugee Agency, marks the 30 years anniversary of DAFI, the Albert Einstein German Academic Refugee Initiative Fund, a scholarship programme which allowed generations of refugees around the globe to go to university. The programme was introduced to Jordan in 2007, and has provided 978 young refugees from in and outside camps with the means to pursue higher education opportunities in Jordanian universities over the years, of which 119 are currently enrolled, and an additional 15 joining this year. DAFI ensures gender balance, with 62 per cent of the currently enrolled students being young ladies. Refugee students from Syria, Iraq, Sudan, and other countries, are majoring in a variety of fields, from medicine to engineering, linguistics, and computer sciences, among many other studies. The DAFI scholarship covers tuition fees, books, transportation expenses and a subsistence allowance. Without this support, many refugees would never have the chance to access higher education, taking into consideration the relatively high tuitions fees in Jordan, in a time where many refugees encounter challenges in securing their most basic needs. Mohammad, who arrived from Syria as a child, is about to complete his bachelor\u2019s degree in Arabic literature: \u201cI am one semester away from graduation, thanks to the DAFI scholarship programme\u201d he says, looking forward to starting a new chapter in his life. As of July 2022, 223,266 refugees in Jordan are between 18 and 35 years old, an age that comes with high expectations to complete their education and achieve their life goals. However, access to higher education remains a major challenge for the majority. \u201cHigher education represents the beacon of hope for youth, motivating young women and men to achieve and be productive members of the host community, but also be part of the reconstruction of their home country",
+  "date": "18 August 2022"
+}

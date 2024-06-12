@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6a612eb5-d6b4-4a66-b0ca-fd4fe62b242d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010894550792945584,
+        "human": 0.9891054492070543,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010894550792945584,
+      "confidence_category": "high",
+      "confidence_score": 0.9891054492070543,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010894550792945584,
+          "human": 0.9891054492070543,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.73710632324219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007922613294795156,
+          "perplexity": 48,
+          "sentence": "New York: On the occasion of the World Children's Day, the Special Representative of the Secretary-General for Children and Armed Conflict, Ms. Virginia Gamba, witnessed virtually the signature of the Joint Action Plan between the United Nations and the Democratic Karen Benevolent Army (DBKA), the first Action Plan of its kind with an armed group in Myanmar to end and prevent the recruitment and use of children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009225298999808729,
+          "perplexity": 104,
+          "sentence": "\u201cBeing a trailblazer takes a lot of courage, and I commend General Saw Mu Shae and all the members of the Democratic Karen Benevolent Army for their commitment to the protection of children,\u201d said the Special Representative during the signing ceremony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009421047288924456,
+          "perplexity": 64,
+          "sentence": "\u201cThis is a proof of your willingness to abide by national and international norms and your pursuit of dialogue, which hopefully can also lead to lasting peace,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000808505283202976,
+          "perplexity": 113,
+          "sentence": "\u201cI believe this first Joint Action Plan signed today with an armed group in Myanmar will bring positive change for children while reinforcing the dialogue in the ongoing peace processes,\u201d noted the Special Representative recalling the recent 5th anniversary of the signing of the National Ceasefire Agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009676837362349033,
+          "perplexity": 25,
+          "sentence": "She commended the UN Country Task Force on Monitoring and Reporting (CTFMR), led by UNICEF and the UN Resident Coordinator's Office, for their tireless efforts to engage with the various parties to conflict in Myanmar, and shared her strong desire for them to continue this important work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006345353904180229,
+          "perplexity": 74,
+          "sentence": "She hoped that more Action Plans may soon be signed and implemented with parties listed in annexes of the Secretary-General's annual report on children and armed conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007170160533860326,
+          "perplexity": 27,
+          "sentence": "The Special Representative also thanked His Excellency Dr. Tin Myo Win, the Chairman of the Peace Commission and the Ministry of Foreign Affairs of Myanmar for their continued support to the United Nations in facilitating the implementation of the Children and Armed",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York: On the occasion of the World Children\u2019s Day, the Special Representative of the Secretary-General for Children and Armed Conflict, Ms. Virginia Gamba, witnessed virtually the signature of the Joint Action Plan between the United Nations and the Democratic Karen Benevolent Army (DBKA), the first Action Plan of its kind with an armed group in Myanmar to end and prevent the recruitment and use of children. \u201cBeing a trailblazer takes a lot of courage, and I commend General Saw Mu Shae and all the members of the Democratic Karen Benevolent Army for their commitment to the protection of children,\u201d said the Special Representative during the signing ceremony. \u201cThis is a proof of your willingness to abide by national and international norms and your pursuit of dialogue, which hopefully can also lead to lasting peace,\u201d she added. \u201cI believe this first Joint Action Plan signed today with an armed group in Myanmar will bring positive change for children while reinforcing the dialogue in the ongoing peace processes,\u201d noted the Special Representative recalling the recent 5th anniversary of the signing of the National Ceasefire Agreement. She commended the UN Country Task Force on Monitoring and Reporting (CTFMR), led by UNICEF and the UN Resident Coordinator\u2019s Office, for their tireless efforts to engage with the various parties to conflict in Myanmar, and shared her strong desire for them to continue this important work. She hoped that more Action Plans may soon be signed and implemented with parties listed in annexes of the Secretary-General\u2019s annual report on children and armed conflict. The Special Representative also thanked His Excellency Dr. Tin Myo Win, the Chairman of the Peace Commission and the Ministry of Foreign Affairs of Myanmar for their continued support to the United Nations in facilitating the implementation of the Children and Armed",
+  "date": "20 November 2020"
+}

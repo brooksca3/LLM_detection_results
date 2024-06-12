@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9c8582c8-8abf-4648-97ff-2e9a57afb85f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05916448717042483,
+        "human": 0.8926274121721919,
+        "mixed": 0.048208100657383186
+      },
+      "completely_generated_prob": 0.05916448717042483,
+      "confidence_category": "medium",
+      "confidence_score": 0.8926274121721919,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05916448717042483,
+          "human": 0.8926274121721919,
+          "mixed": 0.048208100657383186
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.85873794555664,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.08885198086500168,
+          "perplexity": 51,
+          "sentence": "On February 7th, the United Nations participated in the CANTO 39th Annual General Meeting which was co-hosted by Telesur in Paramaribo Suriname.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07252661138772964,
+          "perplexity": 196,
+          "sentence": "The UN fundamentally believes that ICT is a catalytic driver to enable achieve for the SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06689447164535522,
+          "perplexity": 56,
+          "sentence": "While ICT forms the backbone of today's digital economy, it also has enormous potential to fast forward progress on the Goals and improve people's lives in fundamental ways.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.062010835856199265,
+          "perplexity": 39,
+          "sentence": "ICT is specifically mentioned in four SDG Targets in Agenda 2030 and it can be linked to Education (SDG 4), Gender Equality (SDG 5) and Industry, Innovation & Infrastructure (SDG 9), among others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.038205090910196304,
+          "perplexity": 90,
+          "sentence": "The COVID-19 pandemic highlighted just how quickly digital connectivity is fast becoming the global metric of inclusion, with more than 2 billion people being left offline during the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03812924399971962,
+          "perplexity": 60,
+          "sentence": "The digital divide, which is the lack of affordable internet and appropriate digital skills, prevented many people, from working or studying from home during the crisis, and one in three children missed out on remote learning when schools were shut down.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04094791039824486,
+          "perplexity": 81,
+          "sentence": "Through SDG 9, the UN works to ensure that broadband networks and connectivity are understood as an essential infrastructure for development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.15615637600421906,
+          "perplexity": 37,
+          "sentence": "During the CANTO Annual General Meeting held in Paramaribo, the UN highlighted the vast opportunities for ICT to play a role in the advancement of the SDGs in Suriname.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1042543277144432,
+          "perplexity": 30,
+          "sentence": "From digital financial services as a tool to help people out of poverty, to the crucial role satellite monitoring plays in climate action, to the importance of early warning systems in extreme weather events, ICT plays a significant role in sustainable development.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On February 7th, the United Nations participated in the CANTO 39th Annual General Meeting which was co-hosted by Telesur in Paramaribo Suriname. The UN fundamentally believes that ICT is a catalytic driver to enable achieve for the SDGs. While ICT forms the backbone of today\u2019s digital economy, it also has enormous potential to fast forward progress on the Goals and improve people\u2019s lives in fundamental ways. ICT is specifically mentioned in four SDG Targets in Agenda 2030 and it can be linked to Education (SDG 4), Gender Equality (SDG 5) and Industry, Innovation & Infrastructure (SDG 9), among others. The COVID-19 pandemic highlighted just how quickly digital connectivity is fast becoming the global metric of inclusion, with more than 2 billion people being left offline during the pandemic. The digital divide, which is the lack of affordable internet and appropriate digital skills, prevented many people, from working or studying from home during the crisis, and one in three children missed out on remote learning when schools were shut down. Through SDG 9, the UN works to ensure that broadband networks and connectivity are understood as an essential infrastructure for development. During the CANTO Annual General Meeting held in Paramaribo, the UN highlighted the vast opportunities for ICT to play a role in the advancement of the SDGs in Suriname. From digital financial services as a tool to help people out of poverty, to the crucial role satellite monitoring plays in climate action, to the importance of early warning systems in extreme weather events, ICT plays a significant role in sustainable development.",
+  "date": "03 March 2023"
+}

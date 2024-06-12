@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2e8e2f20-34cb-405d-9e6a-d641deb139ba",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.275623321533203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013684348959941417,
+          "perplexity": 24,
+          "sentence": "Kuwait, 15 June 2021 - The World Health Organization (WHO) today opened a Country Office in Kuwait in a move set to strengthen its presence and cooperation with the Government to support its efforts in advancing the health and well-being of the country's population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001313610700890422,
+          "perplexity": 24,
+          "sentence": "The newly established office will enable WHO to work on the ground with United Nations agencies, partners, the authorities, and other stakeholders in health, development and other sectors to foster public health collaboration at the national, regional and international levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001314811233896762,
+          "perplexity": 84,
+          "sentence": "Kuwait has long been an influential and strategic Member State and partner for WHO in the Eastern Mediterranean Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012818591494578868,
+          "perplexity": 43,
+          "sentence": "Kuwait contributed to and enhanced the global and regional response to the COVID-19, while the Ministry of Health led a well-coordinated multisectoral response to the pandemic within the country and strengthened national capacity across all levels of government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013066123938187957,
+          "perplexity": 83,
+          "sentence": "The Minister of Health of Kuwait, Dr Bassel Humoud Hamad Al-Sabah, formally inaugurated WHO's new premises in Kuwait City in a ceremony, in presence of HE Deputy Minister of Foreign Affairs Ambassador Majdi AlDhafiri.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001302831369685009,
+          "perplexity": 47,
+          "sentence": "The ceremony was attended virtually by WHO Director-General Dr Tedros Adhanom Ghebreyesus and Regional Director for the Eastern Mediterranean Dr Ahmed Al-Mandhari, and was hosted by the Representative of the United Nations Secretary-General and Resident Coordinator in Kuwait, Dr. Tarek El-Sheikh, and WHO's Representative in Kuwait, Dr Assad Hafeez.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001233911607414484,
+          "perplexity": 62,
+          "sentence": "\u201cWith the establishment of the new WHO Country Office, we look forward to forging an even stronger partnership and greater collaboration, and to seeing its impact on improving public health in Kuwait,\u201d said WHO Director-General Dr Tedros.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012281001545488834,
+          "perplexity": 81,
+          "sentence": "\u201cAs one of the first responders to the COVID-19 appeal, Kuwait's contributions have played a critical role in helping WHO and health partners respond to the pandemic and in saving lives, particularly of the most vulnerable.\u201d From his side",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kuwait, 15 June 2021 \u2013 The World Health Organization (WHO) today opened a Country Office in Kuwait in a move set to strengthen its presence and cooperation with the Government to support its efforts in advancing the health and well-being of the country\u2019s population. The newly established office will enable WHO to work on the ground with United Nations agencies, partners, the authorities, and other stakeholders in health, development and other sectors to foster public health collaboration at the national, regional and international levels. Kuwait has long been an influential and strategic Member State and partner for WHO in the Eastern Mediterranean Region. Kuwait contributed to and enhanced the global and regional response to the COVID-19, while the Ministry of Health led a well-coordinated multisectoral response to the pandemic within the country and strengthened national capacity across all levels of government. The Minister of Health of Kuwait, Dr Bassel Humoud Hamad Al-Sabah, formally inaugurated WHO\u2019s new premises in Kuwait City in a ceremony, in presence of HE Deputy Minister of Foreign Affairs Ambassador Majdi AlDhafiri. The ceremony was attended virtually by WHO Director-General Dr Tedros Adhanom Ghebreyesus and Regional Director for the Eastern Mediterranean Dr Ahmed Al-Mandhari, and was hosted by the Representative of the United Nations Secretary-General and Resident Coordinator in Kuwait, Dr. Tarek El-Sheikh, and WHO\u2019s Representative in Kuwait, Dr Assad Hafeez. \u201cWith the establishment of the new WHO Country Office, we look forward to forging an even stronger partnership and greater collaboration, and to seeing its impact on improving public health in Kuwait,\u201d said WHO Director-General Dr Tedros. \u201cAs one of the first responders to the COVID-19 appeal, Kuwait\u2019s contributions have played a critical role in helping WHO and health partners respond to the pandemic and in saving lives, particularly of the most vulnerable.\u201d From his side",
+  "date": "15 June 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed04e8f1-cc33-468d-8c57-68bcf389ed88",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 105.31822204589844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017225132614839822,
+          "perplexity": 59,
+          "sentence": "Yogyakarta, 7 March 2023 - The representative of the United Nations (UN) Secretary-General in Indonesia, Valerie Julliand, visited Universitas Gadjah Mada (UGM) today and delivered a public lecture on the growing gender inequality including the digital divide between men and women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017197329725604504,
+          "perplexity": 86,
+          "sentence": "Under the theme of \u201cDigitALL: Innovation and technology for gender equality\u201d, Ms Julliand highlighted the importance of breaking stereotypes, biases, and structural barriers in realising gender equality, in an exchange with the Social and Political Science Faculty (FISIPOL) students and general public, as part of the International Women's Day observance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016376470739487559,
+          "perplexity": 24,
+          "sentence": "In Indonesia, according to the National Socioeconomic Survey 2020, nationally, the percentage of STEM (Science, Technology, Engineering and Mathematics) graduates in higher education is still low - 32% - and dominated by men graduates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016866595251485705,
+          "perplexity": 67,
+          "sentence": "According to UNESCO, 61% of women consider gender stereotype when looking for employment; 50% of women is least attracted to work in the STEM field because of men's domination.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016659573884680867,
+          "perplexity": 27,
+          "sentence": "Meanwhile, globally, men are 21 percent more likely to be online than women, and that in the tech industry, men outnumber women two to one, with an even worse ration - five to one - in Artificial Intelligence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001604122226126492,
+          "perplexity": 27,
+          "sentence": "To address these issues, the UN calls for action on several fronts, including closing all gaps in digital access and skills, removing systemic barriers and supporting women and girls' participation and leadership in STEM education and careers, creating technology that meets the needs of women and girls, and addressing technology-facilitated gender-based violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014765812375117093,
+          "perplexity": 110,
+          "sentence": "Speaking at the lecture, Ms Julliand said \u201cThe UN system in Indonesia works with multiple stakeholders to provide access to digital entrepreneurship skills development, strengthening and pushing for an enabling environment for women's economic empowerment, and promoting women and girls in STEM and innovation incubators, and continuously cultivating champions of change\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014572007057722658,
+          "perplexity": 342,
+          "sentence": "Dean of FISIPOL, Dr. Wawan",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Yogyakarta, 7 March 2023 \u2013 The representative of the United Nations (UN) Secretary-General in Indonesia, Valerie Julliand, visited Universitas Gadjah Mada (UGM) today and delivered a public lecture on the growing gender inequality including the digital divide between men and women. Under the theme of \u201cDigitALL: Innovation and technology for gender equality\u201d, Ms Julliand highlighted the importance of breaking stereotypes, biases, and structural barriers in realising gender equality, in an exchange with the Social and Political Science Faculty (FISIPOL) students and general public, as part of the International Women\u2019s Day observance. In Indonesia, according to the National Socioeconomic Survey 2020, nationally, the percentage of STEM (Science, Technology, Engineering and Mathematics) graduates in higher education is still low \u2013 32% - and dominated by men graduates. According to UNESCO, 61% of women consider gender stereotype when looking for employment; 50% of women is least attracted to work in the STEM field because of men's domination. Meanwhile, globally, men are 21 percent more likely to be online than women, and that in the tech industry, men outnumber women two to one, with an even worse ration - five to one - in Artificial Intelligence. To address these issues, the UN calls for action on several fronts, including closing all gaps in digital access and skills, removing systemic barriers and supporting women and girls\u2019 participation and leadership in STEM education and careers, creating technology that meets the needs of women and girls, and addressing technology-facilitated gender-based violence. Speaking at the lecture, Ms Julliand said \u201cThe UN system in Indonesia works with multiple stakeholders to provide access to digital entrepreneurship skills development, strengthening and pushing for an enabling environment for women\u2019s economic empowerment, and promoting women and girls in STEM and innovation incubators, and continuously cultivating champions of change\u201d. Dean of FISIPOL, Dr. Wawan",
+  "date": "07 March 2023"
+}

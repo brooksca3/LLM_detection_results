@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "35e6aa38-1a94-4352-8474-12f9145fc985",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03008421017990212,
+        "human": 0.9565261976836907,
+        "mixed": 0.013389592136407136
+      },
+      "completely_generated_prob": 0.03008421017990212,
+      "confidence_category": "high",
+      "confidence_score": 0.9565261976836907,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03008421017990212,
+          "human": 0.9565261976836907,
+          "mixed": 0.013389592136407136
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.6078987121582,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.021772630512714386,
+          "perplexity": 25,
+          "sentence": "The findings indicate that damages and losses for small-scale crop and livestock producers exceed USD 3.85 billion The war in Ukraine and its economic effects have caused major damage to small farmers' production and incomes, as is stated in the new report released by the Food and Agriculture Organization of the United Nations (FAO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015848321840167046,
+          "perplexity": 58,
+          "sentence": "The Impact of the war on agricultural enterprises: Findings of a nationwide survey of agricultural enterprises with land up to 250 hectares surveyed 1 927 small-scale crop and livestock producers in 23 oblasts, including selected rayons in Donetska, Kharkivska, Khersonska and Zaporizka oblasts that are under the control of the Government of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013820401392877102,
+          "perplexity": 32,
+          "sentence": "The assessment provides an overview of the impact of the war on small-scale farmers in Ukraine, as well as regional analysis of specific western, central, and front-line oblasts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011308521963655949,
+          "perplexity": 36,
+          "sentence": "The majority of interviewees are small enterprises specialized in crops production (81 percent), followed by those engaged in both crop and livestock production (10 percent), as well as specific small-scale livestock production enterprises (9 percent).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0098930848762393,
+          "perplexity": 146,
+          "sentence": "\u201cThe survey shows the disturbing situation that agricultural producers are facing due to the war\u201d said Pierre Vauthier, head of the FAO Ukraine Country Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007410578895360231,
+          "perplexity": 52,
+          "sentence": "\u201cPrior to the war, the Ukrainian agriculture sector produced sufficient fruits, vegetables, crop and livestock products to feed around 400 million people globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0074280318804085255,
+          "perplexity": 27,
+          "sentence": "The war has continuously interrupted the transportation of foods both within and outside the country, threatening the food security of millions around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005503784865140915,
+          "perplexity": 42,
+          "sentence": "The data from this assessment will help FAO, the Government of Ukraine, and partners identify urgent needs as well as geographical areas to invest in and support smallholder farmers to withstand the current situation and recover quickly.\u201d The study showed an almost eight percent decrease in the total number of small-scale producers, of which one percent are livestock",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The findings indicate that damages and losses for small-scale crop and livestock producers exceed USD 3.85 billion The war in Ukraine and its economic effects have caused major damage to small farmers' production and incomes, as is stated in the new report released by the Food and Agriculture Organization of the United Nations (FAO). The Impact of the war on agricultural enterprises: Findings of a nationwide survey of agricultural enterprises with land up to 250 hectares surveyed 1 927 small-scale crop and livestock producers in 23 oblasts, including selected rayons in Donetska, Kharkivska, Khersonska and Zaporizka oblasts that are under the control of the Government of Ukraine. The assessment provides an overview of the impact of the war on small-scale farmers in Ukraine, as well as regional analysis of specific western, central, and front-line oblasts. The majority of interviewees are small enterprises specialized in crops production (81 percent), followed by those engaged in both crop and livestock production (10 percent), as well as specific small-scale livestock production enterprises (9 percent). \u201cThe survey shows the disturbing situation that agricultural producers are facing due to the war\u201d said Pierre Vauthier, head of the FAO Ukraine Country Office. \u201cPrior to the war, the Ukrainian agriculture sector produced sufficient fruits, vegetables, crop and livestock products to feed around 400 million people globally. The war has continuously interrupted the transportation of foods both within and outside the country, threatening the food security of millions around the world. The data from this assessment will help FAO, the Government of Ukraine, and partners identify urgent needs as well as geographical areas to invest in and support smallholder farmers to withstand the current situation and recover quickly.\u201d The study showed an almost eight percent decrease in the total number of small-scale producers, of which one percent are livestock",
+  "date": "02 June 2023"
+}

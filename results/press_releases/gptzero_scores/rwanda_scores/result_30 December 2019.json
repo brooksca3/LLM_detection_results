@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9cb8496b-16f4-4cd4-90f5-f225db7057c3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03612208705391867,
+        "human": 0.9632556547711646,
+        "mixed": 0.000622258174916773
+      },
+      "completely_generated_prob": 0.03612208705391867,
+      "confidence_category": "high",
+      "confidence_score": 0.9632556547711646,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03612208705391867,
+          "human": 0.9632556547711646,
+          "mixed": 0.000622258174916773
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.429147720336914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003954424522817135,
+          "perplexity": 30,
+          "sentence": "Communique on behalf of Mr. Fode Ndiaye, UN Resident Coordinator, Rwanda The Joint Sustainable Development Goal (SDG) Fund set up by the Member States of the United Nations to accelerate the implementation of the SDGs globally has allocated 2,000,000 USD to the United Nations in Rwanda to implement a joint programme that will contribute to the Government of Rwanda's efforts for integrated social protection to end poverty in all its forms, leaving no one behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036534464452415705,
+          "perplexity": 49,
+          "sentence": "The programme will be implemented over a two-year period from 2020-2021 by UNICEF, WFP, FAO and the Office of the UN Resident Coordinator (RCO) with a coordinating role, through a partnership with the Government of Rwanda and national partners; Ministry of Local Government (MINALOC) as lead, Ministry in charge of Emergency Management (MINEMA), Ministry of Agriculture and Animal Resources (MINAGRI), and Local Administrative Entities Development Agency (LODA) focusing on Kirehe, Karongi, Burera, Nyamagabe, and Rutsiro Districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033835198264569044,
+          "perplexity": 38,
+          "sentence": "The three implementing agencies will add their own resources to the joint programme with an amount of 1,040,000 USD putting the total available funds at 3,040,000 USD.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.050235994160175323,
+          "perplexity": 87,
+          "sentence": "The \u201cJoint Programme on Accelerating Integrated Policy interventions to Promote Social Protection in Rwanda\u201d aims to provide innovative and catalytic solutions to deliver transformative results to the nation's existing social protection framework.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.044902246445417404,
+          "perplexity": 77,
+          "sentence": "The programme's integrated strategy involves supporting the Government of Rwanda on multiple levels, from enhancing the coordination around social protection at policy level, strengthen the existing systems in social protection to enhance the effective delivery of services and support innovative poverty reduction and community-led initiatives at decentralized level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0440952442586422,
+          "perplexity": 65,
+          "sentence": "The Government of Rwanda represented by MINALOC has led the process to ensure that the programme contributes to the government's current needs and vision for the social protection sector and that it will contribute directly to government national priorities for poverty eradication",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Communique on behalf of Mr. Fode Ndiaye, UN Resident Coordinator, Rwanda The Joint Sustainable Development Goal (SDG) Fund set up by the Member States of the United Nations to accelerate the implementation of the SDGs globally has allocated 2,000,000 USD to the United Nations in Rwanda to implement a joint programme that will contribute to the Government of Rwanda\u2019s efforts for integrated social protection to end poverty in all its forms, leaving no one behind. The programme will be implemented over a two-year period from 2020-2021 by UNICEF, WFP, FAO and the Office of the UN Resident Coordinator (RCO) with a coordinating role, through a partnership with the Government of Rwanda and national partners; Ministry of Local Government (MINALOC) as lead, Ministry in charge of Emergency Management (MINEMA), Ministry of Agriculture and Animal Resources (MINAGRI), and Local Administrative Entities Development Agency (LODA) focusing on Kirehe, Karongi, Burera, Nyamagabe, and Rutsiro Districts. The three implementing agencies will add their own resources to the joint programme with an amount of 1,040,000 USD putting the total available funds at 3,040,000 USD. The \u201cJoint Programme on Accelerating Integrated Policy interventions to Promote Social Protection in Rwanda\u201d aims to provide innovative and catalytic solutions to deliver transformative results to the nation\u2019s existing social protection framework. The programme\u2019s integrated strategy involves supporting the Government of Rwanda on multiple levels, from enhancing the coordination around social protection at policy level, strengthen the existing systems in social protection to enhance the effective delivery of services and support innovative poverty reduction and community-led initiatives at decentralized level. The Government of Rwanda represented by MINALOC has led the process to ensure that the programme contributes to the government\u2019s current needs and vision for the social protection sector and that it will contribute directly to government national priorities for poverty eradication",
+  "date": "30 December 2019"
+}

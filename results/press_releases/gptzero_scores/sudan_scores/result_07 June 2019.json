@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8aad77ce-522e-43c7-bbaf-9d2b7fc4fa36",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17406313434379872,
+        "human": 0.8249311618886916,
+        "mixed": 0.001005703767509698
+      },
+      "completely_generated_prob": 0.17406313434379872,
+      "confidence_category": "low",
+      "confidence_score": 0.8249311618886916,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17406313434379872,
+          "human": 0.8249311618886916,
+          "mixed": 0.001005703767509698
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.548139572143555,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.1934545785188675,
+          "perplexity": 29,
+          "sentence": "WHO is gravely concerned about the recent impact of violence in Sudan on people in need, health workers and medical facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19759123027324677,
+          "perplexity": 36,
+          "sentence": "Incursions into hospitals in Khartoum have resulted in emergency services being shut down, the unwarranted transfer of patients, injuries to five medical staff and patients, and threats to others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19257713854312897,
+          "perplexity": 51,
+          "sentence": "Health care workers appear to have been targeted for fulfilling their professional duties in providing care to the injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19919687509536743,
+          "perplexity": 48,
+          "sentence": "Mobile health tent clinics, which were set up to treat injured protestors, have also been set on fire and destroyed; medical equipment looted, and health care workers assaulted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2060835063457489,
+          "perplexity": 62,
+          "sentence": "Rapes of female health workers have also been reported.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.19991137087345123,
+          "perplexity": 20,
+          "sentence": "These actions represent a total and unacceptable violation of international human rights law and must stop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1962386518716812,
+          "perplexity": 44,
+          "sentence": "Health care, especially emergency services, should be protected from political interference and security operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20375476777553558,
+          "perplexity": 18,
+          "sentence": "Health workers must be allowed to treat the injured and sick, without concern for their own safety or that of their patients.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1978156864643097,
+          "perplexity": 16,
+          "sentence": "We call for an immediate cessation of all activities that put the lives of health staff and patients at risk and disrupt the delivery of essential health services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.18043217062950134,
+          "perplexity": 16,
+          "sentence": "WHO, together with the Federal Ministry of Health of Sudan, is continuing to play a critical role in ensuring that hospitals remain operational and that essential medicines are brought into the country in a timely manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.17272381484508514,
+          "perplexity": 56,
+          "sentence": "Nine trucks carrying WHO medical supplies have already arrived in Khartoum and priority states for distribution to hospitals and health facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1706913858652115,
+          "perplexity": 27,
+          "sentence": "WHO will continue to monitor the situation and speak out as necessary about this unacceptable situation that has not only resulted in deaths and injuries, but also attacks against the very professionals and facilities meant to help.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WHO is gravely concerned about the recent impact of violence in Sudan on people in need, health workers and medical facilities. Incursions into hospitals in Khartoum have resulted in emergency services being shut down, the unwarranted transfer of patients, injuries to five medical staff and patients, and threats to others. Health care workers appear to have been targeted for fulfilling their professional duties in providing care to the injured. Mobile health tent clinics, which were set up to treat injured protestors, have also been set on fire and destroyed; medical equipment looted, and health care workers assaulted. Rapes of female health workers have also been reported. These actions represent a total and unacceptable violation of international human rights law and must stop. Health care, especially emergency services, should be protected from political interference and security operations. Health workers must be allowed to treat the injured and sick, without concern for their own safety or that of their patients. We call for an immediate cessation of all activities that put the lives of health staff and patients at risk and disrupt the delivery of essential health services. WHO, together with the Federal Ministry of Health of Sudan, is continuing to play a critical role in ensuring that hospitals remain operational and that essential medicines are brought into the country in a timely manner. Nine trucks carrying WHO medical supplies have already arrived in Khartoum and priority states for distribution to hospitals and health facilities. WHO will continue to monitor the situation and speak out as necessary about this unacceptable situation that has not only resulted in deaths and injuries, but also attacks against the very professionals and facilities meant to help.",
+  "date": "07 June 2019"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b8ce52f0-797d-4c8a-a075-14dca3db1bfc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.328401565551758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00047521363012492657,
+          "perplexity": 18,
+          "sentence": "Violent extremism leading to terrorism remains a serious threat to international peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002505565353203565,
+          "perplexity": 64,
+          "sentence": "It is neither new nor exclusive of any region, nationality or system of belief.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002638750593177974,
+          "perplexity": 41,
+          "sentence": "As a result of previous cross-regional meetings and the recommendations of international experts and Member States, UNODC presented a draft Roadmap for on the development of a South Asian Network on Prevention of Violent Extremism, under the project \u201cStrengthening the capacity of Sri Lanka to prevent and counter terrorism and violent extremism through effective criminal justice responses\u201d funded by Germany.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029480617376975715,
+          "perplexity": 57,
+          "sentence": "Working towards the establishment of the regional Network, UNODC's Terrorism Prevention Branch delivered an online regional consultation meeting with practitioners from Bangladesh, Maldives, Nepal and Sri Lanka, working in the field of preventing violent extremism (PVE).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028617720818147063,
+          "perplexity": 79,
+          "sentence": "The aim of the event was topromote the development of a PVE Network for South Asia and partnerships between the public sector, local communities and civil society organizations for preventing and countering violent extremism leading to terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002668269444257021,
+          "perplexity": 27,
+          "sentence": "The online meeting, which took place on 15-16 July 2020, was opened by Brigadier General Zakariyya Mansoor, Director General of the National Counter Terrorism Centre of Maldives (NCTC) together with His Excellency Mr. J\u00f6rn Rohde, German Ambassador for Sri Lanka and the Maldives, and Mr. Sergey Kapinos, Representative of UNODC's Regional Office for South Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004016983148176223,
+          "perplexity": 83,
+          "sentence": "During the consultation, practitioners discussed the potential benefits of a regional PVE Network for South Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003769279574044049,
+          "perplexity": 45,
+          "sentence": "National counterparts also expressed their desire to further adapt the roadmap to their particular national needs, as well as to request further technical assistance from UNODC in the process",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Violent extremism leading to terrorism remains a serious threat to international peace and security. It is neither new nor exclusive of any region, nationality or system of belief. As a result of previous cross-regional meetings and the recommendations of international experts and Member States, UNODC presented a draft Roadmap for on the development of a South Asian Network on Prevention of Violent Extremism, under the project \u201cStrengthening the capacity of Sri Lanka to prevent and counter terrorism and violent extremism through effective criminal justice responses\u201d funded by Germany. Working towards the establishment of the regional Network, UNODC\u2019s Terrorism Prevention Branch delivered an online regional consultation meeting with practitioners from Bangladesh, Maldives, Nepal and Sri Lanka, working in the field of preventing violent extremism (PVE). The aim of the event was topromote the development of a PVE Network for South Asia and partnerships between the public sector, local communities and civil society organizations for preventing and countering violent extremism leading to terrorism. The online meeting, which took place on 15-16 July 2020, was opened by Brigadier General Zakariyya Mansoor, Director General of the National Counter Terrorism Centre of Maldives (NCTC) together with His Excellency Mr. J\u00f6rn Rohde, German Ambassador for Sri Lanka and the Maldives, and Mr. Sergey Kapinos, Representative of UNODC\u2019s Regional Office for South Asia. During the consultation, practitioners discussed the potential benefits of a regional PVE Network for South Asia. National counterparts also expressed their desire to further adapt the roadmap to their particular national needs, as well as to request further technical assistance from UNODC in the process",
+  "date": "16 July 2020"
+}

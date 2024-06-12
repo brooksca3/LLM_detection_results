@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dd69c049-a4b5-4fa5-bdcc-90ee0accdf4a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.23430417590895938,
+        "human": 0.76442601343749,
+        "mixed": 0.0012698106535506478
+      },
+      "completely_generated_prob": 0.23430417590895938,
+      "confidence_category": "low",
+      "confidence_score": 0.76442601343749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.23430417590895938,
+          "human": 0.76442601343749,
+          "mixed": 0.0012698106535506478
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.031208992004395,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.48429206013679504,
+          "perplexity": 27,
+          "sentence": "The members of the Security Council condemned the Myanmar military's execution of opposition activists over the weekend.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.48224878311157227,
+          "perplexity": 41,
+          "sentence": "They recalled the Secretary-General's statement of 25 July 2022 and echoed his call for the immediate release of all arbitrarily detained prisoners, including President Win Myint and State Counsellor Aung San Suu Kyi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4785676896572113,
+          "perplexity": 31,
+          "sentence": "The members of the Security Council also recalled the ASEAN Chair's Statement of 25 July 2022, which expressed ASEAN's denunciation and strong disappointment at the execution despite the appeals of the ASEAN Chair and some ASEAN member states for the sentences to be reconsidered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.46269822120666504,
+          "perplexity": 55,
+          "sentence": "They noted ASEAN's view that implementation of the death sentences was highly reprehensible and presented a gross lack of will to support the efforts of the ASEAN Chair in expediting progress on the implementation of the Five Point Consensus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4741404354572296,
+          "perplexity": 33,
+          "sentence": "They noted ASEAN's call for utmost restraint, patience and efforts to avoid escalating the situation, and for all parties concerned to desist from taking actions that would only further aggravate the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4569604992866516,
+          "perplexity": 29,
+          "sentence": "The members of the Security Council reiterated their strong support to ASEAN and the efforts of the ASEAN Chair and echoed ASEAN's call for concrete actions to effectively and fully implement the Five Point Consensus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4565718173980713,
+          "perplexity": 24,
+          "sentence": "They underlined the important role of the United Nations Special Envoy of the Secretary-General on Myanmar, and encouraged close coordination with the ASEAN Special Envoy to ensure synergy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.49493104219436646,
+          "perplexity": 24,
+          "sentence": "The members of the Security Council called for the pursuance of dialogue with all parties concerned and reconciliation in accordance with the will and interests of the people of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.5059016942977905,
+          "perplexity": 12,
+          "sentence": "They also called for an immediate cessation of all forms of violence, including attacks on infrastructure, health and education facilities, for full respect for human rights and the rule of law, and for full, safe and unimpeded humanitarian access to all those",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The members of the Security Council condemned the Myanmar military\u2019s execution of opposition activists over the weekend. They recalled the Secretary-General\u2019s statement of 25 July 2022 and echoed his call for the immediate release of all arbitrarily detained prisoners, including President Win Myint and State Counsellor Aung San Suu Kyi. The members of the Security Council also recalled the ASEAN Chair\u2019s Statement of 25 July 2022, which expressed ASEAN\u2019s denunciation and strong disappointment at the execution despite the appeals of the ASEAN Chair and some ASEAN member states for the sentences to be reconsidered. They noted ASEAN\u2019s view that implementation of the death sentences was highly reprehensible and presented a gross lack of will to support the efforts of the ASEAN Chair in expediting progress on the implementation of the Five Point Consensus. They noted ASEAN\u2019s call for utmost restraint, patience and efforts to avoid escalating the situation, and for all parties concerned to desist from taking actions that would only further aggravate the crisis. The members of the Security Council reiterated their strong support to ASEAN and the efforts of the ASEAN Chair and echoed ASEAN\u2019s call for concrete actions to effectively and fully implement the Five Point Consensus. They underlined the important role of the United Nations Special Envoy of the Secretary-General on Myanmar, and encouraged close coordination with the ASEAN Special Envoy to ensure synergy. The members of the Security Council called for the pursuance of dialogue with all parties concerned and reconciliation in accordance with the will and interests of the people of Myanmar. They also called for an immediate cessation of all forms of violence, including attacks on infrastructure, health and education facilities, for full respect for human rights and the rule of law, and for full, safe and unimpeded humanitarian access to all those",
+  "date": "27 July 2022"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9a0a42db-7eb2-4f0b-ac15-863a48f84c7d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.11452102661133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015283303218893707,
+          "perplexity": 87,
+          "sentence": "On 31 March 2022, UN Resident Coordinator Ozonnia Ojielo met with the Chair of the Cabinet of Ministers of the Kyrgyz Republic Akylbek Zhaparov, Deputy Chair of the Cabinet of Ministers Edil Baisalov, and Head of SDG and International Assistance Coordination Department of the Presidential Administration Dinara Duishenkul kyzy to discuss the Government's plan of anti-crisis measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001542214013170451,
+          "perplexity": 52,
+          "sentence": "The Chair of the Cabinet of Ministers thanked the UN for the long-standing and trustful partnership and discussed how new emerging realities call the Cabinet of Ministers to adjust the strategic mid-term development plans and commitments the Government made to the people of Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016172580944839865,
+          "perplexity": 60,
+          "sentence": "The Chair of the Cabinet of Ministers informed that the Government adopted a set of anti-crisis measures aimed to stabilize the economy and protect the most vulnerable groups with total budget of 126 billion soms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013669428881257772,
+          "perplexity": 41,
+          "sentence": "In particular, the Government has made additional budget allocations to increase the salaries of the low paid groups: salaries of teachers will be increased by 30-50%, especially teachers of science, math and languages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013200246030464768,
+          "perplexity": 63,
+          "sentence": "Additional budget allocations in the amount of 26 million of soms have been made available to support the 500,000 small farmers with low-cost (6%) loans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013543527165893465,
+          "perplexity": 145,
+          "sentence": "He also shared plans of the Cabinet of Ministers to raise the size of the monthly benefit package payments to the vulnerable groups from 800 to 1200 soms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013102979573886842,
+          "perplexity": 49,
+          "sentence": "The Chair of the Cabinet of Ministers informed that a new agreement over the Kumtor gold mine was successfully reached and will be signed soon, and that significant funds from the mine revenues might be re-located to support 112,000 most vulnerable households to help them engage in income-generating activities including through the use of alternative sources of energy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001372698025079444,
+          "perplexity": 67,
+          "sentence": "The Chair of the Cabinet of Ministers encouraged the UN to repurpose its programmes for 2022 to support the government's",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 31 March 2022, UN Resident Coordinator Ozonnia Ojielo met with the Chair of the Cabinet of Ministers of the Kyrgyz Republic Akylbek Zhaparov, Deputy Chair of the Cabinet of Ministers Edil Baisalov, and Head of SDG and International Assistance Coordination Department of the Presidential Administration Dinara Duishenkul kyzy to discuss the Government's plan of anti-crisis measures. The Chair of the Cabinet of Ministers thanked the UN for the long-standing and trustful partnership and discussed how new emerging realities call the Cabinet of Ministers to adjust the strategic mid-term development plans and commitments the Government made to the people of Kyrgyzstan. The Chair of the Cabinet of Ministers informed that the Government adopted a set of anti-crisis measures aimed to stabilize the economy and protect the most vulnerable groups with total budget of 126 billion soms. In particular, the Government has made additional budget allocations to increase the salaries of the low paid groups: salaries of teachers will be increased by 30-50%, especially teachers of science, math and languages. Additional budget allocations in the amount of 26 million of soms have been made available to support the 500,000 small farmers with low-cost (6%) loans. He also shared plans of the Cabinet of Ministers to raise the size of the monthly benefit package payments to the vulnerable groups from 800 to 1200 soms. The Chair of the Cabinet of Ministers informed that a new agreement over the Kumtor gold mine was successfully reached and will be signed soon, and that significant funds from the mine revenues might be re-located to support 112,000 most vulnerable households to help them engage in income-generating activities including through the use of alternative sources of energy. The Chair of the Cabinet of Ministers encouraged the UN to repurpose its programmes for 2022 to support the government\u2019s",
+  "date": "31 March 2022"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "021a150c-91f1-486b-b2cd-390349ac3615",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002753428249972066,
+        "human": 0.9967494006633975,
+        "mixed": 0.0004971710866304887
+      },
+      "completely_generated_prob": 0.002753428249972066,
+      "confidence_category": "high",
+      "confidence_score": 0.9967494006633975,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002753428249972066,
+          "human": 0.9967494006633975,
+          "mixed": 0.0004971710866304887
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.71960163116455,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001805746869649738,
+          "perplexity": 86,
+          "sentence": "Since April, WFP, in collaboration with the Ministry of Health and Sports and the respective state and regional governments, has provided safe and nutritious cooked meals, meal boxes and, wherever feasible, fortified blended food to some 35,000 returning migrant workers upon their arrival and while they were in transit sites and quarantine centres in Kayin, Mon and Shan states and Yangon and Tanintharyi regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021205836674198508,
+          "perplexity": 45,
+          "sentence": "In the coming weeks, many more are expected to return as businesses and factories they once worked for have been forced to close down due to COVID-10.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023175311798695475,
+          "perplexity": 58,
+          "sentence": "Among them, some 150,000 are expected to be returning mostly from Thailand.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023318342573475093,
+          "perplexity": 79,
+          "sentence": "\u201cAt this challenging time, it is vital that the returning families' essential food and nutrition needs are met while they comply with the Government's measures to keep the virus at bay,\u201d said Stephen Anderson, WFP Myanmar Country Director.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020863267127424479,
+          "perplexity": 67,
+          "sentence": "\u201cWhen the first batches of returnees arrived from Thailand, we faced hurdles in managing food and other support for them as it was not possible to know how many would come back and when,\u201d U Bo Bo Wai Maung, the Minister for Social Affairs of the Kayin State Government said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018984499911312014,
+          "perplexity": 63,
+          "sentence": "\u201cNow, as we face a second wave of returning migrants, thanks to WFP working together with the State Government, we are providing the returnees nutritious food and drinking water from the moment they set foot in Myanmar and throughout their quarantine stay.\u201d Starting from early May, WFP has been organizing weekly aid flights connecting Yangon and Kuala Lumpur bringing in vital humanitarian supplies as well as providing transport to aid worker teams.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Since April, WFP, in collaboration with the Ministry of Health and Sports and the respective state and regional governments, has provided safe and nutritious cooked meals, meal boxes and, wherever feasible, fortified blended food to some 35,000 returning migrant workers upon their arrival and while they were in transit sites and quarantine centres in Kayin, Mon and Shan states and Yangon and Tanintharyi regions. In the coming weeks, many more are expected to return as businesses and factories they once worked for have been forced to close down due to COVID-10. Among them, some 150,000 are expected to be returning mostly from Thailand. \u201cAt this challenging time, it is vital that the returning families\u2019 essential food and nutrition needs are met while they comply with the Government\u2019s measures to keep the virus at bay,\u201d said Stephen Anderson, WFP Myanmar Country Director. \u201cWhen the first batches of returnees arrived from Thailand, we faced hurdles in managing food and other support for them as it was not possible to know how many would come back and when,\u201d U Bo Bo Wai Maung, the Minister for Social Affairs of the Kayin State Government said. \u201cNow, as we face a second wave of returning migrants, thanks to WFP working together with the State Government, we are providing the returnees nutritious food and drinking water from the moment they set foot in Myanmar and throughout their quarantine stay.\u201d Starting from early May, WFP has been organizing weekly aid flights connecting Yangon and Kuala Lumpur bringing in vital humanitarian supplies as well as providing transport to aid worker teams.",
+  "date": "03 June 2020"
+}

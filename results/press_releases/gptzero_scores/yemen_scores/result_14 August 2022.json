@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "09154ea4-ce09-45ee-8dfe-13cebbba55d0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.86190414428711,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04324193671345711,
+          "perplexity": 25,
+          "sentence": "Doha, Qatar - 11 August 2022 - United Nations Educational, Scientific and Cultural Organization (UNESCO) signed a Letter of Intent with Qatar National Library on 10 August 2022 to collaboratively organize an exhibition to showcase Yemeni documentary heritage, planned to take place from May to July 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07321493327617645,
+          "perplexity": 49,
+          "sentence": "The exhibition, supported by the UNESCO office for the Gulf States and Yemen, will be built on the Library's rich photography and manuscripts collection from Yemen and aims to raise awareness of the importance of protecting and preserving it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06102274730801582,
+          "perplexity": 48,
+          "sentence": "On the occasion, Tan Huism, Executive Director at Qatar National Library said, \u201cWe are pleased to collaborate with UNESCO to offer the public an opportunity to learn about Yemeni culture and heritage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07302341610193253,
+          "perplexity": 35,
+          "sentence": "The Library plays a significant role in increasing awareness and appreciation of local and regional heritage and has also been providing global access to knowledge across regional and international fronts.\u201d \u201cWith a treasure trove of some of the rarest and most valuable historical images and manuscripts from Yemen, we believe the exhibition will be a wonderful way for our communities to explore and engage with the cultural wealth of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06920012831687927,
+          "perplexity": 68,
+          "sentence": "The agreement is also an example of the Library's efforts in raising awareness around the need for greater protection of the region's documentary heritage,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06061771139502525,
+          "perplexity": 55,
+          "sentence": "\u201cWe are happy to pursue our longstanding partnership with Qatar National Library through the organization of this exhibition, which will shed light on the importance of preserving and protecting Yemeni documentary heritage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06375277042388916,
+          "perplexity": 51,
+          "sentence": "Today, more than ever, documentary heritage institutions in Yemen need support and funding to ensure the preservation of their extraordinary cultural heritage that is under increasing risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06145155057311058,
+          "perplexity": 45,
+          "sentence": "We hope through this project, to raise awareness about the richness of the Yemeni heritage and highlight the importance and urgency of supporting initiatives that will",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Doha, Qatar \u2013 11 August 2022 \u2013 United Nations Educational, Scientific and Cultural Organization (UNESCO) signed a Letter of Intent with Qatar National Library on 10 August 2022 to collaboratively organize an exhibition to showcase Yemeni documentary heritage, planned to take place from May to July 2023. The exhibition, supported by the UNESCO office for the Gulf States and Yemen, will be built on the Library\u2019s rich photography and manuscripts collection from Yemen and aims to raise awareness of the importance of protecting and preserving it. On the occasion, Tan Huism, Executive Director at Qatar National Library said, \u201cWe are pleased to collaborate with UNESCO to offer the public an opportunity to learn about Yemeni culture and heritage. The Library plays a significant role in increasing awareness and appreciation of local and regional heritage and has also been providing global access to knowledge across regional and international fronts.\u201d \u201cWith a treasure trove of some of the rarest and most valuable historical images and manuscripts from Yemen, we believe the exhibition will be a wonderful way for our communities to explore and engage with the cultural wealth of the country. The agreement is also an example of the Library\u2019s efforts in raising awareness around the need for greater protection of the region\u2019s documentary heritage,\u201d she added. \u201cWe are happy to pursue our longstanding partnership with Qatar National Library through the organization of this exhibition, which will shed light on the importance of preserving and protecting Yemeni documentary heritage. Today, more than ever, documentary heritage institutions in Yemen need support and funding to ensure the preservation of their extraordinary cultural heritage that is under increasing risk. We hope through this project, to raise awareness about the richness of the Yemeni heritage and highlight the importance and urgency of supporting initiatives that will",
+  "date": "14 August 2022"
+}
