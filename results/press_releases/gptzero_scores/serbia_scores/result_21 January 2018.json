@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c39a6f93-1b33-4cb7-a03a-ad3bcad84d47",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.531429290771484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001531368907308206,
+          "perplexity": 66,
+          "sentence": "Belgrade, 26-January-2018 - Promoting Serbian agricultural exports, modernizing the country's water management systems and developing food quality labelling and geographical indication schemes were at the heart of a three-way meeting today in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001517461205366999,
+          "perplexity": 9,
+          "sentence": "At the meeting, Serbia's Ministry of Agriculture, Forestry and Water Management, the Food and Agriculture Organization of the United Nations (FAO) and the European Bank for Reconstruction and Development (EBRD) agreed to sign a Memorandum of Understanding (MoU) pointing to the continued commitment of the three partners to strengthening Serbia's agrifood sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015096187416929752,
+          "perplexity": 38,
+          "sentence": "Serbia's Minister of Agriculture, Branislav Nedimovic, commended the fruitful partnership with FAO and the EBRD in recent years, noting that the new agreement recognizes what he called \u201cmutual goodwill and interest in continuing to leverage our respective strengths - to build a more efficient, sustainable, inclusive and competitive agrifood system in Serbia.\u201d Serbia's grain and oilseed sector is vital to the country's economy, employing over 180,000 people and accounting for a considerable share of export income.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001548278669361025,
+          "perplexity": 13,
+          "sentence": "In fact, the country has become one of the largest exporters of maize in Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009030707296915352,
+          "perplexity": 156,
+          "sentence": "But despite favourable grain and oilseed market trends, Serbia has yet to fully tap into global grain markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006186806713230908,
+          "perplexity": 35,
+          "sentence": "Under the new agreement, FAO and the EBRD will continue to support efforts to accelerate Serbia's export growth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041541375685483217,
+          "perplexity": 81,
+          "sentence": "In part, this will involve strengthening the capacity of the Serbian Grain Association to analyse markets and resolve production and trade bottlenecks - from infrastructure to logistics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045608781510964036,
+          "perplexity": 46,
+          "sentence": "\u201cThere is great potential for Serbian producers and traders to access new markets, including those in the Near East, Middle East and Asia,\u201d said Miljan Zdrale, the EBRD's Regional Head of Agribusiness for central and south-eastern Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044520251685753465,
+          "perplexity": 88,
+          "sentence": "\u201cFAO and the EBRD will continue to provide technical assistance for compliance with trade requirements and promote public-private dialogue among the country's grain industry",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 26-January-2018 \u2013 Promoting Serbian agricultural exports, modernizing the country\u2019s water management systems and developing food quality labelling and geographical indication schemes were at the heart of a three-way meeting today in Serbia. At the meeting, Serbia\u2019s Ministry of Agriculture, Forestry and Water Management, the Food and Agriculture Organization of the United Nations (FAO) and the European Bank for Reconstruction and Development (EBRD) agreed to sign a Memorandum of Understanding (MoU) pointing to the continued commitment of the three partners to strengthening Serbia\u2019s agrifood sector. Serbia\u2019s Minister of Agriculture, Branislav Nedimovic, commended the fruitful partnership with FAO and the EBRD in recent years, noting that the new agreement recognizes what he called \u201cmutual goodwill and interest in continuing to leverage our respective strengths \u2013 to build a more efficient, sustainable, inclusive and competitive agrifood system in Serbia.\u201d Serbia\u2019s grain and oilseed sector is vital to the country\u2019s economy, employing over 180,000 people and accounting for a considerable share of export income. In fact, the country has become one of the largest exporters of maize in Europe. But despite favourable grain and oilseed market trends, Serbia has yet to fully tap into global grain markets. Under the new agreement, FAO and the EBRD will continue to support efforts to accelerate Serbia\u2019s export growth. In part, this will involve strengthening the capacity of the Serbian Grain Association to analyse markets and resolve production and trade bottlenecks \u2013 from infrastructure to logistics. \u201cThere is great potential for Serbian producers and traders to access new markets, including those in the Near East, Middle East and Asia,\u201d said Miljan Zdrale, the EBRD\u2019s Regional Head of Agribusiness for central and south-eastern Europe. \u201cFAO and the EBRD will continue to provide technical assistance for compliance with trade requirements and promote public-private dialogue among the country\u2019s grain industry",
+  "date": "21 January 2018"
+}

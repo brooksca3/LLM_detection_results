@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "19150ae6-a9d9-4fec-b6d2-df989ad5851e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.84589385986328,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00051413121400401,
+          "perplexity": 40,
+          "sentence": "Chaired by the Minister of Foreign Affairs the meeting focused on identifying strategic areas of cooperation between the Commission, which is comprised of deputy ministers of 17 national agencies, and the United Nations system in Turkmenistan in human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005812639137730002,
+          "perplexity": 135,
+          "sentence": "The heads of UN entities presented the achieved milestones in human rights and proposed the areas of joint engagement to deepen the cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005589709617197514,
+          "perplexity": 114,
+          "sentence": "The United Nations proposed four priorities for cooperation in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047513091703876853,
+          "perplexity": 28,
+          "sentence": "They are aimed at supporting the country in: (1) the development of the national action plans, particularly the Human Rights Action Plan for 2021-2025, National Action Plan on Gender Equality 2021-2025 with their monitoring plans and budgets, (2) building capacity of the Office of Ombudsman, (3) introducing HR education at all levels, (4) engagement with the Human Rights mechanisms, especially the Special Procedures, and accession to the international human rights conventions that the country is not yet a party to.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005309053231030703,
+          "perplexity": 40,
+          "sentence": "\u201cGiven the Government's firm commitment to the implementation of the Agenda 2030, I would like to emphasize that over 90 percent of the goals and targets of the SDGs correspond to human rights obligations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007040160708129406,
+          "perplexity": 25,
+          "sentence": "SDGs and human rights are two sides of the same coin.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005049140891060233,
+          "perplexity": 173,
+          "sentence": "Without notable progress in ensuring and protection of human rights, advances made in the achievement of SDGs will be incomplete\u201d, stressed Ms. Elena Panova, UN Resident Coordinator.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003616617468651384,
+          "perplexity": 26,
+          "sentence": "UN has a long-standing history of supporting the Government, the Mejlis and the Office of Ombudsperson in the area of human rights, including bringing the national legislation in line with international standards, assisting the country in reporting to Human Rights mechanisms and following up on the recommendations from them.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Chaired by the Minister of Foreign Affairs the meeting focused on identifying strategic areas of cooperation between the Commission, which is comprised of deputy ministers of 17 national agencies, and the United Nations system in Turkmenistan in human rights. The heads of UN entities presented the achieved milestones in human rights and proposed the areas of joint engagement to deepen the cooperation. The United Nations proposed four priorities for cooperation in 2020. They are aimed at supporting the country in: (1) the development of the national action plans, particularly the Human Rights Action Plan for 2021-2025, National Action Plan on Gender Equality 2021-2025 with their monitoring plans and budgets, (2) building capacity of the Office of Ombudsman, (3) introducing HR education at all levels, (4) engagement with the Human Rights mechanisms, especially the Special Procedures, and accession to the international human rights conventions that the country is not yet a party to. \u201cGiven the Government\u2019s firm commitment to the implementation of the Agenda 2030, I would like to emphasize that over 90 percent of the goals and targets of the SDGs correspond to human rights obligations. SDGs and human rights are two sides of the same coin. Without notable progress in ensuring and protection of human rights, advances made in the achievement of SDGs will be incomplete\u201d, stressed Ms. Elena Panova, UN Resident Coordinator. UN has a long-standing history of supporting the Government, the Mejlis and the Office of Ombudsperson in the area of human rights, including bringing the national legislation in line with international standards, assisting the country in reporting to Human Rights mechanisms and following up on the recommendations from them.",
+  "date": "24 February 2020"
+}

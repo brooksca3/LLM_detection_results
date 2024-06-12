@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2c823935-7665-49e8-9801-b0ccdad33f6f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.2974853515625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011260940664215013,
+          "perplexity": 36,
+          "sentence": "Organised by the ILO with the support of the European Union, a meeting with multi-stakeholders in Basra centred around the challenges faced in the inclusion of farm workers in social security coverage and ways to address them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012599394540302455,
+          "perplexity": 35,
+          "sentence": "Basra, Iraq (ILO News) Farm owners, representatives of the farmers' association union, government officials, local Civil Society Organizations, academics and others joined a debate on the extension of social security in Iraq's agricultural sector, organised by the ILO with the support of the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002551464713178575,
+          "perplexity": 43,
+          "sentence": "With a focus on agricultural areas in Iraq's southern governorate of Basra, the event centred around the challenges faced by farm owners in the inclusion of their workers in social security coverage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002174046530853957,
+          "perplexity": 51,
+          "sentence": "It included discussions with the various stakeholders, such as those from government, employers' and workers' organizations and local implementing partners, on ways to address these obstacles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014490605099126697,
+          "perplexity": 31,
+          "sentence": "Assistant Governor of Basra, Hassan Al Najjar reaffirmed that \u201cthe continued cooperation between the Basra Governorate, the ILO and the European Union to advance the agricultural sector, in all its sub-sectors, will allow us to identify and further promote the positive elements, and address the negative ones.\u201d Mr. Al Najjar also commended the sessions organised by the ILO on rights at work and social security in the agricultural sector of Al-Zubair District of the Basra Governorate, conducted with farm owners and workers in the area, and reiterated the importance of expanding coverage of social security to the rest of Basra.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019608074217103422,
+          "perplexity": 60,
+          "sentence": "According to a recently published ILO study, on National Regulatory Frameworks and Structures in the Agriculture Sector, Iraq's agricultural sector suffers from lack of regulatory frameworks and support structures to govern agriculture activities, protect its workforce, and address concerns collectively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019403324404265732,
+          "perplexity": 208,
+          "sentence": "There are persistent decent work deficits at the farm level including insufficient occupational safety and health measures and lack",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Organised by the ILO with the support of the European Union, a meeting with multi-stakeholders in Basra centred around the challenges faced in the inclusion of farm workers in social security coverage and ways to address them. Basra, Iraq (ILO News) Farm owners, representatives of the farmers\u2019 association union, government officials, local Civil Society Organizations, academics and others joined a debate on the extension of social security in Iraq\u2019s agricultural sector, organised by the ILO with the support of the European Union. With a focus on agricultural areas in Iraq\u2019s southern governorate of Basra, the event centred around the challenges faced by farm owners in the inclusion of their workers in social security coverage. It included discussions with the various stakeholders, such as those from government, employers\u2019 and workers\u2019 organizations and local implementing partners, on ways to address these obstacles. Assistant Governor of Basra, Hassan Al Najjar reaffirmed that \u201cthe continued cooperation between the Basra Governorate, the ILO and the European Union to advance the agricultural sector, in all its sub-sectors, will allow us to identify and further promote the positive elements, and address the negative ones.\u201d Mr. Al Najjar also commended the sessions organised by the ILO on rights at work and social security in the agricultural sector of Al-Zubair District of the Basra Governorate, conducted with farm owners and workers in the area, and reiterated the importance of expanding coverage of social security to the rest of Basra. According to a recently published ILO study, on National Regulatory Frameworks and Structures in the Agriculture Sector , Iraq\u2019s agricultural sector suffers from lack of regulatory frameworks and support structures to govern agriculture activities, protect its workforce, and address concerns collectively. There are persistent decent work deficits at the farm level including insufficient occupational safety and health measures and lack",
+  "date": "08 February 2023"
+}

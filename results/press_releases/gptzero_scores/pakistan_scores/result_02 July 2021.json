@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6f91d4dc-02a3-4aef-8725-754919798cc7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.729393005371094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00033408968010917306,
+          "perplexity": 27,
+          "sentence": "Billions of people will lack access to safe water, sanitation and hygiene in 2030 unless progress quadruples - warn WHO, UNICEF Latest estimates reveal that 3 in 10 people worldwide could not wash their hands with soap and water at home during the COVID-19 pandemic GENEVA/NEW YORK, 2 July 2021 - Billions of people around the world will be unable to access safely managed household drinking water, sanitation and hygiene services in 2030 unless the rate of progress quadruples, according to a new report from WHO and UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003533124108798802,
+          "perplexity": 29,
+          "sentence": "The Joint Monitoring Programme (JMP) report - Progress on household drinking water, sanitation and hygiene 2000 - 2020 - presents estimates on household access to safely managed drinking water, sanitation and hygiene services over the past five years, and assesses progress toward achieving the sixth sustainable development goal (SDG) to 'Ensure availability and sustainable management of water and sanitation for all by 2030'.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003971800033468753,
+          "perplexity": 60,
+          "sentence": "For the first time, the report also presents emerging national data on menstrual health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004470901330932975,
+          "perplexity": 39,
+          "sentence": "In 2020, around 1 in 4 people lacked safely managed drinking water in their homes and nearly half the world's population lacked safely managed sanitation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008564578020013869,
+          "perplexity": 171,
+          "sentence": "COVID-19 has highlighted the urgent need to ensure everyone can access good hand hygiene.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009427416371181607,
+          "perplexity": 17,
+          "sentence": "At the onset of the pandemic, 3 in 10 people worldwide could not wash their hands with soap and water within their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009774713544175029,
+          "perplexity": 60,
+          "sentence": "\u201cHandwashing is one of the most effective ways to prevent the spread of COVID-19 and other infectious diseases, yet millions of people across the world lack access to a reliable, safe supply of water,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012600398622453213,
+          "perplexity": 56,
+          "sentence": "\u201cInvestment in water, sanitation and hygiene must be a global priority if we are to end this pandemic and build more resilient health systems.\u201d The report notes some progress towards achieving universal",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Billions of people will lack access to safe water, sanitation and hygiene in 2030 unless progress quadruples \u2013 warn WHO, UNICEF Latest estimates reveal that 3 in 10 people worldwide could not wash their hands with soap and water at home during the COVID-19 pandemic GENEVA/NEW YORK, 2 July 2021 \u2013 Billions of people around the world will be unable to access safely managed household drinking water, sanitation and hygiene services in 2030 unless the rate of progress quadruples, according to a new report from WHO and UNICEF. The Joint Monitoring Programme (JMP) report \u2013 Progress on household drinking water, sanitation and hygiene 2000 - 2020 \u2013 presents estimates on household access to safely managed drinking water, sanitation and hygiene services over the past five years, and assesses progress toward achieving the sixth sustainable development goal (SDG) to \u2018Ensure availability and sustainable management of water and sanitation for all by 2030\u2019. For the first time, the report also presents emerging national data on menstrual health. In 2020, around 1 in 4 people lacked safely managed drinking water in their homes and nearly half the world\u2019s population lacked safely managed sanitation. COVID-19 has highlighted the urgent need to ensure everyone can access good hand hygiene. At the onset of the pandemic, 3 in 10 people worldwide could not wash their hands with soap and water within their homes. \u201cHandwashing is one of the most effective ways to prevent the spread of COVID-19 and other infectious diseases, yet millions of people across the world lack access to a reliable, safe supply of water,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. \u201cInvestment in water, sanitation and hygiene must be a global priority if we are to end this pandemic and build more resilient health systems.\u201d The report notes some progress towards achieving universal",
+  "date": "02 July 2021"
+}

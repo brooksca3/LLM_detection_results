@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6647b715-cc9c-4f6a-8711-a89710d31cb7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.763216018676758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004255723033566028,
+          "perplexity": 38,
+          "sentence": "The United Nations Population Fund (UNFPA) donates personal protective equipment to the Ministry of Health of the Kyrgyz Republic within the framework of a joint UN project for 20 medical institutions to prevent the spread of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000369252753444016,
+          "perplexity": 75,
+          "sentence": "The delivery set included nitrile gloves, insulating gowns, protective suits, sealed against liquid, surgical respirators with a high filtration degree, surgical masks, face shields and protective panoramic glasses in the amount of 5,500 pieces of each item for healthcare organizations in Bishkek, Naryn and Osh regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005686696385964751,
+          "perplexity": 27,
+          "sentence": "This delivery was made possible by a project funded by the UN Multi-Partner Trust Fund, which was created by UN Secretary-General Antonio Guterres to support countries in coping with the health crisis and socio-economic impact caused by the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048023959971033037,
+          "perplexity": 45,
+          "sentence": "\u201cTo date, the pandemic in our republic has already introduced a new wave and a sharp increase in cases of coronavirus infection, which is the result of an unfavorable epidemiological situation and the requirement for infection control.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039256876334547997,
+          "perplexity": 54,
+          "sentence": "Unfortunately, we are already seeing the consequences for healthcare workers, many healthcare workers are infected in the workplace, there are cases when healthcare workers gave their lives for the people,\u201d said the Head of the UNFPA Office, addressing the Ministry of Health and hospital medical staff.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004391139664221555,
+          "perplexity": 43,
+          "sentence": "The UN is helping the MOH KR in its efforts to combat the pandemic by preventing the spread of the disease in healthcare facilities and protecting their staff.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003503651241771877,
+          "perplexity": 22,
+          "sentence": "The majority of healthcare workers are women, who, first of all, need to have access to quality PPE and know how to use them correctly and consistently.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003571043780539185,
+          "perplexity": 36,
+          "sentence": "It is our strong hope that healthcare professionals are protected to continue to provide essential services, including maternal and newborn care, and do not put colleagues, patients, families or communities at risk, thereby reducing person-to-person transmission of COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041150173638015985,
+          "perplexity": 1,
+          "sentence": "In",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Population Fund (UNFPA) donates personal protective equipment to the Ministry of Health of the Kyrgyz Republic within the framework of a joint UN project for 20 medical institutions to prevent the spread of COVID-19. The delivery set included nitrile gloves, insulating gowns, protective suits, sealed against liquid, surgical respirators with a high filtration degree, surgical masks, face shields and protective panoramic glasses in the amount of 5,500 pieces of each item for healthcare organizations in Bishkek, Naryn and Osh regions. This delivery was made possible by a project funded by the UN Multi-Partner Trust Fund, which was created by UN Secretary-General Antonio Guterres to support countries in coping with the health crisis and socio-economic impact caused by the COVID-19 pandemic. \u201cTo date, the pandemic in our republic has already introduced a new wave and a sharp increase in cases of coronavirus infection, which is the result of an unfavorable epidemiological situation and the requirement for infection control. Unfortunately, we are already seeing the consequences for healthcare workers, many healthcare workers are infected in the workplace, there are cases when healthcare workers gave their lives for the people,\u201d said the Head of the UNFPA Office, addressing the Ministry of Health and hospital medical staff. The UN is helping the MOH KR in its efforts to combat the pandemic by preventing the spread of the disease in healthcare facilities and protecting their staff. The majority of healthcare workers are women, who, first of all, need to have access to quality PPE and know how to use them correctly and consistently. It is our strong hope that healthcare professionals are protected to continue to provide essential services, including maternal and newborn care, and do not put colleagues, patients, families or communities at risk, thereby reducing person-to-person transmission of COVID-19. In",
+  "date": "17 July 2020"
+}

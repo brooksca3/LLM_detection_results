@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f8f95d01-9a15-4643-8eff-89ebdf813a41",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088015640092026,
+        "human": 0.9903345100280675,
+        "mixed": 0.0005774743318404729
+      },
+      "completely_generated_prob": 0.009088015640092026,
+      "confidence_category": "high",
+      "confidence_score": 0.9903345100280675,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088015640092026,
+          "human": 0.9903345100280675,
+          "mixed": 0.0005774743318404729
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.93021011352539,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001711903722025454,
+          "perplexity": 62,
+          "sentence": "The UN Office in Turkmenistan deeply mourns the death of the seventh UN Secretary General, Nobel Peace Prize laureate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007970018777996302,
+          "perplexity": 33,
+          "sentence": "Kofi Annan will be remembered for his leadership in important moments in the life of the United Nations, a significant contribution to strengthening the Organization's central role in the world arena, its reform in order to build up the authority and capacity for a long-term solution to global problems based on respect for human rights and the rule of law, as well as for his advanced initiatives in defense of the peace and well-being of all mankind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007305093458853662,
+          "perplexity": 20,
+          "sentence": "The UN flag was lowered on Monday, 20 August and will remain at half-mast until Wednesday, 22 August 2018, 6:00 pm.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034435317502357066,
+          "perplexity": 33,
+          "sentence": "The United Nations office in Turkmenistan has placed a condolence book at the front hall of the United Nations Office open from 12:00 on 20 August 2018 to 17:00 on 22 August 2018 to allow the Government representatives, diplomatic corps accredited in the country and people of Turkmenistan to pay tribute to Mr. Annan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037533140857703984,
+          "perplexity": 106,
+          "sentence": "UN House is located at 21 Archabil Avenue, Ashgabat, Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027915663667954504,
+          "perplexity": 130,
+          "sentence": "18 August 2018.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003235839249100536,
+          "perplexity": 28,
+          "sentence": "Mr. Annan was the seventh man to take the helm of the global organization and the first Secretary-General to emerge from the ranks of its staff.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002747132966760546,
+          "perplexity": 40,
+          "sentence": "The current UN chief, Antonio Guterres hailed him as \u201ca guiding force for good\u201d and a \u201cproud son of Africa who became a global champion for peace and all humanity.\u201d \u201cLike so many, I was proud to call Kofi Annan a good friend and mentor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024194754951167852,
+          "perplexity": 31,
+          "sentence": "I was deeply honoured by his trust in selecting me to serve as UN High Commissioner for Refugees under his leadership.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022604846162721515,
+          "perplexity": 147,
+          "sentence": "He remained someone I could always turn to for counsel and wisdom \u1173 and I know I was not alone,\u201d Mr. Guterres said in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Office in Turkmenistan deeply mourns the death of the seventh UN Secretary General, Nobel Peace Prize laureate. Kofi Annan will be remembered for his leadership in important moments in the life of the United Nations, a significant contribution to strengthening the Organization's central role in the world arena, its reform in order to build up the authority and capacity for a long-term solution to global problems based on respect for human rights and the rule of law, as well as for his advanced initiatives in defense of the peace and well-being of all mankind. The UN flag was lowered on Monday, 20 August and will remain at half-mast until Wednesday, 22 August 2018, 6:00 pm. The United Nations office in Turkmenistan has placed a condolence book at the front hall of the United Nations Office open from 12:00 on 20 August 2018 to 17:00 on 22 August 2018 to allow the Government representatives, diplomatic corps accredited in the country and people of Turkmenistan to pay tribute to Mr. Annan. UN House is located at 21 Archabil Avenue, Ashgabat, Turkmenistan. 18 August 2018. Mr. Annan was the seventh man to take the helm of the global organization and the first Secretary-General to emerge from the ranks of its staff. The current UN chief, Antonio Guterres hailed him as \u201ca guiding force for good\u201d and a \u201cproud son of Africa who became a global champion for peace and all humanity.\u201d \u201cLike so many, I was proud to call Kofi Annan a good friend and mentor. I was deeply honoured by his trust in selecting me to serve as UN High Commissioner for Refugees under his leadership. He remained someone I could always turn to for counsel and wisdom \u2014 and I know I was not alone,\u201d Mr. Guterres said in",
+  "date": "20 August 2018"
+}

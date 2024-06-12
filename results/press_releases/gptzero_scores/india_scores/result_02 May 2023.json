@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ff67d277-8b06-4be2-9cb7-2cc28706de47",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.52925491333008,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002696302835829556,
+          "perplexity": 73,
+          "sentence": "As young people today, you are warriors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002842199755832553,
+          "perplexity": 251,
+          "sentence": "We regard you as warriors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002379667421337217,
+          "perplexity": 96,
+          "sentence": "You are making your mark - as we heard from the ECOSOC President - in a world overcome by complex, interlinked crises, that have been supercharged by the COVID pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026828376576304436,
+          "perplexity": 13,
+          "sentence": "You are fighting for your lives, your families, your communities, and our planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002504060685168952,
+          "perplexity": 61,
+          "sentence": "It is the way of the warrior to fight superior odds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002298018807778135,
+          "perplexity": 46,
+          "sentence": "You are fighting those odds with little more than your voice, your phones, your social media accounts and activities, and your enthusiasm.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023823577794246376,
+          "perplexity": 92,
+          "sentence": "You are winning already by being here, being involved, and being heard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022151287703309208,
+          "perplexity": 25,
+          "sentence": "To give you a few examples of how your engagement is making a difference: Just last month, the UN General Assembly passed by consensus a resolution requesting the International Court of Justice to issue an Advisory Opinion on the legal obligations regarding climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022711785277351737,
+          "perplexity": 30,
+          "sentence": "It has been a long battle for more than 10 years, and the last four years, turned to be decisive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024603292695246637,
+          "perplexity": 70,
+          "sentence": "This was a historic moment inspired by young law students in the Pacific who, in 2019, raised their concerns to the attention of Vanuatu's Government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024151703109964728,
+          "perplexity": 23,
+          "sentence": "The rest is history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022304433514364064,
+          "perplexity": 195,
+          "sentence": "In Ghana, young climate activist Joshua Amponsem founded the Green Africa Youth Organization (GAYO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022879727475810796,
+          "perplexity": 53,
+          "sentence": "It led to the first community-led zero waste program in West Africa - the Sustainable Community Project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002111142239300534,
+          "perplexity": 78,
+          "sentence": "The project has been replicated across municipalities, provided jobs to more than 100 people and restored dignity to the work of informal waste collectors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002239023451693356,
+          "perplexity": 109,
+          "sentence": "This is proof that you can be drivers of real transformation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020929436141159385,
+          "perplexity": 64,
+          "sentence": "That your commitment, your thoughts and innovations may prove to be game-changing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002218159643234685,
+          "perplexity": 72,
+          "sentence": "Young people's ideas are critical because our 2030 Agenda for Sustainable Development is badly off-track.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020088841847609729,
+          "perplexity": 27,
+          "sentence": "This is a perfect opportunity to come up with some game-changing solutions on several",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As young people today, you are warriors. We regard you as warriors. You are making your mark \u2013 as we heard from the ECOSOC President \u2013 in a world overcome by complex, interlinked crises, that have been supercharged by the COVID pandemic. You are fighting for your lives, your families, your communities, and our planet. It is the way of the warrior to fight superior odds. You are fighting those odds with little more than your voice, your phones, your social media accounts and activities, and your enthusiasm. You are winning already by being here, being involved, and being heard. To give you a few examples of how your engagement is making a difference: Just last month, the UN General Assembly passed by consensus a resolution requesting the International Court of Justice to issue an Advisory Opinion on the legal obligations regarding climate change. It has been a long battle for more than 10 years, and the last four years, turned to be decisive. This was a historic moment inspired by young law students in the Pacific who, in 2019, raised their concerns to the attention of Vanuatu\u2019s Government. The rest is history. In Ghana, young climate activist Joshua Amponsem founded the Green Africa Youth Organization (GAYO). It led to the first community-led zero waste program in West Africa \u2013 the Sustainable Community Project. The project has been replicated across municipalities, provided jobs to more than 100 people and restored dignity to the work of informal waste collectors. This is proof that you can be drivers of real transformation. That your commitment, your thoughts and innovations may prove to be game-changing. Young people\u2019s ideas are critical because our 2030 Agenda for Sustainable Development is badly off-track. This is a perfect opportunity to come up with some game-changing solutions on several",
+  "date": "02 May 2023"
+}

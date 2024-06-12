@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "712408d9-7109-43cf-9a9f-aaf35e30ba3a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.911537170410156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006886461051180959,
+          "perplexity": 32,
+          "sentence": "BISHKEK, Kyrgyzstan - Due to the unfavorable epidemiological situation and state of emergency, set in certain regions of the Kyrgyz Republic, the WHO calls the population to act responsibly and follow the instructions of the state bodies, and also reminds people of basic precautions to contain the risk of infection or the virus spread, including avoiding close contact with other people, keeping at least one meter away from the sneezing and coughing people, and regular hand washing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008105001761578023,
+          "perplexity": 67,
+          "sentence": "WHO also reminds that people with sickness symptoms should cover their nose and mouth with a bent elbow when coughing and sneezing, or use paper tissues, which should be immediately thrown into closed garbage cans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004519217472989112,
+          "perplexity": 115,
+          "sentence": "Currently WHO Country Office in Kyrgyzstan works shoulder to shoulder with strategic partners, Kyrgyz Republic Ministry of Health, and all other public governance structures, Development Partners and continuously coordinates the response activities in connection with COVID-19 pandemic in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043656257912516594,
+          "perplexity": 84,
+          "sentence": "The main areas of cooperation are listed below: WHO assures supplies of Laboratory Kits and Personal Protective Equipment WHO improves the capacity of health workers and strengthens the role of laboratories Information: this assistance is provided as part of the joint humanitarian response under the Disaster Response Coordination Unit, which was activated on 16 March 2020 following the request of the Government to assist her in emergency preparedness and response for COVID-19 and setting a stage for early recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004178619128651917,
+          "perplexity": 58,
+          "sentence": "Chaired by the UN Resident Coordinator, the DRCU prioritizes and channels its support under six priority sectors: early recovery, education, food security and logistics, health, protection, and joint sector for water sanitation and hygiene (WASH) and non-food items (NFI).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003730336611624807,
+          "perplexity": 43,
+          "sentence": "The DRCU was set up in 2008 and its inter-agency teams comprise representatives of government ministries, UN agencies, international and local NGOs and representatives of donor community.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BISHKEK, Kyrgyzstan \u2013 Due to the unfavorable epidemiological situation and state of emergency, set in certain regions of the Kyrgyz Republic, the WHO calls the population to act responsibly and follow the instructions of the state bodies, and also reminds people of basic precautions to contain the risk of infection or the virus spread, including avoiding close contact with other people, keeping at least one meter away from the sneezing and coughing people, and regular hand washing. WHO also reminds that people with sickness symptoms should cover their nose and mouth with a bent elbow when coughing and sneezing, or use paper tissues, which should be immediately thrown into closed garbage cans. Currently WHO Country Office in Kyrgyzstan works shoulder to shoulder with strategic partners, Kyrgyz Republic Ministry of Health, and all other public governance structures, Development Partners and continuously coordinates the response activities in connection with COVID-19 pandemic in the country. The main areas of cooperation are listed below: WHO assures supplies of Laboratory Kits and Personal Protective Equipment WHO improves the capacity of health workers and strengthens the role of laboratories Information: this assistance is provided as part of the joint humanitarian response under the Disaster Response Coordination Unit, which was activated on 16 March 2020 following the request of the Government to assist her in emergency preparedness and response for COVID-19 and setting a stage for early recovery. Chaired by the UN Resident Coordinator, the DRCU prioritizes and channels its support under six priority sectors: early recovery, education, food security and logistics, health, protection, and joint sector for water sanitation and hygiene (WASH) and non-food items (NFI). The DRCU was set up in 2008 and its inter-agency teams comprise representatives of government ministries, UN agencies, international and local NGOs and representatives of donor community.",
+  "date": "15 April 2020"
+}

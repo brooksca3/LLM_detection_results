@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a3f54315-b71a-4c45-b25a-37102e03214b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.12574005126953,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00045530442730523646,
+          "perplexity": 20,
+          "sentence": "Following is UN Secretary-General Ant\u00f3nio Guterres' briefing to the Security Council on conflict and food security in New York on 19 May: When war is waged, people go hungry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004419877368491143,
+          "perplexity": 15,
+          "sentence": "Some 60 per cent of the world's undernourished people live in areas affected by conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047691803774796426,
+          "perplexity": 70,
+          "sentence": "No country is immune.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006547593511641026,
+          "perplexity": 17,
+          "sentence": "In April, the World Food Programme (WFP) and its partners distributed food and cash to more than 3 million Ukrainians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010196019429713488,
+          "perplexity": 83,
+          "sentence": "Until March, their country was feeding the world with abundant supplies of food.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001177127007395029,
+          "perplexity": 35,
+          "sentence": "I thank the United States Government for focusing on this crucial issue during its presidency of the Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005292809219099581,
+          "perplexity": 11,
+          "sentence": "Last year, most of the 140 million people suffering acute hunger around the world lived in just 10 countries: Afghanistan, Democratic Republic of the Congo, Ethiopia, Haiti, Nigeria, Pakistan, South Sudan, Sudan, Syria and Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006741104298271239,
+          "perplexity": 30,
+          "sentence": "Eight of these countries are on the agenda of this Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010626217117533088,
+          "perplexity": 167,
+          "sentence": "Let there be no doubt: when this Council debates conflict, you debate hunger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010078969644382596,
+          "perplexity": 59,
+          "sentence": "When you make decisions about peacekeeping and political missions, you make decisions about hunger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010946867987513542,
+          "perplexity": 72,
+          "sentence": "And when you fail to reach consensus, hungry people pay a high price.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009745507268235087,
+          "perplexity": 40,
+          "sentence": "At its most basic level, armed conflict creates hunger when fighting destroys farms and factories, drives people from their crops, creates shortages, and pushes up prices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015427976613864303,
+          "perplexity": 38,
+          "sentence": "Today, the impact of conflict is being amplified by the climate crisis and economic insecurity, heightened by the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016692199278622866,
+          "perplexity": 33,
+          "sentence": "As a result, decades of progress on hunger are being reversed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016095893224701285,
+          "perplexity": 27,
+          "sentence": "I saw this for myself during my visit to the Sahel two weeks ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001424047746695578,
+          "perplexity": 57,
+          "sentence": "Take Niger, which faces extremist armed groups and cross-border incursions from Mali and Nigeria.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014599841088056564,
+          "perplexity": 111,
+          "sentence": "Just 6 per cent of its population is fully immunized against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015174573054537177,
+          "perplexity": 39,
+          "sentence": "While Niger scores lowest of every country on the Human Development Index, it is in the top 10 countries",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is UN Secretary-General Ant\u00f3nio Guterres\u2019 briefing to the Security Council on conflict and food security in New York on 19 May: When war is waged, people go hungry. Some 60 per cent of the world\u2019s undernourished people live in areas affected by conflict. No country is immune. In April, the World Food Programme (WFP) and its partners distributed food and cash to more than 3 million Ukrainians. Until March, their country was feeding the world with abundant supplies of food. I thank the United States Government for focusing on this crucial issue during its presidency of the Council. Last year, most of the 140 million people suffering acute hunger around the world lived in just 10 countries: Afghanistan, Democratic Republic of the Congo, Ethiopia, Haiti, Nigeria, Pakistan, South Sudan, Sudan, Syria and Yemen. Eight of these countries are on the agenda of this Council. Let there be no doubt: when this Council debates conflict, you debate hunger. When you make decisions about peacekeeping and political missions, you make decisions about hunger. And when you fail to reach consensus, hungry people pay a high price. At its most basic level, armed conflict creates hunger when fighting destroys farms and factories, drives people from their crops, creates shortages, and pushes up prices. Today, the impact of conflict is being amplified by the climate crisis and economic insecurity, heightened by the pandemic. As a result, decades of progress on hunger are being reversed. I saw this for myself during my visit to the Sahel two weeks ago. Take Niger, which faces extremist armed groups and cross-border incursions from Mali and Nigeria. Just 6 per cent of its population is fully immunized against COVID-19. While Niger scores lowest of every country on the Human Development Index, it is in the top 10 countries",
+  "date": "19 May 2022"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "508b2a62-8b37-4d45-b65e-543512c72443",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.701967239379883,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00026551797054708004,
+          "perplexity": 30,
+          "sentence": "Beirut, December 4, 2020\u1173 Four months after the tragic August 4 explosion that rocked the Port of Beirut, the European Union (EU), the United Nations (UN) and the World Bank Group (WBG) launched today, in a virtual press conference, a landmark 'people-centered' response plan to help Lebanon address the urgent needs of the affected population as well as tackle the related governance, recovery and reconstruction challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003151354321744293,
+          "perplexity": 37,
+          "sentence": "The 18-month Lebanon Reform, Recovery and Reconstruction Framework (3RF) addresses the urgent needs of the population affected by the explosion that killed over 200 people, injured more than 6,500 and destroyed thousands of homes and properties in the capital city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003338372043799609,
+          "perplexity": 69,
+          "sentence": "This comprehensive response to the explosion bridges the immediate humanitarian assistance with medium-term recovery and reconstruction efforts, in order to put Lebanon on a path of sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040423712925985456,
+          "perplexity": 22,
+          "sentence": "It is also guided by the overarching principles of transparency, accountability, and inclusion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003206416731700301,
+          "perplexity": 27,
+          "sentence": "The 3RF aims to achieve three central goals: (1) a people-centered recovery that addresses people's basic needs, restores their livelihoods, improves social justice for all and ensures participatory decision-making; (2) the reconstruction of critical assets, services, and infrastructure that provides equal access to quality basic services for all and enables sustainable economic recovery; and (3) the implementation of reforms as an essential requirement to restore trust, support reconstruction and improve governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023654525284655392,
+          "perplexity": 37,
+          "sentence": "Speaking at the conference held at the UN House in Beirut were the Ambassador of the European Union to Lebanon, Ralph Tarraf, the UN Deputy Special Coordinator, Resident and Humanitarian Coordinator for Lebanon, Najat Rochdi, and the Regional Director of the Middle East Department of the World Bank, Saroj Kumar Jha.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034118833718821406,
+          "perplexity": 74,
+          "sentence": "Rochdi said that \u201cthe 3RF is fundamentally for the people, it is about meeting their critical needs, safeguarding their basic rights, giving them a voice and a place in policy making\u201d.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, December 4, 2020\u2014 Four months after the tragic August 4 explosion that rocked the Port of Beirut, the European Union (EU), the United Nations (UN) and the World Bank Group (WBG) launched today, in a virtual press conference, a landmark \u2018people-centered\u2019 response plan to help Lebanon address the urgent needs of the affected population as well as tackle the related governance, recovery and reconstruction challenges. The 18-month Lebanon Reform, Recovery and Reconstruction Framework (3RF) addresses the urgent needs of the population affected by the explosion that killed over 200 people, injured more than 6,500 and destroyed thousands of homes and properties in the capital city. This comprehensive response to the explosion bridges the immediate humanitarian assistance with medium-term recovery and reconstruction efforts, in order to put Lebanon on a path of sustainable development. It is also guided by the overarching principles of transparency, accountability, and inclusion. The 3RF aims to achieve three central goals: (1) a people-centered recovery that addresses people\u2019s basic needs, restores their livelihoods, improves social justice for all and ensures participatory decision-making; (2) the reconstruction of critical assets, services, and infrastructure that provides equal access to quality basic services for all and enables sustainable economic recovery; and (3) the implementation of reforms as an essential requirement to restore trust, support reconstruction and improve governance. Speaking at the conference held at the UN House in Beirut were the Ambassador of the European Union to Lebanon, Ralph Tarraf, the UN Deputy Special Coordinator, Resident and Humanitarian Coordinator for Lebanon, Najat Rochdi, and the Regional Director of the Middle East Department of the World Bank, Saroj Kumar Jha. Rochdi said that \u201cthe 3RF is fundamentally for the people, it is about meeting their critical needs, safeguarding their basic rights, giving them a voice and a place in policy making\u201d.",
+  "date": "04 December 2020"
+}

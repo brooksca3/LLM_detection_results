@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f35c468c-a5b9-408b-932d-b35bce367e9e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.917203903198242,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009065347258001566,
+          "perplexity": 69,
+          "sentence": "UKRAINE - The safe and secure export of Ukrainian food products through the Black Sea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011018157238140702,
+          "perplexity": 14,
+          "sentence": "Ladies and gentlemen of the media, thank you very much for your presence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011490887263789773,
+          "perplexity": 35,
+          "sentence": "Today in Istanbul, we have seen a critical step forward to ensuring the safe and secure export of Ukrainian food products through the Black Sea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010508392006158829,
+          "perplexity": 34,
+          "sentence": "In a world darkened by global crises, today, at last, we have a ray of hope.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009345925645902753,
+          "perplexity": 34,
+          "sentence": "A ray of hope to ease human suffering and alleviate hunger around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009047699277289212,
+          "perplexity": 45,
+          "sentence": "A ray of hope to support developing countries and the most vulnerable people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010084944078698754,
+          "perplexity": 27,
+          "sentence": "A ray of hope to bring a measure of much-needed stability to the global food system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009283512481488287,
+          "perplexity": 68,
+          "sentence": "Since the war started, I have been underlining the importance of having Ukraine's food products and Russian food and fertilizer fully available in world markets.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008580195717513561,
+          "perplexity": 75,
+          "sentence": "I travelled to Moscow and Kyiv to propose solutions for both problems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007900546188466251,
+          "perplexity": 37,
+          "sentence": "Every day since, we have been working around the clock with intense behind-the-scenes talks with countless moving parts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008220995077863336,
+          "perplexity": 69,
+          "sentence": "More technical work will now be needed to materialize today's progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007854758878238499,
+          "perplexity": 14,
+          "sentence": "In the end, the aim of all parties is not just an agreement between the Russian Federation and Ukraine, but an agreement for the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007644264260306954,
+          "perplexity": 50,
+          "sentence": "I thank the government of T\u00fcrkiye for their outstanding efforts to convene these talks - and their critical role going forward.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008841408416628838,
+          "perplexity": 60,
+          "sentence": "I thank Russian and Ukrainian officials for their constructive engagement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008029665914364159,
+          "perplexity": 52,
+          "sentence": "I salute the commitment of all parties working to secure an agreement for our common humanity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007429420948028564,
+          "perplexity": 66,
+          "sentence": "The United Nations pledges to do our full part to support the follow-up - and I thank our UN teams, led by Rebeca Grynspan and Martin Griffiths, who were responsible for the preparation of the UN Plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006857174448668957,
+          "perplexity": 76,
+          "sentence": "Today is an important and substantive step.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006993337883614004,
+          "perplexity": 21,
+          "sentence": "A step on the way to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UKRAINE - The safe and secure export of Ukrainian food products through the Black Sea. Ladies and gentlemen of the media, thank you very much for your presence. Today in Istanbul, we have seen a critical step forward to ensuring the safe and secure export of Ukrainian food products through the Black Sea. In a world darkened by global crises, today, at last, we have a ray of hope. A ray of hope to ease human suffering and alleviate hunger around the world. A ray of hope to support developing countries and the most vulnerable people. A ray of hope to bring a measure of much-needed stability to the global food system. Since the war started, I have been underlining the importance of having Ukraine\u2019s food products and Russian food and fertilizer fully available in world markets. I travelled to Moscow and Kyiv to propose solutions for both problems. Every day since, we have been working around the clock with intense behind-the-scenes talks with countless moving parts. More technical work will now be needed to materialize today\u2019s progress. In the end, the aim of all parties is not just an agreement between the Russian Federation and Ukraine, but an agreement for the world. I thank the government of T\u00fcrkiye for their outstanding efforts to convene these talks \u2013 and their critical role going forward. I thank Russian and Ukrainian officials for their constructive engagement. I salute the commitment of all parties working to secure an agreement for our common humanity. The United Nations pledges to do our full part to support the follow-up \u2013 and I thank our UN teams, led by Rebeca Grynspan and Martin Griffiths, who were responsible for the preparation of the UN Plan. Today is an important and substantive step. A step on the way to",
+  "date": "13 July 2022"
+}

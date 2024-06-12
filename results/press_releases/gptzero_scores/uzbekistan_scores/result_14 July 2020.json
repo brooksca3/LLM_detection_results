@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7add1604-2760-43e8-abd5-f81b9d3b75d9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 94.84112548828125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012788482708856463,
+          "perplexity": 61,
+          "sentence": "The National Human Rights Center, jointly with the United Nations Country Team in Uzbekistan and the OSCE Project Co-Ordinator's Office in Uzbekistan, convened a National Dialogue on human rights protection in the context of restrictions introduced due to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008867642027325928,
+          "perplexity": 48,
+          "sentence": "The dialogue followed the visit by a delegation of UN and OSCE officials to the quarantine center in Urtasaray on 24 June, organized by the Deputy Prime Minister Aziz Abdukhakimov and the First Deputy Speaker of the Legislative Chamber of Oliy Majlis of the Republic of Uzbekistan, Director of the National Human Rights Center, Professor Akmal Saidov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000787734636105597,
+          "perplexity": 19,
+          "sentence": "During the National Dialogue, speakers from the General Prosecutor's Office, the Ministry of Health, the Ministry of Justice, the Children's Ombudsman, an expert from the Office of the UN High Commissioner for Human Rights in Geneva, the vice-chairman of the UN Subcommittee on the Prevention of Torture, a specialist from the WHO Regional Office for Europe and two independent civil society representatives shared lessons learned and recommendations arising from the experience of Uzbekistan and global perspectives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016903140349313617,
+          "perplexity": 47,
+          "sentence": "The Republic of Uzbekistan, like the entire international community, is facing the most serious challenge to humanity in modern history - the pandemic of the coronavirus COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001615634304471314,
+          "perplexity": 19,
+          "sentence": "Thanks to the timely anti-epidemic measures taken by the Government of Uzbekistan, the country is working intensively to minimize the effects of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008054340723901987,
+          "perplexity": 24,
+          "sentence": "In order to counter the spread of the coronavirus infection, the President of Uzbekistan Shavkat Mirziyoyev adopted the Order on the creation of a Special Republican Commission to prepare a program of measures to prevent the import and spread of a new type of coronavirus in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005921862320974469,
+          "perplexity": 43,
+          "sentence": "Subsequently, decisions were made to suspend air, rail and road communications with other states, and to close pre-school, secondary and higher educational institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006066475762054324,
+          "perplexity": 302,
+          "sentence": "A progressive package of economic measures",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The National Human Rights Center, jointly with the United Nations Country Team in Uzbekistan and the OSCE Project Co-Ordinator\u2019s Office in Uzbekistan, convened a National Dialogue on human rights protection in the context of restrictions introduced due to COVID-19. The dialogue followed the visit by a delegation of UN and OSCE officials to the quarantine center in Urtasaray on 24 June, organized by the Deputy Prime Minister Aziz Abdukhakimov and the First Deputy Speaker of the Legislative Chamber of Oliy Majlis of the Republic of Uzbekistan, Director of the National Human Rights Center, Professor Akmal Saidov. During the National Dialogue, speakers from the General Prosecutor's Office, the Ministry of Health, the Ministry of Justice, the Children's Ombudsman, an expert from the Office of the UN High Commissioner for Human Rights in Geneva, the vice-chairman of the UN Subcommittee on the Prevention of Torture, a specialist from the WHO Regional Office for Europe and two independent civil society representatives shared lessons learned and recommendations arising from the experience of Uzbekistan and global perspectives. The Republic of Uzbekistan, like the entire international community, is facing the most serious challenge to humanity in modern history - the pandemic of the coronavirus COVID-19. Thanks to the timely anti-epidemic measures taken by the Government of Uzbekistan, the country is working intensively to minimize the effects of the pandemic. In order to counter the spread of the coronavirus infection, the President of Uzbekistan Shavkat Mirziyoyev adopted the Order on the creation of a Special Republican Commission to prepare a program of measures to prevent the import and spread of a new type of coronavirus in the country. Subsequently, decisions were made to suspend air, rail and road communications with other states, and to close pre-school, secondary and higher educational institutions. A progressive package of economic measures",
+  "date": "14 July 2020"
+}

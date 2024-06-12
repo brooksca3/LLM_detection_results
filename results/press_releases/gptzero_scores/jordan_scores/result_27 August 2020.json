@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0ae1ae54-a2e0-4f91-8aa8-55cc7ec1ebdb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.47082849961330236,
+        "human": 0.52660157257025,
+        "mixed": 0.002569927816447538
+      },
+      "completely_generated_prob": 0.47082849961330236,
+      "confidence_category": "low",
+      "confidence_score": 0.52660157257025,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.47082849961330236,
+          "human": 0.52660157257025,
+          "mixed": 0.002569927816447538
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 64.61963653564453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.9410928246234925,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.8553529381752014,
+          "perplexity": 23,
+          "sentence": "UNHCR, the UN Refugee Agency, has distributed emergency cash assistance to approximately 39,000 refugee families in August to help them cope with the impact of the coronavirus pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.875901460647583,
+          "perplexity": 59,
+          "sentence": "This follows similar distributions earlier in May and aims to relieve some of the burden caused by the loss of livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8697541952133179,
+          "perplexity": 30,
+          "sentence": "40 percent of refugees in Jordan are estimated to have lost their jobs as a result of the coronavirus crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8732340931892395,
+          "perplexity": 24,
+          "sentence": "Generously funded by the United States and the UN Central Emergency Response Fund, the equivalent of $10 million in emergency cash assistance has been distributed to over 43,000 refugee families since the beginning of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.875396728515625,
+          "perplexity": 25,
+          "sentence": "This is in addition to UNHCR's monthly cash assistance program which continues to reach 33,000 families every month, providing a regular and reliable source of income to the most vulnerable refugees, the majority of whom use it to pay their rent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8682528138160706,
+          "perplexity": 52,
+          "sentence": "\u201cThe impact of the coronavirus crisis is not going away anytime soon, and we must find ways to support an increased number of vulnerable refugees for the foreseeable future,\u201d said Dominik Bartsch, UNHCR Representative in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8780495524406433,
+          "perplexity": 255,
+          "sentence": "\u201cCash assistance provides immediate relief but long-term strategies to address the economic impact and inclusion within national systems are essential ingredients,\u201d he concluded.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8735302686691284,
+          "perplexity": 18,
+          "sentence": "Over the last six months since the start of the coronavirus crisis in Jordan, UNHCR has worked closely with the Government of Jordan to ensure that refugees are part of the national coronavirus response plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8792613744735718,
+          "perplexity": 60,
+          "sentence": "Funding has been provided to the Ministry of Health and refugees have been included within national coronavirus testing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8846639394760132,
+          "perplexity": 40,
+          "sentence": "There have been no cases among refugees living in Zaatari and Azraq refugee camps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.888867199420929,
+          "perplexity": 55,
+          "sentence": "Despite this, challenges remain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.8729633092880249,
+          "perplexity": 27,
+          "sentence": "An increase in child labor, refugees being evicted from their homes due to not being able to pay their rent and those seeking mental",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNHCR, the UN Refugee Agency, has distributed emergency cash assistance to approximately 39,000 refugee families in August to help them cope with the impact of the coronavirus pandemic. This follows similar distributions earlier in May and aims to relieve some of the burden caused by the loss of livelihoods. 40 percent of refugees in Jordan are estimated to have lost their jobs as a result of the coronavirus crisis. Generously funded by the United States and the UN Central Emergency Response Fund, the equivalent of $10 million in emergency cash assistance has been distributed to over 43,000 refugee families since the beginning of the pandemic. This is in addition to UNHCR\u2019s monthly cash assistance program which continues to reach 33,000 families every month, providing a regular and reliable source of income to the most vulnerable refugees, the majority of whom use it to pay their rent. \u201cThe impact of the coronavirus crisis is not going away anytime soon, and we must find ways to support an increased number of vulnerable refugees for the foreseeable future,\u201d said Dominik Bartsch, UNHCR Representative in Jordan. \u201cCash assistance provides immediate relief but long-term strategies to address the economic impact and inclusion within national systems are essential ingredients,\u201d he concluded. Over the last six months since the start of the coronavirus crisis in Jordan, UNHCR has worked closely with the Government of Jordan to ensure that refugees are part of the national coronavirus response plan. Funding has been provided to the Ministry of Health and refugees have been included within national coronavirus testing. There have been no cases among refugees living in Zaatari and Azraq refugee camps. Despite this, challenges remain. An increase in child labor, refugees being evicted from their homes due to not being able to pay their rent and those seeking mental",
+  "date": "27 August 2020"
+}

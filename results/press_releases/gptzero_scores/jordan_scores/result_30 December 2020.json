@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ef663f56-27a7-4b80-8390-a70a89f97457",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.20823669433594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005663807387463748,
+          "perplexity": 102,
+          "sentence": "The German FC PMU will be integrated into the Ministry's Development Coordination Unit and will provide technical advice and support on German-funded projects: \"UNOPS is committed to successfully implement this project under the Ministry's leadership\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003604762605391443,
+          "perplexity": 79,
+          "sentence": "In the framework of Germany's continuing support to Jordan, The German FC PMU will be integrated into the Ministry's Development Coordination Unit and will provide technical advice and support on German-funded projects, including the coordination and facilitation of the School Construction Programme and the implementation of the reform towards a stronger facility management and maintenance at Jordanian public schools supported by the Development Policy Loan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045495518133975565,
+          "perplexity": 72,
+          "sentence": "Mr. Muhammad Usman Akram, Director UNOPS Operational Hub in Amman stated: \u201cThis is another example of the close cooperation and partnership between KfW, UNOPS and the MoE to support the education sector in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003321714175399393,
+          "perplexity": 42,
+          "sentence": "The German FC PMU is premised on the principle of national ownership, and UNOPS is committed to successfully implement this project under the Ministry's leadership,\u201d The German FC PMU will be financed by the Federal Ministry for Economic Cooperation and Development (BMZ) on behalf of the German government to support the implementation of MoE's and KfW's joint projects.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002711941779125482,
+          "perplexity": 84,
+          "sentence": "Dr. Mark Schwiete, KfW Country Director Jordan (German Development Bank) and Ms. Bana Kaloti, UNOPS Regional Director for the Middle East signed an agreement on November 26, 2020 to establish a German Financial Cooperation Programme Management Unit (German FC PMU) at the Ministry of Education (MoE).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033042163704521954,
+          "perplexity": 169,
+          "sentence": "\u201cThe establishment of the German FC PMU is a milestone in our cooperation with MoE.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030896367388777435,
+          "perplexity": 100,
+          "sentence": "We are convinced that UNOPS is the right partner to manage the PMU and to assist MoE in driving its reform agenda on maintenance and in implementing the school construction programme.\u201d Also commenting on the signing of the agreement, Ms. Bana Kaloti - Regional Director for the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The German FC PMU will be integrated into the Ministry\u2019s Development Coordination Unit and will provide technical advice and support on German-funded projects: \"UNOPS is committed to successfully implement this project under the Ministry's leadership\u201d. In the framework of Germany\u2019s continuing support to Jordan, The German FC PMU will be integrated into the Ministry\u2019s Development Coordination Unit and will provide technical advice and support on German-funded projects, including the coordination and facilitation of the School Construction Programme and the implementation of the reform towards a stronger facility management and maintenance at Jordanian public schools supported by the Development Policy Loan. Mr. Muhammad Usman Akram, Director UNOPS Operational Hub in Amman stated: \u201cThis is another example of the close cooperation and partnership between KfW, UNOPS and the MoE to support the education sector in Jordan. The German FC PMU is premised on the principle of national ownership, and UNOPS is committed to successfully implement this project under the Ministry's leadership,\u201d The German FC PMU will be financed by the Federal Ministry for Economic Cooperation and Development (BMZ) on behalf of the German government to support the implementation of MoE\u2019s and KfW\u2019s joint projects. Dr. Mark Schwiete, KfW Country Director Jordan (German Development Bank) and Ms. Bana Kaloti, UNOPS Regional Director for the Middle East signed an agreement on November 26, 2020 to establish a German Financial Cooperation Programme Management Unit (German FC PMU) at the Ministry of Education (MoE). \u201cThe establishment of the German FC PMU is a milestone in our cooperation with MoE. We are convinced that UNOPS is the right partner to manage the PMU and to assist MoE in driving its reform agenda on maintenance and in implementing the school construction programme.\u201d Also commenting on the signing of the agreement, Ms. Bana Kaloti \u2013 Regional Director for the",
+  "date": "30 December 2020"
+}

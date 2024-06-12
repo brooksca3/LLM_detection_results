@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "12155687-071b-400f-9d1d-1d2e3fd7cb1f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.82904624938965,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006625038804486394,
+          "perplexity": 41,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to Stockholm +50 International meeting, in Stockholm on 2 June: Fifty years ago, the United Nations convened the landmark Conference on the Human Environment here in Stockholm.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007123359828256071,
+          "perplexity": 29,
+          "sentence": "World leaders recognized that we have a collective responsibility to protect the environment so humanity can enjoy peace, prosperity and sustainable progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007047222461551428,
+          "perplexity": 22,
+          "sentence": "But today global well-being is in jeopardy, in large part because we have not kept our promises on the environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008550414931960404,
+          "perplexity": 53,
+          "sentence": "Yes, we have rescued the ozone layer - a remarkable example of multilateral cooperation that should inspire us as we go forward.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007872761343605816,
+          "perplexity": 26,
+          "sentence": "But, as we have become more populous and prosperous, our environmental footprint has become unbearably heavy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006647047121077776,
+          "perplexity": 37,
+          "sentence": "We are consuming at the rate of 1.7 planets a year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006042429595254362,
+          "perplexity": 41,
+          "sentence": "If global consumption were at the level of the world's richest countries, we would need more than three planet Earths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005208371439948678,
+          "perplexity": 53,
+          "sentence": "A climate emergency that is killing and displacing ever more people each year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005803009844385087,
+          "perplexity": 36,
+          "sentence": "Ecosystems degradation that are escalating the loss of biodiversity and compromising the well-being of more than 3 billion people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005150354118086398,
+          "perplexity": 46,
+          "sentence": "And a growing tide of pollution and waste that is costing some 9 million lives a year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000558918749447912,
+          "perplexity": 75,
+          "sentence": "We need to change course - now - and end our senseless and suicidal war against nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006207825499586761,
+          "perplexity": 56,
+          "sentence": "The 17 Sustainable Development Goals and the Paris Agreement show the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005652735126204789,
+          "perplexity": 110,
+          "sentence": "Later this year, leaders will finalize a new global biodiversity framework to reverse nature loss by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007077340851537883,
+          "perplexity": 135,
+          "sentence": "Work is ongoing to establish a treaty to tackle plastics pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007120664813555777,
+          "perplexity": 101,
+          "sentence": "And the United Nations Ocean Conference can galvanize efforts to save our oceans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006980131729505956,
+          "perplexity": 36,
+          "sentence": "But there is one thing that threatens all our progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007548198918811977,
+          "perplexity": 21,
+          "sentence": "Unless we act now, we will not have a livable planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008844622643664479,
+          "perplexity": 51,
+          "sentence": "Scientists recently reported that there is a [50:50] chance that we could temporarily breach the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to Stockholm +50 International meeting, in Stockholm on 2 June: Fifty years ago, the United Nations convened the landmark Conference on the Human Environment here in Stockholm. World leaders recognized that we have a collective responsibility to protect the environment so humanity can enjoy peace, prosperity and sustainable progress. But today global well-being is in jeopardy, in large part because we have not kept our promises on the environment. Yes, we have rescued the ozone layer \u2013 a remarkable example of multilateral cooperation that should inspire us as we go forward. But, as we have become more populous and prosperous, our environmental footprint has become unbearably heavy. We are consuming at the rate of 1.7 planets a year. If global consumption were at the level of the world\u2019s richest countries, we would need more than three planet Earths. A climate emergency that is killing and displacing ever more people each year. Ecosystems degradation that are escalating the loss of biodiversity and compromising the well-being of more than 3 billion people. And a growing tide of pollution and waste that is costing some 9 million lives a year. We need to change course \u2013 now \u2013 and end our senseless and suicidal war against nature. The 17 Sustainable Development Goals and the Paris Agreement show the way. Later this year, leaders will finalize a new global biodiversity framework to reverse nature loss by 2030. Work is ongoing to establish a treaty to tackle plastics pollution. And the United Nations Ocean Conference can galvanize efforts to save our oceans. But there is one thing that threatens all our progress. Unless we act now, we will not have a livable planet. Scientists recently reported that there is a [50:50] chance that we could temporarily breach the",
+  "date": "02 July 2022"
+}

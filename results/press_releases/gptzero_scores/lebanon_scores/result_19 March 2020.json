@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0501bfa8-01be-4b04-8473-ff84af7fb734",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.53987503051758,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011538731632754207,
+          "perplexity": 14,
+          "sentence": "I was very glad to meet with His Excellency, the Minister of Foreign Affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009983957279473543,
+          "perplexity": 62,
+          "sentence": "The United Nations - the leadership both here in the country but also in New York - are strongly committed to assist Lebanon, notably during this time of challenges and crises that have been exacerbated by the coronavirus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009549537790007889,
+          "perplexity": 69,
+          "sentence": "I came to react and respond to the appeal coming from the Government of Lebanon that was addressed to all the international partners to provide assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010110990842804313,
+          "perplexity": 36,
+          "sentence": "I came with a message from the Secretary-General Antonio Guterres, with whom the leadership of the UN in Lebanon had a videoconference yesterday evening.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009882409358397126,
+          "perplexity": 58,
+          "sentence": "The message is the UN system is here to help - the different parts of the UN system depending on their mandates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009154515573754907,
+          "perplexity": 43,
+          "sentence": "On coronavirus, it is notably under the leadership of the World Health Organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008107433677650988,
+          "perplexity": 30,
+          "sentence": "We together along with the World Bank are very actively working on how to increase assistance to the most vulnerable parts of the population and on how to help Lebanon increase its social safety net.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007585114217363298,
+          "perplexity": 86,
+          "sentence": "We are working and providing expertise and assistance with regards to the economic rescue plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009003771701827645,
+          "perplexity": 71,
+          "sentence": "We contribute in many areas of humanitarian work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009184705559164286,
+          "perplexity": 14,
+          "sentence": "That is the message of the Secretary-General, and I was very happy to share it with His Excellency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007532864110544324,
+          "perplexity": 72,
+          "sentence": "All international partners are also eagerly waiting for the framework of a comprehensive economic rescue plan that should come from the Government soonest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007459273329004645,
+          "perplexity": 180,
+          "sentence": "It should help us organize ourselves and provide assistance for Lebanon even better.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008398807840421796,
+          "perplexity": 43,
+          "sentence": "It was a good, productive exchange of views.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "I was very glad to meet with His Excellency, the Minister of Foreign Affairs. The United Nations \u2013 the leadership both here in the country but also in New York \u2013 are strongly committed to assist Lebanon, notably during this time of challenges and crises that have been exacerbated by the coronavirus. I came to react and respond to the appeal coming from the Government of Lebanon that was addressed to all the international partners to provide assistance. I came with a message from the Secretary-General Antonio Guterres, with whom the leadership of the UN in Lebanon had a videoconference yesterday evening. The message is the UN system is here to help \u2013 the different parts of the UN system depending on their mandates. On coronavirus, it is notably under the leadership of the World Health Organization. We together along with the World Bank are very actively working on how to increase assistance to the most vulnerable parts of the population and on how to help Lebanon increase its social safety net. We are working and providing expertise and assistance with regards to the economic rescue plan. We contribute in many areas of humanitarian work. That is the message of the Secretary-General, and I was very happy to share it with His Excellency. All international partners are also eagerly waiting for the framework of a comprehensive economic rescue plan that should come from the Government soonest. It should help us organize ourselves and provide assistance for Lebanon even better. It was a good, productive exchange of views.",
+  "date": "19 March 2020"
+}

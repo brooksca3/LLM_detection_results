@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e56f7598-4d39-40cd-9613-f4d9bfdb3d46",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 61.69047164916992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022363930474966764,
+          "perplexity": 30,
+          "sentence": "Baghdad, 15 November 2022 - The United Nations Mine Action Service (UNMAS) welcomes the contribution of EUR 500,000 (approximately USD 495,370) from the Government of France, which will support the Government of Iraq in its efforts to protect civilians impacted by the threat of explosive ordnance and enable humanitarian action, peacebuilding and socio-economic development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021214310254435986,
+          "perplexity": 52,
+          "sentence": "Legacy landmine contamination and other explosive remnants of war left from four decades of war and conflict, continue to threaten the lives of the Iraqi communities and to cause significant numbers of civilian casualties in southern Iraq, particularly in the Basra Governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022560468642041087,
+          "perplexity": 52,
+          "sentence": "This contribution will support the ongoing clearance of explosive ordnance in the Shatt Al-Arab region near the city of Basra.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000201016417122446,
+          "perplexity": 34,
+          "sentence": "This clearance will enable infrastructure-enhancing socio-economic development in this region The project will support the Government of Iraq to meet its obligations under the Anti-Personnel Mine Ban Convention (APMBC), in addition to directly supporting the Iraqi Directorate for Mine Action to clear areas, to provide safe spaces for returnees, and to protect the population from explosive threats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019450151012279093,
+          "perplexity": 126,
+          "sentence": "The project will also provide explosive-ordnance risk-education and deliver lifesaving messages in the area of Shatt Al-Arab, enabling pilgrims and local community members to transit through the area safely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018247426487505436,
+          "perplexity": 70,
+          "sentence": "In response to the extensive legacy contamination in Iraq, UNMAS will continue its clearance operations that began in 2021, and has resulted in the clearance of 995,794 m2 of contaminated areas and the removal of 6,344 items.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017415749607607722,
+          "perplexity": 102,
+          "sentence": "Eric Chevallier, the Ambassador of France to Iraq stated that, \u201cthis latest substantial financial commitment by France to UNMAS demonstrates once more our steadfast support to all of the Iraqi people in helping rebuild and render safe their country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018644270312506706,
+          "perplexity": 214,
+          "sentence": "In this case, France is proud to support reconstruction and development efforts in southern Iraq.\u201d Mr. Pehr Lodhammar, Chief of the UNMAS",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 15 November 2022 \u2013 The United Nations Mine Action Service (UNMAS) welcomes the contribution of EUR 500,000 (approximately USD 495,370) from the Government of France, which will support the Government of Iraq in its efforts to protect civilians impacted by the threat of explosive ordnance and enable humanitarian action, peacebuilding and socio-economic development. Legacy landmine contamination and other explosive remnants of war left from four decades of war and conflict, continue to threaten the lives of the Iraqi communities and to cause significant numbers of civilian casualties in southern Iraq, particularly in the Basra Governorate. This contribution will support the ongoing clearance of explosive ordnance in the Shatt Al-Arab region near the city of Basra. This clearance will enable infrastructure-enhancing socio-economic development in this region The project will support the Government of Iraq to meet its obligations under the Anti-Personnel Mine Ban Convention (APMBC), in addition to directly supporting the Iraqi Directorate for Mine Action to clear areas, to provide safe spaces for returnees, and to protect the population from explosive threats. The project will also provide explosive-ordnance risk-education and deliver lifesaving messages in the area of Shatt Al-Arab, enabling pilgrims and local community members to transit through the area safely. In response to the extensive legacy contamination in Iraq, UNMAS will continue its clearance operations that began in 2021, and has resulted in the clearance of 995,794 m2 of contaminated areas and the removal of 6,344 items. Eric Chevallier, the Ambassador of France to Iraq stated that, \u201cthis latest substantial financial commitment by France to UNMAS demonstrates once more our steadfast support to all of the Iraqi people in helping rebuild and render safe their country. In this case, France is proud to support reconstruction and development efforts in southern Iraq.\u201d Mr. Pehr Lodhammar, Chief of the UNMAS",
+  "date": "15 November 2022"
+}

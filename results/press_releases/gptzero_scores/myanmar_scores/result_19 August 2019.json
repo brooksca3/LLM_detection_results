@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "446912b5-c3f5-4c3d-83d4-362f5b9cd6a4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010887811144562718,
+        "human": 0.9884935632222235,
+        "mixed": 0.0006186256332137908
+      },
+      "completely_generated_prob": 0.010887811144562718,
+      "confidence_category": "high",
+      "confidence_score": 0.9884935632222235,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010887811144562718,
+          "human": 0.9884935632222235,
+          "mixed": 0.0006186256332137908
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.79380989074707,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002860702807083726,
+          "perplexity": 18,
+          "sentence": "This year we pay special tribute to the women who make up an estimated 40 per cent of the global humanitarian work force, providing food, water, healthcare and other essentials to those in greatest need, whether because of natural disasters or armed conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008991795475594699,
+          "perplexity": 33,
+          "sentence": "Yangon - Today we mark World Humanitarian Day, an annual event that honours humanitarian workers, who often risk their own lives to help save and improve the lives of others caught up in crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008439236553385854,
+          "perplexity": 18,
+          "sentence": "This year we pay special tribute to the women who make up an estimated 40 per cent of the global humanitarian work force, providing food, water, healthcare and other essentials to those in greatest need, whether because of natural disasters or armed conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004413323942571878,
+          "perplexity": 66,
+          "sentence": "Myanmar is a country with endless potential, undergoing rapid change, which continues to grapple with complex humanitarian challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002185962162911892,
+          "perplexity": 20,
+          "sentence": "It is among the most disaster-prone countries in the world, with climate change expected to contribute to even more frequent cyclones and more destructive flooding, and with major cities along earthquake fault lines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012075122212991118,
+          "perplexity": 19,
+          "sentence": "Parts of the country have experienced near-continuous armed conflict since independence, and at least one quarter of a million people are currently internally displaced from their homes in Kachin, Shan, Rakhine and Kayin states.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015155713772401214,
+          "perplexity": 19,
+          "sentence": "In addition, years of successive waves of violence in Rakhine spiked in August 2017, triggering an exodus of more than 740,000 men, women and children who fled across the border into Bangladesh, where nearly 1 million are now refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00268122018314898,
+          "perplexity": 20,
+          "sentence": "Since the beginning of this year, Rakhine has seen a major escalation of a separate conflict, forcing tens of thousands of other people from their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036912253126502037,
+          "perplexity": 19,
+          "sentence": "With more than 900,000 people in need of humanitarian assistance in Myanmar in 2019, humanitarian workers play a critical role across the country, saving lives, restoring dignity and providing hope.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This year we pay special tribute to the women who make up an estimated 40 per cent of the global humanitarian work force, providing food, water, healthcare and other essentials to those in greatest need, whether because of natural disasters or armed conflict. Yangon - Today we mark World Humanitarian Day, an annual event that honours humanitarian workers, who often risk their own lives to help save and improve the lives of others caught up in crisis. This year we pay special tribute to the women who make up an estimated 40 per cent of the global humanitarian work force, providing food, water, healthcare and other essentials to those in greatest need, whether because of natural disasters or armed conflict. Myanmar is a country with endless potential, undergoing rapid change, which continues to grapple with complex humanitarian challenges. It is among the most disaster-prone countries in the world, with climate change expected to contribute to even more frequent cyclones and more destructive flooding, and with major cities along earthquake fault lines. Parts of the country have experienced near-continuous armed conflict since independence, and at least one quarter of a million people are currently internally displaced from their homes in Kachin, Shan, Rakhine and Kayin states. In addition, years of successive waves of violence in Rakhine spiked in August 2017, triggering an exodus of more than 740,000 men, women and children who fled across the border into Bangladesh, where nearly 1 million are now refugees. Since the beginning of this year, Rakhine has seen a major escalation of a separate conflict, forcing tens of thousands of other people from their homes. With more than 900,000 people in need of humanitarian assistance in Myanmar in 2019, humanitarian workers play a critical role across the country, saving lives, restoring dignity and providing hope.",
+  "date": "19 August 2019"
+}

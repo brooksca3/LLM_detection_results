@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5b92a5d5-09f9-4234-9ae4-6b24a70d7015",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 253.3679656982422,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006243137759156525,
+          "perplexity": 28,
+          "sentence": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres' video message to the General Assembly's high-level thematic debate titled \u201cMoment for Nature\u201d, in New York on 19 July: A healthy planet is the foundation for human well-being, sustainable development and long-term prosperity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005567741463892162,
+          "perplexity": 346,
+          "sentence": "But nature and its benefits are deteriorating worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00057803193340078,
+          "perplexity": 53,
+          "sentence": "We face a triple crisis of climate disruption, biodiversity loss and pollution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000636925979051739,
+          "perplexity": 15,
+          "sentence": "One million species of plants and animals are threatened with extinction, threatening the livelihood of millions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006414448143914342,
+          "perplexity": 50,
+          "sentence": "The global food system is a primary driver of this loss.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004822784394491464,
+          "perplexity": 22,
+          "sentence": "Three quarters of the land and two thirds of the ocean are adversely impacted by human activity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004611689655575901,
+          "perplexity": 29,
+          "sentence": "Some 3.2 billion people are affected by land degradation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005820883088745177,
+          "perplexity": 28,
+          "sentence": "Our ways of life -- based on producing, consuming, discarding and polluting -- have brought us to this dire state of affairs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005252067930996418,
+          "perplexity": 41,
+          "sentence": "But, since human activities are at the root of this planetary emergency, that means we also hold the key to the solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006854665116406977,
+          "perplexity": 26,
+          "sentence": "Now is the time to transform our relationship with nature and chart a new path.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006020702421665192,
+          "perplexity": 52,
+          "sentence": "Key milestones lie ahead of us this year, where we can and must deliver.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005280121113173664,
+          "perplexity": 18,
+          "sentence": "Above all, we must limit global temperature rise to 1.5\u00b0C.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004224009462632239,
+          "perplexity": 23,
+          "sentence": "At the twenty-seventh United Nations Climate Change Conference in Egypt, we need commitments that will deliver a reduction of emissions by 45 per cent by 2030 so we can reach net zero emissions by mid-century.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004162874538451433,
+          "perplexity": 58,
+          "sentence": "Current national commitments point to an increase of almost 14 per cent this decade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005015520728193223,
+          "perplexity": 1081,
+          "sentence": "That spells catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005353282322175801,
+          "perplexity": 191,
+          "sentence": "Second, we must halt and reverse nature loss.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005753727164119482,
+          "perplexity": 39,
+          "sentence": "At the fifteenth United Nations Biodiversity Conference in Montreal, we need a bold, global agreement that tackles the key drivers of biodiversity loss.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005305467057041824,
+          "perplexity": 39,
+          "sentence": "We need to close the biodiversity finance gap of approximately $700 billion a year by 2030, and we must",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres\u2019 video message to the General Assembly\u2019s high-level thematic debate titled \u201cMoment for Nature\u201d, in New York on 19 July: A healthy planet is the foundation for human well-being, sustainable development and long-term prosperity. But nature and its benefits are deteriorating worldwide. We face a triple crisis of climate disruption, biodiversity loss and pollution. One million species of plants and animals are threatened with extinction, threatening the livelihood of millions. The global food system is a primary driver of this loss. Three quarters of the land and two thirds of the ocean are adversely impacted by human activity. Some 3.2 billion people are affected by land degradation. Our ways of life -- based on producing, consuming, discarding and polluting -- have brought us to this dire state of affairs. But, since human activities are at the root of this planetary emergency, that means we also hold the key to the solutions. Now is the time to transform our relationship with nature and chart a new path. Key milestones lie ahead of us this year, where we can and must deliver. Above all, we must limit global temperature rise to 1.5\u00b0C. At the twenty-seventh United Nations Climate Change Conference in Egypt, we need commitments that will deliver a reduction of emissions by 45 per cent by 2030 so we can reach net zero emissions by mid-century. Current national commitments point to an increase of almost 14 per cent this decade. That spells catastrophe. Second, we must halt and reverse nature loss. At the fifteenth United Nations Biodiversity Conference in Montreal, we need a bold, global agreement that tackles the key drivers of biodiversity loss. We need to close the biodiversity finance gap of approximately $700 billion a year by 2030, and we must",
+  "date": "19 July 2022"
+}

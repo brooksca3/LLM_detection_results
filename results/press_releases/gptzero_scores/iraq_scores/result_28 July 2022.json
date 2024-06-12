@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e4caee3a-e16e-4210-9101-9c794f20ff59",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 139.85476684570312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00041256443364545703,
+          "perplexity": 18,
+          "sentence": "Beirut, 28 July 2022 - The Republic of Iraq is considered one of the most vulnerable countries in the Arab region to the impacts of climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004612555494531989,
+          "perplexity": 22,
+          "sentence": "Recent years have witnessed a higher frequency and intensity of extreme weather events, such as heat waves, drought, sand and dust storms, leading to rising environmental degradation and socio-economic impacts throughout the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002740956551861018,
+          "perplexity": 43,
+          "sentence": "With the aim to assist Iraq in its planning for climate change adaptation, the UN Environment Programme Regional Office for West Asia has concluded a 3-day capacity building workshop on climate change modelling and climate risk assessment that brought together representatives from the Iraqi government from Ministry of Environment including technical teams from the Climate Change Center and Climate Modelling Unit that was recently established to serve as hub to access to data and information and enhance and strengthen Iraq's capacity to generate, analyse and disseminate climate information and climate research.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026151002384722233,
+          "perplexity": 53,
+          "sentence": "Held at the UN House in Beirut from 26 to 28 July, this workshop is a part of the Iraq National Adaptation Plan (NAP) Readiness project funded by Green Climate Fund (GCF), that aims to strengthen institutional capacity to support decision-makers with climatic projections, scenarios, risk assessment and data.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026942676049657166,
+          "perplexity": 75,
+          "sentence": "This will further enable institutions and decision-makers to integrate medium to long-term adaptation actions into national development planning in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002192577812820673,
+          "perplexity": 95,
+          "sentence": "\u201cUNEP Regional Office for West Asia has been working with the government of Iraq to strengthen institutional, technical, and financial capacities and assess and bridge existing gaps in climate knowledge in Iraq\u201d, said Mr. Sami Dimassi, UNEP Representative and Regional director for West Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020411437435541302,
+          "perplexity": 112,
+          "sentence": "\u201cOur technical support intends to assist Iraq in the formulation and implementation of the NAP process that is multi-sectoral and integrate climate change into its national decision making\u201d, he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002020799001911655,
+          "perplexity": 444,
+          "sentence": "The workshop introduced the methodologies used",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 28 July 2022 \u2013 The Republic of Iraq is considered one of the most vulnerable countries in the Arab region to the impacts of climate change. Recent years have witnessed a higher frequency and intensity of extreme weather events, such as heat waves, drought, sand and dust storms, leading to rising environmental degradation and socio-economic impacts throughout the country. With the aim to assist Iraq in its planning for climate change adaptation, the UN Environment Programme Regional Office for West Asia has concluded a 3-day capacity building workshop on climate change modelling and climate risk assessment that brought together representatives from the Iraqi government from Ministry of Environment including technical teams from the Climate Change Center and Climate Modelling Unit that was recently established to serve as hub to access to data and information and enhance and strengthen Iraq\u2019s capacity to generate, analyse and disseminate climate information and climate research. Held at the UN House in Beirut from 26 to 28 July, this workshop is a part of the Iraq National Adaptation Plan (NAP) Readiness project funded by Green Climate Fund (GCF), that aims to strengthen institutional capacity to support decision-makers with climatic projections, scenarios, risk assessment and data. This will further enable institutions and decision-makers to integrate medium to long-term adaptation actions into national development planning in Iraq. \u201cUNEP Regional Office for West Asia has been working with the government of Iraq to strengthen institutional, technical, and financial capacities and assess and bridge existing gaps in climate knowledge in Iraq\u201d, said Mr. Sami Dimassi, UNEP Representative and Regional director for West Asia. \u201cOur technical support intends to assist Iraq in the formulation and implementation of the NAP process that is multi-sectoral and integrate climate change into its national decision making\u201d, he added. The workshop introduced the methodologies used",
+  "date": "28 July 2022"
+}

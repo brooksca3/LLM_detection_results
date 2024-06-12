@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a7cba734-b593-470f-8da6-17ab1e5f8716",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.12449645996094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008106213645078242,
+          "perplexity": 98,
+          "sentence": "WFP requires some $94 million in funds to provide lifesaving monthly food assistance and to stop thousands from slipping further into food insecurity and poverty.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009115036227740347,
+          "perplexity": 16,
+          "sentence": "After more than a decade, Syrian refugees in Jordan are now suffering the worst food-security situation since the start of the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000850408454425633,
+          "perplexity": 37,
+          "sentence": "A quarter of refugees across Jordan are food insecure and 65% are on the edge of food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014613228850066662,
+          "perplexity": 51,
+          "sentence": "The socio-economic impact of the COVID-19 pandemic on donor home economies has limited The United Nations World Food Programme (WFP) in Jordan from reaching its funding target and maintaining the level of assistance it provides for refugees to meet their food needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001092851860448718,
+          "perplexity": 71,
+          "sentence": "With current indications, WFP will likely have to cut assistance to 194,000 refugees in May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009835510281845927,
+          "perplexity": 137,
+          "sentence": "Assistance to those refugees in camps and 201,000 most vulnerable refugees in communities will continue through July.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016548391431570053,
+          "perplexity": 29,
+          "sentence": "WFP is working to ensure that assistance is directed to the families who need it most, given the funding gaps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001611902262084186,
+          "perplexity": 80,
+          "sentence": "If the required funds are not received by July, WFP will be forced to cut assistance to another 313,000 refugee beneficiaries after July.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001761137624271214,
+          "perplexity": 47,
+          "sentence": "The consequences of such cuts would be dire, as 16 percent of refugee families rely fully on WFP's food assistance, with no other source of income.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001535687129944563,
+          "perplexity": 103,
+          "sentence": "According to assessments, 59 percent of refugees' total household income comprises of WFP's food assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013134380569681525,
+          "perplexity": 41,
+          "sentence": "The levels of food insecurity amongst refugee families is already pushing families to resort to negative food-based consumption strategies, such as eating less so their children can eat more, limiting the number of meals they are eating, reducing portion size, borrowing food and relying on less preferred and less expensive food to eat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013301483122631907,
+          "perplexity": 13,
+          "sentence": "Families' inability to put food on the table has caused them to drop their children out of school, send them to work or even",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WFP requires some $94 million in funds to provide lifesaving monthly food assistance and to stop thousands from slipping further into food insecurity and poverty. After more than a decade, Syrian refugees in Jordan are now suffering the worst food-security situation since the start of the conflict. A quarter of refugees across Jordan are food insecure and 65% are on the edge of food insecurity. The socio-economic impact of the COVID-19 pandemic on donor home economies has limited The United Nations World Food Programme (WFP) in Jordan from reaching its funding target and maintaining the level of assistance it provides for refugees to meet their food needs. With current indications, WFP will likely have to cut assistance to 194,000 refugees in May. Assistance to those refugees in camps and 201,000 most vulnerable refugees in communities will continue through July. WFP is working to ensure that assistance is directed to the families who need it most, given the funding gaps. If the required funds are not received by July, WFP will be forced to cut assistance to another 313,000 refugee beneficiaries after July. The consequences of such cuts would be dire, as 16 percent of refugee families rely fully on WFP\u2019s food assistance, with no other source of income. According to assessments, 59 percent of refugees\u2019 total household income comprises of WFP\u2019s food assistance. The levels of food insecurity amongst refugee families is already pushing families to resort to negative food-based consumption strategies, such as eating less so their children can eat more, limiting the number of meals they are eating, reducing portion size, borrowing food and relying on less preferred and less expensive food to eat. Families\u2019 inability to put food on the table has caused them to drop their children out of school, send them to work or even",
+  "date": "18 March 2021"
+}

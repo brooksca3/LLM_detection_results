@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d9cb0d09-d999-432a-8db8-a228ffa09041",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.2369441986084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007320930017158389,
+          "perplexity": 27,
+          "sentence": "The following statement was issued today by the Spokesman for UN Secretary-General Ant\u00f3nio Guterres on 30 January: 1 February marks two years since the Myanmar military overturned and arbitrarily detained members of the democratically elected civilian Government, including President U Win Myint and State Counsellor Daw Aung San Suu Kyi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00090580596588552,
+          "perplexity": 14,
+          "sentence": "The Secretary-General continues to stand in solidarity with the people of Myanmar and to support their democratic aspirations for an inclusive, peaceful and just society and the protection of all communities, including the Rohingya.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011322491336613894,
+          "perplexity": 79,
+          "sentence": "He strongly condemns all forms of violence as the multidimensional crisis continues to deteriorate and fuel serious regional implications.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000861989101395011,
+          "perplexity": 51,
+          "sentence": "The Secretary-General welcomes the 21 December 2022 adoption of Security Council resolution 2669 (2022) as an important step and underlines the urgency for strengthened international unity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007705700118094683,
+          "perplexity": 16,
+          "sentence": "As called for by the Security Council, the Secretary-General's Special Envoy will coordinate closely with the new Special Envoy of the Association of Southeast Asian Nations (ASEAN) Chair to engage intensively with all relevant parties in Myanmar to achieve an end to the violence and to support a return to democracy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012296810746192932,
+          "perplexity": 34,
+          "sentence": "The Secretary-General is concerned by the military's stated intention to hold elections amid intensifying aerial bombardment and burning of civilian houses, along with ongoing arrests, intimidation and harassment of political leaders, civil society actors and journalists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017444230616092682,
+          "perplexity": 51,
+          "sentence": "Without conditions that permit the people of Myanmar to freely exercise their political rights, the proposed polls risk exacerbating instability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001517337397672236,
+          "perplexity": 79,
+          "sentence": "The United Nations is committed to staying in Myanmar and addressing the multiple vulnerabilities arising from the military's actions since February 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011599356075748801,
+          "perplexity": 30,
+          "sentence": "This requires full and unhindered access to all affected communities as well as prioritizing the safety and security of the United Nations agencies and its partners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009901681914925575,
+          "perplexity": 51,
+          "sentence": "The Secretary-General renews his call for neighbouring countries and other Member States to urge the military",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The following statement was issued today by the Spokesman for UN Secretary-General Ant\u00f3nio Guterres on 30 January: 1 February marks two years since the Myanmar military overturned and arbitrarily detained members of the democratically elected civilian Government, including President U Win Myint and State Counsellor Daw Aung San Suu Kyi. The Secretary-General continues to stand in solidarity with the people of Myanmar and to support their democratic aspirations for an inclusive, peaceful and just society and the protection of all communities, including the Rohingya. He strongly condemns all forms of violence as the multidimensional crisis continues to deteriorate and fuel serious regional implications. The Secretary-General welcomes the 21 December 2022 adoption of Security Council resolution 2669 (2022) as an important step and underlines the urgency for strengthened international unity. As called for by the Security Council, the Secretary-General\u2019s Special Envoy will coordinate closely with the new Special Envoy of the Association of Southeast Asian Nations (ASEAN) Chair to engage intensively with all relevant parties in Myanmar to achieve an end to the violence and to support a return to democracy. The Secretary-General is concerned by the military\u2019s stated intention to hold elections amid intensifying aerial bombardment and burning of civilian houses, along with ongoing arrests, intimidation and harassment of political leaders, civil society actors and journalists. Without conditions that permit the people of Myanmar to freely exercise their political rights, the proposed polls risk exacerbating instability. The United Nations is committed to staying in Myanmar and addressing the multiple vulnerabilities arising from the military\u2019s actions since February 2021. This requires full and unhindered access to all affected communities as well as prioritizing the safety and security of the United Nations agencies and its partners. The Secretary-General renews his call for neighbouring countries and other Member States to urge the military",
+  "date": "30 January 2023"
+}

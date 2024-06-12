@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c1d0899a-9126-475e-9a54-365900cae83a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.912561416625977,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021299495710991323,
+          "perplexity": 131,
+          "sentence": "Beirut, 2 March 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002233914565294981,
+          "perplexity": 45,
+          "sentence": "UN-Habitat and the Municipality of Beirut (MoB) announced the launch of a newly established Municipal Social Cell (MSC), which aims to mitigate social and protection issues encountered by vulnerable urban host and migrant populations within the city of Beirut.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021444584126584232,
+          "perplexity": 41,
+          "sentence": "\u201cThe Municipality of Beirut hopes that the Municipal Social Cell will create a more sustainable bridge between the residents of Beirut and the Municipality of Beirut to not only provide a forum for vulnerable populations including refugees, migrants and the host community to voice their concerns, but also a dedicated platform for action to address their needs and challenges,\u201d said Jamal Itani, Mayor of Beirut.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021110012312419713,
+          "perplexity": 78,
+          "sentence": "The MSC was established as one of the Targeted City Actions for Beirut under Mediterranean City-to-City Migration Project (MC2CM) that aims to enhance the engagement and commitment of the Municipality of Beirut in addressing social and protection issues encountered by vulnerable populations settled within vulnerable neighbourhoods of Beirut.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001916268956847489,
+          "perplexity": 84,
+          "sentence": "\u201cThe demographically diverse context of Beirut requires a targeted approach to address the needs of different people that is evidence-based and multisectoral, the Municipal Social Cell will go directly to the community to listen to their needs and ensure coordination between all stakeholders in interventions implemented,\u201d said Taina Christiansen, Head of UN-Habitat Country Programme in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022430600074585527,
+          "perplexity": 61,
+          "sentence": "The MSC is comprised of community mobilizers and social workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021269175340421498,
+          "perplexity": 48,
+          "sentence": "The community mobilizers are responsible for liaising with representatives from local communities in the field to gather data on issues encountered by vulnerable population groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018327882571611553,
+          "perplexity": 56,
+          "sentence": "The social workers will coordinate with community mobilizers and local communities to analyse and collect data that informs the development and implementation of capacity building and awareness raising activities and targeted actions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001989991869777441,
+          "perplexity": 60,
+          "sentence": "\u201cI am excited to be part of the newly established Municipal Social Cell that will play a key role in ensuring",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 2 March 2021. UN-Habitat and the Municipality of Beirut (MoB) announced the launch of a newly established Municipal Social Cell (MSC), which aims to mitigate social and protection issues encountered by vulnerable urban host and migrant populations within the city of Beirut. \u201cThe Municipality of Beirut hopes that the Municipal Social Cell will create a more sustainable bridge between the residents of Beirut and the Municipality of Beirut to not only provide a forum for vulnerable populations including refugees, migrants and the host community to voice their concerns, but also a dedicated platform for action to address their needs and challenges,\u201d said Jamal Itani, Mayor of Beirut. The MSC was established as one of the Targeted City Actions for Beirut under Mediterranean City-to-City Migration Project (MC2CM) that aims to enhance the engagement and commitment of the Municipality of Beirut in addressing social and protection issues encountered by vulnerable populations settled within vulnerable neighbourhoods of Beirut. \u201cThe demographically diverse context of Beirut requires a targeted approach to address the needs of different people that is evidence-based and multisectoral, the Municipal Social Cell will go directly to the community to listen to their needs and ensure coordination between all stakeholders in interventions implemented,\u201d said Taina Christiansen, Head of UN-Habitat Country Programme in Lebanon. The MSC is comprised of community mobilizers and social workers. The community mobilizers are responsible for liaising with representatives from local communities in the field to gather data on issues encountered by vulnerable population groups. The social workers will coordinate with community mobilizers and local communities to analyse and collect data that informs the development and implementation of capacity building and awareness raising activities and targeted actions. \u201cI am excited to be part of the newly established Municipal Social Cell that will play a key role in ensuring",
+  "date": "02 March 2021"
+}

@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a0a6b2f8-3b12-4786-926e-d74539eaa8f1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027742248914373263,
+        "human": 0.9966442273196275,
+        "mixed": 0.0005815477889350209
+      },
+      "completely_generated_prob": 0.0027742248914373263,
+      "confidence_category": "high",
+      "confidence_score": 0.9966442273196275,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027742248914373263,
+          "human": 0.9966442273196275,
+          "mixed": 0.0005815477889350209
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.98488235473633,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014175385877024382,
+          "perplexity": 29,
+          "sentence": "Erbil - On March 26, the Directorate for Survivors Affairs and eight NGOs from across Iraqi Kurdistan and Ninewa Governorate signed an Agreement of Cooperation for the establishment and activation of a formal referral system through which beneficiaries of the Yezidi Survivors Law (YSL) - individuals who survived the Islamic State of Iraq and the Levant's (ISIL, also referred to as Daesh) genocide - can receive referrals for mental health and psychosocial support (MHPSS) services in their areas of residence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017912818293552846,
+          "perplexity": 101,
+          "sentence": "Under the Agreement, Directorate staff will refer survivors to and follow up with these organizations, which have committed to the ethical provision services according to their respective capacities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014077620289754122,
+          "perplexity": 140,
+          "sentence": "Located in areas of displacement and return, the eight organizations include: Dialogue Organization for Development and Relief, Farida Global, Free Yezidi Foundation, Hope Makers, Jesuit Rescue Services, Jiyan Foundation, SEED Foundation and Yazda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022771998192183673,
+          "perplexity": 59,
+          "sentence": "\u201cIraq is showing the world what commitment to transitional justice looks like - first with the passage of the YSL in March 2021 and establishment of the Directorate for Survivors Affairs; then with the opening of the application process last September for survivors to begin receiving reparations; this month with the first distribution of monthly salaries promised to survivors under the YSL; and now through the activation of the MHPSS Referral System,\u201d said Chief of Mission for the International Organization for Migration (IOM) in Iraq, Mr. Giorgi Gigauri.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000538875232450664,
+          "perplexity": 62,
+          "sentence": "\u201cIOM Iraq is proud to have been able to support every step along the way, and we remain committed to a trauma-informed, survivor-centred transitional justice process.\u201d The aim of the Directorate's MHPSS Referral System is to bridge the institutional gap in the MHPSS services available to survivors in Iraq as they undergo rehabilitation in the genocide's aftermath; Indeed, the need for such services and care among genocide survivors is immense, but",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Erbil \u2013 On March 26, the Directorate for Survivors Affairs and eight NGOs from across Iraqi Kurdistan and Ninewa Governorate signed an Agreement of Cooperation for the establishment and activation of a formal referral system through which beneficiaries of the Yezidi Survivors Law (YSL) \u2013 individuals who survived the Islamic State of Iraq and the Levant\u2019s (ISIL, also referred to as Daesh) genocide \u2013 can receive referrals for mental health and psychosocial support (MHPSS) services in their areas of residence. Under the Agreement, Directorate staff will refer survivors to and follow up with these organizations, which have committed to the ethical provision services according to their respective capacities. Located in areas of displacement and return, the eight organizations include: Dialogue Organization for Development and Relief, Farida Global, Free Yezidi Foundation, Hope Makers, Jesuit Rescue Services, Jiyan Foundation, SEED Foundation and Yazda. \u201cIraq is showing the world what commitment to transitional justice looks like \u2013 first with the passage of the YSL in March 2021 and establishment of the Directorate for Survivors Affairs; then with the opening of the application process last September for survivors to begin receiving reparations; this month with the first distribution of monthly salaries promised to survivors under the YSL; and now through the activation of the MHPSS Referral System,\u201d said Chief of Mission for the International Organization for Migration (IOM) in Iraq, Mr. Giorgi Gigauri. \u201cIOM Iraq is proud to have been able to support every step along the way, and we remain committed to a trauma-informed, survivor-centred transitional justice process.\u201d The aim of the Directorate\u2019s MHPSS Referral System is to bridge the institutional gap in the MHPSS services available to survivors in Iraq as they undergo rehabilitation in the genocide\u2019s aftermath; Indeed, the need for such services and care among genocide survivors is immense, but",
+  "date": "28 March 2023"
+}

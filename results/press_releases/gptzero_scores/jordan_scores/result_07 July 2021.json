@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a3c7ef90-df3e-4c4a-82bb-0bc89a2c0202",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009117981963766356,
+        "human": 0.9903026395722452,
+        "mixed": 0.0005793784639884424
+      },
+      "completely_generated_prob": 0.009117981963766356,
+      "confidence_category": "high",
+      "confidence_score": 0.9903026395722452,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009117981963766356,
+          "human": 0.9903026395722452,
+          "mixed": 0.0005793784639884424
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 40.570926666259766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007361023453995585,
+          "perplexity": 24,
+          "sentence": "The national dialogues, come in preparation for the United Nations Food Systems Summit, which is convened by the UN Secretary-General to take place in New York later this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005096542881801724,
+          "perplexity": 48,
+          "sentence": "The Ministry of Agriculture in cooperation with the United Nations on Wednesday, organized a national food summit dialogue which concluded a series of sub-national consultations, with calls for collaborative action to transform to healthier and more sustainable food systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005748705589212477,
+          "perplexity": 38,
+          "sentence": "Organized under the theme \u201cTransforming to more efficient and sustainable food systems in light of crises\u201d, the National Food Systems Summit Dialogues, come in preparation for the United Nations Food Systems Summit, which is convened by the UN Secretary-General to take place in New York later this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005999476416036487,
+          "perplexity": 26,
+          "sentence": "The UN Food Systems Summit was announced by the UN Secretary-General, Ant\u00f3nio Guterres on World Food Day in October, 2019 as a part of the Decade of Action for delivery on Agenda 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008570007630623877,
+          "perplexity": 29,
+          "sentence": "The aim of the Summit is to deliver progress on all 17 of the SDGs through a food systems approach, leveraging the interconnectedness of food systems to global challenges such as hunger, climate change, poverty and inequality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007130773738026619,
+          "perplexity": 36,
+          "sentence": "Engineer Mohammad Hiari, the Secretary General of the Ministry of Agriculture said: \u201cWe will seek to enhance cooperation with all countries and authorities to preserve the diverse and balanced food systems for our people, as well as working regionally to control the unsustainable food systems and promote the transition to food systems that fit and respond to the nutritional needs and the economic and social conditions of our people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006379936821758747,
+          "perplexity": 116,
+          "sentence": "This necessarily includes raising awareness and providing training, aligning and amending policies and legislations, as well as working on other needed technical interventions\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008132046787068248,
+          "perplexity": 123,
+          "sentence": "\u201cThe UN Summit is a unique opportunity as it offers a timely process for helping policy makers and food system actors to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The national dialogues, come in preparation for the United Nations Food Systems Summit, which is convened by the UN Secretary-General to take place in New York later this year. The Ministry of Agriculture in cooperation with the United Nations on Wednesday, organized a national food summit dialogue which concluded a series of sub-national consultations, with calls for collaborative action to transform to healthier and more sustainable food systems. Organized under the theme \u201cTransforming to more efficient and sustainable food systems in light of crises\u201d, the National Food Systems Summit Dialogues, come in preparation for the United Nations Food Systems Summit, which is convened by the UN Secretary-General to take place in New York later this year. The UN Food Systems Summit was announced by the UN Secretary-General, Ant\u00f3nio Guterres on World Food Day in October, 2019 as a part of the Decade of Action for delivery on Agenda 2030. The aim of the Summit is to deliver progress on all 17 of the SDGs through a food systems approach, leveraging the interconnectedness of food systems to global challenges such as hunger, climate change, poverty and inequality. Engineer Mohammad Hiari, the Secretary General of the Ministry of Agriculture said: \u201cWe will seek to enhance cooperation with all countries and authorities to preserve the diverse and balanced food systems for our people, as well as working regionally to control the unsustainable food systems and promote the transition to food systems that fit and respond to the nutritional needs and the economic and social conditions of our people. This necessarily includes raising awareness and providing training, aligning and amending policies and legislations, as well as working on other needed technical interventions\u201d. \u201cThe UN Summit is a unique opportunity as it offers a timely process for helping policy makers and food system actors to",
+  "date": "07 July 2021"
+}

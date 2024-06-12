@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a8e220b3-a7f0-4a2b-bd27-d2d101552685",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 51.82225036621094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005165727925486863,
+          "perplexity": 18,
+          "sentence": "GENEVA/NEW YORK, - The International Federation of the Red Cross and Red Crescent Societies (IFRC), UNICEF and the World Health Organization (WHO) today issued new guidance to help protect children and schools from transmission of the COVID-19 virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007893709116615355,
+          "perplexity": 211,
+          "sentence": "The guidance provides critical considerations and practical checklists to keep schools safe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009989019017666578,
+          "perplexity": 60,
+          "sentence": "It also advises national and local authorities on how to adapt and implement emergency plans for educational facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001439766027033329,
+          "perplexity": 36,
+          "sentence": "In the event of school closures, the guidance includes recommendations to mitigate against the possible negative impacts on children's learning and wellbeing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011806754628196359,
+          "perplexity": 77,
+          "sentence": "This means having solid plans in place to ensure the continuity of learning, including remote learning options such as online education strategies and radio broadcasts of academic content, and access to essential services for all children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009669426362961531,
+          "perplexity": 65,
+          "sentence": "These plans should also include necessary steps for the eventual safe reopening of schools.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046032501268200576,
+          "perplexity": 66,
+          "sentence": "Where schools remain open, and to make sure that children and their families remain protected and informed, the guidance calls for: The guidance, while specific to countries that have already confirmed the transmission of COVID-19, is still relevant in all other contexts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003487345529720187,
+          "perplexity": 16,
+          "sentence": "Education can encourage students to become advocates for disease prevention and control at home, in school, and in their community by talking to others about how to prevent the spread of viruses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038754043634980917,
+          "perplexity": 86,
+          "sentence": "Maintaining safe school operations or reopening schools after a closure, requires many considerations, but if done well, can promote public health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034259509993717074,
+          "perplexity": 42,
+          "sentence": "For example, safe school guidelines implemented in Guinea, Liberia and Sierra Leone during the outbreak of Ebola virus disease from 2014 to 2016 helped prevent school-based transmissions of the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003206129476893693,
+          "perplexity": 106,
+          "sentence": "UNICEF is urging schools - whether open or helping students through remote learning - to provide students with holistic support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003604906960390508,
+          "perplexity": 51,
+          "sentence": "Schools should provide children with vital information on handwashing and other measures to protect themselves",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA/NEW YORK, - The International Federation of the Red Cross and Red Crescent Societies (IFRC), UNICEF and the World Health Organization (WHO) today issued new guidance to help protect children and schools from transmission of the COVID-19 virus. The guidance provides critical considerations and practical checklists to keep schools safe. It also advises national and local authorities on how to adapt and implement emergency plans for educational facilities. In the event of school closures, the guidance includes recommendations to mitigate against the possible negative impacts on children\u2019s learning and wellbeing. This means having solid plans in place to ensure the continuity of learning, including remote learning options such as online education strategies and radio broadcasts of academic content, and access to essential services for all children. These plans should also include necessary steps for the eventual safe reopening of schools. Where schools remain open, and to make sure that children and their families remain protected and informed, the guidance calls for: The guidance, while specific to countries that have already confirmed the transmission of COVID-19, is still relevant in all other contexts. Education can encourage students to become advocates for disease prevention and control at home, in school, and in their community by talking to others about how to prevent the spread of viruses. Maintaining safe school operations or reopening schools after a closure, requires many considerations, but if done well, can promote public health. For example, safe school guidelines implemented in Guinea, Liberia and Sierra Leone during the outbreak of Ebola virus disease from 2014 to 2016 helped prevent school-based transmissions of the virus. UNICEF is urging schools \u2013 whether open or helping students through remote learning \u2013 to provide students with holistic support. Schools should provide children with vital information on handwashing and other measures to protect themselves",
+  "date": "10 March 2020"
+}

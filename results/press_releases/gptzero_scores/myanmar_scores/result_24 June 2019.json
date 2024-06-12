@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ee7e6078-b83e-47a0-9eb6-092017331b02",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.68136978149414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002755514287855476,
+          "perplexity": 40,
+          "sentence": "GENEVA (24 June 2019) - The Myanmar Government's shutdown of mobile data networks in nine townships could have serious implications for human rights and humanitarian monitoring in the conflict areas of Rakhine and Chin States, a UN expert warned on Monday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000263575348071754,
+          "perplexity": 40,
+          "sentence": "\u201cAs there is no media access and serious restrictions on humanitarian organisations in the conflict-affected area, the entire region is in a blackout,\u201d said Yanghee Lee, the UN Special Rapporteur on the situation of human rights in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002503332798369229,
+          "perplexity": 37,
+          "sentence": "\u201cI fear for all civilians there, cut off and without the necessary means to communicate with people inside and outside the area.\u201d Recent reports allege violations of human rights and international humanitarian law to have been committed against the civilian population by both parties to the conflict in the last six months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023322456399910152,
+          "perplexity": 29,
+          "sentence": "On 20 June, the Ministry of Transport and Communications issued an order to all mobile network providers under the Telecommunications Law 2013 to temporarily stop mobile internet services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002499955298844725,
+          "perplexity": 196,
+          "sentence": "The Ministry cited disturbances to the peace and internet services being used to coordinate illegal activities for the shutdown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021285506954882294,
+          "perplexity": 117,
+          "sentence": "There are credible reports that on 19 June, the Tatmadaw conducted helicopter attacks in Minbya Township in central Rakhine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022839732991997153,
+          "perplexity": 34,
+          "sentence": "The following day, the Arakan Army fired on a navy ship in Sittwe, killing and injuring several soldiers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023258899454958737,
+          "perplexity": 51,
+          "sentence": "\u201cI am told that the Tatmadaw is now conducting a 'clearance operation', which we all know by now can be a cover for committing gross human rights violations against the civilian population,\u201d the UN expert said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004129866138100624,
+          "perplexity": 28,
+          "sentence": "\u201cWe must not forget that these are the same security forces that have so far avoided accountability for the atrocities committed against the Rohingya in Rakhine State less than two years ago.\u201d The conflict between the Arakan Army and the Tatmadaw has been ongoing since late 2018, with civilians",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (24 June 2019) \u2013 The Myanmar Government\u2019s shutdown of mobile data networks in nine townships could have serious implications for human rights and humanitarian monitoring in the conflict areas of Rakhine and Chin States, a UN expert warned on Monday. \u201cAs there is no media access and serious restrictions on humanitarian organisations in the conflict-affected area, the entire region is in a blackout,\u201d said Yanghee Lee, the UN Special Rapporteur on the situation of human rights in Myanmar. \u201cI fear for all civilians there, cut off and without the necessary means to communicate with people inside and outside the area.\u201d Recent reports allege violations of human rights and international humanitarian law to have been committed against the civilian population by both parties to the conflict in the last six months. On 20 June, the Ministry of Transport and Communications issued an order to all mobile network providers under the Telecommunications Law 2013 to temporarily stop mobile internet services. The Ministry cited disturbances to the peace and internet services being used to coordinate illegal activities for the shutdown. There are credible reports that on 19 June, the Tatmadaw conducted helicopter attacks in Minbya Township in central Rakhine. The following day, the Arakan Army fired on a navy ship in Sittwe, killing and injuring several soldiers. \u201cI am told that the Tatmadaw is now conducting a \u2018clearance operation\u2019, which we all know by now can be a cover for committing gross human rights violations against the civilian population,\u201d the UN expert said. \u201cWe must not forget that these are the same security forces that have so far avoided accountability for the atrocities committed against the Rohingya in Rakhine State less than two years ago.\u201d The conflict between the Arakan Army and the Tatmadaw has been ongoing since late 2018, with civilians",
+  "date": "24 June 2019"
+}

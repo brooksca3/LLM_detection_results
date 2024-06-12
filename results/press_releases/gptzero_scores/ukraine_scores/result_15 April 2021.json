@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "897b3fa8-efcb-4dc8-9e3e-1d9dee452ea3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.30231857299805,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004184578428976238,
+          "perplexity": 57,
+          "sentence": "This document - recommendatory in nature, belongs to series of policy papers on key issues for Ukraine, developed by UN and intended to provide policy recommendations for the government of Ukraine and other relevant stakeholders such as civil society, private sector, to improve the social protection system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045223633060231805,
+          "perplexity": 53,
+          "sentence": "The online conference took place within the series of Hernan Santa Cruz Dialogues, held by UN in countries across the globe, aimed to raise awareness and stimulate discussions to advance the realization of socio-economic rights in national settings to enhance economic, social and cultural rights and the right to development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004724295577034354,
+          "perplexity": 67,
+          "sentence": "The online event was joined by high-level guests both from the Ukraine's Government and the global UN organizations, to initiate a national dialogue on social protection in Ukraine, with a specific focus on the pension reform to spur national debate and encourage policymaking in line with the UN global best practices, outlining policy recommendations specific for Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003648803976830095,
+          "perplexity": 72,
+          "sentence": "Ms. Osnat Lubrani, UN Resident and Humanitarian Coordinator in Ukraine, in particular, explained the importance of developing such set of recommendations on pensions, in view of the current situation in Ukraine: \u201cThe 'pension' policy paper underlines significant avenues for improving Ukraine's social protection system, especially in times of COVID-19 that did reveal limitations of the existing social security system as, for instance, workers in the informal economy fell out from coverage by the existing schemes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002540447167120874,
+          "perplexity": 102,
+          "sentence": "During previous months the UN discussed with the Government of Ukraine recently adopted National Economic Strategy 2030, that places significant emphasis on the long-discussed pension reform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002654521958902478,
+          "perplexity": 170,
+          "sentence": "That is why we decided to focus today on pensions and contribute UN expertise and recommendations to hopefully inform the planned national reform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002548253396525979,
+          "perplexity": 27,
+          "sentence": "Today we need to discuss the important steps that should be implemented in order to take into consideration in the course of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This document \u2013 recommendatory in nature, belongs to series of policy papers on key issues for Ukraine, developed by UN and intended to provide policy recommendations for the government of Ukraine and other relevant stakeholders such as civil society, private sector, to improve the social protection system. The online conference took place within the series of Hernan Santa Cruz Dialogues, held by UN in countries across the globe, aimed to raise awareness and stimulate discussions to advance the realization of socio-economic rights in national settings to enhance economic, social and cultural rights and the right to development. The online event was joined by high-level guests both from the Ukraine\u2019s Government and the global UN organizations, to initiate a national dialogue on social protection in Ukraine, with a specific focus on the pension reform to spur national debate and encourage policymaking in line with the UN global best practices, outlining policy recommendations specific for Ukraine. Ms. Osnat Lubrani, UN Resident and Humanitarian Coordinator in Ukraine, in particular, explained the importance of developing such set of recommendations on pensions, in view of the current situation in Ukraine: \u201cThe \u2018pension\u2019 policy paper underlines significant avenues for improving Ukraine\u2019s social protection system, especially in times of COVID-19 that did reveal limitations of the existing social security system as, for instance, workers in the informal economy fell out from coverage by the existing schemes. During previous months the UN discussed with the Government of Ukraine recently adopted National Economic Strategy 2030, that places significant emphasis on the long-discussed pension reform. That is why we decided to focus today on pensions and contribute UN expertise and recommendations to hopefully inform the planned national reform. Today we need to discuss the important steps that should be implemented in order to take into consideration in the course of",
+  "date": "15 April 2021"
+}

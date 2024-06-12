@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bc7d3db8-6304-4ec0-a576-8a8db85109db",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.947410583496094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0023181207943707705,
+          "perplexity": 51,
+          "sentence": "On 14 June 2020, the UN Migration Agency (IOM) and the Embassy of Switzerland in Jordan launched a three-month project to facilitate access to basic needs items for the most vulnerable migrant workers in Jordan impacted by COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002201156923547387,
+          "perplexity": 37,
+          "sentence": "To reach this objective, IOM partnered with the Jordanian NGO Tamkeen for Legal Aid and Human Rights (Tamkeen) and together will work with the relevant entities of the Government of Jordan to respond to the urgent needs of migrant workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030877450481057167,
+          "perplexity": 32,
+          "sentence": "Migrant workers remain one of the most vulnerable groups, whose lives have been heavily impacted by the pandemic, which brought unprecedented measures, including lockdown and intermittent curfews.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028211702592670918,
+          "perplexity": 24,
+          "sentence": "Consequently, many migrant workers have lost their daily income and access to services and, unable to return to their home countries, were left in dire need of basic supplies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017980925040319562,
+          "perplexity": 79,
+          "sentence": "Migrant and mobile populations bear a high risk of infection, as well as being more vulnerable to the broader socioeconomic impacts of COVID-19 and as such should be included in recovery plans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023183985613286495,
+          "perplexity": 35,
+          "sentence": "Kuniudu, a Sri Lankan migrant worker in Jordan, said: \u201clife has been very difficult for everyone, we lost our jobs and now we cannot do anything except to stay at home and try to take care of ourselves\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028894133865833282,
+          "perplexity": 30,
+          "sentence": "This project will contribute to better protection of migrant workers in Jordan and facilitate their access to essential food and non-food items for up to three months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002994279144331813,
+          "perplexity": 139,
+          "sentence": "The intervention aims to target up to 1700 beneficiaries residing in different governorates across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002932431409135461,
+          "perplexity": 76,
+          "sentence": "In addition to this engagement, the Embassy of Switzerland supports the Government of Jordan in alleviating the negative impacts of COVID-19 for vulnerable Jordanians and refugees.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 14 June 2020, the UN Migration Agency (IOM) and the Embassy of Switzerland in Jordan launched a three-month project to facilitate access to basic needs items for the most vulnerable migrant workers in Jordan impacted by COVID-19. To reach this objective, IOM partnered with the Jordanian NGO Tamkeen for Legal Aid and Human Rights (Tamkeen) and together will work with the relevant entities of the Government of Jordan to respond to the urgent needs of migrant workers. Migrant workers remain one of the most vulnerable groups, whose lives have been heavily impacted by the pandemic, which brought unprecedented measures, including lockdown and intermittent curfews. Consequently, many migrant workers have lost their daily income and access to services and, unable to return to their home countries, were left in dire need of basic supplies. Migrant and mobile populations bear a high risk of infection, as well as being more vulnerable to the broader socioeconomic impacts of COVID-19 and as such should be included in recovery plans. Kuniudu, a Sri Lankan migrant worker in Jordan, said: \u201clife has been very difficult for everyone, we lost our jobs and now we cannot do anything except to stay at home and try to take care of ourselves\u201d. This project will contribute to better protection of migrant workers in Jordan and facilitate their access to essential food and non-food items for up to three months. The intervention aims to target up to 1700 beneficiaries residing in different governorates across the country. In addition to this engagement, the Embassy of Switzerland supports the Government of Jordan in alleviating the negative impacts of COVID-19 for vulnerable Jordanians and refugees.",
+  "date": "29 June 2020"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1c9acae8-1f2b-4cc4-bc43-33d8efa7d8d7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.468151092529297,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011460036330390722,
+          "perplexity": 64,
+          "sentence": "UN Headquarters Observes International Day of United Nations Peacekeepers on 26 May UN Secretary-General to commemorate peacekeepers who lost their life serving under the UN flag and award the Captain Mbaye Diagne Medal for Exceptional Courage and Military Gender Advocate of the Year Six peacekeepers from Pakistan to be honoured posthumously at United Nations ceremony UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012429112393874675,
+          "perplexity": 20,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008640580344945192,
+          "perplexity": 34,
+          "sentence": "Among the peacekeepers to be honoured posthumously are six from Pakistan: Police L/Cpl Tahir Ikram, Police L/Cpl Adil Jan, and SGT Muhammad Nil Naeem who all served with UN-AU Mission in Darfur (UNAMID); NCE Tahir Mehmood deployed with the UN Stabilization Mission in the Democratic Republic of Congo (MONUSCO); SGT Muhammad Shafeeq from the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA); and Mr. Abrar Sayed who served in a civilian capacity with (MINURSO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007559471996501088,
+          "perplexity": 29,
+          "sentence": "Pakistan is the 5th largest contributor of uniformed personnel to UN Peacekeeping.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006511384854093194,
+          "perplexity": 49,
+          "sentence": "It currently deploys more than 4,100 military and police personnel to the UN operations in Abyei, the Central African Republic, Cyprus, the Democratic Republic of the Congo, and Mali, South Sudan and Western Sahara During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007860984769649804,
+          "perplexity": 26,
+          "sentence": "The medal is named for a Senegalese peacekeeper who was killed in Rwanda in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Headquarters Observes International Day of United Nations Peacekeepers on 26 May UN Secretary-General to commemorate peacekeepers who lost their life serving under the UN flag and award the Captain Mbaye Diagne Medal for Exceptional Courage and Military Gender Advocate of the Year Six peacekeepers from Pakistan to be honoured posthumously at United Nations ceremony UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 26 May 2022. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the nearly 4,200 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 117 military, police, and civilian peacekeepers, who lost their life serving under the UN flag last year. Among the peacekeepers to be honoured posthumously are six from Pakistan: Police L/Cpl Tahir Ikram, Police L/Cpl Adil Jan, and SGT Muhammad Nil Naeem who all served with UN-AU Mission in Darfur (UNAMID); NCE Tahir Mehmood deployed with the UN Stabilization Mission in the Democratic Republic of Congo (MONUSCO); SGT Muhammad Shafeeq from the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA); and Mr. Abrar Sayed who served in a civilian capacity with (MINURSO). Pakistan is the 5th largest contributor of uniformed personnel to UN Peacekeeping. It currently deploys more than 4,100 military and police personnel to the UN operations in Abyei, the Central African Republic, Cyprus, the Democratic Republic of the Congo, and Mali, South Sudan and Western Sahara During a special ceremony, the Secretary-General will award the \u201cCaptain Mbaye Diagne Medal for Exceptional Courage\u201d posthumously to Captain Abdelrazakh Hamit Bahar of Chad, who served with the United Nations Integrated Multidimensional Stabilization Mission in Mali (MINUSMA). The medal is named for a Senegalese peacekeeper who was killed in Rwanda in",
+  "date": "24 May 2022"
+}

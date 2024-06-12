@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2988238e-0370-48a6-9292-43090c99e472",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088015640092026,
+        "human": 0.9903345100280675,
+        "mixed": 0.0005774743318404729
+      },
+      "completely_generated_prob": 0.009088015640092026,
+      "confidence_category": "high",
+      "confidence_score": 0.9903345100280675,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088015640092026,
+          "human": 0.9903345100280675,
+          "mixed": 0.0005774743318404729
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.795061111450195,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007737535052001476,
+          "perplexity": 63,
+          "sentence": "On 6 December, yet another child lost his precious life in a horrific manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005934612127020955,
+          "perplexity": 47,
+          "sentence": "The nine-year-old student, who was reportedly still wearing his school uniform and fleeing his school with other students because they heard sounds of armed clashes, was struck by several bullets and died on the spot on the road in front of his school, Basic Education Primary School - Pike The, in Kyauktaw, Rakhine State.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00080494413850829,
+          "perplexity": 19,
+          "sentence": "We are shocked and saddened at such tragic loss of a child's life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005163734313100576,
+          "perplexity": 94,
+          "sentence": "YANGON, 12 December 2019 - On 6 December, yet another child lost his precious life in a horrific manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005205929628573358,
+          "perplexity": 47,
+          "sentence": "The nine-year-old student, who was reportedly still wearing his school uniform and fleeing his school with other students because they heard sounds of armed clashes, was struck by several bullets and died on the spot on the road in front of his school, Basic Education Primary School - Pike The, in Kyauktaw, Rakhine State.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007359781884588301,
+          "perplexity": 19,
+          "sentence": "We are shocked and saddened at such tragic loss of a child's life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005437611253000796,
+          "perplexity": 14,
+          "sentence": "UNICEF is deeply concerned about the alarming increase of reports of killings and injuries of children, as a result of intensified fighting between the Myanmar Army and the Arakan Army in the conflict-affected areas of Rakhine State.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031922670314088464,
+          "perplexity": 32,
+          "sentence": "UNICEF calls on all parties to the conflict to ensure the full respect of the civilian character of schools, and to prevent any interference of armed actors with education infrastructures, personnel and students in line with national legal frameworks such as the Child Rights Law and the Nationwide Ceasefire Agreement as well as obligations under international law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037491106195375323,
+          "perplexity": 46,
+          "sentence": "The presence of armed actors in or around schools increases the risk of schools being targeted and students and school personnel may be harmed, and school facilities damaged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047627976164221764,
+          "perplexity": 93,
+          "sentence": "It prevents children from accessing education, and associates schools with violent",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 6 December, yet another child lost his precious life in a horrific manner. The nine-year-old student, who was reportedly still wearing his school uniform and fleeing his school with other students because they heard sounds of armed clashes, was struck by several bullets and died on the spot on the road in front of his school, Basic Education Primary School \u2013 Pike The, in Kyauktaw, Rakhine State. We are shocked and saddened at such tragic loss of a child\u2019s life. YANGON, 12 December 2019 \u2013 On 6 December, yet another child lost his precious life in a horrific manner. The nine-year-old student, who was reportedly still wearing his school uniform and fleeing his school with other students because they heard sounds of armed clashes, was struck by several bullets and died on the spot on the road in front of his school, Basic Education Primary School \u2013 Pike The, in Kyauktaw, Rakhine State. We are shocked and saddened at such tragic loss of a child\u2019s life. UNICEF is deeply concerned about the alarming increase of reports of killings and injuries of children, as a result of intensified fighting between the Myanmar Army and the Arakan Army in the conflict-affected areas of Rakhine State. UNICEF calls on all parties to the conflict to ensure the full respect of the civilian character of schools, and to prevent any interference of armed actors with education infrastructures, personnel and students in line with national legal frameworks such as the Child Rights Law and the Nationwide Ceasefire Agreement as well as obligations under international law. The presence of armed actors in or around schools increases the risk of schools being targeted and students and school personnel may be harmed, and school facilities damaged. It prevents children from accessing education, and associates schools with violent",
+  "date": "12 December 2019"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "48e17b62-8954-4093-a562-92cfd394a5bf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.303836822509766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00038963076076470315,
+          "perplexity": 31,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) in coordination with the Ministry of Agriculture and Ministry of Agriculture and water resource-KRG and with the financial support of the United States Defense Threat Reduction Agency (DTRA), conducted a follow up-training workshop on the Event Mobile Application (EMA-i) in Erbil from 21 to 23 February 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045600696466863155,
+          "perplexity": 138,
+          "sentence": "For the first time in Iraq and in collaboration with veterinary services, FAO introduced the Event Mobile Application (EMA-i) services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004740942385978997,
+          "perplexity": 70,
+          "sentence": "The first workshop was organized between 17 and 19 October 2022, in Baghdad, to facilitate real-time disease reporting and improve quantity and quality of notified disease reports, and to display disease situations, support decision-making, and prevent potential disease spread and early response to emergency cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004976886557415128,
+          "perplexity": 70,
+          "sentence": "Therefore, it is crucial to apply a system at the national level, to enhance veterinary services' capacities in disease reporting from the field to decision-makers, ease and speed information sharing among stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004482536460272968,
+          "perplexity": 123,
+          "sentence": "FAO has developed EMA-i for data collection and to facilitate real-time disease reporting to support veterinary services' capacities in disease surveillance and notification implemented in the field.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003294654015917331,
+          "perplexity": 35,
+          "sentence": "Dr.Salah El Hajj Hassan, FAO Representative in Iraq, underlined the importance of this collaboration with the Ministry of Agriculture and the Ministry of Agriculture and Water Resources (KRI) to improve early warning system and response to exceptional disease events, offer a better knowledge of animal health situation in regions and in the country for targeted disease control to protect and improve animal health of the livestock and livelihoods of farmers and livestock owners in the country and in the whole region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002478774404153228,
+          "perplexity": 157,
+          "sentence": "He added: \u201cThis training of trainers on the Event Mobile Application (EMA-i) aims at enhancing early warning systems and will ultimately contribute to the reduction of the food and health security threats arising from emerging, transboundary as well",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations (FAO) in coordination with the Ministry of Agriculture and Ministry of Agriculture and water resource-KRG and with the financial support of the United States Defense Threat Reduction Agency (DTRA), conducted a follow up-training workshop on the Event Mobile Application (EMA-i) in Erbil from 21 to 23 February 2023. For the first time in Iraq and in collaboration with veterinary services, FAO introduced the Event Mobile Application (EMA-i) services. The first workshop was organized between 17 and 19 October 2022, in Baghdad, to facilitate real-time disease reporting and improve quantity and quality of notified disease reports, and to display disease situations, support decision-making, and prevent potential disease spread and early response to emergency cases. Therefore, it is crucial to apply a system at the national level, to enhance veterinary services\u2019 capacities in disease reporting from the field to decision-makers, ease and speed information sharing among stakeholders. FAO has developed EMA-i for data collection and to facilitate real-time disease reporting to support veterinary services\u2019 capacities in disease surveillance and notification implemented in the field. Dr.Salah El Hajj Hassan, FAO Representative in Iraq, underlined the importance of this collaboration with the Ministry of Agriculture and the Ministry of Agriculture and Water Resources (KRI) to improve early warning system and response to exceptional disease events, offer a better knowledge of animal health situation in regions and in the country for targeted disease control to protect and improve animal health of the livestock and livelihoods of farmers and livestock owners in the country and in the whole region. He added: \u201cThis training of trainers on the Event Mobile Application (EMA-i) aims at enhancing early warning systems and will ultimately contribute to the reduction of the food and health security threats arising from emerging, transboundary as well",
+  "date": "03 March 2023"
+}

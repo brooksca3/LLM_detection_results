@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ec132e3e-dc50-432c-85af-e863e7403547",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02249485704063684,
+        "human": 0.9550102859187265,
+        "mixed": 0.02249485704063684
+      },
+      "completely_generated_prob": 0.02249485704063684,
+      "confidence_category": "high",
+      "confidence_score": 0.9550102859187265,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02249485704063684,
+          "human": 0.9550102859187265,
+          "mixed": 0.02249485704063684
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.44927215576172,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009029658394865692,
+          "perplexity": 100,
+          "sentence": "2.5 million doses of COVID-19 vaccine supplied through COVAX start being rolled out in Pakistan The US-donated vaccines were delivered by the COVAX facility, the global COVID-19 vaccine equity scheme, as part of its dose-sharing mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001187924761325121,
+          "perplexity": 80,
+          "sentence": "ISLAMABAD, 4 July 2021 - Today 2.5 million doses of Moderna (mRNA-1273) COVID-19 vaccines supplied through the COVAX Facility's dose-sharing mechanism, and donated by the United States, started being distributed by the Government of Pakistan to vaccinate priority groups across the country, in line with the National Deployment and Vaccination Plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011152118677273393,
+          "perplexity": 76,
+          "sentence": "So far three million people have been fully vaccinated and 13.5 million partially vaccinated in Pakistan, using vaccines which the Government procured through COVAX or through bilateral agreements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020979035180062056,
+          "perplexity": 22,
+          "sentence": "More than 960,000 cases of COVID-19 have been reported in the country since the start of the outbreak and at least 22,379 people have succumbed to the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004921572282910347,
+          "perplexity": 149,
+          "sentence": "\u201cWHO applauds Pakistan's achievement of effectively scaling-up its vaccination campaign across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005467371083796024,
+          "perplexity": 146,
+          "sentence": "The available COVID-19 vaccines have been equitably distributed and have reached even the remotest areas of Pakistan, protecting millions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006170404143631458,
+          "perplexity": 68,
+          "sentence": "Science, solutions and solidarity have been the tools for addressing the biggest health threat of the past century.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004228352103382349,
+          "perplexity": 155,
+          "sentence": "We thank the Government of United States for showing their solidarity through this donation,\u201d said Dr Palitha Mahipala, WHO Representative in Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009074324741959572,
+          "perplexity": 76,
+          "sentence": "\u201cWHO will continue supporting the Government of Pakistan to swiftly and safely administer the donated doses of vaccines and advocate with COVAX partners for the provision of sufficient vaccines to reach all vulnerable populations.\u201d The arrival of this consignment is welcome news as the latest wave of COVID-19 has had a devastating impact on children and their families in South Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01154496893286705,
+          "perplexity": 29,
+          "sentence": "There is an urgent need to intensify efforts and take additional steps to close gaps and strengthen essential health services to protect the most",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "2.5 million doses of COVID-19 vaccine supplied through COVAX start being rolled out in Pakistan The US-donated vaccines were delivered by the COVAX facility, the global COVID-19 vaccine equity scheme, as part of its dose-sharing mechanism. ISLAMABAD, 4 July 2021 \u2013 Today 2.5 million doses of Moderna (mRNA-1273) COVID-19 vaccines supplied through the COVAX Facility\u2019s dose-sharing mechanism, and donated by the United States, started being distributed by the Government of Pakistan to vaccinate priority groups across the country, in line with the National Deployment and Vaccination Plan. So far three million people have been fully vaccinated and 13.5 million partially vaccinated in Pakistan, using vaccines which the Government procured through COVAX or through bilateral agreements. More than 960,000 cases of COVID-19 have been reported in the country since the start of the outbreak and at least 22,379 people have succumbed to the disease. \u201cWHO applauds Pakistan\u2019s achievement of effectively scaling-up its vaccination campaign across the country. The available COVID-19 vaccines have been equitably distributed and have reached even the remotest areas of Pakistan, protecting millions. Science, solutions and solidarity have been the tools for addressing the biggest health threat of the past century. We thank the Government of United States for showing their solidarity through this donation,\u201d said Dr Palitha Mahipala, WHO Representative in Pakistan. \u201cWHO will continue supporting the Government of Pakistan to swiftly and safely administer the donated doses of vaccines and advocate with COVAX partners for the provision of sufficient vaccines to reach all vulnerable populations.\u201d The arrival of this consignment is welcome news as the latest wave of COVID-19 has had a devastating impact on children and their families in South Asia. There is an urgent need to intensify efforts and take additional steps to close gaps and strengthen essential health services to protect the most",
+  "date": "04 July 2021"
+}

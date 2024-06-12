@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d959767c-b87f-4abd-8613-2123d534f60b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.51432991027832,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022506607638206333,
+          "perplexity": 15,
+          "sentence": "25 July 2016 - The United Nations General Assembly today unanimously adopted a resolution approving an agreement to make the International Organization for Migration (IOM) part of the UN system as a related organization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026464855181984603,
+          "perplexity": 46,
+          "sentence": "\u201cMigration is at the heart of the new global political landscape and its social and economic dynamics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002290589764015749,
+          "perplexity": 26,
+          "sentence": "At a time of growing levels of migration within and across borders, a closer legal and working relationship between the United Nations and IOM is needed more than ever,\u201dsaid Secretary-General Ban Ki-moon in a statement welcoming the Assembly's decision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023915724887046963,
+          "perplexity": 32,
+          "sentence": "IOM, which assisted an estimated 20 million migrants in 2015, is an intergovernmental organization with more than 9,500 staff and 450 offices worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025775659014470875,
+          "perplexity": 18,
+          "sentence": "Founded in the wake of the World War II to resettle refugees from Europe, the organization celebrates its 65th anniversary in December of this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002443718840368092,
+          "perplexity": 44,
+          "sentence": "Highlighting that the approval of the agreement by the governing bodies of both organizations marks a \u201cmajor milestone in the long-standing and close relationship\u201d between the UN and IOM, the Secretary-General added that the relationship agreement not only formalizes this partnership, but also sets out an even closer cooperation between the two organizations while preserving the mandates and responsibilities of other UN organizations and subsidiary organs and agencies in the field of migration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003293803019914776,
+          "perplexity": 65,
+          "sentence": "\u201cThe Secretary-General trusts that the relationship agreement will contribute to a more effective global response to the challenges posed by large and sudden population movements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002612849639263004,
+          "perplexity": 34,
+          "sentence": "It will help to strengthen the support provided by the United Nations system to Member States in implementing the migration-related elements of the 2030 Agenda for Sustainable Development,\u201d the statement said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003590426640585065,
+          "perplexity": 42,
+          "sentence": "The agreement outlines a closer relationship between the 65-year-old IOM and the UN to strengthen cooperation and enhance their ability to fulfil their respective mandates in the interest of migrants and Member States.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "25 July 2016 \u2013 The United Nations General Assembly today unanimously adopted a resolution approving an agreement to make the International Organization for Migration (IOM) part of the UN system as a related organization. \u201cMigration is at the heart of the new global political landscape and its social and economic dynamics. At a time of growing levels of migration within and across borders, a closer legal and working relationship between the United Nations and IOM is needed more than ever,\u201dsaid Secretary-General Ban Ki-moon in a statement welcoming the Assembly's decision. IOM, which assisted an estimated 20 million migrants in 2015, is an intergovernmental organization with more than 9,500 staff and 450 offices worldwide. Founded in the wake of the World War II to resettle refugees from Europe, the organization celebrates its 65th anniversary in December of this year. Highlighting that the approval of the agreement by the governing bodies of both organizations marks a \u201cmajor milestone in the long-standing and close relationship\u201d between the UN and IOM, the Secretary-General added that the relationship agreement not only formalizes this partnership, but also sets out an even closer cooperation between the two organizations while preserving the mandates and responsibilities of other UN organizations and subsidiary organs and agencies in the field of migration. \u201cThe Secretary-General trusts that the relationship agreement will contribute to a more effective global response to the challenges posed by large and sudden population movements. It will help to strengthen the support provided by the United Nations system to Member States in implementing the migration-related elements of the 2030 Agenda for Sustainable Development,\u201d the statement said. The agreement outlines a closer relationship between the 65-year-old IOM and the UN to strengthen cooperation and enhance their ability to fulfil their respective mandates in the interest of migrants and Member States.",
+  "date": "25 July 2016"
+}

@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a2ce071d-8f7f-4d41-a317-306652db51c7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 56.95497512817383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.007912435568869114,
+          "perplexity": 20,
+          "sentence": "Secretary-General: It's a great pleasure to be back in Japan for this G7 Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0069785406813025475,
+          "perplexity": 26,
+          "sentence": "My message to G7 leaders is clear: while the economic picture is uncertain everywhere, rich countries cannot ignore the fact that more than half the world - the vast majority of countries - are suffering through a deep financial crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006484400946646929,
+          "perplexity": 65,
+          "sentence": "The crushing economic impact of the COVID-19 pandemic, the climate crisis, Russia's invasion of Ukraine, unsustainable levels of debt, rising interest rates and inflation are devastating developing and emerging economies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00699950847774744,
+          "perplexity": 40,
+          "sentence": "As I see it, the problems facing developing countries have three dimensions: moral, power-related, and practical.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006648213602602482,
+          "perplexity": 46,
+          "sentence": "There is a systemic and unjust bias in global economic and financial frameworks in favour of rich countries, which is naturally generating great frustration in the developing world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006622616201639175,
+          "perplexity": 108,
+          "sentence": "The recovery has been extremely unbalanced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005777334328740835,
+          "perplexity": 51,
+          "sentence": "Rich countries recovered from the economic impact of the pandemic with expansionary monetary and fiscal policies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006983280647546053,
+          "perplexity": 96,
+          "sentence": "Trillions and trillions were spent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006273382809013128,
+          "perplexity": 41,
+          "sentence": "Basically, they printed money and spent their way out of trouble.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0055113378912210464,
+          "perplexity": 48,
+          "sentence": "But developing countries, many with substantial debts, were unable to do so.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0059303296729922295,
+          "perplexity": 39,
+          "sentence": "If they did, they would have seen their currencies sinking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00556569779291749,
+          "perplexity": 22,
+          "sentence": "On the other hand, the IMF allocated 650 billion US dollars in Special Drawing Rights - or SDRs - during the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005690939724445343,
+          "perplexity": 29,
+          "sentence": "The G7 countries, with a population of 772 million people, received 280 billion US dollars.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005020275712013245,
+          "perplexity": 32,
+          "sentence": "The African continent, with 1.3 billion people, received only 34 billion US dollars.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005309867672622204,
+          "perplexity": 23,
+          "sentence": "And this was done according to the rules.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004603817593306303,
+          "perplexity": 21,
+          "sentence": "It was done by the book, but from a moral point of view, there is something fundamentally wrong with the rules themselves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003689388046041131,
+          "perplexity": 58,
+          "sentence": "Around the world, fifty-two countries are in technical default, at high risk of default, or face extremely expensive market financing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033868467435240746,
+          "perplexity": 263,
+          "sentence": "Middle Income Countries, including many small island developing states - with few",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Secretary-General: It\u2019s a great pleasure to be back in Japan for this G7 Summit. My message to G7 leaders is clear: while the economic picture is uncertain everywhere, rich countries cannot ignore the fact that more than half the world \u2013 the vast majority of countries \u2013 are suffering through a deep financial crisis. The crushing economic impact of the COVID-19 pandemic, the climate crisis, Russia\u2019s invasion of Ukraine, unsustainable levels of debt, rising interest rates and inflation are devastating developing and emerging economies. As I see it, the problems facing developing countries have three dimensions: moral, power-related, and practical. There is a systemic and unjust bias in global economic and financial frameworks in favour of rich countries, which is naturally generating great frustration in the developing world. The recovery has been extremely unbalanced. Rich countries recovered from the economic impact of the pandemic with expansionary monetary and fiscal policies. Trillions and trillions were spent. Basically, they printed money and spent their way out of trouble. But developing countries, many with substantial debts, were unable to do so. If they did, they would have seen their currencies sinking. On the other hand, the IMF allocated 650 billion US dollars in Special Drawing Rights \u2013 or SDRs \u2013 during the pandemic. The G7 countries, with a population of 772 million people, received 280 billion US dollars. The African continent, with 1.3 billion people, received only 34 billion US dollars. And this was done according to the rules. It was done by the book, but from a moral point of view, there is something fundamentally wrong with the rules themselves. Around the world, fifty-two countries are in technical default, at high risk of default, or face extremely expensive market financing. Middle Income Countries, including many small island developing states \u2013 with few",
+  "date": "22 May 2023"
+}

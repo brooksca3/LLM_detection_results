@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "89abaa31-5a20-4400-84ed-476014f075f9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.006548026829384868,
+        "human": 0.9934519731706152,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.006548026829384868,
+      "confidence_category": "high",
+      "confidence_score": 0.9934519731706152,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.006548026829384868,
+          "human": 0.9934519731706152,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 78.58134460449219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017311096598859876,
+          "perplexity": 38,
+          "sentence": "Health authorities and WHO strategize on how best to support critical health needs going forward Kyiv - At the six-month mark of the war in Ukraine, the country's badly affected but still-resilient health system is taking stock of lessons learned in providing life-saving care with the support of WHO and partners as it prepares for a challenging winter ahead.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001720799191389233,
+          "perplexity": 56,
+          "sentence": "\u201cSix months of war have had a devastating impact on the health and lives of Ukraine's people, but despite many challenges the health system has managed to survive and deliver care where and when it is needed most,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017790094716474414,
+          "perplexity": 273,
+          "sentence": "\u201cThough shaken, the health system has not collapsed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001696478866506368,
+          "perplexity": 23,
+          "sentence": "WHO continues to support the Ministry of Health of Ukraine to restore disrupted services, displaced health workers and destroyed infrastructure, which is essential not only for the health of Ukraine's people, but for the country's resilience and recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016072503058239818,
+          "perplexity": 37,
+          "sentence": "But no system can deliver optimum health to its people under the stress of war, which is why we continue to call on the Russian Federation to end this war.\u201d WHO has helped deliver more than 1300 metric tonnes of critical medical supplies in coordination with the Ministry of Health and partners, with more on the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001529399014543742,
+          "perplexity": 41,
+          "sentence": "These include power generators, ambulances and oxygen supplies for medical facilities; supplies for trauma and emergency surgeries; and medicines to help treat noncommunicable diseases (NCDs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015197781613096595,
+          "perplexity": 43,
+          "sentence": "However, attacks on health continue unabated, with 473 WHO-verified attacks recorded this past half-year, resulting in at least 98 deaths and 134 injuries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001627046149224043,
+          "perplexity": 54,
+          "sentence": "\u201cI've said this before and I'll say it again and again: attacks on health care are unconscionable,\u201d stressed Dr Hans Henri P. Kluge, WHO Regional Director for Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016410250100307167,
+          "perplexity": 25,
+          "sentence": "\u201cNot only are these a violation of international humanitarian law, but they also kill and maim civilians",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Health authorities and WHO strategize on how best to support critical health needs going forward Kyiv \u2013 At the six-month mark of the war in Ukraine, the country\u2019s badly affected but still-resilient health system is taking stock of lessons learned in providing life-saving care with the support of WHO and partners as it prepares for a challenging winter ahead. \u201cSix months of war have had a devastating impact on the health and lives of Ukraine\u2019s people, but despite many challenges the health system has managed to survive and deliver care where and when it is needed most,\u201d said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. \u201cThough shaken, the health system has not collapsed. WHO continues to support the Ministry of Health of Ukraine to restore disrupted services, displaced health workers and destroyed infrastructure, which is essential not only for the health of Ukraine\u2019s people, but for the country\u2019s resilience and recovery. But no system can deliver optimum health to its people under the stress of war, which is why we continue to call on the Russian Federation to end this war.\u201d WHO has helped deliver more than 1300 metric tonnes of critical medical supplies in coordination with the Ministry of Health and partners, with more on the way. These include power generators, ambulances and oxygen supplies for medical facilities; supplies for trauma and emergency surgeries; and medicines to help treat noncommunicable diseases (NCDs). However, attacks on health continue unabated, with 473 WHO-verified attacks recorded this past half-year, resulting in at least 98 deaths and 134 injuries. \u201cI\u2019ve said this before and I\u2019ll say it again and again: attacks on health care are unconscionable,\u201d stressed Dr Hans Henri P. Kluge, WHO Regional Director for Europe. \u201cNot only are these a violation of international humanitarian law, but they also kill and maim civilians",
+  "date": "24 August 2022"
+}

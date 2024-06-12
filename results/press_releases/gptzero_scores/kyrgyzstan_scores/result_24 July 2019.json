@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "24a869c9-afd6-44dd-b3db-5c5d32b21200",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 225.68844604492188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016066833632066846,
+          "perplexity": 25,
+          "sentence": "15 July 2019, New York - An estimated 820 million people did not have enough to eat in 2018, up from 811 million in the previous year, which is the third year of increase in a row.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001725261245155707,
+          "perplexity": 25,
+          "sentence": "This underscores the immense challenge of achieving the Sustainable Development Goal of Zero Hunger by 2030, says a new edition of the annual The State of Food Security and Nutrition in the World report released today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017484233831055462,
+          "perplexity": 21,
+          "sentence": "The pace of progress in halving the number of children who are stunted and in reducing the number of babies born with low birth weight is too slow, which also puts the SDG 2 nutrition targets further out of reach, according to the report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017672490503173321,
+          "perplexity": 16,
+          "sentence": "At the same time, adding to these challenges, overweight and obesity continue to increase in all regions, particularly among school-age children and adults.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016928657714743167,
+          "perplexity": 24,
+          "sentence": "The chances of being food insecure are higher for women than men in every continent, with the largest gap in Latin America.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016460964980069548,
+          "perplexity": 11,
+          "sentence": "\u201cOur actions to tackle these troubling trends will have to be bolder, not only in scale but also in terms of multisectoral collaboration,\u201d the heads of the United Nations' Food and Agriculture Organization (FAO), the International Fund for Agricultural Development (IFAD), the UN Children's Fund (UNICEF), the World Food Programme (WFP) and the World Health Organization (WHO) urged in their joint foreword to the report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019565116963349283,
+          "perplexity": 36,
+          "sentence": "Hunger is increasing in many countries where economic growth is lagging, particularly in middle-income countries and those that rely heavily on international primary commodity trade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018405077571514994,
+          "perplexity": 20,
+          "sentence": "The annual UN report also found that income inequality is rising in many of the countries where hunger is on the rise, making it even more difficult for the poor, vulnerable or marginalized to cope with economic slowdowns and downturns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018493313109502196,
+          "perplexity": 699,
+          "sentence": "\u201cWe must foster pro-poor and inclusive structural transformation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "15 July 2019, New York \u2013 An estimated 820 million people did not have enough to eat in 2018, up from 811 million in the previous year, which is the third year of increase in a row. This underscores the immense challenge of achieving the Sustainable Development Goal of Zero Hunger by 2030, says a new edition of the annual The State of Food Security and Nutrition in the World report released today. The pace of progress in halving the number of children who are stunted and in reducing the number of babies born with low birth weight is too slow, which also puts the SDG 2 nutrition targets further out of reach, according to the report. At the same time, adding to these challenges, overweight and obesity continue to increase in all regions, particularly among school-age children and adults. The chances of being food insecure are higher for women than men in every continent, with the largest gap in Latin America. \u201cOur actions to tackle these troubling trends will have to be bolder, not only in scale but also in terms of multisectoral collaboration,\u201d the heads of the United Nations\u2019 Food and Agriculture Organization (FAO), the International Fund for Agricultural Development (IFAD), the UN Children\u2019s Fund (UNICEF), the World Food Programme (WFP) and the World Health Organization (WHO) urged in their joint foreword to the report. Hunger is increasing in many countries where economic growth is lagging, particularly in middle-income countries and those that rely heavily on international primary commodity trade. The annual UN report also found that income inequality is rising in many of the countries where hunger is on the rise, making it even more difficult for the poor, vulnerable or marginalized to cope with economic slowdowns and downturns. \u201cWe must foster pro-poor and inclusive structural transformation",
+  "date": "24 July 2019"
+}

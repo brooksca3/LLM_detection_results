@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "96e45d55-5154-457f-9358-7cbcd0ddba07",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.09334945678711,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002692090056370944,
+          "perplexity": 61,
+          "sentence": "The Ten Steps to Successful Breastfeeding encourages new mothers to breastfeed and informs health workers how best to support breastfeeding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026375785819254816,
+          "perplexity": 41,
+          "sentence": "Breastfeeding within the first hour of birth protects newborn babies from infections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024225475499406457,
+          "perplexity": 30,
+          "sentence": "Its benefits help keep babies healthy in their first days and last will into adulthood Infants are at greater risk of death due to diarrhoea and other infections when they are only partially breastfed or not breastfed at all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000290301424684003,
+          "perplexity": 37,
+          "sentence": "Breastfeeding also improves IQ, school readiness and attendance, and is associated with higher income in adult life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028107655816711485,
+          "perplexity": 23,
+          "sentence": "It also reduces the risk of breast cancer in the mother.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000251521822065115,
+          "perplexity": 109,
+          "sentence": "\"Breastfeeding saves lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024021441640798002,
+          "perplexity": 28,
+          "sentence": "Still in Kyrgyzstan, only 41 per cent of children less than six months of age are exclusively breastfed,\" says UNICEF Representative in Kyrgyzstan Yukie Mokuo.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003455381956882775,
+          "perplexity": 65,
+          "sentence": "\"Breastfeeding requires support, encouragement and guidance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002786408003885299,
+          "perplexity": 58,
+          "sentence": "With these basic 10 steps, we can significantly improve breastfeeding rates around the world and in Kyrgyzstan.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024958731955848634,
+          "perplexity": 51,
+          "sentence": "Dr Jarno Habicht, WHO Representative / Head of Country Office in Kyrgyzstan, says: \"Breastfeeding gives babies the best possible start in life and like other countries' effort, Kyrgyzstan also drives to achieve universal health coverage and there is no better or more crucial place to start than by ensuring the Ten Steps to Successful Breastfeeding are the standard for care of mothers and their babies\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044706370681524277,
+          "perplexity": 80,
+          "sentence": "1. Comply fully with the International Code of Marketing of Breast-milk Substitutes and relevant World Health Assembly resolutions and establish ongoing monitoring and data-management.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000616891891695559,
+          "perplexity": 65,
+          "sentence": "2. Ensure that staff have sufficient knowledge, competence and skills to support breastfeeding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006301201065070927,
+          "perplexity": 35,
+          "sentence": "3. Discuss the importance and management of breastfeeding with pregnant women and their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005621068412438035,
+          "perplexity": 30,
+          "sentence": "4. Facilitate immediate and uninterrupted skin-to-skin contact and support mothers to initiate breastfeeding as soon as possible after birth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005512113566510379,
+          "perplexity": 192,
+          "sentence": "5. Support mothers to initiate and maintain breastfeeding and manage common difficulties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047213563811965287,
+          "perplexity": 37,
+          "sentence": "6. Do not",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Ten Steps to Successful Breastfeeding encourages new mothers to breastfeed and informs health workers how best to support breastfeeding. Breastfeeding within the first hour of birth protects newborn babies from infections. Its benefits help keep babies healthy in their first days and last will into adulthood Infants are at greater risk of death due to diarrhoea and other infections when they are only partially breastfed or not breastfed at all. Breastfeeding also improves IQ, school readiness and attendance, and is associated with higher income in adult life. It also reduces the risk of breast cancer in the mother. \"Breastfeeding saves lives. Still in Kyrgyzstan, only 41 per cent of children less than six months of age are exclusively breastfed,\" says UNICEF Representative in Kyrgyzstan Yukie Mokuo. \"Breastfeeding requires support, encouragement and guidance. With these basic 10 steps, we can significantly improve breastfeeding rates around the world and in Kyrgyzstan.\" Dr Jarno Habicht, WHO Representative / Head of Country Office in Kyrgyzstan, says: \"Breastfeeding gives babies the best possible start in life and like other countries\u2019 effort, Kyrgyzstan also drives to achieve universal health coverage and there is no better or more crucial place to start than by ensuring the Ten Steps to Successful Breastfeeding are the standard for care of mothers and their babies\". 1. Comply fully with the International Code of Marketing of Breast-milk Substitutes and relevant World Health Assembly resolutions and establish ongoing monitoring and data-management. 2. Ensure that staff have sufficient knowledge, competence and skills to support breastfeeding. 3. Discuss the importance and management of breastfeeding with pregnant women and their families. 4. Facilitate immediate and uninterrupted skin-to-skin contact and support mothers to initiate breastfeeding as soon as possible after birth. 5. Support mothers to initiate and maintain breastfeeding and manage common difficulties. 6. Do not",
+  "date": "12 April 2018"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3084ba3a-9a6d-41de-b567-32db55ab013e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 238.77940368652344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00038463089731521904,
+          "perplexity": 59,
+          "sentence": "Amman - The Secretary-General of the Ministry of Labour, Farouk Hadidi, on behalf of the Minister of Labour Nayef Stetieh, launched a series of national activities on occasion of the World Day Against Child Labour 2022 in the Haya Cultural Centre.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000450338760856539,
+          "perplexity": 237,
+          "sentence": "The 2022 theme of this world day, which falls on June 12 every year, is \u201cUniversal Social Protection to End Child Labour\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003892933309543878,
+          "perplexity": 23,
+          "sentence": "Those participating in these national events include the Ministries of Labour; Education; and Social Development; the Juvenile and Family Protection Department of the Public Security Directorate; the National Council for Family Affairs; the United Nations Children's Fund (UNICEF); the United Nations High Commissioner for Refugees (UNHCR); the International Labour Organisation (ILO); Tamkeen for Legal Aid and Human Rights; Plan International; Arab Renaissance for Democracy and Development (ARDD); Terre des hommes; the Jordan Hashemite Fund for Human Development (JOHUD); International Medical Corps (IMC), Save the Children, Rowad Al-Khair Association and the Institute for Family Health (IFH).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010420364560559392,
+          "perplexity": 54,
+          "sentence": "All participating ministries, governmental entities, organisations and associations are existing members of the Child Labour Task Force, and are implementing a series of national week-long activities, starting with a launching event, which included a panel discussion wherein children from the Jordanian Child Parliament took to the podium to ask panel members (select decision-makers and relevant partners from the Child Labour Task Force) a series of questions surrounding child labour.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018197117606177926,
+          "perplexity": 630,
+          "sentence": "Additionally, a freeze mob was conducted by children from JOHUD.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001762938336469233,
+          "perplexity": 23,
+          "sentence": "During his opening remarks, the Secretary-General of the Ministry of Labour, Farouk Al-Hadidi, announced that the Ministry of Labour, in partnership with the Child Labour Task Force, launched a campaign for 2022 under the title of #StillAChild to shed light on the national efforts being made to combat child labour, while focusing on the issue of working children and how to help them.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman - The Secretary-General of the Ministry of Labour, Farouk Hadidi, on behalf of the Minister of Labour Nayef Stetieh, launched a series of national activities on occasion of the World Day Against Child Labour 2022 in the Haya Cultural Centre. The 2022 theme of this world day, which falls on June 12 every year, is \u201cUniversal Social Protection to End Child Labour\u201d. Those participating in these national events include the Ministries of Labour; Education; and Social Development; the Juvenile and Family Protection Department of the Public Security Directorate; the National Council for Family Affairs; the United Nations Children's Fund (UNICEF); the United Nations High Commissioner for Refugees (UNHCR); the International Labour Organisation (ILO); Tamkeen for Legal Aid and Human Rights; Plan International; Arab Renaissance for Democracy and Development (ARDD); Terre des hommes; the Jordan Hashemite Fund for Human Development (JOHUD); International Medical Corps (IMC), Save the Children, Rowad Al-Khair Association and the Institute for Family Health (IFH). All participating ministries, governmental entities, organisations and associations are existing members of the Child Labour Task Force, and are implementing a series of national week-long activities, starting with a launching event, which included a panel discussion wherein children from the Jordanian Child Parliament took to the podium to ask panel members (select decision-makers and relevant partners from the Child Labour Task Force) a series of questions surrounding child labour. Additionally, a freeze mob was conducted by children from JOHUD. During his opening remarks, the Secretary-General of the Ministry of Labour, Farouk Al-Hadidi, announced that the Ministry of Labour, in partnership with the Child Labour Task Force, launched a campaign for 2022 under the title of #StillAChild to shed light on the national efforts being made to combat child labour, while focusing on the issue of working children and how to help them.",
+  "date": "12 June 2022"
+}

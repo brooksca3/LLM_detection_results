@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4b8acacf-aa08-476b-923f-1f6fc35b4693",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.512157440185547,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00045057261013425887,
+          "perplexity": 36,
+          "sentence": "The campaign, which engaged over 1000 youth, representatives of government organizations, law enforcement, public organizations and universities, was the result of a two-day workshop, held in early July 2019, for 15 public sector representatives, youth and civil society organizations and mass media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043536568409763277,
+          "perplexity": 38,
+          "sentence": "Together they developed specific action plans to conduct public awareness raising initiatives focusing on root causes, consequences and indicators of trafficking in persons and providing people with information to reduce the risk of becoming a victim and to know where to turn to in case of questions or to ask for help.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006303813424892724,
+          "perplexity": 28,
+          "sentence": "\u201cVirtually every country in the world is affected by these crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004120907688047737,
+          "perplexity": 33,
+          "sentence": "The challenge for all countries, rich and poor, is to target the criminals who exploit desperate people and to protect and assist victims of trafficking and smuggled migrants, many of whom endure unimaginable hardships in their bid for a better life\u201d, said Mr. Koen Marquering, Manager of UNODC's Criminal Justice Program for Central Asia at a coordination meeting on countering human trafficking held at the UN Office in Ashgabat with the participation of national partners from the Supreme Court, Ministry of Interior, General Prosecutor's Office, State Migration Service, Mejlis (Parliament), Ministry of Justice, Institute of State, Law and Democracy, Ombuds Office, Ministry of Sport and Youth Policy, Women's Union, Magtymguly Youth Union, as well as representatives from international organizations, such as IOM, UNDP and UNFPA, and the Embassies of the United States and Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036974382237531245,
+          "perplexity": 69,
+          "sentence": "The campaign, which was led by national and local authorities in partnership with UNODC, USAID, IOM and civil society organizations, such as Junior Achievement and Beyik Eyyam, covered the capital city Ashgabat and 2 provinces: Dashoguz and Lebap.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003594618756324053,
+          "perplexity": 69,
+          "sentence": "Interventions included multiple trainings for law enforcement and local authorities, as well as a variety of interactive sports and cultural events, quiz",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The campaign, which engaged over 1000 youth, representatives of government organizations, law enforcement, public organizations and universities, was the result of a two-day workshop, held in early July 2019, for 15 public sector representatives, youth and civil society organizations and mass media. Together they developed specific action plans to conduct public awareness raising initiatives focusing on root causes, consequences and indicators of trafficking in persons and providing people with information to reduce the risk of becoming a victim and to know where to turn to in case of questions or to ask for help. \u201cVirtually every country in the world is affected by these crimes. The challenge for all countries, rich and poor, is to target the criminals who exploit desperate people and to protect and assist victims of trafficking and smuggled migrants, many of whom endure unimaginable hardships in their bid for a better life\u201d, said Mr. Koen Marquering, Manager of UNODC\u2019s Criminal Justice Program for Central Asia at a coordination meeting on countering human trafficking held at the UN Office in Ashgabat with the participation of national partners from the Supreme Court, Ministry of Interior, General Prosecutor\u2019s Office, State Migration Service, Mejlis (Parliament), Ministry of Justice, Institute of State, Law and Democracy, Ombuds Office, Ministry of Sport and Youth Policy, Women\u2019s Union, Magtymguly Youth Union, as well as representatives from international organizations, such as IOM, UNDP and UNFPA, and the Embassies of the United States and Russian Federation. The campaign, which was led by national and local authorities in partnership with UNODC, USAID, IOM and civil society organizations, such as Junior Achievement and Beyik Eyyam, covered the capital city Ashgabat and 2 provinces: Dashoguz and Lebap. Interventions included multiple trainings for law enforcement and local authorities, as well as a variety of interactive sports and cultural events, quiz",
+  "date": "07 October 2019"
+}

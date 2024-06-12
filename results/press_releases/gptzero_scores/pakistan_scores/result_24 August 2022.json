@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "73f660b6-1c0b-41e2-893d-d10a2656ca1d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.182334899902344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00033193148556165397,
+          "perplexity": 27,
+          "sentence": "War in Ukraine has left nearly 1,000 children killed or injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028375591500662267,
+          "perplexity": 45,
+          "sentence": "NEW YORK, 22 August 2022 - \u201cAt least 972 children in Ukraine have been killed or injured by violence since the war escalated nearly six months ago, an average of over five children killed or injured each day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003065544879063964,
+          "perplexity": 59,
+          "sentence": "\u201cAnd these are just the figures the UN has been able to verify.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038235203828662634,
+          "perplexity": 46,
+          "sentence": "We believe the true number to be much higher.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035427435068413615,
+          "perplexity": 114,
+          "sentence": "\u201cThe use of explosive weapons has caused most of the child casualties.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030693403095938265,
+          "perplexity": 22,
+          "sentence": "These weapons do not discriminate between civilian and combatant, especially when used in populated areas as has been the case in Ukraine - in Mariupol, Luhansk, Kremenchuk, and Vinnytsia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039847870357334614,
+          "perplexity": 7,
+          "sentence": "The list goes on and on.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003039287112187594,
+          "perplexity": 83,
+          "sentence": "\u201cOnce again, as in all wars, the reckless decisions of adults are putting children at extreme risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029478786746039987,
+          "perplexity": 46,
+          "sentence": "There are no armed operations of this kind that do not result in children being harmed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032205498428083956,
+          "perplexity": 44,
+          "sentence": "\u201cMeanwhile, beyond the horror of children being killed or physically hurt in attacks, almost every child in Ukraine has been exposed to deeply distressing events, and those fleeing violence are at significant risk of family separation, violence, abuse, sexual exploitation, and trafficking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003610257990658283,
+          "perplexity": 35,
+          "sentence": "\u201cThe start of the school year in just over a week's time is a stark reminder of how much children in Ukraine have lost.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041212531505152583,
+          "perplexity": 44,
+          "sentence": "\u201cUkraine's education system has been devastated by the escalation of hostilities across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037602672819048166,
+          "perplexity": 37,
+          "sentence": "Schools have been targeted or used by parties, resulting in families not feeling safe to send their children to school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003208511625416577,
+          "perplexity": 32,
+          "sentence": "We estimate that 1 in 10 schools have been damaged or destroyed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000296764075756073,
+          "perplexity": 82,
+          "sentence": "\u201cAll children need to be in school and learning, including children caught up in emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033331563463434577,
+          "perplexity": 43,
+          "sentence": "Children in Ukraine and those displaced by this war are no exception.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002916516095865518,
+          "perplexity": 75,
+          "sentence": "\u201cUNICEF continues to call for an immediate ceasefire in Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "War in Ukraine has left nearly 1,000 children killed or injured. NEW YORK, 22 August 2022 \u2013 \u201cAt least 972 children in Ukraine have been killed or injured by violence since the war escalated nearly six months ago, an average of over five children killed or injured each day. \u201cAnd these are just the figures the UN has been able to verify. We believe the true number to be much higher. \u201cThe use of explosive weapons has caused most of the child casualties. These weapons do not discriminate between civilian and combatant, especially when used in populated areas as has been the case in Ukraine \u2013 in Mariupol, Luhansk, Kremenchuk, and Vinnytsia. The list goes on and on. \u201cOnce again, as in all wars, the reckless decisions of adults are putting children at extreme risk. There are no armed operations of this kind that do not result in children being harmed. \u201cMeanwhile, beyond the horror of children being killed or physically hurt in attacks, almost every child in Ukraine has been exposed to deeply distressing events, and those fleeing violence are at significant risk of family separation, violence, abuse, sexual exploitation, and trafficking. \u201cThe start of the school year in just over a week\u2019s time is a stark reminder of how much children in Ukraine have lost. \u201cUkraine\u2019s education system has been devastated by the escalation of hostilities across the country. Schools have been targeted or used by parties, resulting in families not feeling safe to send their children to school. We estimate that 1 in 10 schools have been damaged or destroyed. \u201cAll children need to be in school and learning, including children caught up in emergencies. Children in Ukraine and those displaced by this war are no exception. \u201cUNICEF continues to call for an immediate ceasefire in Ukraine",
+  "date": "24 August 2022"
+}

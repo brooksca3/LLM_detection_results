@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "78e80244-c3c7-4d7f-ac18-7b0ef0a6b8a5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.40261459350586,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001564826088724658,
+          "perplexity": 31,
+          "sentence": "Humanitarian organizations carried out a joint mission and delivered urgently needed life-saving supplies to people in Mykolaiv as part of efforts to scale up support for over 550,000 people in need across Mykolaivska oblast.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015903377789072692,
+          "perplexity": 29,
+          "sentence": "Yesterday, the last of the six truckloads of humanitarian assistance for 3,000 people sent over the past week arrived in Mykolaiv.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016919022891670465,
+          "perplexity": 10,
+          "sentence": "These deliveries provided by the UN Children's Fund (UNICEF), the UN Refugee Agency (UNHCR) and the World Food Programme (WFP) will help ensure that aid workers on the ground can reach people with food, necessary household items and other non-food items.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017510844918433577,
+          "perplexity": 29,
+          "sentence": "The trucks also brought medical supplies that will be distributed by local authorities to enable hospitals in the city to improve the diagnosis and treatment of patients.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001545306877233088,
+          "perplexity": 23,
+          "sentence": "Also yesterday, during the visit led by the UN Office for the Coordination of Humanitarian Affairs, representatives of UN agencies and NGOs met with oblast and local authorities to ensure the continuous coordination and alignment of the relief operations carried out by different actors and to identify gaps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001524227554909885,
+          "perplexity": 83,
+          "sentence": "The mission also met with local NGOs implementing most activities to help people in dire need who have now lived through six months of the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017522386042401195,
+          "perplexity": 46,
+          "sentence": "The Humanitarian Coordinator for Ukraine, Denise Brown, highlighted the importance of yesterday's and other missions to understand the needs of the people living in the most-affected oblasts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001514375035185367,
+          "perplexity": 34,
+          "sentence": "\u201cWe know first-hand what the remaining residents of Mykolaiv have to go through on a daily basis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016145879635587335,
+          "perplexity": 58,
+          "sentence": "On the visits to the city and surrounding areas, my colleagues have seen people, most of whom are older, with empty bottles desperately trying to find a water distribution point,\u201d she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016970353317447007,
+          "perplexity": 43,
+          "sentence": "The latest deliveries represent only a fraction of what humanitarian partners have been providing to support the most vulnerable people, who had no choice but to stay",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Humanitarian organizations carried out a joint mission and delivered urgently needed life-saving supplies to people in Mykolaiv as part of efforts to scale up support for over 550,000 people in need across Mykolaivska oblast. Yesterday, the last of the six truckloads of humanitarian assistance for 3,000 people sent over the past week arrived in Mykolaiv. These deliveries provided by the UN Children\u2019s Fund (UNICEF), the UN Refugee Agency (UNHCR) and the World Food Programme (WFP) will help ensure that aid workers on the ground can reach people with food, necessary household items and other non-food items. The trucks also brought medical supplies that will be distributed by local authorities to enable hospitals in the city to improve the diagnosis and treatment of patients. Also yesterday, during the visit led by the UN Office for the Coordination of Humanitarian Affairs, representatives of UN agencies and NGOs met with oblast and local authorities to ensure the continuous coordination and alignment of the relief operations carried out by different actors and to identify gaps. The mission also met with local NGOs implementing most activities to help people in dire need who have now lived through six months of the war. The Humanitarian Coordinator for Ukraine, Denise Brown, highlighted the importance of yesterday\u2019s and other missions to understand the needs of the people living in the most-affected oblasts. \u201cWe know first-hand what the remaining residents of Mykolaiv have to go through on a daily basis. On the visits to the city and surrounding areas, my colleagues have seen people, most of whom are older, with empty bottles desperately trying to find a water distribution point,\u201d she said. The latest deliveries represent only a fraction of what humanitarian partners have been providing to support the most vulnerable people, who had no choice but to stay",
+  "date": "30 August 2022"
+}

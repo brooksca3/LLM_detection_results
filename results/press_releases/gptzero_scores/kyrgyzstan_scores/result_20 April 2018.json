@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0bbbe0f5-e66f-4c94-9d95-d7e36649a94d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.5325927734375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012994333519600332,
+          "perplexity": 57,
+          "sentence": "Opening the presentation, UNICEF Representative in Kyrgyzstan Yukie Mokuo, said that the new project aims to expand access to quality medical services among the most vulnerable families, children and women, including those in Osh, Batken and Jalal-Abad oblasts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011904549319297075,
+          "perplexity": 34,
+          "sentence": "By the end of March 2021, about 500 doctors, nurses and managers from 23 health organizations will receive practical knowledge on modern methods of treatment and care for newborns and children, and support the development of new digital technologies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001271101791644469,
+          "perplexity": 125,
+          "sentence": "Water supply, heating and sanitation systems will be repaired in 10 hospitals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013204209972172976,
+          "perplexity": 40,
+          "sentence": "Moreover, it is planned to educate parents at the community level in order to improve their child caring practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012210157001391053,
+          "perplexity": 37,
+          "sentence": "\u201cThanks to the support of the Government of Japan, the UNICEF and the Ministry of Health can make efforts to systematically and sustainably improve the quality of medical care for children that will include procurement of live-saving medical equipment for 23 hospitals in the south to provide emergency care, treatment and care for severely ill newborns and children,\u201d said Yukie Mokuo, UNICEF Representative in Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014015739725437015,
+          "perplexity": 78,
+          "sentence": "\u201cI believe that it will contribute to creating a clear path towards universal health coverage and a society where no mother and child left behind\u201d, she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011353311856510118,
+          "perplexity": 24,
+          "sentence": "In March 2018, the Government of Japan allocated US $ 3.5 million to the Ministry of Health and UNICEF for a project to strengthen the health system for maternal and child care that covers more than 924,000 children under 5 and over 150,000 pregnant women in Kyrgyzstan during next three years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011063786951126531,
+          "perplexity": 23,
+          "sentence": "The new grant was made possible through successful results of a previous program by the Ministry of Health, which contributed at the national level to reduction of early neonatal mortality from 14.3 in 2014 to 11.2 in 2016 per 1,000 live births and perinatal deaths from 23.7 to 20.1",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Opening the presentation, UNICEF Representative in Kyrgyzstan Yukie Mokuo, said that the new project aims to expand access to quality medical services among the most vulnerable families, children and women, including those in Osh, Batken and Jalal-Abad oblasts. By the end of March 2021, about 500 doctors, nurses and managers from 23 health organizations will receive practical knowledge on modern methods of treatment and care for newborns and children, and support the development of new digital technologies. Water supply, heating and sanitation systems will be repaired in 10 hospitals. Moreover, it is planned to educate parents at the community level in order to improve their child caring practices. \u201cThanks to the support of the Government of Japan, the UNICEF and the Ministry of Health can make efforts to systematically and sustainably improve the quality of medical care for children that will include procurement of live-saving medical equipment for 23 hospitals in the south to provide emergency care, treatment and care for severely ill newborns and children,\u201d said Yukie Mokuo, UNICEF Representative in Kyrgyzstan. \u201cI believe that it will contribute to creating a clear path towards universal health coverage and a society where no mother and child left behind\u201d, she added. In March 2018, the Government of Japan allocated US $ 3.5 million to the Ministry of Health and UNICEF for a project to strengthen the health system for maternal and child care that covers more than 924,000 children under 5 and over 150,000 pregnant women in Kyrgyzstan during next three years. The new grant was made possible through successful results of a previous program by the Ministry of Health, which contributed at the national level to reduction of early neonatal mortality from 14.3 in 2014 to 11.2 in 2016 per 1,000 live births and perinatal deaths from 23.7 to 20.1",
+  "date": "20 April 2018"
+}

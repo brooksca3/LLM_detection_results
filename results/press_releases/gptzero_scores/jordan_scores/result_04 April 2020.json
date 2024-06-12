@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1c3e2013-dc1e-46a1-9fa5-e87562a61574",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.230342864990234,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.09633257240056992,
+          "perplexity": 19,
+          "sentence": "The World Food Programme (WFP) in Jordan continues to provide food assistance to close to half a million vulnerable Syrian refugees and refugees of other nationalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09754835814237595,
+          "perplexity": 233,
+          "sentence": "This assistance is provided through cash-based transfers, and each month the WFP transfers close to JD10 million to refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09241753816604614,
+          "perplexity": 76,
+          "sentence": "The WFP transferred its April assistance to refugees in camps and communities across the country early to enable them to meet their food needs during the period of limited movement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08703005313873291,
+          "perplexity": 89,
+          "sentence": "In refugee camps, the WFP's contracted supermarkets and bread shops continue to serve refugees while ensuring that all protective measures recommended by the Jordanian government are being followed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08293675631284714,
+          "perplexity": 65,
+          "sentence": "\u201cDuring this critical period, it is very important that the WFP maintains its food assistance programme through cash-based transfers, which represent a lifeline for close to half a million vulnerable refugees in Jordan,\u201d said WFP Country Director and Representative Sarah Gordon-Gibson.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08955905586481094,
+          "perplexity": 28,
+          "sentence": "The WFP is working closely with the government, partners and UN agencies to ensure the continuation of services and provision of information to the refugee population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08426644653081894,
+          "perplexity": 82,
+          "sentence": "\u201cWe are coordinating with partners to ensure the uninterrupted transfer of cash and supply chain of nutritious food to refugees across the Kingdom during this time,\u201d Gordon-Gibson was quoted in the statement as saying.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08446118980646133,
+          "perplexity": 95,
+          "sentence": "The WFP continues to operate its call centre and respond to refugees' questions and concerns and monitors its activities remotely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08493068814277649,
+          "perplexity": 61,
+          "sentence": "The programme is maintaining its presence in the camps to ensure that refugees are able to redeem their assistance, to enhance coordination and to monitor the implementation of protective measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08037623763084412,
+          "perplexity": 115,
+          "sentence": "Through coordination with the Government of Jordan, the programme is scaling up its assistance to vulnerable Jordanians impacted by COVID-19 through cash assistance and livelihood activities.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The World Food Programme (WFP) in Jordan continues to provide food assistance to close to half a million vulnerable Syrian refugees and refugees of other nationalities. This assistance is provided through cash-based transfers, and each month the WFP transfers close to JD10 million to refugees. The WFP transferred its April assistance to refugees in camps and communities across the country early to enable them to meet their food needs during the period of limited movement. In refugee camps, the WFP\u2019s contracted supermarkets and bread shops continue to serve refugees while ensuring that all protective measures recommended by the Jordanian government are being followed. \u201cDuring this critical period, it is very important that the WFP maintains its food assistance programme through cash-based transfers, which represent a lifeline for close to half a million vulnerable refugees in Jordan,\u201d said WFP Country Director and Representative Sarah Gordon-Gibson. The WFP is working closely with the government, partners and UN agencies to ensure the continuation of services and provision of information to the refugee population. \u201cWe are coordinating with partners to ensure the uninterrupted transfer of cash and supply chain of nutritious food to refugees across the Kingdom during this time,\u201d Gordon-Gibson was quoted in the statement as saying. The WFP continues to operate its call centre and respond to refugees\u2019 questions and concerns and monitors its activities remotely. The programme is maintaining its presence in the camps to ensure that refugees are able to redeem their assistance, to enhance coordination and to monitor the implementation of protective measures. Through coordination with the Government of Jordan, the programme is scaling up its assistance to vulnerable Jordanians impacted by COVID-19 through cash assistance and livelihood activities.",
+  "date": "04 April 2020"
+}

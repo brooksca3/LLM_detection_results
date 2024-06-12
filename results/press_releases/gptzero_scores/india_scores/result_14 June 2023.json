@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2abdc08a-00e0-41c1-8d30-698b80334284",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01085309020283222,
+        "human": 0.9886486856642476,
+        "mixed": 0.0004982241329201596
+      },
+      "completely_generated_prob": 0.01085309020283222,
+      "confidence_category": "high",
+      "confidence_score": 0.9886486856642476,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01085309020283222,
+          "human": 0.9886486856642476,
+          "mixed": 0.0004982241329201596
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.558019638061523,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031604166724719107,
+          "perplexity": 8,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the sixteenth session of the Conference of State Parties to the Convention on the Rights of Persons with Disabilities, in New York on 13 June: The 16th session of the Conference of States Parties to the Convention on the Rights of Persons with Disabilities (COSP16) is taking place at the UN Headquarters, New York, from 13 to 15 June 2023.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039277123869396746,
+          "perplexity": 42,
+          "sentence": "Organized by the UN Department of Economic and Social Affairs (DESA), the theme of the conference is \u201cHarmonizing national policies and strategies with the CRPD: achievements and challenges\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038113442133180797,
+          "perplexity": 26,
+          "sentence": "The UN Secretary-General Ant\u00f3nio Guterres' and UN General Assembly President Csaba K\u0151r\u00f6si delivered their remarks on 13 June at the opening of the conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005233408301137388,
+          "perplexity": 9,
+          "sentence": "I am very pleased to join you as we open the sixteenth session of the Conference of States Parties to the Convention on the Rights of Persons with Disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005417908541858196,
+          "perplexity": 43,
+          "sentence": "We are together today to look back and take stock -- and look ahead and take action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009638798073865473,
+          "perplexity": 25,
+          "sentence": "The adoption of the Convention 17 years ago marked a landmark moment in our shared journey towards a more just and inclusive future for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006197193288244307,
+          "perplexity": 35,
+          "sentence": "Since then, the Convention has spurred remarkable progress: 186 countries have ratified it; 75 per cent of State parties have passed laws to guarantee the integration of students with disabilities in mainstream schools -- and the percentage of countries with school materials inclusive of students with disabilities has tripled; nearly 80 per cent of State parties now prohibit discrimination in hiring against persons with disabilities; and over 90 per cent have adopted national disability laws.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000820689951069653,
+          "perplexity": 42,
+          "sentence": "Today, however, the progress we achieved is at risk of reversing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007607435691170394,
+          "perplexity": 101,
+          "sentence": "We are confronting a cascade of crises -- from the lingering effects of the COVID-19 pandemic to the worsening climate emergency, to proliferating",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the sixteenth session of the Conference of State Parties to the Convention on the Rights of Persons with Disabilities, in New York on 13 June: The 16th session of the Conference of States Parties to the Convention on the Rights of Persons with Disabilities (COSP16) is taking place at the UN Headquarters, New York, from 13 to 15 June 2023. Organized by the UN Department of Economic and Social Affairs (DESA), the theme of the conference is \u201cHarmonizing national policies and strategies with the CRPD: achievements and challenges\u201d. The UN Secretary-General Ant\u00f3nio Guterres\u2019 and UN General Assembly President Csaba K\u0151r\u00f6si delivered their remarks on 13 June at the opening of the conference. I am very pleased to join you as we open the sixteenth session of the Conference of States Parties to the Convention on the Rights of Persons with Disabilities. We are together today to look back and take stock -- and look ahead and take action. The adoption of the Convention 17 years ago marked a landmark moment in our shared journey towards a more just and inclusive future for all. Since then, the Convention has spurred remarkable progress: 186 countries have ratified it; 75 per cent of State parties have passed laws to guarantee the integration of students with disabilities in mainstream schools -- and the percentage of countries with school materials inclusive of students with disabilities has tripled; nearly 80 per cent of State parties now prohibit discrimination in hiring against persons with disabilities; and over 90 per cent have adopted national disability laws. Today, however, the progress we achieved is at risk of reversing. We are confronting a cascade of crises -- from the lingering effects of the COVID-19 pandemic to the worsening climate emergency, to proliferating",
+  "date": "14 June 2023"
+}

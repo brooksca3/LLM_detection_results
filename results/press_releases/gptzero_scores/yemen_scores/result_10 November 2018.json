@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1f81e5b2-b738-4dee-ac10-d0ac4efebff6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 11.452801704406738,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015216019528452307,
+          "perplexity": 41,
+          "sentence": "Geneva - UN High Commissioner for Human Rights Michelle Bachelet on Saturday expressed outrage at the \u201cunconscionable toll\u201d that the escalation of hostilities in Al Hodeidah was taking on an already \u201cdeeply frightened and starving\u201d population in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014981582353357226,
+          "perplexity": 23,
+          "sentence": "Bachelet urged the Saudi-led Coalition, the Houthi forces and all those supplying arms to the parties to the conflict to take immediate steps to end the suffering of civilians in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014711848052684218,
+          "perplexity": 41,
+          "sentence": "\u201cThe Saudi-led Coalition and pro-Hadi forces, the Houthi forces - and those who supply arms or other support to the parties to the conflict - all have the power or the influence to stop the starvation and killing of civilians, to give some reprieve to the people of Yemen,\u201d Bachelet said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013661479169968516,
+          "perplexity": 34,
+          "sentence": "\u201cViolations by one party to the conflict do not give carte blanche to the others to fight back at all costs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013289510388858616,
+          "perplexity": 28,
+          "sentence": "Even wars are regulated by law - all parties to the conflict are bound to respect international humanitarian law and human rights law as applicable.\u201d According to information received by the UN Human Rights Office, at least 110 airstrikes were carried out in Al Hodeidah, Sa'ada and San'a between 31 October and 6 November, with further intensification since then.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013290296192280948,
+          "perplexity": 32,
+          "sentence": "Coalition warplanes have been hovering at low altitude in Al Hodeidah City since Thursday morning, as Houthi forces fire anti-aircraft missiles and mortars, and violent street clashes continued.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001319634320680052,
+          "perplexity": 20,
+          "sentence": "At least 23 civilians have been confirmed dead in Al Hodeidah since 24 October, but the real toll may be much higher.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013657755334861577,
+          "perplexity": 28,
+          "sentence": "Some 445,000 people have been internally displaced in Al Hodeidah since early June.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013086572289466858,
+          "perplexity": 38,
+          "sentence": "There are also serious concerns about the fate of 900 detainees in the Central Prison and six pre-trial detention facilities in Al Hodeidah City.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013017337187193334,
+          "perplexity": 60,
+          "sentence": "The Central Prison was hit on Monday morning by two mortar shells, injuring",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Geneva \u2013 UN High Commissioner for Human Rights Michelle Bachelet on Saturday expressed outrage at the \u201cunconscionable toll\u201d that the escalation of hostilities in Al Hodeidah was taking on an already \u201cdeeply frightened and starving\u201d population in Yemen. Bachelet urged the Saudi-led Coalition, the Houthi forces and all those supplying arms to the parties to the conflict to take immediate steps to end the suffering of civilians in Yemen. \u201cThe Saudi-led Coalition and pro-Hadi forces, the Houthi forces \u2013 and those who supply arms or other support to the parties to the conflict \u2013 all have the power or the influence to stop the starvation and killing of civilians, to give some reprieve to the people of Yemen,\u201d Bachelet said. \u201cViolations by one party to the conflict do not give carte blanche to the others to fight back at all costs. Even wars are regulated by law \u2013 all parties to the conflict are bound to respect international humanitarian law and human rights law as applicable.\u201d According to information received by the UN Human Rights Office, at least 110 airstrikes were carried out in Al Hodeidah, Sa\u2019ada and San\u2019a between 31 October and 6 November, with further intensification since then. Coalition warplanes have been hovering at low altitude in Al Hodeidah City since Thursday morning, as Houthi forces fire anti-aircraft missiles and mortars, and violent street clashes continued. At least 23 civilians have been confirmed dead in Al Hodeidah since 24 October, but the real toll may be much higher. Some 445,000 people have been internally displaced in Al Hodeidah since early June. There are also serious concerns about the fate of 900 detainees in the Central Prison and six pre-trial detention facilities in Al Hodeidah City. The Central Prison was hit on Monday morning by two mortar shells, injuring",
+  "date": "10 November 2018"
+}

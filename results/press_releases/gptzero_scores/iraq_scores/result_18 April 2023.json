@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3921d725-8bd7-4ed6-be8d-5e901c87117c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 302.4754638671875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00019333296222612262,
+          "perplexity": 54,
+          "sentence": "15 April 2023, Ninawa - FAO representative in Iraq, Dr Salah El Hajj Hassan led a mission to several sites in Nineveh to follow up on the implementation of FAO-EU funded project, \"Support to agricultural livelihoods of rural and peri-urban returnees and communities in Nineveh Governorate in cooperation with the Ministry of Agriculture (MoA) joined by Dr Rabea Yousef Elias, the Director of Agriculture, FAO experts and MoA team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022504589287564158,
+          "perplexity": 212,
+          "sentence": "The mission started in Baashiqa, where 50 cooling tanks of different capacities were received and will be distributed to milk collection centres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019950645219068974,
+          "perplexity": 85,
+          "sentence": "According to Dr Chedly Kayouli, FAO livestock expert, \u201cThis new equipment for cooling milk is used for the first time in rural areas at a large scale in Iraq and will prevent and reduce milk post-harvest losses and improve milk quality.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020297282026149333,
+          "perplexity": 85,
+          "sentence": "The project is also empowering additionally 30 women households with milking machines that will enable them to have less physical work and more time dedicated to their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017701752949506044,
+          "perplexity": 145,
+          "sentence": "The delegation visited one of the wheat producers in Mosul who is already implementing the FAO wheat improvement package where the FAOR in Iraq highlighted the importance of scaling up the successful examples implemented on wheat production improvement through the complete package jointly introduced by FAO and MoA under this EU funded project that will allow inclusion of other crops like fodder crop in the crop rotation with wheat which improved productivity and may promote further food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017773649597074836,
+          "perplexity": 95,
+          "sentence": "Ahmed Rashad Ajaj, owner of the wheat field, acknowledged the techniques and inputs introduced by FAO which enabled him to increase wheat productivity by up to 50%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001805228675948456,
+          "perplexity": 142,
+          "sentence": "Water scarcity and crop adaptation were discussed during a meeting with the Deputy Director of Al-Mhallabia district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000162893658853136,
+          "perplexity": 961,
+          "sentence": "The mission also visited additional fodder-producing beneficiaries adopting fodder production package which achieved great success, according to one",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "15 April 2023, Ninawa - FAO representative in Iraq, Dr Salah El Hajj Hassan led a mission to several sites in Nineveh to follow up on the implementation of FAO-EU funded project, \"Support to agricultural livelihoods of rural and peri-urban returnees and communities in Nineveh Governorate in cooperation with the Ministry of Agriculture (MoA) joined by Dr Rabea Yousef Elias, the Director of Agriculture, FAO experts and MoA team. The mission started in Baashiqa, where 50 cooling tanks of different capacities were received and will be distributed to milk collection centres. According to Dr Chedly Kayouli, FAO livestock expert, \u201cThis new equipment for cooling milk is used for the first time in rural areas at a large scale in Iraq and will prevent and reduce milk post-harvest losses and improve milk quality.\" The project is also empowering additionally 30 women households with milking machines that will enable them to have less physical work and more time dedicated to their families. The delegation visited one of the wheat producers in Mosul who is already implementing the FAO wheat improvement package where the FAOR in Iraq highlighted the importance of scaling up the successful examples implemented on wheat production improvement through the complete package jointly introduced by FAO and MoA under this EU funded project that will allow inclusion of other crops like fodder crop in the crop rotation with wheat which improved productivity and may promote further food security. Ahmed Rashad Ajaj, owner of the wheat field, acknowledged the techniques and inputs introduced by FAO which enabled him to increase wheat productivity by up to 50%. Water scarcity and crop adaptation were discussed during a meeting with the Deputy Director of Al-Mhallabia district. The mission also visited additional fodder-producing beneficiaries adopting fodder production package which achieved great success, according to one",
+  "date": "18 April 2023"
+}

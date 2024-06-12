@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b122278a-0724-4ac4-9444-d1a6ae53d15b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.23430417590895938,
+        "human": 0.76442601343749,
+        "mixed": 0.0012698106535506478
+      },
+      "completely_generated_prob": 0.23430417590895938,
+      "confidence_category": "low",
+      "confidence_score": 0.76442601343749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.23430417590895938,
+          "human": 0.76442601343749,
+          "mixed": 0.0012698106535506478
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.58269691467285,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.4308617413043976,
+          "perplexity": 48,
+          "sentence": "The members of the Security Council condemned in the strongest terms the attack perpetrated against MINUSMA on 1 June 2022 in Kidal, following which one peacekeeper from Jordan was killed and three others wounded.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4307088255882263,
+          "perplexity": 11,
+          "sentence": "The members of the Security Council expressed their deepest condolences and sympathy to the family of the victim, as well as to Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4227442741394043,
+          "perplexity": 42,
+          "sentence": "They also expressed condolences to the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.425251841545105,
+          "perplexity": 30,
+          "sentence": "They wished a speedy and full recovery to those who were injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4292874336242676,
+          "perplexity": 82,
+          "sentence": "They paid tribute to all peacekeepers who risk their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.41949740052223206,
+          "perplexity": 33,
+          "sentence": "The members of the Security Council called on the transitional Government of Mali to swiftly investigate the attack against peacekeepers and bring the perpetrators to justice, and keep the relevant troop-contributing country informed of the progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4142822325229645,
+          "perplexity": 39,
+          "sentence": "They underlined that attacks targeting peacekeepers may constitute war crimes under international law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4082332253456116,
+          "perplexity": 93,
+          "sentence": "They stressed that involvement in planning, directing, sponsoring or conducting attacks against MINUSMA peacekeepers constitutes a basis for sanctions designations pursuant to United Nations Security Council resolutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.403097003698349,
+          "perplexity": 47,
+          "sentence": "They underscored that the primary responsibility of the safety and security of United Nations personnel and assets rests with host States and highlighted the importance of engagement and communications between MINUSMA and the transitional Government of Mali.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4201795160770416,
+          "perplexity": 8,
+          "sentence": "The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4278578460216522,
+          "perplexity": 22,
+          "sentence": "They underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.41984423995018005,
+          "perplexity": 11,
+          "sentence": "They stressed that those responsible for these killings should be held accountable, and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with all relevant authorities in this regard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.4360058605670929,
+          "perplexity": 39,
+          "sentence": "The members of the Security Council reiterated that any acts of terrorism are criminal and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The members of the Security Council condemned in the strongest terms the attack perpetrated against MINUSMA on 1 June 2022 in Kidal, following which one peacekeeper from Jordan was killed and three others wounded. The members of the Security Council expressed their deepest condolences and sympathy to the family of the victim, as well as to Jordan. They also expressed condolences to the United Nations. They wished a speedy and full recovery to those who were injured. They paid tribute to all peacekeepers who risk their lives. The members of the Security Council called on the transitional Government of Mali to swiftly investigate the attack against peacekeepers and bring the perpetrators to justice, and keep the relevant troop-contributing country informed of the progress. They underlined that attacks targeting peacekeepers may constitute war crimes under international law. They stressed that involvement in planning, directing, sponsoring or conducting attacks against MINUSMA peacekeepers constitutes a basis for sanctions designations pursuant to United Nations Security Council resolutions. They underscored that the primary responsibility of the safety and security of United Nations personnel and assets rests with host States and highlighted the importance of engagement and communications between MINUSMA and the transitional Government of Mali. The members of the Security Council reaffirmed that terrorism in all its forms and manifestations constitutes one of the most serious threats to international peace and security. They underlined the need to bring perpetrators, organizers, financiers and sponsors of these reprehensible acts of terrorism to justice. They stressed that those responsible for these killings should be held accountable, and urged all States, in accordance with their obligations under international law and relevant Security Council resolutions, to cooperate actively with all relevant authorities in this regard. The members of the Security Council reiterated that any acts of terrorism are criminal and",
+  "date": "01 June 2022"
+}

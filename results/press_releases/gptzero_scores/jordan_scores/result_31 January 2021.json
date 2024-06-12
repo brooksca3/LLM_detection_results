@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1a4dc8ef-51d3-49ea-ab25-9d4a1ff94942",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 100.61505126953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001516837510280311,
+          "perplexity": 84,
+          "sentence": "The Royal Scientific Society (RSS) and UN-Habitat on Saturday signed an agreement for a joint research project titled \u201cCOVID-19 in the Wastewater Cycle: Survival, Risk and Surveillance in Jordan\u201d initiated by the UN agency's Global Water Operators' Partnerships Alliance Programme (GWOPA).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017803160881157964,
+          "perplexity": 61,
+          "sentence": "The COVID-19 pandemic has reignited interest in wastewater surveillance, specifically how sewage systems are monitored for the presence of viruses, bacteria and other pathogens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016442248306702822,
+          "perplexity": 99,
+          "sentence": "The concentration of COVID-19 in wastewater samples provides an early alert to address potential cases, and the detection of the virus in sewage has been employed as a complementary method to clinical testing and indicator of virus' spread in communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013967682025395334,
+          "perplexity": 190,
+          "sentence": "Poor urban communities and refugee camps are most vulnerable to COVID-19 outbreaks given the dense and crowded settings, compounded by reduced financial capacity to conduct PCR testing, when needed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012809976760763675,
+          "perplexity": 25,
+          "sentence": "Jordan has the second highest refugee population per capita in the world, although approximately 83 per cent are urban-based, the remainder live in one of the 13 refugee camps in Jordan (i.e.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012511922977864742,
+          "perplexity": 81,
+          "sentence": "10 camps for Palestinians and three for Syrians), according to UNRWA and UNHCR (2020).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001440723572159186,
+          "perplexity": 222,
+          "sentence": "Considering the limited resources in Jordan for conducting massive COVID-19 tests, immediate wastewater results can provide considerable advance notice of infection dynamics in Jordanian communities, particularly in vulnerable communities and refugee camps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013126214616931975,
+          "perplexity": 76,
+          "sentence": "In that regard, the joint project will be implemented over six months to address the presence and fate of COVID-19 in the wastewater cycle from the source points at King Abdullah University Hospital in Irbid to the wastewater treatment plant.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001227084139827639,
+          "perplexity": 350,
+          "sentence": "The project will propose a sustainable early warning system in Azraq Syrian refugee camp and Jerash Palestinian refugee camp through tracking and monitoring COVID-19 in wastewater.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012162200437160209,
+          "perplexity": 47,
+          "sentence": "The Water and Environment Centre and Bio-Safety and Bio-Security Centre at the RSS will be in charge of implementing this project, which",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Royal Scientific Society (RSS) and UN-Habitat on Saturday signed an agreement for a joint research project titled \u201cCOVID-19 in the Wastewater Cycle: Survival, Risk and Surveillance in Jordan\u201d initiated by the UN agency\u2019s Global Water Operators\u2019 Partnerships Alliance Programme (GWOPA). The COVID-19 pandemic has reignited interest in wastewater surveillance, specifically how sewage systems are monitored for the presence of viruses, bacteria and other pathogens. The concentration of COVID-19 in wastewater samples provides an early alert to address potential cases, and the detection of the virus in sewage has been employed as a complementary method to clinical testing and indicator of virus\u2019 spread in communities. Poor urban communities and refugee camps are most vulnerable to COVID-19 outbreaks given the dense and crowded settings, compounded by reduced financial capacity to conduct PCR testing, when needed. Jordan has the second highest refugee population per capita in the world, although approximately 83 per cent are urban-based, the remainder live in one of the 13 refugee camps in Jordan (i.e. 10 camps for Palestinians and three for Syrians), according to UNRWA and UNHCR (2020). Considering the limited resources in Jordan for conducting massive COVID-19 tests, immediate wastewater results can provide considerable advance notice of infection dynamics in Jordanian communities, particularly in vulnerable communities and refugee camps. In that regard, the joint project will be implemented over six months to address the presence and fate of COVID-19 in the wastewater cycle from the source points at King Abdullah University Hospital in Irbid to the wastewater treatment plant. The project will propose a sustainable early warning system in Azraq Syrian refugee camp and Jerash Palestinian refugee camp through tracking and monitoring COVID-19 in wastewater. The Water and Environment Centre and Bio-Safety and Bio-Security Centre at the RSS will be in charge of implementing this project, which",
+  "date": "31 January 2021"
+}

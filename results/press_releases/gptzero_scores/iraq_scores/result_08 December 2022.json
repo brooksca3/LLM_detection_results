@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed6c99fc-9cf9-4835-a851-cfccbcea8c50",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02354685082309966,
+        "human": 0.9754636794850778,
+        "mixed": 0.0009894696918226068
+      },
+      "completely_generated_prob": 0.02354685082309966,
+      "confidence_category": "high",
+      "confidence_score": 0.9754636794850778,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02354685082309966,
+          "human": 0.9754636794850778,
+          "mixed": 0.0009894696918226068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 70.58824157714844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00020237648277543485,
+          "perplexity": 60,
+          "sentence": "Baghdad, 08 December 2022 - Special Adviser Christian Ritscher briefed the UN Security Council earlier this week on the ninth report of the United Nations Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL (UNITAD).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002088866604026407,
+          "perplexity": 49,
+          "sentence": "Special Adviser Ritscher highlighted the continuous engagement of the Team with Iraqi counterparts during the reporting period, emphasizing also that: \u201cconsideration and concerns of all communities impacted by ISIL crimes in Iraq remain at the forefront of the Teams' investigative work.\u201d Continued partnership with Iraq as explained by Special Adviser Ritscher involved several areas, including advanced support to capacity building for Iraqi judges, as well as supporting the excavation of several ISIL-related mass graves in Iraq according to the annual road map agreed to with the Government of Iraq and international partners; and the preservation of evidence on ISIL-related crimes where the Team: \u201cso far converted 5.5 million physical pages of documentary evidence into usable digital formats, and currently supports digitization activities at six different sites in Iraq with a throughput of approximately 100,000 pages per week,\u201d as Special Adviser Ritscher specified.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008318190462887287,
+          "perplexity": 43,
+          "sentence": "The Special Adviser, further, described key progress in the Team's investigations over the past 6 months encompassing UNITAD's relentless efforts towards global accountability for Da'esh/ISIL crimes committed in Iraq, mainly concerning the completion of the case assessment focused on crimes committed against the Christian community in Iraq, which substantiated preliminary findings of acts constituting crimes against humanity and war crimes; and the development and use of chemical and biological weapons by Da'esh/ISIL focusing on the attack on Taza Khurmatu on 08 March 2016, which has generated significant volumes of battlefield evidence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013098026625812054,
+          "perplexity": 51,
+          "sentence": "He also stated that UNITAD started to advance with its investigations into ISIL's destruction of cultural heritage in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014622635208070278,
+          "perplexity": 208,
+          "sentence": "These investigations represent a breakthrough in the landscape of core international crimes",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 08 December 2022 \u2013 Special Adviser Christian Ritscher briefed the UN Security Council earlier this week on the ninth report of the United Nations Investigative Team to Promote Accountability for Crimes Committed by Da\u2019esh/ISIL (UNITAD). Special Adviser Ritscher highlighted the continuous engagement of the Team with Iraqi counterparts during the reporting period, emphasizing also that: \u201cconsideration and concerns of all communities impacted by ISIL crimes in Iraq remain at the forefront of the Teams\u2019 investigative work.\u201d Continued partnership with Iraq as explained by Special Adviser Ritscher involved several areas, including advanced support to capacity building for Iraqi judges, as well as supporting the excavation of several ISIL-related mass graves in Iraq according to the annual road map agreed to with the Government of Iraq and international partners; and the preservation of evidence on ISIL-related crimes where the Team: \u201cso far converted 5.5 million physical pages of documentary evidence into usable digital formats, and currently supports digitization activities at six different sites in Iraq with a throughput of approximately 100,000 pages per week,\u201d as Special Adviser Ritscher specified. The Special Adviser, further, described key progress in the Team\u2019s investigations over the past 6 months encompassing UNITAD\u2019s relentless efforts towards global accountability for Da\u2019esh/ISIL crimes committed in Iraq, mainly concerning the completion of the case assessment focused on crimes committed against the Christian community in Iraq, which substantiated preliminary findings of acts constituting crimes against humanity and war crimes; and the development and use of chemical and biological weapons by Da\u2019esh/ISIL focusing on the attack on Taza Khurmatu on 08 March 2016, which has generated significant volumes of battlefield evidence. He also stated that UNITAD started to advance with its investigations into ISIL\u2019s destruction of cultural heritage in Iraq. These investigations represent a breakthrough in the landscape of core international crimes",
+  "date": "08 December 2022"
+}

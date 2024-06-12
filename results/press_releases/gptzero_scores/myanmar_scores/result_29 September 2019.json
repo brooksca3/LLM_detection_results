@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "33e6bbef-2a4e-46cc-a4bc-48bf1e30ba0d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.726720809936523,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014836012269370258,
+          "perplexity": 34,
+          "sentence": "Myanmar's Union Minister for International Cooperation, His Excellency Mr. U Kyaw Tin, deposited the accession instrument during a ceremony that took place on the margins of the 74th General Assembly at the UN headquarters in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015622348291799426,
+          "perplexity": 89,
+          "sentence": "\u201cThe international engagement taken today by the Government of Myanmar to better protect its children is a welcome step.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014613167149946094,
+          "perplexity": 68,
+          "sentence": "It is a commitment to put in place all the necessary measures to protect them from recruitment and use by both its armed forces and armed groups active in the country\u201d, said Virginia Gamba.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014231591194402426,
+          "perplexity": 38,
+          "sentence": "Provisions on the demobilization and reintegration of all children under 18 and children presumed present in the ranks of Myanmar's armed forces are also included in OPAC, a commitment already under implementation through the Security Council-mandated Joint Action Plan signed with the United Nations in 2012.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001449437695555389,
+          "perplexity": 24,
+          "sentence": "The Special Representative calls on the Government of Myanmar to swiftly translate this commitment into tangible measures for the protection of boys and girls and to end and prevent all six grave violations against children, including the killing and maiming of children and rape and other forms of sexual violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001501022488810122,
+          "perplexity": 36,
+          "sentence": "She further recommends the Government of Myanmar to refrain from enrolling children, including on a voluntary basis, into military academies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013335069525055587,
+          "perplexity": 55,
+          "sentence": "Myanmar becomes the 169th State party to the Optional Protocol on the involvement of children in armed conflict, as OPAC will mark its 20th anniversary next year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011198681750101969,
+          "perplexity": 13,
+          "sentence": "Adopted by the General Assembly on 25 May 2000, the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict entered into force on February 12th, 2002 and is a commitment that States will not recruit or conscript children under 18 to take part in hostilities.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Myanmar\u2019s Union Minister for International Cooperation, His Excellency Mr. U Kyaw Tin, deposited the accession instrument during a ceremony that took place on the margins of the 74th General Assembly at the UN headquarters in New York. \u201cThe international engagement taken today by the Government of Myanmar to better protect its children is a welcome step. It is a commitment to put in place all the necessary measures to protect them from recruitment and use by both its armed forces and armed groups active in the country\u201d, said Virginia Gamba. Provisions on the demobilization and reintegration of all children under 18 and children presumed present in the ranks of Myanmar\u2019s armed forces are also included in OPAC, a commitment already under implementation through the Security Council-mandated Joint Action Plan signed with the United Nations in 2012. The Special Representative calls on the Government of Myanmar to swiftly translate this commitment into tangible measures for the protection of boys and girls and to end and prevent all six grave violations against children, including the killing and maiming of children and rape and other forms of sexual violence. She further recommends the Government of Myanmar to refrain from enrolling children, including on a voluntary basis, into military academies. Myanmar becomes the 169th State party to the Optional Protocol on the involvement of children in armed conflict, as OPAC will mark its 20th anniversary next year. Adopted by the General Assembly on 25 May 2000, the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict entered into force on February 12th, 2002 and is a commitment that States will not recruit or conscript children under 18 to take part in hostilities.",
+  "date": "29 September 2019"
+}

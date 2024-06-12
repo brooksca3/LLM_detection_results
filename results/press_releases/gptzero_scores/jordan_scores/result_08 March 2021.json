@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f033074e-3bde-4706-828e-f1d7ab4901af",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.8954963684082,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015148849342949688,
+          "perplexity": 83,
+          "sentence": "A new training and manufacturing centre designed to promote the economic resilience of disadvantaged young women living in Jerash Camp was launched on International Women's Day by UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001424772199243307,
+          "perplexity": 50,
+          "sentence": "UNICEF has partnered with local social enterprise Saru for Crafts and Development to provide technical and vocational training in embroidery and crafts to 200 young women aged 17 to 24 years living in the camp to improve their employability - in addition to developing a production line to create 25 employment opportunities for graduates of the programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017801123613025993,
+          "perplexity": 143,
+          "sentence": "\u201cThe COVID-19 pandemic has deepened existing gender inequalities - with women and girls disproportionately affected by the economic fallout,\" said Tanya Chapuisat, Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000168798680533655,
+          "perplexity": 43,
+          "sentence": "\"UNICEF is committed to empowering girls living in the most vulnerable communities in Jordan with employable skills to increase women's participation in the workforce and promote a sustainable and equitable post-COVID economic recovery,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017180827853735536,
+          "perplexity": 60,
+          "sentence": "\u201cToday, as we celebrate International Women's Day with UNICEF at the inauguration of this Women's Centre, we confirm our commitment to supporting the most vulnerable women and girls in our beloved Jordan and facilitating their access to employment and training in traditional crafts, especially embroidery,\u201d said Majeda Abu Zaghlan, Founder of Saru for Crafts and Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016836465511005372,
+          "perplexity": 11,
+          "sentence": "In Jordan, only 15 per cent of women participate in the workforce, compared to 67 per cent of men.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001745571498759091,
+          "perplexity": 41,
+          "sentence": "Low labour force participation and lack of access to income-generation leads to the financial exclusion of women and their disempowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014061642286833376,
+          "perplexity": 74,
+          "sentence": "Since 2018, UNICEF's Amaluna programme has supported 2,500 youth across Jordan with labour market-driven training, essential work-ready skills and support to access to meaningful employment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014971429482102394,
+          "perplexity": 48,
+          "sentence": "The programme has achieved a 70 per cent employment rate and supported the establishment of 95 women- and youth-led social enterprises.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new training and manufacturing centre designed to promote the economic resilience of disadvantaged young women living in Jerash Camp was launched on International Women\u2019s Day by UNICEF. UNICEF has partnered with local social enterprise Saru for Crafts and Development to provide technical and vocational training in embroidery and crafts to 200 young women aged 17 to 24 years living in the camp to improve their employability \u2013 in addition to developing a production line to create 25 employment opportunities for graduates of the programme. \u201cThe COVID-19 pandemic has deepened existing gender inequalities - with women and girls disproportionately affected by the economic fallout,\" said Tanya Chapuisat, Representative, UNICEF Jordan. \"UNICEF is committed to empowering girls living in the most vulnerable communities in Jordan with employable skills to increase women\u2019s participation in the workforce and promote a sustainable and equitable post-COVID economic recovery,\u201d she added. \u201cToday, as we celebrate International Women's Day with UNICEF at the inauguration of this Women\u2019s Centre, we confirm our commitment to supporting the most vulnerable women and girls in our beloved Jordan and facilitating their access to employment and training in traditional crafts, especially embroidery,\u201d said Majeda Abu Zaghlan, Founder of Saru for Crafts and Development. In Jordan, only 15 per cent of women participate in the workforce, compared to 67 per cent of men. Low labour force participation and lack of access to income-generation leads to the financial exclusion of women and their disempowerment. Since 2018, UNICEF\u2019s Amaluna programme has supported 2,500 youth across Jordan with labour market-driven training, essential work-ready skills and support to access to meaningful employment. The programme has achieved a 70 per cent employment rate and supported the establishment of 95 women- and youth-led social enterprises.",
+  "date": "08 March 2021"
+}

@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "76a8f7f5-00ce-4fb0-ad1b-90255d5cd9fd",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.389225006103516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00030672375578433275,
+          "perplexity": 23,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the Security Council open debate on women, peace and security, in New York on 15 June: Gender equality offers a path to sustainable peace and conflict prevention, and yet we are moving in the opposite direction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028363283490762115,
+          "perplexity": 58,
+          "sentence": "Today's conflicts are amplifying gender inequality, poverty, climate disruptions and other forms of inequality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002790908911265433,
+          "perplexity": 25,
+          "sentence": "Women and girls are affected differently and disproportionately by the violence, and by the long-term social and economic impacts of these cascading crises.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002801393566187471,
+          "perplexity": 23,
+          "sentence": "Millions of girls are out of school, with no prospect of training, a job, or financial independence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029439525678753853,
+          "perplexity": 29,
+          "sentence": "Rising numbers of women and girls are suffering from violence in the home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025829634978435934,
+          "perplexity": 44,
+          "sentence": "In some countries, extremists and military actors have taken power by force, cancelling previous commitments on gender equality and persecuting women for simply going about their daily lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002625748165883124,
+          "perplexity": 29,
+          "sentence": "Around the world, the recent shift away from inclusive politics shows once again that misogyny and authoritarianism are mutually reinforcing, and are antithetical to stable, prosperous societies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030079984571784735,
+          "perplexity": 26,
+          "sentence": "We meet several times a year on this issue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028419290902093053,
+          "perplexity": 39,
+          "sentence": "There is consensus among Member States on the importance of this agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028770751669071615,
+          "perplexity": 207,
+          "sentence": "I issue regular reports; this Council has passed several resolutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027317102649249136,
+          "perplexity": 30,
+          "sentence": "But on the ground, the situation is going backwards.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030152424005791545,
+          "perplexity": 24,
+          "sentence": "The reason is simple.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029815963353030384,
+          "perplexity": 33,
+          "sentence": "Women's equality is a question of power.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002801791997626424,
+          "perplexity": 50,
+          "sentence": "Today's political deadlocks and entrenched conflicts are just the latest examples of how enduring power imbalances and patriarchy are continuing to fail us.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002553088415879756,
+          "perplexity": 33,
+          "sentence": "In Afghanistan, the Taliban have appointed a Government of men, closed girls' schools, banned women from showing their faces in public, and restricted their right even to leave their own homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002524747105780989,
+          "perplexity": 61,
+          "sentence": "Nearly 2 million Afghan women and girls are being silenced and erased from sight.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023294785933103412,
+          "perplexity": 31,
+          "sentence": "In Myanmar, a large proportion of women's organizations have been forced to close since the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the Security Council open debate on women, peace and security, in New York on 15 June: Gender equality offers a path to sustainable peace and conflict prevention, and yet we are moving in the opposite direction. Today\u2019s conflicts are amplifying gender inequality, poverty, climate disruptions and other forms of inequality. Women and girls are affected differently and disproportionately by the violence, and by the long-term social and economic impacts of these cascading crises. Millions of girls are out of school, with no prospect of training, a job, or financial independence. Rising numbers of women and girls are suffering from violence in the home. In some countries, extremists and military actors have taken power by force, cancelling previous commitments on gender equality and persecuting women for simply going about their daily lives. Around the world, the recent shift away from inclusive politics shows once again that misogyny and authoritarianism are mutually reinforcing, and are antithetical to stable, prosperous societies. We meet several times a year on this issue. There is consensus among Member States on the importance of this agenda. I issue regular reports; this Council has passed several resolutions. But on the ground, the situation is going backwards. The reason is simple. Women\u2019s equality is a question of power. Today\u2019s political deadlocks and entrenched conflicts are just the latest examples of how enduring power imbalances and patriarchy are continuing to fail us. In Afghanistan, the Taliban have appointed a Government of men, closed girls\u2019 schools, banned women from showing their faces in public, and restricted their right even to leave their own homes. Nearly 2 million Afghan women and girls are being silenced and erased from sight. In Myanmar, a large proportion of women\u2019s organizations have been forced to close since the",
+  "date": "15 June 2022"
+}

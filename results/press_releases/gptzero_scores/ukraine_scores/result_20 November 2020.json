@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5ae85267-5e70-4a66-bbdf-b1ad9efa901c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010884423541731294,
+        "human": 0.9881860061247356,
+        "mixed": 0.0009295703335329521
+      },
+      "completely_generated_prob": 0.010884423541731294,
+      "confidence_category": "high",
+      "confidence_score": 0.9881860061247356,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010884423541731294,
+          "human": 0.9881860061247356,
+          "mixed": 0.0009295703335329521
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.527042388916016,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004901866777800024,
+          "perplexity": 14,
+          "sentence": "The cars will be delivered to nine regions across Ukraine: Kirovohrad, Lviv, Kharkiv, Odesa, Kyiv, Vinnytsia, Chernivtsi, Poltava and Khmelnytskyi regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004556895582936704,
+          "perplexity": 97,
+          "sentence": "In addition, traffic police and public order equipment, including special purpose and high visibility vests, megaphones, skid chains, tow ropes, barrier bands, start cables, traffic cones and road accident signs, were delivered to the NPU last month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012140064500272274,
+          "perplexity": 18,
+          "sentence": "\u201cDomestic and gender-based violence is a human rights violation and should not be tolerated in a democratic society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005345740937627852,
+          "perplexity": 103,
+          "sentence": "Domestic violence mobile response groups are key to fighting domestic violence and the EU is proud to support the National Police of Ukraine in making it more effective, via our flagship PRAVO Police project\u201d said Xavier Camus, Head of Operations Section \"Good Governance and Democratisation\u201d at the European Union Delegation to Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008733947179280221,
+          "perplexity": 42,
+          "sentence": "This equipment has been procured within the framework of the project \u201cSupport for Rule of Law Reforms in Ukraine in the Areas of Police and Public Prosecution and Good Governance\u201d (PRAVO Police) funded by the European Union and implemented by the United Nations Office for Project Services (UNOPS) in close coordination with the European Union Advisory Mission to Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019589290022850037,
+          "perplexity": 23,
+          "sentence": "The overall objective of the project is to contribute to promote the rule of law in Ukraine and to align its functioning with the best European Union and international practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047179049579426646,
+          "perplexity": 39,
+          "sentence": "\u201cI am incredibly proud that UNOPS is part of the collective effort pursued by the Ministry of Interior, National Police, and the European Union to make a real difference in the lives of victims of domestic violence, the majority of which as we know are the most vulnerable, women and children\u201d noted Irina Sahakyan Vetter, Country Director of UNOPS in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003397484833840281,
+          "perplexity": 153,
+          "sentence": "Earlier this summer, in the framework of the project and the EU's #TeamEurope COVID-19 response, high-performance personal protective equipment - 150,000 respirators,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The cars will be delivered to nine regions across Ukraine: Kirovohrad, Lviv, Kharkiv, Odesa, Kyiv, Vinnytsia, Chernivtsi, Poltava and Khmelnytskyi regions. In addition, traffic police and public order equipment, including special purpose and high visibility vests, megaphones, skid chains, tow ropes, barrier bands, start cables, traffic cones and road accident signs, were delivered to the NPU last month. \u201cDomestic and gender-based violence is a human rights violation and should not be tolerated in a democratic society. Domestic violence mobile response groups are key to fighting domestic violence and the EU is proud to support the National Police of Ukraine in making it more effective, via our flagship PRAVO Police project\u201d said Xavier Camus, Head of Operations Section \"Good Governance and Democratisation\u201d at the European Union Delegation to Ukraine. This equipment has been procured within the framework of the project \u201cSupport for Rule of Law Reforms in Ukraine in the Areas of Police and Public Prosecution and Good Governance\u201d (PRAVO Police) funded by the European Union and implemented by the United Nations Office for Project Services (UNOPS) in close coordination with the European Union Advisory Mission to Ukraine. The overall objective of the project is to contribute to promote the rule of law in Ukraine and to align its functioning with the best European Union and international practices. \u201cI am incredibly proud that UNOPS is part of the collective effort pursued by the Ministry of Interior, National Police, and the European Union to make a real difference in the lives of victims of domestic violence, the majority of which as we know are the most vulnerable, women and children\u201d noted Irina Sahakyan Vetter, Country Director of UNOPS in Ukraine. Earlier this summer, in the framework of the project and the EU\u2019s #TeamEurope COVID-19 response, high-performance personal protective equipment \u2013 150,000 respirators,",
+  "date": "20 November 2020"
+}

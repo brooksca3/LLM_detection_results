@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed3b075f-6cd8-4193-b1d9-03df01115e38",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 12.87072467803955,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.015625419095158577,
+          "perplexity": 24,
+          "sentence": "The Special Envoy of the Secretary-General for Yemen, Martin Griffiths, mentioned that there is a political will now more than ever to end the conflict in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01548472885042429,
+          "perplexity": 23,
+          "sentence": "He added, in an interview with Al-Sharq Al-Awsat newspaper, that \u201c we are all on the same page that the way to do this is through the negotiations' table, and not the battlefield.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01466126274317503,
+          "perplexity": 23,
+          "sentence": "After four years of war, I think the political leadership of the two parties is convinced that war will not resolve this conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012439650483429432,
+          "perplexity": 27,
+          "sentence": "Also there is a consensus in the international community as well as in the region on that.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016258656978607178,
+          "perplexity": 53,
+          "sentence": "On the implementation of the Stockholm Agreement, Griffiths clarified that extending the timelines for implementation was expected, explaining that the initial timelines were ambitious, and the situation on the ground is more complex.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014993562363088131,
+          "perplexity": 42,
+          "sentence": "He pointed out that the two parties have demonstrated the political will, and have been constructively and seriously engaged for the full implementation of the Agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015464982949197292,
+          "perplexity": 27,
+          "sentence": "He added that what is important now is to stay the course, and to continue working with the two parties till we see the full implementation of the Stockholm Agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012864547781646252,
+          "perplexity": 22,
+          "sentence": "The Special Envoy also mentioned that he is planning to convene another round of consultations soon, explaining that all the parties are on the same page that we need to see progress in implementing what was agreed in Sweden before convening the next round of consultations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013090096414089203,
+          "perplexity": 17,
+          "sentence": "He added that it is important not to lose sight of the big picture necessary to resolve the conflict in Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010087095201015472,
+          "perplexity": 51,
+          "sentence": "He explained that a framework that will draw a road map towards a political agreement will provide a basis for the end game; that is the political solution for the conflict in Yemen.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Special Envoy of the Secretary-General for Yemen, Martin Griffiths, mentioned that there is a political will now more than ever to end the conflict in Yemen. He added, in an interview with Al-Sharq Al-Awsat newspaper, that \u201c we are all on the same page that the way to do this is through the negotiations\u2019 table, and not the battlefield. After four years of war, I think the political leadership of the two parties is convinced that war will not resolve this conflict. Also there is a consensus in the international community as well as in the region on that. On the implementation of the Stockholm Agreement, Griffiths clarified that extending the timelines for implementation was expected, explaining that the initial timelines were ambitious, and the situation on the ground is more complex. He pointed out that the two parties have demonstrated the political will, and have been constructively and seriously engaged for the full implementation of the Agreement. He added that what is important now is to stay the course, and to continue working with the two parties till we see the full implementation of the Stockholm Agreement. The Special Envoy also mentioned that he is planning to convene another round of consultations soon, explaining that all the parties are on the same page that we need to see progress in implementing what was agreed in Sweden before convening the next round of consultations. He added that it is important not to lose sight of the big picture necessary to resolve the conflict in Yemen. He explained that a framework that will draw a road map towards a political agreement will provide a basis for the end game; that is the political solution for the conflict in Yemen.",
+  "date": "28 January 2019"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b23399c7-c099-43b8-8df2-230b521febb8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.756662368774414,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002741703938227147,
+          "perplexity": 27,
+          "sentence": "Beirut, 5 March 2021 (United Nations Information Centre)\u1173The United Nations in Lebanon launched today its new bilingual website (https://lebanon.un.org/en / https://lebanon.un.org/ar) as part of its continued efforts to further bolster its public outreach efforts in Lebanon and the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002774997556116432,
+          "perplexity": 41,
+          "sentence": "This new website provides the public with an opportunity to learn more about the structure of the UN in Lebanon, its different activities, key initiatives, scheduled events and main results achieved at the national level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002706032246351242,
+          "perplexity": 57,
+          "sentence": "In addition to information on the UN Resident Coordinator Office, the OCHA team supporting the Resident and Humanitarian Coordinator, and the various UN entities that are operational in Lebanon, the website dedicates a section on the UN Country Team members and their respective media contacts for future media inquiries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025251173065043986,
+          "perplexity": 46,
+          "sentence": "The website, which will be regularly updated in both Arabic and English, offers a rich repository of publications, press releases, photo and video stories, upcoming events and news stories of joint UN work co-implemented by the 26 UN Agencies, Funds and Programmes (UNAFPs) active in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024327667779289186,
+          "perplexity": 37,
+          "sentence": "The website also provides collective information and visualized data on the Sustainable Development Goals (SDGs), allowing the public at large to see the progress of Lebanon towards achieving the SDGs, including the resources spent with regards to aid and other humanitarian and development priorities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002815719635691494,
+          "perplexity": 69,
+          "sentence": "The UN in Lebanon hopes that the website will increase understanding of the mandate and work of the UN in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002521230198908597,
+          "perplexity": 46,
+          "sentence": "By strengthening its engagement with the public, the UN in Lebanon also hopes to encourage the public to take individual and collective action towards the achievement of the SDGs that Lebanon has committed to achieve by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024275906616821885,
+          "perplexity": 15,
+          "sentence": "The website can be accessed on: https://lebanon.un.org/en (ENG) / https://lebanon.un.org/ar (AR)",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Beirut, 5 March 2021 (United Nations Information Centre)\u2014The United Nations in Lebanon launched today its new bilingual website (https://lebanon.un.org/en / https://lebanon.un.org/ar) as part of its continued efforts to further bolster its public outreach efforts in Lebanon and the region. This new website provides the public with an opportunity to learn more about the structure of the UN in Lebanon, its different activities, key initiatives, scheduled events and main results achieved at the national level. In addition to information on the UN Resident Coordinator Office, the OCHA team supporting the Resident and Humanitarian Coordinator, and the various UN entities that are operational in Lebanon, the website dedicates a section on the UN Country Team members and their respective media contacts for future media inquiries. The website, which will be regularly updated in both Arabic and English, offers a rich repository of publications, press releases, photo and video stories, upcoming events and news stories of joint UN work co-implemented by the 26 UN Agencies, Funds and Programmes (UNAFPs) active in Lebanon. The website also provides collective information and visualized data on the Sustainable Development Goals (SDGs), allowing the public at large to see the progress of Lebanon towards achieving the SDGs, including the resources spent with regards to aid and other humanitarian and development priorities. The UN in Lebanon hopes that the website will increase understanding of the mandate and work of the UN in Lebanon. By strengthening its engagement with the public, the UN in Lebanon also hopes to encourage the public to take individual and collective action towards the achievement of the SDGs that Lebanon has committed to achieve by 2030. The website can be accessed on: https://lebanon.un.org/en (ENG) / https://lebanon.un.org/ar (AR)",
+  "date": "05 March 2021"
+}

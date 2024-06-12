@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d516c54d-f91f-45ad-a4c4-a9442634a3a2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.939146041870117,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00033915057429112494,
+          "perplexity": 27,
+          "sentence": "The meeting brought together representatives of UNICEF, UNDP, UNFPA, UNODC and national stakeholders participating in the Joint Programme, including the leading national partners such as the Ministry of Labour and Social Protection of Population, Mejlis of Turkmenistan and Ministry of Education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034676268114708364,
+          "perplexity": 30,
+          "sentence": "At the meeting, members of the Expert Working Group were briefed on the progress made so far and discussed the tasks facing the Joint Programme participants in the short run.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003060580347664654,
+          "perplexity": 74,
+          "sentence": "In the course of presentations by representatives of the participating UN organizations, national partners reviewed the implementation of a number of tasks related to the Joint Programme outputs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003092890838161111,
+          "perplexity": 61,
+          "sentence": "These included the hiring of 45 social workers in 20 etraps of Turkmenistan; the upcoming capacity building training for the emerging social workforce; hiring technical experts to provide recommendations for improving the related national legislation; and creating an inventory of existing social services to inform and provide evidence for the development of a new model of social service provision.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033365454874001443,
+          "perplexity": 53,
+          "sentence": "Participants of the meeting were also updated on the process of creating a National Pool of Educators in social work and social services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030054012313485146,
+          "perplexity": 32,
+          "sentence": "Following the exchange of views on the upcoming activities, the meeting of the Expert Working Group agreed on the next steps for implementation of the Joint Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002597611164674163,
+          "perplexity": 95,
+          "sentence": "These included the preparation of progress report and proposal on Joint Programme extension, as well as amendment of the Expert Working Group's Terms of References by adding relevant NGOs as per the Programme Document for further approval by the Joint Programme Steering Committee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020694451814051718,
+          "perplexity": 23,
+          "sentence": "Within the framework of the Joint Programme, four UN agencies and the Government of Turkmenistan work together to improve the system of social service delivery in Turkmenistan and introduce inclusive quality community-based social services that are in line with the international conventions on rights of children, people with disabilities,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The meeting brought together representatives of UNICEF, UNDP, UNFPA, UNODC and national stakeholders participating in the Joint Programme, including the leading national partners such as the Ministry of Labour and Social Protection of Population, Mejlis of Turkmenistan and Ministry of Education. At the meeting, members of the Expert Working Group were briefed on the progress made so far and discussed the tasks facing the Joint Programme participants in the short run. In the course of presentations by representatives of the participating UN organizations, national partners reviewed the implementation of a number of tasks related to the Joint Programme outputs. These included the hiring of 45 social workers in 20 etraps of Turkmenistan; the upcoming capacity building training for the emerging social workforce; hiring technical experts to provide recommendations for improving the related national legislation; and creating an inventory of existing social services to inform and provide evidence for the development of a new model of social service provision. Participants of the meeting were also updated on the process of creating a National Pool of Educators in social work and social services. Following the exchange of views on the upcoming activities, the meeting of the Expert Working Group agreed on the next steps for implementation of the Joint Programme. These included the preparation of progress report and proposal on Joint Programme extension, as well as amendment of the Expert Working Group\u2019s Terms of References by adding relevant NGOs as per the Programme Document for further approval by the Joint Programme Steering Committee. Within the framework of the Joint Programme, four UN agencies and the Government of Turkmenistan work together to improve the system of social service delivery in Turkmenistan and introduce inclusive quality community-based social services that are in line with the international conventions on rights of children, people with disabilities,",
+  "date": "23 June 2020"
+}

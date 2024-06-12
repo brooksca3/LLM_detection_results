@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "24acfc23-fc74-4323-877d-25120acf288e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 13.61371898651123,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010782928438857198,
+          "perplexity": 37,
+          "sentence": "More girls are going to school and staying in school than ever before, but remarkable gains in education have made little headway in helping shape a more equal, less violent environment for girls, UNICEF, Plan International and UN Women warned today in a new report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011835650366265327,
+          "perplexity": 11,
+          "sentence": "The report, released ahead of the 64th session of the Commission on the Status of Women, notes that the number of out-of-school girls has dropped by 79 million in the last two decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012630464334506541,
+          "perplexity": 24,
+          "sentence": "In fact, girls became more likely to be in secondary school than boys in just the last decade.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012020888971164823,
+          "perplexity": 16,
+          "sentence": "Yet, violence against women and girls is still common.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011483609705464914,
+          "perplexity": 31,
+          "sentence": "In 2016, for example, women and girls accounted for 70 per cent of detected trafficking victims globally, most for sexual exploitation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010919284250121564,
+          "perplexity": 26,
+          "sentence": "An astonishing 1 in every 20 girls aged 15-19 - around 13 million - has experienced rape in their lifetimes, one of the most violent forms of sexual abuse women and girls can suffer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012505923223216087,
+          "perplexity": 29,
+          "sentence": "\u201cTwenty-five years ago, the world's governments made a commitment to women and girls, but they have only made partial good on that promise.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011323815124342218,
+          "perplexity": 31,
+          "sentence": "While the world has mustered the political will to send many girls to school, it has come up embarrassingly short on equipping them with the skills and support they need not only to shape their own destinies, but to live in safety and dignity,\u201d said UNICEF Executive Director Henrietta Fore.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012285519915167242,
+          "perplexity": 54,
+          "sentence": "\u201cAccess to education is not enough - we must also change people's behaviours and attitudes towards girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011378584895282984,
+          "perplexity": 51,
+          "sentence": "True equality will only come when all girls are safe from violence, free to exercise their rights, and are able to enjoy equal opportunities in life.\u201d The report, A New Era for Girls: Taking stock on 25 years of progress, is issued in the context of the Generation Equality campaign",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "More girls are going to school and staying in school than ever before, but remarkable gains in education have made little headway in helping shape a more equal, less violent environment for girls, UNICEF, Plan International and UN Women warned today in a new report. The report, released ahead of the 64th session of the Commission on the Status of Women, notes that the number of out-of-school girls has dropped by 79 million in the last two decades. In fact, girls became more likely to be in secondary school than boys in just the last decade. Yet, violence against women and girls is still common. In 2016, for example, women and girls accounted for 70 per cent of detected trafficking victims globally, most for sexual exploitation. An astonishing 1 in every 20 girls aged 15-19 \u2013 around 13 million \u2013 has experienced rape in their lifetimes, one of the most violent forms of sexual abuse women and girls can suffer. \u201cTwenty-five years ago, the world\u2019s governments made a commitment to women and girls, but they have only made partial good on that promise. While the world has mustered the political will to send many girls to school, it has come up embarrassingly short on equipping them with the skills and support they need not only to shape their own destinies, but to live in safety and dignity,\u201d said UNICEF Executive Director Henrietta Fore. \u201cAccess to education is not enough \u2013 we must also change people\u2019s behaviours and attitudes towards girls. True equality will only come when all girls are safe from violence, free to exercise their rights, and are able to enjoy equal opportunities in life.\u201d The report, A New Era for Girls: Taking stock on 25 years of progress, is issued in the context of the Generation Equality campaign",
+  "date": "08 March 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "43f70bb8-9d9f-4ee3-b7d7-9c1194fc20c9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.959197998046875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0017444728873670101,
+          "perplexity": 24,
+          "sentence": "Financed by the Government of Germany, the findings will inform policy and WASH programming and enhance infection prevention control measures across the country Baghdad, 6 July 2022\u1173 The Ministry of Health in Iraq, in cooperation with the World Health Organization (WHO) and UNICEF, released today the results of the comprehensive assessment of water, sanitation and hygiene (WASH) and Infection Prevention Control (IPC) services in health care facilities in Iraq, with the financing from the Government of Germany.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021874718368053436,
+          "perplexity": 63,
+          "sentence": "The assessment was conducted on 3,624 health facilities in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002537692664191127,
+          "perplexity": 41,
+          "sentence": "The findings of the assessment indicated that the provision of water, sanitation, hand hygiene, environmental cleanliness, health care waste management, and IPC services in health facilities is largely hindered by a lack of financial resources, conflicts and the absence of monitoring and preservation of public property.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002399811055511236,
+          "perplexity": 84,
+          "sentence": "The progress of healthcare system rebuilding in Iraq has been hindered by many factors of conflict and instability, including the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020604508463293314,
+          "perplexity": 31,
+          "sentence": "The public healthcare system faces chronic impediments, with around half of the primary care facilities in the country not staffed by doctors and most of these buildings have no running water.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001980633707717061,
+          "perplexity": 100,
+          "sentence": "This indicated the necessity of an assessment of the availability and status of WASH-IPC services within health facilities to inform policy and WASH programming.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014063697308301926,
+          "perplexity": 100,
+          "sentence": "The assessment aims to enhance monitoring of WASH - IPC measures in health facilities and find gaps analysis, which could lead to implementing possible mitigation or required corrective action and draw the decision-maker's attention to the WASH and IPC situation in health facilities throughout Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011839771177619696,
+          "perplexity": 54,
+          "sentence": "\"This assessment is critical as it enables mapping, analysis and the formulation of recommendations that will enable all stakeholders and decision-makers to take evidence-based decisions and implement the necessary interventions to enhance infection prevention controls in order to achieve comprehensive WASH coverage in health facilities,\"",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Financed by the Government of Germany, the findings will inform policy and WASH programming and enhance infection prevention control measures across the country Baghdad, 6 July 2022\u2014 The Ministry of Health in Iraq, in cooperation with the World Health Organization (WHO) and UNICEF, released today the results of the comprehensive assessment of water, sanitation and hygiene (WASH) and Infection Prevention Control (IPC) services in health care facilities in Iraq, with the financing from the Government of Germany. The assessment was conducted on 3,624 health facilities in Iraq. The findings of the assessment indicated that the provision of water, sanitation, hand hygiene, environmental cleanliness, health care waste management, and IPC services in health facilities is largely hindered by a lack of financial resources, conflicts and the absence of monitoring and preservation of public property. The progress of healthcare system rebuilding in Iraq has been hindered by many factors of conflict and instability, including the COVID-19 pandemic. The public healthcare system faces chronic impediments, with around half of the primary care facilities in the country not staffed by doctors and most of these buildings have no running water. This indicated the necessity of an assessment of the availability and status of WASH-IPC services within health facilities to inform policy and WASH programming. The assessment aims to enhance monitoring of WASH - IPC measures in health facilities and find gaps analysis, which could lead to implementing possible mitigation or required corrective action and draw the decision-maker's attention to the WASH and IPC situation in health facilities throughout Iraq. \"This assessment is critical as it enables mapping, analysis and the formulation of recommendations that will enable all stakeholders and decision-makers to take evidence-based decisions and implement the necessary interventions to enhance infection prevention controls in order to achieve comprehensive WASH coverage in health facilities,\"",
+  "date": "06 July 2022"
+}

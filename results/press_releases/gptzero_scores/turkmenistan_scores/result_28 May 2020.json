@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ab246b8e-0e99-4dc9-a692-f7b4fe0e7c52",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013028282600050189,
+        "human": 0.9860006652806914,
+        "mixed": 0.0009710521192583992
+      },
+      "completely_generated_prob": 0.013028282600050189,
+      "confidence_category": "high",
+      "confidence_score": 0.9860006652806914,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013028282600050189,
+          "human": 0.9860006652806914,
+          "mixed": 0.0009710521192583992
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.91598129272461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001485537039116025,
+          "perplexity": 94,
+          "sentence": "The event geographically covered the countries, participants in UN Special Programme for the Economies of Central Asia (SPECA), and aimed to facilitate dialogue and exchange of experience on immediate response measures to mitigate the socio-economic impact of COVID-19 pandemic and link these measures to longer term goals on SDG financing through Integrated National Financing Frameworks (INFF).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013446855591610074,
+          "perplexity": 30,
+          "sentence": "This high-level event brought together ministers and deputy-ministers of finance and economy of SPECA Programme countries, as well as the representatives of UNDESA, UNECE, World Bank, IMF, ADB, IDB, EBRD, UNDP, UNICEF, UNFPA and experts of a number of UN agencies and other international organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015181959606707096,
+          "perplexity": 71,
+          "sentence": "The USG, Executive Director of UN Economic Commission for Europe, Ms. Olga Algaerova, briefed the participants on the ongoing consultations between the SPECA countries on the possibility of establishment of a SPECA Fund as a sub-regional instrument for SDG financing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010964254615828395,
+          "perplexity": 152,
+          "sentence": "As noted by Ms. Elena Panova, the UN Resident Coordinator in Turkmenistan \u201cInternational seminar in such format provides a unique platform for exchange of experiences among ministries of finance and economy of the SPECA Programme countries regarding short-term responses to socio-economic consequences of COVID-19 and longer-term SDG financing strategies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008582534501329064,
+          "perplexity": 76,
+          "sentence": "This is first such dialogue of ministers and deputy-ministers of finance and economy at regional level on financing for sustainable development, organized at a time of pandemic, and we hope that the exchange of experience in this format will continue in the future\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012292875908315182,
+          "perplexity": 97,
+          "sentence": "Building on the discussions of the fifth Forum of the Economic and Social Council on Financing for Development, held on 23 April 2020, the International seminar facilitated regional level reflections of the outcomes of the ECOSOC forum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002064871834591031,
+          "perplexity": 44,
+          "sentence": "Discussions also highlighted the importance of addressing existing structural weaknesses, highlighted by the pandemic, such as the need for better financing of the health sector, education, social protection and addressing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event geographically covered the countries, participants in UN Special Programme for the Economies of Central Asia (SPECA), and aimed to facilitate dialogue and exchange of experience on immediate response measures to mitigate the socio-economic impact of COVID-19 pandemic and link these measures to longer term goals on SDG financing through Integrated National Financing Frameworks (INFF). This high-level event brought together ministers and deputy-ministers of finance and economy of SPECA Programme countries, as well as the representatives of UNDESA, UNECE, World Bank, IMF, ADB, IDB, EBRD, UNDP, UNICEF, UNFPA and experts of a number of UN agencies and other international organizations. The USG, Executive Director of UN Economic Commission for Europe, Ms. Olga Algaerova, briefed the participants on the ongoing consultations between the SPECA countries on the possibility of establishment of a SPECA Fund as a sub-regional instrument for SDG financing. As noted by Ms. Elena Panova, the UN Resident Coordinator in Turkmenistan \u201cInternational seminar in such format provides a unique platform for exchange of experiences among ministries of finance and economy of the SPECA Programme countries regarding short-term responses to socio-economic consequences of COVID-19 and longer-term SDG financing strategies. This is first such dialogue of ministers and deputy-ministers of finance and economy at regional level on financing for sustainable development, organized at a time of pandemic, and we hope that the exchange of experience in this format will continue in the future\u201d. Building on the discussions of the fifth Forum of the Economic and Social Council on Financing for Development, held on 23 April 2020, the International seminar facilitated regional level reflections of the outcomes of the ECOSOC forum. Discussions also highlighted the importance of addressing existing structural weaknesses, highlighted by the pandemic, such as the need for better financing of the health sector, education, social protection and addressing",
+  "date": "28 May 2020"
+}

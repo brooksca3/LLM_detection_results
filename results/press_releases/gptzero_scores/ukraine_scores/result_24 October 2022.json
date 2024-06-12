@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a320f3dd-d735-4eb5-9c54-9a9441bdfbd8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.01181411743164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002526500029489398,
+          "perplexity": 37,
+          "sentence": "Even as Ukraine marks 8 months of a brutal war, the health care system in Ukraine continues to function overall, but spiraling costs, logistical hurdles and damaged infrastructure are making access to essential services all the more challenging for growing numbers of civilians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002762705786153674,
+          "perplexity": 38,
+          "sentence": "These are among the key findings of a recent health needs assessment conducted by the WHO Country Office in Ukraine, shared with the Ukrainian Ministry of Health, international and national health partners, and humanitarian actors on the ground.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003054952947422862,
+          "perplexity": 75,
+          "sentence": "The assessment focused on identifying health needs and major barriers to access to primary and specialized care and medicines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003108702367171645,
+          "perplexity": 42,
+          "sentence": "The methodology took into account the correlation between income and access to specific categories of medical services and supplies for the 18-and-over population of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027929898351430893,
+          "perplexity": 33,
+          "sentence": "Some of the specific findings include insights from different geographic areas as well as the health needs of internally displaced persons (IDPs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022052356507629156,
+          "perplexity": 30,
+          "sentence": "The survey, conducted in September 2022, is the first such assessment since the start of the Russian invasion into Ukraine on February 24.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013693164801225066,
+          "perplexity": 90,
+          "sentence": "\u201cPeople across Ukraine report that the major barriers to accessing health care are cost, time constraints to get to and from health facilities, as well as limited transport availability,\u201d notes Dr Jarno Habicht, WHO Representative in Ukraine and Head of the Country Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013066679239273071,
+          "perplexity": 194,
+          "sentence": "\u201cChief among these is the cost of care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009924698388203979,
+          "perplexity": 48,
+          "sentence": "Those who are living in temporarily occupied territories and active combat areas remain the most vulnerable, with 1 in 3 reporting reduced access to services and medicines, compared to 1 in 5 people nationwide.\u201d \u201cAt the same time, the findings recognize that, as of now, the country's health system remains resilient and overall access to some level of health services is still high,\u201d adds Dr Habicht.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006840131827630103,
+          "perplexity": 189,
+          "sentence": "\u201cFrom those who sought care, 95% report having had primary care services and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Even as Ukraine marks 8 months of a brutal war, the health care system in Ukraine continues to function overall, but spiraling costs, logistical hurdles and damaged infrastructure are making access to essential services all the more challenging for growing numbers of civilians. These are among the key findings of a recent health needs assessment conducted by the WHO Country Office in Ukraine, shared with the Ukrainian Ministry of Health, international and national health partners, and humanitarian actors on the ground. The assessment focused on identifying health needs and major barriers to access to primary and specialized care and medicines. The methodology took into account the correlation between income and access to specific categories of medical services and supplies for the 18-and-over population of Ukraine. Some of the specific findings include insights from different geographic areas as well as the health needs of internally displaced persons (IDPs). The survey, conducted in September 2022, is the first such assessment since the start of the Russian invasion into Ukraine on February 24. \u201cPeople across Ukraine report that the major barriers to accessing health care are cost, time constraints to get to and from health facilities, as well as limited transport availability,\u201d notes Dr Jarno Habicht, WHO Representative in Ukraine and Head of the Country Office. \u201cChief among these is the cost of care. Those who are living in temporarily occupied territories and active combat areas remain the most vulnerable, with 1 in 3 reporting reduced access to services and medicines, compared to 1 in 5 people nationwide.\u201d \u201cAt the same time, the findings recognize that, as of now, the country\u2019s health system remains resilient and overall access to some level of health services is still high,\u201d adds Dr Habicht. \u201cFrom those who sought care, 95% report having had primary care services and",
+  "date": "24 October 2022"
+}

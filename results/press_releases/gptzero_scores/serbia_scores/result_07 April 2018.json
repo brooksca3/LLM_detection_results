@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "13920f8a-461d-4324-b422-853176bd2eef",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.282856941223145,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006542400224134326,
+          "perplexity": 23,
+          "sentence": "On 7 April, World Health Day, the World Health Organization marks its 70th anniversary.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006859964923933148,
+          "perplexity": 28,
+          "sentence": "On this occasion, we reflect not only on the impressive progress in health that has been achieved in the past 7 decades - from routine vaccination against childhood diseases to vastly improved maternal health, a focus on healthy environments, protection from health threats, and a strong legal framework to stop tobacco use, for example - but also recommit to the most fundamental goal of health for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006340133841149509,
+          "perplexity": 56,
+          "sentence": "Under the slogan, Health for all, World Health Day and WHO's 70th anniversary was also marked in Serbia, with a breakfast reception organized for key national and international partners, UN agencies, the diplomatic community and the media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008581095025874674,
+          "perplexity": 21,
+          "sentence": "This year, World Health Day is dedicated to one of WHO's founding principles: \u201cThe enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.\u201d Universal health coverage is a simple idea: it means that all people can use quality health services, where and when they need them, without experiencing financial hardship.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009367646416649222,
+          "perplexity": 41,
+          "sentence": "It is a fundamental human right, a vision that WHO has pursued in partnership with countries since its foundation 70 years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007192117627710104,
+          "perplexity": 27,
+          "sentence": "Yet despite impressive progress in the WHO European Region, even the most advanced countries have not been able to protect everyone from financial hardship caused by out-of-pocket payments for health care, and the heaviest burden falls on poor and vulnerable people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005656993598677218,
+          "perplexity": 31,
+          "sentence": "Out-of-pocket payments for health make up more than 15% of total spending on health in most countries of the European Region which raises concerns about the strengths of the system in providing protection for patients against the cost of ill health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005031437030993402,
+          "perplexity": 57,
+          "sentence": "The 2030 Agenda for Sustainable Development has made",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 7 April, World Health Day, the World Health Organization marks its 70th anniversary. On this occasion, we reflect not only on the impressive progress in health that has been achieved in the past 7 decades \u2013 from routine vaccination against childhood diseases to vastly improved maternal health, a focus on healthy environments, protection from health threats, and a strong legal framework to stop tobacco use, for example \u2013 but also recommit to the most fundamental goal of health for all. Under the slogan, Health for all, World Health Day and WHO\u2019s 70th anniversary was also marked in Serbia, with a breakfast reception organized for key national and international partners, UN agencies, the diplomatic community and the media. This year, World Health Day is dedicated to one of WHO\u2019s founding principles: \u201cThe enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.\u201d Universal health coverage is a simple idea: it means that all people can use quality health services, where and when they need them, without experiencing financial hardship. It is a fundamental human right, a vision that WHO has pursued in partnership with countries since its foundation 70 years ago. Yet despite impressive progress in the WHO European Region, even the most advanced countries have not been able to protect everyone from financial hardship caused by out-of-pocket payments for health care, and the heaviest burden falls on poor and vulnerable people. Out-of-pocket payments for health make up more than 15% of total spending on health in most countries of the European Region which raises concerns about the strengths of the system in providing protection for patients against the cost of ill health. The 2030 Agenda for Sustainable Development has made",
+  "date": "07 April 2018"
+}

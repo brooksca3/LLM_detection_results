@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c39bff41-f28c-4fbf-8577-4ab8e0d681ed",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013829223798034484,
+        "human": 0.9861707762019655,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.013829223798034484,
+      "confidence_category": "high",
+      "confidence_score": 0.9861707762019655,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013829223798034484,
+          "human": 0.9861707762019655,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.46792221069336,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001002923701889813,
+          "perplexity": 46,
+          "sentence": "The Government of Japan has donated $3 million to UNICEF Jordan's COVID-19 appeal to support the most vulnerable children and their families in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008578953566029668,
+          "perplexity": 38,
+          "sentence": "The funding will bolster UNICEF Jordan's work to support the national response to the COVID-19 pandemic, including the provision of water, sanitation and hygiene (WASH), health and nutrition and protection services for children and women in Jordan, including Syrian refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009086403879337013,
+          "perplexity": 36,
+          "sentence": "\u201cAt a time when the extensive impact of the COVID-19 pandemic on children and their families is becoming more apparent, UNICEF is extremely grateful to the Government of Japan for their ongoing commitment that will allow us to scale up our efforts for the most vulnerable children in the country to protect them now and in the future,\u201d said UNICEF Jordan Representative Tanya Chapuisat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008621492888778448,
+          "perplexity": 48,
+          "sentence": "The contribution from the Government of Japan will enable UNICEF to scale up water, sanitation and hygiene services and infection and prevention control (IPC) measures for 200,000 children and their families, while also supporting national efforts to reach and empower millions with critical prevention and protection messages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010335545521229506,
+          "perplexity": 20,
+          "sentence": "The Government of Japan is a long-time partner of UNICEF in Jordan and has provided funding of over $39 million since the beginning of the Syrian crisis to support UNICEF's work to strengthen national systems and offer lifesaving services for children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008114510565064847,
+          "perplexity": 17,
+          "sentence": "Japan also contributed nearly $870,000 to UNICEF's regional office for the Middle East and North Africa based in Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008092360221780837,
+          "perplexity": 75,
+          "sentence": "The contribution will support the regional office in providing technical and operational support to country offices in the region for the procurement of supplies for the COVID-19 response.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Japan has donated $3 million to UNICEF Jordan\u2019s COVID-19 appeal to support the most vulnerable children and their families in the country. The funding will bolster UNICEF Jordan\u2019s work to support the national response to the COVID-19 pandemic, including the provision of water, sanitation and hygiene (WASH), health and nutrition and protection services for children and women in Jordan, including Syrian refugees. \u201cAt a time when the extensive impact of the COVID-19 pandemic on children and their families is becoming more apparent, UNICEF is extremely grateful to the Government of Japan for their ongoing commitment that will allow us to scale up our efforts for the most vulnerable children in the country to protect them now and in the future,\u201d said UNICEF Jordan Representative Tanya Chapuisat. The contribution from the Government of Japan will enable UNICEF to scale up water, sanitation and hygiene services and infection and prevention control (IPC) measures for 200,000 children and their families, while also supporting national efforts to reach and empower millions with critical prevention and protection messages. The Government of Japan is a long-time partner of UNICEF in Jordan and has provided funding of over $39 million since the beginning of the Syrian crisis to support UNICEF\u2019s work to strengthen national systems and offer lifesaving services for children. Japan also contributed nearly $870,000 to UNICEF\u2019s regional office for the Middle East and North Africa based in Amman. The contribution will support the regional office in providing technical and operational support to country offices in the region for the procurement of supplies for the COVID-19 response.",
+  "date": "18 June 2020"
+}

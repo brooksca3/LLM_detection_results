@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9690b48f-67ef-4b6a-a9ae-9dab6a979005",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 93.88062286376953,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002088008332066238,
+          "perplexity": 44,
+          "sentence": "Over 20,000 gather at the SDG Global Festival of Action, calling for transformative change to turn things around for people and the planet Bonn, Germany, 25 March - Calling for the beginning of a 'new era' following COVID-19 recovery, United Nations Deputy Secretary-General Amina J. Mohammed alongside United Nations Development Programme Administrator Achim Steiner, spoke today at the fifth annual SDG Global Festival of Action, bringing to attention the urgent need for economic and social change that protects our ecosystems and humanity's well-being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022597778297495097,
+          "perplexity": 50,
+          "sentence": "The Deputy Secretary-General stated her support for an inter-generational transition, putting youth at the forefront to allow them to shape the SDG agenda, and encouraged countries to listen to its young people to ensure we don't return to business as usual.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018312914471607655,
+          "perplexity": 47,
+          "sentence": "Convened over two days, from 25 to 26 March, under the theme 'A Turning Point for People and Planet', the Festival connected government and private sector leaders with changemakers, activists, creatives and more, hosting talks, performances, interactive workshops and exhibits to inspire and mobilize action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000206503362278454,
+          "perplexity": 56,
+          "sentence": "Because of the pandemic, the dynamic in-person event moved to a virtual platform, elevating its attendance to over 20,000 remote participants from 203 countries and territories, making it the largest and most geographically diverse Festival ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002569474163465202,
+          "perplexity": 51,
+          "sentence": "With the world still suffering from the effects of the pandemic and many countries still in lockdown, the year 2021 was framed as a critical year to accelerate progress on the SDGs, with climate, gender equality, poverty and inequalities, and sustainable financing firmly in focus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015730810991954058,
+          "perplexity": 66,
+          "sentence": "The Festival aimed to scale up both awareness and ambition ahead of important events such as the G20 meetings, The Generation Equality Forum, The Food Systems Summit and the important COP climate conferences in Italy and Scotland towards the end of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001499713398516178,
+          "perplexity": 300,
+          "sentence": "Over 300 speakers from 80+ countries represented",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Over 20,000 gather at the SDG Global Festival of Action, calling for transformative change to turn things around for people and the planet Bonn, Germany, 25 March \u2013 Calling for the beginning of a \u2018new era\u2019 following COVID-19 recovery, United Nations Deputy Secretary-General Amina J. Mohammed alongside United Nations Development Programme Administrator Achim Steiner, spoke today at the fifth annual SDG Global Festival of Action, bringing to attention the urgent need for economic and social change that protects our ecosystems and humanity\u2019s well-being. The Deputy Secretary-General stated her support for an inter-generational transition, putting youth at the forefront to allow them to shape the SDG agenda, and encouraged countries to listen to its young people to ensure we don\u2019t return to business as usual. Convened over two days, from 25 to 26 March, under the theme \u2018A Turning Point for People and Planet\u2019, the Festival connected government and private sector leaders with changemakers, activists, creatives and more, hosting talks, performances, interactive workshops and exhibits to inspire and mobilize action. Because of the pandemic, the dynamic in-person event moved to a virtual platform, elevating its attendance to over 20,000 remote participants from 203 countries and territories, making it the largest and most geographically diverse Festival ever. With the world still suffering from the effects of the pandemic and many countries still in lockdown, the year 2021 was framed as a critical year to accelerate progress on the SDGs, with climate, gender equality, poverty and inequalities, and sustainable financing firmly in focus. The Festival aimed to scale up both awareness and ambition ahead of important events such as the G20 meetings, The Generation Equality Forum, The Food Systems Summit and the important COP climate conferences in Italy and Scotland towards the end of the year. Over 300 speakers from 80+ countries represented",
+  "date": "25 March 2021"
+}

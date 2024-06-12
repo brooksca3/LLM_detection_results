@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "31cf8843-e39b-4b1b-a78c-77fbe1d2b87e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.025442518753926318,
+        "human": 0.93152507298326,
+        "mixed": 0.04303240826281365
+      },
+      "completely_generated_prob": 0.025442518753926318,
+      "confidence_category": "medium",
+      "confidence_score": 0.93152507298326,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.025442518753926318,
+          "human": 0.93152507298326,
+          "mixed": 0.04303240826281365
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.932218551635742,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.010262676514685154,
+          "perplexity": 31,
+          "sentence": "The conference was preceded by the Grand opening ceremony of the International Congress Centre with the participation of the President of Turkmenistan who addressed the participants of the Conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008713175542652607,
+          "perplexity": 27,
+          "sentence": "The high-level speakers representing the Government, United Nations, European Union, Organization for Security and Co-operation in Europe, the Commonwealth of Independent States and diplomatic missions in the country presented their vision of ways to ensure peace and trust through delivery of people-centered programs, inclusion, and strengthening cooperation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005943015217781067,
+          "perplexity": 37,
+          "sentence": "\u201cI strongly believe that the implementation of the main principle of \"leaving no one behind\u201d, which is embedded in the 2030 agenda for sustainable development, is intrinsically linked to the concepts of Peace and Trust\u201d, noted Ms. Christine Weigand, UN Resident Coordinator a.i.. As part of the High-level Conference the following documents were signed between the Government of Turkmenistan and international organizations: MOU between the Ministry of Education and the Office of the OSCE High Commissioner on Minorities on multilingual and multicultural cooperation; MOU between Turkmenistan and UNESCO on the plan of action for 2021-2023; Agreement between the Ministry of Healthcare and Medical Industry of Turkmenistan and UNICEF on the Regional Nutrition Platform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05118756368756294,
+          "perplexity": 36,
+          "sentence": "The high-level forum was followed by three parallel plenary sessions on Peace and Security, Sustainable Economy and Environment, and Rule of Law and Social Justice.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04849712550640106,
+          "perplexity": 44,
+          "sentence": "The speakers for the sessions both from the Government and international partners renewed the mutual commitment to work together towards building peace and progress through fostering multilateralism built on mutual understanding, respect for international law and genuine aspiration to maintain peace and security, observance of human rights and promotion of sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08068253844976425,
+          "perplexity": 74,
+          "sentence": "In conclusion, the participants agreed that such discussions give a decisive impetus for even more intense and fruitful cooperation in achieving common development objectives for peace and wellbeing for all.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The conference was preceded by the Grand opening ceremony of the International Congress Centre with the participation of the President of Turkmenistan who addressed the participants of the Conference. The high-level speakers representing the Government, United Nations, European Union, Organization for Security and Co-operation in Europe, the Commonwealth of Independent States and diplomatic missions in the country presented their vision of ways to ensure peace and trust through delivery of people-centered programs, inclusion, and strengthening cooperation. \u201cI strongly believe that the implementation of the main principle of \"leaving no one behind\u201d, which is embedded in the 2030 agenda for sustainable development, is intrinsically linked to the concepts of Peace and Trust\u201d, noted Ms. Christine Weigand, UN Resident Coordinator a.i.. As part of the High-level Conference the following documents were signed between the Government of Turkmenistan and international organizations: MOU between the Ministry of Education and the Office of the OSCE High Commissioner on Minorities on multilingual and multicultural cooperation; MOU between Turkmenistan and UNESCO on the plan of action for 2021-2023; Agreement between the Ministry of Healthcare and Medical Industry of Turkmenistan and UNICEF on the Regional Nutrition Platform. The high-level forum was followed by three parallel plenary sessions on Peace and Security, Sustainable Economy and Environment, and Rule of Law and Social Justice. The speakers for the sessions both from the Government and international partners renewed the mutual commitment to work together towards building peace and progress through fostering multilateralism built on mutual understanding, respect for international law and genuine aspiration to maintain peace and security, observance of human rights and promotion of sustainable development. In conclusion, the participants agreed that such discussions give a decisive impetus for even more intense and fruitful cooperation in achieving common development objectives for peace and wellbeing for all.",
+  "date": "15 April 2021"
+}

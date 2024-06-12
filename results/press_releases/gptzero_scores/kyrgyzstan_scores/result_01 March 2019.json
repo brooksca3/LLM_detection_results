@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e2e33618-057e-4f51-9a82-ef3c4414544d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01138902219272845,
+        "human": 0.9876383128684515,
+        "mixed": 0.0009726649388199763
+      },
+      "completely_generated_prob": 0.01138902219272845,
+      "confidence_category": "high",
+      "confidence_score": 0.9876383128684515,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01138902219272845,
+          "human": 0.9876383128684515,
+          "mixed": 0.0009726649388199763
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.019973754882812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00355163193307817,
+          "perplexity": 21,
+          "sentence": "The event served as a platform for discussion among various stakeholders to share inputs on current migration issues, challenges, and opportunities, as well as develop a list of recommendations for a comprehensive, long-term and evidence-based national migration policy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015357615193352103,
+          "perplexity": 59,
+          "sentence": "\u201cEffective use of the positive aspects of migration processes in the Kyrgyz Republic can only be achieved by combining the joint efforts of all state bodies and civil society,\u201d said Bolotbek Saparbaevich Ibraimzhanov, the Chairman of the State Migration Service under the Government of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012644570088014007,
+          "perplexity": 39,
+          "sentence": "\u201cThe University of Central Asia aims to play a key and integral role as an anchor for regional development in Kyrgyzstan\u201d, said Dr. Sohail Naqvi, Rector of UCA, at the opening session.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009222229127772152,
+          "perplexity": 42,
+          "sentence": "\u201cEvidence based policy research on development issues specific to mountain communities is reflected in the work of UCA's Institute of Public Policy and Administration, and I am very pleased that today we are tackling the issue of migration, and its social and economic impact.\u201d At a recent board meeting of the State Migration Service, Altynai Omurbekova, Vice Prime Minister of the Kyrgyz Republic, noted that there are more than 700,000 fellow citizens of the Kyrgyz Republic outside the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007910943240858614,
+          "perplexity": 18,
+          "sentence": "\u201cDespite the work done, there are a number of problems in this area that need to be addressed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006540642352774739,
+          "perplexity": 59,
+          "sentence": "First of all, it is necessary to develop a Concept of Migration Policy and approve a programme for support of compatriots abroad.\u201d \u201cIt is extremely important that multiple stakeholders work together on developing and implementing a migration policy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005492487689480186,
+          "perplexity": 22,
+          "sentence": "This is a cross-cutting issue with positive and negative impacts on social, economic and environmental aspects of development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005737990140914917,
+          "perplexity": 75,
+          "sentence": "Through the Development Dialogue initiative, we, UN agencies, as One UN will continue to provide policy support to the national partners in developing a comprehensive, long-term national migration policy for",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The event served as a platform for discussion among various stakeholders to share inputs on current migration issues, challenges, and opportunities, as well as develop a list of recommendations for a comprehensive, long-term and evidence-based national migration policy. \u201cEffective use of the positive aspects of migration processes in the Kyrgyz Republic can only be achieved by combining the joint efforts of all state bodies and civil society,\u201d said Bolotbek Saparbaevich Ibraimzhanov, the Chairman of the State Migration Service under the Government of the Kyrgyz Republic. \u201cThe University of Central Asia aims to play a key and integral role as an anchor for regional development in Kyrgyzstan\u201d, said Dr. Sohail Naqvi, Rector of UCA, at the opening session. \u201cEvidence based policy research on development issues specific to mountain communities is reflected in the work of UCA\u2019s Institute of Public Policy and Administration, and I am very pleased that today we are tackling the issue of migration, and its social and economic impact.\u201d At a recent board meeting of the State Migration Service, Altynai Omurbekova, Vice Prime Minister of the Kyrgyz Republic, noted that there are more than 700,000 fellow citizens of the Kyrgyz Republic outside the country. \u201cDespite the work done, there are a number of problems in this area that need to be addressed. First of all, it is necessary to develop a Concept of Migration Policy and approve a programme for support of compatriots abroad.\u201d \u201cIt is extremely important that multiple stakeholders work together on developing and implementing a migration policy. This is a cross-cutting issue with positive and negative impacts on social, economic and environmental aspects of development. Through the Development Dialogue initiative, we, UN agencies, as One UN will continue to provide policy support to the national partners in developing a comprehensive, long-term national migration policy for",
+  "date": "01 March 2019"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1e095f50-1296-4b67-9fe3-febbefdb5f2b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 39.29623794555664,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02020268328487873,
+          "perplexity": 55,
+          "sentence": "The study, covering both Jordanian and Syrian families, found that the number of households with a monthly income of less than 100 JD (140 USD) has doubled since before the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016368987038731575,
+          "perplexity": 29,
+          "sentence": "A new study released by UNICEF has highlighted the socio-economic challenges faced by vulnerable children, young people and their parents in Jordan during the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015127232298254967,
+          "perplexity": 36,
+          "sentence": "The study, covering both Jordanian and Syrian families, found that the number of households with a monthly income of less than 100 JD (140 USD) has doubled since before the COVID-19 pandemic, and only 28 per cent of households have adequate finances to sustain themselves for a two-week period.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01374864298850298,
+          "perplexity": 100,
+          "sentence": "\u201cThe secondary impacts of the COVID-19 pandemic have been quietly devastating for the most vulnerable families who are enduring tremendous stress as they try to provide a safe, nurturing and healthy environment for their children,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012835295870900154,
+          "perplexity": 43,
+          "sentence": "\u201cThis study shows that while much-needed assistance is reaching those in need, further efforts are required to both expand this coverage and better target the most disadvantaged children to prevent vulnerable boys and girls from falling through the cracks as a result of this global pandemic,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012807376682758331,
+          "perplexity": 139,
+          "sentence": "The study findings also showed that among the sample size: The COVID-19 pandemic has laid bare the digital divide facing children from the poorest households and the need for concerted efforts to support their learning recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011574308387935162,
+          "perplexity": 49,
+          "sentence": "Children in one quarter of the families surveyed did not access the official national online learning platform during lockdown and only 31 per cent of households have access to a Wi-Fi connection at home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013469264842569828,
+          "perplexity": 98,
+          "sentence": "The results also highlighted the increasing stress on caregivers during lockdown and worrying trends in the prevalence of violence against children in their homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012062208727002144,
+          "perplexity": 25,
+          "sentence": "More than two-thirds of parents reported difficulties in dealing with",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The study, covering both Jordanian and Syrian families, found that the number of households with a monthly income of less than 100 JD (140 USD) has doubled since before the COVID-19 pandemic. A new study released by UNICEF has highlighted the socio-economic challenges faced by vulnerable children, young people and their parents in Jordan during the COVID-19 pandemic. The study, covering both Jordanian and Syrian families, found that the number of households with a monthly income of less than 100 JD (140 USD) has doubled since before the COVID-19 pandemic, and only 28 per cent of households have adequate finances to sustain themselves for a two-week period. \u201cThe secondary impacts of the COVID-19 pandemic have been quietly devastating for the most vulnerable families who are enduring tremendous stress as they try to provide a safe, nurturing and healthy environment for their children,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan. \u201cThis study shows that while much-needed assistance is reaching those in need, further efforts are required to both expand this coverage and better target the most disadvantaged children to prevent vulnerable boys and girls from falling through the cracks as a result of this global pandemic,\u201d she added. The study findings also showed that among the sample size: The COVID-19 pandemic has laid bare the digital divide facing children from the poorest households and the need for concerted efforts to support their learning recovery. Children in one quarter of the families surveyed did not access the official national online learning platform during lockdown and only 31 per cent of households have access to a Wi-Fi connection at home. The results also highlighted the increasing stress on caregivers during lockdown and worrying trends in the prevalence of violence against children in their homes. More than two-thirds of parents reported difficulties in dealing with",
+  "date": "25 August 2020"
+}

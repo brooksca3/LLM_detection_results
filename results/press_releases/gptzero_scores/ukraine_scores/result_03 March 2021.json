@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bc1769dc-a85b-4e06-884f-790fdd568e4c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 47.946266174316406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012574860593304038,
+          "perplexity": 25,
+          "sentence": "Ukrainians' health could be damaged by an ongoing \u201cinfodemic\u201d of false and misleading information about the novel coronavirus pandemic, research carried out for the United Nations Development Programme (UNDP) and the United Nations Children's Fund (UNICEF) has found.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012133317068219185,
+          "perplexity": 60,
+          "sentence": "From March to November 2020, researchers tracked more than 30 million social media messages using the advanced social media monitoring and analytics platform SemanticForce.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012530754320323467,
+          "perplexity": 180,
+          "sentence": "The study identified over 250,000 messages with disinformation narratives related to COVID-19 in Ukrainian online media, forums, blogs, messenger and social networks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001436041435226798,
+          "perplexity": 81,
+          "sentence": "The study found that false narratives decrease people's willingness to comply with public health guidance (wearing masks, maintaining social distancing, etc.)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015521639725193381,
+          "perplexity": 68,
+          "sentence": "and make them less likely to recommend vaccination to vulnerable people in their social circle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016577343922108412,
+          "perplexity": 161,
+          "sentence": "Moreover, an uncontrolled infodemic had the potential to significantly increase exposure to the COVID-19 disease, the study concluded.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015624372754245996,
+          "perplexity": 100,
+          "sentence": "The false narratives identified included fake information related to wearing masks, conspiracy theories about the origin and even existence of the novel coronavirus and COVID-19 disease, and false rumours about the effectiveness of coronavirus testing and vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011232488323003054,
+          "perplexity": 60,
+          "sentence": "UNDP Resident Representative in Ukraine Dafina Gercheva said the studied showed the infodemic is a real threat to public health in Ukraine, and that it was important for the government to join efforts with non-government organizations, fact-checkers and social media influencers to fight it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001330185099504888,
+          "perplexity": 66,
+          "sentence": "\u201cConspiracy theories, rumours and malicious disinformation can quickly go viral on social media, especially when there is a low level of public trust in state institutions,\u201d Gercheva said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001338744885288179,
+          "perplexity": 71,
+          "sentence": "\u201cOur study found that by combining the efforts of government, the media, influencers, and other trusted sources, the spread of reliable information can be promoted, and the danger of disinformation about COVID-19 countered.\u201d In combination with the social media monitoring, the study quizzed 1,000 Ukrainians in a survey of the public's views of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ukrainians\u2019 health could be damaged by an ongoing \u201cinfodemic\u201d of false and misleading information about the novel coronavirus pandemic, research carried out for the United Nations Development Programme (UNDP) and the United Nations Children's Fund (UNICEF) has found. From March to November 2020, researchers tracked more than 30 million social media messages using the advanced social media monitoring and analytics platform SemanticForce. The study identified over 250,000 messages with disinformation narratives related to COVID-19 in Ukrainian online media, forums, blogs, messenger and social networks. The study found that false narratives decrease people's willingness to comply with public health guidance (wearing masks, maintaining social distancing, etc.) and make them less likely to recommend vaccination to vulnerable people in their social circle. Moreover, an uncontrolled infodemic had the potential to significantly increase exposure to the COVID-19 disease, the study concluded. The false narratives identified included fake information related to wearing masks, conspiracy theories about the origin and even existence of the novel coronavirus and COVID-19 disease, and false rumours about the effectiveness of coronavirus testing and vaccines. UNDP Resident Representative in Ukraine Dafina Gercheva said the studied showed the infodemic is a real threat to public health in Ukraine, and that it was important for the government to join efforts with non-government organizations, fact-checkers and social media influencers to fight it. \u201cConspiracy theories, rumours and malicious disinformation can quickly go viral on social media, especially when there is a low level of public trust in state institutions,\u201d Gercheva said. \u201cOur study found that by combining the efforts of government, the media, influencers, and other trusted sources, the spread of reliable information can be promoted, and the danger of disinformation about COVID-19 countered.\u201d In combination with the social media monitoring, the study quizzed 1,000 Ukrainians in a survey of the public\u2019s views of",
+  "date": "03 March 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9fb7eb66-21d0-4f62-a1b8-acc6f79dcd8e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.638648986816406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012109326053177938,
+          "perplexity": 42,
+          "sentence": "20-June-2016 Conflict and persecution caused global forced displacement to escalate sharply in 2015 reaching the highest level ever recorded and representing immense human suffering, according to a report released today by UNHCR, the UN Refugee Agency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011991764040431008,
+          "perplexity": 25,
+          "sentence": "UNHCR`s annual Global Trends report, which tracks forced displacement worldwide based on data from governments, partners including the Internal Displacement Monitoring Centre, and the organization`s own reporting, said 65.3 million people were displaced as of the end of 2015, compared to 59.5 million just twelve months earlier.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001185089786304161,
+          "perplexity": 27,
+          "sentence": "This is the first time that the threshold of 60 million has been crossed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011538382386788726,
+          "perplexity": 17,
+          "sentence": "The total of 65.3 million comprises 3.2 million people in industrialized countries who as of end 2015 were awaiting decisions on asylum (the largest total UNHCR has recorded), 21.3 million refugees worldwide (1.8 million more than in 2014 and the highest refugee total since the early 1990s), and 40.8 million people who had been forced to flee their homes but were within the confines of their own countries (an increase of 2.6 million from 2014 and the highest number on record).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011342825018800795,
+          "perplexity": 68,
+          "sentence": "Measured against Earth`s 7.349 billion population these numbers mean that 1 in every 113 people globally is now either an asylum-seeker, internally displaced or a refugee - a level of risk for which UNHCR knows no precedent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010815574205480516,
+          "perplexity": 28,
+          "sentence": "In all, there are more forcibly displaced people today than the populations of the United Kingdom, France or Italy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001115815612138249,
+          "perplexity": 16,
+          "sentence": "Forced displacement has been on the rise since at least the mid-1990s in most regions, but over the past five years the rate of climb has increased.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011282029299763963,
+          "perplexity": 79,
+          "sentence": "The reasons are threefold: Situations that cause large refugee outflows are lasting longer (for example, conflicts in Somalia or Afghanistan are now into their third and fourth decades, respectively), dramatic new or reignited situations are occurring frequently (today`s largest",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "20-June-2016 Conflict and persecution caused global forced displacement to escalate sharply in 2015 reaching the highest level ever recorded and representing immense human suffering, according to a report released today by UNHCR, the UN Refugee Agency. UNHCR`s annual Global Trends report, which tracks forced displacement worldwide based on data from governments, partners including the Internal Displacement Monitoring Centre, and the organization`s own reporting, said 65.3 million people were displaced as of the end of 2015, compared to 59.5 million just twelve months earlier. This is the first time that the threshold of 60 million has been crossed. The total of 65.3 million comprises 3.2 million people in industrialized countries who as of end 2015 were awaiting decisions on asylum (the largest total UNHCR has recorded), 21.3 million refugees worldwide (1.8 million more than in 2014 and the highest refugee total since the early 1990s), and 40.8 million people who had been forced to flee their homes but were within the confines of their own countries (an increase of 2.6 million from 2014 and the highest number on record). Measured against Earth`s 7.349 billion population these numbers mean that 1 in every 113 people globally is now either an asylum-seeker, internally displaced or a refugee \u2013 a level of risk for which UNHCR knows no precedent. In all, there are more forcibly displaced people today than the populations of the United Kingdom, France or Italy. Forced displacement has been on the rise since at least the mid-1990s in most regions, but over the past five years the rate of climb has increased. The reasons are threefold: Situations that cause large refugee outflows are lasting longer (for example, conflicts in Somalia or Afghanistan are now into their third and fourth decades, respectively), dramatic new or reignited situations are occurring frequently (today`s largest",
+  "date": "20 June 2016"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "eae85305-d28a-4fe9-88e8-705479ea6348",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.80718994140625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004958524368703365,
+          "perplexity": 55,
+          "sentence": "Baghdad, Iraq, 18 January 2023 - Thanks to its legal framework to reduce and prevent statelessness, thousands of stateless persons or those at risk of statelessness in Iraq have acquired Iraqi nationality over the years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00507731456309557,
+          "perplexity": 36,
+          "sentence": "However, some individuals are still suffering from the impact of not having the nationality of any country - which means they are stateless.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005473482888191938,
+          "perplexity": 20,
+          "sentence": "While the number of stateless people in the country has been reduced due to efforts made by the Government of Iraq, those without a nationality continue to face significant challenges in accessing their most basic rights, including going to school, seeking professional medical care, getting a job, or registering their marriages or new-borns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00453784316778183,
+          "perplexity": 53,
+          "sentence": "Moreover, others remain at risk of being stateless across the country due to, for example, administrative and socio-economic barriers in accessing civil documentation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036994486581534147,
+          "perplexity": 58,
+          "sentence": "To address these remaining barriers, the Ministry of Interior of Iraq and UNHCR, the UN Refugee Agency, held a conference in Baghdad on 18 January to explore solutions for ending statelessness, and preventing future instances of statelessness, not least by scaling up nationwide efforts to facilitate access to civil documentation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003600028343498707,
+          "perplexity": 71,
+          "sentence": "In line with UNHCR's Global Action Plan to End Statelessness 2014-2024 and the #IBelong Campaign, UNHCR Iraq is accelerating efforts to support the Government in ensuring that all eligible individuals can acquire Iraqi nationality and to improve access to civil documents across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002977510215714574,
+          "perplexity": 61,
+          "sentence": "In an attempt to better understand the remaining barriers faced by some, including those related to securing Iraqi nationality and documents, UNHCR and its partner, Legal Clinics Network (LCN), conducted a detailed study in 2021 on Faili Kurds and Bidoons, two of the main population groups affected by statelessness, for which the Government has made considerable progress in resolving their stateless status.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00444928789511323,
+          "perplexity": 93,
+          "sentence": "In fact, Iraq achieved the world's largest reduction of statelessness",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq, 18 January 2023 - Thanks to its legal framework to reduce and prevent statelessness, thousands of stateless persons or those at risk of statelessness in Iraq have acquired Iraqi nationality over the years. However, some individuals are still suffering from the impact of not having the nationality of any country - which means they are stateless. While the number of stateless people in the country has been reduced due to efforts made by the Government of Iraq, those without a nationality continue to face significant challenges in accessing their most basic rights, including going to school, seeking professional medical care, getting a job, or registering their marriages or new-borns. Moreover, others remain at risk of being stateless across the country due to, for example, administrative and socio-economic barriers in accessing civil documentation. To address these remaining barriers, the Ministry of Interior of Iraq and UNHCR, the UN Refugee Agency, held a conference in Baghdad on 18 January to explore solutions for ending statelessness, and preventing future instances of statelessness, not least by scaling up nationwide efforts to facilitate access to civil documentation. In line with UNHCR\u2019s Global Action Plan to End Statelessness 2014-2024 and the #IBelong Campaign, UNHCR Iraq is accelerating efforts to support the Government in ensuring that all eligible individuals can acquire Iraqi nationality and to improve access to civil documents across the country. In an attempt to better understand the remaining barriers faced by some, including those related to securing Iraqi nationality and documents, UNHCR and its partner, Legal Clinics Network (LCN), conducted a detailed study in 2021 on Faili Kurds and Bidoons, two of the main population groups affected by statelessness, for which the Government has made considerable progress in resolving their stateless status. In fact, Iraq achieved the world\u2019s largest reduction of statelessness",
+  "date": "19 January 2023"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9aa9c416-b67f-4767-99c8-e602f186e4db",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 134.8728790283203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00030080441501922905,
+          "perplexity": 26,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) and the Royal Scientific Society (RSS) signed today a letter of agreement to support community engagement in integrated forests fire management.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028139512869529426,
+          "perplexity": 88,
+          "sentence": "This agreement falls within the activities of \u201cEnhancing the capacity of the forestry sector to control and manage forest fires in Jordan\u201d project which addresses the country technical capacity needs and support the Ministry of Agriculture / Forestry Department as well as the local communities neighboring the forests in regards to forest fire management.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002644193300511688,
+          "perplexity": 460,
+          "sentence": "FAO Representative in Jordan, Eng.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002605774498078972,
+          "perplexity": 50,
+          "sentence": "Nabil Assaf, said\u201d this agreement is a continuation of FAO's support to the Government of Jordan and to the agriculture sector in facing natural disasters and achieving the Sustainable Development Goals (SDGs), mainly SDG2- Zero Hunger, to eliminate hunger, food insecurity and malnutrition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003024190373253077,
+          "perplexity": 64,
+          "sentence": "Also, supporting the national efforts to control forest fires and alleviate their effects to be endorsed in the national forestry sector policy and is expected to improve the sector's capacity and contribution to the national development process.\u201d The Vice President and Executive Director of Sustainable Solutions Sector at the RSS, Engineer Rafat Assi, said, \"The forest cover is limited and it is essential to control forest fires in the Kingdom.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004554411571007222,
+          "perplexity": 69,
+          "sentence": "He stressed on the role of local communities and their awareness in dealing with neighboring forest fires and their involvement in controlling it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002921951236203313,
+          "perplexity": 53,
+          "sentence": "Moreover, the letter of agreement consists of multiple activities such as conducting awareness raising campaigns, develop plans to actively engage local communities in forests fire management, develop community-based forest fire management initiatives, as well as investigate the potential of community based traditional governance modalities in forests fires management as well as the legal issues related to such engagements.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030439559486694634,
+          "perplexity": 41,
+          "sentence": "These activities will be implemented in the upcoming five months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004132296016905457,
+          "perplexity": 92,
+          "sentence": "Forest protection is a pillar of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations (FAO) and the Royal Scientific Society (RSS) signed today a letter of agreement to support community engagement in integrated forests fire management. This agreement falls within the activities of \u201cEnhancing the capacity of the forestry sector to control and manage forest fires in Jordan\u201d project which addresses the country technical capacity needs and support the Ministry of Agriculture / Forestry Department as well as the local communities neighboring the forests in regards to forest fire management. FAO Representative in Jordan, Eng. Nabil Assaf, said\u201d this agreement is a continuation of FAO\u2019s support to the Government of Jordan and to the agriculture sector in facing natural disasters and achieving the Sustainable Development Goals (SDGs), mainly SDG2- Zero Hunger, to eliminate hunger, food insecurity and malnutrition. Also, supporting the national efforts to control forest fires and alleviate their effects to be endorsed in the national forestry sector policy and is expected to improve the sector\u2019s capacity and contribution to the national development process.\u201d The Vice President and Executive Director of Sustainable Solutions Sector at the RSS, Engineer Rafat Assi, said, \"The forest cover is limited and it is essential to control forest fires in the Kingdom.\" He stressed on the role of local communities and their awareness in dealing with neighboring forest fires and their involvement in controlling it. Moreover, the letter of agreement consists of multiple activities such as conducting awareness raising campaigns, develop plans to actively engage local communities in forests fire management, develop community-based forest fire management initiatives, as well as investigate the potential of community based traditional governance modalities in forests fires management as well as the legal issues related to such engagements. These activities will be implemented in the upcoming five months. Forest protection is a pillar of",
+  "date": "01 February 2022"
+}

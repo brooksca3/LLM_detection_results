@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e1004e9c-c98c-42e4-a950-5ac2deea792e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.83085823059082,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.08368465304374695,
+          "perplexity": 12,
+          "sentence": "The United Nations Secretary-General Ant\u00f3nio Guterres has announced the creation of a new Scientific Advisory Board to advise UN leaders on breakthroughs in science and technology and how to harness the benefits of these advances and mitigate potential risks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08137813210487366,
+          "perplexity": 48,
+          "sentence": "\u201cScientific and technological progress can support efforts to achieve the Sustainable Development Goals -- but they are also giving rise to ethical, legal and political concerns that require multilateral solutions,\u201d Mr. Guterres said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07931683212518692,
+          "perplexity": 45,
+          "sentence": "\u201cMy Scientific Advisory Board will strengthen the role of the United Nations as a reliable source of data and evidence and provide advice to me and my senior management team.\u201d The Advisory Board will comprise seven eminent scholars alongside the Chief Scientists of United Nations System entities, the Secretary-General's Envoy on Technology, and the Rector of the United Nations University.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08769262582063675,
+          "perplexity": 42,
+          "sentence": "The Board will be associated with a network of diverse scientific institutions from across the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08622615039348602,
+          "perplexity": 43,
+          "sentence": "\u201cThe Secretary-General's decision to establish a Scientific Advisory Board underscores the unwavering dedication of UN leaders to the principles of the scientific method.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.07374157011508942,
+          "perplexity": 56,
+          "sentence": "I look forward to supporting the UN Secretary-General in raising the voice for science-based policy and decision-making,\u201d expressed Professor Yoshua Bengio, Scientific Director of Mila -- Quebec AI Institute and Professor at the Universit\u00e9 de Montr\u00e9al.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08359910547733307,
+          "perplexity": 23,
+          "sentence": "The primary objective of the Board is to provide independent insights on trends at the intersection of science, technology, ethics, governance and sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08461301773786545,
+          "perplexity": 69,
+          "sentence": "Through their collaborative efforts, the Board and its Network will support United Nations leaders in anticipating, adapting to and leveraging the latest scientific advancements in their work for people, planet and prosperity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08819380402565002,
+          "perplexity": 36,
+          "sentence": "\u201cBy ensuring that UN policies and programmes are founded on the best available scientific evidence and expertise, the Board will play a crucial role in navigating the complex moral, social, and political dilemmas presented by rapid scientific",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Secretary-General Ant\u00f3nio Guterres has announced the creation of a new Scientific Advisory Board to advise UN leaders on breakthroughs in science and technology and how to harness the benefits of these advances and mitigate potential risks. \u201cScientific and technological progress can support efforts to achieve the Sustainable Development Goals -- but they are also giving rise to ethical, legal and political concerns that require multilateral solutions,\u201d Mr. Guterres said. \u201cMy Scientific Advisory Board will strengthen the role of the United Nations as a reliable source of data and evidence and provide advice to me and my senior management team.\u201d The Advisory Board will comprise seven eminent scholars alongside the Chief Scientists of United Nations System entities, the Secretary-General\u2019s Envoy on Technology, and the Rector of the United Nations University. The Board will be associated with a network of diverse scientific institutions from across the world. \u201cThe Secretary-General\u2019s decision to establish a Scientific Advisory Board underscores the unwavering dedication of UN leaders to the principles of the scientific method. I look forward to supporting the UN Secretary-General in raising the voice for science-based policy and decision-making,\u201d expressed Professor Yoshua Bengio, Scientific Director of Mila -- Quebec AI Institute and Professor at the Universit\u00e9 de Montr\u00e9al. The primary objective of the Board is to provide independent insights on trends at the intersection of science, technology, ethics, governance and sustainable development. Through their collaborative efforts, the Board and its Network will support United Nations leaders in anticipating, adapting to and leveraging the latest scientific advancements in their work for people, planet and prosperity. \u201cBy ensuring that UN policies and programmes are founded on the best available scientific evidence and expertise, the Board will play a crucial role in navigating the complex moral, social, and political dilemmas presented by rapid scientific",
+  "date": "05 August 2023"
+}

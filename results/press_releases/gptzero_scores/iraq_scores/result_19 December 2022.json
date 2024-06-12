@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5626927-9038-4dbd-9348-51ee24893fbb",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 150.85360717773438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010720932186814025,
+          "perplexity": 36,
+          "sentence": "A roundtable discussion organised by the Ministry of Planning and ILO focused on a new paper that outlines factors and challenges that need to be considered in designing and integrating a public works programme within the social protection landscape in Iraq, in line with the Government of Iraq's objectives and informed by international best practices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010625638242345303,
+          "perplexity": 29,
+          "sentence": "Baghdad, Iraq (ILO News) The Ministry of Planning and the International Labour Organization held a roundtable discussion in Baghdad on Monday (December 19) to discuss how a public works programme may fit within the social protection landscape in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010392088006483391,
+          "perplexity": 32,
+          "sentence": "The discussion was based on a newly developed paper by the ILO and the Ministry of Labour and Social Affairs, that examines how relevant such a programme is to the Government's objectives of addressing high levels of unemployment particularly among youth and women, while supporting working age adults in receipt of social assistance to transition out of poverty and into decent employment with effective access to social security coverage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010753951937658712,
+          "perplexity": 63,
+          "sentence": "The event brought together policymakers, researchers, local development thought leaders and practitioners to exchange ideas, knowledge, and experiences on the relevance of and potential for establishing a public employment programme in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010272723739035428,
+          "perplexity": 27,
+          "sentence": "It forms part of a series of inclusive roundtable discussions to support the Government of Iraq in reforming its social protection system, through policy debates on key issues related to the future of social protection in Iraq, with the support of the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.73562928265892e-05,
+          "perplexity": 25,
+          "sentence": "In Iraq, the creation of a public works programmes is considered a key priority for both economic reform and sustainable development, as outlined in the White Paper on Economic Reform adopted by the Government of Iraq in 2020, as well as the Iraq Vision for Sustainable Development 2030, as drafted in 2019 by the Ministry of Planning.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.299442561110482e-05,
+          "perplexity": 433,
+          "sentence": "Public works programmes have",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A roundtable discussion organised by the Ministry of Planning and ILO focused on a new paper that outlines factors and challenges that need to be considered in designing and integrating a public works programme within the social protection landscape in Iraq, in line with the Government of Iraq\u2019s objectives and informed by international best practices. Baghdad, Iraq (ILO News) The Ministry of Planning and the International Labour Organization held a roundtable discussion in Baghdad on Monday (December 19) to discuss how a public works programme may fit within the social protection landscape in Iraq. The discussion was based on a newly developed paper by the ILO and the Ministry of Labour and Social Affairs, that examines how relevant such a programme is to the Government\u2019s objectives of addressing high levels of unemployment particularly among youth and women, while supporting working age adults in receipt of social assistance to transition out of poverty and into decent employment with effective access to social security coverage. The event brought together policymakers, researchers, local development thought leaders and practitioners to exchange ideas, knowledge, and experiences on the relevance of and potential for establishing a public employment programme in Iraq. It forms part of a series of inclusive roundtable discussions to support the Government of Iraq in reforming its social protection system, through policy debates on key issues related to the future of social protection in Iraq, with the support of the European Union. In Iraq, the creation of a public works programmes is considered a key priority for both economic reform and sustainable development, as outlined in the White Paper on Economic Reform adopted by the Government of Iraq in 2020, as well as the Iraq Vision for Sustainable Development 2030, as drafted in 2019 by the Ministry of Planning. Public works programmes have",
+  "date": "19 December 2022"
+}

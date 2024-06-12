@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "071a4a9f-5093-40d3-8200-aa3628b890b8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013829223798034484,
+        "human": 0.9861707762019655,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.013829223798034484,
+      "confidence_category": "high",
+      "confidence_score": 0.9861707762019655,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013829223798034484,
+          "human": 0.9861707762019655,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.585104942321777,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0010396587895229459,
+          "perplexity": 26,
+          "sentence": "Al Hudaydah- Japan is contributing USD 800,000 to the United Nations Human Settlements Programme (UN-Habitat) in Yemen to provide shelter for those displaced by conflict and to rehabilitate damaged homes belonging to some of the most vulnerable population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010631097247824073,
+          "perplexity": 47,
+          "sentence": "The project will benefit around 310 vulnerable families, living in conflict-affected neighbourhoods and internally displaced people in in Al Hudaydah Governorate in west Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013087603729218245,
+          "perplexity": 20,
+          "sentence": "The ongoing conflict in Yemen has caused devastation with 22.2 million people in need of assistance including two million Internally Displaced Persons (IDPs).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013769521610811353,
+          "perplexity": 33,
+          "sentence": "Al Hudaydah, the main city of the Governorate, has been a focus of fighting as it is a main port.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010689094197005033,
+          "perplexity": 40,
+          "sentence": "Over 47,000 families have been registered as displaced in the area with many moving to centres in old schools or disused government buildings where the lack of sanitation facilities and clean water threatens to lead to renewed cholera outbreaks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009833336807787418,
+          "perplexity": 18,
+          "sentence": "Even for those who have remained in their homes, living conditions in the city are poor with no electricity in many areas and water shortages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009961198084056377,
+          "perplexity": 43,
+          "sentence": "Houses have been badly damaged by the fighting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008641098975203931,
+          "perplexity": 32,
+          "sentence": "The project will provide clean water and sanitation facilities for IDP families living in the districts of Al-Khawkhah, Al-Garrahi and Al-Hali which host the largest number of displaced people in the Governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006950417882762849,
+          "perplexity": 44,
+          "sentence": "Some of the unsafe and damaged apartment buildings and housing units where vulnerable families live will be repaired using environmentally-friendly and cost-effective construction material.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007399497553706169,
+          "perplexity": 23,
+          "sentence": "The project is expected to benefit around 1,200 women and girls and create work for 1,600 people a day.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Al Hudaydah- Japan is contributing USD 800,000 to the United Nations Human Settlements Programme (UN-Habitat) in Yemen to provide shelter for those displaced by conflict and to rehabilitate damaged homes belonging to some of the most vulnerable population. The project will benefit around 310 vulnerable families, living in conflict-affected neighbourhoods and internally displaced people in in Al Hudaydah Governorate in west Yemen. The ongoing conflict in Yemen has caused devastation with 22.2 million people in need of assistance including two million Internally Displaced Persons (IDPs). Al Hudaydah, the main city of the Governorate, has been a focus of fighting as it is a main port. Over 47,000 families have been registered as displaced in the area with many moving to centres in old schools or disused government buildings where the lack of sanitation facilities and clean water threatens to lead to renewed cholera outbreaks. Even for those who have remained in their homes, living conditions in the city are poor with no electricity in many areas and water shortages. Houses have been badly damaged by the fighting. The project will provide clean water and sanitation facilities for IDP families living in the districts of Al-Khawkhah, Al-Garrahi and Al-Hali which host the largest number of displaced people in the Governorate. Some of the unsafe and damaged apartment buildings and housing units where vulnerable families live will be repaired using environmentally-friendly and cost-effective construction material. The project is expected to benefit around 1,200 women and girls and create work for 1,600 people a day.",
+  "date": "20 February 2019"
+}

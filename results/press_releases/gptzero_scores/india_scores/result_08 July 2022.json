@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b996aa94-dc61-436e-9493-6e2c819cb3b0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.788753509521484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0018565268255770206,
+          "perplexity": 20,
+          "sentence": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres' message to the Group of 20 (G20) Foreign Ministers \u201cStrengthening multilateralism\u201d, in Bali, Indonesia on 8 July: This G20 meeting comes at an extremely challenging moment for multilateralism and global governance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022957308683544397,
+          "perplexity": 25,
+          "sentence": "The international order is at risk of coming apart at the seams.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002096031326800585,
+          "perplexity": 19,
+          "sentence": "The climate crisis is close to the point of no return.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001990546705201268,
+          "perplexity": 123,
+          "sentence": "The COVID-19 pandemic has killed millions; hunger and poverty are rising; years of development gains are being lost.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019014774588868022,
+          "perplexity": 19,
+          "sentence": "A multifaceted war is raging in the heart of Europe, in violation of the United Nations Charter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001719066989608109,
+          "perplexity": 33,
+          "sentence": "New and evolving forms of conflict, including in cyberspace, require multilateral solutions and frameworks that do not yet exist.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020723629277199507,
+          "perplexity": 37,
+          "sentence": "Our unequal global financial system, designed by rich and powerful countries, is failing the developing world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017626984044909477,
+          "perplexity": 75,
+          "sentence": "Poorer countries pay much higher borrowing costs than developed countries -- and their economies are downgraded when they consider restructuring their debt or applying for debt relief.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025181476958096027,
+          "perplexity": 107,
+          "sentence": "Meanwhile, unequal access to vaccines has prolonged the COVID-19 pandemic, contributing to continued suffering and death.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019355281256139278,
+          "perplexity": 31,
+          "sentence": "Strengthening multilateralism -- the theme of this session -- is not a choice, but a necessity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001994463847950101,
+          "perplexity": 27,
+          "sentence": "It is the only way to avoid widespread food shortages, deepening climate chaos, and a wave of poverty and destitution that will leave no country untouched.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012472757371142507,
+          "perplexity": 57,
+          "sentence": "I see three areas for urgent multilateral action: The growing climate emergency; the food, energy and finance crisis; and the unequal recovery from the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011908919550478458,
+          "perplexity": 83,
+          "sentence": "The climate crisis is our number one emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012498832074925303,
+          "perplexity": 35,
+          "sentence": "The battle to keep the 1.5\u00b0C goal alive will be won or lost by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011410388397052884,
+          "perplexity": 104,
+          "sentence": "You represent the major economies -- and 80 per cent of global emissions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001423053559847176,
+          "perplexity": 32,
+          "sentence": "The responsibility for preventing the worst impacts of the climate crisis rests largely on your shoulders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011606020852923393,
+          "perplexity": 81,
+          "sentence": "Science tells us that global",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres\u2019 message to the Group of 20 (G20) Foreign Ministers \u201cStrengthening multilateralism\u201d, in Bali, Indonesia on 8 July: This G20 meeting comes at an extremely challenging moment for multilateralism and global governance. The international order is at risk of coming apart at the seams. The climate crisis is close to the point of no return. The COVID-19 pandemic has killed millions; hunger and poverty are rising; years of development gains are being lost. A multifaceted war is raging in the heart of Europe, in violation of the United Nations Charter. New and evolving forms of conflict, including in cyberspace, require multilateral solutions and frameworks that do not yet exist. Our unequal global financial system, designed by rich and powerful countries, is failing the developing world. Poorer countries pay much higher borrowing costs than developed countries -- and their economies are downgraded when they consider restructuring their debt or applying for debt relief. Meanwhile, unequal access to vaccines has prolonged the COVID-19 pandemic, contributing to continued suffering and death. Strengthening multilateralism -- the theme of this session -- is not a choice, but a necessity. It is the only way to avoid widespread food shortages, deepening climate chaos, and a wave of poverty and destitution that will leave no country untouched. I see three areas for urgent multilateral action: The growing climate emergency; the food, energy and finance crisis; and the unequal recovery from the pandemic. The climate crisis is our number one emergency. The battle to keep the 1.5\u00b0C goal alive will be won or lost by 2030. You represent the major economies -- and 80 per cent of global emissions. The responsibility for preventing the worst impacts of the climate crisis rests largely on your shoulders. Science tells us that global",
+  "date": "08 July 2022"
+}

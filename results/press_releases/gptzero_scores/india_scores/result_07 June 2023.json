@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ab7b767c-019f-46a1-9534-028fab28762e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.18367385864258,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001026937272399664,
+          "perplexity": 24,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks at the launch of the three policy briefs under Our Common Agenda, in New York on 5 June: I am pleased to join you today to share three policy briefs on Our Common Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010850115213543177,
+          "perplexity": 53,
+          "sentence": "These three briefs -- part of a series of 11 -- are intended to inform your discussions as you prepare for the SDG [Sustainable Development Goals] Summit and especially for the Summit of the Future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010716691613197327,
+          "perplexity": 19,
+          "sentence": "They touch on some of the most serious challenges we face -- challenges that may determine whether we are able to achieve the vision of the 2030 Agenda and the Sustainable Development Goals, or whether we continue towards a future of continued social, financial, political and environmental breakdown.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011897326912730932,
+          "perplexity": 79,
+          "sentence": "Today, I will cover [their] main themes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010781463934108615,
+          "perplexity": 85,
+          "sentence": "Our policy brief on reforms to the international financial architecture proposes ways to right historic wrongs, through a functional financial system that supports sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011854650219902396,
+          "perplexity": 42,
+          "sentence": "This is a very extended policy brief and we decided that in this version to be presented we should go into the details because one of the problems when we discuss these kinds of things is that when details are not there things can be easily misinterpreted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001049516606144607,
+          "perplexity": 63,
+          "sentence": "But I recognize that this makes the brief rather complex and so we are also preparing a more simplified version in order to facilitate the public debate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000984550453722477,
+          "perplexity": 15,
+          "sentence": "But we felt that it was important to go into details to show exactly the kind of changes that we believe that would be necessary from the point of view of the objectives we have set out.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010483834194019437,
+          "perplexity": 34,
+          "sentence": "The policy brief on moving beyond gross domestic product (GDP) looks at measuring the things that really matter to people and their communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001207066117785871,
+          "perplexity": 113,
+          "sentence": "GDP tells us the cost of everything and the value",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks at the launch of the three policy briefs under Our Common Agenda, in New York on 5 June: I am pleased to join you today to share three policy briefs on Our Common Agenda. These three briefs -- part of a series of 11 -- are intended to inform your discussions as you prepare for the SDG [Sustainable Development Goals] Summit and especially for the Summit of the Future. They touch on some of the most serious challenges we face -- challenges that may determine whether we are able to achieve the vision of the 2030 Agenda and the Sustainable Development Goals, or whether we continue towards a future of continued social, financial, political and environmental breakdown. Today, I will cover [their] main themes. Our policy brief on reforms to the international financial architecture proposes ways to right historic wrongs, through a functional financial system that supports sustainable development. This is a very extended policy brief and we decided that in this version to be presented we should go into the details because one of the problems when we discuss these kinds of things is that when details are not there things can be easily misinterpreted. But I recognize that this makes the brief rather complex and so we are also preparing a more simplified version in order to facilitate the public debate. But we felt that it was important to go into details to show exactly the kind of changes that we believe that would be necessary from the point of view of the objectives we have set out. The policy brief on moving beyond gross domestic product (GDP) looks at measuring the things that really matter to people and their communities. GDP tells us the cost of everything and the value",
+  "date": "07 June 2023"
+}

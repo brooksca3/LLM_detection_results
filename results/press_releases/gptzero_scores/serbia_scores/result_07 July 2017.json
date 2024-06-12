@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "5cf18a13-68e0-4b94-8031-9f7240ca0b3f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.75156021118164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00027897622203454375,
+          "perplexity": 66,
+          "sentence": "Belgrade, 7-July-2017 - SOS telephone service support for women who are in situations of violence, provided by women's non-governmental organizations will be avaliable to more users, and especially to Roma women and women with disabilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028533535078167915,
+          "perplexity": 139,
+          "sentence": "Grants were awarded to eight associations that provide the specialized service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029796501621603966,
+          "perplexity": 104,
+          "sentence": "They were awarded by UNDP, within the United Nations joint project \"Integrated Response to Violence Against Women and Girls II\u201c.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002999127027578652,
+          "perplexity": 142,
+          "sentence": "UNDP supported \u201eFemina Association\u201c from Smederevska Palanka working on expanding the support provided for realization of rights, psychosocial and psychological services for women who are in situation of violence from the Danube and Brani\u010devo districts, while the \"Pe\u0161\u010danik\" service from Kru\u0161evac will be expanded in the Rasinski district through establishment of the two new SOS services in Brus and \u0106i\u0107evac.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024417415261268616,
+          "perplexity": 114,
+          "sentence": "\u201eWomen's Centre U\u017eice\u201c will expand the service onto three municipalities \u010cajetina, Bajina Ba\u0161ta and Po\u017eega, covering the district of Zlatibor, and Fenomena from Kraljevo will extend the already existing service by making it available 24 hours to women in situations of violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023102497216314077,
+          "perplexity": 90,
+          "sentence": "The special emphasis was to make the service available to women from the vulnerable groups - \"Osvit\" from Ni\u0161 will continue providing SOS helpline service in Roma language, the Roma Center for Women and Children Daje works on informing and improving the protection of Roma women in situation of violence from Roma neighbourhoods in Belgrade, while Roma Association Novi Be\u010dej works on providing support to women who suffered sexual violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016632266342639923,
+          "perplexity": 120,
+          "sentence": "Organization for supporting women with and without disabilities in situation of violence...IZ KRUGA VOJVODINA is supported to continue working on the emotional, psychological, informative and legal empowerment as well as to continue providing support to women who suffer violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018919880967587233,
+          "perplexity": 129,
+          "sentence": "SOS phones provide support and information on how women who experienced domestic violence and violence in partner relations can protect themselves as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 7-July-2017 - SOS telephone service support for women who are in situations of violence, provided by women\u2019s non-governmental organizations will be avaliable to more users, and especially to Roma women and women with disabilities. Grants were awarded to eight associations that provide the specialized service. They were awarded by UNDP, within the United Nations joint project \"Integrated Response to Violence Against Women and Girls II\u201c. UNDP supported \u201eFemina Association\u201c from Smederevska Palanka working on expanding the support provided for realization of rights, psychosocial and psychological services for women who are in situation of violence from the Danube and Brani\u010devo districts, while the \"Pe\u0161\u010danik\" service from Kru\u0161evac will be expanded in the Rasinski district through establishment of the two new SOS services in Brus and \u0106i\u0107evac. \u201eWomen\u2019s Centre U\u017eice\u201c will expand the service onto three municipalities \u010cajetina, Bajina Ba\u0161ta and Po\u017eega, covering the district of Zlatibor, and Fenomena from Kraljevo will extend the already existing service by making it available 24 hours to women in situations of violence. The special emphasis was to make the service available to women from the vulnerable groups - \"Osvit\" from Ni\u0161 will continue providing SOS helpline service in Roma language, the Roma Center for Women and Children Daje works on informing and improving the protection of Roma women in situation of violence from Roma neighbourhoods in Belgrade, while Roma Association Novi Be\u010dej works on providing support to women who suffered sexual violence. Organization for supporting women with and without disabilities in situation of violence ...IZ KRUGA VOJVODINA is supported to continue working on the emotional, psychological, informative and legal empowerment as well as to continue providing support to women who suffer violence. SOS phones provide support and information on how women who experienced domestic violence and violence in partner relations can protect themselves as",
+  "date": "07 July 2017"
+}

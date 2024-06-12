@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "8a0c4af6-6653-45a4-b762-b77ff97fcca4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01420076414884886,
+        "human": 0.9851654827403761,
+        "mixed": 0.0006337531107750732
+      },
+      "completely_generated_prob": 0.01420076414884886,
+      "confidence_category": "high",
+      "confidence_score": 0.9851654827403761,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01420076414884886,
+          "human": 0.9851654827403761,
+          "mixed": 0.0006337531107750732
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 29.803802490234375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004314262419939041,
+          "perplexity": 42,
+          "sentence": "Funds will be used to improve detection of infectious diseases and strengthen surveillance As Ukraine continues to face the most acute humanitarian crisis in the WHO European Region in decades, the Ukrainian Ministry of Health (MoH) is striving to meet basic health service delivery, surveillance, and pharmaceutical needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035993203055113554,
+          "perplexity": 100,
+          "sentence": "The health system, already overwhelmed by two years of COVID-19 prior to the war, needs direct support to maintain essential, lifesaving functions and services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018654996529221535,
+          "perplexity": 37,
+          "sentence": "August the 2d, USAID Deputy Administrator Isobel Coleman met with Dr. Hans Kluge, the World Health Organization (WHO) Regional Director for Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011563643347471952,
+          "perplexity": 24,
+          "sentence": "They discussed the United States' and the WHO's coordinated response to support Ukraine and the country's health system recovery and announced that USAID is providing an additional $1.8 million in funding to WHO to strengthen infectious disease surveillance and reporting in Ukraine, with a particular focus on the most vulnerable, including people with special needs, those living in remote areas and internally displaced people (IDP).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009991003898903728,
+          "perplexity": 43,
+          "sentence": "With this additional support, USAID has now provided $15.5 million to WHO, for critical health support, since Russia's invasion of Ukraine began on 24 February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001091678161174059,
+          "perplexity": 40,
+          "sentence": "\u201cFor almost six months now, Ukraine's health system has been facing numerous and serious challenges due to the ongoing conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007179209496825933,
+          "perplexity": 82,
+          "sentence": "We are beginning to see a rise in COVID-19 cases, with a corresponding rise in hospitalizations and deaths, driven by the BA.5 sub-lineage of Omicron which has quickly spread through Europe since early June,\u201d said Dr Hans Kluge, WHO Regional Director for Europe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006164084770716727,
+          "perplexity": 22,
+          "sentence": "\u201cOn top of that, the war has affected routine immunization activities for highly infectious and potentially life-threatening diseases like measles, polio and diphtheria.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007312743691727519,
+          "perplexity": 36,
+          "sentence": "A cholera outbreak remains a real and serious risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000792375358287245,
+          "perplexity": 100,
+          "sentence": "And the rapid and unexpected spread of monkeypox in the European Region could further challenge the Ukrainian health system, when the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Funds will be used to improve detection of infectious diseases and strengthen surveillance As Ukraine continues to face the most acute humanitarian crisis in the WHO European Region in decades, the Ukrainian Ministry of Health (MoH) is striving to meet basic health service delivery, surveillance, and pharmaceutical needs. The health system, already overwhelmed by two years of COVID-19 prior to the war, needs direct support to maintain essential, lifesaving functions and services. August the 2d, USAID Deputy Administrator Isobel Coleman met with Dr. Hans Kluge, the World Health Organization (WHO) Regional Director for Europe. They discussed the United States\u2019 and the WHO\u2019s coordinated response to support Ukraine and the country\u2019s health system recovery and announced that USAID is providing an additional $1.8 million in funding to WHO to strengthen infectious disease surveillance and reporting in Ukraine, with a particular focus on the most vulnerable, including people with special needs, those living in remote areas and internally displaced people (IDP). With this additional support, USAID has now provided $15.5 million to WHO, for critical health support, since Russia\u2019s invasion of Ukraine began on 24 February. \u201cFor almost six months now, Ukraine\u2019s health system has been facing numerous and serious challenges due to the ongoing conflict. We are beginning to see a rise in COVID-19 cases, with a corresponding rise in hospitalizations and deaths, driven by the BA.5 sub-lineage of Omicron which has quickly spread through Europe since early June,\u201d said Dr Hans Kluge, WHO Regional Director for Europe. \u201cOn top of that, the war has affected routine immunization activities for highly infectious and potentially life-threatening diseases like measles, polio and diphtheria. A cholera outbreak remains a real and serious risk. And the rapid and unexpected spread of monkeypox in the European Region could further challenge the Ukrainian health system, when the",
+  "date": "03 August 2022"
+}

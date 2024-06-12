@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b82d415d-bea8-4b07-8a06-e569c48a423a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 88.58482360839844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004904032684862614,
+          "perplexity": 27,
+          "sentence": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres' video message to the Transforming Education Pre-Summit, in Paris on 29 June: Education is a fundamental human right, central to the dignity and empowerment of individuals, to driving sustainable development, and to building peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005239147576503456,
+          "perplexity": 42,
+          "sentence": "Any solution to the world's problems starts with education, the greatest tool we have to fulfil and grow human potential.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000515528314281255,
+          "perplexity": 62,
+          "sentence": "Our world is facing a multitude of crises, from the COVID-19 pandemic to climate catastrophe; from increased conflict to rising debt and unequal access to resources for recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006145575316622853,
+          "perplexity": 37,
+          "sentence": "Progress towards the Sustainable Development Goals has been derailed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006072358228266239,
+          "perplexity": 42,
+          "sentence": "People's trust in Governments and institutions is being undermined.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048275815788656473,
+          "perplexity": 93,
+          "sentence": "My report on Our Common Agenda set out the choice facing us: between a breakdown scenario of growing tensions, environmental degradation, climate chaos and instability; and a breakthrough towards a safer, more equal and peaceful future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005738555337302387,
+          "perplexity": 130,
+          "sentence": "The transformation of education is essential to unlock that breakthrough.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042744824895635247,
+          "perplexity": 55,
+          "sentence": "This Pre-Summit is our chance to build momentum and generate ideas to set out a new path for education at the Transforming Education Summit in September.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004072016745340079,
+          "perplexity": 411,
+          "sentence": "A path that delivers new political commitment to action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004386012733448297,
+          "perplexity": 65,
+          "sentence": "A path that places education at the heart of sustainable, inclusive, resilient economies and societies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003427672781981528,
+          "perplexity": 52,
+          "sentence": "Today, in developing and developed countries alike, many education systems are in deep crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003174767189193517,
+          "perplexity": 45,
+          "sentence": "First, this is a crisis of equity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030512636294588447,
+          "perplexity": 27,
+          "sentence": "Over 258 million children are out of school, the majority of them girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025842274772003293,
+          "perplexity": 65,
+          "sentence": "And education experiences and results are profoundly affected by displacement, disability, income, geography, race and gender.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028734703664667904,
+          "perplexity": 44,
+          "sentence": "A public good that has long been seen as the great equalizer now risks becoming the great divider.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002780256618279964,
+          "perplexity": 36,
+          "sentence": "Second, this is a crisis of quality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025103980442509055,
+          "perplexity": 92,
+          "sentence": "Too many students in school are not learning foundational skills.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024291325826197863,
+          "perplexity": 12,
+          "sentence": "Half of all 10-year-old students in low- and middle-income countries",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres\u2019 video message to the Transforming Education Pre-Summit, in Paris on 29 June: Education is a fundamental human right, central to the dignity and empowerment of individuals, to driving sustainable development, and to building peace. Any solution to the world\u2019s problems starts with education, the greatest tool we have to fulfil and grow human potential. Our world is facing a multitude of crises, from the COVID-19 pandemic to climate catastrophe; from increased conflict to rising debt and unequal access to resources for recovery. Progress towards the Sustainable Development Goals has been derailed. People\u2019s trust in Governments and institutions is being undermined. My report on Our Common Agenda set out the choice facing us: between a breakdown scenario of growing tensions, environmental degradation, climate chaos and instability; and a breakthrough towards a safer, more equal and peaceful future. The transformation of education is essential to unlock that breakthrough. This Pre-Summit is our chance to build momentum and generate ideas to set out a new path for education at the Transforming Education Summit in September. A path that delivers new political commitment to action. A path that places education at the heart of sustainable, inclusive, resilient economies and societies. Today, in developing and developed countries alike, many education systems are in deep crisis. First, this is a crisis of equity. Over 258 million children are out of school, the majority of them girls. And education experiences and results are profoundly affected by displacement, disability, income, geography, race and gender. A public good that has long been seen as the great equalizer now risks becoming the great divider. Second, this is a crisis of quality. Too many students in school are not learning foundational skills. Half of all 10-year-old students in low- and middle-income countries",
+  "date": "29 June 2022"
+}

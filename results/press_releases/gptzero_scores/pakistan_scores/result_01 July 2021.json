@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d5f998c0-db8a-479b-a3cd-0b2346108c03",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.33964538574219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011680635361699387,
+          "perplexity": 30,
+          "sentence": "A new ILO report estimates that between 2017 and 2019 the number of international migrants has increased from 164 to 169 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001258687989320606,
+          "perplexity": 13,
+          "sentence": "GENEVA (ILO News) - The number of international migrant workers globally has risen to 169 million, a rise of three per cent since 2017, according to the latest estimates from the International Labour Organization (ILO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011752216232707724,
+          "perplexity": 19,
+          "sentence": "The share of youth migrant workers (aged 15-24) has also increased, by almost 2 per cent, or 3.2 million, since 2017.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011862531391670927,
+          "perplexity": 65,
+          "sentence": "Their number reached 16.8 million in 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013703072909265757,
+          "perplexity": 22,
+          "sentence": "The new report, ILO Global Estimates on International Migrant Workers: Results and Methodology, shows that in 2019, international migrant workers constituted nearly five per cent of the global labour force, making them an integral part of the world economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013178210065234452,
+          "perplexity": 37,
+          "sentence": "Yet many migrant workers are often in temporary, informal or unprotected jobs, which expose them to a greater risk of insecurity, layoffs and worsening working conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013551664596889168,
+          "perplexity": 39,
+          "sentence": "The COVID-19 crisis has intensified these vulnerabilities, particularly for women migrant workers, as they are over-represented in low-paid and low-skilled jobs and have limited access to social protection and fewer options for support services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001332736574113369,
+          "perplexity": 104,
+          "sentence": "\u201cThe pandemic has exposed the precariousness of their situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011262755288043991,
+          "perplexity": 105,
+          "sentence": "Migrant workers are often first to be laid-off, they experience difficulties in accessing treatment and they are often excluded from national COVID-19 policy responses,\u201d said Manuela Tomei, Director of the ILO Conditions of Work and Equality Department.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000106561798020266,
+          "perplexity": 16,
+          "sentence": "More than two-thirds of international migrant workers are concentrated in high-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001087238488253206,
+          "perplexity": 23,
+          "sentence": "Of the 169 million international migrant workers, 63.8 million (37.7 per cent) are in Europe and Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000113301670353394,
+          "perplexity": 28,
+          "sentence": "Another 43.3 million (25.6 per cent) are in the Americas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010788194776978344,
+          "perplexity": 50,
+          "sentence": "Hence, collectively, Europe and Central Asia and the Americas host 63.3 per cent of all migrant workers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010698984260670841,
+          "perplexity": 175,
+          "sentence": "The Arab States, and Asia and the Pacific each host about 24",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new ILO report estimates that between 2017 and 2019 the number of international migrants has increased from 164 to 169 million. GENEVA (ILO News) \u2013 The number of international migrant workers globally has risen to 169 million, a rise of three per cent since 2017, according to the latest estimates from the International Labour Organization (ILO). The share of youth migrant workers (aged 15-24) has also increased, by almost 2 per cent, or 3.2 million, since 2017. Their number reached 16.8 million in 2019. The new report, ILO Global Estimates on International Migrant Workers: Results and Methodology , shows that in 2019, international migrant workers constituted nearly five per cent of the global labour force, making them an integral part of the world economy. Yet many migrant workers are often in temporary, informal or unprotected jobs, which expose them to a greater risk of insecurity, layoffs and worsening working conditions. The COVID-19 crisis has intensified these vulnerabilities, particularly for women migrant workers, as they are over-represented in low-paid and low-skilled jobs and have limited access to social protection and fewer options for support services. \u201cThe pandemic has exposed the precariousness of their situation. Migrant workers are often first to be laid-off, they experience difficulties in accessing treatment and they are often excluded from national COVID-19 policy responses,\u201d said Manuela Tomei, Director of the ILO Conditions of Work and Equality Department. More than two-thirds of international migrant workers are concentrated in high-income countries. Of the 169 million international migrant workers, 63.8 million (37.7 per cent) are in Europe and Central Asia. Another 43.3 million (25.6 per cent) are in the Americas. Hence, collectively, Europe and Central Asia and the Americas host 63.3 per cent of all migrant workers. The Arab States, and Asia and the Pacific each host about 24",
+  "date": "01 July 2021"
+}

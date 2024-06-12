@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ecd4af5a-5f40-4bb4-a040-88b05fcf0319",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.17067431629202126,
+        "human": 0.8088706581903004,
+        "mixed": 0.020455025517678402
+      },
+      "completely_generated_prob": 0.17067431629202126,
+      "confidence_category": "low",
+      "confidence_score": 0.8088706581903004,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.17067431629202126,
+          "human": 0.8088706581903004,
+          "mixed": 0.020455025517678402
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.51262092590332,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.3378176987171173,
+          "perplexity": 19,
+          "sentence": "The workshop was intended for the Ombudsperson's Office and sought to provide an opportunity for staff members to further strengthen their capacities and skills in the area of monitoring and reporting on the human rights situation in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3286449909210205,
+          "perplexity": 23,
+          "sentence": "The workshop covered topics such as the role of the NHRI in the protection and promotion of human rights, the implementation of the mandate of the Ombudsperson in line with Paris principles and other applicable international standards and understanding the different types of monitoring and reporting on them, as well as publishing annual and special reports, and recognizing the role of the NHRI in raising awareness to the general public on human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.3385010063648224,
+          "perplexity": 60,
+          "sentence": "The training was delivered by the former Ombudsman of Georgia, international consultant George Tugushi who has significant experience in the capacity building of the Ombudsman institutions all over the world, including in Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.33615976572036743,
+          "perplexity": 36,
+          "sentence": "During the workshop, participants also discussed important topics such as developing recommendations and monitoring their implementation, the role of Parliament in feeding in the work of the Ombudsman, the importance of human rights indicators in analyzing the human rights situation, unpacking the national human rights structures and SDGs, and the necessity to cooperate with civil society organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.28349679708480835,
+          "perplexity": 14,
+          "sentence": "The main goal of the project \u201cStrengthening the institutional capacity of the Ombudsperson's Office of Turkmenistan\u201d is to improve the promotion, protection and implementation of human rights in Turkmenistan by supporting efforts to reform national legislations in accordance with the international human rights commitments undertaken by Turkmenistan and to build the institutional capacity of the Ombudsperson's Office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.238656684756279,
+          "perplexity": 32,
+          "sentence": "This important initiative is supported by financial contribution of the Government of Canada and the Government of Finland.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The workshop was intended for the Ombudsperson\u2019s Office and sought to provide an opportunity for staff members to further strengthen their capacities and skills in the area of monitoring and reporting on the human rights situation in the country. The workshop covered topics such as the role of the NHRI in the protection and promotion of human rights, the implementation of the mandate of the Ombudsperson in line with Paris principles and other applicable international standards and understanding the different types of monitoring and reporting on them, as well as publishing annual and special reports, and recognizing the role of the NHRI in raising awareness to the general public on human rights. The training was delivered by the former Ombudsman of Georgia, international consultant George Tugushi who has significant experience in the capacity building of the Ombudsman institutions all over the world, including in Central Asia. During the workshop, participants also discussed important topics such as developing recommendations and monitoring their implementation, the role of Parliament in feeding in the work of the Ombudsman, the importance of human rights indicators in analyzing the human rights situation, unpacking the national human rights structures and SDGs, and the necessity to cooperate with civil society organizations. The main goal of the project \u201cStrengthening the institutional capacity of the Ombudsperson\u2019s Office of Turkmenistan\u201d is to improve the promotion, protection and implementation of human rights in Turkmenistan by supporting efforts to reform national legislations in accordance with the international human rights commitments undertaken by Turkmenistan and to build the institutional capacity of the Ombudsperson\u2019s Office. This important initiative is supported by financial contribution of the Government of Canada and the Government of Finland.",
+  "date": "19 March 2021"
+}

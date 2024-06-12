@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0e2fed92-2bec-43e0-afa4-dc333e2adfea",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.273696899414062,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03239620476961136,
+          "perplexity": 13,
+          "sentence": "I have just returned from five days in Yemen, where I traveled to Aden, Sana'a, and Hodeidah, to meet with communities, officials, and members of the UN family.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027723945677280426,
+          "perplexity": 60,
+          "sentence": "Four years of violent conflict in Yemen has reversed decades of development progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029012328013777733,
+          "perplexity": 10,
+          "sentence": "Fighting has killed or injured tens of thousands of civilians and displaced well over 3 million people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03035239316523075,
+          "perplexity": 13,
+          "sentence": "Eighty per cent of the population is in need of humanitarian assistance, with over 10 million on the brink of famine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028688842430710793,
+          "perplexity": 29,
+          "sentence": "The magnitude of the devastation and human suffering that I learned about and witnessed firsthand is difficult to comprehend.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028440261259675026,
+          "perplexity": 21,
+          "sentence": "War has brought the country's economy to a halt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026813335716724396,
+          "perplexity": 70,
+          "sentence": "Infrastructure and agriculture have been decimated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0270457174628973,
+          "perplexity": 43,
+          "sentence": "The national income has been cut in half.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02629559300839901,
+          "perplexity": 33,
+          "sentence": "Over a third of businesses have shuttered.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.026603519916534424,
+          "perplexity": 57,
+          "sentence": "60 percent of Yemenis are without jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025626594200730324,
+          "perplexity": 16,
+          "sentence": "Nearly five million children do not have access to education.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02796042338013649,
+          "perplexity": 21,
+          "sentence": "Yemen is now considered to be the largest humanitarian crisis in the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02708093449473381,
+          "perplexity": 28,
+          "sentence": "A recent study commissioned by UNDP has confirmed that progress on socio-economic indicators has been set back by over 20 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02540835551917553,
+          "perplexity": 113,
+          "sentence": "Far from building on previous achievements, development in Yemen is currently in descent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02619984932243824,
+          "perplexity": 67,
+          "sentence": "My message is therefore clear, the only viable solution for Yemen is peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024577787145972252,
+          "perplexity": 26,
+          "sentence": "One of the main objectives behind my visit to Yemen was to explore how development initiatives- alongside humanitarian support- can lead to peace and to discuss how the UN Development Programme, together with its partners and the international community, can work with all Yemenis to lay the foundation for a future with viable alternatives to war and chaos.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029366958886384964,
+          "perplexity": 26,
+          "sentence": "In the midst of the crisis, I saw the possibilities for a different future for Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02665349282324314,
+          "perplexity": 100,
+          "sentence": "In Aden, I discussed options for rebuilding vital government and economic institutions, with senior leaders in Government and the Central Bank,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "I have just returned from five days in Yemen, where I traveled to Aden, Sana\u2019a, and Hodeidah, to meet with communities, officials, and members of the UN family. Four years of violent conflict in Yemen has reversed decades of development progress. Fighting has killed or injured tens of thousands of civilians and displaced well over 3 million people. Eighty per cent of the population is in need of humanitarian assistance, with over 10 million on the brink of famine. The magnitude of the devastation and human suffering that I learned about and witnessed firsthand is difficult to comprehend. War has brought the country\u2019s economy to a halt. Infrastructure and agriculture have been decimated. The national income has been cut in half. Over a third of businesses have shuttered. 60 percent of Yemenis are without jobs. Nearly five million children do not have access to education. Yemen is now considered to be the largest humanitarian crisis in the world. A recent study commissioned by UNDP has confirmed that progress on socio-economic indicators has been set back by over 20 years. Far from building on previous achievements, development in Yemen is currently in descent. My message is therefore clear, the only viable solution for Yemen is peace. One of the main objectives behind my visit to Yemen was to explore how development initiatives- alongside humanitarian support- can lead to peace and to discuss how the UN Development Programme, together with its partners and the international community, can work with all Yemenis to lay the foundation for a future with viable alternatives to war and chaos. In the midst of the crisis, I saw the possibilities for a different future for Yemen. In Aden, I discussed options for rebuilding vital government and economic institutions, with senior leaders in Government and the Central Bank,",
+  "date": "30 July 2019"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f48dd781-03d1-453e-b29e-5a755cd40e7d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.011520035446262913,
+        "human": 0.9702029852399545,
+        "mixed": 0.018276979313782506
+      },
+      "completely_generated_prob": 0.011520035446262913,
+      "confidence_category": "high",
+      "confidence_score": 0.9702029852399545,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.011520035446262913,
+          "human": 0.9702029852399545,
+          "mixed": 0.018276979313782506
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 130.7834014892578,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.008562624454498291,
+          "perplexity": 33,
+          "sentence": "These include providing medical humanitarian assistance to Ukraine, helping communities in Donetsk and Luhansk oblasts to reduce the impact of COVID-19, delivering humanitarian assistance, and protecting internally displaced persons and people living near the contact line in government-controlled areas of Ukraine, as well as providing immediate help and rehabilitation during emergencies in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018672975711524487,
+          "perplexity": 16,
+          "sentence": "At the press conference held today in the Cabinet of Ministers, Vice Prime Minister of Ukraine Oleksiy Reznikov, in particular, stressed: \"First, on behalf of the Ministry of Reintegration, the Government and the people of Ukraine, I would like to thank the Government of Japan and our international partners - the ICRC and the UN - for their unwavering and consistent support to Ukraine at all levels, in particular for humanitarian aid provided to Donetsk and Luhansk oblasts, some parts of which are still under occupation, where people suffer from the effects of Russia's armed aggression, and where national and international humanitarian law is being violated on a daily basis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001307099824771285,
+          "perplexity": 29,
+          "sentence": "What the Government of Japan and our international partners are doing today is for the people, for the sake of people and about the people, and we will work in partnership with you to ensure a normal human life for all those who are in the war zone today.\u201d He reminded that last year the Government of Japan allocated $ 4.23 million to support Donetsk and Luhansk regions under various UN and ICRC programs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005050463951192796,
+          "perplexity": 31,
+          "sentence": "\"Japan, together with the UN and the ICRC, is already implementing a number of important projects: more than 400 houses affected by the fighting have been restored in Donetsk and Luhansk oblasts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004335549892857671,
+          "perplexity": 58,
+          "sentence": "Projects in the field of youth, education and community development were implemented, emergency care was provided within the health care system of servicemen in Ukraine, etc.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004039185296278447,
+          "perplexity": 352,
+          "sentence": "This year we can refer",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "These include providing medical humanitarian assistance to Ukraine, helping communities in Donetsk and Luhansk oblasts to reduce the impact of COVID-19, delivering humanitarian assistance, and protecting internally displaced persons and people living near the contact line in government-controlled areas of Ukraine, as well as providing immediate help and rehabilitation during emergencies in Ukraine. At the press conference held today in the Cabinet of Ministers, Vice Prime Minister of Ukraine Oleksiy Reznikov, in particular, stressed: \"First, on behalf of the Ministry of Reintegration, the Government and the people of Ukraine, I would like to thank the Government of Japan and our international partners - the ICRC and the UN - for their unwavering and consistent support to Ukraine at all levels, in particular for humanitarian aid provided to Donetsk and Luhansk oblasts, some parts of which are still under occupation, where people suffer from the effects of Russia's armed aggression, and where national and international humanitarian law is being violated on a daily basis. What the Government of Japan and our international partners are doing today is for the people, for the sake of people and about the people, and we will work in partnership with you to ensure a normal human life for all those who are in the war zone today.\u201d He reminded that last year the Government of Japan allocated $ 4.23 million to support Donetsk and Luhansk regions under various UN and ICRC programs. \"Japan, together with the UN and the ICRC, is already implementing a number of important projects: more than 400 houses affected by the fighting have been restored in Donetsk and Luhansk oblasts. Projects in the field of youth, education and community development were implemented, emergency care was provided within the health care system of servicemen in Ukraine, etc. This year we can refer",
+  "date": "14 May 2021"
+}

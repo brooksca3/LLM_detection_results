@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fd077f3f-3238-4a53-9ccf-78b67320c53b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094120403146989,
+        "human": 0.990328017353712,
+        "mixed": 0.0005778622431410055
+      },
+      "completely_generated_prob": 0.009094120403146989,
+      "confidence_category": "high",
+      "confidence_score": 0.990328017353712,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094120403146989,
+          "human": 0.990328017353712,
+          "mixed": 0.0005778622431410055
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.579829216003418,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0007884646765887737,
+          "perplexity": 36,
+          "sentence": "The future of 800 million children across Asia at risk as their education has been severely affected by At least 27 million students in the region were not able to attend any in-school education since the beginning of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000341265753377229,
+          "perplexity": 28,
+          "sentence": "BANGKOK/KATHMANDU, 19 October 2021 \u1173 The education of more than 800 million children - 400 million in South Asia, 260 million in East Asia and 140 million in Southeast Asia - across Asia has been disrupted due to school closures since the start of the COVID-19 pandemic in early 2020, and of that number, more than 27 million children have been waiting for more than a year to return to their classrooms, according to the report, 'Situation Analysis on the Effects and Responses to COVID-19 on the Education Sector in Asia' (hereafter 'Report' or 'SitAn Report'), released today by UNICEF and UNESCO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006133759743534029,
+          "perplexity": 54,
+          "sentence": "The Report highlights the continued impact of the pandemic on children's education and features various regional government's programmes and initiatives to respond to it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003158284234814346,
+          "perplexity": 27,
+          "sentence": "At a time of the year when children traditionally should have returned to school from annual holidays, the report urges governments to reopen schools as soon as it is safe to do so.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002701750199776143,
+          "perplexity": 64,
+          "sentence": "Responding to the advent and spread of the pandemic in 2020, schools in Asia were fully closed on average for 50 per cent of teaching days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020368782861623913,
+          "perplexity": 52,
+          "sentence": "In some countries, for example the Philippines schools have been closed throughout the entire pandemic to date, leaving an estimated 27 million students in pre-primary to secondary education without any in-person learning, a continuous period running from early 2020 to the present for over a year and counting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019685870211105794,
+          "perplexity": 46,
+          "sentence": "In Bangladesh, schools have been closed throughout the entire pandemic until 12 September, when they reopened again.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020451433374546468,
+          "perplexity": 25,
+          "sentence": "Even now, as the world enters the last quarter of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The future of 800 million children across Asia at risk as their education has been severely affected by At least 27 million students in the region were not able to attend any in-school education since the beginning of the pandemic. BANGKOK/KATHMANDU, 19 October 2021 \u2014 The education of more than 800 million children \u2013 400 million in South Asia, 260 million in East Asia and 140 million in Southeast Asia \u2013 across Asia has been disrupted due to school closures since the start of the COVID-19 pandemic in early 2020, and of that number, more than 27 million children have been waiting for more than a year to return to their classrooms, according to the report, \u2018Situation Analysis on the Effects and Responses to COVID-19 on the Education Sector in Asia\u2019 (hereafter \u2018Report\u2019 or \u2018SitAn Report\u2019), released today by UNICEF and UNESCO. The Report highlights the continued impact of the pandemic on children\u2019s education and features various regional government\u2019s programmes and initiatives to respond to it. At a time of the year when children traditionally should have returned to school from annual holidays, the report urges governments to reopen schools as soon as it is safe to do so. Responding to the advent and spread of the pandemic in 2020, schools in Asia were fully closed on average for 50 per cent of teaching days. In some countries, for example the Philippines schools have been closed throughout the entire pandemic to date, leaving an estimated 27 million students in pre-primary to secondary education without any in-person learning, a continuous period running from early 2020 to the present for over a year and counting. In Bangladesh, schools have been closed throughout the entire pandemic until 12 September, when they reopened again. Even now, as the world enters the last quarter of",
+  "date": "19 October 2021"
+}

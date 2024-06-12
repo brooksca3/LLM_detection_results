@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "30077c5a-fad4-46b1-8e88-622c507e17c3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 16.08311653137207,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001623184361960739,
+          "perplexity": 44,
+          "sentence": "UNICEF has donated medical supplies comprising personal protective equipment (PPE) to the Ministry of Health in support of Jordan's national response to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001567774306749925,
+          "perplexity": 85,
+          "sentence": "The handover of supplies took place in Zarqa in the presence of UNICEF Jordan Representative Tanya Chapuisat and Ministry of Health officials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001603579439688474,
+          "perplexity": 33,
+          "sentence": "The protective equipment to keep healthcare workers safe includes 500,000 surgical masks, 10,000 face shields and 10,000 goggles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015640025958418846,
+          "perplexity": 39,
+          "sentence": "In total, UNICEF is donating $2.7 million worth of medical supplies to the Government of Jordan as part of the UN multiagency support for the National COVID-19 Preparedness and Response Plan 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019115241593681276,
+          "perplexity": 38,
+          "sentence": "\u201cUNICEF is extremely grateful to the healthcare professionals who have worked so hard to keep children and their families in Jordan safe and protected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001604058052180335,
+          "perplexity": 63,
+          "sentence": "We are proud to contribute these supplies to help ensure that they are protected while they do their job and to support the Ministry of Health in their response efforts,\u201d Chapuisat said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014446882414631546,
+          "perplexity": 37,
+          "sentence": "Since the outbreak, UNICEF has scaled up support to the Ministry of Health to provide critical health supplies including one million surgical caps and boot covers, as well as surgical gowns, face shields and hand sanitiser for healthcare facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014828884741291404,
+          "perplexity": 35,
+          "sentence": "The supplies have been locally procured, while further essential supplies to support the national health response have been procured through UNICEF's global supply chain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013686789316125214,
+          "perplexity": 44,
+          "sentence": "To minimise the risks of the pandemic to children, UNICEF is also supporting the Ministry of Health's resumption of routine immunisation and newborn screenings to give every child \u201cthe best start in life\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013073526497464627,
+          "perplexity": 52,
+          "sentence": "In addition, UNICEF is scaling up its work with the MOH to strengthen the primary healthcare system by supporting a network of community health volunteers to deliver medications to close to 14,000 people in Mafraq, Irbid, Jerash, Ajloun and Zarqa.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UNICEF has donated medical supplies comprising personal protective equipment (PPE) to the Ministry of Health in support of Jordan\u2019s national response to COVID-19. The handover of supplies took place in Zarqa in the presence of UNICEF Jordan Representative Tanya Chapuisat and Ministry of Health officials. The protective equipment to keep healthcare workers safe includes 500,000 surgical masks, 10,000 face shields and 10,000 goggles. In total, UNICEF is donating $2.7 million worth of medical supplies to the Government of Jordan as part of the UN multiagency support for the National COVID-19 Preparedness and Response Plan 2020. \u201cUNICEF is extremely grateful to the healthcare professionals who have worked so hard to keep children and their families in Jordan safe and protected. We are proud to contribute these supplies to help ensure that they are protected while they do their job and to support the Ministry of Health in their response efforts,\u201d Chapuisat said. Since the outbreak, UNICEF has scaled up support to the Ministry of Health to provide critical health supplies including one million surgical caps and boot covers, as well as surgical gowns, face shields and hand sanitiser for healthcare facilities. The supplies have been locally procured, while further essential supplies to support the national health response have been procured through UNICEF\u2019s global supply chain. To minimise the risks of the pandemic to children, UNICEF is also supporting the Ministry of Health\u2019s resumption of routine immunisation and newborn screenings to give every child \u201cthe best start in life\u201d. In addition, UNICEF is scaling up its work with the MOH to strengthen the primary healthcare system by supporting a network of community health volunteers to deliver medications to close to 14,000 people in Mafraq, Irbid, Jerash, Ajloun and Zarqa.",
+  "date": "04 June 2020"
+}

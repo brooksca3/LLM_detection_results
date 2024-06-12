@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "239ac870-7f5c-4a66-b150-ea7ccec647ac",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 33.14345932006836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00043090939288958907,
+          "perplexity": 23,
+          "sentence": "FAO and MNFSR collaborate to bring innovative financing in agricultural research A consultative workshop on Innovative Financing for Agricultural Research was jointly organized by Ministry of National Food Security and Research (MNFSR) and the Food and Agriculture Organization of the United Nations (FAO) to provide an opportunity to look at examples of financial mechanisms for research in Pakistan and around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034793009399436414,
+          "perplexity": 112,
+          "sentence": "Federal Minister for National Food Security and Research, Mr Syed Fakhar Imam attended the workshop as a chief guest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000331670482410118,
+          "perplexity": 38,
+          "sentence": "Financing models of Pakistanis agricultural research institutions as well as research institutions from leading agricultural countries such as Australian Rural Research and Development Corporations, Brazilian Agriculture Research Corporation, European Union, Consultative Group on International Agricultural Research, United States Department of Agriculture and Chinese Academy of Agricultural Sciences were looked into in order to identify possible way forward for the research in Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004824851348530501,
+          "perplexity": 60,
+          "sentence": "The spending on research and development has reduced from 1991 to 2012 in Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044047017581760883,
+          "perplexity": 22,
+          "sentence": "The impact can been seen on the per hectare production of major crops like wheat, rice, sugarcane, cotton and maize.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004105343541596085,
+          "perplexity": 112,
+          "sentence": "Resultantly, Pakistan is losing the competitiveness in the international market for these crops.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003616886679083109,
+          "perplexity": 55,
+          "sentence": "Import of cotton for textile has increased and import of food items has also increased.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039951459621079266,
+          "perplexity": 54,
+          "sentence": "This workshop provided an opportunity to explore more options to pool resources for research and development to improve production and competitiveness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003211320727132261,
+          "perplexity": 65,
+          "sentence": "Federal Minister for National Food Security and Research, Mr Syed Fakhar Imam said that the workshop would provide an opportunity to national and international experts to discuss various financial mechanisms and how we can evolve a pragmatic financial mechanism for our research institutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038539586239494383,
+          "perplexity": 95,
+          "sentence": "FAO Representative in Pakistan, Ms. Florence Rolle, while thanking Mr. Fakhar Imam for asking FAO to undertake an assessment of PARC and PCCC, emphasized the importance of investing in agricultural research",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "FAO and MNFSR collaborate to bring innovative financing in agricultural research A consultative workshop on Innovative Financing for Agricultural Research was jointly organized by Ministry of National Food Security and Research (MNFSR) and the Food and Agriculture Organization of the United Nations (FAO) to provide an opportunity to look at examples of financial mechanisms for research in Pakistan and around the world. Federal Minister for National Food Security and Research, Mr Syed Fakhar Imam attended the workshop as a chief guest. Financing models of Pakistanis agricultural research institutions as well as research institutions from leading agricultural countries such as Australian Rural Research and Development Corporations, Brazilian Agriculture Research Corporation, European Union, Consultative Group on International Agricultural Research, United States Department of Agriculture and Chinese Academy of Agricultural Sciences were looked into in order to identify possible way forward for the research in Pakistan. The spending on research and development has reduced from 1991 to 2012 in Pakistan. The impact can been seen on the per hectare production of major crops like wheat, rice, sugarcane, cotton and maize. Resultantly, Pakistan is losing the competitiveness in the international market for these crops. Import of cotton for textile has increased and import of food items has also increased. This workshop provided an opportunity to explore more options to pool resources for research and development to improve production and competitiveness. Federal Minister for National Food Security and Research, Mr Syed Fakhar Imam said that the workshop would provide an opportunity to national and international experts to discuss various financial mechanisms and how we can evolve a pragmatic financial mechanism for our research institutions. FAO Representative in Pakistan, Ms. Florence Rolle, while thanking Mr. Fakhar Imam for asking FAO to undertake an assessment of PARC and PCCC, emphasized the importance of investing in agricultural research",
+  "date": "09 September 2021"
+}

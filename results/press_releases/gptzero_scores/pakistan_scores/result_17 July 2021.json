@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "82bdfb92-0c49-4733-9cf8-f69bd5544678",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020842712845733726,
+        "human": 0.99743094510822,
+        "mixed": 0.0004847836072068115
+      },
+      "completely_generated_prob": 0.0020842712845733726,
+      "confidence_category": "high",
+      "confidence_score": 0.99743094510822,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020842712845733726,
+          "human": 0.99743094510822,
+          "mixed": 0.0004847836072068115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 233.77452087402344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00010444752842886373,
+          "perplexity": 229,
+          "sentence": "Five million of COVID-19 vaccines have been delivered in Islamabad by the COVAX facility's global COVID-19 vaccine equity scheme so far.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001110024459194392,
+          "perplexity": 74,
+          "sentence": "ISLAMABAD, 17 July 2021 - Today 1,236,000 million doses of AstraZeneca COVID-19 vaccines reached Islamabad through the COVAX Facility, bringing the total number of doses delivered by the global COVID-19 vaccine equity scheme in Pakistan to five million so far.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010485026723472401,
+          "perplexity": 41,
+          "sentence": "Since May, 2.4 million doses of AstraZeneca, 100,160 doses of Pfizer and 2.5 million doses of Moderna, the latter donated by the United States under the dose-sharing mechanism, have been delivered to Pakistan via COVAX.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011948948667850345,
+          "perplexity": 856,
+          "sentence": "\u201cWHO applauds Pakistan's globally recognized COVID-19 vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012709901784546673,
+          "perplexity": 93,
+          "sentence": "It is a remarkable achievement that COVID-19 vaccines are equitably made available to people even in the remotest areas of Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011279717000434175,
+          "perplexity": 107,
+          "sentence": "The vaccine roll-out has helped prevent COVID-19 infections, with its associated risk of hospitalization and death, and has reduced pressure on healthcare system, \u201csaid Dr. Palitha Mahipala, WHO Representative in Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010605826537357643,
+          "perplexity": 139,
+          "sentence": "\u201cWHO will continue supporting the Government of Pakistan in setting up essential systems for swift and safe administration of vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010332414967706427,
+          "perplexity": 209,
+          "sentence": "On behalf of COVAX Facility, I reiterate that we will support Government of Pakistan with COVID -19 vaccines for around 20% of the population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.890588989946991e-05,
+          "perplexity": 51,
+          "sentence": "The vaccines will support the Government of Pakistan's ongoing COVID-19 vaccination drive which started in February, one year after the first case was reported in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010146792919840664,
+          "perplexity": 41,
+          "sentence": "More than 4.5 million people have been fully vaccinated, and more than 18 million people partially vaccinated against the coronavirus COVID-19 so far.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010576508793747053,
+          "perplexity": 36,
+          "sentence": "One million cases of COVID-19 have been reported and nearly 23,000 people have succumbed to the disease.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012622457870747894,
+          "perplexity": 49,
+          "sentence": "\u201cThis latest delivery comes at a critical time as the Government of Pakistan intensifies its vaccination campaign across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011229265510337427,
+          "perplexity": 457,
+          "sentence": "UNICEF is supporting global COVID-19 vaccination efforts through COVAX to maximize supply and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Five million of COVID-19 vaccines have been delivered in Islamabad by the COVAX facility\u2019s global COVID-19 vaccine equity scheme so far. ISLAMABAD, 17 July 2021 \u2013 Today 1,236,000 million doses of AstraZeneca COVID-19 vaccines reached Islamabad through the COVAX Facility, bringing the total number of doses delivered by the global COVID-19 vaccine equity scheme in Pakistan to five million so far. Since May, 2.4 million doses of AstraZeneca, 100,160 doses of Pfizer and 2.5 million doses of Moderna, the latter donated by the United States under the dose-sharing mechanism, have been delivered to Pakistan via COVAX. \u201cWHO applauds Pakistan\u2019s globally recognized COVID-19 vaccination campaign. It is a remarkable achievement that COVID-19 vaccines are equitably made available to people even in the remotest areas of Pakistan. The vaccine roll-out has helped prevent COVID-19 infections, with its associated risk of hospitalization and death, and has reduced pressure on healthcare system, \u201csaid Dr. Palitha Mahipala, WHO Representative in Pakistan. \u201cWHO will continue supporting the Government of Pakistan in setting up essential systems for swift and safe administration of vaccines. On behalf of COVAX Facility, I reiterate that we will support Government of Pakistan with COVID -19 vaccines for around 20% of the population. The vaccines will support the Government of Pakistan\u2019s ongoing COVID-19 vaccination drive which started in February, one year after the first case was reported in the country. More than 4.5 million people have been fully vaccinated, and more than 18 million people partially vaccinated against the coronavirus COVID-19 so far. One million cases of COVID-19 have been reported and nearly 23,000 people have succumbed to the disease. \u201cThis latest delivery comes at a critical time as the Government of Pakistan intensifies its vaccination campaign across the country. UNICEF is supporting global COVID-19 vaccination efforts through COVAX to maximize supply and",
+  "date": "17 July 2021"
+}

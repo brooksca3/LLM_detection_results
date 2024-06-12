@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d9811246-9f06-424b-bd52-81743d9f1812",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05286052258376576,
+        "human": 0.932372093329341,
+        "mixed": 0.01476738408689329
+      },
+      "completely_generated_prob": 0.05286052258376576,
+      "confidence_category": "medium",
+      "confidence_score": 0.932372093329341,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05286052258376576,
+          "human": 0.932372093329341,
+          "mixed": 0.01476738408689329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.5233268737793,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00033120758598670363,
+          "perplexity": 43,
+          "sentence": "18 October 2022, Babylon- Under the patronage of the Ministry of Agriculture, the World Food Day was celebrated jointly with FAO Iraq at Al-Mustaqbal University College in Babel Governorate as part of the Future Forum for Sustainable Agriculture event with the slogan \u201cSustainable Rural Agricultural Development, the Way to Achieving Food and Eradicating Poverty\u201d with the presence of the Deputy Minister of Agriculture, Prof. Dr. Mahdi Sahar Al-Jubouri, the Dean of the Faculty of Al-Mustaqbal University, Dr. Hassan Shaker Magdy and FAO Iraq Representative, Dr. Salah El-Hajj Hassan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032835413003340364,
+          "perplexity": 51,
+          "sentence": "A number of agricultural producing companies, farmers, the local community, representatives from academia and government attended the event and discussed the food security situation in Iraq and the world and visited the exhibition of locally produced agricultural products in Iraq and within the University College Dr. Salah Elhajj Hassan, FAO Representative in Iraq highlighted the importance of the World Food Day and the greatest challenges to overcome food insecurity for all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1437709480524063,
+          "perplexity": 39,
+          "sentence": "\u201cFrom 2008 to 2018, globally, agriculture, including crops, livestock, forestry, fisheries and aquaculture, absorbed 26% of the overall impact caused by medium-to-large scale disasters and Iraq is one of the country most affected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2214057892560959,
+          "perplexity": 137,
+          "sentence": "He added that \u201cHigh salinity and drought are a serious threat to Iraq ecosystem in the south, especially the marshes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.20771482586860657,
+          "perplexity": 45,
+          "sentence": "The ancient Mesopotamia, the cradle of human civilization where farmers depended for thousands of years on fishing and raising buffaloes in the fertile aquatic marshes, is under the threat of water scarcity and the deterioration of its quality; we need to act jointly to address these challenges.\u201d The Deputy of the Ministry of Agriculture, Mahdi Sahar Al-Jubouri indicated that there is a significant decline in the cultivated areas due to a shortage water revenue.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.2220562845468521,
+          "perplexity": 51,
+          "sentence": "Therefore, he stressed the continuation of work and negotiations to reach a joint agreement",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "18 October 2022, Babylon- Under the patronage of the Ministry of Agriculture, the World Food Day was celebrated jointly with FAO Iraq at Al-Mustaqbal University College in Babel Governorate as part of the Future Forum for Sustainable Agriculture event with the slogan \u201cSustainable Rural Agricultural Development, the Way to Achieving Food and Eradicating Poverty\u201d with the presence of the Deputy Minister of Agriculture, Prof. Dr. Mahdi Sahar Al-Jubouri, the Dean of the Faculty of Al-Mustaqbal University, Dr. Hassan Shaker Magdy and FAO Iraq Representative, Dr. Salah El-Hajj Hassan. A number of agricultural producing companies, farmers, the local community, representatives from academia and government attended the event and discussed the food security situation in Iraq and the world and visited the exhibition of locally produced agricultural products in Iraq and within the University College Dr. Salah Elhajj Hassan, FAO Representative in Iraq highlighted the importance of the World Food Day and the greatest challenges to overcome food insecurity for all. \u201cFrom 2008 to 2018, globally, agriculture, including crops, livestock, forestry, fisheries and aquaculture, absorbed 26% of the overall impact caused by medium-to-large scale disasters and Iraq is one of the country most affected. He added that \u201cHigh salinity and drought are a serious threat to Iraq ecosystem in the south, especially the marshes. The ancient Mesopotamia, the cradle of human civilization where farmers depended for thousands of years on fishing and raising buffaloes in the fertile aquatic marshes, is under the threat of water scarcity and the deterioration of its quality; we need to act jointly to address these challenges.\u201d The Deputy of the Ministry of Agriculture, Mahdi Sahar Al-Jubouri indicated that there is a significant decline in the cultivated areas due to a shortage water revenue. Therefore, he stressed the continuation of work and negotiations to reach a joint agreement",
+  "date": "19 October 2022"
+}

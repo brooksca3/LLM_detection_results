@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f8a074e9-ec75-4fbc-8297-dfed4bf517b1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030685030568707358,
+        "human": 0.9687830195294522,
+        "mixed": 0.0005319499018404629
+      },
+      "completely_generated_prob": 0.030685030568707358,
+      "confidence_category": "high",
+      "confidence_score": 0.9687830195294522,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030685030568707358,
+          "human": 0.9687830195294522,
+          "mixed": 0.0005319499018404629
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.192407608032227,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.009418985806405544,
+          "perplexity": 25,
+          "sentence": "GENEVA (3 September 2019) - UN human rights experts* have expressed grave concerns about the use of incommunicado detention by the military in Myanmar, along with allegations of torture and ill-treatment and deaths in custody since the outbreak of armed conflict in December 2018 in northern Rakhine and Chin.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011221237480640411,
+          "perplexity": 44,
+          "sentence": "\u201cThe practice of incommunicado detention must be immediately brought to an end.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011547465808689594,
+          "perplexity": 35,
+          "sentence": "Detainees' right to a fair trial, including access to a lawyer, must be upheld,\u201d the experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010461684316396713,
+          "perplexity": 46,
+          "sentence": "\u201cThere must be a credible independent investigation into the allegations of torture and inhuman treatment, deaths in custody, and reliance on forced confessions in cases involving Arakan Army-related allegations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010345958173274994,
+          "perplexity": 51,
+          "sentence": "All perpetrators of such violations must be held accountable.\u201d The experts cited the case of Naing Aung Htun, who was held in incommunicado detention from 8-21 August and allegedly given electric shocks by soldiers, after which he confessed to having ties to the Arakan Army insurgent group.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011147767305374146,
+          "perplexity": 90,
+          "sentence": "\u201cWe are distressed by the use of incommunicado detention where individuals are suspected of being associates of the Arakan Army,\u201d the UN experts said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011019104160368443,
+          "perplexity": 29,
+          "sentence": "\u201cIt is essential for detained people to be able to communicate with the outside world, especially with family members and their lawyer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009249498136341572,
+          "perplexity": 37,
+          "sentence": "We are especially concerned because incommunicado detention may facilitate torture.\u201d The experts' concern about the use of incommunicado detention is heightened because of the reports received regarding at least 15 deaths in custody of men alleged to be associates of the Arakan Army.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010105805471539497,
+          "perplexity": 21,
+          "sentence": "The military has said that it is investigating these deaths, and the experts call on it to make the results of that investigation public and to hold any perpetrators accountable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008293147198855877,
+          "perplexity": 60,
+          "sentence": "Naing Aung Htun was among inhabitants of Kyaukyan village in Buthidaung, northern Rakhine, as well as around 50 others displaced from neighbouring villages, who were rounded up",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA (3 September 2019) - UN human rights experts* have expressed grave concerns about the use of incommunicado detention by the military in Myanmar, along with allegations of torture and ill-treatment and deaths in custody since the outbreak of armed conflict in December 2018 in northern Rakhine and Chin. \u201cThe practice of incommunicado detention must be immediately brought to an end. Detainees\u2019 right to a fair trial, including access to a lawyer, must be upheld,\u201d the experts said. \u201cThere must be a credible independent investigation into the allegations of torture and inhuman treatment, deaths in custody, and reliance on forced confessions in cases involving Arakan Army-related allegations. All perpetrators of such violations must be held accountable.\u201d The experts cited the case of Naing Aung Htun, who was held in incommunicado detention from 8-21 August and allegedly given electric shocks by soldiers, after which he confessed to having ties to the Arakan Army insurgent group. \u201cWe are distressed by the use of incommunicado detention where individuals are suspected of being associates of the Arakan Army,\u201d the UN experts said. \u201cIt is essential for detained people to be able to communicate with the outside world, especially with family members and their lawyer. We are especially concerned because incommunicado detention may facilitate torture.\u201d The experts\u2019 concern about the use of incommunicado detention is heightened because of the reports received regarding at least 15 deaths in custody of men alleged to be associates of the Arakan Army. The military has said that it is investigating these deaths, and the experts call on it to make the results of that investigation public and to hold any perpetrators accountable. Naing Aung Htun was among inhabitants of Kyaukyan village in Buthidaung, northern Rakhine, as well as around 50 others displaced from neighbouring villages, who were rounded up",
+  "date": "06 September 2019"
+}

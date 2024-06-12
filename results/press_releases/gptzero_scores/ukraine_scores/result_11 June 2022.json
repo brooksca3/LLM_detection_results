@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "04219313-7c96-40db-8920-354ebcd4cf0f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 46.410179138183594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015805583097971976,
+          "perplexity": 84,
+          "sentence": "Kyiv, 11 June 2022 - Today, WHO Representative in Ukraine Dr Jarno Habicht together with the Deputy Minister of Health of Ukraine Iryna Mykychak visited Moshchun, Bucha and Havrylivka - settlements of Kyiv region, where the majority of hospitals damaged, outpatient clinics destroyed during the war that led to disruption of access to essential health services and significant challenges in obtaining medical care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002055040095001459,
+          "perplexity": 33,
+          "sentence": "According to WHO estimates, more than every third adult in Ukraine have health problems, caused by chronic noncommunicable diseases, and require systematic health care coverage, including counselling and medical support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001548932632431388,
+          "perplexity": 96,
+          "sentence": "The approximate number of people with chronic conditions in Bucha municipality (Kyiv oblast) accounts for around 10 000 people and up to 20 000 people in Gostomel, Borodyanka and Dymer communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014946852752473205,
+          "perplexity": 47,
+          "sentence": "To ensure access to primary health care and medicines in the affected areas of Kyiv region, WHO in Ukraine in partnership with the Ministry of Health and the Ukrainian Academy of Family Medicine initiated a project to support primary health care system in the format of mobile health units to bring essential health services closer to the people of Gostomel, Makariv, Borodyanka, Dymer, Ivankov and other surrounding communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014788188855163753,
+          "perplexity": 172,
+          "sentence": "\u201cWHO is extending primary health care services in the communities of Kyiv oblast, severely affected by war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012800611148122698,
+          "perplexity": 65,
+          "sentence": "Working closely with the Ministry of Health of Ukraine and Ukrainian Academy of Family Medicine, we facilitate access to essential medical services and medicines to people in Bucha, Irpin, Gostomel, Borodyanka and other hard-hit areas in the region through establishment and operation of mobile health units, which will conduct over 120 community visits and over 1500 primary health care consultations for war-affected patients over the coming months,\u201d said Dr Jarno Habicht, WHO Representative in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016388077347073704,
+          "perplexity": 54,
+          "sentence": "\u201cA full-scale war is ongoing in Ukraine, our brave people are defending our land every day.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Kyiv, 11 June 2022 \u2013 Today, WHO Representative in Ukraine Dr Jarno Habicht together with the Deputy Minister of Health of Ukraine Iryna Mykychak visited Moshchun, Bucha and Havrylivka - settlements of Kyiv region, where the majority of hospitals damaged, outpatient clinics destroyed during the war that led to disruption of access to essential health services and significant challenges in obtaining medical care. According to WHO estimates, more than every third adult in Ukraine have health problems, caused by chronic noncommunicable diseases, and require systematic health care coverage, including counselling and medical support. The approximate number of people with chronic conditions in Bucha municipality (Kyiv oblast) accounts for around 10 000 people and up to 20 000 people in Gostomel, Borodyanka and Dymer communities. To ensure access to primary health care and medicines in the affected areas of Kyiv region, WHO in Ukraine in partnership with the Ministry of Health and the Ukrainian Academy of Family Medicine initiated a project to support primary health care system in the format of mobile health units to bring essential health services closer to the people of Gostomel, Makariv, Borodyanka, Dymer, Ivankov and other surrounding communities. \u201cWHO is extending primary health care services in the communities of Kyiv oblast, severely affected by war. Working closely with the Ministry of Health of Ukraine and Ukrainian Academy of Family Medicine, we facilitate access to essential medical services and medicines to people in Bucha, Irpin, Gostomel, Borodyanka and other hard-hit areas in the region through establishment and operation of mobile health units, which will conduct over 120 community visits and over 1500 primary health care consultations for war-affected patients over the coming months,\u201d said Dr Jarno Habicht, WHO Representative in Ukraine. \u201cA full-scale war is ongoing in Ukraine, our brave people are defending our land every day.",
+  "date": "11 June 2022"
+}

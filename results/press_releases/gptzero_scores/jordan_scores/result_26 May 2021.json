@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2fceb45e-eec9-4357-b4af-706c692fefcf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.958030700683594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001396670995745808,
+          "perplexity": 95,
+          "sentence": "Secretary-General to commemorate fallen peacekeepers, and honour Kenyan peacekeeper as Military Gender Advocate of the Year UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015858630649745464,
+          "perplexity": 17,
+          "sentence": "Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018357703811489046,
+          "perplexity": 44,
+          "sentence": "Among those to be posthumously awarded the Dag Hammarskjold medal are two civilian peacekeepers from Jordan: Mr. Shaker I.H.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000164797471370548,
+          "perplexity": 127,
+          "sentence": "Alkhyami and Mr. Ziad Mohd Hussein Abu Sakran who both served in the African Union - United Nations Hybrid Operation in Darfur, (UNAMID).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000275140831945464,
+          "perplexity": 24,
+          "sentence": "In a message to mark the Day, the Secretary-General said of the fallen peacekeepers: \u201cTheir service and sacrifices will never be forgotten.\u201d He further said: \u201cI express my deep gratitude to the 85,000 civilian, police and military personnel currently deployed in some of the world's most challenging hotspots to protect the vulnerable and help to build peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002581407898105681,
+          "perplexity": 44,
+          "sentence": "Despite the restrictions imposed by the pandemic, as well as the risk of infection, these men and women have pursued their mission while also supporting local authorities in the fight against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003069133381359279,
+          "perplexity": 21,
+          "sentence": "I offer sincere condolences to the families of peacekeepers who have fallen victim to this terrible disease.\u201d Jean-Pierre Lacroix, Under-Secretary-General for Peace Operations, said: \u201cWe salute the dedication and bravery of our peacekeepers, who serve and perform admirably in challenging environments only compounded by the ongoing pandemic\u201d He added: \u201cOur peacekeepers deserve our full support, and we must continue to work together to do all we can to improve their safety and security",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Secretary-General to commemorate fallen peacekeepers, and honour Kenyan peacekeeper as Military Gender Advocate of the Year UN Headquarters will observe the International Day of United Nations Peacekeepers on Thursday, 27 May 2021. Secretary-General Ant\u00f3nio Guterres will lay a wreath to honour the more than 4,000 UN peacekeepers who have lost their lives since 1948 and will preside over a ceremony at which the Dag Hammarskj\u00f6ld Medal will be awarded posthumously to 129 military, police and civilian peacekeepers, who lost their life serving under the UN flag last year and in the first month of this year. Among those to be posthumously awarded the Dag Hammarskjold medal are two civilian peacekeepers from Jordan: Mr. Shaker I.H. Alkhyami and Mr. Ziad Mohd Hussein Abu Sakran who both served in the African Union \u2013 United Nations Hybrid Operation in Darfur, (UNAMID). In a message to mark the Day, the Secretary-General said of the fallen peacekeepers: \u201cTheir service and sacrifices will never be forgotten.\u201d He further said: \u201cI express my deep gratitude to the 85,000 civilian, police and military personnel currently deployed in some of the world\u2019s most challenging hotspots to protect the vulnerable and help to build peace. Despite the restrictions imposed by the pandemic, as well as the risk of infection, these men and women have pursued their mission while also supporting local authorities in the fight against COVID-19. I offer sincere condolences to the families of peacekeepers who have fallen victim to this terrible disease.\u201d Jean-Pierre Lacroix, Under-Secretary-General for Peace Operations, said: \u201cWe salute the dedication and bravery of our peacekeepers, who serve and perform admirably in challenging environments only compounded by the ongoing pandemic\u201d He added: \u201cOur peacekeepers deserve our full support, and we must continue to work together to do all we can to improve their safety and security",
+  "date": "26 May 2021"
+}

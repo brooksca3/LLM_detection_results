@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "549fb5b8-1c9c-4763-8e74-7b27c83a190f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 87.35130310058594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003888889623340219,
+          "perplexity": 23,
+          "sentence": "The United Nations Development Programme, in partnership with the Jordan Health Aid Society (JHAS) and coordination with the Ministry of Health and Al Basheer Hospital, has erected a triage tent in the entrance of Al Basheer Hospital to assist the hospital in dealing with incoming emergency cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035008194390684366,
+          "perplexity": 93,
+          "sentence": "Al Basheer Public Hospital has been receiving an increased number of cases as Amman's other major public health facility, Prince Hamzeh Hospital, has been assigned to exclusively treat COVID-19 cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004037584294565022,
+          "perplexity": 117,
+          "sentence": "The tent would help relieve pressure on Al Basheer by taking 800 patients daily who are not infected with the virus but need other medical care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035101702087558806,
+          "perplexity": 194,
+          "sentence": "UNDP Resident Representative, Sara Ferrer Olivella said Jordan's public health sector has been under intense pressure to deal with testing and treatment of COVID-19 cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003961763286497444,
+          "perplexity": 39,
+          "sentence": "\u201cThis pandemic is an unprecedented health crisis, and it is also a humanitarian and development crisis,\u201d she said, adding \u201cUNDP's support in partnership with national partners in Jordan seeks to strengthen the health systems, by preventing the spread of the virus.\u201d \u201cThere are the COVID-19 cases, but there are thousands of other cases that also need care and should not be left behind,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003695848863571882,
+          "perplexity": 23,
+          "sentence": "Director of Al-Bashir Hospital, Dr. Mahmoud Zureikat said that the establishment of the tent will enhance the hospital's ability to deal with the large number of patients that come to the emergency room, and will help in classifying sick cases while preventing the spread of infection of all kinds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032206473406404257,
+          "perplexity": 88,
+          "sentence": "He added that the tent is manned by the medical and nursing staff of all specialities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003401720314286649,
+          "perplexity": 125,
+          "sentence": "Zureikat praised the initiative to establish and equip this tent by Jordanian Health Aid Society and with support from the UNDP, emphasizing on the importance of government, civil society and UN partnership in responding to immediate challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003609126142691821,
+          "perplexity": 291,
+          "sentence": "The tent, according to President",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Development Programme, in partnership with the Jordan Health Aid Society (JHAS) and coordination with the Ministry of Health and Al Basheer Hospital, has erected a triage tent in the entrance of Al Basheer Hospital to assist the hospital in dealing with incoming emergency cases. Al Basheer Public Hospital has been receiving an increased number of cases as Amman\u2019s other major public health facility, Prince Hamzeh Hospital, has been assigned to exclusively treat COVID-19 cases. The tent would help relieve pressure on Al Basheer by taking 800 patients daily who are not infected with the virus but need other medical care. UNDP Resident Representative, Sara Ferrer Olivella said Jordan's public health sector has been under intense pressure to deal with testing and treatment of COVID-19 cases. \u201cThis pandemic is an unprecedented health crisis, and it is also a humanitarian and development crisis,\u201d she said, adding \u201cUNDP\u2019s support in partnership with national partners in Jordan seeks to strengthen the health systems, by preventing the spread of the virus.\u201d \u201cThere are the COVID-19 cases, but there are thousands of other cases that also need care and should not be left behind,\u201d she added. Director of Al-Bashir Hospital, Dr. Mahmoud Zureikat said that the establishment of the tent will enhance the hospital\u2019s ability to deal with the large number of patients that come to the emergency room, and will help in classifying sick cases while preventing the spread of infection of all kinds. He added that the tent is manned by the medical and nursing staff of all specialities. Zureikat praised the initiative to establish and equip this tent by Jordanian Health Aid Society and with support from the UNDP, emphasizing on the importance of government, civil society and UN partnership in responding to immediate challenges. The tent, according to President",
+  "date": "13 April 2020"
+}

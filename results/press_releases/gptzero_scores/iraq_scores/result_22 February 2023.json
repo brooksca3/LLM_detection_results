@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "75d18922-107d-461e-9818-1f7e74cf9c5d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05169036241132647,
+        "human": 0.9476566442076518,
+        "mixed": 0.0006529933810216378
+      },
+      "completely_generated_prob": 0.05169036241132647,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476566442076518,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05169036241132647,
+          "human": 0.9476566442076518,
+          "mixed": 0.0006529933810216378
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.08867645263672,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.026086345314979553,
+          "perplexity": 30,
+          "sentence": "Baghdad, Iraq, 21 February 2023 - Today, during a visit to Karbala, His Excellency Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, met with the Karbala Sub-Committee on the Prevention of Violent Extremism (PVE) headed by the deputy governor, with the presence of the governor, and the head of the national committee for implementation of Iraq's prevention of violent extremism strategy from the National Security Advisory, with participation of local NGOs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028532756492495537,
+          "perplexity": 25,
+          "sentence": "The aim of the meeting was to discuss objectives and progress of the sub-committee's efforts implemented through support from the United Nations Development Programme in Iraq (UNDP) in partnership with the Government of Japan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0287319365888834,
+          "perplexity": 62,
+          "sentence": "Supporting the Government of Iraq with strengthening capacities on PVE and ensuring community readiness for reintegration is a priority for the Government of Japan, as part of generous support provided through UNDP's Support to Social Stability in Iraq through Preventing Violent Extremism Project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029850782826542854,
+          "perplexity": 37,
+          "sentence": "The project assists the Government of Iraq to implement its National Strategy to Combat Violent Extremism Conducive to Terrorism by building institutional capacity at the national and sub-national levels, enhancing community resilience, and promoting viable pathways to reduce violent extremism with focus on women and youth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027679696679115295,
+          "perplexity": 45,
+          "sentence": "The project also focuses on improving human security by providing socio-economic and Mental Health and Psychosocial Support to communities in need across several governorates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028531864285469055,
+          "perplexity": 99,
+          "sentence": "UNDP Iraq Resident Representative, Auke Lootsma, states, \u201cWe are grateful to the Government of Japan for our continued work to support the people of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030145850032567978,
+          "perplexity": 69,
+          "sentence": "Through this project we are contributing to enhancing the Government of Iraq's efforts in expanding on stabilization gains with a preventative approach, ensuring support to a healthy environment and strong social fabric for various communities.\u201d His Excellency, Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, emphasizes, \u201cIn fighting extremism, it is critical to continue to promote a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq, 21 February 2023 \u2013 Today, during a visit to Karbala, His Excellency Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, met with the Karbala Sub-Committee on the Prevention of Violent Extremism (PVE) headed by the deputy governor, with the presence of the governor, and the head of the national committee for implementation of Iraq\u2019s prevention of violent extremism strategy from the National Security Advisory, with participation of local NGOs. The aim of the meeting was to discuss objectives and progress of the sub-committee\u2019s efforts implemented through support from the United Nations Development Programme in Iraq (UNDP) in partnership with the Government of Japan. Supporting the Government of Iraq with strengthening capacities on PVE and ensuring community readiness for reintegration is a priority for the Government of Japan, as part of generous support provided through UNDP\u2019s Support to Social Stability in Iraq through Preventing Violent Extremism Project. The project assists the Government of Iraq to implement its National Strategy to Combat Violent Extremism Conducive to Terrorism by building institutional capacity at the national and sub-national levels, enhancing community resilience, and promoting viable pathways to reduce violent extremism with focus on women and youth. The project also focuses on improving human security by providing socio-economic and Mental Health and Psychosocial Support to communities in need across several governorates. UNDP Iraq Resident Representative, Auke Lootsma, states, \u201cWe are grateful to the Government of Japan for our continued work to support the people of Iraq. Through this project we are contributing to enhancing the Government of Iraq\u2019s efforts in expanding on stabilization gains with a preventative approach, ensuring support to a healthy environment and strong social fabric for various communities.\u201d His Excellency, Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, emphasizes, \u201cIn fighting extremism, it is critical to continue to promote a",
+  "date": "22 February 2023"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1bfb0e80-8047-41bf-b810-eb2ae747514e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.93508529663086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00043217759230174124,
+          "perplexity": 54,
+          "sentence": "A delegation of the United Nations Independent Investigative Mechanism for Myanmar (the \u201cMyanmar Mechanism\u201d), led by the Head of the Myanmar Mechanism, Mr. Nicholas Koumjian, conducted the Mechanism's first mission to the region by visiting Bangladesh from 9 to 14 November 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004005504015367478,
+          "perplexity": 23,
+          "sentence": "The delegation travelled to Cox's Bazar to meet with representatives of the refugee community, civil society organizations and community leaders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004900546628050506,
+          "perplexity": 63,
+          "sentence": "Mr. Koumjian explained the mandate of the Mechanism, listen to the concerns of the representatives and discussed how victims can engage with the Mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046765158185735345,
+          "perplexity": 46,
+          "sentence": "The main focus of the discussions centered on questions from victims' representatives about the potential impact of the Mechanism and the ways it will discharge its mission.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039487966569140553,
+          "perplexity": 58,
+          "sentence": "Mr. Koumjian explained that the Mechanism was an investigative as opposed to judicial body and it will rely on and work with authorities from national and international courts to pursue prosecutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037243810947984457,
+          "perplexity": 66,
+          "sentence": "The Mechanism will organize the evidence it collects on individuals' criminal responsibility in case files, which will be turned over to national, regional or international courts able and willing to try perpetrators of serious international crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004091467708349228,
+          "perplexity": 39,
+          "sentence": "Mr. Koumjian explained other issues of concern to victims' representatives, including that the Mechanism will give the highest priority to ensuring that the security and privacy of witnesses are respected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037311683990992606,
+          "perplexity": 99,
+          "sentence": "\u201cVictims of all ethnic backgrounds are the key constituency for the Myanmar Mechanism and this mission was only the first in many more to come in which we will directly engage with them,\u201d said the Head of the Mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034682481782510877,
+          "perplexity": 51,
+          "sentence": "\u201cOur main goal was to clarify the Myanmar Mechanism's unique mandate and explain that while the Mechanism is not a court and cannot itself arrest, try or punish anyone, it will pursue its mandate to promote accountability by gathering, analysing and preserving the evidence of crimes and international law violations committed",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A delegation of the United Nations Independent Investigative Mechanism for Myanmar (the \u201cMyanmar Mechanism\u201d), led by the Head of the Myanmar Mechanism, Mr. Nicholas Koumjian, conducted the Mechanism\u2019s first mission to the region by visiting Bangladesh from 9 to 14 November 2019. The delegation travelled to Cox\u2019s Bazar to meet with representatives of the refugee community, civil society organizations and community leaders. Mr. Koumjian explained the mandate of the Mechanism, listen to the concerns of the representatives and discussed how victims can engage with the Mechanism. The main focus of the discussions centered on questions from victims\u2019 representatives about the potential impact of the Mechanism and the ways it will discharge its mission. Mr. Koumjian explained that the Mechanism was an investigative as opposed to judicial body and it will rely on and work with authorities from national and international courts to pursue prosecutions. The Mechanism will organize the evidence it collects on individuals\u2019 criminal responsibility in case files, which will be turned over to national, regional or international courts able and willing to try perpetrators of serious international crimes. Mr. Koumjian explained other issues of concern to victims\u2019 representatives, including that the Mechanism will give the highest priority to ensuring that the security and privacy of witnesses are respected. \u201cVictims of all ethnic backgrounds are the key constituency for the Myanmar Mechanism and this mission was only the first in many more to come in which we will directly engage with them,\u201d said the Head of the Mechanism. \u201cOur main goal was to clarify the Myanmar Mechanism\u2019s unique mandate and explain that while the Mechanism is not a court and cannot itself arrest, try or punish anyone, it will pursue its mandate to promote accountability by gathering, analysing and preserving the evidence of crimes and international law violations committed",
+  "date": "18 November 2019"
+}

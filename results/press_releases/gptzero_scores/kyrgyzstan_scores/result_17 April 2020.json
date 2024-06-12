@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "596a8838-eb63-4289-9fe4-56c696a54af2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.006548026829384868,
+        "human": 0.9934519731706152,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.006548026829384868,
+      "confidence_category": "high",
+      "confidence_score": 0.9934519731706152,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.006548026829384868,
+          "human": 0.9934519731706152,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.57217788696289,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018048913625534624,
+          "perplexity": 107,
+          "sentence": "Today, WHO handed over 64 PCR test-systems for 6,720 tests for COVID-19, to the Ministry of Health of Kyrgyzstan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016508747648913413,
+          "perplexity": 231,
+          "sentence": "These tests systems will be used for screening studies and confirmation of positive results for COVID-19 obtained using PCR tests of other manufacturers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016748704365454614,
+          "perplexity": 49,
+          "sentence": "This batch of PCR test systems is handed over to the Ministry of Health as humanitarian aid, and this is the third one, as in February and March, 2,600 test kits have already supplied to Kyrgyzstan by WHO as part of the preparedness and rapid detection and response to possible outbreak.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001815556752262637,
+          "perplexity": 44,
+          "sentence": "WHO notes that tests for coronavirus COVID-19 should be performed by polymerase chain reaction (PCR) with reverse transcription.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019608205184340477,
+          "perplexity": 50,
+          "sentence": "WHO recommends this diagnostic method, since to date, it is the most accurate and reliable method of diagnosing COVID-19 viral infection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017891466268338263,
+          "perplexity": 41,
+          "sentence": "It can identify even a very small amount of the virus RNA in human biological material and helps to detect the disease at an early stage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016322796000167727,
+          "perplexity": 71,
+          "sentence": "In response to the growing COVID-19 pandemic and shortages of laboratory-based molecular testing capacity and reagents, multiple diagnostic test manufacturers have developed and begun selling rapid and easy-to-use devices to facilitate testing outside of laboratory settings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016181635146494955,
+          "perplexity": 37,
+          "sentence": "WHO has published a scientific brief \u201cAdvice on the use of point-of-care immunodiagnostic tests for COVID-19\u201d (8 April 2020) to emphasize that at present, based on current evidence, WHO recommends the use of these new point-of-care immunodiagnostic tests only in research settings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015258257917594165,
+          "perplexity": 39,
+          "sentence": "They should not be used in any other setting, including for clinical decision-making, until evidence supporting use for specific indications is available.Inadequate tests may miss patients with active infection or falsely categorize patients as having the disease when they do not, further hampering disease control efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016023582429625094,
+          "perplexity": 53,
+          "sentence": "Information: this assistance is provided as part of the joint humanitarian response under the Disaster Response Coordination Unit,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today, WHO handed over 64 PCR test-systems for 6,720 tests for COVID-19, to the Ministry of Health of Kyrgyzstan. These tests systems will be used for screening studies and confirmation of positive results for COVID-19 obtained using PCR tests of other manufacturers. This batch of PCR test systems is handed over to the Ministry of Health as humanitarian aid, and this is the third one, as in February and March, 2,600 test kits have already supplied to Kyrgyzstan by WHO as part of the preparedness and rapid detection and response to possible outbreak. WHO notes that tests for coronavirus COVID-19 should be performed by polymerase chain reaction (PCR) with reverse transcription. WHO recommends this diagnostic method, since to date, it is the most accurate and reliable method of diagnosing COVID-19 viral infection. It can identify even a very small amount of the virus RNA in human biological material and helps to detect the disease at an early stage. In response to the growing COVID-19 pandemic and shortages of laboratory-based molecular testing capacity and reagents, multiple diagnostic test manufacturers have developed and begun selling rapid and easy-to-use devices to facilitate testing outside of laboratory settings. WHO has published a scientific brief \u201cAdvice on the use of point-of-care immunodiagnostic tests for COVID-19\u201d (8 April 2020) to emphasize that at present, based on current evidence, WHO recommends the use of these new point-of-care immunodiagnostic tests only in research settings. They should not be used in any other setting, including for clinical decision-making, until evidence supporting use for specific indications is available.Inadequate tests may miss patients with active infection or falsely categorize patients as having the disease when they do not, further hampering disease control efforts. Information: this assistance is provided as part of the joint humanitarian response under the Disaster Response Coordination Unit,",
+  "date": "17 April 2020"
+}

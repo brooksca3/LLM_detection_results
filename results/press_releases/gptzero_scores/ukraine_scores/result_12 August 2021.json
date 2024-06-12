@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0bc3f033-291f-4139-8467-155a61d9498b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.4230842590332,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001793145784176886,
+          "perplexity": 47,
+          "sentence": "WHO and the Government of Canada (Global Affairs Canada) signed a grant agreement in March 2021 in the amount of 30.38 million Canadian dollars to support 10 countries, including Ukraine, in delivering stronger and more resilient primary health care and essential health services during the COVID-19 response and recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020367593970149755,
+          "perplexity": 47,
+          "sentence": "The initiative aims to monitor barriers and enhance access to healthcare services amid the COVID-19 pandemic, strengthen national health policies and regulations as well as ensure capacity building of the healthcare workers in clinical management of patients with COVID-19 and in integrated management of hypertension, diabetes and other non-communicable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002504263538867235,
+          "perplexity": 36,
+          "sentence": "The project focuses on an equity-oriented, gender responsive and human rights-based approach to ensure that all Ukrainian people have access to health service and medicines, and no one is left behind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002209130674600601,
+          "perplexity": 52,
+          "sentence": "It is implemented under the leadership of the WHO Special Programme on Primary Health Care through the Universal Health Coverage Partnership network\u1173one of WHO's largest platforms for international cooperation on universal health coverage and primary health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002767929807305336,
+          "perplexity": 93,
+          "sentence": "This effort aims to respond to the needs and gaps identified by countries and supports the COVID-19 Strategic Preparedness and Response Plan, highlighting the urgency of maintaining essential health services and systems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019093997543677688,
+          "perplexity": 197,
+          "sentence": "Ukraine has also received Canada's additional financial contribution in the amount of 350 thousand Canadian dollars to support the Access to COVID-19 Tools (ACT) Accelerator Health Systems Connector Implementation in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024215199518948793,
+          "perplexity": 50,
+          "sentence": "This initiative, launched by WHO and partners in 2020, aims to support the country in identifying and addressing health systems barriers and bottlenecks hindering the effective scale-up and delivery of new and existing COVID-19 tools at the country level.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002066525164991617,
+          "perplexity": 139,
+          "sentence": "The WHO and Canada collaboration will focus in particular on public health laboratories, field epidemiology investigations and situation monitoring, clinical care and health care workers knowledge, and quality systems for medicines",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WHO and the Government of Canada (Global Affairs Canada) signed a grant agreement in March 2021 in the amount of 30.38 million Canadian dollars to support 10 countries, including Ukraine, in delivering stronger and more resilient primary health care and essential health services during the COVID-19 response and recovery. The initiative aims to monitor barriers and enhance access to healthcare services amid the COVID-19 pandemic, strengthen national health policies and regulations as well as ensure capacity building of the healthcare workers in clinical management of patients with COVID-19 and in integrated management of hypertension, diabetes and other non-communicable diseases. The project focuses on an equity-oriented, gender responsive and human rights-based approach to ensure that all Ukrainian people have access to health service and medicines, and no one is left behind. It is implemented under the leadership of the WHO Special Programme on Primary Health Care through the Universal Health Coverage Partnership network\u2014one of WHO\u2019s largest platforms for international cooperation on universal health coverage and primary health care. This effort aims to respond to the needs and gaps identified by countries and supports the COVID-19 Strategic Preparedness and Response Plan, highlighting the urgency of maintaining essential health services and systems. Ukraine has also received Canada\u2019s additional financial contribution in the amount of 350 thousand Canadian dollars to support the Access to COVID-19 Tools (ACT) Accelerator Health Systems Connector Implementation in Ukraine. This initiative, launched by WHO and partners in 2020, aims to support the country in identifying and addressing health systems barriers and bottlenecks hindering the effective scale-up and delivery of new and existing COVID-19 tools at the country level. The WHO and Canada collaboration will focus in particular on public health laboratories, field epidemiology investigations and situation monitoring, clinical care and health care workers knowledge, and quality systems for medicines",
+  "date": "12 August 2021"
+}

@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "d3fae1d8-fe71-47fc-91d3-94d8295dd949",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.07488156391803412,
+        "human": 0.9243444664290662,
+        "mixed": 0.0007739696528995774
+      },
+      "completely_generated_prob": 0.07488156391803412,
+      "confidence_category": "medium",
+      "confidence_score": 0.9243444664290662,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.07488156391803412,
+          "human": 0.9243444664290662,
+          "mixed": 0.0007739696528995774
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 100.76359558105469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.11523481458425522,
+          "perplexity": 25,
+          "sentence": "The United Nations World Food Programme (WFP) announced that 21,000 Syrian refugees will no longer receive their monthly food assistance as of July following a prioritization exercise driven by a shortage of funds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11080558598041534,
+          "perplexity": 40,
+          "sentence": "Recent contributions from donors have averted wide-scale cuts that would have affected a larger number of people, but resources still fall well short of meeting the needs of all vulnerable refugees in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11376459896564484,
+          "perplexity": 60,
+          "sentence": "WFP urgently needs US$58 million to continue food assistance until the end of the year for the half million refugees it supports.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10416940599679947,
+          "perplexity": 38,
+          "sentence": "\u201cDesperate times call for desperate measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1068420335650444,
+          "perplexity": 22,
+          "sentence": "We have to make some difficult choices to stretch the limited resources we have and ensure that we meet the needs of the most vulnerable refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10704531520605087,
+          "perplexity": 93,
+          "sentence": "These are families who cannot put food on the table without WFP assistance\u201d, said Alberto Correia Mendes, WFP Representative and Country Director in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09928490966558456,
+          "perplexity": 412,
+          "sentence": "\u201cThese are painful choices.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10665135830640793,
+          "perplexity": 54,
+          "sentence": "What's more, if we do not receive further contributions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10789330303668976,
+          "perplexity": 50,
+          "sentence": "we may find ourselves having to cut food assistance for another quarter of a million refugees living outside the camps by September.\u201d The cuts are coming at the worst time for families, when many are struggling to earn money or have lost their jobs due to the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11203364282846451,
+          "perplexity": 37,
+          "sentence": "A recent WFP survey revealed that 68 percent of the refugees have seen their income drop since the beginning of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10471455007791519,
+          "perplexity": 41,
+          "sentence": "Food insecurity among refugees in Jordan has doubled in the last year to reach 25 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.1055908203125,
+          "perplexity": 38,
+          "sentence": "Two in three refugees - 64 percent - are on the edge of food insecurity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10129909962415695,
+          "perplexity": 143,
+          "sentence": "Refugee families consider WFP's assistance a lifeline.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.10109424591064453,
+          "perplexity": 52,
+          "sentence": "Refugees living in Zaatari and Azraq camps and extremely vulnerable families living in local communities receive US$32 (JOD 23) per person each month, while refugees living outside camps who are classified as vulnerable receive",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations World Food Programme (WFP) announced that 21,000 Syrian refugees will no longer receive their monthly food assistance as of July following a prioritization exercise driven by a shortage of funds. Recent contributions from donors have averted wide-scale cuts that would have affected a larger number of people, but resources still fall well short of meeting the needs of all vulnerable refugees in Jordan. WFP urgently needs US$58 million to continue food assistance until the end of the year for the half million refugees it supports. \u201cDesperate times call for desperate measures. We have to make some difficult choices to stretch the limited resources we have and ensure that we meet the needs of the most vulnerable refugees. These are families who cannot put food on the table without WFP assistance\u201d, said Alberto Correia Mendes, WFP Representative and Country Director in Jordan. \u201cThese are painful choices. What\u2019s more, if we do not receive further contributions. we may find ourselves having to cut food assistance for another quarter of a million refugees living outside the camps by September.\u201d The cuts are coming at the worst time for families, when many are struggling to earn money or have lost their jobs due to the COVID-19 pandemic. A recent WFP survey revealed that 68 percent of the refugees have seen their income drop since the beginning of the pandemic. Food insecurity among refugees in Jordan has doubled in the last year to reach 25 percent. Two in three refugees \u2013 64 percent \u2013 are on the edge of food insecurity. Refugee families consider WFP\u2019s assistance a lifeline. Refugees living in Zaatari and Azraq camps and extremely vulnerable families living in local communities receive US$32 (JOD 23) per person each month, while refugees living outside camps who are classified as vulnerable receive",
+  "date": "03 June 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c0009e74-92f6-43a4-8bfe-cfda12ccfd99",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023252354818537126,
+        "human": 0.9632637399533589,
+        "mixed": 0.013483905228104068
+      },
+      "completely_generated_prob": 0.023252354818537126,
+      "confidence_category": "high",
+      "confidence_score": 0.9632637399533589,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023252354818537126,
+          "human": 0.9632637399533589,
+          "mixed": 0.013483905228104068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 68.36653137207031,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011053526395699009,
+          "perplexity": 21,
+          "sentence": "The Food and Agriculture Organization of the United Nations (FAO) in cooperation with the Ministry of Agriculture (MoA) and the Jordanian Armed Forces launched today the of an assessment mission that will use FAO's Surveillance Evaluation Tool (SET) and its Bio-Threat module to develop a tailored action plan to improve animal disease surveillance, including the detection of agro-terrorism and agro-crime affecting animal health, under the project \u201cBuilding resilience against agro-terrorism and agro-crime threats to animal health.\u201d The project is funded by the Global Affairs Canada and implemented by a consortium gathering the World Organization for Animal Health (OIE), the Food and Agriculture Organization of the United Nations (FAO) and the International Criminal Police organization (INTERPOL) and will be implemented in cooperation with the Ministry of Agriculture and the Jordan Armed Forces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011040000390494242,
+          "perplexity": 233,
+          "sentence": "The inception workshop was under the patronage of his Excellency Eng.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011135834938613698,
+          "perplexity": 84,
+          "sentence": "Khaled Al-Hunaifat, Minister of Agriculture and was attended by partners and relevant stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010451427806401625,
+          "perplexity": 70,
+          "sentence": "The inception workshop aimed to present to the Jordanian authorities the assessment mission itself as well as the other phases of the project that will help develop a response to risks related to animal health and the use of animal pathogens as a threat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005956883076578379,
+          "perplexity": 58,
+          "sentence": "Following this workshop, a mission for 12 days, will take place in Jordan with the objective of identifying gaps and needs for the epidemiologic surveillance system of animal diseases and the specific surveillance of agro-terrorism and agro-crime threats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011334500275552273,
+          "perplexity": 57,
+          "sentence": "Following the assessment phase, training and exercise materials will be tailored to local needs and available resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017622757703065872,
+          "perplexity": 35,
+          "sentence": "The training will focus on strengthening collaboration between veterinary services and law enforcement authorities to improve their ability to detect and sustainably respond to animal health emergencies related to agro-crime and agro-terrorism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011744245886802673,
+          "perplexity": 135,
+          "sentence": "The project also introduces new tools for the Good Emergency Management Practices (GEMP) such",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Food and Agriculture Organization of the United Nations (FAO) in cooperation with the Ministry of Agriculture (MoA) and the Jordanian Armed Forces launched today the of an assessment mission that will use FAO\u2019s Surveillance Evaluation Tool (SET) and its Bio-Threat module to develop a tailored action plan to improve animal disease surveillance, including the detection of agro-terrorism and agro-crime affecting animal health, under the project \u201cBuilding resilience against agro-terrorism and agro-crime threats to animal health.\u201d The project is funded by the Global Affairs Canada and implemented by a consortium gathering the World Organization for Animal Health (OIE), the Food and Agriculture Organization of the United Nations (FAO) and the International Criminal Police organization (INTERPOL) and will be implemented in cooperation with the Ministry of Agriculture and the Jordan Armed Forces. The inception workshop was under the patronage of his Excellency Eng. Khaled Al-Hunaifat, Minister of Agriculture and was attended by partners and relevant stakeholders. The inception workshop aimed to present to the Jordanian authorities the assessment mission itself as well as the other phases of the project that will help develop a response to risks related to animal health and the use of animal pathogens as a threat. Following this workshop, a mission for 12 days, will take place in Jordan with the objective of identifying gaps and needs for the epidemiologic surveillance system of animal diseases and the specific surveillance of agro-terrorism and agro-crime threats. Following the assessment phase, training and exercise materials will be tailored to local needs and available resources. The training will focus on strengthening collaboration between veterinary services and law enforcement authorities to improve their ability to detect and sustainably respond to animal health emergencies related to agro-crime and agro-terrorism. The project also introduces new tools for the Good Emergency Management Practices (GEMP) such",
+  "date": "08 May 2022"
+}

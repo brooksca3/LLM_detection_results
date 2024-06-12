@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "db91ce35-e8ad-4ccc-afd8-4d4bfd80ed76",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 45.51873779296875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001647094904910773,
+          "perplexity": 58,
+          "sentence": "Lviv, 7 April 2022 - Health system resilience amid the impact of war, urgent and growing needs for affected civilians, and WHO's support at this time of challenge were center-stage as Ukraine's Minister of Health, Viktor Liashko met with the World Health Organization's Regional Director for Europe, Dr Hans Henri P. Kluge on World Health Day in Lviv, western Ukraine, where millions of people have sought refuge since the war started on 24 February.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016391141980420798,
+          "perplexity": 23,
+          "sentence": "Dr Kluge is on a two-day visit to Ukraine to meet with representatives of the Ministry of Health, Ukrainian health professionals, WHO staff working on the emergency response as well as those directly impacted by the war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001727846247376874,
+          "perplexity": 73,
+          "sentence": "Mr Liashko and Dr Kluge visited different health facilities - a children's hospital and an emergency hospital among them - thanking health workers for their lifesaving efforts and meeting with internally displaced Ukrainians in need of essential health services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019965562387369573,
+          "perplexity": 152,
+          "sentence": "\u201cEvery day I ascertain that our health workers are an example of sacrifice and heroism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017985489103011787,
+          "perplexity": 140,
+          "sentence": "They continue saving lives while under attack.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016704699373804033,
+          "perplexity": 32,
+          "sentence": "Doctors shield pregnant women and newborns with their bodies, and emergency care physicians are the first to go to the hotspots in the country, but none of them have left their jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018783197447191924,
+          "perplexity": 70,
+          "sentence": "This is an example for the whole Europe and the world,\u201d said Viktor Liashko, the Minister of Health of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018338474910706282,
+          "perplexity": 37,
+          "sentence": "\u201cI am here in Ukraine to stand in solidarity with the health care workers in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001535105548100546,
+          "perplexity": 42,
+          "sentence": "I thank them for their dedication and professionalism - as they continue to deliver care in the face of unimaginable human suffering and in scenes of total devastation - that no nurse, doctor, midwife, ambulance driver, pharmacist, therapist or social worker should ever have to experience,\u201d said Dr Kluge.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002612142125144601,
+          "perplexity": 31,
+          "sentence": "WHO has operated in Ukraine since 1994, working closely with",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Lviv, 7 April 2022 \u2013 Health system resilience amid the impact of war, urgent and growing needs for affected civilians, and WHO\u2019s support at this time of challenge were center-stage as Ukraine\u2019s Minister of Health, Viktor Liashko met with the World Health Organization\u2019s Regional Director for Europe, Dr Hans Henri P. Kluge on World Health Day in Lviv, western Ukraine, where millions of people have sought refuge since the war started on 24 February. Dr Kluge is on a two-day visit to Ukraine to meet with representatives of the Ministry of Health, Ukrainian health professionals, WHO staff working on the emergency response as well as those directly impacted by the war. Mr Liashko and Dr Kluge visited different health facilities - a children\u2019s hospital and an emergency hospital among them \u2013 thanking health workers for their lifesaving efforts and meeting with internally displaced Ukrainians in need of essential health services. \u201cEvery day I ascertain that our health workers are an example of sacrifice and heroism. They continue saving lives while under attack. Doctors shield pregnant women and newborns with their bodies, and emergency care physicians are the first to go to the hotspots in the country, but none of them have left their jobs. This is an example for the whole Europe and the world,\u201d said Viktor Liashko, the Minister of Health of Ukraine. \u201cI am here in Ukraine to stand in solidarity with the health care workers in the country. I thank them for their dedication and professionalism \u2013 as they continue to deliver care in the face of unimaginable human suffering and in scenes of total devastation - that no nurse, doctor, midwife, ambulance driver, pharmacist, therapist or social worker should ever have to experience,\u201d said Dr Kluge. WHO has operated in Ukraine since 1994, working closely with",
+  "date": "07 April 2022"
+}

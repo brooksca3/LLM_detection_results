@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e6f4cbbd-c4f7-446b-8230-2fd2f4d5b524",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.963043212890625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008643977926112711,
+          "perplexity": 10,
+          "sentence": "On behalf of the Secretary-General of the United Nations, it is an honour to deliver this message to the people of Nagasaki.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007402459741570055,
+          "perplexity": 58,
+          "sentence": "This ceremony is an opportunity to remember a moment of unmatched horror for humanity -- the use of atomic weapons on Nagasaki 78 years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007778117433190346,
+          "perplexity": 126,
+          "sentence": "We remember the terrible destruction wrought upon this city and Hiroshima.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008621106971986592,
+          "perplexity": 60,
+          "sentence": "We honour the unrelenting strength and resilience of the people of Nagasaki to rebuild.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007578289951197803,
+          "perplexity": 67,
+          "sentence": "And we recognize the brave hibakusha, whose powerful and harrowing testimonies will forever stand as a reminder that we must achieve a world free of these inhumane weapons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005981142167001963,
+          "perplexity": 28,
+          "sentence": "It is in their name -- and in memory of what happened here in 1945 -- that the Secretary-General has declared that the elimination of nuclear weapons is the United Nations' highest disarmament priority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006482950993813574,
+          "perplexity": 75,
+          "sentence": "Despite the terrible lessons of 1945, humanity now confronts a new arms race.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005277877207845449,
+          "perplexity": 48,
+          "sentence": "Weapons systems are being upgraded, and placed at the centre of national security strategies, making these devices of death faster, more accurate, and stealthier.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005502962740138173,
+          "perplexity": 67,
+          "sentence": "All this, at a moment when division and mistrust are pulling countries and regions apart.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006976044969633222,
+          "perplexity": 13,
+          "sentence": "The risk of nuclear catastrophe is now at its highest level since the Cold War.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006763717974536121,
+          "perplexity": 26,
+          "sentence": "In the face of these threats, the global community must speak as one.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005404222174547613,
+          "perplexity": 30,
+          "sentence": "We will not sit idly by as nuclear-armed States race to create even more dangerous weapons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006014649989083409,
+          "perplexity": 40,
+          "sentence": "That's why disarmament is at the heart of the recently launched Policy Brief on a New Agenda for Peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007556561613455415,
+          "perplexity": 31,
+          "sentence": "The Agenda calls on Member States to urgently recommit to pursuing a world free of nuclear weapons, and to reinforce the global norms against their use and proliferation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006170860142447054,
+          "perplexity": 143,
+          "sentence": "Pending their total elimination, States possessing nuclear weapons must commit to never use them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000657596334349364,
+          "perplexity": 42,
+          "sentence": "The only way to eliminate the nuclear risk is",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On behalf of the Secretary-General of the United Nations, it is an honour to deliver this message to the people of Nagasaki. This ceremony is an opportunity to remember a moment of unmatched horror for humanity -- the use of atomic weapons on Nagasaki 78 years ago. We remember the terrible destruction wrought upon this city and Hiroshima. We honour the unrelenting strength and resilience of the people of Nagasaki to rebuild. And we recognize the brave hibakusha, whose powerful and harrowing testimonies will forever stand as a reminder that we must achieve a world free of these inhumane weapons. It is in their name -- and in memory of what happened here in 1945 -- that the Secretary-General has declared that the elimination of nuclear weapons is the United Nations\u2019 highest disarmament priority. Despite the terrible lessons of 1945, humanity now confronts a new arms race. Weapons systems are being upgraded, and placed at the centre of national security strategies, making these devices of death faster, more accurate, and stealthier. All this, at a moment when division and mistrust are pulling countries and regions apart. The risk of nuclear catastrophe is now at its highest level since the Cold War. In the face of these threats, the global community must speak as one. We will not sit idly by as nuclear-armed States race to create even more dangerous weapons. That\u2019s why disarmament is at the heart of the recently launched Policy Brief on a New Agenda for Peace. The Agenda calls on Member States to urgently recommit to pursuing a world free of nuclear weapons, and to reinforce the global norms against their use and proliferation. Pending their total elimination, States possessing nuclear weapons must commit to never use them. The only way to eliminate the nuclear risk is",
+  "date": "09 August 2023"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c38c399d-9179-4a95-8cda-fb0dc16ccfd9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012463537523203394,
+        "human": 0.9875364624767966,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.012463537523203394,
+      "confidence_category": "high",
+      "confidence_score": 0.9875364624767966,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012463537523203394,
+          "human": 0.9875364624767966,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.62778663635254,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006661960505880415,
+          "perplexity": 30,
+          "sentence": "BAGHDAD / 12 September 2022 - The United Nations World Food Programme (WFP) welcomed a contribution of US$1 million from the Government of the Republic of Korea, which will support the implementation of resilience-building activities aiming at improving sustainable agricultural production in areas affected by salinity in southern Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006939370650798082,
+          "perplexity": 27,
+          "sentence": "This grant will support in restoring the agricultural-based livelihoods of nearly 4,000 smallholder farmers and their families through measures that help communities adapt to water and soil salinity in addition to focusing on climate-smart agricultural practices such as solar-powered water pumps and hydroponics, to withstand the adverse effects of climate change and build their food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007354224799200892,
+          "perplexity": 25,
+          "sentence": "\u201cThe government of the Republic of Korea has been committed to supporting Iraq and its people over the past decades,\u201d said Mr. Sung-soo Choi, the Ambassador of the Republic of Korea to Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006428395863622427,
+          "perplexity": 45,
+          "sentence": "\u201cIt is my great pleasure to partner with WFP, which has the expertise to provide well-targeted assistance to the southern parts of Iraq, where our companies are also contributing to the community by building key infrastructures.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007063813391141593,
+          "perplexity": 16,
+          "sentence": "Iraq is the world's fifth most affected country by climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007099027861841023,
+          "perplexity": 31,
+          "sentence": "Water availability has plummeted due to the worst rainfall season in over 40 years and increasing water evaporation has led to the degradation of large swathes of fertile lands in the southern governorates of the country due to salinity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007176391663961112,
+          "perplexity": 43,
+          "sentence": "A decrease in water flow, particularly in the southern governates where the rural population depends on agriculture to make a living, means the agricultural sector is unable to guarantee sufficient and sustainable livelihood opportunities in rural areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007577112992294133,
+          "perplexity": 27,
+          "sentence": "In addition, Iraq is currently a net importer of food and has been heavily impacted by the current crisis in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007413776475004852,
+          "perplexity": 83,
+          "sentence": "\u201cWe need to take action now and introduce innovative solutions to the old agricultural practices that are just",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BAGHDAD / 12 September 2022 \u2013 The United Nations World Food Programme (WFP) welcomed a contribution of US$1 million from the Government of the Republic of Korea, which will support the implementation of resilience-building activities aiming at improving sustainable agricultural production in areas affected by salinity in southern Iraq. This grant will support in restoring the agricultural-based livelihoods of nearly 4,000 smallholder farmers and their families through measures that help communities adapt to water and soil salinity in addition to focusing on climate-smart agricultural practices such as solar-powered water pumps and hydroponics, to withstand the adverse effects of climate change and build their food security. \u201cThe government of the Republic of Korea has been committed to supporting Iraq and its people over the past decades,\u201d said Mr. Sung-soo Choi, the Ambassador of the Republic of Korea to Iraq. \u201cIt is my great pleasure to partner with WFP, which has the expertise to provide well-targeted assistance to the southern parts of Iraq, where our companies are also contributing to the community by building key infrastructures.\" Iraq is the world\u2019s fifth most affected country by climate change. Water availability has plummeted due to the worst rainfall season in over 40 years and increasing water evaporation has led to the degradation of large swathes of fertile lands in the southern governorates of the country due to salinity. A decrease in water flow, particularly in the southern governates where the rural population depends on agriculture to make a living, means the agricultural sector is unable to guarantee sufficient and sustainable livelihood opportunities in rural areas. In addition, Iraq is currently a net importer of food and has been heavily impacted by the current crisis in Ukraine. \u201cWe need to take action now and introduce innovative solutions to the old agricultural practices that are just",
+  "date": "12 September 2022"
+}

@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f3fb074d-6920-4da4-ac0c-aa1b5cfd4a21",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.51912498474121,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004726183251477778,
+          "perplexity": 74,
+          "sentence": "The warning came at the start of the latest vaccination campaign in Puntland, north east Somalia, where all of this year's cases were discovered in the remote Jariban district in Mudug region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004066777473781258,
+          "perplexity": 52,
+          "sentence": "Three of them are children under 10 years old and an adult aged 29 who subsequently died.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047618788084946573,
+          "perplexity": 20,
+          "sentence": "None of them had been vaccinated against polio before.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040371299837715924,
+          "perplexity": 38,
+          "sentence": "This current round of vaccinations will run until 25 July and will target close to half a million children under the age of 10 years in the outbreak area and eight surrounding districts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043807754991576076,
+          "perplexity": 37,
+          "sentence": "\u201cResponding to the polio outbreak is one of the top priorities of the UN and the humanitarian community at large,\u201d said the UN Resident and Humanitarian Coordinator for Somalia, Philippe Lazzarini.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044208779581822455,
+          "perplexity": 28,
+          "sentence": "\u201cWe need to continue supporting the Somali health authorities to achieve a polio-free Somalia.\u201d In May 2013, the first case of polio in six years was discovered in the country's capital Mogadishu.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003602076321840286,
+          "perplexity": 17,
+          "sentence": "At the time it was estimated that over half a million children under five living in the inaccessible areas had not been vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003757554804906249,
+          "perplexity": 50,
+          "sentence": "\u201cSomalia has made a lot of progress towards stopping polio transmission, with the support of UNICEF and WHO, but it needs the final push to be polio-free once again,\u201d said Dr Ghulam Popal, WHO Somalia Representative who is in Galkayo to oversee the latest campaign implementation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003215763426851481,
+          "perplexity": 21,
+          "sentence": "Since the beginning of the outbreak, more than 1.5 million children under five have been vaccinated along with 5.5 million over five years, including adults, in the accessible areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000399100681534037,
+          "perplexity": 71,
+          "sentence": "\u201cIt is a tragedy that so many Somali children have been paralysed by this virus and their lives ruined - when the vaccination is freely available,\u201d said Sikander Khan, UNICEF Somalia Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004749069921672344,
+          "perplexity": 71,
+          "sentence": "\u201cPolio is highly infectious and every child who has not been properly vaccinated against polio is",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The warning came at the start of the latest vaccination campaign in Puntland, north east Somalia, where all of this year\u2019s cases were discovered in the remote Jariban district in Mudug region. Three of them are children under 10 years old and an adult aged 29 who subsequently died. None of them had been vaccinated against polio before. This current round of vaccinations will run until 25 July and will target close to half a million children under the age of 10 years in the outbreak area and eight surrounding districts. \u201cResponding to the polio outbreak is one of the top priorities of the UN and the humanitarian community at large,\u201d said the UN Resident and Humanitarian Coordinator for Somalia, Philippe Lazzarini. \u201cWe need to continue supporting the Somali health authorities to achieve a polio-free Somalia.\u201d In May 2013, the first case of polio in six years was discovered in the country\u2019s capital Mogadishu. At the time it was estimated that over half a million children under five living in the inaccessible areas had not been vaccinated. \u201cSomalia has made a lot of progress towards stopping polio transmission, with the support of UNICEF and WHO, but it needs the final push to be polio-free once again,\u201d said Dr Ghulam Popal, WHO Somalia Representative who is in Galkayo to oversee the latest campaign implementation. Since the beginning of the outbreak, more than 1.5 million children under five have been vaccinated along with 5.5 million over five years, including adults, in the accessible areas. \u201cIt is a tragedy that so many Somali children have been paralysed by this virus and their lives ruined \u2013 when the vaccination is freely available,\u201d said Sikander Khan, UNICEF Somalia Representative. \u201cPolio is highly infectious and every child who has not been properly vaccinated against polio is",
+  "date": "22 July 2014"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5818204-4cf7-4206-bd20-5c764980d067",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02249485704063684,
+        "human": 0.9550102859187265,
+        "mixed": 0.02249485704063684
+      },
+      "completely_generated_prob": 0.02249485704063684,
+      "confidence_category": "high",
+      "confidence_score": 0.9550102859187265,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02249485704063684,
+          "human": 0.9550102859187265,
+          "mixed": 0.02249485704063684
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.47608947753906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.024909647181630135,
+          "perplexity": 45,
+          "sentence": "In total, UNICEF has donated close to USD 3 million worth of medical supplies to the Government of Jordan as part of the UN multi-agency support for the National COVID-19 Preparedness & Response Plan 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02482891082763672,
+          "perplexity": 99,
+          "sentence": "UNICEF has donated forty ventilators to the Ministry of Health in support of Jordan's national response to COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02638113684952259,
+          "perplexity": 24,
+          "sentence": "The Minister of Health, Saad Jaber, during the handover event, stressed the importance of the partnership with UNICEF in supporting the health sector, especially in the face of this global pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.022004174068570137,
+          "perplexity": 41,
+          "sentence": "He indicated that these ventilators will contribute to supporting the health sector and treating many patients in intensive care units who are most in need, in addition to enhancing the capacities of hospital staff in combatting the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017025213688611984,
+          "perplexity": 99,
+          "sentence": "\u201cThe reality is that we will be living with the COVID-19 pandemic for the longer term so it's critical that we continue to fully equip healthcare services and protect frontline health workers,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0071409293450415134,
+          "perplexity": 55,
+          "sentence": "\u201cUNICEF is committed to supporting the Government of Jordan to continue to strengthen the public health system to respond to this and future pandemics to create a safer world for children.\u201d Leveraging its global supply chain, UNICEF has provided the forty ICU ventilators, suitable for both paediatric and adult use, to support the national health system deal with any increased caseload of severe COVID-19 cases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020210924558341503,
+          "perplexity": 48,
+          "sentence": "Since the beginning of the COVID-19 pandemic, UNICEF has scaled up support to the Ministry of Health by providing critical health supplies including PPEs and hand sanitizer for healthcare facilities - procured both locally and globally, based on market availability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001443901564925909,
+          "perplexity": 110,
+          "sentence": "UNICEF is also supporting the COVID-19 national response through risk communication and community engagement campaigns urging people to continue applying preparedness and prevention measures including social distancing, wearing facemasks and practicing proper hygiene, including handwashing.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In total, UNICEF has donated close to USD 3 million worth of medical supplies to the Government of Jordan as part of the UN multi-agency support for the National COVID-19 Preparedness & Response Plan 2020. UNICEF has donated forty ventilators to the Ministry of Health in support of Jordan\u2019s national response to COVID-19. The Minister of Health, Saad Jaber, during the handover event, stressed the importance of the partnership with UNICEF in supporting the health sector, especially in the face of this global pandemic. He indicated that these ventilators will contribute to supporting the health sector and treating many patients in intensive care units who are most in need, in addition to enhancing the capacities of hospital staff in combatting the virus. \u201cThe reality is that we will be living with the COVID-19 pandemic for the longer term so it\u2019s critical that we continue to fully equip healthcare services and protect frontline health workers,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan. \u201cUNICEF is committed to supporting the Government of Jordan to continue to strengthen the public health system to respond to this and future pandemics to create a safer world for children.\u201d Leveraging its global supply chain, UNICEF has provided the forty ICU ventilators, suitable for both paediatric and adult use, to support the national health system deal with any increased caseload of severe COVID-19 cases. Since the beginning of the COVID-19 pandemic, UNICEF has scaled up support to the Ministry of Health by providing critical health supplies including PPEs and hand sanitizer for healthcare facilities - procured both locally and globally, based on market availability. UNICEF is also supporting the COVID-19 national response through risk communication and community engagement campaigns urging people to continue applying preparedness and prevention measures including social distancing, wearing facemasks and practicing proper hygiene, including handwashing.",
+  "date": "17 September 2020"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7afd8f48-e244-4999-a95c-291bb0cf6ca6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010887811144562718,
+        "human": 0.9884935632222235,
+        "mixed": 0.0006186256332137908
+      },
+      "completely_generated_prob": 0.010887811144562718,
+      "confidence_category": "high",
+      "confidence_score": 0.9884935632222235,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010887811144562718,
+          "human": 0.9884935632222235,
+          "mixed": 0.0006186256332137908
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.656990051269531,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012948798248544335,
+          "perplexity": 50,
+          "sentence": "UN Secretary-General calls for accelerated action on jobs and social protection to avoid an uneven global recovery and prevent future crises Deeply diverging recoveries will undermine trust and solidarity and make the world more vulnerable to future crises, including climate change \u00b7 Secretary-General to convene leaders on 28 September to mobilize action \u00b7 New Global Accelerator on Jobs and Social Protection platform launched to create 400 million jobs and extend social protection coverage to 4 billion people currently left unprotected.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005180152948014438,
+          "perplexity": 43,
+          "sentence": "New York, 27 September\u1173Investing in job-rich growth, social protection and a just transition to a net-zero emissions future, particularly in low -and middle-income countries, could prevent a further deepening of the inequalities between developed and developing economies that have been exacerbated during the COVID-19 pandemic, said UN Secretary-General, Ant\u00f3nio Guterres, in a policy brief issued today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002945187734439969,
+          "perplexity": 34,
+          "sentence": "At least US$982 billion in fiscal stimulus measures is needed to respond to the immediate labour market shocks of the crisis and to support a just transition, as well as US$ 1.2 trillion annually for social protection floors in low- and middle-income countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036834110505878925,
+          "perplexity": 29,
+          "sentence": "No advanced economy has achieved economic and social progress without investing in social protection systems and quality public services that provide people with the necessary support to navigate the vicissitudes of their lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019375667034182698,
+          "perplexity": 51,
+          "sentence": "While the wealth of billionaires increased by over US$ 3.9 trillion between March and December 2020, the impact of the pandemic on the world of work, among other factors, increased the number of extremely poor by between 119 and 224 million people\u1173the first increase in poverty in over 21 years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019516044994816184,
+          "perplexity": 29,
+          "sentence": "\u00b7 An estimated 8.8 percent of total working hours - equivalent to the hours worked in one year by 255 million full-time workers - were lost in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023051993048284203,
+          "perplexity": 25,
+          "sentence": "\u00b7 This corresponds to a loss of US$3.3 trillion in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "UN Secretary-General calls for accelerated action on jobs and social protection to avoid an uneven global recovery and prevent future crises Deeply diverging recoveries will undermine trust and solidarity and make the world more vulnerable to future crises, including climate change \u00b7 Secretary-General to convene leaders on 28 September to mobilize action \u00b7 New Global Accelerator on Jobs and Social Protection platform launched to create 400 million jobs and extend social protection coverage to 4 billion people currently left unprotected. New York, 27 September\u2014Investing in job-rich growth, social protection and a just transition to a net-zero emissions future, particularly in low -and middle-income countries, could prevent a further deepening of the inequalities between developed and developing economies that have been exacerbated during the COVID-19 pandemic, said UN Secretary-General, Ant\u00f3nio Guterres, in a policy brief issued today. At least US$982 billion in fiscal stimulus measures is needed to respond to the immediate labour market shocks of the crisis and to support a just transition, as well as US$ 1.2 trillion annually for social protection floors in low- and middle-income countries. No advanced economy has achieved economic and social progress without investing in social protection systems and quality public services that provide people with the necessary support to navigate the vicissitudes of their lives. While the wealth of billionaires increased by over US$ 3.9 trillion between March and December 2020, the impact of the pandemic on the world of work, among other factors, increased the number of extremely poor by between 119 and 224 million people\u2014the first increase in poverty in over 21 years. \u00b7 An estimated 8.8 percent of total working hours - equivalent to the hours worked in one year by 255 million full-time workers - were lost in 2020. \u00b7 This corresponds to a loss of US$3.3 trillion in",
+  "date": "29 September 2021"
+}

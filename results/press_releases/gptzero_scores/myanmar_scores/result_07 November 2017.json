@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "501c8914-a46e-49fc-b510-43daf72d5f5d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.9244441986084,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017728017701301724,
+          "perplexity": 32,
+          "sentence": "Security Council Presidential Statement Calls on Myanmar to End Excessive Military Force, Intercommunal Violence in Rakhine State Permanent Representative Says Text Places Undue Political Pressure on Government Calling on the Myanmar Government to end the excessive military force and intercommunal violence that had devastated the Rohingya community in Rakhine State, the Security Council this afternoon urged the implementation of agreed-upon mechanisms to assist return of those who have fled and to ensure access for humanitarian aid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016243703430518508,
+          "perplexity": 33,
+          "sentence": "Through a statement read out by Sebastiano Cardi (Italy), its President for November, the Council condemned attacks against the Myanmar security forces by the Arakan Rohingya Salvation Army on 25 August, while strongly condemning violence and abuses that had taken place since then that had displaced more than 607,000 people, the vast majority Rohingya, citing reports of systematic killing, sexual violence and destruction of homes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001745162153383717,
+          "perplexity": 25,
+          "sentence": "Stressing the primary responsibility of the Government of Myanmar to protect its population, the Council emphasized the importance of reform in security and justice sectors in the country's transition to democracy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014762011414859444,
+          "perplexity": 19,
+          "sentence": "It urged the Government to work with Bangladesh and the United Nations to allow the voluntary return of refugees in conditions of safety and dignity to their homes, on the basis of a 24 October Memorandum of Understanding between the two countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013850387767888606,
+          "perplexity": 74,
+          "sentence": "Welcoming Myanmar's decision to establish the \u201cUnion Enterprise Mechanism\u201d for humanitarian assistance, resettlement and development in Rakhine, the Council urged the Government to ensure that the Mechanism supported such return and allowed United Nations agencies full access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013649227912537754,
+          "perplexity": 31,
+          "sentence": "In that context, it urged the Governments and all humanitarian partners to pay special attention to the needs of women, particularly survivors of sexual violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001324412296526134,
+          "perplexity": 41,
+          "sentence": "In that regard, the Council welcomed the Myanmar Government's public support for recommendations by the Advisory Commission on Rakhine State chaired by Kofi Annan",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Security Council Presidential Statement Calls on Myanmar to End Excessive Military Force, Intercommunal Violence in Rakhine State Permanent Representative Says Text Places Undue Political Pressure on Government Calling on the Myanmar Government to end the excessive military force and intercommunal violence that had devastated the Rohingya community in Rakhine State, the Security Council this afternoon urged the implementation of agreed\u2011upon mechanisms to assist return of those who have fled and to ensure access for humanitarian aid. Through a statement read out by Sebastiano Cardi (Italy), its President for November, the Council condemned attacks against the Myanmar security forces by the Arakan Rohingya Salvation Army on 25 August, while strongly condemning violence and abuses that had taken place since then that had displaced more than 607,000 people, the vast majority Rohingya, citing reports of systematic killing, sexual violence and destruction of homes. Stressing the primary responsibility of the Government of Myanmar to protect its population, the Council emphasized the importance of reform in security and justice sectors in the country\u2019s transition to democracy. It urged the Government to work with Bangladesh and the United Nations to allow the voluntary return of refugees in conditions of safety and dignity to their homes, on the basis of a 24 October Memorandum of Understanding between the two countries. Welcoming Myanmar\u2019s decision to establish the \u201cUnion Enterprise Mechanism\u201d for humanitarian assistance, resettlement and development in Rakhine, the Council urged the Government to ensure that the Mechanism supported such return and allowed United Nations agencies full access. In that context, it urged the Governments and all humanitarian partners to pay special attention to the needs of women, particularly survivors of sexual violence. In that regard, the Council welcomed the Myanmar Government\u2019s public support for recommendations by the Advisory Commission on Rakhine State chaired by Kofi Annan",
+  "date": "07 November 2017"
+}

@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2f3a900b-8316-4fcc-8d0a-541dfa123b68",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 54.593040466308594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.009965065866708755,
+          "perplexity": 18,
+          "sentence": "World Humanitarian Day (WHD) was designated by the UN General Assembly in 2008 to coincide with the anniversary of the 2003 brutal bombing of the United Nations headquarters in Baghdad, Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008005757816135883,
+          "perplexity": 36,
+          "sentence": "Every year on 19 August, the world commemorates and recognizes humanitarian aid workers who risk their lives on the front lines in humanitarian service around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008054079487919807,
+          "perplexity": 50,
+          "sentence": "In this year's theme the world's attention is drawn to climate change and its immediate human cost on the communities affected by conflict and other violence, and the humanitarians there to help.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008571810089051723,
+          "perplexity": 29,
+          "sentence": "During his welcoming remarks, the UN Resident and Humanitarian Coordinator in Jordan, Anders Pedersen, reiterated the UN's commitment to support Jordan not only in the provision of effective and efficient humanitarian operations, but also in strengthening response to the climate crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0076533118262887,
+          "perplexity": 36,
+          "sentence": "\u201cThe climate emergency is wreaking havoc across the world at a scale that the humanitarian community is being hard pressed to respond to - and so we must take this moment to reflect and understand what the future will look like for humanitarians and their brave efforts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0069779590703547,
+          "perplexity": 199,
+          "sentence": "And what our contribution, as institutions and as world citizens, can be.\u201d Mr Pedersen said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005998874083161354,
+          "perplexity": 83,
+          "sentence": "The UNHCR representative Dominik Bartsch expressed at the event that with escalating humanitarian crises, seen as recently as last week, in Afghanistan, Haiti, and close to home in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007752895355224609,
+          "perplexity": 22,
+          "sentence": "The ability of humanitarian workers to stay and deliver is more relevant than ever, to ensure that those in crisis do not feel abandoned, and to provide hope even in the most difficult of times.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008087928406894207,
+          "perplexity": 37,
+          "sentence": "Tanya Chapuisat, the representative for UNICEF in Jordan, has underscored that: \u201cThis year's World Humanitarian Day is a stark reminder to the immediate consequences of the climate emergency for the world's most vulnerable people, especially children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007419809699058533,
+          "perplexity": 92,
+          "sentence": "To reimagine a better world for every",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "World Humanitarian Day (WHD) was designated by the UN General Assembly in 2008 to coincide with the anniversary of the 2003 brutal bombing of the United Nations headquarters in Baghdad, Iraq. Every year on 19 August, the world commemorates and recognizes humanitarian aid workers who risk their lives on the front lines in humanitarian service around the world. In this year's theme the world's attention is drawn to climate change and its immediate human cost on the communities affected by conflict and other violence, and the humanitarians there to help. During his welcoming remarks, the UN Resident and Humanitarian Coordinator in Jordan, Anders Pedersen, reiterated the UN\u2019s commitment to support Jordan not only in the provision of effective and efficient humanitarian operations, but also in strengthening response to the climate crisis. \u201cThe climate emergency is wreaking havoc across the world at a scale that the humanitarian community is being hard pressed to respond to \u2013 and so we must take this moment to reflect and understand what the future will look like for humanitarians and their brave efforts. And what our contribution, as institutions and as world citizens, can be.\u201d Mr Pedersen said. The UNHCR representative Dominik Bartsch expressed at the event that with escalating humanitarian crises, seen as recently as last week, in Afghanistan, Haiti, and close to home in Lebanon. The ability of humanitarian workers to stay and deliver is more relevant than ever, to ensure that those in crisis do not feel abandoned, and to provide hope even in the most difficult of times. Tanya Chapuisat, the representative for UNICEF in Jordan, has underscored that: \u201cThis year\u2019s World Humanitarian Day is a stark reminder to the immediate consequences of the climate emergency for the world\u2019s most vulnerable people, especially children. To reimagine a better world for every",
+  "date": "22 August 2021"
+}

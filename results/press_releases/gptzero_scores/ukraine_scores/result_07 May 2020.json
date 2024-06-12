@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "81df5fa8-ac6c-4485-a7c6-2fddb8b1bcbe",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.61115646362305,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0005992345395497978,
+          "perplexity": 69,
+          "sentence": "The main task of the UN agency, headed by Pablo Mateu in Kyiv, is to help refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046125115477479994,
+          "perplexity": 20,
+          "sentence": "However, due to the war in Donbas, UNHCR undertook much of the work to help internally displaced persons (IDP) because of the conflict, as well as socially vulnerable people living in the war zone.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000505071016959846,
+          "perplexity": 100,
+          "sentence": "Deutsche Welle journalist Eugene Teise spoke with Mr. Pablo Mateu: DW: Mr. Mateu, how aggravated are the social problems of the population in the conflict zone in Eastern Ukraine in the context of the Covid-19 pandemic?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003844417806249112,
+          "perplexity": 32,
+          "sentence": "Pablo Mateu: As a result of the conflict, primarily people of working age and families with children left, many of whom moved to the capital, Dnipro, Odesa and other large cities of the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004009522672276944,
+          "perplexity": 95,
+          "sentence": "The share of elderly people near the contact line in Donbas, usually of 23 %, reaches 41 % since the beginning of the conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040032854303717613,
+          "perplexity": 49,
+          "sentence": "Older people are most at risk during the Covid-19 pandemic, but at the same time, access to medical services is difficult in the conflict zone as many doctors have left the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037780142156407237,
+          "perplexity": 136,
+          "sentence": "Pablo Mateu: The annual budget of the UNHCR office in Ukraine is $28 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032608836772851646,
+          "perplexity": 80,
+          "sentence": "We have immediately allocated 10 % of this amount to the activities needed in view of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033495452953502536,
+          "perplexity": 203,
+          "sentence": "We first started monitoring the situation along the contact line - in 119 settlements of the government-controlled side.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034668034641072154,
+          "perplexity": 74,
+          "sentence": "This became possible thanks to cooperation with our partner - the non-governmental organisation (NGO) \u201cProliska\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034199628862552345,
+          "perplexity": 96,
+          "sentence": "Before the quarantine, 36 settlements did not have transport connections with the outside world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029840561910532415,
+          "perplexity": 123,
+          "sentence": "Now the number is 71.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031084392685443163,
+          "perplexity": 33,
+          "sentence": "About 50 villages do not have access to primary health care and do not even have grocery stores.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034793425584211946,
+          "perplexity": 38,
+          "sentence": "When people were told to stay home because of the quarantine, it became a problem to get basic groceries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034675109782256186,
+          "perplexity": 30,
+          "sentence": "We have",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The main task of the UN agency, headed by Pablo Mateu in Kyiv, is to help refugees. However, due to the war in Donbas, UNHCR undertook much of the work to help internally displaced persons (IDP) because of the conflict, as well as socially vulnerable people living in the war zone. Deutsche Welle journalist Eugene Teise spoke with Mr. Pablo Mateu: DW: Mr. Mateu, how aggravated are the social problems of the population in the conflict zone in Eastern Ukraine in the context of the Covid-19 pandemic? Pablo Mateu: As a result of the conflict, primarily people of working age and families with children left, many of whom moved to the capital, Dnipro, Odesa and other large cities of the country. The share of elderly people near the contact line in Donbas, usually of 23 %, reaches 41 % since the beginning of the conflict. Older people are most at risk during the Covid-19 pandemic, but at the same time, access to medical services is difficult in the conflict zone as many doctors have left the region. Pablo Mateu: The annual budget of the UNHCR office in Ukraine is $28 million. We have immediately allocated 10 % of this amount to the activities needed in view of the pandemic. We first started monitoring the situation along the contact line \u2013 in 119 settlements of the government-controlled side. This became possible thanks to cooperation with our partner \u2013 the non-governmental organisation (NGO) \u201cProliska\u201d. Before the quarantine, 36 settlements did not have transport connections with the outside world. Now the number is 71. About 50 villages do not have access to primary health care and do not even have grocery stores. When people were told to stay home because of the quarantine, it became a problem to get basic groceries. We have",
+  "date": "07 May 2020"
+}

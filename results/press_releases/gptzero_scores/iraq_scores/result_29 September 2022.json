@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "0dce0b91-a156-4942-afc8-ed4c943c6d9c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.243555068969727,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00018609725520946085,
+          "perplexity": 15,
+          "sentence": "BAGHDAD - On the International Day of Awareness of Food Loss and Waste (IDAFLW), the Food and Agriculture Organization of the United Nations (FAO) and the United Nations World Food Programme (WFP) call for action to address food loss and adopt sustainable food waste management in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018805383297149092,
+          "perplexity": 55,
+          "sentence": "IDAFLW aims to raise awareness about food loss, waste issues and possible solutions, to promote global efforts and collective actions toward meeting Sustainable Development Goal (SDG) target 12.3 that aims at halving per capita global food waste at retail and consumer levels and reducing food losses along production and supply chains, including post-harvest losses by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020760319603141397,
+          "perplexity": 59,
+          "sentence": "We call upon the Government of Iraq and the Kurdistan Regional Government to establish develop national targets and strategies in line with SDG 12.3.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019954773597419262,
+          "perplexity": 78,
+          "sentence": "We also call on the government to encouraging supply chain collaboration with the aim to reduce food waste during production, processing and storage stages as well as support innovative behavioral changes to shift and reduce consumer food waste norms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022874603746458888,
+          "perplexity": 37,
+          "sentence": "To reduce food waste in Iraq, efforts must be made to encourage improved behavioral practices among food providers and consumers, as well as increased investments in intra-regional trade and the modernization of food supply chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001265758037334308,
+          "perplexity": 15,
+          "sentence": "Globally, while more than 820 million people go to bed hungry each night, FAO estimates that one-third of global food production - estimated at 1.3 billion tons of food - is annually lost or wasted along the supply chain, amounting to a financial loss of about US$ 1 trillion annually.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012734711344819516,
+          "perplexity": 47,
+          "sentence": "The food produced but never eaten would be enough to feed two billion people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001300395088037476,
+          "perplexity": 18,
+          "sentence": "That's more than twice the number of people on the verge of famine across the globe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001260559365618974,
+          "perplexity": 72,
+          "sentence": "Food production has environmental and monetary costs and has become increasingly difficult in the current climatic condition with an",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BAGHDAD \u2013 On the International Day of Awareness of Food Loss and Waste (IDAFLW), the Food and Agriculture Organization of the United Nations (FAO) and the United Nations World Food Programme (WFP) call for action to address food loss and adopt sustainable food waste management in Iraq. IDAFLW aims to raise awareness about food loss, waste issues and possible solutions, to promote global efforts and collective actions toward meeting Sustainable Development Goal (SDG) target 12.3 that aims at halving per capita global food waste at retail and consumer levels and reducing food losses along production and supply chains, including post-harvest losses by 2030. We call upon the Government of Iraq and the Kurdistan Regional Government to establish develop national targets and strategies in line with SDG 12.3. We also call on the government to encouraging supply chain collaboration with the aim to reduce food waste during production, processing and storage stages as well as support innovative behavioral changes to shift and reduce consumer food waste norms. To reduce food waste in Iraq, efforts must be made to encourage improved behavioral practices among food providers and consumers, as well as increased investments in intra-regional trade and the modernization of food supply chains. Globally, while more than 820 million people go to bed hungry each night, FAO estimates that one-third of global food production \u2013 estimated at 1.3 billion tons of food \u2013 is annually lost or wasted along the supply chain, amounting to a financial loss of about US$ 1 trillion annually. The food produced but never eaten would be enough to feed two billion people. That's more than twice the number of people on the verge of famine across the globe. Food production has environmental and monetary costs and has become increasingly difficult in the current climatic condition with an",
+  "date": "29 September 2022"
+}

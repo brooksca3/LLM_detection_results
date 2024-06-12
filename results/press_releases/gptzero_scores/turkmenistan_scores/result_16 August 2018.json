@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "25065be1-7d80-4435-9203-890eb8e53625",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02354685082309966,
+        "human": 0.9754636794850778,
+        "mixed": 0.0009894696918226068
+      },
+      "completely_generated_prob": 0.02354685082309966,
+      "confidence_category": "high",
+      "confidence_score": 0.9754636794850778,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02354685082309966,
+          "human": 0.9754636794850778,
+          "mixed": 0.0009894696918226068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 133.09280395507812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01948767714202404,
+          "perplexity": 28,
+          "sentence": "The round table was co-chaired by Mr. Serdar Berdimuhamedov, the Deputy Foreign Minister of Turkmenistan and Ms. Elena Panova, the UN Resident Coordinator in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02566586621105671,
+          "perplexity": 72,
+          "sentence": "The meeting was aimed at introducing amendments to the national Matrix of SDG indicators to align with the global changes in the SDG indicators.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018024923279881477,
+          "perplexity": 72,
+          "sentence": "The participants also discussed the frequency of SDG data collection; publication of a Compilation of Provisions defining the distribution of responsibilities for data collection and analysis on the national SDG indicators among ministries and other national entities in Turkmenistan; meetings between UN agencies and line ministries to prepare for the Voluntary National Review of Turkmenistan (VNR).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02089560218155384,
+          "perplexity": 35,
+          "sentence": "Welcoming the participants, the UN Resident Coordinator noted that Turkmenistan had become the first country in the region and one of the few countries to adapt SDG indicators to the national context, stressing that the Agenda 2030 requires the collection and analysis of a vast amount of quality data to monitor the progress of SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0192655511200428,
+          "perplexity": 69,
+          "sentence": "She also drew attention of the participants to the importance of adopting the global formulation of Goals as it ensures comparability of data reported with other countries and the benefits of making data publicly available through open online portals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010561047121882439,
+          "perplexity": 406,
+          "sentence": "The national partners expressed their consent with the proposed indicator changes in the SDG matrix that now contains 175 indicators across 17 Goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004015431273728609,
+          "perplexity": 261,
+          "sentence": "The meeting further decided that joint UN-Turkmenistan expert meetings per separate Goals, with the priority given to the Goals being reviewed in relation to global Theme of HLPF 2019, will be conducted to review indicators, responsibilities, availability of their baselines and metadata.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0050024595111608505,
+          "perplexity": 102,
+          "sentence": "Upon completion of those meetings, the Turkmen side will release the Compilation of Common Provisions either in hard copy or electronically to be posted online on Government webpages.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The round table was co-chaired by Mr. Serdar Berdimuhamedov, the Deputy Foreign Minister of Turkmenistan and Ms. Elena Panova, the UN Resident Coordinator in Turkmenistan. The meeting was aimed at introducing amendments to the national Matrix of SDG indicators to align with the global changes in the SDG indicators. The participants also discussed the frequency of SDG data collection; publication of a Compilation of Provisions defining the distribution of responsibilities for data collection and analysis on the national SDG indicators among ministries and other national entities in Turkmenistan; meetings between UN agencies and line ministries to prepare for the Voluntary National Review of Turkmenistan (VNR). Welcoming the participants, the UN Resident Coordinator noted that Turkmenistan had become the first country in the region and one of the few countries to adapt SDG indicators to the national context, stressing that the Agenda 2030 requires the collection and analysis of a vast amount of quality data to monitor the progress of SDGs. She also drew attention of the participants to the importance of adopting the global formulation of Goals as it ensures comparability of data reported with other countries and the benefits of making data publicly available through open online portals. The national partners expressed their consent with the proposed indicator changes in the SDG matrix that now contains 175 indicators across 17 Goals. The meeting further decided that joint UN-Turkmenistan expert meetings per separate Goals, with the priority given to the Goals being reviewed in relation to global Theme of HLPF 2019, will be conducted to review indicators, responsibilities, availability of their baselines and metadata. Upon completion of those meetings, the Turkmen side will release the Compilation of Common Provisions either in hard copy or electronically to be posted online on Government webpages.",
+  "date": "16 August 2018"
+}

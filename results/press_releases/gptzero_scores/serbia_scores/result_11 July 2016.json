@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ea2b9152-3edf-4eea-b459-e496659e8e90",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 17.277956008911133,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004570873570628464,
+          "perplexity": 23,
+          "sentence": "Belgrade, 11 July 2016 - Since the World Population Day was established in 1989, the United Nations marked it with the aim of raising awareness on the important issues of population, family planning, gender equality, poverty, reproductive health and human rights, all in the context of sustainable development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005571359070017934,
+          "perplexity": 29,
+          "sentence": "As the theme of this year's World Population Day is investing in teenage girls, United Nations Population Fund reminds that teenage girls around the world face more and greater challenges than their male counterparts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005308371037244797,
+          "perplexity": 23,
+          "sentence": "In many countries, a girl who reaches puberty is deemed by her family and community as ready for marriage, pregnancy and childbirth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006956513389013708,
+          "perplexity": 31,
+          "sentence": "\u201cWithout education, in poor health, and with little or no control over her own body, her future can be derailed, and her potential may never be realized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045210961252450943,
+          "perplexity": 32,
+          "sentence": "The challenges and obstacles faced by a teenage girl multiply if she is a member of an ethnic minority, lives in a village or is from a poor household, which is partly the case in Serbia \"said Dr Doina Bologa, UNFPA Representative for Bosnia and Herzegovina, Country Director for Serbia, the former Yugoslav Republic of Macedonia and Director for Kosovo[1].",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000611618859693408,
+          "perplexity": 23,
+          "sentence": "Adolescent girls in Serbia are less likely to use contraception than older women, and they have limited knowledge in the area of sexual and reproductive health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004767875943798572,
+          "perplexity": 16,
+          "sentence": "The rate of child marriage among the general population in Serbia is low; however, prevalence rates of child marriage are much higher among the Roma population of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033086613984778523,
+          "perplexity": 55,
+          "sentence": "According to the Multiple Indicators Cluster Survey- MICS (2014), every two in five young women age 15-19 years in Roma settlements (43 percent) are currently married or in union; while staggering 17 percent of women age 15-49 were married before age 15.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035000688512809575,
+          "perplexity": 69,
+          "sentence": "Young married Roma women also face domestic violence, not only from their husbands,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 11 July 2016 - Since the World Population Day was established in 1989, the United Nations marked it with the aim of raising awareness on the important issues of population, family planning, gender equality, poverty, reproductive health and human rights, all in the context of sustainable development. As the theme of this year's World Population Day is investing in teenage girls, United Nations Population Fund reminds that teenage girls around the world face more and greater challenges than their male counterparts. In many countries, a girl who reaches puberty is deemed by her family and community as ready for marriage, pregnancy and childbirth. \u201cWithout education, in poor health, and with little or no control over her own body, her future can be derailed, and her potential may never be realized. The challenges and obstacles faced by a teenage girl multiply if she is a member of an ethnic minority, lives in a village or is from a poor household, which is partly the case in Serbia \"said Dr Doina Bologa, UNFPA Representative for Bosnia and Herzegovina, Country Director for Serbia, the former Yugoslav Republic of Macedonia and Director for Kosovo[1]. Adolescent girls in Serbia are less likely to use contraception than older women, and they have limited knowledge in the area of sexual and reproductive health. The rate of child marriage among the general population in Serbia is low; however, prevalence rates of child marriage are much higher among the Roma population of Serbia. According to the Multiple Indicators Cluster Survey- MICS (2014), every two in five young women age 15-19 years in Roma settlements (43 percent) are currently married or in union; while staggering 17 percent of women age 15-49 were married before age 15. Young married Roma women also face domestic violence, not only from their husbands,",
+  "date": "11 July 2016"
+}

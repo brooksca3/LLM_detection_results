@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6d0d788e-8b24-4291-99e4-9ef1c903c853",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.10664749145508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003122220514342189,
+          "perplexity": 83,
+          "sentence": "// A transcript of remarks made to the press in three different locations outside of Kiyv, Ukraine // When I see those destroyed buildings, I must say what I feel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028694706270471215,
+          "perplexity": 72,
+          "sentence": "I imagined my family in one of those houses that is now destroyed and black.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032687236671335995,
+          "perplexity": 96,
+          "sentence": "I see my granddaughters running away in panic, part of the family eventually killed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003154576988890767,
+          "perplexity": 31,
+          "sentence": "So, the war is an absurdity in the 21st century.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042153926915489137,
+          "perplexity": 196,
+          "sentence": "The war is evil.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002980235149152577,
+          "perplexity": 77,
+          "sentence": "And when one sees these situations our heart, of course, stays with the victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030141015304252505,
+          "perplexity": 53,
+          "sentence": "Our condolences to their families, but are emotions are that there is no way a war can be acceptable in the 21st century.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030379457166418433,
+          "perplexity": 21,
+          "sentence": "Look at that.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030663193319924176,
+          "perplexity": 99,
+          "sentence": "BUCHA (Church of the St Andrew the First-Called All Saints) When we this horrendous site, it makes me feel how important it is [to have] a thorough investigation and accountability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003227939014323056,
+          "perplexity": 73,
+          "sentence": "I am glad that International Criminal Court is seized of the situation and that the prosecutor's office was already here.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003709523007273674,
+          "perplexity": 21,
+          "sentence": "I fully support the International Criminal Court and I appeal to the Russian Federation to accept to cooperate with the International Criminal Court.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003573760041035712,
+          "perplexity": 22,
+          "sentence": "But when we talk about war crimes, we cannot forget that the worst of crimes is war itself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036752523737959564,
+          "perplexity": 104,
+          "sentence": "This horrific scenario demonstrates something that is unfortunately, always true: civilians always pay the highest price.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003362390852998942,
+          "perplexity": 71,
+          "sentence": "Innocent civilians were living in these buildings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033343100221827626,
+          "perplexity": 30,
+          "sentence": "They were paying the highest price for a war for which they had not contributed at all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033077842090278864,
+          "perplexity": 32,
+          "sentence": "And this is something everybody should remember, everywhere in the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003274206828791648,
+          "perplexity": 37,
+          "sentence": "Wherever there is a war, the highest price is paid by civilians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004433120775502175,
+          "perplexity": 74,
+          "sentence": "Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "// A transcript of remarks made to the press in three different locations outside of Kiyv, Ukraine // When I see those destroyed buildings, I must say what I feel. I imagined my family in one of those houses that is now destroyed and black. I see my granddaughters running away in panic, part of the family eventually killed. So, the war is an absurdity in the 21st century. The war is evil. And when one sees these situations our heart, of course, stays with the victims. Our condolences to their families, but are emotions are that there is no way a war can be acceptable in the 21st century. Look at that. BUCHA (Church of the St Andrew the First-Called All Saints) When we this horrendous site, it makes me feel how important it is [to have] a thorough investigation and accountability. I am glad that International Criminal Court is seized of the situation and that the prosecutor's office was already here. I fully support the International Criminal Court and I appeal to the Russian Federation to accept to cooperate with the International Criminal Court. But when we talk about war crimes, we cannot forget that the worst of crimes is war itself. This horrific scenario demonstrates something that is unfortunately, always true: civilians always pay the highest price. Innocent civilians were living in these buildings. They were paying the highest price for a war for which they had not contributed at all. And this is something everybody should remember, everywhere in the world. Wherever there is a war, the highest price is paid by civilians. Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+  "date": "28 April 2022"
+}

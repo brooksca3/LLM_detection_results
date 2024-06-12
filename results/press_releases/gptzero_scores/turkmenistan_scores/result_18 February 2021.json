@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e7e5323a-f959-44a4-a520-349f629605dc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.021143711189884885,
+        "human": 0.9778932212196855,
+        "mixed": 0.0009630675904295393
+      },
+      "completely_generated_prob": 0.021143711189884885,
+      "confidence_category": "high",
+      "confidence_score": 0.9778932212196855,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.021143711189884885,
+          "human": 0.9778932212196855,
+          "mixed": 0.0009630675904295393
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 43.646305084228516,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.009366065263748169,
+          "perplexity": 32,
+          "sentence": "The report, Making Peace with Nature, lays out the gravity of these three environmental crises by drawing on global assessments, including those from the Intergovernmental Panel on Climate Change and the Intergovernmental Science-Policy Platform for Biodiversity and Ecosystem Services, as well as UNEP's Global Environment Outlook report, the UNEP International Resource Panel, and new findings on the emergence of zoonotic diseases such as COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006007933523505926,
+          "perplexity": 51,
+          "sentence": "The authors assess the links between multiple environmental and development challenges, and explain how advances in science and bold policymaking can open a pathway towards the achievement of the Sustainable Development Goals by 2030 and a carbon neutral world by 2050 while bending the curve on biodiversity loss and curbing pollution and waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033486534375697374,
+          "perplexity": 160,
+          "sentence": "Taking that path means innovation and investment only in activities that protect both people and nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022682102862745523,
+          "perplexity": 91,
+          "sentence": "Success will include restored ecosystems and healthier lives as well as a stable climate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002696105744689703,
+          "perplexity": 35,
+          "sentence": "\u201cBy bringing together the latest scientific evidence showing the impacts and threats of the climate emergency, the biodiversity crisis and the pollution that kills millions of people every year, [this report] makes clear that our war on nature has left the planet broken,\u201d UN Secretary-General Ant\u00f3nio Guterres said in the report's Foreword.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002880894346162677,
+          "perplexity": 78,
+          "sentence": "\u201cBut it also guides us to a safer place by providing a peace plan and a post-war rebuilding programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0052431002259254456,
+          "perplexity": 103,
+          "sentence": "\u201cBy transforming how we view nature, we can recognize its true value.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028308117762207985,
+          "perplexity": 136,
+          "sentence": "By reflecting this value in policies, plans and economic systems, we can channel investments into activities that restore nature and are rewarded for it,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001982427202165127,
+          "perplexity": 73,
+          "sentence": "\u201cBy recognizing nature as an indispensable ally, we can unleash human ingenuity in the service of sustainability and secure our own health and well-being alongside that of the planet.\u201d Amid a wave of investment to re-energize economies hit by the COVID-19 pandemic, the blueprint",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The report, Making Peace with Nature, lays out the gravity of these three environmental crises by drawing on global assessments, including those from the Intergovernmental Panel on Climate Change and the Intergovernmental Science-Policy Platform for Biodiversity and Ecosystem Services, as well as UNEP\u2019s Global Environment Outlook report, the UNEP International Resource Panel, and new findings on the emergence of zoonotic diseases such as COVID-19. The authors assess the links between multiple environmental and development challenges, and explain how advances in science and bold policymaking can open a pathway towards the achievement of the Sustainable Development Goals by 2030 and a carbon neutral world by 2050 while bending the curve on biodiversity loss and curbing pollution and waste. Taking that path means innovation and investment only in activities that protect both people and nature. Success will include restored ecosystems and healthier lives as well as a stable climate. \u201cBy bringing together the latest scientific evidence showing the impacts and threats of the climate emergency, the biodiversity crisis and the pollution that kills millions of people every year, [this report] makes clear that our war on nature has left the planet broken,\u201d UN Secretary-General Ant\u00f3nio Guterres said in the report\u2019s Foreword. \u201cBut it also guides us to a safer place by providing a peace plan and a post-war rebuilding programme. \u201cBy transforming how we view nature, we can recognize its true value. By reflecting this value in policies, plans and economic systems, we can channel investments into activities that restore nature and are rewarded for it,\u201d he added. \u201cBy recognizing nature as an indispensable ally, we can unleash human ingenuity in the service of sustainability and secure our own health and well-being alongside that of the planet.\u201d Amid a wave of investment to re-energize economies hit by the COVID-19 pandemic, the blueprint",
+  "date": "18 February 2021"
+}

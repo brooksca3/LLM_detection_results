@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "729b0a4d-2c60-4502-9d79-70c82df32ed5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772327922705597,
+        "human": 0.996727088382825,
+        "mixed": 0.0005005836944694566
+      },
+      "completely_generated_prob": 0.002772327922705597,
+      "confidence_category": "high",
+      "confidence_score": 0.996727088382825,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772327922705597,
+          "human": 0.996727088382825,
+          "mixed": 0.0005005836944694566
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.072277069091797,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.000511628168169409,
+          "perplexity": 121,
+          "sentence": "Ms Elena Panova, UN Resident Coordinator, and Mr. Dayanch Gulgeldiyev, Minister of Sports and Youth Policy, chaired the meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002760444476734847,
+          "perplexity": 103,
+          "sentence": "The participants representing all national partners who participated in conducting the Situational Analysis and the UN Country Team received information on the activities carried out to implement the State Program on realization of the state youth policy for 2015-2020 delivered by the Deputy Chair of the Youth Organization and reviewed the recommendations developed based on results of the Inter-Agency Analysis on youth held in 2019 by the UN international expert (YSitAn).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032267329515889287,
+          "perplexity": 50,
+          "sentence": "\u201cThe degree to which each young person will be healthy, educated and able to work in 2030 will serve as an indicator of how successfully together we were able to realize and achieve our goals and objectives at the global, regional and national levels\u201d, noted Ms. Elena Panova, UN Resident Coordinator in Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030036427779123187,
+          "perplexity": 71,
+          "sentence": "Highlighting the impact of the digital age on youth, Minister Dayanch Gulgeldiyev said: \u201cGiven the digitalization of modern society, the new generation of internet usage and innovative thinking among the younger generation, we propose to consider issues related to creating a safe environment for adolescents and youth, training them for smooth integration into the economic legal field, gender equality, as well as educating young representatives of society of culture behavior in cyberspace and the development of their active mobile lifestyle.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000277369050309062,
+          "perplexity": 79,
+          "sentence": "For these purposes, it is necessary to consolidate all resources, both state and public\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021969893714413047,
+          "perplexity": 69,
+          "sentence": "The meeting provided an opportunity to discuss the vision of the national side and agree on the following practical actions in further promoting the national youth policy in the framework of achieving the Agenda 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001765639171935618,
+          "perplexity": 106,
+          "sentence": "As a result of the round table the following steps were agreed: The YSitAn covered the current situation of young women and men aged 10-24 years old across",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Ms Elena Panova, UN Resident Coordinator, and Mr. Dayanch Gulgeldiyev, Minister of Sports and Youth Policy, chaired the meeting. The participants representing all national partners who participated in conducting the Situational Analysis and the UN Country Team received information on the activities carried out to implement the State Program on realization of the state youth policy for 2015-2020 delivered by the Deputy Chair of the Youth Organization and reviewed the recommendations developed based on results of the Inter-Agency Analysis on youth held in 2019 by the UN international expert (YSitAn). \u201cThe degree to which each young person will be healthy, educated and able to work in 2030 will serve as an indicator of how successfully together we were able to realize and achieve our goals and objectives at the global, regional and national levels\u201d, noted Ms. Elena Panova, UN Resident Coordinator in Turkmenistan. Highlighting the impact of the digital age on youth, Minister Dayanch Gulgeldiyev said: \u201cGiven the digitalization of modern society, the new generation of internet usage and innovative thinking among the younger generation, we propose to consider issues related to creating a safe environment for adolescents and youth, training them for smooth integration into the economic legal field, gender equality, as well as educating young representatives of society of culture behavior in cyberspace and the development of their active mobile lifestyle. For these purposes, it is necessary to consolidate all resources, both state and public\u201d. The meeting provided an opportunity to discuss the vision of the national side and agree on the following practical actions in further promoting the national youth policy in the framework of achieving the Agenda 2030. As a result of the round table the following steps were agreed: The YSitAn covered the current situation of young women and men aged 10-24 years old across",
+  "date": "19 December 2019"
+}

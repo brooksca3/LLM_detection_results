@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dd99045d-bb36-4074-936d-15c364c35ee7",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.72269821166992,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031025419593788683,
+          "perplexity": 17,
+          "sentence": "BAGHDAD - On Sunday, 26 March, the United Nations World Food Programme (WFP) signed a Letter of Cooperation (LoC) with the Government of Iraq's Ministry of Trade (MoT) to formalize their collaboration to reform the Public Distribution System (PDS) in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033219289616681635,
+          "perplexity": 96,
+          "sentence": "By signing the LoC, WFP and MoT commit to providing access to a comprehensive, inclusive, shock-responsive, and end-to-end digitalized Public Distribution System.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003226646513212472,
+          "perplexity": 19,
+          "sentence": "The joint goal is to ensure that no one is left behind and that vulnerable groups, including children, youth, women, the elderly, and people with disabilities inside Iraq will benefit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003049474617000669,
+          "perplexity": 62,
+          "sentence": "WFP and MoT have successfully introduced end-to-end digitalization in the governorate of Najaf in record time and are currently preparing to scale it up in other parts of Iraq, gradually moving towards a reformed PDS in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003077950095757842,
+          "perplexity": 109,
+          "sentence": "Further down the line, WFP and MoT aim to incorporate the results of this collaboration towards integration with the Single Registry platform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026113257627002895,
+          "perplexity": 46,
+          "sentence": "As part of its strategic support to the Government of Iraq, WFP has been providing technical assistance bringing in best practices to ensure citizens have improved access to social protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002443951671011746,
+          "perplexity": 113,
+          "sentence": "In addition to building the capacities of MoT staff, WFP has supported the Government by providing equipment and increasing public awareness of the PDS reform, including through a social behavioural change communication campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026783268549479544,
+          "perplexity": 67,
+          "sentence": "\u201cI trust that this solid collaboration with the Iraqi Ministry of Trade will stand as a testament to the will and perseverance of both parties to give their utmost to support the people of Iraq,\u201d said WFP Iraq Representative, Ally Raza Qureshi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002836947678588331,
+          "perplexity": 82,
+          "sentence": "\u201cThis collaboration will pave the way towards more efficient and meaningful change in Government processes towards helping the people of Iraq.\u201d WPF thanks its donors, the EU, BMZ and BHA, who, through their generous support, have ensured that this reformative work can be",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "BAGHDAD \u2013 On Sunday, 26 March, the United Nations World Food Programme (WFP) signed a Letter of Cooperation (LoC) with the Government of Iraq\u2019s Ministry of Trade (MoT) to formalize their collaboration to reform the Public Distribution System (PDS) in Iraq. By signing the LoC, WFP and MoT commit to providing access to a comprehensive, inclusive, shock-responsive, and end-to-end digitalized Public Distribution System. The joint goal is to ensure that no one is left behind and that vulnerable groups, including children, youth, women, the elderly, and people with disabilities inside Iraq will benefit. WFP and MoT have successfully introduced end-to-end digitalization in the governorate of Najaf in record time and are currently preparing to scale it up in other parts of Iraq, gradually moving towards a reformed PDS in Iraq. Further down the line, WFP and MoT aim to incorporate the results of this collaboration towards integration with the Single Registry platform. As part of its strategic support to the Government of Iraq, WFP has been providing technical assistance bringing in best practices to ensure citizens have improved access to social protection. In addition to building the capacities of MoT staff, WFP has supported the Government by providing equipment and increasing public awareness of the PDS reform, including through a social behavioural change communication campaign. \u201cI trust that this solid collaboration with the Iraqi Ministry of Trade will stand as a testament to the will and perseverance of both parties to give their utmost to support the people of Iraq,\u201d said WFP Iraq Representative, Ally Raza Qureshi. \u201cThis collaboration will pave the way towards more efficient and meaningful change in Government processes towards helping the people of Iraq.\u201d WPF thanks its donors, the EU, BMZ and BHA, who, through their generous support, have ensured that this reformative work can be",
+  "date": "27 March 2023"
+}

@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "202da7a7-9ab8-4f58-a2fc-2cf7263e9d02",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.48625946044922,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001164574408903718,
+          "perplexity": 29,
+          "sentence": "On 3 August 2022, the Secretary-General announced his decision to launch a Fact-Finding Mission regarding the 29 July 2022 Incident at Olenivka, Ukraine, following requests from the Governments of Ukraine and the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014005436096340418,
+          "perplexity": 26,
+          "sentence": "The Mission will endeavor to ascertain the facts of the incident and report to the Secretary-General upon completion of its work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007873639115132391,
+          "perplexity": 66,
+          "sentence": "The Secretary-General has appointed Lieutenant General (Retired) Carlos Alberto dos Santos Cruz of Brazil to lead the Fact-Finding Mission, whose other members are Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir of Iceland and Issoufou Yacouba of Niger.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006530075916089118,
+          "perplexity": 65,
+          "sentence": "General dos Santos Cruz has over 45 years of national and international military and civilian experience.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006834319792687893,
+          "perplexity": 40,
+          "sentence": "In 2017, he led a United Nations high-level review on addressing violence against UN peacekeepers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006195351015776396,
+          "perplexity": 17,
+          "sentence": "General dos Santos Cruz served as Force Commander of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) from 2013 to 2015, and of the United Nations Stabilization Mission in Haiti (MINUSTAH) from 2007 until 2009.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007452367572113872,
+          "perplexity": 48,
+          "sentence": "He has held numerous leadership positions in Brazil.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006659072241745889,
+          "perplexity": 63,
+          "sentence": "Ms. Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir brings to the Fact-Finding Mission over 40 years of experience in international and national public service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005725869559682906,
+          "perplexity": 27,
+          "sentence": "Most recently, she served as Deputy Special Representative of the Secretary-General for Iraq from 2021 to 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006298546213656664,
+          "perplexity": 22,
+          "sentence": "Prior to that, Ms. G\u00edslad\u00f3ttir carried out various high-level assignments with the Organization for Security and Cooperation in Europe (OSCE) and UNWOMEN.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005850649322383106,
+          "perplexity": 34,
+          "sentence": "She was Iceland's Foreign Affairs Minister from 2007 to 2009.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005932875792495906,
+          "perplexity": 11,
+          "sentence": "She also served as a member of Parliament for seven years and as Mayor of Reykjav\u00edk for nine years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006391978240571916,
+          "perplexity": 71,
+          "sentence": "Mr. Issoufou Yacouba brings several decades of experience in national and international police service.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000588130671530962,
+          "perplexity": 42,
+          "sentence": "Most recently, Mr. Yacouba was Police Commissioner at the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) from 2016 to 2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000565852562431246,
+          "perplexity": 24,
+          "sentence": "Prior to that he also served with the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 3 August 2022, the Secretary-General announced his decision to launch a Fact-Finding Mission regarding the 29 July 2022 Incident at Olenivka, Ukraine, following requests from the Governments of Ukraine and the Russian Federation. The Mission will endeavor to ascertain the facts of the incident and report to the Secretary-General upon completion of its work. The Secretary-General has appointed Lieutenant General (Retired) Carlos Alberto dos Santos Cruz of Brazil to lead the Fact-Finding Mission, whose other members are Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir of Iceland and Issoufou Yacouba of Niger. General dos Santos Cruz has over 45 years of national and international military and civilian experience. In 2017, he led a United Nations high-level review on addressing violence against UN peacekeepers. General dos Santos Cruz served as Force Commander of the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) from 2013 to 2015, and of the United Nations Stabilization Mission in Haiti (MINUSTAH) from 2007 until 2009. He has held numerous leadership positions in Brazil. Ms. Ingibj\u00f6rg S\u00f3lr\u00fan G\u00edslad\u00f3ttir brings to the Fact-Finding Mission over 40 years of experience in international and national public service. Most recently, she served as Deputy Special Representative of the Secretary-General for Iraq from 2021 to 2022. Prior to that, Ms. G\u00edslad\u00f3ttir carried out various high-level assignments with the Organization for Security and Cooperation in Europe (OSCE) and UNWOMEN. She was Iceland\u2019s Foreign Affairs Minister from 2007 to 2009. She also served as a member of Parliament for seven years and as Mayor of Reykjav\u00edk for nine years. Mr. Issoufou Yacouba brings several decades of experience in national and international police service. Most recently, Mr. Yacouba was Police Commissioner at the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) from 2016 to 2021. Prior to that he also served with the",
+  "date": "22 August 2022"
+}

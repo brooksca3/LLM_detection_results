@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "80857432-8c62-4a29-b34f-f07aad9faa0b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002772350721328975,
+        "human": 0.9966464943632503,
+        "mixed": 0.0005811549154207057
+      },
+      "completely_generated_prob": 0.002772350721328975,
+      "confidence_category": "high",
+      "confidence_score": 0.9966464943632503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002772350721328975,
+          "human": 0.9966464943632503,
+          "mixed": 0.0005811549154207057
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 207.76902770996094,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013662131095770746,
+          "perplexity": 33,
+          "sentence": "COVAX delivers first batch of 10 million doses of US-donated Pfizer COVID-19 vaccine in Pakistan This first batch of 3 million doses is the first out of a total of 10 million doses of Pfizer COVID-19 vaccine donated by the Government of the United States and delivered by the COVAX facility as part of its dose-sharing mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013340487203095108,
+          "perplexity": 122,
+          "sentence": "ISLAMABAD, 26 August 2021 - Today three million doses of Pfizer COVID-19 vaccine donated by the Government of the United States were delivered by the COVAX Facility to Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014016461500432342,
+          "perplexity": 151,
+          "sentence": "This is the first tranche of 10,358,010 US-donated doses which are being supplied through the global COVID-19 equity scheme's dose-sharing mechanism.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014312182611320168,
+          "perplexity": 64,
+          "sentence": "Over the past four months, COVAX has delivered more than 17 million doses of COVID-19 vaccine to Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011891366011695936,
+          "perplexity": 47,
+          "sentence": "This includes 3 million doses of Pfizer and 5.5 million doses of Moderna donated by the United States under COVAX's dose-sharing mechanism; 6.1 million doses of Sinopharm, 2.4 million doses of AstraZeneca and 100,160 doses of Pfizer COVID-19 vaccine procured by COVAX.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014759409532416612,
+          "perplexity": 22,
+          "sentence": "More doses are expected to arrive in the coming weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015137052105274051,
+          "perplexity": 204,
+          "sentence": "All doses support the Government of Pakistan's national vaccination campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018724867550190538,
+          "perplexity": 30,
+          "sentence": "The National Command and Operation Center has just announced that children above the age of 17 would be eligible for vaccination from September 1st, as well as anyone above 12 who is immunocompromised.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000259915686910972,
+          "perplexity": 781,
+          "sentence": "\u201cCOVID -19 vaccines are effective and safe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006813567015342414,
+          "perplexity": 114,
+          "sentence": "The arrival of additional COVAX vaccine comes at a crucial time when Pakistan is facing a surge in COVID-19 infections with approximately reporting 4,000 cases per day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003920911403838545,
+          "perplexity": 54,
+          "sentence": "WHO appreciates the Government of the United States for their continued and generous support to Pakistan, said Dr Palitha Mahipala, WHO Representative in Pakistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003405994502827525,
+          "perplexity": 156,
+          "sentence": "\u201cWHO is committed to ensuring equitable vaccine allocation leaving no one behind and fully support the Government of Pakistan's efforts to increase",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "COVAX delivers first batch of 10 million doses of US-donated Pfizer COVID-19 vaccine in Pakistan This first batch of 3 million doses is the first out of a total of 10 million doses of Pfizer COVID-19 vaccine donated by the Government of the United States and delivered by the COVAX facility as part of its dose-sharing mechanism. ISLAMABAD, 26 August 2021 \u2013 Today three million doses of Pfizer COVID-19 vaccine donated by the Government of the United States were delivered by the COVAX Facility to Pakistan. This is the first tranche of 10,358,010 US-donated doses which are being supplied through the global COVID-19 equity scheme\u2019s dose-sharing mechanism. Over the past four months, COVAX has delivered more than 17 million doses of COVID-19 vaccine to Pakistan. This includes 3 million doses of Pfizer and 5.5 million doses of Moderna donated by the United States under COVAX\u2019s dose-sharing mechanism; 6.1 million doses of Sinopharm, 2.4 million doses of AstraZeneca and 100,160 doses of Pfizer COVID-19 vaccine procured by COVAX. More doses are expected to arrive in the coming weeks. All doses support the Government of Pakistan\u2019s national vaccination campaign. The National Command and Operation Center has just announced that children above the age of 17 would be eligible for vaccination from September 1st, as well as anyone above 12 who is immunocompromised. \u201cCOVID -19 vaccines are effective and safe. The arrival of additional COVAX vaccine comes at a crucial time when Pakistan is facing a surge in COVID-19 infections with approximately reporting 4,000 cases per day. WHO appreciates the Government of the United States for their continued and generous support to Pakistan, said Dr Palitha Mahipala, WHO Representative in Pakistan. \u201cWHO is committed to ensuring equitable vaccine allocation leaving no one behind and fully support the Government of Pakistan\u2019s efforts to increase",
+  "date": "26 August 2021"
+}

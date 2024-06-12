@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "15422e8c-c64e-43e7-a7a5-4d22b4844bd3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.312615394592285,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001584794226801023,
+          "perplexity": 23,
+          "sentence": "New York, 19 July 2017 - Prof. Dr Slavica Djukic Dejanovic, Minister without Portfolio responsible for population policy who has been appointed by the Government of the Republic of Serbia as the Head of the Inter-Ministerial Working Group on the Implementation of the UN Agenda 2030 for Sustainable Development, attends the three-day ministerial segment of the High-Level Political Forum on Sustainable Development, held in New York from July 17 to July 20, 2017.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001704404130578041,
+          "perplexity": 60,
+          "sentence": "Minister Djukic Dejanovic had the opportunity to address the political forum that is of key importance for overseeing the process of monitoring and reviewing the implementation of the UN Agenda 2030 for Sustainable Development on a global level and is a key mechanism for monitoring results in meeting the agreed obligations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001688641932560131,
+          "perplexity": 52,
+          "sentence": "In her address, she stressed that Serbia is fully committed to the implementation of the Agenda 2030, and that the prioritization of 17 Goals and 169 Targets and their adaptation to situation in country is in progress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001546391868032515,
+          "perplexity": 35,
+          "sentence": "The Inter-Ministerial Working Group of the Government of Serbia will commence with intensive activities to prepare a voluntary national report on the implementation of the Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013464027142617851,
+          "perplexity": 48,
+          "sentence": "In May the Government of the Republic of Serbia and the UN Country Team in Serbia launched the Development Partnership Framework for the period 2016 to 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012913376849610358,
+          "perplexity": 29,
+          "sentence": "The Development Partnership Framework is fully aligned with the national development priorities, as well as with the process of process of accession negotiations of the Republic of Serbia and the European Union and the UN Agenda for sustainable development by 2030.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001332648826064542,
+          "perplexity": 62,
+          "sentence": "High-level political forum is attended by representatives of 12 groups of countries, ministers from 124 countries and observers from international organizations.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 19 July 2017 - Prof. Dr Slavica Djukic Dejanovic, Minister without Portfolio responsible for population policy who has been appointed by the Government of the Republic of Serbia as the Head of the Inter-Ministerial Working Group on the Implementation of the UN Agenda 2030 for Sustainable Development, attends the three-day ministerial segment of the High-Level Political Forum on Sustainable Development, held in New York from July 17 to July 20, 2017. Minister Djukic Dejanovic had the opportunity to address the political forum that is of key importance for overseeing the process of monitoring and reviewing the implementation of the UN Agenda 2030 for Sustainable Development on a global level and is a key mechanism for monitoring results in meeting the agreed obligations. In her address, she stressed that Serbia is fully committed to the implementation of the Agenda 2030, and that the prioritization of 17 Goals and 169 Targets and their adaptation to situation in country is in progress. The Inter-Ministerial Working Group of the Government of Serbia will commence with intensive activities to prepare a voluntary national report on the implementation of the Agenda. In May the Government of the Republic of Serbia and the UN Country Team in Serbia launched the Development Partnership Framework for the period 2016 to 2020. The Development Partnership Framework is fully aligned with the national development priorities, as well as with the process of process of accession negotiations of the Republic of Serbia and the European Union and the UN Agenda for sustainable development by 2030. High-level political forum is attended by representatives of 12 groups of countries, ministers from 124 countries and observers from international organizations.",
+  "date": "19 July 2017"
+}

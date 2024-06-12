@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "53c9cf81-638b-4975-92fa-575f62bc48d9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 35.85586166381836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016044359654188156,
+          "perplexity": 16,
+          "sentence": "Baghdad - In the face of Iraq's deepening financial crisis, the International Organization for Migration (IOM) in Iraq and the Government of Finland launched a EUR 2,000,000 project to support displacement-affected individuals whose businesses were destroyed or severely damaged by the conflict with the Islamic State in Iraq and the Levant (ISIL).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015172282292041928,
+          "perplexity": 23,
+          "sentence": "Among internally displaced persons (IDPs), returnees and host communities across the country, the project will pay particular attention to women and other marginalized groups that face disproportionate barriers accessing the labour market.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015106383943930268,
+          "perplexity": 54,
+          "sentence": "Already a significant concern in conflict- and displacement-affected areas struggling to bounce back from the ISIL conflict, livelihoods have emerged as a main factor impeding the return of IDPs to their areas of origin due to the combined effects of a recent drop in oil revenues and the lingering impact of COVID-19 restrictions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001543675025459379,
+          "perplexity": 29,
+          "sentence": "In Iraq's south, agricultural livelihoods are increasingly devastated by water scarcity, contributing to a rise in displacement from rural to urban areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014453826588578522,
+          "perplexity": 120,
+          "sentence": "\u201cSupporting businesses and livelihood opportunities is of critical importance to responding to the needs of IDPs, returnees and host community members,\u201d said Chief of Mission for IOM in Iraq, Mr. Giorgi Gigauri.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013661479169968516,
+          "perplexity": 67,
+          "sentence": "\u201cWith the generous support of the Government of Finland, IOM will work to help mitigate this key barrier to return in order to foster conditions that enable durable solutions for displacement-affected persons - particularly women and other economically-vulnerable groups.\u201d \u201cPrivate sector plays an important role in promoting women's economic empowerment and creating jobs,\u201d stated Finnish Ambassador to Iraq, Mr. Matti Lassila.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013965244579594582,
+          "perplexity": 60,
+          "sentence": "\u201cOne key goal of Finland's development policy is to improve the access of women entrepreneurs to finance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013336811389308423,
+          "perplexity": 93,
+          "sentence": "Through the IOM's EDF-Women approach, women-led businesses will have access to grants as well as customized support services needed to run successful businesses.\u201d Indeed, the project will support economic recovery and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad \u2013 In the face of Iraq\u2019s deepening financial crisis, the International Organization for Migration (IOM) in Iraq and the Government of Finland launched a EUR 2,000,000 project to support displacement-affected individuals whose businesses were destroyed or severely damaged by the conflict with the Islamic State in Iraq and the Levant (ISIL). Among internally displaced persons (IDPs), returnees and host communities across the country, the project will pay particular attention to women and other marginalized groups that face disproportionate barriers accessing the labour market. Already a significant concern in conflict- and displacement-affected areas struggling to bounce back from the ISIL conflict, livelihoods have emerged as a main factor impeding the return of IDPs to their areas of origin due to the combined effects of a recent drop in oil revenues and the lingering impact of COVID-19 restrictions. In Iraq\u2019s south, agricultural livelihoods are increasingly devastated by water scarcity, contributing to a rise in displacement from rural to urban areas. \u201cSupporting businesses and livelihood opportunities is of critical importance to responding to the needs of IDPs, returnees and host community members,\u201d said Chief of Mission for IOM in Iraq, Mr. Giorgi Gigauri. \u201cWith the generous support of the Government of Finland, IOM will work to help mitigate this key barrier to return in order to foster conditions that enable durable solutions for displacement-affected persons \u2013 particularly women and other economically-vulnerable groups.\u201d \u201cPrivate sector plays an important role in promoting women\u2019s economic empowerment and creating jobs,\u201d stated Finnish Ambassador to Iraq, Mr. Matti Lassila. \u201cOne key goal of Finland\u2019s development policy is to improve the access of women entrepreneurs to finance. Through the IOM\u2019s EDF-Women approach, women-led businesses will have access to grants as well as customized support services needed to run successful businesses.\u201d Indeed, the project will support economic recovery and",
+  "date": "11 December 2022"
+}

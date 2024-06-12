@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "af970110-229e-488c-a9ce-218774a37ada",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 1518.8282470703125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012866291217505932,
+          "perplexity": 26,
+          "sentence": "The Royal Scientific Society (RSS) and the United Nations Industrial Development Organization (UNIDO) Sunday organized a meeting highlighting progress made toward the implementation of the second phase of the EU-funded project \"Transfer of Environmentally Sound Technology\" (TEST III).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012383979628793895,
+          "perplexity": 42,
+          "sentence": "The teleconference was attended by representatives of the European Commission's delegation in Amman and other national stakeholders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001222545251948759,
+          "perplexity": 381,
+          "sentence": "MED TEST III Project is a sub-component of Switch-Med Program.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012153493298683316,
+          "perplexity": 83,
+          "sentence": "The second phase of TEST III aims to extend the progress achieved in the MED TEST II project (2015-2018) to demonstrate the effectiveness and economic growth potential of Resource Efficient and Cleaner Production (RECP)/TEST methodology to additional industry sectors, companies and service providers in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011709240061463788,
+          "perplexity": 130,
+          "sentence": "An agreement was signed between the UNIDO and the RSS in 2019 to implement the MED TEST III project in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011609721696004272,
+          "perplexity": 44,
+          "sentence": "To drive forward the adoption of RECP in Jordan, the RSS will implement the project in partnership with the Chambers of Industry, and under the strategic and technical guidance of UNIDO and support of the national focal points from the Ministry of Industry, Trade and Supply and the Ministry of Environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011568987247301266,
+          "perplexity": 41,
+          "sentence": "Enhancing productivity by integrating practices and technology that lead to greater efficiency in the use of natural resources, a reduction of waste and energy consumption, opportunities for innovation and value creation, is central to UNIDO's TEST approach.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010482798825250939,
+          "perplexity": 66,
+          "sentence": "As per the activities conducted until now, 7 companies from the chemical sector, 2 companies from the plastic sector and 6 companies from the food and beverage sector signed agreements with the RSS to demonstrate RECP/TEST assessment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010437802120577544,
+          "perplexity": 219,
+          "sentence": "And 10 additional service providers signed agreements with the RSS to participate in the demonstration of RECP/TEST assessment in the food industries to be qualified to offer the TEST methodology services in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010015279258368537,
+          "perplexity": 4905,
+          "sentence": "Two virtual plenary training introducing TEST approach to all companies together",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Royal Scientific Society (RSS) and the United Nations Industrial Development Organization (UNIDO) Sunday organized a meeting highlighting progress made toward the implementation of the second phase of the EU-funded project \"Transfer of Environmentally Sound Technology\" (TEST III). The teleconference was attended by representatives of the European Commission\u2019s delegation in Amman and other national stakeholders. MED TEST III Project is a sub-component of Switch-Med Program. The second phase of TEST III aims to extend the progress achieved in the MED TEST II project (2015-2018) to demonstrate the effectiveness and economic growth potential of Resource Efficient and Cleaner Production (RECP)/TEST methodology to additional industry sectors, companies and service providers in Jordan. An agreement was signed between the UNIDO and the RSS in 2019 to implement the MED TEST III project in Jordan. To drive forward the adoption of RECP in Jordan, the RSS will implement the project in partnership with the Chambers of Industry, and under the strategic and technical guidance of UNIDO and support of the national focal points from the Ministry of Industry, Trade and Supply and the Ministry of Environment. Enhancing productivity by integrating practices and technology that lead to greater efficiency in the use of natural resources, a reduction of waste and energy consumption, opportunities for innovation and value creation, is central to UNIDO\u2019s TEST approach. As per the activities conducted until now, 7 companies from the chemical sector, 2 companies from the plastic sector and 6 companies from the food and beverage sector signed agreements with the RSS to demonstrate RECP/TEST assessment. And 10 additional service providers signed agreements with the RSS to participate in the demonstration of RECP/TEST assessment in the food industries to be qualified to offer the TEST methodology services in Jordan. Two virtual plenary training introducing TEST approach to all companies together",
+  "date": "14 December 2020"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "60e4cb83-f67e-4f96-bf72-0a73c9386729",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022886215678826233,
+        "human": 0.9765136481267056,
+        "mixed": 0.0006001361944682159
+      },
+      "completely_generated_prob": 0.022886215678826233,
+      "confidence_category": "high",
+      "confidence_score": 0.9765136481267056,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022886215678826233,
+          "human": 0.9765136481267056,
+          "mixed": 0.0006001361944682159
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.293670654296875,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0036631205584853888,
+          "perplexity": 18,
+          "sentence": "The more than four months of Russia's war on Ukraine has created an alarming humanitarian situation across the country, particularly in the eastern Donbas region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003290762659162283,
+          "perplexity": 31,
+          "sentence": "Hostilities show no signs of abating, as proven by the last days' intense wave of airstrikes and shelling, which, once again, has left dozens of civilians killed or injured, and homes, health facilities, a mall, and other civilian infrastructure damaged.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004181989934295416,
+          "perplexity": 27,
+          "sentence": "The United Nations and humanitarian partners in Ukraine have provided life-saving assistance to nearly 9 million people since the war started.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004492809530347586,
+          "perplexity": 94,
+          "sentence": "However, despite consistent and insistent engagement to negotiate access, humanitarians have been prevented from reaching areas where people desperately need support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002734204987064004,
+          "perplexity": 31,
+          "sentence": "During this media briefing, the Humanitarian Coordinator for Ukraine, Osnat Lubrani, will bring more information about the deteriorating situation, the needs of the people affected and the challenges faced by humanitarians in Ukraine to support those in need.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022650740575045347,
+          "perplexity": 28,
+          "sentence": "Representatives from five UN agencies in Ukraine will answer questions about their work to make sure people whose lives have been upturned by the war can receive the help they need to survive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020063291303813457,
+          "perplexity": 41,
+          "sentence": "The briefing can be followed online in English and Ukrainian, or at the Media Center Ukraine, in Kyiv.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012078880099579692,
+          "perplexity": 72,
+          "sentence": "Nadiia Kyzytska, UN Resident Coordinator's Office, +380 50 900 22 97, nadiia.kyzytska@un.org Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The more than four months of Russia\u2019s war on Ukraine has created an alarming humanitarian situation across the country, particularly in the eastern Donbas region. Hostilities show no signs of abating, as proven by the last days\u2019 intense wave of airstrikes and shelling, which, once again, has left dozens of civilians killed or injured, and homes, health facilities, a mall, and other civilian infrastructure damaged. The United Nations and humanitarian partners in Ukraine have provided life-saving assistance to nearly 9 million people since the war started. However, despite consistent and insistent engagement to negotiate access, humanitarians have been prevented from reaching areas where people desperately need support. During this media briefing, the Humanitarian Coordinator for Ukraine, Osnat Lubrani, will bring more information about the deteriorating situation, the needs of the people affected and the challenges faced by humanitarians in Ukraine to support those in need. Representatives from five UN agencies in Ukraine will answer questions about their work to make sure people whose lives have been upturned by the war can receive the help they need to survive. The briefing can be followed online in English and Ukrainian, or at the Media Center Ukraine, in Kyiv. Nadiia Kyzytska, UN Resident Coordinator\u2019s Office, +380 50 900 22 97, nadiia.kyzytska@un.org Summit Business Center | 7th floor | 9B, Hrushevskoho Street | Kyiv, Ukraine",
+  "date": "29 June 2022"
+}

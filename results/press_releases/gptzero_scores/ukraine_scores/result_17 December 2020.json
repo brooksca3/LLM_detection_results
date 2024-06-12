@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dead9355-167b-4e12-8edc-0f8c2076e800",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05167003447046238,
+        "human": 0.9472839652918104,
+        "mixed": 0.0010460002377273268
+      },
+      "completely_generated_prob": 0.05167003447046238,
+      "confidence_category": "medium",
+      "confidence_score": 0.9472839652918104,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05167003447046238,
+          "human": 0.9472839652918104,
+          "mixed": 0.0010460002377273268
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.59941291809082,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03863421455025673,
+          "perplexity": 55,
+          "sentence": "\u201cThe closure of entry-exit crossing points in eastern Ukraine has resulted in the separation of families, and the loss of already limited access to healthcare, education, pensions and sources of income for people living there\u201d, said Matilda Bogner, Head of the HRMMU.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03540179878473282,
+          "perplexity": 47,
+          "sentence": "The monthly average number of crossings through the contact line in eastern Ukraine decreased from 1.1 million in 2019, to less than three hundred as a consequence of the closure of all five entry-exit crossing points from late March to late June 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03802239149808884,
+          "perplexity": 64,
+          "sentence": "Although crossings of the contact line have increased since June, their levels remain low, especially in Donetsk region, due to restrictions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03349985554814339,
+          "perplexity": 18,
+          "sentence": "In relation to the Autonomous Republic of Crimea and the city of Sevastopol, Ukraine, temporarily occupied by the Russian Federation (Crimea), the report highlights that restrictions on freedom of movement introduced by the Governments of Ukraine and the Russian Federation have also significantly affected people's access to work, education, healthcare, property and family links.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03255889564752579,
+          "perplexity": 58,
+          "sentence": "\u201cWhile some of the restrictions might be necessary to prevent the spread of the virus, where persons need to cross on humanitarian grounds, all parties must ensure that freedom of movement is respected, and that crossings of the contact line and ABL are quick, safe and dignified,\u201d said Bogner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04309886321425438,
+          "perplexity": 57,
+          "sentence": "The report also states that people in detention are particularly vulnerable to COVID-19, as some detention facilities are overcrowded and cannot fully comply with prevention measures such as physical distancing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.038679417222738266,
+          "perplexity": 56,
+          "sentence": "In Government-controlled territory, the number of cases amongst penitentiary staff grew rapidly in October and November, increasing the risk of infection among detainees and prisoners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02743837982416153,
+          "perplexity": 61,
+          "sentence": "While no reliable figures regarding COVID-19 cases in detention are available in territory controlled by self-proclaimed 'Donetsk people's republic', self-proclaimed 'Luhansk people's republic' and in Crimea, persons in detention there reportedly lacked personal protective equipment and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "\u201cThe closure of entry-exit crossing points in eastern Ukraine has resulted in the separation of families, and the loss of already limited access to healthcare, education, pensions and sources of income for people living there\u201d, said Matilda Bogner, Head of the HRMMU. The monthly average number of crossings through the contact line in eastern Ukraine decreased from 1.1 million in 2019, to less than three hundred as a consequence of the closure of all five entry-exit crossing points from late March to late June 2020. Although crossings of the contact line have increased since June, their levels remain low, especially in Donetsk region, due to restrictions. In relation to the Autonomous Republic of Crimea and the city of Sevastopol, Ukraine, temporarily occupied by the Russian Federation (Crimea), the report highlights that restrictions on freedom of movement introduced by the Governments of Ukraine and the Russian Federation have also significantly affected people\u2019s access to work, education, healthcare, property and family links. \u201cWhile some of the restrictions might be necessary to prevent the spread of the virus, where persons need to cross on humanitarian grounds, all parties must ensure that freedom of movement is respected, and that crossings of the contact line and ABL are quick, safe and dignified,\u201d said Bogner. The report also states that people in detention are particularly vulnerable to COVID-19, as some detention facilities are overcrowded and cannot fully comply with prevention measures such as physical distancing. In Government-controlled territory, the number of cases amongst penitentiary staff grew rapidly in October and November, increasing the risk of infection among detainees and prisoners. While no reliable figures regarding COVID-19 cases in detention are available in territory controlled by self-proclaimed \u2018Donetsk people\u2019s republic\u2019, self-proclaimed \u2018Luhansk people\u2019s republic\u2019 and in Crimea, persons in detention there reportedly lacked personal protective equipment and",
+  "date": "17 December 2020"
+}

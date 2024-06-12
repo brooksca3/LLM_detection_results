@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "01a01af1-0914-4e0f-833d-056dc80aa9d2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 100.61773681640625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004032182972878218,
+          "perplexity": 22,
+          "sentence": "The United Nations Development Programme (UNDP) in Ukraine together with the International Labor Organization (ILO) presented a new joint pilot project called \u201cEconomic Empowerment of Women as a Response to the COVID-19 Crisis in Ukraine.\u201d The project aims to contribute to a sustainable recovery of living standards of the COVID-19 crisis-affected population in Ukraine by promoting and supporting women's economic empowerment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004056638106703758,
+          "perplexity": 67,
+          "sentence": "This is to be done by improving the relevant institutional frameworks, and increasing economic opportunities to improve women's livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003783573629334569,
+          "perplexity": 95,
+          "sentence": "The project will be implemented in two target regions of Ukraine - Rivne and Sumy oblasts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0035416623577475548,
+          "perplexity": 68,
+          "sentence": "UNDP Resident Representative to Ukraine Dafina Gercheva speaking at the launch of the joint project, said that it aims to address shortcomings that were exposed by the pandemic, and to scale up efforts to support vulnerable groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004028452560305595,
+          "perplexity": 91,
+          "sentence": "\u201cThe promotion of women's economic empowerment is a crucial step that brings us closer to gender equality,\u201d Gercheva said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030881501734256744,
+          "perplexity": 38,
+          "sentence": "\u201cI'm confident that this project will serve as a starting point for a great partnership, promoting equal economic opportunities, and supporting women's economic resilience - despite the formidable challenges the current crisis is posing.\u201d Director of the ILO Office for Central and Eastern Europe, Markus Pilgrim, noted that access to the labour market is a key issue in Ukraine - 36 percent of women between 15-64 years are outside the labour force.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024996937718242407,
+          "perplexity": 342,
+          "sentence": "\u201cThe pandemic sharpened the existing problems of the Ukrainian labour market,\u201d Pilgrim said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017166793113574386,
+          "perplexity": 87,
+          "sentence": "\u201cIn times of crisis, entrepreneurship constitutes an important and sometimes unique opportunity for women to get out of poverty, but could also lead to further improvements - decent employment, gender equality and economic empowerment.\u201d During the presentation of the joint initiative, Regional Development Programme Manager UNDP in Ukraine Mustafa Sait-Ametov and Technical Officer for Enterprise Development and Job Creation at the ILO Office",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Development Programme (UNDP) in Ukraine together with the International Labor Organization (ILO) presented a new joint pilot project called \u201cEconomic Empowerment of Women as a Response to the COVID-19 Crisis in Ukraine.\u201d The project aims to contribute to a sustainable recovery of living standards of the COVID-19 crisis-affected population in Ukraine by promoting and supporting women\u2019s economic empowerment. This is to be done by improving the relevant institutional frameworks, and increasing economic opportunities to improve women\u2019s livelihoods. The project will be implemented in two target regions of Ukraine \u2013 Rivne and Sumy oblasts. UNDP Resident Representative to Ukraine Dafina Gercheva speaking at the launch of the joint project, said that it aims to address shortcomings that were exposed by the pandemic, and to scale up efforts to support vulnerable groups. \u201cThe promotion of women\u2019s economic empowerment is a crucial step that brings us closer to gender equality,\u201d Gercheva said. \u201cI\u2019m confident that this project will serve as a starting point for a great partnership, promoting equal economic opportunities, and supporting women\u2019s economic resilience \u2013 despite the formidable challenges the current crisis is posing.\u201d Director of the ILO Office for Central and Eastern Europe, Markus Pilgrim, noted that access to the labour market is a key issue in Ukraine \u2013 36 percent of women between 15-64 years are outside the labour force. \u201cThe pandemic sharpened the existing problems of the Ukrainian labour market,\u201d Pilgrim said. \u201cIn times of crisis, entrepreneurship constitutes an important and sometimes unique opportunity for women to get out of poverty, but could also lead to further improvements \u2013 decent employment, gender equality and economic empowerment.\u201d During the presentation of the joint initiative, Regional Development Programme Manager UNDP in Ukraine Mustafa Sait-Ametov and Technical Officer for Enterprise Development and Job Creation at the ILO Office",
+  "date": "27 April 2021"
+}

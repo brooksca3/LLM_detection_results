@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b20441f0-712a-4154-82c3-c07abe5109a9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030755795549549995,
+        "human": 0.9685859430920044,
+        "mixed": 0.0006582613584455498
+      },
+      "completely_generated_prob": 0.030755795549549995,
+      "confidence_category": "high",
+      "confidence_score": 0.9685859430920044,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030755795549549995,
+          "human": 0.9685859430920044,
+          "mixed": 0.0006582613584455498
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.357091903686523,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04711849242448807,
+          "perplexity": 14,
+          "sentence": "A new report released jointly by UNICEF and the Ministry of Education has shown that the numbers of children not attending primary education in Jordan has remained steady despite the impact of the Syrian refugee crisis, with 4.7 per cent of children aged 6 to 11 years out of school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.046350352466106415,
+          "perplexity": 29,
+          "sentence": "A total of 112,016 children in Jordan (6.2 per cent) are out of school from grades 1 to 10.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.049245014786720276,
+          "perplexity": 26,
+          "sentence": "Data shows that most children not in education are of non-Jordanian nationality, including over 50,000 Syrian children, and that boys are more likely to drop out than girls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04298100247979164,
+          "perplexity": 50,
+          "sentence": "\u201cThe report shows that the huge efforts made by Government and partners in the decade since the beginning of the Syrian conflict to provide children with their right to an education have played a significant role in protecting boys' and girls' futures,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04156237840652466,
+          "perplexity": 40,
+          "sentence": "\u201cIt is critical that these efforts are continued to mitigate any negative impact of the COVID-19 pandemic on children's learning.\u201d \u201cThis report also highlights that further efforts are needed to reach children who are still excluded because of gender, geography, nationality and socio-economic status, and provides recommendations for targeted interventions to support their inclusion and learning,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.020336156710982323,
+          "perplexity": 35,
+          "sentence": "The research, which uses data from 2017/18 academic year, includes a profile of the children most likely to drop out before Grade 10: While there is rarely one reason for why children drop out of school, contributing factors include economic stresses in the household, limited access to inclusive education for children with disabilities, violence in schools, child labour, early marriage and low returns from education in the labour market.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01897258125245571,
+          "perplexity": 35,
+          "sentence": "Children dropping out of basic education is costly for both the individual and society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02034650556743145,
+          "perplexity": 98,
+          "sentence": "The estimated economic loss due to school dropout before Grade 10 is equivalent to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A new report released jointly by UNICEF and the Ministry of Education has shown that the numbers of children not attending primary education in Jordan has remained steady despite the impact of the Syrian refugee crisis, with 4.7 per cent of children aged 6 to 11 years out of school. A total of 112,016 children in Jordan (6.2 per cent) are out of school from grades 1 to 10. Data shows that most children not in education are of non-Jordanian nationality, including over 50,000 Syrian children, and that boys are more likely to drop out than girls. \u201cThe report shows that the huge efforts made by Government and partners in the decade since the beginning of the Syrian conflict to provide children with their right to an education have played a significant role in protecting boys\u2019 and girls\u2019 futures,\u201d said Tanya Chapuisat, Representative, UNICEF Jordan. \u201cIt is critical that these efforts are continued to mitigate any negative impact of the COVID-19 pandemic on children\u2019s learning.\u201d \u201cThis report also highlights that further efforts are needed to reach children who are still excluded because of gender, geography, nationality and socio-economic status, and provides recommendations for targeted interventions to support their inclusion and learning,\u201d she added. The research, which uses data from 2017/18 academic year, includes a profile of the children most likely to drop out before Grade 10: While there is rarely one reason for why children drop out of school, contributing factors include economic stresses in the household, limited access to inclusive education for children with disabilities, violence in schools, child labour, early marriage and low returns from education in the labour market. Children dropping out of basic education is costly for both the individual and society. The estimated economic loss due to school dropout before Grade 10 is equivalent to",
+  "date": "17 December 2020"
+}

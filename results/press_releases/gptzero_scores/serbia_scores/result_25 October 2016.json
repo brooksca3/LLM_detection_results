@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "78f71b06-8ac6-474c-a227-90a8aa7bca99",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 7.08284330368042,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012426194734871387,
+          "perplexity": 24,
+          "sentence": "Belgrade, 25 October 2016 - On the occasion of the 71st anniversary of the United Nations, Mr. Ivica Da\u010di\u0107, First Deputy Prime Minister and Minister of Foreign Affairs to the Republic of Serbia, Ms. Irena Voja\u010dkova-Sollorano, the UN Resident Coordinator in Serbia and Ms. Simona Miculescu, the Representative of the Secretary-General and Head of UN Office in Belgrade, hosted together with the United Nations Country Team in Serbia a special reception, while pledging their joint efforts to the implementation of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011621363955782726,
+          "perplexity": 31,
+          "sentence": "\u201cSerbia is proud to be among the founders of the only international organization of sovereign states, which for more than seven decades operates and serves as a universal platform for the peaceful resolution of disputes, to exchange opinions and views of Member States on a number of important issues that are concerning people's lives.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012793875066563487,
+          "perplexity": 38,
+          "sentence": "The United Nations are our chance for peace, equality, justice and development,\u201d said Mr. Ivica Da\u010di\u0107, First Deputy Prime Minister and Minister of Foreign Affairs to the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011241929314564914,
+          "perplexity": 25,
+          "sentence": "\u201cGovernments have realized that there is no other way for humanity to succeed other than to join forces and to work together on a new era of sustainability - with a global commitment to fulfil the promise of the 2030 Agenda for Sustainable Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001178809761768207,
+          "perplexity": 42,
+          "sentence": "The 71th anniversary of the United Nations is marked throughout the world by reminding people and Governments to invigorate commitments to achieving the Sustainable Development Goals (SDGs) and to guide the world towards a better future for all on a healthy planet\u201d, said Irena Voja\u010dkov\u00e1-Sollorano, UN Resident Coordinator in the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011183390597580001,
+          "perplexity": 33,
+          "sentence": "\u201cThe United Nations Country Team in Serbia will continue supporting the Government of the Republic of Serbia to create a prosperous living environment for all people in Serbia and to provide a safe",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 25 October 2016 \u2013 On the occasion of the 71st anniversary of the United Nations, Mr. Ivica Da\u010di\u0107, First Deputy Prime Minister and Minister of Foreign Affairs to the Republic of Serbia, Ms. Irena Voja\u010dkova-Sollorano, the UN Resident Coordinator in Serbia and Ms. Simona Miculescu, the Representative of the Secretary-General and Head of UN Office in Belgrade, hosted together with the United Nations Country Team in Serbia a special reception, while pledging their joint efforts to the implementation of the 2030 Agenda for Sustainable Development. \u201cSerbia is proud to be among the founders of the only international organization of sovereign states, which for more than seven decades operates and serves as a universal platform for the peaceful resolution of disputes, to exchange opinions and views of Member States on a number of important issues that are concerning people's lives. The United Nations are our chance for peace, equality, justice and development,\u201d said Mr. Ivica Da\u010di\u0107, First Deputy Prime Minister and Minister of Foreign Affairs to the Republic of Serbia. \u201cGovernments have realized that there is no other way for humanity to succeed other than to join forces and to work together on a new era of sustainability \u2013 with a global commitment to fulfil the promise of the 2030 Agenda for Sustainable Development. The 71th anniversary of the United Nations is marked throughout the world by reminding people and Governments to invigorate commitments to achieving the Sustainable Development Goals (SDGs) and to guide the world towards a better future for all on a healthy planet\u201d, said Irena Voja\u010dkov\u00e1-Sollorano, UN Resident Coordinator in the Republic of Serbia. \u201cThe United Nations Country Team in Serbia will continue supporting the Government of the Republic of Serbia to create a prosperous living environment for all people in Serbia and to provide a safe",
+  "date": "25 October 2016"
+}

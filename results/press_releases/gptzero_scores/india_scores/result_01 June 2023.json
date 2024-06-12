@@ -1,0 +1,195 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f9cd6593-ceac-4a17-8837-ffaf3240cd7e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 67.18199157714844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.7903513177439126e-19,
+          "num_sentences": 22,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003422086127102375,
+          "perplexity": 30,
+          "sentence": "The ocean is the foundation of life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003096991451457143,
+          "perplexity": 39,
+          "sentence": "It supplies the air we breathe and food we eat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027533432003110647,
+          "perplexity": 251,
+          "sentence": "It regulates our climate and weather.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024468176998198032,
+          "perplexity": 38,
+          "sentence": "The ocean is our planet's greatest reservoir of biodiversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019079191843047738,
+          "perplexity": 73,
+          "sentence": "Its resources sustain communities, prosperity and human health around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022828334476798773,
+          "perplexity": 259,
+          "sentence": "Humanity counts on the ocean.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00217963638715446,
+          "perplexity": 143,
+          "sentence": "But can the ocean count on us?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023479636292904615,
+          "perplexity": 69,
+          "sentence": "We should be the ocean's best friend.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017295466968789697,
+          "perplexity": 34,
+          "sentence": "But right now, humanity is its worst enemy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018353043124079704,
+          "perplexity": 23,
+          "sentence": "Human-induced climate change is heating our planet, disrupting weather patterns and ocean currents, and altering marine ecosystems and the species living there.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014909784076735377,
+          "perplexity": 13,
+          "sentence": "Marine biodiversity is under attack from overfishing, over-exploitation and ocean acidification.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014028243022039533,
+          "perplexity": 43,
+          "sentence": "Over one third of fish stocks are being harvested at unsustainable levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001537606818601489,
+          "perplexity": 32,
+          "sentence": "And we are polluting our coastal waters with chemicals, plastics and human waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015819399850443006,
+          "perplexity": 28,
+          "sentence": "But this year's World Oceans Day reminds us that the tides are changing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001089125988073647,
+          "perplexity": 35,
+          "sentence": "Last year, we adopted an ambitious global target to conserve and manage 30 per cent of land and marine and coastal areas by 2030, as well as a landmark agreement on fisheries subsidies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011251576943323016,
+          "perplexity": 57,
+          "sentence": "At the United Nations Ocean Conference in Lisbon, the world agreed to push for more positive ocean action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010040909983217716,
+          "perplexity": 59,
+          "sentence": "A global, legally binding agreement to end plastic pollution is under negotiation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009531720425002277,
+          "perplexity": 58,
+          "sentence": "And in March, countries agreed to the historic High Seas Treaty on the conservation and sustainable use of marine biodiversity in areas beyond national jurisdiction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010065390961244702,
+          "perplexity": 113,
+          "sentence": "Realizing the great promise of these initiatives requires collective commitment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012070231605321169,
+          "perplexity": 65,
+          "sentence": "Sustainable Development Goal 14 -- to conserve and sustainably use the ocean's resources -- hangs in the balance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012550451792776585,
+          "perplexity": 122,
+          "sentence": "This World Oceans Day let's keep pushing for action.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015833624638617039,
+          "perplexity": 42,
+          "sentence": "Today and every day, let's put the ocean first.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The ocean is the foundation of life. It supplies the air we breathe and food we eat. It regulates our climate and weather. The ocean is our planet\u2019s greatest reservoir of biodiversity. Its resources sustain communities, prosperity and human health around the world. Humanity counts on the ocean. But can the ocean count on us? We should be the ocean\u2019s best friend. But right now, humanity is its worst enemy. Human-induced climate change is heating our planet, disrupting weather patterns and ocean currents, and altering marine ecosystems and the species living there. Marine biodiversity is under attack from overfishing, over-exploitation and ocean acidification. Over one third of fish stocks are being harvested at unsustainable levels. And we are polluting our coastal waters with chemicals, plastics and human waste. But this year\u2019s World Oceans Day reminds us that the tides are changing. Last year, we adopted an ambitious global target to conserve and manage 30 per cent of land and marine and coastal areas by 2030, as well as a landmark agreement on fisheries subsidies. At the United Nations Ocean Conference in Lisbon, the world agreed to push for more positive ocean action. A global, legally binding agreement to end plastic pollution is under negotiation. And in March, countries agreed to the historic High Seas Treaty on the conservation and sustainable use of marine biodiversity in areas beyond national jurisdiction. Realizing the great promise of these initiatives requires collective commitment. Sustainable Development Goal 14 -- to conserve and sustainably use the ocean\u2019s resources -- hangs in the balance. This World Oceans Day let\u2019s keep pushing for action. Today and every day, let\u2019s put the ocean first.",
+  "date": "01 June 2023"
+}

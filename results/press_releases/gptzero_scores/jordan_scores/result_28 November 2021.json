@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1b44981b-ede5-4e5e-a2ca-f3f9fa9d3ee5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.227100372314453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016648521705064923,
+          "perplexity": 42,
+          "sentence": "The Ambassador of Italy to Jordan, Fabio Cassese, and the Food and Agriculture Organization (FAO) Representative in Jordan, Nabil Assaf, signed today a EUR 1 million agreement to increase the resilience of the Jordanian vulnerable communities through the Italy-funded \u201cSustainable Production and Utilization of Agro-natural Resources (SPUAR)\u201d project, during a ceremony attended by the Head of Italian Agency for Development Cooperation (AICS) Amman, Emilio Cabasino.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016521850193385035,
+          "perplexity": 28,
+          "sentence": "The initiative targets vulnerable communities and their access to socio-economic infrastructures in the governorate of Ma'an, which is the largest in Jordan and, according to the poverty report issued by the Jordanian Department of Statistics, one of the poorest governorates in the Country, with a poverty ratio of 27%.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001656151725910604,
+          "perplexity": 95,
+          "sentence": "\u201cIn recognition of the importance to support the agriculture sector and sustainable management of natural resources in a Country like Jordan challenged by desertification, drought and land degradation\u201c, said Ambassador Cassese, \u201cItaly's partnership with FAO focuses on actions to counteract the detrimental impact of resource scarcity upon human development and poverty\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001757623249432072,
+          "perplexity": 29,
+          "sentence": "The scarcity of water resources is indeed one of the main challenges for Jordan and a limiting factor for economic development, especially for the agriculture sector.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015258592611644417,
+          "perplexity": 40,
+          "sentence": "The demand on water resources is increasing with time for both agriculture and non-agricultural purposes, as the agricultural sector consumes around 510 million cubic meters (51%) of the annual available fresh water.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014131524949334562,
+          "perplexity": 69,
+          "sentence": "\u201cIn response to the current water scarcity status in Jordan, this project will be implemented in Southern Jordan targeting the most vulnerable households in Ma'an governorate with an enabling environment for women's enhanced participation, by establishing non-conventional water resources from collecting rain water for the benefit of agriculture and the enhancement of the well-being of the targeted beneficiaries\u201d, said Mr Nabil Assaf.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015981892647687346,
+          "perplexity": 43,
+          "sentence": "The initiative aims to establish a sustainable enterprise using the agro-natural resources (land, water, vegetation)",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Ambassador of Italy to Jordan, Fabio Cassese, and the Food and Agriculture Organization (FAO) Representative in Jordan, Nabil Assaf, signed today a EUR 1 million agreement to increase the resilience of the Jordanian vulnerable communities through the Italy-funded \u201cSustainable Production and Utilization of Agro-natural Resources (SPUAR)\u201d project, during a ceremony attended by the Head of Italian Agency for Development Cooperation (AICS) Amman, Emilio Cabasino. The initiative targets vulnerable communities and their access to socio-economic infrastructures in the governorate of Ma\u2019an, which is the largest in Jordan and, according to the poverty report issued by the Jordanian Department of Statistics, one of the poorest governorates in the Country, with a poverty ratio of 27%. \u201cIn recognition of the importance to support the agriculture sector and sustainable management of natural resources in a Country like Jordan challenged by desertification, drought and land degradation\u201c, said Ambassador Cassese, \u201cItaly\u2019s partnership with FAO focuses on actions to counteract the detrimental impact of resource scarcity upon human development and poverty\u201d. The scarcity of water resources is indeed one of the main challenges for Jordan and a limiting factor for economic development, especially for the agriculture sector. The demand on water resources is increasing with time for both agriculture and non-agricultural purposes, as the agricultural sector consumes around 510 million cubic meters (51%) of the annual available fresh water. \u201cIn response to the current water scarcity status in Jordan, this project will be implemented in Southern Jordan targeting the most vulnerable households in Ma\u2019an governorate with an enabling environment for women's enhanced participation, by establishing non-conventional water resources from collecting rain water for the benefit of agriculture and the enhancement of the well-being of the targeted beneficiaries\u201d, said Mr Nabil Assaf. The initiative aims to establish a sustainable enterprise using the agro-natural resources (land, water, vegetation)",
+  "date": "28 November 2021"
+}

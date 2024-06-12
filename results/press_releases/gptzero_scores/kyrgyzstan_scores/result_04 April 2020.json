@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f35f52d-e6a2-4361-b478-fb9806efa1b3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.573348999023438,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00017195296823047101,
+          "perplexity": 40,
+          "sentence": "On April 4, 2020, the Chairman of the Disaster Response Coordination Unit (DRCU) / UN Resident Coordinator Ozonnia Ojielo met with the State Secretary of the Ministry of Emergency Situations of the Kyrgyz Republic, Mr. Azamat Mambetov, to discuss coordination of actions within the framework of the COVID-19 response plan and early recovery and implementation of emergency response measures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018392973288428038,
+          "perplexity": 74,
+          "sentence": "DRCU members will be reorienting their available resources and mobilizing additional funding to ensure full and effective implementation of the response plan by coordination of responses across 6 interconnected sectors: early recovery, education, food security and logistics, health, protection, and joint sector for water sanitation and hygiene (WASH) and non food items (NFI).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019111069559585303,
+          "perplexity": 40,
+          "sentence": "The DRCU was activated on 16 March 2020 following the request of the Government of the Kyrgyz Republic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002184423356084153,
+          "perplexity": 20,
+          "sentence": "In small and medium-sized emergencies, the Disaster Response Coordination Unit (DRCU) takes responsibility for coordinating and planning a multi-sectoral response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016728212358430028,
+          "perplexity": 22,
+          "sentence": "The Disaster Response Coordination Unit (DRCU) was established in 2008 under the leadership of the UN Resident Coordinator by the international humanitarian community in the Kyrgyz Republic, it includes the heads of UN agencies, the Red Cross / Red Crescent Movement, international organizations and NGOs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001525597326690331,
+          "perplexity": 89,
+          "sentence": "The United Nations National Advisor on Disaster Response supports the Disaster Response Coordination Unit as the Secretariat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001453556469641626,
+          "perplexity": 29,
+          "sentence": "DRCU is an advisory and consultative mechanism, the main purpose of which is to coordinate the humanitarian response to emergencies and / or at the request of the Government of Kyrgyzstan and to expand cooperation between partners of the DRCU and other key participants.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On April 4, 2020, the Chairman of the Disaster Response Coordination Unit (DRCU) / UN Resident Coordinator Ozonnia Ojielo met with the State Secretary of the Ministry of Emergency Situations of the Kyrgyz Republic, Mr. Azamat Mambetov, to discuss coordination of actions within the framework of the COVID-19 response plan and early recovery and implementation of emergency response measures. DRCU members will be reorienting their available resources and mobilizing additional funding to ensure full and effective implementation of the response plan by coordination of responses across 6 interconnected sectors: early recovery, education, food security and logistics, health, protection, and joint sector for water sanitation and hygiene (WASH) and non food items (NFI). The DRCU was activated on 16 March 2020 following the request of the Government of the Kyrgyz Republic. In small and medium-sized emergencies, the Disaster Response Coordination Unit (DRCU) takes responsibility for coordinating and planning a multi-sectoral response. The Disaster Response Coordination Unit (DRCU) was established in 2008 under the leadership of the UN Resident Coordinator by the international humanitarian community in the Kyrgyz Republic, it includes the heads of UN agencies, the Red Cross / Red Crescent Movement, international organizations and NGOs. The United Nations National Advisor on Disaster Response supports the Disaster Response Coordination Unit as the Secretariat. DRCU is an advisory and consultative mechanism, the main purpose of which is to coordinate the humanitarian response to emergencies and / or at the request of the Government of Kyrgyzstan and to expand cooperation between partners of the DRCU and other key participants.",
+  "date": "04 April 2020"
+}

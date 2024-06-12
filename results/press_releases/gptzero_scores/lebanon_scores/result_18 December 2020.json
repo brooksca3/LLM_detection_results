@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "04468924-66aa-4071-99dd-df3d31d50b56",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.215049743652344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002659175079315901,
+          "perplexity": 18,
+          "sentence": "(Beirut, LEBANON) 18 December 2020 - UNHCR, the UN Refugee Agency, the United Nations World Food Programme (WFP), and the United Nations Children's Fund (UNICEF) today published the key findings of the 2020 Vulnerability Assessment of Syrian Refugees in Lebanon (VASyR).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003608751285355538,
+          "perplexity": 91,
+          "sentence": "The economic downturn, steep inflation, COVID-19 and finally the Beirut blast have pushed vulnerable communities in Lebanon - including Syrian refugees - to the brink, with thousands of families sinking further into poverty and vulnerability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004108920111320913,
+          "perplexity": 28,
+          "sentence": "One of the most concerning indicators of the impact of the compounded crises Syrian refugees have been facing in Lebanon is the sharp increase in the proportion of households living under the extreme poverty line, reaching a staggering 89 per cent in 2020, up from 55 per cent only a year before.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024007659521885216,
+          "perplexity": 69,
+          "sentence": "They now live on less than LBP 308,728 per person per month - this is less than half the minimum wage in Lebanon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003293787012808025,
+          "perplexity": 47,
+          "sentence": "Mireille Girard, UNHCR Representative in Lebanon, said: \u201cThe consecutive crises have affected all communities in Lebanon - Lebanese, refugees, migrants, and others - and the most vulnerable are the hardest hit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002962015860248357,
+          "perplexity": 28,
+          "sentence": "The situation of Syrian refugees in Lebanon has been deteriorating for years, but the findings of this year's survey are a dramatic indication of how difficult it has become for them to make it through another day.\u201d She added: \u201cThe key findings are released at a time when Syrian refugees are facing their hardest winter yet in Lebanon, braving the weather elements with very little to stay warm and safe.\u201d The findings of the survey have indicated that the average amount of debt accumulated by households has increased by 18 per cent with an average debt of nearly LBP 1,840,000 per family.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022996582265477628,
+          "perplexity": 98,
+          "sentence": "The main reason for incurring debt was buying food (93 per cent), followed by rent and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(Beirut, LEBANON) 18 December 2020 \u2013 UNHCR, the UN Refugee Agency, the United Nations World Food Programme (WFP), and the United Nations Children\u2019s Fund (UNICEF) today published the key findings of the 2020 Vulnerability Assessment of Syrian Refugees in Lebanon (VASyR). The economic downturn, steep inflation, COVID-19 and finally the Beirut blast have pushed vulnerable communities in Lebanon - including Syrian refugees - to the brink, with thousands of families sinking further into poverty and vulnerability. One of the most concerning indicators of the impact of the compounded crises Syrian refugees have been facing in Lebanon is the sharp increase in the proportion of households living under the extreme poverty line, reaching a staggering 89 per cent in 2020, up from 55 per cent only a year before. They now live on less than LBP 308,728 per person per month \u2013 this is less than half the minimum wage in Lebanon. Mireille Girard, UNHCR Representative in Lebanon, said: \u201cThe consecutive crises have affected all communities in Lebanon \u2013 Lebanese, refugees, migrants, and others \u2013 and the most vulnerable are the hardest hit. The situation of Syrian refugees in Lebanon has been deteriorating for years, but the findings of this year\u2019s survey are a dramatic indication of how difficult it has become for them to make it through another day.\u201d She added: \u201cThe key findings are released at a time when Syrian refugees are facing their hardest winter yet in Lebanon, braving the weather elements with very little to stay warm and safe.\u201d The findings of the survey have indicated that the average amount of debt accumulated by households has increased by 18 per cent with an average debt of nearly LBP 1,840,000 per family. The main reason for incurring debt was buying food (93 per cent), followed by rent and",
+  "date": "18 December 2020"
+}

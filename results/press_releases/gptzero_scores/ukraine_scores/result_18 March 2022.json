@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cb62f631-8ac7-40c1-8b9b-02f381b6856d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 72.0354232788086,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00024076610861811787,
+          "perplexity": 63,
+          "sentence": "Women and children fleeing from the Russian military invasion in Ukraine and heading to other countries face risks of human trafficking, while men staying in the country can also become a prey for exploiters, warns IOM, the UN Migration Agency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002269972610520199,
+          "perplexity": 20,
+          "sentence": "According to the UN data, as of 18 March, over 3 million people have been forced to flee Ukraine to neighbouring countries, including 162,000 third-country nationals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020532654889393598,
+          "perplexity": 19,
+          "sentence": "At least 1.9 million people have been internally displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023446846171282232,
+          "perplexity": 273,
+          "sentence": "They need critical humanitarian support and protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002007379662245512,
+          "perplexity": 47,
+          "sentence": "In 2021, the IOM Mission in Ukraine identified and assisted over 1,000 victims of trafficking, men, women and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002458809467498213,
+          "perplexity": 35,
+          "sentence": "These numbers are only the tip of the iceberg, as many trafficking survivors do not get identified nor receive assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016679061809554696,
+          "perplexity": 48,
+          "sentence": "An IOM-commissioned survey estimated that 46,000 Ukrainians suffered from human trafficking during 2019-2021.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018015729438047856,
+          "perplexity": 44,
+          "sentence": "Eighteen per cent of the respondents surveyed by IOM last year said they were ready to accept an informal and risky job offer abroad, almost a third would do so in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021213237778283656,
+          "perplexity": 145,
+          "sentence": "\u201cWe know how quickly the criminal world adjusts to changing realities and finds new victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002017279912251979,
+          "perplexity": 131,
+          "sentence": "We call on Ukrainians and other nationals leaving Ukraine to stay alert and be cautious when on the move, at a new place or at home,\u201d said IOM Ukraine Chief of Mission Anh Nguyen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031722316634841263,
+          "perplexity": 27,
+          "sentence": "While cases of human trafficking are usually difficult to identify in the immediate aftermath of mass displacement, initial reports from within and outside of Ukraine indicate that traffickers are ready to exploit the vulnerabilities of those fleeing Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002635936834849417,
+          "perplexity": 64,
+          "sentence": "IOM also flags cases of family separation, unaccompanied and separated children that are on the rise, as well as potential cases of conflict-related sexual violence among protection concerns that are linked to human trafficking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003468757204245776,
+          "perplexity": 27,
+          "sentence": "Loss of jobs and income as a result of the war, and limited",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Women and children fleeing from the Russian military invasion in Ukraine and heading to other countries face risks of human trafficking, while men staying in the country can also become a prey for exploiters, warns IOM, the UN Migration Agency. According to the UN data, as of 18 March, over 3 million people have been forced to flee Ukraine to neighbouring countries, including 162,000 third-country nationals. At least 1.9 million people have been internally displaced. They need critical humanitarian support and protection. In 2021, the IOM Mission in Ukraine identified and assisted over 1,000 victims of trafficking, men, women and children. These numbers are only the tip of the iceberg, as many trafficking survivors do not get identified nor receive assistance. An IOM-commissioned survey estimated that 46,000 Ukrainians suffered from human trafficking during 2019-2021. Eighteen per cent of the respondents surveyed by IOM last year said they were ready to accept an informal and risky job offer abroad, almost a third would do so in Ukraine. \u201cWe know how quickly the criminal world adjusts to changing realities and finds new victims. We call on Ukrainians and other nationals leaving Ukraine to stay alert and be cautious when on the move, at a new place or at home,\u201d said IOM Ukraine Chief of Mission Anh Nguyen. While cases of human trafficking are usually difficult to identify in the immediate aftermath of mass displacement, initial reports from within and outside of Ukraine indicate that traffickers are ready to exploit the vulnerabilities of those fleeing Ukraine. IOM also flags cases of family separation, unaccompanied and separated children that are on the rise, as well as potential cases of conflict-related sexual violence among protection concerns that are linked to human trafficking. Loss of jobs and income as a result of the war, and limited",
+  "date": "18 March 2022"
+}

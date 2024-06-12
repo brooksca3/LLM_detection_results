@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "08b9195c-65d5-42f2-abc9-75ecd147cb30",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03046253450449943,
+        "human": 0.9685550036764128,
+        "mixed": 0.0009824618190877544
+      },
+      "completely_generated_prob": 0.03046253450449943,
+      "confidence_category": "high",
+      "confidence_score": 0.9685550036764128,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03046253450449943,
+          "human": 0.9685550036764128,
+          "mixed": 0.0009824618190877544
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 25.430187225341797,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.010337027721107006,
+          "perplexity": 24,
+          "sentence": "The meetings were organized by the UNFPA within the framework of the Joint Programme on community-based social services, which is implemented by the Government of Turkmenistan and participating UN agencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006216223817318678,
+          "perplexity": 29,
+          "sentence": "Opened with the welcome speech of Ms. Ayna Seyitliyeva, UNFPA Head of office in Turkmenistan, the meetings brought together experts from a number of ministries, including Mejlis of Turkmenistan, Ministry of Labour and Social Protection of Population of Turkmenistan, Ministry of Education, Ministry of Justice, Ministry of Finance and Economy, Ministry of Internal affairs, international experts and representatives of the participating UN agencies in the Joint Programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006704552564769983,
+          "perplexity": 43,
+          "sentence": "During the first meeting, an international consultant presented the main results of the comprehensive review of the Turkmenistan's legislation in the sphere of social services, which was followed up with a discussion session.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005451859440654516,
+          "perplexity": 72,
+          "sentence": "In the second meeting, recommendations related to supporting the legislative base of social service provision system of the country and their implementation were discussed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0054488228633999825,
+          "perplexity": 53,
+          "sentence": "Participants were also informed about an ongoing project on drafting proposals for the national legislation on social services.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011504895985126495,
+          "perplexity": 33,
+          "sentence": "The Joint Programme on \u201cImproving the system of social protection through the introduction of inclusive quality community-based social services\u201d, funded by the Joint SDG Fund, is being implemented by the partnering UN agencies, namely, UNICEF, UNDP, UNFPA, and UNODC and Government of Turkmenistan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010603179223835468,
+          "perplexity": 95,
+          "sentence": "The Joint Programme is aimed at introducing a new model of social services at the community level accompanied by relative legislative reviews and capacity building of national social service workforce.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012898586690425873,
+          "perplexity": 74,
+          "sentence": "The Ministry of Labour and Social Protection of Population of Turkmenistan is a leading national partner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014674786478281021,
+          "perplexity": 25,
+          "sentence": "Other key national partners include the Ministry of Education, Ministry of Health and Medical Industry, and Ministry of Finance and Economy.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The meetings were organized by the UNFPA within the framework of the Joint Programme on community-based social services, which is implemented by the Government of Turkmenistan and participating UN agencies. Opened with the welcome speech of Ms. Ayna Seyitliyeva, UNFPA Head of office in Turkmenistan, the meetings brought together experts from a number of ministries, including Mejlis of Turkmenistan, Ministry of Labour and Social Protection of Population of Turkmenistan, Ministry of Education, Ministry of Justice, Ministry of Finance and Economy, Ministry of Internal affairs, international experts and representatives of the participating UN agencies in the Joint Programme. During the first meeting, an international consultant presented the main results of the comprehensive review of the Turkmenistan\u2019s legislation in the sphere of social services, which was followed up with a discussion session. In the second meeting, recommendations related to supporting the legislative base of social service provision system of the country and their implementation were discussed. Participants were also informed about an ongoing project on drafting proposals for the national legislation on social services. The Joint Programme on \u201cImproving the system of social protection through the introduction of inclusive quality community-based social services\u201d, funded by the Joint SDG Fund, is being implemented by the partnering UN agencies, namely, UNICEF, UNDP, UNFPA, and UNODC and Government of Turkmenistan. The Joint Programme is aimed at introducing a new model of social services at the community level accompanied by relative legislative reviews and capacity building of national social service workforce. The Ministry of Labour and Social Protection of Population of Turkmenistan is a leading national partner. Other key national partners include the Ministry of Education, Ministry of Health and Medical Industry, and Ministry of Finance and Economy.",
+  "date": "24 December 2020"
+}

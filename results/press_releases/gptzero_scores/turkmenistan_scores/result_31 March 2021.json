@@ -1,0 +1,93 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "46a5443d-b752-4621-ab1a-4336c8f7c8b1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030670992831174162,
+        "human": 0.9683398222602067,
+        "mixed": 0.0009891849086192115
+      },
+      "completely_generated_prob": 0.030670992831174162,
+      "confidence_category": "high",
+      "confidence_score": 0.9683398222602067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030670992831174162,
+          "human": 0.9683398222602067,
+          "mixed": 0.0009891849086192115
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.57460403442383,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0038562684785574675,
+          "perplexity": 16,
+          "sentence": "Along with the representatives of Ministry of Foreign Affairs, the Mejlis (Assembly), Ombudsman's Office, the Civil Service Academy under the President of Turkmenistan, Ministry of National Security, the State Frontier Service, Ministry of Internal Affairs, the Prosecutor General's Office, Ministry of Adalat (Justice), the State Customs Service, the State Migration Service, Ministry of Labor and Social Protection of the Population, the Institute of State, Law and Democracy, Ministry of Education, Ministry of Healthcare and Medical Industry, the meeting was attended by the government agencies from Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, and Russian Federation, foreign embassies, representatives of the international organizations and civil society organizations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005582431796938181,
+          "perplexity": 52,
+          "sentence": "The round table was held within the framework of the IOM Regional Project \"Mitigating the socioeconomic effects of the COVID-19 pandemic on migrants and communities in Central Asia and the Russian Federation\" funded by the Swiss Agency for Development and Cooperation (SDC).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031876832246780396,
+          "perplexity": 41,
+          "sentence": "Opening the event, Mr. Zeynal Hajiyev, Regional Coordinator of IOM for Central Asia underlined that: \"IOM believes all migrants, regardless of their socio-economic or legal status should have equal access to medical, social, and other services, particularly in the context of a pandemic.\u201d The meeting introduced the DTM system to the participants, presented the results of the regional Mapping of Stranded and Returned Migrants that was carried out within the framework of the project, shared Central Asian countries and the Russian Federation's experience in collecting data on returning and stranded migrants that assesses their needs and vulnerabilities, and report on issues emerging due to the COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029312176629900932,
+          "perplexity": 110,
+          "sentence": "During the interactive and group discussions the participants discussed how to collect data, surveys methodologies, and mobility tracking monitoring techniques.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03219897672533989,
+          "perplexity": 16,
+          "sentence": "In conclusion, Mr. Hajiev thanked everyone for participating in this event and expressed special gratitude to the Swiss Development Agency, the Governments of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Along with the representatives of Ministry of Foreign Affairs, the Mejlis (Assembly), Ombudsman\u2019s Office, the Civil Service Academy under the President of Turkmenistan, Ministry of National Security, the State Frontier Service, Ministry of Internal Affairs, the Prosecutor General\u2019s Office, Ministry of Adalat (Justice), the State Customs Service, the State Migration Service, Ministry of Labor and Social Protection of the Population, the Institute of State, Law and Democracy, Ministry of Education, Ministry of Healthcare and Medical Industry , the meeting was attended by the government agencies from Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan, and Russian Federation, foreign embassies, representatives of the international organizations and civil society organizations. The round table was held within the framework of the IOM Regional Project \"Mitigating the socioeconomic effects of the COVID-19 pandemic on migrants and communities in Central Asia and the Russian Federation\" funded by the Swiss Agency for Development and Cooperation (SDC). Opening the event, Mr. Zeynal Hajiyev, Regional Coordinator of IOM for Central Asia underlined that: \"IOM believes all migrants, regardless of their socio-economic or legal status should have equal access to medical, social, and other services, particularly in the context of a pandemic.\u201d The meeting introduced the DTM system to the participants, presented the results of the regional Mapping of Stranded and Returned Migrants that was carried out within the framework of the project, shared Central Asian countries and the Russian Federation\u2019s experience in collecting data on returning and stranded migrants that assesses their needs and vulnerabilities, and report on issues emerging due to the COVID-19. During the interactive and group discussions the participants discussed how to collect data, surveys methodologies, and mobility tracking monitoring techniques. In conclusion, Mr. Hajiev thanked everyone for participating in this event and expressed special gratitude to the Swiss Development Agency, the Governments of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan",
+  "date": "31 March 2021"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fcac1643-a0e6-4b8b-b4d7-5e7aee5e0f69",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010852219999316477,
+        "human": 0.9885694155627354,
+        "mixed": 0.000578364437948068
+      },
+      "completely_generated_prob": 0.010852219999316477,
+      "confidence_category": "high",
+      "confidence_score": 0.9885694155627354,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010852219999316477,
+          "human": 0.9885694155627354,
+          "mixed": 0.000578364437948068
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.694583892822266,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004512820451054722,
+          "perplexity": 224,
+          "sentence": "The tool helps to systematically collect, and structure collected information related to regional COVID-19 response and to store it in one place.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000469478836748749,
+          "perplexity": 101,
+          "sentence": "The electronic portal PHRM was launched in October 2020 together with the Ministry of Health of Ukraine and the Ukrainian Public Health Center.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000504890049342066,
+          "perplexity": 39,
+          "sentence": "It allows the Ministry of Health (MoH), UPHC, regional health authorities and other stakeholders to monitor the policies and epidemiological situation across regions in a systematic manner.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006494459812529385,
+          "perplexity": 49,
+          "sentence": "This is the first tool of its kind among the countries of the WHO European Region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006395320524461567,
+          "perplexity": 40,
+          "sentence": "It builds on the joint initiative between the WHO Regional Office for the European Region, the European Commission and the European Observatory on Health Systems and Policies, and the Health System Response Monitor (HSRM)1.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007819862221367657,
+          "perplexity": 181,
+          "sentence": "Using the findings of the tool, the national and regional authorities can adjust the COVID-19 response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000469030172098428,
+          "perplexity": 86,
+          "sentence": "WHO Representative in Ukraine, Dr Jarno Habicht, highlights that \u201c this tool is crucial for national and regional authorities to coordinate restriction measures, interventions, policies and messages for the COVID-19 response in Ukraine.\u201d As WHO Representative in Ukraine, Dr Jarno Habicht added that \u201dthe tool could also be a useful source of information in investigation of new outbreaks in a given region, for instance relaxing public health measure and allowing big congregation of people resulting in high infection rates in subsequent weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038170142215676606,
+          "perplexity": 120,
+          "sentence": "With the tool, the emergency coordination centers in the Ministry of Health and the Ukrainian Public Health Center will be able to regularly check what is the epidemiological picture and for example, governance or financing arrangements on COVID-19 response in Lviv region as compared to Zhytomir and if/how these differ from national standards and policies.\u201d Data collection in the regions began in May 2020 and took place in several rounds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007118704961612821,
+          "perplexity": 90,
+          "sentence": "The monitoring is focused on health-related measures taken by regional",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The tool helps to systematically collect, and structure collected information related to regional COVID-19 response and to store it in one place. The electronic portal PHRM was launched in October 2020 together with the Ministry of Health of Ukraine and the Ukrainian Public Health Center. It allows the Ministry of Health (MoH), UPHC, regional health authorities and other stakeholders to monitor the policies and epidemiological situation across regions in a systematic manner. This is the first tool of its kind among the countries of the WHO European Region. It builds on the joint initiative between the WHO Regional Office for the European Region, the European Commission and the European Observatory on Health Systems and Policies, and the Health System Response Monitor (HSRM)1. Using the findings of the tool, the national and regional authorities can adjust the COVID-19 response. WHO Representative in Ukraine, Dr Jarno Habicht, highlights that \u201c this tool is crucial for national and regional authorities to coordinate restriction measures, interventions, policies and messages for the COVID-19 response in Ukraine.\u201d As WHO Representative in Ukraine, Dr Jarno Habicht added that \u201dthe tool could also be a useful source of information in investigation of new outbreaks in a given region, for instance relaxing public health measure and allowing big congregation of people resulting in high infection rates in subsequent weeks. With the tool, the emergency coordination centers in the Ministry of Health and the Ukrainian Public Health Center will be able to regularly check what is the epidemiological picture and for example, governance or financing arrangements on COVID-19 response in Lviv region as compared to Zhytomir and if/how these differ from national standards and policies.\u201d Data collection in the regions began in May 2020 and took place in several rounds. The monitoring is focused on health-related measures taken by regional",
+  "date": "04 December 2020"
+}

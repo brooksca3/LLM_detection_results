@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "49e153ed-936d-4b82-90ce-b397b5fab20f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047255511555901,
+        "human": 0.9688736085837036,
+        "mixed": 0.0006538363007373658
+      },
+      "completely_generated_prob": 0.03047255511555901,
+      "confidence_category": "high",
+      "confidence_score": 0.9688736085837036,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047255511555901,
+          "human": 0.9688736085837036,
+          "mixed": 0.0006538363007373658
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 19.14729881286621,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.004513058345764875,
+          "perplexity": 76,
+          "sentence": "United Nations Special Envoy of the Secretary-General on Myanmar Christine Schraner Burgener conducted her first official visit to Myanmar from 12 to 21 June.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003580705728381872,
+          "perplexity": 51,
+          "sentence": "In Nay Pyi Taw, Yangon and Rakhine state, she met among others with State Counsellor Daw Aung San Suu Kyi, Commander-in-Chief Senior General Min Aung Hlaing, Speaker of Pyithu Hluttaw U T Khun Myat, Speaker of Amyotha Hluttaw U Mahn Win Khine Than, Minister in the State Counsellor's Office U Kyaw Tint Swe, Chair of Pyidaungsu Hluttaw's Legal Affairs and Special Cases Assessment Commission Thura Shwe Mann, Chairman of the Election Commission U Hla Thein, the Rakhine State Government including Chief Minister U Nyi Pu, conflict-affected communities and families in Rakhine state, the Internally Displaced Persons (IDPs), people currently displaced along the international border between Myanmar and Bangladesh, representatives of Myanmar's civil society, members of women associations, as well as with the United Nations country team, the diplomatic community and international NGOs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003799931611865759,
+          "perplexity": 74,
+          "sentence": "In all meetings, she stressed the need for inclusive solutions that integrated the views and important voices of women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004348197486251593,
+          "perplexity": 38,
+          "sentence": "The Special Envoy expresses her sincere appreciation to the Government of Myanmar and other interlocutors for their warm welcome and excellent organization of her visit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00915578193962574,
+          "perplexity": 44,
+          "sentence": "She also thanks the United Nations Resident and Humanitarian Coordinator and the United Nations country team for their support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009687324054539204,
+          "perplexity": 38,
+          "sentence": "In this first visit, the Special Envoy focused on listening to all sides to better understand their diverse perspectives with a view to building trust and confidence among various stakeholders, and establishing positive relations while promoting the key principles of the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00857485830783844,
+          "perplexity": 25,
+          "sentence": "She stressed the importance of taking stock of the recent positive steps taken by the Government of Myanmar, and held constructive discussions with all interlocutors, focusing on the situation in Rakhine state, the need for credible fact-finding, democratization",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "United Nations Special Envoy of the Secretary-General on Myanmar Christine Schraner Burgener conducted her first official visit to Myanmar from 12 to 21 June. In Nay Pyi Taw, Yangon and Rakhine state, she met among others with State Counsellor Daw Aung San Suu Kyi, Commander-in-Chief Senior General Min Aung Hlaing, Speaker of Pyithu Hluttaw U T Khun Myat, Speaker of Amyotha Hluttaw U Mahn Win Khine Than, Minister in the State Counsellor\u2019s Office U Kyaw Tint Swe, Chair of Pyidaungsu Hluttaw's Legal Affairs and Special Cases Assessment Commission Thura Shwe Mann, Chairman of the Election Commission U Hla Thein, the Rakhine State Government including Chief Minister U Nyi Pu, conflict-affected communities and families in Rakhine state, the Internally Displaced Persons (IDPs), people currently displaced along the international border between Myanmar and Bangladesh, representatives of Myanmar\u2019s civil society, members of women associations, as well as with the United Nations country team, the diplomatic community and international NGOs. In all meetings, she stressed the need for inclusive solutions that integrated the views and important voices of women. The Special Envoy expresses her sincere appreciation to the Government of Myanmar and other interlocutors for their warm welcome and excellent organization of her visit. She also thanks the United Nations Resident and Humanitarian Coordinator and the United Nations country team for their support. In this first visit, the Special Envoy focused on listening to all sides to better understand their diverse perspectives with a view to building trust and confidence among various stakeholders, and establishing positive relations while promoting the key principles of the United Nations. She stressed the importance of taking stock of the recent positive steps taken by the Government of Myanmar, and held constructive discussions with all interlocutors, focusing on the situation in Rakhine state, the need for credible fact-finding, democratization",
+  "date": "21 June 2018"
+}

@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "dd112eea-c00a-4fcd-9898-64a83ced722d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023961661341853038,
+        "human": 0.9345047923322685,
+        "mixed": 0.04153354632587859
+      },
+      "completely_generated_prob": 0.023961661341853038,
+      "confidence_category": "medium",
+      "confidence_score": 0.9345047923322685,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023961661341853038,
+          "human": 0.9345047923322685,
+          "mixed": 0.04153354632587859
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 63.20293045043945,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.02968437410891056,
+          "perplexity": 45,
+          "sentence": "A healthy planet is critical for achieving the Sustainable Development Goals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02638145536184311,
+          "perplexity": 33,
+          "sentence": "Yet biodiversity is declining at an unprecedented and alarming rate, and the pressures are intensifying.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0304317157715559,
+          "perplexity": 29,
+          "sentence": "We are depleting resources faster than nature can replenish them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029768245294690132,
+          "perplexity": 118,
+          "sentence": "COVID-19 has further reminded us of the intimate relationship between people and nature.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029250698164105415,
+          "perplexity": 30,
+          "sentence": "We need to protect nature, restore ecosystems and establish a balance in our relationship with the planet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02716108411550522,
+          "perplexity": 61,
+          "sentence": "By reversing biodiversity loss, we can improve human health, realize sustainable development and address the climate emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02099854312837124,
+          "perplexity": 50,
+          "sentence": "Solutions exist to protect our planet's genetic diversity on land and at sea.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019138719886541367,
+          "perplexity": 42,
+          "sentence": "The choice to live sustainably must be made available to everyone, everywhere.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013241568580269814,
+          "perplexity": 160,
+          "sentence": "That means better policies that promote government, business and individual accountability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024375736713409424,
+          "perplexity": 13,
+          "sentence": "We all need to be part of a movement for change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014474363997578621,
+          "perplexity": 33,
+          "sentence": "This year, governments will meet in Kunming, China, to agree on an ambitious new global framework for biodiversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01919325813651085,
+          "perplexity": 22,
+          "sentence": "On this International Day for Biodiversity, let us all be part of the solution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004235418979078531,
+          "perplexity": 128,
+          "sentence": "Launch of the Mazdoor Ka Ehsaas report- A social protection programme for workers in the informal economy The Ehsaas Delivery Unit at the Poverty Alleviation and Social Safety Division and the ILO have jointly organised a webinar on May 1st, 2021 for the launch of MKE Report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002775780623778701,
+          "perplexity": 49,
+          "sentence": "The purpose of the webinar is to share steps taken for the actualisation of the MKE initiative and discuss its key recommendations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006516034482046962,
+          "perplexity": 106,
+          "sentence": "ISLAMABAD (ILO News): Labour Day (May 1st, 2021) saw the launch of the Mazdoor Ka Ehsaas (MKE) report.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004133674956392497,
+          "perplexity": 144,
+          "sentence": "MKE is among the 268 priority areas of Pakistan's largest poverty alleviation programme (EHSAAS) launched by the Prime Minister of Pakistan in 2019.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004123407125007361,
+          "perplexity": 244,
+          "sentence": "Mazdoor Ka Ehsaas translated as \u201ccompassion for workers\u201d was formulated by a Tripartite Labour Welfare and Social Protection Expert Group (LWSPEG) supported technically by the International Labour Organisation",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A healthy planet is critical for achieving the Sustainable Development Goals. Yet biodiversity is declining at an unprecedented and alarming rate, and the pressures are intensifying. We are depleting resources faster than nature can replenish them. COVID-19 has further reminded us of the intimate relationship between people and nature. We need to protect nature, restore ecosystems and establish a balance in our relationship with the planet. By reversing biodiversity loss, we can improve human health, realize sustainable development and address the climate emergency. Solutions exist to protect our planet\u2019s genetic diversity on land and at sea. The choice to live sustainably must be made available to everyone, everywhere. That means better policies that promote government, business and individual accountability. We all need to be part of a movement for change. This year, governments will meet in Kunming, China, to agree on an ambitious new global framework for biodiversity. On this International Day for Biodiversity, let us all be part of the solution. Launch of the Mazdoor Ka Ehsaas report- A social protection programme for workers in the informal economy The Ehsaas Delivery Unit at the Poverty Alleviation and Social Safety Division and the ILO have jointly organised a webinar on May 1st, 2021 for the launch of MKE Report. The purpose of the webinar is to share steps taken for the actualisation of the MKE initiative and discuss its key recommendations. ISLAMABAD (ILO News): Labour Day (May 1st, 2021) saw the launch of the Mazdoor Ka Ehsaas (MKE) report. MKE is among the 268 priority areas of Pakistan\u2019s largest poverty alleviation programme (EHSAAS) launched by the Prime Minister of Pakistan in 2019. Mazdoor Ka Ehsaas translated as \u201ccompassion for workers\u201d was formulated by a Tripartite Labour Welfare and Social Protection Expert Group (LWSPEG) supported technically by the International Labour Organisation",
+  "date": "21 May 2021"
+}

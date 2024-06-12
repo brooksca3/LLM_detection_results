@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "412c9b59-ac62-48c9-ba79-8fed20b3a9f9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.32752227783203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00022171363525558263,
+          "perplexity": 53,
+          "sentence": "Under the auspices of the Governor of Abyan, Major General Abu Bakar Hussein Salem, and in coordination with the National Mine Action Program, the United Nations Office for Project Services (UNOPS) conducted on Monday, at the Lecture Hall, Water Department Building in Zinjibar, an awareness raising workshop on the hazards of mines and war remnants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022302476281765848,
+          "perplexity": 35,
+          "sentence": "The workshop was attended by the general managers of the Planning and International Cooperation Office in the governorate, Mr. Waddah Hammas, Public Works office, Mr. Khaled Al Homaikani, the Endowment and Guidance Office, Mr. Fahmi Babarade, the General Manager of Zinjibar district, Mr. Ghassan Sheikh, the Education Manager in Zinjibar, Mr. Nader Al Shuhairi, social figures, religious leaders and civil society activists.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023223046446219087,
+          "perplexity": 75,
+          "sentence": "The General Manager of Zinjibar district addressed the audience on the importance of this workshop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002092933573294431,
+          "perplexity": 79,
+          "sentence": "He reminded the audience that Abyan witnessed two devastating wars motivated by political feuds that have had a destructive effect on the governorate and left daunting challenges that require the solidarity of everyone to overcome the ramifications of these wars, including the challenge of land mines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001864103542175144,
+          "perplexity": 154,
+          "sentence": "He added that passive behaviors and personal interests must be abandoned, and everyone must cooperate for the interest of Abyan that have been portrayed by some as an unsafe place but today it enjoys safety and security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017212769307661802,
+          "perplexity": 32,
+          "sentence": "The safety and security were only achieved because of the proactive and positive measures taken by the local authorities led by the Governor of the Governorate who succeeded in establishing the pillars of security in the governorate in cooperation with all the noble people of Abyan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015766821161378175,
+          "perplexity": 44,
+          "sentence": "In turn, the Manager of the Public Works Office in Abyan, said that important projects are now being implemented in the city of Zinjibar in the fields of health, education, cleaning and demining by international organizations including the World",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Under the auspices of the Governor of Abyan, Major General Abu Bakar Hussein Salem, and in coordination with the National Mine Action Program, the United Nations Office for Project Services (UNOPS) conducted on Monday, at the Lecture Hall, Water Department Building in Zinjibar, an awareness raising workshop on the hazards of mines and war remnants. The workshop was attended by the general managers of the Planning and International Cooperation Office in the governorate, Mr. Waddah Hammas, Public Works office, Mr. Khaled Al Homaikani, the Endowment and Guidance Office, Mr. Fahmi Babarade, the General Manager of Zinjibar district, Mr. Ghassan Sheikh, the Education Manager in Zinjibar, Mr. Nader Al Shuhairi, social figures, religious leaders and civil society activists. The General Manager of Zinjibar district addressed the audience on the importance of this workshop. He reminded the audience that Abyan witnessed two devastating wars motivated by political feuds that have had a destructive effect on the governorate and left daunting challenges that require the solidarity of everyone to overcome the ramifications of these wars, including the challenge of land mines. He added that passive behaviors and personal interests must be abandoned, and everyone must cooperate for the interest of Abyan that have been portrayed by some as an unsafe place but today it enjoys safety and security. The safety and security were only achieved because of the proactive and positive measures taken by the local authorities led by the Governor of the Governorate who succeeded in establishing the pillars of security in the governorate in cooperation with all the noble people of Abyan. In turn, the Manager of the Public Works Office in Abyan, said that important projects are now being implemented in the city of Zinjibar in the fields of health, education, cleaning and demining by international organizations including the World",
+  "date": "17 March 2019"
+}

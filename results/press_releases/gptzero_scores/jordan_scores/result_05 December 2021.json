@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4d97a621-eb5d-436d-bd99-041f17e91203",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 115.3912582397461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0015480784932151437,
+          "perplexity": 112,
+          "sentence": "The UN Resident and Humanitarian Coordinator Anders Pedersen becomes the first recipient of the Al Nahda Localization Award 2021, presented on behalf of the Jordan NGOs Forum (JONAF).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016139615327119827,
+          "perplexity": 44,
+          "sentence": "The award was presented as a recognition of Mr. Pedersen's enduring commitment to localization in Jordan over the last four years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013965426478534937,
+          "perplexity": 83,
+          "sentence": "In a statement issued by JONAF, the forum said this Award is an Acknowledgment of Pedersen's continued support to JONAF in enhancing engagement of local actors in decision making and humanitarian sector, in addition to steering the United Nations Country Team in Jordan towards more coherent, effective and accountable support to Jordan through multi-stakeholders and partners, in a process that translated into national ownership, promoting human-rights based and localized approaches, particularly during his work in the context of the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016354353865608573,
+          "perplexity": 71,
+          "sentence": "The Al Nahda Localization Award was launched by JONAF in 2021, as a means of appreciation of the significant efforts of stand-out individuals and/or organizations that champion and advocate for localization and their role advancing and strengthening local civil society organizations and actors on both the local and international levels.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017094705253839493,
+          "perplexity": 391,
+          "sentence": "The award recognizes leaders whose career and vision have transcended by raiding the influence to support and empower localization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015105085913091898,
+          "perplexity": 64,
+          "sentence": "The significance of this award emphasizes the impact that localization as the process by which power and resources are shared with local and nations NGOs to help build their capacity so they can deliver humanitarian aid more effectively and sustainably.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014915541978552938,
+          "perplexity": 74,
+          "sentence": "Localization aims at increasing participation, visibility and leadership of local actors in response efforts to various humanitarian crisis and development interventions around the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015053586103022099,
+          "perplexity": 45,
+          "sentence": "The award was created by the Jordan National NGOs Forum (JONAF) which was established in 2016 to work in tandem with government officials and decision makers at both the national and local levels, advocating for the localization",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The UN Resident and Humanitarian Coordinator Anders Pedersen becomes the first recipient of the Al Nahda Localization Award 2021, presented on behalf of the Jordan NGOs Forum (JONAF). The award was presented as a recognition of Mr. Pedersen\u2019s enduring commitment to localization in Jordan over the last four years. In a statement issued by JONAF, the forum said this Award is an Acknowledgment of Pedersen\u2019s continued support to JONAF in enhancing engagement of local actors in decision making and humanitarian sector, in addition to steering the United Nations Country Team in Jordan towards more coherent, effective and accountable support to Jordan through multi-stakeholders and partners, in a process that translated into national ownership, promoting human-rights based and localized approaches, particularly during his work in the context of the COVID-19 pandemic. The Al Nahda Localization Award was launched by JONAF in 2021, as a means of appreciation of the significant efforts of stand-out individuals and/or organizations that champion and advocate for localization and their role advancing and strengthening local civil society organizations and actors on both the local and international levels. The award recognizes leaders whose career and vision have transcended by raiding the influence to support and empower localization. The significance of this award emphasizes the impact that localization as the process by which power and resources are shared with local and nations NGOs to help build their capacity so they can deliver humanitarian aid more effectively and sustainably. Localization aims at increasing participation, visibility and leadership of local actors in response efforts to various humanitarian crisis and development interventions around the world. The award was created by the Jordan National NGOs Forum (JONAF) which was established in 2016 to work in tandem with government officials and decision makers at both the national and local levels, advocating for the localization",
+  "date": "05 December 2021"
+}

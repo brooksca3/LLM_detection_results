@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "13b6e270-d3ed-4fca-991f-744b2ee4dfd8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 59.80477523803711,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009831406641751528,
+          "perplexity": 28,
+          "sentence": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres' video message to the World Youth Development Forum: \u201cFor a Shared Future: Promoting Sustainable Development with Youth and for Youth\u201d, in Beijing on 21 July: It is an honour to send greetings to the young participants of the World Youth Development Forum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012032222002744675,
+          "perplexity": 41,
+          "sentence": "My thanks to the All-China Youth Federation for hosting this important gathering.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000995712704025209,
+          "perplexity": 23,
+          "sentence": "This Forum is a critical opportunity to bring young people together to shape solutions to some of the most pressing global issues of the day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009451426449231803,
+          "perplexity": 211,
+          "sentence": "Young people have suffered tremendously under the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008912996272556484,
+          "perplexity": 32,
+          "sentence": "Missed school, social isolation, increased unemployment and poverty, and a mental health crisis that affects young people in an outsized way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007654046057723463,
+          "perplexity": 36,
+          "sentence": "At the same time, young people have met these challenges with characteristic innovation, spirit and solidarity: reaching out to friends in need; supporting your families and communities; tirelessly calling for progress and justice for people and planet alike; and urging world leaders to invest in a better, more equal future for all and to get the Sustainable Development Goals back on track.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007056529866531491,
+          "perplexity": 66,
+          "sentence": "The theme of this conference reminds us that truly sustainable development means working not only for young people like you -- but with you: from climate action and the green and digital economies to jobs and entrepreneurship to sustainable recovery from the pandemic to the importance of quality education for all -- the focus of September's Transforming Education Summit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006207189289852977,
+          "perplexity": 46,
+          "sentence": "Across all of the areas you are discussing over the next two days, we need your ideas, innovations and energies more than ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006026900955475867,
+          "perplexity": 101,
+          "sentence": "And I urge the leaders and officials joining your discussions at this Forum to heed your calls for change: to put your needs first across their policy and investment decisions and to urgently support your inclusion and engagement",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres\u2019 video message to the World Youth Development Forum: \u201cFor a Shared Future: Promoting Sustainable Development with Youth and for Youth\u201d, in Beijing on 21 July: It is an honour to send greetings to the young participants of the World Youth Development Forum. My thanks to the All-China Youth Federation for hosting this important gathering. This Forum is a critical opportunity to bring young people together to shape solutions to some of the most pressing global issues of the day. Young people have suffered tremendously under the COVID-19 pandemic. Missed school, social isolation, increased unemployment and poverty, and a mental health crisis that affects young people in an outsized way. At the same time, young people have met these challenges with characteristic innovation, spirit and solidarity: reaching out to friends in need; supporting your families and communities; tirelessly calling for progress and justice for people and planet alike; and urging world leaders to invest in a better, more equal future for all and to get the Sustainable Development Goals back on track. The theme of this conference reminds us that truly sustainable development means working not only for young people like you -- but with you: from climate action and the green and digital economies to jobs and entrepreneurship to sustainable recovery from the pandemic to the importance of quality education for all -- the focus of September\u2019s Transforming Education Summit. Across all of the areas you are discussing over the next two days, we need your ideas, innovations and energies more than ever. And I urge the leaders and officials joining your discussions at this Forum to heed your calls for change: to put your needs first across their policy and investment decisions and to urgently support your inclusion and engagement",
+  "date": "21 July 2022"
+}

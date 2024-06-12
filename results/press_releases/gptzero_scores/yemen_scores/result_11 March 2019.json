@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c5e7b01a-a71e-480e-a6c2-e9c92189a626",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 75.99473571777344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003627918486017734,
+          "perplexity": 43,
+          "sentence": "Sana'a, 11 March 2019 - Reports from Hajjah Governorate indicate that scores of civilians have been killed by strikes on houses in Kushar District during the past two days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003516886499710381,
+          "perplexity": 16,
+          "sentence": "Medical sources report that 22 people have died, including 12 children and 10 women.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003316951624583453,
+          "perplexity": 16,
+          "sentence": "As many as 30 people have been reportedly injured, including 14 children aged between 1 and 18.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003272986796218902,
+          "perplexity": 87,
+          "sentence": "Many of the injured children have been sent to hospitals in Abs district and in Sana'a for treatment and several require possible evacuation to survive.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036471031489782035,
+          "perplexity": 170,
+          "sentence": "\u201cWe condemn these deaths and injuries unequivocally,\u201d said Ms. Lise Grande, Humanitarian Coordinator for Yemen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034721504198387265,
+          "perplexity": 44,
+          "sentence": "\u201cAnd we share our deep condolences with the families of the victims.\u201d \u201cIt is outrageous that innocent civilians continue to die needlessly in a conflict that should, and can be solved,\u201d said Ms. Grande.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032042074599303305,
+          "perplexity": 74,
+          "sentence": "\u201cA higher percentage of people in Yemen are hungry and suffering than in any other country,\u201d said Ms. Grande.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030330923618748784,
+          "perplexity": 84,
+          "sentence": "Hajjah is one of the worst impacted provinces.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002915340301115066,
+          "perplexity": 25,
+          "sentence": "More than a million people are hungry and thousands of new cholera cases are being reported across the governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003295254136901349,
+          "perplexity": 91,
+          "sentence": "\u201cWe fear that thousands of civilians are trapped between the parties and lack the basic services they need to survive,\u201d said Ms. Grande.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003153635479975492,
+          "perplexity": 39,
+          "sentence": "\u201cWe're doing everything we can to reach the people who need help in Hajjah and throughout the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002766106044873595,
+          "perplexity": 154,
+          "sentence": "In Hajjah, we're distributing emergency supplies and helping people to access safe drinking water and we've dispatched emergency Mobile Medical Teams,\u201d said Ms. Grande.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002901072148233652,
+          "perplexity": 65,
+          "sentence": "\u201cWe desperately want to help people but we are facing serious problems.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002774065942503512,
+          "perplexity": 308,
+          "sentence": "We need access, visas, specialized equipment and approvals for our programmes,\u201d said Ms. Grande.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026295840507373214,
+          "perplexity": 47,
+          "sentence": "\u201cWe are asking all parties to the conflict to help us do our life-saving work.\u201d Yemen is the world's worst humanitarian crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025160671793855727,
+          "perplexity": 17,
+          "sentence": "Nearly 80 per cent of the total",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sana\u2019a, 11 March 2019 \u2013 Reports from Hajjah Governorate indicate that scores of civilians have been killed by strikes on houses in Kushar District during the past two days. Medical sources report that 22 people have died, including 12 children and 10 women. As many as 30 people have been reportedly injured, including 14 children aged between 1 and 18. Many of the injured children have been sent to hospitals in Abs district and in Sana\u2019a for treatment and several require possible evacuation to survive. \u201cWe condemn these deaths and injuries unequivocally,\u201d said Ms. Lise Grande, Humanitarian Coordinator for Yemen. \u201cAnd we share our deep condolences with the families of the victims.\u201d \u201cIt is outrageous that innocent civilians continue to die needlessly in a conflict that should, and can be solved,\u201d said Ms. Grande. \u201cA higher percentage of people in Yemen are hungry and suffering than in any other country,\u201d said Ms. Grande. Hajjah is one of the worst impacted provinces. More than a million people are hungry and thousands of new cholera cases are being reported across the governorate. \u201cWe fear that thousands of civilians are trapped between the parties and lack the basic services they need to survive,\u201d said Ms. Grande. \u201cWe\u2019re doing everything we can to reach the people who need help in Hajjah and throughout the country. In Hajjah, we\u2019re distributing emergency supplies and helping people to access safe drinking water and we\u2019ve dispatched emergency Mobile Medical Teams,\u201d said Ms. Grande. \u201cWe desperately want to help people but we are facing serious problems. We need access, visas, specialized equipment and approvals for our programmes,\u201d said Ms. Grande. \u201cWe are asking all parties to the conflict to help us do our life-saving work.\u201d Yemen is the world\u2019s worst humanitarian crisis. Nearly 80 per cent of the total",
+  "date": "11 March 2019"
+}

@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5a3918a-9973-4ee0-9b06-0aa5dc3c51a8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 24.750083923339844,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004657362005673349,
+          "perplexity": 28,
+          "sentence": "The United Nations Human Settlements Programme (UN-Habitat) welcomes an additional contribution of USD 1.38 million from the Government of Japan to contribute to social stabilization and food security in Iraq through (a) rehabilitation or reconstruction of housing units damaged or destroyed by the conflict, (b) improving access to public infrastructure such as water, sanitation, and hygiene facilities (WASH sector), basic services including schools (education sector), community health centers (health sector) in environmentally friendly approaches, (c) improving access for returnees to marketplaces and capacity development and awareness-raising on food security and resource efficiency in particular.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047665403690189123,
+          "perplexity": 53,
+          "sentence": "The project will be implemented in Sinjar/Western Ninewa, Ninewa Governorate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045618414878845215,
+          "perplexity": 9,
+          "sentence": "After the invasion of Sinjar district in the Ninewa Governorate by the so-called Islamic State of Iraq and the Levant (ISIL) in 2014, more than 250,000 people were displaced from Sinjar district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015280775725841522,
+          "perplexity": 19,
+          "sentence": "Many of the internally displaced persons (IDPs) who are originally from Sinjar are still caught in protracted displacement seven years after the official declaration of the 'end of war against ISIL' by the Government of Iraq, and they still face barriers to return, mainly due to severe damage to housing, lack of access to basic services, and lack of livelihood and employment opportunities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014818171970546246,
+          "perplexity": 72,
+          "sentence": "In addition, while Iraq's economic conditions have been gradually recovering from COVID-19 as well as the oil price shocks of 2020, the recovery is being fraught by the impact and significant economic risks posed by the impact of the war in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012825233861804008,
+          "perplexity": 58,
+          "sentence": "When Wael Al-Ashhab, Head of Country Programme of UN-Habitat Iraq, visited His Excellency Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, on 8 December 2022, he emphasized the importance of the activities implemented by UN-Habitat towards returnees in order to ensure to create the entire environment for people to lead humanly lives, including constructing and rehabilitating decent homes, providing",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Human Settlements Programme (UN-Habitat) welcomes an additional contribution of USD 1.38 million from the Government of Japan to contribute to social stabilization and food security in Iraq through (a) rehabilitation or reconstruction of housing units damaged or destroyed by the conflict, (b) improving access to public infrastructure such as water, sanitation, and hygiene facilities (WASH sector), basic services including schools (education sector), community health centers (health sector) in environmentally friendly approaches, (c) improving access for returnees to marketplaces and capacity development and awareness-raising on food security and resource efficiency in particular. The project will be implemented in Sinjar/Western Ninewa, Ninewa Governorate. After the invasion of Sinjar district in the Ninewa Governorate by the so-called Islamic State of Iraq and the Levant (ISIL) in 2014, more than 250,000 people were displaced from Sinjar district. Many of the internally displaced persons (IDPs) who are originally from Sinjar are still caught in protracted displacement seven years after the official declaration of the \u2018end of war against ISIL\u2019 by the Government of Iraq, and they still face barriers to return, mainly due to severe damage to housing, lack of access to basic services, and lack of livelihood and employment opportunities. In addition, while Iraq\u2019s economic conditions have been gradually recovering from COVID\u201119 as well as the oil price shocks of 2020, the recovery is being fraught by the impact and significant economic risks posed by the impact of the war in Ukraine. When Wael Al-Ashhab, Head of Country Programme of UN-Habitat Iraq, visited His Excellency Mr. Futoshi Matsumoto, Ambassador of Japan to Iraq, on 8 December 2022, he emphasized the importance of the activities implemented by UN-Habitat towards returnees in order to ensure to create the entire environment for people to lead humanly lives, including constructing and rehabilitating decent homes, providing",
+  "date": "23 December 2022"
+}

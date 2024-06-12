@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "4efcd624-e5a0-4db6-8d98-5837ba52336a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 75.53792572021484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021819918765686452,
+          "perplexity": 52,
+          "sentence": "The Jordanian Armed Forces (JAF), the Embassy of Japan, and the International Organization for Migration (IOM) have held an inauguration in Zarqa, to celebrate the completion of the humanitarian border management project \u201cMainstreaming COVID-19 Response into Humanitarian Border Management in Jordan\u201d funded by the Government of Japan and implemented by IOM through 2021-2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023348465037997812,
+          "perplexity": 44,
+          "sentence": "The inauguration took place under the patronage of H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002039857645286247,
+          "perplexity": 44,
+          "sentence": "the Assistant Chief of staff for planning, Organization and Defense Resources of JAF, Brigadier General, Dr. Yousef Al Khatib, in the presence of the H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001994577469304204,
+          "perplexity": 77,
+          "sentence": "Ambassador of Japan to Jordan, Kaoru Shimazaki and the H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019438211165834218,
+          "perplexity": 270,
+          "sentence": "Chief of Mission of IOM in Jordan, Tajma Kurt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019757439440581948,
+          "perplexity": 136,
+          "sentence": "The facilities inaugurated today include office space and the accommodation for female officers with an isolation room equipped with necessary Personal Protective Equipment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001928389974636957,
+          "perplexity": 63,
+          "sentence": "This project also supported JAF and Royal Medical Services (RMS) to enhance the capacity for public health preparedness and response to cross-border communicable diseases by providing information sessions to 94 officers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018442459986545146,
+          "perplexity": 159,
+          "sentence": "The information sessions focused on topics of migration health, COVID-19 Infection, prevention, and control (IPC) response measures as well as mainstreaming rights-based approach and gender equality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020895279885735363,
+          "perplexity": 154,
+          "sentence": "To ensure the transferability of its knowledge within JAF, Training of Trainers (ToT) sessions were also conducted for selected 11 officers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017583525914233178,
+          "perplexity": 200,
+          "sentence": "\u201cAs we are all aware, Jordan enjoys excellent relations with Japan and strong cooperation with the IOM Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001558714429847896,
+          "perplexity": 58,
+          "sentence": "This relation is driven by a shared common values and interests, having said that, we in Jordan, more particularly in JAF look forward to enhancing our relations to promote peace, stability, and socio-economic development not only in this region but globally,\u201d H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018080005247611552,
+          "perplexity": 36,
+          "sentence": "Brigadier General, Dr. Yousef Al Khatib, the Assistant Chief of Staff for Planning, Organization and Defense Resources stated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020136861712671816,
+          "perplexity": 14,
+          "sentence": "H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001768854126567021,
+          "perplexity": 165,
+          "sentence": "Kaoru Shimazaki, Ambassador of Japan to Jordan stated \u201cThe Government of Japan is grateful",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Jordanian Armed Forces (JAF), the Embassy of Japan, and the International Organization for Migration (IOM) have held an inauguration in Zarqa, to celebrate the completion of the humanitarian border management project \u201cMainstreaming COVID-19 Response into Humanitarian Border Management in Jordan\u201d funded by the Government of Japan and implemented by IOM through 2021-2022. The inauguration took place under the patronage of H.E. the Assistant Chief of staff for planning, Organization and Defense Resources of JAF, Brigadier General, Dr. Yousef Al Khatib, in the presence of the H.E. Ambassador of Japan to Jordan, Kaoru Shimazaki and the H.E. Chief of Mission of IOM in Jordan, Tajma Kurt. The facilities inaugurated today include office space and the accommodation for female officers with an isolation room equipped with necessary Personal Protective Equipment. This project also supported JAF and Royal Medical Services (RMS) to enhance the capacity for public health preparedness and response to cross-border communicable diseases by providing information sessions to 94 officers. The information sessions focused on topics of migration health, COVID-19 Infection, prevention, and control (IPC) response measures as well as mainstreaming rights-based approach and gender equality. To ensure the transferability of its knowledge within JAF, Training of Trainers (ToT) sessions were also conducted for selected 11 officers. \u201cAs we are all aware, Jordan enjoys excellent relations with Japan and strong cooperation with the IOM Jordan. This relation is driven by a shared common values and interests, having said that, we in Jordan, more particularly in JAF look forward to enhancing our relations to promote peace, stability, and socio-economic development not only in this region but globally,\u201d H.E. Brigadier General, Dr. Yousef Al Khatib, the Assistant Chief of Staff for Planning, Organization and Defense Resources stated. H.E. Kaoru Shimazaki, Ambassador of Japan to Jordan stated \u201cThe Government of Japan is grateful",
+  "date": "16 May 2022"
+}

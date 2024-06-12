@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f8bfc88-57c4-42a0-aede-0afb1d4a944c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 44.4644775390625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002389799803495407,
+          "perplexity": 57,
+          "sentence": "A nationwide campaign continues in Somalia to protect millions of children against the potentially deadly effects of measles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014911083271726966,
+          "perplexity": 23,
+          "sentence": "WHO, UNICEF, national and local health authorities aim to reach more than 4.7 million children aged from 6 months to 10 years during the overall campaign.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014452978502959013,
+          "perplexity": 23,
+          "sentence": "This week, the campaign targets 2.7 million children in the southern and central states, along with 1.1 million children in Somaliland.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015924208564683795,
+          "perplexity": 67,
+          "sentence": "The vaccinations will be available at health centres and temporary vaccination sites.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014328027609735727,
+          "perplexity": 168,
+          "sentence": "Puntland implemented its campaign in January when over 933 000 children were vaccinated.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016459673643112183,
+          "perplexity": 51,
+          "sentence": "Over 2800 cases of suspected measles have been reported since the start of the year, with the most affected regions including Bay, Banadir and Mudug.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012883965391665697,
+          "perplexity": 21,
+          "sentence": "In 2017, there were more than 23 000 suspected cases of measles -6 times as many as in 2016 - with the vast majority (83%) affecting children under 10.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014668201329186559,
+          "perplexity": 27,
+          "sentence": "In early 2017, WHO, UNICEF and partners, together with national health authorities, vaccinated nearly 600 000 children aged 6 months to 5 years for measles in hard-to-reach and hotspot areas across Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001905907061882317,
+          "perplexity": 111,
+          "sentence": "\u201cThe campaign will intensify efforts to improve immunity against measles and reach unvaccinated children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001613186439499259,
+          "perplexity": 73,
+          "sentence": "As we saw last year when partners responded to a major cholera outbreak, with the right interventions, WHO and health authorities are confident that similar success may be seen in controlling this measles outbreak,\u201d said Dr Ghulam Popal, WHO Representative in Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023893907200545073,
+          "perplexity": 18,
+          "sentence": "More than 2 years of severe drought has led to widespread child malnutrition, mass displacement, and a lack of access to clean water and sanitation, creating ideal conditions for infectious disease outbreaks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021416344679892063,
+          "perplexity": 47,
+          "sentence": "\u201cThe situation is especially critical for millions of under-vaccinated, weak and vulnerable children who are susceptible to contracting infectious diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016589880688115954,
+          "perplexity": 11,
+          "sentence": "More than 1.2 million children are projected to be at risk of acute malnutrition in the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "A nationwide campaign continues in Somalia to protect millions of children against the potentially deadly effects of measles. WHO, UNICEF, national and local health authorities aim to reach more than 4.7 million children aged from 6 months to 10 years during the overall campaign. This week, the campaign targets 2.7 million children in the southern and central states, along with 1.1 million children in Somaliland. The vaccinations will be available at health centres and temporary vaccination sites. Puntland implemented its campaign in January when over 933 000 children were vaccinated. Over 2800 cases of suspected measles have been reported since the start of the year, with the most affected regions including Bay, Banadir and Mudug. In 2017, there were more than 23 000 suspected cases of measles \u20136 times as many as in 2016 \u2013 with the vast majority (83%) affecting children under 10. In early 2017, WHO, UNICEF and partners, together with national health authorities, vaccinated nearly 600 000 children aged 6 months to 5 years for measles in hard-to-reach and hotspot areas across Somalia. \u201cThe campaign will intensify efforts to improve immunity against measles and reach unvaccinated children. As we saw last year when partners responded to a major cholera outbreak, with the right interventions, WHO and health authorities are confident that similar success may be seen in controlling this measles outbreak,\u201d said Dr Ghulam Popal, WHO Representative in Somalia. More than 2 years of severe drought has led to widespread child malnutrition, mass displacement, and a lack of access to clean water and sanitation, creating ideal conditions for infectious disease outbreaks. \u201cThe situation is especially critical for millions of under-vaccinated, weak and vulnerable children who are susceptible to contracting infectious diseases. More than 1.2 million children are projected to be at risk of acute malnutrition in the",
+  "date": "12 March 2018"
+}

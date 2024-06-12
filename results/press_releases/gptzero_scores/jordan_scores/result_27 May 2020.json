@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ab470c0b-a0a5-4d54-bdde-951aa3a264f3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.559242248535156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006672948366031051,
+          "perplexity": 61,
+          "sentence": "The United Nations Human Settlement Programme (UN-Habitat) in Jordan welcomes the generous contribution from the Government of Japan for the purpose of supporting vulnerable Jordanian communities and refugees in Amman against Flash Floods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007317358977161348,
+          "perplexity": 91,
+          "sentence": "Flash floods became a serious problem in Jordan due to rapid unplanned urbanization, insufficient capacity of drainage systems and climate change ramifications.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007629446918144822,
+          "perplexity": 67,
+          "sentence": "In 2018, flash floods caused losses of lives and damage to private properties and urban infrastructure, particularly in Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006128164823167026,
+          "perplexity": 52,
+          "sentence": "According to the flood hazard map for Jordan, June 2019, the districts of Amman are among the most vulnerable to flash floods and epidemics due to high population and concentration of Syrian refugees, which exercise pressure on social services and infrastructure for water and sanitation and drainage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004181565891485661,
+          "perplexity": 47,
+          "sentence": "In order to tackle these urgent risks, UN-Habitat Jordan, in collaboration with the Greater Amman Municipality (GAM) started a project to strengthen social stability and resilience of vulnerable Jordanian and Syrian communities in Amman against flash floods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030779209919273853,
+          "perplexity": 115,
+          "sentence": "\u201cThe contribution will indirectly benefit more than 35,000 inhabitants in downtown Amman by building and rehabilitating stormwater drainage facilities using environmental-friendly construction technologies\u201d, UN-Habitat National Programme Coordinator Ms. Deema Abu Thiab said in a statement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026325738872401416,
+          "perplexity": 195,
+          "sentence": "Also, this project will build the capacities of GAM staff and residents of Amman through training, awareness raising campaigns to better plan and prepare for future flash floods and vocational training opportunities on appropriate flood resistance construction technologies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00025190148153342307,
+          "perplexity": 65,
+          "sentence": "The Japanese Ambassador in Amman Mr. Hidenao Yanagi also stated, \u201cJapan appreciate that Greater Amman Municipality received so many refugees from Syria and Palestine, and we have so far cooperated with GAM for a community development programme such as \u201cHeart of Amman\u201d with UNDP, which will increase socio-economic self-reliance and improve livelihoods as well as revitalize local communities in downtown in Amman.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002816487685777247,
+          "perplexity": 39,
+          "sentence": "We also value the important role of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations Human Settlement Programme (UN-Habitat) in Jordan welcomes the generous contribution from the Government of Japan for the purpose of supporting vulnerable Jordanian communities and refugees in Amman against Flash Floods. Flash floods became a serious problem in Jordan due to rapid unplanned urbanization, insufficient capacity of drainage systems and climate change ramifications. In 2018, flash floods caused losses of lives and damage to private properties and urban infrastructure, particularly in Amman. According to the flood hazard map for Jordan, June 2019, the districts of Amman are among the most vulnerable to flash floods and epidemics due to high population and concentration of Syrian refugees, which exercise pressure on social services and infrastructure for water and sanitation and drainage. In order to tackle these urgent risks, UN-Habitat Jordan, in collaboration with the Greater Amman Municipality (GAM) started a project to strengthen social stability and resilience of vulnerable Jordanian and Syrian communities in Amman against flash floods. \u201cThe contribution will indirectly benefit more than 35,000 inhabitants in downtown Amman by building and rehabilitating stormwater drainage facilities using environmental-friendly construction technologies\u201d, UN-Habitat National Programme Coordinator Ms. Deema Abu Thiab said in a statement. Also, this project will build the capacities of GAM staff and residents of Amman through training, awareness raising campaigns to better plan and prepare for future flash floods and vocational training opportunities on appropriate flood resistance construction technologies. The Japanese Ambassador in Amman Mr. Hidenao Yanagi also stated, \u201cJapan appreciate that Greater Amman Municipality received so many refugees from Syria and Palestine, and we have so far cooperated with GAM for a community development programme such as \u201cHeart of Amman\u201d with UNDP, which will increase socio-economic self-reliance and improve livelihoods as well as revitalize local communities in downtown in Amman. We also value the important role of",
+  "date": "27 May 2020"
+}

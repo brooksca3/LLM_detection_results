@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "23844d9a-6765-42ed-a034-2acc10d4e527",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0228881199367881,
+        "human": 0.9765948993879632,
+        "mixed": 0.000516980675248891
+      },
+      "completely_generated_prob": 0.0228881199367881,
+      "confidence_category": "high",
+      "confidence_score": 0.9765948993879632,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0228881199367881,
+          "human": 0.9765948993879632,
+          "mixed": 0.000516980675248891
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 60.53947448730469,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.002517048269510269,
+          "perplexity": 38,
+          "sentence": "Iraq, 7 February 2023 - Iraq celebrated the World Cancer Day and renewed its commitment to bridging the gap in cancer awareness, prevention, and early detection and treatment to save lives and lower the suffering from cancers across the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002901861909776926,
+          "perplexity": 98,
+          "sentence": "Cancers represent the second cause of death in Iraq, the Region, and the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029275810811668634,
+          "perplexity": 58,
+          "sentence": "They have severely impacted the Iraqi society at large and the vulnerable communities in particular, especially in areas where access to equitable and sufficient health care services remains limited amid increasing social and economic risk factors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0027920750435441732,
+          "perplexity": 47,
+          "sentence": "Reflecting on the national roles and lead needs to advance cancer treatment, the World Health Organization (WHO) attended a celebration organized in Duhok by the Ministry of Health in the Kurdistan region of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002364679239690304,
+          "perplexity": 112,
+          "sentence": "The Ministry and WHO renewed commitment to effective cooperation in the fight against cancer and projected mapping urgent responses to critical issues like raising awareness, early detection, registry, and affordability of adequate treatment for different types of cancer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019234181381762028,
+          "perplexity": 66,
+          "sentence": "WHO and the Ministry of Health of the Kurdistan region further agreed to capitalize on awareness raising and educating women on self-examination of breast cancer in addition to studying joint prospects for boosting cancer management projects that could provide the population, including the vulnerable groups of the refugees and internally displaced populations, with equal opportunities to get the earliest diagnosis and treatment possible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028569146525114775,
+          "perplexity": 24,
+          "sentence": "Barween, a 35-year-old wife and mother of 3 children from a village in the northern Erbil governorate of the Kurdistan region, has recently lost a sister after a long fight with breast cancer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002972428221255541,
+          "perplexity": 221,
+          "sentence": "Barween's sister Naveed aged 32 lost the battle due to late diagnosis, rudimentary access to treatment, and metastases to other organs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003474781522527337,
+          "perplexity": 42,
+          "sentence": "Barween's realization of the severity of the consequences of the disease led her to reach out to the Cancer Hospital in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Iraq, 7 February 2023 \u2013 Iraq celebrated the World Cancer Day and renewed its commitment to bridging the gap in cancer awareness, prevention, and early detection and treatment to save lives and lower the suffering from cancers across the country. Cancers represent the second cause of death in Iraq, the Region, and the world. They have severely impacted the Iraqi society at large and the vulnerable communities in particular, especially in areas where access to equitable and sufficient health care services remains limited amid increasing social and economic risk factors. Reflecting on the national roles and lead needs to advance cancer treatment, the World Health Organization (WHO) attended a celebration organized in Duhok by the Ministry of Health in the Kurdistan region of Iraq. The Ministry and WHO renewed commitment to effective cooperation in the fight against cancer and projected mapping urgent responses to critical issues like raising awareness, early detection, registry, and affordability of adequate treatment for different types of cancer. WHO and the Ministry of Health of the Kurdistan region further agreed to capitalize on awareness raising and educating women on self-examination of breast cancer in addition to studying joint prospects for boosting cancer management projects that could provide the population, including the vulnerable groups of the refugees and internally displaced populations, with equal opportunities to get the earliest diagnosis and treatment possible. Barween, a 35-year-old wife and mother of 3 children from a village in the northern Erbil governorate of the Kurdistan region, has recently lost a sister after a long fight with breast cancer. Barween\u2019s sister Naveed aged 32 lost the battle due to late diagnosis, rudimentary access to treatment, and metastases to other organs. Barween\u2019s realization of the severity of the consequences of the disease led her to reach out to the Cancer Hospital in",
+  "date": "07 February 2023"
+}

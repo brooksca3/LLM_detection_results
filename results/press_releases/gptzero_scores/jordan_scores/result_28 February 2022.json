@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "593d1efe-6c85-46fc-8ebf-9236e02ce3ad",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.86811065673828,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016330130165442824,
+          "perplexity": 40,
+          "sentence": "Achieving food security has been identified by the Government of Jordan as a priority of increasingly national importance, which has led to the adoption of the National Food Strategy 2021-2030 and its first Action Plan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012822987046092749,
+          "perplexity": 26,
+          "sentence": "Jordan also participated in the UN Food Systems Summit that was called for by the UN Secretary General Antonio Guterres in 2021, leading to the announcement of the UN Food Systems Coordination Hub which was recently established in Rome.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012812352506443858,
+          "perplexity": 65,
+          "sentence": "In a policy brief titled \u201cTowards the Implementation of Jordan's Food Security Strategy\u201d, the UN reports that while Jordan has not yet experienced serious food availability issues, significant challenges including a fragmented legislative framework, the need for improved water use, dependence on imported foods and the socioeconomic consequences of COVID-19, could affect the country's food security.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007586780120618641,
+          "perplexity": 22,
+          "sentence": "Jordan imports nearly $4 billion worth of food and agricultural products annually.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008552704239264131,
+          "perplexity": 42,
+          "sentence": "The country is resource-poor in water and energy; the annual water share per capita is less than 100 m3.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010728150373324752,
+          "perplexity": 47,
+          "sentence": "The strain on Jordan's food security has been exacerbated by the COVID-19 pandemic, which has had an impact on all areas, affecting the Sustainable Development Goals set out in the 2030 Agenda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009555535507388413,
+          "perplexity": 87,
+          "sentence": "Figures from the \u201cJordan Food Security Update: Implications of COVID-19\u201d, showed that among Jordanians, 53% are vulnerable to food insecurity and around 3% of households are food insecure.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00098051642999053,
+          "perplexity": 65,
+          "sentence": "To strengthen food security in Jordan, ensure successful implementation of the National Strategy and its Action Plan, and accelerate realizing the \u201cZero Hunger Goal\u201d under the 2030 Agenda, the UN recommends: The brief launched today is the second of a series of policy briefs that aim to inform decision making and ensure synergy with other national and international frameworks.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Achieving food security has been identified by the Government of Jordan as a priority of increasingly national importance, which has led to the adoption of the National Food Strategy 2021-2030 and its first Action Plan. Jordan also participated in the UN Food Systems Summit that was called for by the UN Secretary General Antonio Guterres in 2021, leading to the announcement of the UN Food Systems Coordination Hub which was recently established in Rome. In a policy brief titled \u201cTowards the Implementation of Jordan\u2019s Food Security Strategy\u201d, the UN reports that while Jordan has not yet experienced serious food availability issues, significant challenges including a fragmented legislative framework, the need for improved water use, dependence on imported foods and the socioeconomic consequences of COVID-19, could affect the country\u2019s food security. Jordan imports nearly $4 billion worth of food and agricultural products annually. The country is resource-poor in water and energy; the annual water share per capita is less than 100 m3. The strain on Jordan\u2019s food security has been exacerbated by the COVID-19 pandemic, which has had an impact on all areas, affecting the Sustainable Development Goals set out in the 2030 Agenda. Figures from the \u201cJordan Food Security Update: Implications of COVID-19\u201d, showed that among Jordanians, 53% are vulnerable to food insecurity and around 3% of households are food insecure. To strengthen food security in Jordan, ensure successful implementation of the National Strategy and its Action Plan, and accelerate realizing the \u201cZero Hunger Goal\u201d under the 2030 Agenda, the UN recommends: The brief launched today is the second of a series of policy briefs that aim to inform decision making and ensure synergy with other national and international frameworks.",
+  "date": "28 February 2022"
+}

@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "00331987-b15e-4d56-a085-d8e974aae709",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023889626223031573,
+        "human": 0.9754930707737892,
+        "mixed": 0.0006173030031791104
+      },
+      "completely_generated_prob": 0.023889626223031573,
+      "confidence_category": "high",
+      "confidence_score": 0.9754930707737892,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023889626223031573,
+          "human": 0.9754930707737892,
+          "mixed": 0.0006173030031791104
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.1521110534668,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0026591212954372168,
+          "perplexity": 34,
+          "sentence": "Aden - Yesterday (20/06), a flight chartered by the International Organization for Migration (IOM) with 96 migrants on board took off from Yemen, headed for Ethiopia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002219691639766097,
+          "perplexity": 50,
+          "sentence": "This movement was the 18th flight from Aden to Addis Ababa under IOM's Voluntary Humanitarian Return (VHR) programme since 28 May, helping a total of 2,133 stranded migrants, including 570 children, return home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031548773404210806,
+          "perplexity": 49,
+          "sentence": "On 21 April, the authorities in Aden began detaining irregular migrants in large numbers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002964240498840809,
+          "perplexity": 61,
+          "sentence": "At the peak (between 27 April to 03 May), IOM estimates that over 5,000 people were held across three sites.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002845418406650424,
+          "perplexity": 60,
+          "sentence": "The majority of the returning migrants were detained, many for nearly two months, in a makeshift migrant detention site at the 22nd of May Stadium in Aden city.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003255140734836459,
+          "perplexity": 152,
+          "sentence": "Since April, IOM has been coordinating partners' response to this acute humanitarian situation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028379906434565783,
+          "perplexity": 43,
+          "sentence": "IOM is providing emergency food, water, sanitation and 24-hour health services to migrants in the stadium.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028158058412373066,
+          "perplexity": 44,
+          "sentence": "IOM also established a diarrhoea treatment centre (DTC) in Ibn Khaldoon Hospital to help those migrants suffering from acute watery diarrhoea (AWD).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00277870730496943,
+          "perplexity": 36,
+          "sentence": "While IOM has supported over 2,000 people to return home so far, an additional 2,000 migrants are still in the stadium, many of whom are children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020155964884907007,
+          "perplexity": 89,
+          "sentence": "In the coming week, IOM will support the voluntary return of the remaining children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016598174115642905,
+          "perplexity": 85,
+          "sentence": "\u201cIOM provides voluntary humanitarian return assistance to detained migrants, as a last resort, and does not support the further detention of migrants, especially children, women and vulnerable groups,\u201d said Mohammed Abdiker, IOM Director of Operations of Emergencies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003147225361317396,
+          "perplexity": 23,
+          "sentence": "\u201cAll governments are obliged to provide protection for all people within their borders, regardless of immigration status.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003240577643737197,
+          "perplexity": 52,
+          "sentence": "This protection is extended to detained migrants, including access to food, water, sanitation, health services and safe accommodation,\u201d he added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006979763507843018,
+          "perplexity": 52,
+          "sentence": "Despite the conflict in Yemen, migrants seeking opportunities in Gulf countries continue to make",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Aden \u2013 Yesterday (20/06), a flight chartered by the International Organization for Migration (IOM) with 96 migrants on board took off from Yemen, headed for Ethiopia. This movement was the 18th flight from Aden to Addis Ababa under IOM\u2019s Voluntary Humanitarian Return (VHR) programme since 28 May, helping a total of 2,133 stranded migrants, including 570 children, return home. On 21 April, the authorities in Aden began detaining irregular migrants in large numbers. At the peak (between 27 April to 03 May), IOM estimates that over 5,000 people were held across three sites. The majority of the returning migrants were detained, many for nearly two months, in a makeshift migrant detention site at the 22nd of May Stadium in Aden city. Since April, IOM has been coordinating partners\u2019 response to this acute humanitarian situation. IOM is providing emergency food, water, sanitation and 24-hour health services to migrants in the stadium. IOM also established a diarrhoea treatment centre (DTC) in Ibn Khaldoon Hospital to help those migrants suffering from acute watery diarrhoea (AWD). While IOM has supported over 2,000 people to return home so far, an additional 2,000 migrants are still in the stadium, many of whom are children. In the coming week, IOM will support the voluntary return of the remaining children. \u201cIOM provides voluntary humanitarian return assistance to detained migrants, as a last resort, and does not support the further detention of migrants, especially children, women and vulnerable groups,\u201d said Mohammed Abdiker, IOM Director of Operations of Emergencies. \u201cAll governments are obliged to provide protection for all people within their borders, regardless of immigration status. This protection is extended to detained migrants, including access to food, water, sanitation, health services and safe accommodation,\u201d he added. Despite the conflict in Yemen, migrants seeking opportunities in Gulf countries continue to make",
+  "date": "21 June 2019"
+}

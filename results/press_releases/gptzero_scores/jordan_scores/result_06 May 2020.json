@@ -1,0 +1,141 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7c87c760-aaa8-45b3-b1df-2ae90e4c24c9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 38.30059814453125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4476848035102897e-11,
+          "num_sentences": 13,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.017257943749427795,
+          "perplexity": 40,
+          "sentence": "Against the backdrop of national efforts to tackle the Covid-19 outbreak, the United Nations Country Team is working with the Government of Jordan to mitigate the impact of the Coronavirus on all people in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015339457429945469,
+          "perplexity": 49,
+          "sentence": "Since the onset of the crisis, the UN has intensified its support for refugee and other vulnerable populations, while offering expertise and material assistance to support the national response to the Covid-19 emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015558569692075253,
+          "perplexity": 20,
+          "sentence": "The UN is now working with the government to address the immediate, medium and longer-term socio-economic impacts of the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014626153744757175,
+          "perplexity": 91,
+          "sentence": "\u201cThe Covid-19 pandemic is a massive and unprecedented health crisis that threatens the development, social and economic gains realized in recent years,\u201d said Anders Pedersen, the United Nations Resident and Humanitarian Coordinator in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.017800195142626762,
+          "perplexity": 66,
+          "sentence": "\u201cCollective work is needed now more than ever to reduce the impact of the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.016389869153499603,
+          "perplexity": 41,
+          "sentence": "Only by working together, can we tackle the immediate and longer-term health and socio-economic repercussions of the crisis\u201d.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010129272937774658,
+          "perplexity": 31,
+          "sentence": "The UN team, led by the WHO, is supporting Jordan's National Preparedness and Response Operational Plan to contain and respond to the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006471507716923952,
+          "perplexity": 96,
+          "sentence": "Support ranges from technical advice to procurement of medical and personal protection equipment (PPE) to gender-responsive and inclusive risk communication materials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0064506870694458485,
+          "perplexity": 36,
+          "sentence": "UNICEF and UNHCR has procured emergency health equipment and supplies valued at US$3.7 and $1.2 million, respectively to support the Ministry of Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006010475102812052,
+          "perplexity": 167,
+          "sentence": "In addition, UNHCR has gifted six ambulances to the Ministry.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005024372134357691,
+          "perplexity": 64,
+          "sentence": "UNDP is supporting medical waste management in Jordan's public hospitals to protect patients, medical workers and the public.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005327293649315834,
+          "perplexity": 63,
+          "sentence": "This includes support for the Al-Bashir hospital ER triage tent, which allows the hospital to continue to care for some 2,000 non-Covid cases per day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004642162937670946,
+          "perplexity": 74,
+          "sentence": "UNRWA is reducing the risk of spread of the virus in ten Palestinian refugee camps by removing over 300 tons of refuse daily as",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Against the backdrop of national efforts to tackle the Covid-19 outbreak, the United Nations Country Team is working with the Government of Jordan to mitigate the impact of the Coronavirus on all people in the country. Since the onset of the crisis, the UN has intensified its support for refugee and other vulnerable populations, while offering expertise and material assistance to support the national response to the Covid-19 emergency. The UN is now working with the government to address the immediate, medium and longer-term socio-economic impacts of the crisis. \u201cThe Covid-19 pandemic is a massive and unprecedented health crisis that threatens the development, social and economic gains realized in recent years,\u201d said Anders Pedersen, the United Nations Resident and Humanitarian Coordinator in Jordan. \u201cCollective work is needed now more than ever to reduce the impact of the virus. Only by working together, can we tackle the immediate and longer-term health and socio-economic repercussions of the crisis\u201d. The UN team, led by the WHO, is supporting Jordan\u2019s National Preparedness and Response Operational Plan to contain and respond to the virus. Support ranges from technical advice to procurement of medical and personal protection equipment (PPE) to gender-responsive and inclusive risk communication materials. UNICEF and UNHCR has procured emergency health equipment and supplies valued at US$3.7 and $1.2 million, respectively to support the Ministry of Health. In addition, UNHCR has gifted six ambulances to the Ministry. UNDP is supporting medical waste management in Jordan\u2019s public hospitals to protect patients, medical workers and the public. This includes support for the Al-Bashir hospital ER triage tent, which allows the hospital to continue to care for some 2,000 non-Covid cases per day. UNRWA is reducing the risk of spread of the virus in ten Palestinian refugee camps by removing over 300 tons of refuse daily as",
+  "date": "06 May 2020"
+}

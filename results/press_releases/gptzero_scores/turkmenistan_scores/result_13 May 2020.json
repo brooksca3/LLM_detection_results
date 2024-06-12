@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "11037bed-87e6-461d-a733-b361954d2cb2",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.09724807739258,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0001909749989863485,
+          "perplexity": 41,
+          "sentence": "NEW YORK, 13 MAY 2020 - An additional 6,000 children could die every day from preventable causes over the next six months as the COVID-19 pandemic continues to weaken health systems and disrupt routine services, UNICEF said today.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020982665591873229,
+          "perplexity": 9,
+          "sentence": "The estimate is based on an analysis by researchers from the Johns Hopkins Bloomberg School of Public Health, newly published in The Lancet Global Health journal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002326138346688822,
+          "perplexity": 34,
+          "sentence": "Based on the worst of three scenarios in 118 low- and middle-income countries, the analysis estimates that an additional 1.2 million under-five deaths could occur in just six months, due to reductions in routine health service coverage levels and an increase in child wasting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019363919273018837,
+          "perplexity": 24,
+          "sentence": "These potential child deaths will be in addition to the 2.5 million children who already die before their 5th birthday every six months in the 118 countries included in the study, threatening to reverse nearly a decade of progress on ending preventable under-five mortality.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002030721225310117,
+          "perplexity": 25,
+          "sentence": "Some 56,700 more maternal deaths could also occur in just six months, in addition to the 144,000 deaths that already take place in the same countries over a six-month period.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022483142674900591,
+          "perplexity": 46,
+          "sentence": "\u201cUnder a worst-case scenario, the global number of children dying before their fifth birthdays could increase for the first time in decades,\u201d said UNICEF Executive Director Henrietta Fore.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029339324100874364,
+          "perplexity": 44,
+          "sentence": "\u201cWe must not let mothers and children become collateral damage in the fight against the virus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027759766089729965,
+          "perplexity": 114,
+          "sentence": "And we must not let decades of progress on reducing preventable child and maternal deaths be lost.\u201d In countries with already weak health systems, COVID-19 is causing disruptions in medical supply chains and straining financial and human resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002847195428330451,
+          "perplexity": 67,
+          "sentence": "Visits to health care centres are declining due to lockdowns, curfews and transport disruptions, and as communities remain fearful of infection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033074943348765373,
+          "perplexity": 89,
+          "sentence": "In a commentary to the Lancet report, UNICEF warns these disruptions could result in potentially",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "NEW YORK, 13 MAY 2020 \u2013 An additional 6,000 children could die every day from preventable causes over the next six months as the COVID-19 pandemic continues to weaken health systems and disrupt routine services, UNICEF said today. The estimate is based on an analysis by researchers from the Johns Hopkins Bloomberg School of Public Health, newly published in The Lancet Global Health journal. Based on the worst of three scenarios in 118 low- and middle-income countries, the analysis estimates that an additional 1.2 million under-five deaths could occur in just six months, due to reductions in routine health service coverage levels and an increase in child wasting. These potential child deaths will be in addition to the 2.5 million children who already die before their 5th birthday every six months in the 118 countries included in the study, threatening to reverse nearly a decade of progress on ending preventable under-five mortality. Some 56,700 more maternal deaths could also occur in just six months, in addition to the 144,000 deaths that already take place in the same countries over a six-month period. \u201cUnder a worst-case scenario, the global number of children dying before their fifth birthdays could increase for the first time in decades,\u201d said UNICEF Executive Director Henrietta Fore. \u201cWe must not let mothers and children become collateral damage in the fight against the virus. And we must not let decades of progress on reducing preventable child and maternal deaths be lost.\u201d In countries with already weak health systems, COVID-19 is causing disruptions in medical supply chains and straining financial and human resources. Visits to health care centres are declining due to lockdowns, curfews and transport disruptions, and as communities remain fearful of infection. In a commentary to the Lancet report, UNICEF warns these disruptions could result in potentially",
+  "date": "13 May 2020"
+}

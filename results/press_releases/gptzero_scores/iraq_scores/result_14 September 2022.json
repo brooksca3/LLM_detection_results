@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "71254f59-60ba-43f2-8cb1-e13e10461135",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.27908706665039,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00044781056931242347,
+          "perplexity": 30,
+          "sentence": "Duhok, 14 September 2022 - The World Health Organization (WHO), in collaboration with the Directorate of Health in Duhok Governorate in the Kurdistan Region of Iraq, today inaugurated a new paediatric department in Akre Hospital.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005864581908099353,
+          "perplexity": 24,
+          "sentence": "With the opening of this department, the hospital becomes the only facility in the city to offer specialized services to children and newborns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005283237551338971,
+          "perplexity": 50,
+          "sentence": "The new unit will provide the population of Akre with support to address the increasing need for neonatal and paediatric health care services in Akre and surrounding districts, including Bardarash, which is home to 3500 Syrian refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045383156975731254,
+          "perplexity": 57,
+          "sentence": "\u201cThe establishment of this department will not only provide services to newborns and children among the population of Akre and refugees but will also provide a model for the transition from humanitarian response to the development, through building resilience, of the health system,\" said Dr Ahmed Zouiten, WHO Representative and Head of Mission in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006330346222966909,
+          "perplexity": 50,
+          "sentence": "The new department comprises 28 beds equipped with emergency care supplies and medical equipment, enabling the hospital to provide intensive care treatment to newborns and children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00044288355275057256,
+          "perplexity": 38,
+          "sentence": "To further improve the quality of care in the department, advanced training sessions to enhance the technical capacity of the health staff working in it are being carried out as a collaboration between WHO, the Directorate of Health in Duhok Governorate and the Italian Association for Solidarity Among People (AISPO).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00037612768937833607,
+          "perplexity": 20,
+          "sentence": "The establishment of the department was made possible through partnership with the US Department of State's Bureau of Population, Refugees, and Migration (PRM) and in technical collaboration with AISPO.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002929684123955667,
+          "perplexity": 74,
+          "sentence": "The United Nations in Iraq comprises two field missions (UNAMI and UNITAD), UN Agencies, Funds and Programmes, working at the community, governorate and national levels across the Republic of Iraq.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Duhok, 14 September 2022 - The World Health Organization (WHO), in collaboration with the Directorate of Health in Duhok Governorate in the Kurdistan Region of Iraq, today inaugurated a new paediatric department in Akre Hospital. With the opening of this department, the hospital becomes the only facility in the city to offer specialized services to children and newborns. The new unit will provide the population of Akre with support to address the increasing need for neonatal and paediatric health care services in Akre and surrounding districts, including Bardarash, which is home to 3500 Syrian refugees. \u201cThe establishment of this department will not only provide services to newborns and children among the population of Akre and refugees but will also provide a model for the transition from humanitarian response to the development, through building resilience, of the health system,\" said Dr Ahmed Zouiten, WHO Representative and Head of Mission in Iraq. The new department comprises 28 beds equipped with emergency care supplies and medical equipment, enabling the hospital to provide intensive care treatment to newborns and children. To further improve the quality of care in the department, advanced training sessions to enhance the technical capacity of the health staff working in it are being carried out as a collaboration between WHO, the Directorate of Health in Duhok Governorate and the Italian Association for Solidarity Among People (AISPO). The establishment of the department was made possible through partnership with the US Department of State\u2019s Bureau of Population, Refugees, and Migration (PRM) and in technical collaboration with AISPO. The United Nations in Iraq comprises two field missions (UNAMI and UNITAD), UN Agencies, Funds and Programmes, working at the community, governorate and national levels across the Republic of Iraq.",
+  "date": "14 September 2022"
+}

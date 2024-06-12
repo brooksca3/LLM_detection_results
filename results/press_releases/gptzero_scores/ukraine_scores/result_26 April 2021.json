@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "41757408-775a-44c4-b205-57ad12bc27c0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.93885040283203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.01465858519077301,
+          "perplexity": 144,
+          "sentence": "The study shows that Ukrainians do not only know about the disease from the news: for many COVID-19 has already been experienced in person.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015437055379152298,
+          "perplexity": 15,
+          "sentence": "Thus, 82 per cent of respondents said that they had faced the disease in their neighbourhood, and 22 per cent indicated that they had been ill themselves, while 43 per cent of respondents said that the disease had had serious consequences for themselves or for their inner circles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015223054215312004,
+          "perplexity": 16,
+          "sentence": "(graph 1) More than two-thirds (71 per cent) of the respondents consider the pandemic to be a threat to themselves and their families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014756707474589348,
+          "perplexity": 17,
+          "sentence": "Among those over the age of 60, this figure is even higher at 81 per cent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.015124369412660599,
+          "perplexity": 141,
+          "sentence": "(graph 2) Most Ukrainians consider vaccination to be an effective way to protect themselves from COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012480205856263638,
+          "perplexity": 44,
+          "sentence": "If it was possible to be vaccinated for free from COVID-19, 63 per cent of respondents would like to do so, but 31 per cent would only do so with certain vaccines.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013398749753832817,
+          "perplexity": 105,
+          "sentence": "The older generation is more willing: 71 per cent of those over 60 would agree to be vaccinated against COVID-19 for free.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013094384223222733,
+          "perplexity": 93,
+          "sentence": "(graph 3) Ukrainians believe that the main reasons for being vaccinated against COVID-19 are (graph 4): \u201cThe findings of the study will be useful for the policy makers who are conducting COVID-19 vaccination campaigns,\u201d comments Lotta Sylwander, Head of the UNICEF Representation in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011781184934079647,
+          "perplexity": 102,
+          "sentence": "\u201cFor example, we see an interesting fact: 67 per cent of elderly people would advise their relatives to be vaccinated against COVID-19 free of charge (graph 5).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012192404828965664,
+          "perplexity": 44,
+          "sentence": "This means that people over the age of 60 could become vaccination ambassadors, and persuade relatives, friends, and acquaintances to get vaccinated.\u201d According to the survey, family doctors enjoy a high level of authority: overall, 64 per cent of Ukrainians and 72 per cent of people over the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The study shows that Ukrainians do not only know about the disease from the news: for many COVID-19 has already been experienced in person. Thus, 82 per cent of respondents said that they had faced the disease in their neighbourhood, and 22 per cent indicated that they had been ill themselves, while 43 per cent of respondents said that the disease had had serious consequences for themselves or for their inner circles. (graph 1) More than two-thirds (71 per cent) of the respondents consider the pandemic to be a threat to themselves and their families. Among those over the age of 60, this figure is even higher at 81 per cent. (graph 2) Most Ukrainians consider vaccination to be an effective way to protect themselves from COVID-19. If it was possible to be vaccinated for free from COVID-19, 63 per cent of respondents would like to do so, but 31 per cent would only do so with certain vaccines. The older generation is more willing: 71 per cent of those over 60 would agree to be vaccinated against COVID-19 for free. (graph 3) Ukrainians believe that the main reasons for being vaccinated against COVID-19 are (graph 4): \u201cThe findings of the study will be useful for the policy makers who are conducting COVID-19 vaccination campaigns,\u201d comments Lotta Sylwander, Head of the UNICEF Representation in Ukraine. \u201cFor example, we see an interesting fact: 67 per cent of elderly people would advise their relatives to be vaccinated against COVID-19 free of charge (graph 5). This means that people over the age of 60 could become vaccination ambassadors, and persuade relatives, friends, and acquaintances to get vaccinated.\u201d According to the survey, family doctors enjoy a high level of authority: overall, 64 per cent of Ukrainians and 72 per cent of people over the",
+  "date": "26 April 2021"
+}

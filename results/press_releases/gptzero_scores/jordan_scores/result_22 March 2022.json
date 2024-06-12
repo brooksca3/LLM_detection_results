@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "11b07d2e-c8c7-4997-8552-61e137f961c8",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.035812672176308534,
+        "human": 0.9400826446280992,
+        "mixed": 0.024104683195592287
+      },
+      "completely_generated_prob": 0.035812672176308534,
+      "confidence_category": "medium",
+      "confidence_score": 0.9400826446280992,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.035812672176308534,
+          "human": 0.9400826446280992,
+          "mixed": 0.024104683195592287
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 32.25788879394531,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.017115797847509384,
+          "perplexity": 47,
+          "sentence": "As climate heats up, affecting Jordan's already exhausted water resources, expanding wastewater treatment provides one opportunity to increase water availability for irrigation that consumes about one half of the country's total water supply, the United Nations said on Monday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.043501127511262894,
+          "perplexity": 33,
+          "sentence": "Jordan is the second most water scarce country in the world, with its annual renewable water resources are less than 100m3 per person, significantly below the global threshold of severe water scarcity of 500m3 per person.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03842341527342796,
+          "perplexity": 43,
+          "sentence": "Climate change, among other challenges- population growth-, is projected to stress Jordan's limited water resources, negatively impacting the county's agriculture, with the rural poor and the rural poor women and girls the most likely to bear the brunt of these impacts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03136025369167328,
+          "perplexity": 38,
+          "sentence": "In a policy brief titled \u201cDecentralized Wastewater Treatment Systems (DWATS) as a Climate Change Adaptation Option for Agriculture in Jordan\u201d, the UN said, in its Nationally Determined Contribution (NDC) Jordan has put forward the use of non-conventional water resources as an adaptation option, with the expansion of decentralized wastewater treatment as one of the country's goals in its 2008-2022 Water Strategy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.08330412209033966,
+          "perplexity": 33,
+          "sentence": "Jordan already operates 34 wastewater treatment plants that provide 14% of total water supply, and treated wastewater reused in agriculture accounted for about 25% of the total amount of water used for irrigation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.11344790458679199,
+          "perplexity": 61,
+          "sentence": "However, despite tackling this non-conventional water resource in Jordan's policies, there are several challenges that hinder the full achievement of this goal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.13615334033966064,
+          "perplexity": 58,
+          "sentence": "These challenges include the weak coordination between several government institutions with overlying responsibilities, as well as the lack of institutional and staff capacity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.09332408010959625,
+          "perplexity": 131,
+          "sentence": "Moreover, the price of treated wastewater for irrigation is set administratively and may not reflect true cost of operation, while the DWATS in small Jordanian communities is disadvantaged as an option by scattered populations, small size, inability to afford DWATS tariffs, and the lack of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "As climate heats up, affecting Jordan\u2019s already exhausted water resources, expanding wastewater treatment provides one opportunity to increase water availability for irrigation that consumes about one half of the country\u2019s total water supply, the United Nations said on Monday. Jordan is the second most water scarce country in the world, with its annual renewable water resources are less than 100m3 per person, significantly below the global threshold of severe water scarcity of 500m3 per person. Climate change, among other challenges- population growth-, is projected to stress Jordan\u2019s limited water resources, negatively impacting the county\u2019s agriculture, with the rural poor and the rural poor women and girls the most likely to bear the brunt of these impacts. In a policy brief titled \u201cDecentralized Wastewater Treatment Systems (DWATS) as a Climate Change Adaptation Option for Agriculture in Jordan\u201d, the UN said, in its Nationally Determined Contribution (NDC) Jordan has put forward the use of non-conventional water resources as an adaptation option, with the expansion of decentralized wastewater treatment as one of the country\u2019s goals in its 2008-2022 Water Strategy. Jordan already operates 34 wastewater treatment plants that provide 14% of total water supply, and treated wastewater reused in agriculture accounted for about 25% of the total amount of water used for irrigation. However, despite tackling this non-conventional water resource in Jordan\u2019s policies, there are several challenges that hinder the full achievement of this goal. These challenges include the weak coordination between several government institutions with overlying responsibilities, as well as the lack of institutional and staff capacity. Moreover, the price of treated wastewater for irrigation is set administratively and may not reflect true cost of operation, while the DWATS in small Jordanian communities is disadvantaged as an option by scattered populations, small size, inability to afford DWATS tariffs, and the lack of",
+  "date": "22 March 2022"
+}

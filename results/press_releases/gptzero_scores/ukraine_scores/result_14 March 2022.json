@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c6014a79-b1e1-479d-895f-af9bcd8c572d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047255511555901,
+        "human": 0.9688736085837036,
+        "mixed": 0.0006538363007373658
+      },
+      "completely_generated_prob": 0.03047255511555901,
+      "confidence_category": "high",
+      "confidence_score": 0.9688736085837036,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047255511555901,
+          "human": 0.9688736085837036,
+          "mixed": 0.0006538363007373658
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.320066452026367,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.006149439141154289,
+          "perplexity": 27,
+          "sentence": "The country is being decimated before the eyes of the world.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0049687717109918594,
+          "perplexity": 21,
+          "sentence": "Countless innocent people - including women and children - have been killed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004281480330973864,
+          "perplexity": 72,
+          "sentence": "After being hit by Russian forces, roads, airports and schools lie in ruins.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0044927592389285564,
+          "perplexity": 21,
+          "sentence": "According to the World Health Organization, at least 24 health facilities have suffered attacks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004212941043078899,
+          "perplexity": 11,
+          "sentence": "Hundreds of thousands of people are without water or electricity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034755857195705175,
+          "perplexity": 113,
+          "sentence": "Second \u1173 whatever the outcome, this war will have no winners, only losers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036004248540848494,
+          "perplexity": 64,
+          "sentence": "The United Nations and humanitarian partners are working to ensure safe passage from besieged areas and to provide aid where security permits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003219575621187687,
+          "perplexity": 16,
+          "sentence": "More than 600,000 people have received some form of aid.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003972082864493132,
+          "perplexity": 34,
+          "sentence": "As millions of people in Ukraine face hunger and dwindling supplies of water and medicine, I am announcing today that the United Nations will allocate a further $40 million from the Central Emergency Response Fund to ramp up vital assistance to reach the most vulnerable, as we wait for the nations to come.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004156904760748148,
+          "perplexity": 16,
+          "sentence": "This funding will help get critical supplies of food, water, medicines, and other lifesaving aid into the country, as well as provide cash assistance to the needy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003906662110239267,
+          "perplexity": 62,
+          "sentence": "But the avenues in and out of encircled cities are more precarious by the day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005205974448472261,
+          "perplexity": 53,
+          "sentence": "I underscore the crucial importance of respecting international humanitarian law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0041555073112249374,
+          "perplexity": 25,
+          "sentence": "At least 1.9 million people are displaced inside the country, and growing numbers are escaping across borders.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0050155832432210445,
+          "perplexity": 19,
+          "sentence": "I am deeply grateful for the solidarity of Ukraine's neighbours and other host countries, who have taken in more than 2.8 million refugees in the past two weeks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005239227320998907,
+          "perplexity": 33,
+          "sentence": "The vast majority of those making the treacherous journey are women and children who are increasingly vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0051085567101836205,
+          "perplexity": 75,
+          "sentence": "For predators and human traffickers, war is not a tragedy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0053737228736281395,
+          "perplexity": 28,
+          "sentence": "They need safety and support every step of the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005938776768743992,
+          "perplexity": 74,
+          "sentence": "I will continue to highlight the desperate plight",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The country is being decimated before the eyes of the world. Countless innocent people \u2013 including women and children \u2013 have been killed. After being hit by Russian forces, roads, airports and schools lie in ruins. According to the World Health Organization, at least 24 health facilities have suffered attacks. Hundreds of thousands of people are without water or electricity. Second \u2014 whatever the outcome, this war will have no winners, only losers. The United Nations and humanitarian partners are working to ensure safe passage from besieged areas and to provide aid where security permits. More than 600,000 people have received some form of aid. As millions of people in Ukraine face hunger and dwindling supplies of water and medicine, I am announcing today that the United Nations will allocate a further $40 million from the Central Emergency Response Fund to ramp up vital assistance to reach the most vulnerable, as we wait for the nations to come. This funding will help get critical supplies of food, water, medicines, and other lifesaving aid into the country, as well as provide cash assistance to the needy. But the avenues in and out of encircled cities are more precarious by the day. I underscore the crucial importance of respecting international humanitarian law. At least 1.9 million people are displaced inside the country, and growing numbers are escaping across borders. I am deeply grateful for the solidarity of Ukraine\u2019s neighbours and other host countries, who have taken in more than 2.8 million refugees in the past two weeks. The vast majority of those making the treacherous journey are women and children who are increasingly vulnerable. For predators and human traffickers, war is not a tragedy. They need safety and support every step of the way. I will continue to highlight the desperate plight",
+  "date": "14 March 2022"
+}

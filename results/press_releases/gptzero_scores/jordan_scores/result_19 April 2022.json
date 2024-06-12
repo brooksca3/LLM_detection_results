@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ed00ac04-2c11-41dd-9f38-bb9f5e559a7b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 84.32815551757812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011389614519430324,
+          "perplexity": 51,
+          "sentence": "Amman, Jordan, 19 April 2022, The United Nations Development Programme, in cooperation with the Ministry of Environment and under the patronage of Aqaba Specialised Economic Zone ASEZA, organised the National Consultation Workshop of the Stockholm +50 Conference in Aqaba in presence of the Tourism and Environment Commissioner Nidal Al-Majali, representatives of the Ministry, UNDP Environment and Climate Change Team Leader Dr. Nidal Al-Oran and a number of environment and climate change experts in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010592192847980186,
+          "perplexity": 66,
+          "sentence": "The series of national workshops bring various public and private institutions and civil society organisations together in order to put recommendations for national and sectoral priorities that promote the concepts related to climate change and sustainable solutions based on environmental solutions in the Conference that will take place early June in Stockholm to commorate the 50th anniversary of the UN Conference on Human Environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010572052269708365,
+          "perplexity": 75,
+          "sentence": "In the Conference a number of meetings are organised to build a common global vision aimed at making the planet healthy and prosperous, recovering after COVID-19 pandemic, and finding ways to accelerate the implementation of the Sustainable Development Goals SDGs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011208095384063199,
+          "perplexity": 70,
+          "sentence": "\u201cWe are pleased to host this consultation meeting with UNDP and the Ministry of Environment in Aqaba, south Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010535188630456105,
+          "perplexity": 105,
+          "sentence": "This meeting is a phase in the development of Stockholm+50 report that is an important report at national and international levels and is presented in June in Stockholm with information about deteriorated environmental conditions in the world, which requires taking urgent steps and actions,\u201d said Mr. Al-Majali.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010742298036348075,
+          "perplexity": 270,
+          "sentence": "\u201cThe series of the consultation workshops of the Stockholm +50 Conference come at an important time while facing challenges like COVID-19, climate change and environment deterioration and all of that requires global solutions and national and local partnerships,\u201d said Al-Oran.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010630441101966426,
+          "perplexity": 208,
+          "sentence": "In the workshop a presentation was delivered on the Conference, Jordan's position within the main themes",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman, Jordan, 19 April 2022, The United Nations Development Programme, in cooperation with the Ministry of Environment and under the patronage of Aqaba Specialised Economic Zone ASEZA, organised the National Consultation Workshop of the Stockholm +50 Conference in Aqaba in presence of the Tourism and Environment Commissioner Nidal Al-Majali, representatives of the Ministry, UNDP Environment and Climate Change Team Leader Dr. Nidal Al-Oran and a number of environment and climate change experts in Jordan. The series of national workshops bring various public and private institutions and civil society organisations together in order to put recommendations for national and sectoral priorities that promote the concepts related to climate change and sustainable solutions based on environmental solutions in the Conference that will take place early June in Stockholm to commorate the 50th anniversary of the UN Conference on Human Environment. In the Conference a number of meetings are organised to build a common global vision aimed at making the planet healthy and prosperous, recovering after COVID-19 pandemic, and finding ways to accelerate the implementation of the Sustainable Development Goals SDGs. \u201cWe are pleased to host this consultation meeting with UNDP and the Ministry of Environment in Aqaba, south Jordan. This meeting is a phase in the development of Stockholm+50 report that is an important report at national and international levels and is presented in June in Stockholm with information about deteriorated environmental conditions in the world, which requires taking urgent steps and actions,\u201d said Mr. Al-Majali. \u201cThe series of the consultation workshops of the Stockholm +50 Conference come at an important time while facing challenges like COVID-19, climate change and environment deterioration and all of that requires global solutions and national and local partnerships,\u201d said Al-Oran. In the workshop a presentation was delivered on the Conference, Jordan\u2019s position within the main themes",
+  "date": "19 April 2022"
+}

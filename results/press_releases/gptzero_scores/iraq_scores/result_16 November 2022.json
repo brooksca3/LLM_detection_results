@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c291f114-6fee-47d6-99c0-87840712709a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 103.7080307006836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016352985985577106,
+          "perplexity": 38,
+          "sentence": "Baghdad, 16 November 2022 - The Government of Belgium has contributed an additional EUR 1.5 million (approximately US$ 1.49 million) to the Funding Facility for Stabilization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015741102397441864,
+          "perplexity": 15,
+          "sentence": "The critical funding will support stabilization efforts implemented by the United Nations Development Programme (UNDP) across Iraq's five governorates: Anbar, Diyala, Kirkuk, Ninewa and Salah al-Din.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020214903634041548,
+          "perplexity": 48,
+          "sentence": "This is the Kingdom of Belgium's eighth contribution to the Facility, bringing the country's total contribution to over US$15 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002089228481054306,
+          "perplexity": 27,
+          "sentence": "With this additional funding, UNDP will be able to support the rehabilitation of critical infrastructure in the most vulnerable communities in the Liberated Areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019123306265100837,
+          "perplexity": 141,
+          "sentence": "\u201cWe are grateful to Belgium for this timely contribution to the Facility.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011060149408876896,
+          "perplexity": 93,
+          "sentence": "With the Facility transitioning in 2023, UNDP's focus is now on completing the last mile - namely and where possible, the dignified return of Iraq's remaining 1 million internally displaced people, including the hardest-to-return population groups and most vulnerable returnees,\u201d says UNDP Resident Representative Zena Ali Ahmad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001684896182268858,
+          "perplexity": 77,
+          "sentence": "\u201cThis generous contribution comes at a critical juncture for Iraq, as we look to safeguard the hard-won stabilization gains and prevent secondary displacement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015408670296892524,
+          "perplexity": 104,
+          "sentence": "We believe that continued support is critical to secure Iraq's still-fragile stability,\u201d she adds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010291134240105748,
+          "perplexity": 56,
+          "sentence": "\u201cBelgium is proud to support the Funding Facility for Stabilization, which is entering its last phase after having ensured the safe, durable and dignified return of millions of Iraqis affected by the ISIL conflict.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016290165949612856,
+          "perplexity": 130,
+          "sentence": "The stability of Iraq remains a priority for Belgium.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009143470670096576,
+          "perplexity": 26,
+          "sentence": "I am hopeful that in the coming transition phase, the Government of Iraq will be able to take further responsibility to ensure the sustainability of and build on the impressive results achieved so far by the Facility for the safety and well-being of the Iraqi people in the liberated areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007541818195022643,
+          "perplexity": 398,
+          "sentence": "While the transition's primary efforts shall go to the remaining million internally displaced Iraqis, Belgium",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, 16 November 2022 \u2013 The Government of Belgium has contributed an additional EUR 1.5 million (approximately US$ 1.49 million) to the Funding Facility for Stabilization. The critical funding will support stabilization efforts implemented by the United Nations Development Programme (UNDP) across Iraq\u2019s five governorates: Anbar, Diyala, Kirkuk, Ninewa and Salah al-Din. This is the Kingdom of Belgium\u2019s eighth contribution to the Facility, bringing the country\u2019s total contribution to over US$15 million. With this additional funding, UNDP will be able to support the rehabilitation of critical infrastructure in the most vulnerable communities in the Liberated Areas. \u201cWe are grateful to Belgium for this timely contribution to the Facility. With the Facility transitioning in 2023, UNDP\u2019s focus is now on completing the last mile \u2013 namely and where possible, the dignified return of Iraq\u2019s remaining 1 million internally displaced people, including the hardest-to-return population groups and most vulnerable returnees,\u201d says UNDP Resident Representative Zena Ali Ahmad. \u201cThis generous contribution comes at a critical juncture for Iraq, as we look to safeguard the hard-won stabilization gains and prevent secondary displacement. We believe that continued support is critical to secure Iraq\u2019s still-fragile stability,\u201d she adds. \u201cBelgium is proud to support the Funding Facility for Stabilization, which is entering its last phase after having ensured the safe, durable and dignified return of millions of Iraqis affected by the ISIL conflict. The stability of Iraq remains a priority for Belgium. I am hopeful that in the coming transition phase, the Government of Iraq will be able to take further responsibility to ensure the sustainability of and build on the impressive results achieved so far by the Facility for the safety and well-being of the Iraqi people in the liberated areas. While the transition\u2019s primary efforts shall go to the remaining million internally displaced Iraqis, Belgium",
+  "date": "16 November 2022"
+}

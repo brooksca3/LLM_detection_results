@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a4345160-b124-4193-8821-9873d4bba263",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.96100425720215,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002242213231511414,
+          "perplexity": 43,
+          "sentence": "Belgrade, 18 September 2017 - The Prime Minister of the Republic of Serbia, Ana Brnabi\u0107 and the UN Resident Coordinator in Serbia, Karla Hershey, discussed today the activities within the five-year Development Partnership Framework signed by the Republic of Serbia with the United Nations Country Team.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023657953715883195,
+          "perplexity": 53,
+          "sentence": "The program includes UN agencies, funds and programs and represents a comprehensive framework for cooperation and assistance of the UN system for improving the economic, social and ecological development of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023839370987843722,
+          "perplexity": 42,
+          "sentence": "Karla Hershey pointed out that most of the line ministries are already involved in the program and that reforms should be continued by joining forces in the areas of rule of law, state administration and the development of social and human resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023199632414616644,
+          "perplexity": 39,
+          "sentence": "She emphasized that the Development Partnership Framework is fully aligned with the process of accession negotiations between of the Republic of Serbia and the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022553953749593347,
+          "perplexity": 30,
+          "sentence": "Prime Minister Brnabi\u0107 said that Serbia has a very good fiscal discipline and that the government's priority is investment in large infrastructure projects, and that it is essential to have good coordination of various sources of funding for projects of the United Nations and the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020510346803348511,
+          "perplexity": 26,
+          "sentence": "Brnabi\u0107 pointed out that the five year plan will be successfully implemented in the interest of all citizens of Serbia thanks to the joint work of ministries, offices and agencies of the Government of the Republic of Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020023883553221822,
+          "perplexity": 92,
+          "sentence": "Karla Hershey presented the invitation to Prime Minister Brnabic for participation in the meeting \"Western Balkans at the intersection - New Challenges, Changing Dynamics\", which will be organized by the United Nations in Brussels this December.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 18 September 2017 - The Prime Minister of the Republic of Serbia, Ana Brnabi\u0107 and the UN Resident Coordinator in Serbia, Karla Hershey, discussed today the activities within the five-year Development Partnership Framework signed by the Republic of Serbia with the United Nations Country Team. The program includes UN agencies, funds and programs and represents a comprehensive framework for cooperation and assistance of the UN system for improving the economic, social and ecological development of Serbia. Karla Hershey pointed out that most of the line ministries are already involved in the program and that reforms should be continued by joining forces in the areas of rule of law, state administration and the development of social and human resources. She emphasized that the Development Partnership Framework is fully aligned with the process of accession negotiations between of the Republic of Serbia and the European Union. Prime Minister Brnabi\u0107 said that Serbia has a very good fiscal discipline and that the government's priority is investment in large infrastructure projects, and that it is essential to have good coordination of various sources of funding for projects of the United Nations and the European Union. Brnabi\u0107 pointed out that the five year plan will be successfully implemented in the interest of all citizens of Serbia thanks to the joint work of ministries, offices and agencies of the Government of the Republic of Serbia. Karla Hershey presented the invitation to Prime Minister Brnabic for participation in the meeting \"Western Balkans at the intersection - New Challenges, Changing Dynamics\", which will be organized by the United Nations in Brussels this December.",
+  "date": "18 September 2017"
+}

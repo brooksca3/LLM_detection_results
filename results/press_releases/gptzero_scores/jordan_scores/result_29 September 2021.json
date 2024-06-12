@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c55cb740-6640-4c42-a3be-c4c0804f3f72",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02235780005035932,
+        "human": 0.9776421999496407,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.02235780005035932,
+      "confidence_category": "high",
+      "confidence_score": 0.9776421999496407,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02235780005035932,
+          "human": 0.9776421999496407,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 106.66829681396484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0012952855322510004,
+          "perplexity": 29,
+          "sentence": "The United Nations World Food Programme (WFP) on Wednesday welcomed a timely and generous top-up contribution of \u040417 million (US$20 million) from the Federal Republic of Germany that will help avert planned cuts in food assistance for 110,000 refugees in October.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013826941139996052,
+          "perplexity": 31,
+          "sentence": "The German Ambassador in Jordan Bernhard Kampmann announced the contribution at a joint press conference today, reaffirming his country's commitment to supporting the Government of Jordan and WFP in addressing the food needs of around half a million refugees in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016019310569390655,
+          "perplexity": 58,
+          "sentence": "\u201cWe are glad that the increase of our funding is coming just in time to avoid the impending cuts in food assistance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014229064108803868,
+          "perplexity": 343,
+          "sentence": "In times of growing needs, vulnerable refugee families need continued support,\u201d Ambassador Kampmann said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015754468040540814,
+          "perplexity": 48,
+          "sentence": "\u201cWe are a strong supporter of WFP worldwide and here in Jordan, where the organization plays a key role in providing for Syrian refugees living in camps and urban areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014883788535371423,
+          "perplexity": 23,
+          "sentence": "We are very grateful for the great work WFP is doing in collaboration with the Government of the Hashemite Kingdom of Jordan and the local host communities.\u201d The funds, provided by Germany's Federal Foreign Office, will enable WFP to continue supporting vulnerable refugees from Syria and other countries living in camps and communities across the Kingdom to meet their food and nutritional needs until the end of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011406585108488798,
+          "perplexity": 79,
+          "sentence": "\u201cThis contribution could not have come at a better time as WFP had been faced with the unavoidable and very hard choice of having to implement cuts to its assistance in only a couple days from now,\u201d said Representative and Country Director to WFP in Jordan, Alberto Correia Mendes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013175010681152344,
+          "perplexity": 52,
+          "sentence": "\u201cWFP is grateful for the continuous support of the people and Government of Germany to the refugee response in Jordan, especially at a time when refugees have been pushed deeper into poverty due to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations World Food Programme (WFP) on Wednesday welcomed a timely and generous top-up contribution of \u20ac17 million (US$20 million) from the Federal Republic of Germany that will help avert planned cuts in food assistance for 110,000 refugees in October. The German Ambassador in Jordan Bernhard Kampmann announced the contribution at a joint press conference today, reaffirming his country\u2019s commitment to supporting the Government of Jordan and WFP in addressing the food needs of around half a million refugees in Jordan. \u201cWe are glad that the increase of our funding is coming just in time to avoid the impending cuts in food assistance. In times of growing needs, vulnerable refugee families need continued support,\u201d Ambassador Kampmann said. \u201cWe are a strong supporter of WFP worldwide and here in Jordan, where the organization plays a key role in providing for Syrian refugees living in camps and urban areas. We are very grateful for the great work WFP is doing in collaboration with the Government of the Hashemite Kingdom of Jordan and the local host communities.\u201d The funds, provided by Germany\u2019s Federal Foreign Office, will enable WFP to continue supporting vulnerable refugees from Syria and other countries living in camps and communities across the Kingdom to meet their food and nutritional needs until the end of the year. \u201cThis contribution could not have come at a better time as WFP had been faced with the unavoidable and very hard choice of having to implement cuts to its assistance in only a couple days from now,\u201d said Representative and Country Director to WFP in Jordan, Alberto Correia Mendes. \u201cWFP is grateful for the continuous support of the people and Government of Germany to the refugee response in Jordan, especially at a time when refugees have been pushed deeper into poverty due to",
+  "date": "29 September 2021"
+}

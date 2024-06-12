@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c3d100f3-69eb-48b6-bd42-70a41f765e84",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013180442113681082,
+        "human": 0.9863208384549905,
+        "mixed": 0.0004987194313284734
+      },
+      "completely_generated_prob": 0.013180442113681082,
+      "confidence_category": "high",
+      "confidence_score": 0.9863208384549905,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013180442113681082,
+          "human": 0.9863208384549905,
+          "mixed": 0.0004987194313284734
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 37.458168029785156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0008501273696310818,
+          "perplexity": 53,
+          "sentence": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres' video message to the ministerial conference titled \u201cResponse to the Multiple Challenges to Global Food Security\u201d, in Berlin: I thank Germany for convening this meeting, and Chancellor [Olaf] Scholz as a Champion of the Global Crisis Response Group on food, energy and finance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008686188375577331,
+          "perplexity": 55,
+          "sentence": "We face an unprecedented global hunger crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008267025114037097,
+          "perplexity": 130,
+          "sentence": "The war in Ukraine has compounded problems that have been brewing for years: climate disruption; the COVID-19 pandemic; the deeply unequal recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009246031404472888,
+          "perplexity": 37,
+          "sentence": "This was already apparent when I visited the Sahel region of Africa last month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00102967896964401,
+          "perplexity": 36,
+          "sentence": "Leaders warned me that unless we act now, a dangerous situation could turn into a catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008777650655247271,
+          "perplexity": 32,
+          "sentence": "The Horn of Africa is also suffering its worst drought in decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006970237591303885,
+          "perplexity": 9,
+          "sentence": "According to the World Food Programme (WFP), in the past two years, the number of severely food-insecure people around the world has more than doubled to 276 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000724581943359226,
+          "perplexity": 59,
+          "sentence": "There is a real risk that multiple famines will be declared in 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007026707753539085,
+          "perplexity": 129,
+          "sentence": "And 2023 could be even worse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000612811534665525,
+          "perplexity": 78,
+          "sentence": "The main costs to farmers are fertilizers and energy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005082977586425841,
+          "perplexity": 11,
+          "sentence": "Fertilizer prices have risen by more than half in the past year, and energy prices by more than two thirds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005257120938040316,
+          "perplexity": 32,
+          "sentence": "All harvests will be hit, including rice and corn -- affecting billions of people across Asia, Africa and the Americas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005667787627317011,
+          "perplexity": 104,
+          "sentence": "This year's food access issues could become next year's global food shortage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007924074307084084,
+          "perplexity": 30,
+          "sentence": "No country will be immune to the social and economic repercussions of such a catastrophe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009603358921594918,
+          "perplexity": 18,
+          "sentence": "Humanitarian support is essential, but it is not enough.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009912947425618768,
+          "perplexity": 43,
+          "sentence": "Because this is not just a food crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010758358985185623,
+          "perplexity": 89,
+          "sentence": "It goes beyond food and requires a coordinated multilateral approach, with multidimensional solutions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008494050707668066,
+          "perplexity": 28,
+          "sentence": "First, there can be no effective solution to the global food crisis without reintegrating Ukraine's food production, as well as the food and fertilizer",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following is the text of UN Secretary-General Ant\u00f3nio Guterres\u2019 video message to the ministerial conference titled \u201cResponse to the Multiple Challenges to Global Food Security\u201d, in Berlin: I thank Germany for convening this meeting, and Chancellor [Olaf] Scholz as a Champion of the Global Crisis Response Group on food, energy and finance. We face an unprecedented global hunger crisis. The war in Ukraine has compounded problems that have been brewing for years: climate disruption; the COVID-19 pandemic; the deeply unequal recovery. This was already apparent when I visited the Sahel region of Africa last month. Leaders warned me that unless we act now, a dangerous situation could turn into a catastrophe. The Horn of Africa is also suffering its worst drought in decades. According to the World Food Programme (WFP), in the past two years, the number of severely food\u2011insecure people around the world has more than doubled to 276 million. There is a real risk that multiple famines will be declared in 2022. And 2023 could be even worse. The main costs to farmers are fertilizers and energy. Fertilizer prices have risen by more than half in the past year, and energy prices by more than two thirds. All harvests will be hit, including rice and corn -- affecting billions of people across Asia, Africa and the Americas. This year\u2019s food access issues could become next year\u2019s global food shortage. No country will be immune to the social and economic repercussions of such a catastrophe. Humanitarian support is essential, but it is not enough. Because this is not just a food crisis. It goes beyond food and requires a coordinated multilateral approach, with multidimensional solutions. First, there can be no effective solution to the global food crisis without reintegrating Ukraine\u2019s food production, as well as the food and fertilizer",
+  "date": "25 June 2022"
+}

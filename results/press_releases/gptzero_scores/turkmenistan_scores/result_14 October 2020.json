@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "70c49e22-e700-4d31-9dbc-654d48417cd1",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.013822331381583796,
+        "human": 0.9856792735854523,
+        "mixed": 0.0004983950329639436
+      },
+      "completely_generated_prob": 0.013822331381583796,
+      "confidence_category": "high",
+      "confidence_score": 0.9856792735854523,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.013822331381583796,
+          "human": 0.9856792735854523,
+          "mixed": 0.0004983950329639436
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 54.77730941772461,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0011480033863335848,
+          "perplexity": 20,
+          "sentence": "The United Nations General Assembly has designated October 13th as the International Day for Disaster Risk Reduction to promote a global culture of disaster risk reduction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009679630165919662,
+          "perplexity": 30,
+          "sentence": "It is an opportunity to acknowledge the progress being made toward reducing disaster risk and losses in lives, livelihoods and health in line with the Sendai Framework for Disaster Risk Reduction 2015-2030 adopted at the Third UN World Conference on Disaster Risk Reduction in Japan in March 2015.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001101858913898468,
+          "perplexity": 123,
+          "sentence": "In 2016, the UN Secretary-General launched \u201cThe Sendai Seven Campaign\u201d to promote each of the seven targets over seven years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011122990399599075,
+          "perplexity": 31,
+          "sentence": "The 2020 target is Target E: \u201cSubstantially increase the number of countries with national and local disaster risk reduction strategies by 2020\u201d, which lays the foundation for the implementation of the Sendai Framework and is closely linked with Priority for Action 2: \u201cStrengthening disaster risk governance to manage disaster risk.\u201d In keeping with the Day's focus on the impact that disasters have on people's lives and well-being, this year's theme is about conveying the message that many disasters can be avoided or prevented if there are disaster risk reduction strategies in place to manage and reduce existing levels of risk and to avoid the creation of new risk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007782284519635141,
+          "perplexity": 168,
+          "sentence": "What that amounts to is \u201cgood disaster risk governance.\u201d In dedication of the International Day for Disaster Risk Reduction, UNDRR announced a Creativity Contest in Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006279198569245636,
+          "perplexity": 38,
+          "sentence": "Everyone had an opportunity to show their talent and contribute to the safety of their community by raising awareness on disaster risk reduction by submitting their work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000654603005386889,
+          "perplexity": 89,
+          "sentence": "Participants of the Creativity Contest answered the following question: \u201cHow would you reduce disaster risks in your community?\u201d There were 300 entries across Central Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006114469142630696,
+          "perplexity": 114,
+          "sentence": "Winners of the Creativity Contest in Turkmenistan are: Participants of the Creativity Contest highlighted clear actions that local community",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The United Nations General Assembly has designated October 13th as the International Day for Disaster Risk Reduction to promote a global culture of disaster risk reduction. It is an opportunity to acknowledge the progress being made toward reducing disaster risk and losses in lives, livelihoods and health in line with the Sendai Framework for Disaster Risk Reduction 2015-2030 adopted at the Third UN World Conference on Disaster Risk Reduction in Japan in March 2015. In 2016, the UN Secretary-General launched \u201cThe Sendai Seven Campaign\u201d to promote each of the seven targets over seven years. The 2020 target is Target E: \u201cSubstantially increase the number of countries with national and local disaster risk reduction strategies by 2020\u201d, which lays the foundation for the implementation of the Sendai Framework and is closely linked with Priority for Action 2: \u201cStrengthening disaster risk governance to manage disaster risk.\u201d In keeping with the Day\u2019s focus on the impact that disasters have on people\u2019s lives and well-being, this year\u2019s theme is about conveying the message that many disasters can be avoided or prevented if there are disaster risk reduction strategies in place to manage and reduce existing levels of risk and to avoid the creation of new risk. What that amounts to is \u201cgood disaster risk governance.\u201d In dedication of the International Day for Disaster Risk Reduction, UNDRR announced a Creativity Contest in Central Asia. Everyone had an opportunity to show their talent and contribute to the safety of their community by raising awareness on disaster risk reduction by submitting their work. Participants of the Creativity Contest answered the following question: \u201cHow would you reduce disaster risks in your community?\u201d There were 300 entries across Central Asia. Winners of the Creativity Contest in Turkmenistan are: Participants of the Creativity Contest highlighted clear actions that local community",
+  "date": "14 October 2020"
+}

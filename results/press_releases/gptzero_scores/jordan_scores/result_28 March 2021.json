@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "da30ec85-2b52-4106-b228-93766d49864f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0027005180975096872,
+        "human": 0.9968118645051538,
+        "mixed": 0.0004876173973365067
+      },
+      "completely_generated_prob": 0.0027005180975096872,
+      "confidence_category": "high",
+      "confidence_score": 0.9968118645051538,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0027005180975096872,
+          "human": 0.9968118645051538,
+          "mixed": 0.0004876173973365067
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.939879417419434,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016720588610041887,
+          "perplexity": 65,
+          "sentence": "WHO supports the National Immunization Programme in Jordan by providing routine vaccines, tablets to record vaccine administration information, cold chain equipment, training, as well as vehicles for the Ministry of Health's vaccination teams to help them extend the services to Jordan's most vulnerable populations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001781861501513049,
+          "perplexity": 76,
+          "sentence": "Dr Maria Cristina Profili, WHO Representative to Jordan, said: \u201cWe are supporting the Ministry's efforts to improve the infrastructure for vaccines' delivery and use for the most vulnerable populations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014637781714554876,
+          "perplexity": 56,
+          "sentence": "This support will also enable delivery of COVID-19 vaccines with hope to halt the COVID-19 pandemic.\u201d To support the Jordanian Ministry of Health's transportation and delivery of routine and COVID-19 vaccines through mobile immunization centres, the World Health Organization (WHO) in Jordan through the European Union (EU)'s regional trust fund in response to the Syrian crisis, the Madad Fund, provided 2 refrigerated vehicles and 15 pickups to the national immunization programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013114466855768114,
+          "perplexity": 70,
+          "sentence": "Ministry of Health in collaboration with WHO country office is also conducting the third round of the \"Population-based age stratified Sero-Epidemiological Investigation for COVID-19, which aims to determine the epidemiological exposure and the extent of infection in the Jordan general population after the important upsurge of confirmed cases during the months of November and December 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012813581270165741,
+          "perplexity": 61,
+          "sentence": "This survey is part of the WHO Unity Studies and is supported by the State of Kuwait.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011769947741413489,
+          "perplexity": 98,
+          "sentence": "Ministry of Health and World Health Organization with the support of the State of Kuwait conducted practical training covering all aspects related to COVID-19 vaccination, from distribution up to awareness and communication, targeting around 400 health care workers from various governorates in Jordan Under the \u201cJordan Health Programme for Syrian Refugees and Vulnerable Jordanians\u201d, the EU committed \u040443 million to support the Ministry's efforts to strengthen Jordan's primary health care services, out of which around \u040414 million aims specifically at boosting national COVID-19",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "WHO supports the National Immunization Programme in Jordan by providing routine vaccines, tablets to record vaccine administration information, cold chain equipment, training, as well as vehicles for the Ministry of Health\u2019s vaccination teams to help them extend the services to Jordan's most vulnerable populations. Dr Maria Cristina Profili, WHO Representative to Jordan, said: \u201cWe are supporting the Ministry's efforts to improve the infrastructure for vaccines\u2019 delivery and use for the most vulnerable populations. This support will also enable delivery of COVID-19 vaccines with hope to halt the COVID-19 pandemic.\u201d To support the Jordanian Ministry of Health\u2019s transportation and delivery of routine and COVID-19 vaccines through mobile immunization centres, the World Health Organization (WHO) in Jordan through the European Union (EU)\u2019s regional trust fund in response to the Syrian crisis, the Madad Fund, provided 2 refrigerated vehicles and 15 pickups to the national immunization programme. Ministry of Health in collaboration with WHO country office is also conducting the third round of the \"Population-based age stratified Sero-Epidemiological Investigation for COVID-19, which aims to determine the epidemiological exposure and the extent of infection in the Jordan general population after the important upsurge of confirmed cases during the months of November and December 2020. This survey is part of the WHO Unity Studies and is supported by the State of Kuwait. Ministry of Health and World Health Organization with the support of the State of Kuwait conducted practical training covering all aspects related to COVID-19 vaccination, from distribution up to awareness and communication, targeting around 400 health care workers from various governorates in Jordan Under the \u201cJordan Health Programme for Syrian Refugees and Vulnerable Jordanians\u201d, the EU committed \u20ac43 million to support the Ministry\u2019s efforts to strengthen Jordan\u2019s primary health care services, out of which around \u20ac14 million aims specifically at boosting national COVID-19",
+  "date": "28 March 2021"
+}

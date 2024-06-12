@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "66c5c27a-f18e-44a5-b2b4-3dc9645c5a80",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 23.283981323242188,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00045075747766532004,
+          "perplexity": 13,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the United Nations Security Council on Ukraine, in New York on 24 February: An estimated 17.6 million people -- nearly 40 per cent of the population of Ukraine -- require humanitarian assistance and protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005126906908117235,
+          "perplexity": 54,
+          "sentence": "The crisis has erased 30 per cent of pre-war jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006077239522710443,
+          "perplexity": 26,
+          "sentence": "The World Food Programme estimates that nearly 40 per cent of Ukrainians are unable to afford or access enough food.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006940388702787459,
+          "perplexity": 45,
+          "sentence": "The war has sparked a displacement crisis not seen in Europe in decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005503935972228646,
+          "perplexity": 16,
+          "sentence": "More than 8 million Ukrainian refugees have been recorded across Europe, in addition to an estimated 5.4 million people who have been internally displaced.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006385030574165285,
+          "perplexity": 23,
+          "sentence": "More than half of all Ukrainian children have been forced from their homes - with unaccompanied and separated children facing grave risks of violence, abuse, and exploitation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006629627314396203,
+          "perplexity": 93,
+          "sentence": "Vital infrastructure is under fire - water, energy and heating systems have been destroyed in the depths of a freezing winter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005544867599382997,
+          "perplexity": 59,
+          "sentence": "The World Health Organization has verified over 700 attacks on health care facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005052659544162452,
+          "perplexity": 16,
+          "sentence": "More than 3,000 schools and colleges have been damaged or destroyed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000562970875762403,
+          "perplexity": 29,
+          "sentence": "Millions of students have had their education severely disrupted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005884312558919191,
+          "perplexity": 61,
+          "sentence": "Less measurable -- but no less important -- is the devastating impact of months of displacement and bombardment on the mental health of Ukrainians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005856069037690759,
+          "perplexity": 9,
+          "sentence": "Nearly 10 million people, including 7.8 million children, are at risk of acute post-traumatic stress disorder.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007033836445771158,
+          "perplexity": 34,
+          "sentence": "And make no mistake, the Russian Federation is also suffering the deadly consequences.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005853167967870831,
+          "perplexity": 38,
+          "sentence": "We need peace -- peace in line with the UN Charter and international law.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000615926634054631,
+          "perplexity": 36,
+          "sentence": "As we work for peace, we will continue calling for action on many fronts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006403906154446304,
+          "perplexity": 34,
+          "sentence": "Protection of civilians must remain the top priority.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005286428495310247,
+          "perplexity": 41,
+          "sentence": "Attacks on civilians and civilian infrastructure must stop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005587245686911047,
+          "perplexity": 83,
+          "sentence": "The use of explosive weapons with wide-area effects in populated areas - in",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the United Nations Security Council on Ukraine, in New York on 24 February: An estimated 17.6 million people -- nearly 40 per cent of the population of Ukraine -- require humanitarian assistance and protection. The crisis has erased 30 per cent of pre-war jobs. The World Food Programme estimates that nearly 40 per cent of Ukrainians are unable to afford or access enough food. The war has sparked a displacement crisis not seen in Europe in decades. More than 8 million Ukrainian refugees have been recorded across Europe, in addition to an estimated 5.4 million people who have been internally displaced. More than half of all Ukrainian children have been forced from their homes \u2013 with unaccompanied and separated children facing grave risks of violence, abuse, and exploitation. Vital infrastructure is under fire \u2013 water, energy and heating systems have been destroyed in the depths of a freezing winter. The World Health Organization has verified over 700 attacks on health care facilities. More than 3,000 schools and colleges have been damaged or destroyed. Millions of students have had their education severely disrupted. Less measurable -- but no less important -- is the devastating impact of months of displacement and bombardment on the mental health of Ukrainians. Nearly 10 million people, including 7.8 million children, are at risk of acute post-traumatic stress disorder. And make no mistake, the Russian Federation is also suffering the deadly consequences. We need peace -- peace in line with the UN Charter and international law. As we work for peace, we will continue calling for action on many fronts. Protection of civilians must remain the top priority. Attacks on civilians and civilian infrastructure must stop. The use of explosive weapons with wide-area effects in populated areas \u2013 in",
+  "date": "25 February 2023"
+}

@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f2f59c7e-7a72-422b-a2d9-87f1e804150b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 53.609256744384766,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014919627574272454,
+          "perplexity": 48,
+          "sentence": "Al Chibayish, Iraq, 16 August 2022 - The Food and Agriculture Organization of the United Nations (FAO) in Iraq held a one-day meeting entitled \u201dOur Marshes, Our lives\u201d recently in Al Chibayish in Thi Qar with representatives from the local authorities from Basra, Thi-Qar and Missan Governorates and official representatives of Agriculture, Water Resources, Environment and Health ministries and from farmers union to discuss the water crisis in the Iraqi Marshes and ways forward to assist farmers and buffalo breeds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015813134086783975,
+          "perplexity": 26,
+          "sentence": "Through the European Union (EU)'s support, FAO is working closely with the local authorities to support the most affected people in the southern region of Iraq from water scarcity and the impact of climate change threatening their lives and livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014580346760340035,
+          "perplexity": 51,
+          "sentence": "The discussions focused on the impact of water scarcity on buffalo breeders, fishermen and overall biodiversity in the Iraqi Marshes and came up with short, medium and long term plans to deal with these challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015491971862502396,
+          "perplexity": 32,
+          "sentence": "This meeting was possible thanks to the support from the European Union.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014095914957579225,
+          "perplexity": 184,
+          "sentence": "FAO Iraq Representative Dr. Salah El-Hajj Hassan says, \u201cFAO is following the excruciating situation in southern Iraq notably in the Marshes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013537638005800545,
+          "perplexity": 70,
+          "sentence": "We have already called for action to help buffalo producers overcome climate change and water shortage in July and we continue to collaborate with the local authorities, Ministries of Agriculture and Environment to tackle these challenges with the generous support from the EU.\u201d During the meeting, Dr Chedly Kayouli, FAO Iraq Senior International Livestock Value Chain Expert, presented findings of an assessment conducted under the EU funded project on challenges faced by livestock owners and buffalo breeders in the given context.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001273651869269088,
+          "perplexity": 62,
+          "sentence": "In addition to recommendations and solutions proposed by participants during discussions, the meeting concluded with a call to participants to provide their suggestions and recommendations in written within seven days to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Al Chibayish, Iraq, 16 August 2022 \u2013 The Food and Agriculture Organization of the United Nations (FAO) in Iraq held a one-day meeting entitled \u201dOur Marshes, Our lives\u201d recently in Al Chibayish in Thi Qar with representatives from the local authorities from Basra, Thi-Qar and Missan Governorates and official representatives of Agriculture, Water Resources, Environment and Health ministries and from farmers union to discuss the water crisis in the Iraqi Marshes and ways forward to assist farmers and buffalo breeds. Through the European Union (EU)\u2019s support, FAO is working closely with the local authorities to support the most affected people in the southern region of Iraq from water scarcity and the impact of climate change threatening their lives and livelihoods. The discussions focused on the impact of water scarcity on buffalo breeders, fishermen and overall biodiversity in the Iraqi Marshes and came up with short, medium and long term plans to deal with these challenges. This meeting was possible thanks to the support from the European Union. FAO Iraq Representative Dr. Salah El-Hajj Hassan says, \u201cFAO is following the excruciating situation in southern Iraq notably in the Marshes. We have already called for action to help buffalo producers overcome climate change and water shortage in July and we continue to collaborate with the local authorities, Ministries of Agriculture and Environment to tackle these challenges with the generous support from the EU.\u201d During the meeting, Dr Chedly Kayouli, FAO Iraq Senior International Livestock Value Chain Expert, presented findings of an assessment conducted under the EU funded project on challenges faced by livestock owners and buffalo breeders in the given context. In addition to recommendations and solutions proposed by participants during discussions, the meeting concluded with a call to participants to provide their suggestions and recommendations in written within seven days to",
+  "date": "16 August 2022"
+}

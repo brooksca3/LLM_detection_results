@@ -1,0 +1,147 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ece1192f-b639-4088-994f-ab8c1eef66f3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020776904274294773,
+        "human": 0.9787144084032503,
+        "mixed": 0.0005086873224549118
+      },
+      "completely_generated_prob": 0.020776904274294773,
+      "confidence_category": "high",
+      "confidence_score": 0.9787144084032503,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020776904274294773,
+          "human": 0.9787144084032503,
+          "mixed": 0.0005086873224549118
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 89.04228210449219,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.9423489116273457e-12,
+          "num_sentences": 14,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0018096683779731393,
+          "perplexity": 22,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the Security Council on \u201cThe Values of Human Fraternity in Promoting and Sustaining Peace\u201d, in New York on 14 June: I thank the Government of the United Arab Emirates for convening this important debate on the values of human fraternity in promoting and sustaining peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001798176672309637,
+          "perplexity": 23,
+          "sentence": "It is an immense privilege to be joined today by His Eminence Ahmed Al-Tayeb, the Grand Imam of Al-Azhar Al-Sharif, and His Excellency Archbishop Paul Richard Gallagher, Secretary for Relations with States of the Holy See.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002299373969435692,
+          "perplexity": 177,
+          "sentence": "I also extend a warm welcome to Latifa Ibn Ziaten, briefing on behalf of civil society.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0024254240561276674,
+          "perplexity": 45,
+          "sentence": "Faith leaders are vital allies in our shared quest for global peace.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013721478171646595,
+          "perplexity": 74,
+          "sentence": "My esteemed predecessor Dag Hammarskj\u00f6ld once observed that, and I quote: \u201cThe United Nations stands outside -- necessarily outside -- all confessions, but it is, nevertheless, an instrument of faith.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010409950045868754,
+          "perplexity": 77,
+          "sentence": "As such it is inspired by what unites and not by what divides the great religions of the world.\u201d Every great faith summons the imperatives of human fraternity, mutual respect and understanding.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012252440210431814,
+          "perplexity": 27,
+          "sentence": "These universal values animate the United Nations Charter and are at the core of our work for peace, justice and human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012732042232528329,
+          "perplexity": 19,
+          "sentence": "Preserving peace and preventing war is the raison d'\u00eatre of this Council.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000802961178123951,
+          "perplexity": 29,
+          "sentence": "Threats to peace come in many forms -- from competition for power and resources, to human rights violations and weak governance, to extreme poverty, inequalities and marginalization that breed hopelessness and despair.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00077750941272825,
+          "perplexity": 31,
+          "sentence": "But an all-too-common denominator to the onset and escalation of conflict is hatred of the other.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011357945622876287,
+          "perplexity": 342,
+          "sentence": "Hate fuels humanity's worst impulses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001260418095625937,
+          "perplexity": 64,
+          "sentence": "It is a catalyst for polarization and radicalization and a conduit for atrocity crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016165683045983315,
+          "perplexity": 67,
+          "sentence": "It is also a result of these crimes, contributing to horrific cycles of violence that can churn for decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012601064518094063,
+          "perplexity": 1,
+          "sentence": "It",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the Security Council on \u201cThe Values of Human Fraternity in Promoting and Sustaining Peace\u201d, in New York on 14 June: I thank the Government of the United Arab Emirates for convening this important debate on the values of human fraternity in promoting and sustaining peace. It is an immense privilege to be joined today by His Eminence Ahmed Al-Tayeb, the Grand Imam of Al-Azhar Al-Sharif, and His Excellency Archbishop Paul Richard Gallagher, Secretary for Relations with States of the Holy See. I also extend a warm welcome to Latifa Ibn Ziaten, briefing on behalf of civil society. Faith leaders are vital allies in our shared quest for global peace. My esteemed predecessor Dag Hammarskj\u00f6ld once observed that, and I quote: \u201cThe United Nations stands outside -- necessarily outside -- all confessions, but it is, nevertheless, an instrument of faith. As such it is inspired by what unites and not by what divides the great religions of the world.\u201d Every great faith summons the imperatives of human fraternity, mutual respect and understanding. These universal values animate the United Nations Charter and are at the core of our work for peace, justice and human rights. Preserving peace and preventing war is the raison d\u2019\u00eatre of this Council. Threats to peace come in many forms -- from competition for power and resources, to human rights violations and weak governance, to extreme poverty, inequalities and marginalization that breed hopelessness and despair. But an all-too-common denominator to the onset and escalation of conflict is hatred of the other. Hate fuels humanity\u2019s worst impulses. It is a catalyst for polarization and radicalization and a conduit for atrocity crimes. It is also a result of these crimes, contributing to horrific cycles of violence that can churn for decades. It",
+  "date": "26 June 2023"
+}

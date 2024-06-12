@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c93d1cc2-cd8e-44bd-b7e6-566497b7f713",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.1174430847168,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014770898269489408,
+          "perplexity": 24,
+          "sentence": "Istanbul, 27 July 2022 - The Joint Coordination Centre (JCC) was officially inaugurated today in Istanbul, comprising representatives of Ukraine, the Russian Federation, T\u00fcrkiye and the United Nations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014372766599990427,
+          "perplexity": 60,
+          "sentence": "The JCC will facilitate the implementation of the Black Sea Grain Initiative to establish a humanitarian maritime corridor to allow ships to export grain and related foodstuffs and fertilizers from Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014294698485173285,
+          "perplexity": 35,
+          "sentence": "Welcoming the launch of the JCC, the Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Martin Griffiths, said: \u201cThe swift opening of the Joint Coordination Centre was made possible with the invaluable support from T\u00fcrkiye in providing the parties with a physical platform to help operationalize the Black Sea Grain initiative, and with the commitment by the Russian Federation and Ukraine in nominating and sending quickly their senior representatives to work together, directly and in partnership, in implementing the agreement.\u201d He added: \u201cI am hopeful that their swift collective action will translate quickly and directly into much-needed relief for the most vulnerable food insecure people around the world.\u201d Frederick J. Kenney, Jr. is leading the UN's efforts on the ground in facilitating the parties' efforts to operationalize the agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013408703671302646,
+          "perplexity": 42,
+          "sentence": "Mr. Kenney was present at the ceremony as the UN interim representative to the JCC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034537434112280607,
+          "perplexity": 119,
+          "sentence": "\u201cIt is extremely encouraging to see the parties focusing on implementing the initiative,\u201d he said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002653246629051864,
+          "perplexity": 65,
+          "sentence": "\u201cWork at the centre is non-stop with the aim to see the first shipments heading out of Ukrainian ports quickly, safely and effectively.\u201d The JCC will enable the safe transportation, by merchant ships, of commercial foodstuffs and fertilizer from three key Ukrainian ports in the Black Sea: Odesa, Chornomorsk and Yuzhny.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002683234342839569,
+          "perplexity": 96,
+          "sentence": "The centre will monitor the movement of commercial vessels to ensure compliance with the initiative; focus on exporting bulk commercial grain and related food commodities only; ensure the on-site control and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Istanbul, 27 July 2022 - The Joint Coordination Centre (JCC) was officially inaugurated today in Istanbul, comprising representatives of Ukraine, the Russian Federation, T\u00fcrkiye and the United Nations. The JCC will facilitate the implementation of the Black Sea Grain Initiative to establish a humanitarian maritime corridor to allow ships to export grain and related foodstuffs and fertilizers from Ukraine. Welcoming the launch of the JCC, the Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Martin Griffiths, said: \u201cThe swift opening of the Joint Coordination Centre was made possible with the invaluable support from T\u00fcrkiye in providing the parties with a physical platform to help operationalize the Black Sea Grain initiative, and with the commitment by the Russian Federation and Ukraine in nominating and sending quickly their senior representatives to work together, directly and in partnership, in implementing the agreement.\u201d He added: \u201cI am hopeful that their swift collective action will translate quickly and directly into much-needed relief for the most vulnerable food insecure people around the world.\u201d Frederick J. Kenney, Jr. is leading the UN\u2019s efforts on the ground in facilitating the parties\u2019 efforts to operationalize the agreement. Mr. Kenney was present at the ceremony as the UN interim representative to the JCC. \u201cIt is extremely encouraging to see the parties focusing on implementing the initiative,\u201d he said. \u201cWork at the centre is non-stop with the aim to see the first shipments heading out of Ukrainian ports quickly, safely and effectively.\u201d The JCC will enable the safe transportation, by merchant ships, of commercial foodstuffs and fertilizer from three key Ukrainian ports in the Black Sea: Odesa, Chornomorsk and Yuzhny. The centre will monitor the movement of commercial vessels to ensure compliance with the initiative; focus on exporting bulk commercial grain and related food commodities only; ensure the on-site control and",
+  "date": "27 July 2022"
+}

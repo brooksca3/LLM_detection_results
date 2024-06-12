@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a772adfd-0552-4972-b630-e1215c7bdf76",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009092464091054084,
+        "human": 0.990907535908946,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009092464091054084,
+      "confidence_category": "high",
+      "confidence_score": 0.990907535908946,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009092464091054084,
+          "human": 0.990907535908946,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 31.28498077392578,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021226651733741164,
+          "perplexity": 113,
+          "sentence": "MONUSCO - PRESS RELEASE: MONUSCO Repatriates the Bodies of Eight Peacekeepers Kinshasa, April 2, 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020511168986558914,
+          "perplexity": 13,
+          "sentence": "The United Nations Stabilization Mission in the Democratic Republic of Congo (MONUSCO) today, repatriated the bodies of the eight UN peacekeepers who were tragically killed when their helicopter crashed on March 29 in North Kivu province.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019289032206870615,
+          "perplexity": 22,
+          "sentence": "The UN helicopter was on a reconnaissance mission where there have been clashes between the 23 March Movement (M23) group and the Armed Forces of the Democratic Republic of the Congo (FARDC) in recent days.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019843681366182864,
+          "perplexity": 17,
+          "sentence": "An investigation is under way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019836664432659745,
+          "perplexity": 16,
+          "sentence": "On March 29, the United Nations Secretary-General, Mr. Ant\u00f3nio Guterres extended his sincere condolences to the bereaved families and to the Governments of the Islamic Republic of Pakistan, the Russian Federation, and the Republic of Serbia, whose blue helmets are among the victims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017781242786440998,
+          "perplexity": 22,
+          "sentence": "Today in Goma, shortly before the repatriation of the bodies, a memorial service took place in the presence of the Under-Secretary-General of the Department of Peace Operations, Mr. Jean-Pierre Lacroix, Representatives of the DRC Government, Senior Officials of the UN Mission and the United Nations system, Members of the Diplomatic Corps, as well as MONUSCO, Agencies, Funds and Programmes staff members.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001777139405021444,
+          "perplexity": 31,
+          "sentence": "\"Whenever we come together in sad circumstances such as these, we recognize even more the immense sacrifice made by all of our fallen peacekeepers,\" said Under-Secretary-General Jean-Pierre Lacroix, during the ceremony.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021462950098793954,
+          "perplexity": 49,
+          "sentence": "\u201cThese peacekeepers have paid the ultimate sacrifice to protect innocent people and create conditions for a peaceful and sustainable environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001827582746045664,
+          "perplexity": 41,
+          "sentence": "To the bereaved families, we express our solidarity, our empathy, and our compassion,\u201d further said the Special Representative of the United Nations Secretary-General in DRC, Ms. Bintou Keita.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "MONUSCO - PRESS RELEASE : MONUSCO Repatriates the Bodies of Eight Peacekeepers Kinshasa, April 2, 2022. The United Nations Stabilization Mission in the Democratic Republic of Congo (MONUSCO) today, repatriated the bodies of the eight UN peacekeepers who were tragically killed when their helicopter crashed on March 29 in North Kivu province. The UN helicopter was on a reconnaissance mission where there have been clashes between the 23 March Movement (M23) group and the Armed Forces of the Democratic Republic of the Congo (FARDC) in recent days. An investigation is under way. On March 29, the United Nations Secretary-General, Mr. Ant\u00f3nio Guterres extended his sincere condolences to the bereaved families and to the Governments of the Islamic Republic of Pakistan, the Russian Federation, and the Republic of Serbia, whose blue helmets are among the victims. Today in Goma, shortly before the repatriation of the bodies, a memorial service took place in the presence of the Under-Secretary-General of the Department of Peace Operations, Mr. Jean-Pierre Lacroix, Representatives of the DRC Government, Senior Officials of the UN Mission and the United Nations system, Members of the Diplomatic Corps, as well as MONUSCO, Agencies, Funds and Programmes staff members. \"Whenever we come together in sad circumstances such as these, we recognize even more the immense sacrifice made by all of our fallen peacekeepers,\" said Under-Secretary-General Jean-Pierre Lacroix, during the ceremony. \u201cThese peacekeepers have paid the ultimate sacrifice to protect innocent people and create conditions for a peaceful and sustainable environment. To the bereaved families, we express our solidarity, our empathy, and our compassion,\u201d further said the Special Representative of the United Nations Secretary-General in DRC, Ms. Bintou Keita.",
+  "date": "04 April 2022"
+}

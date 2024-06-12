@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7f11f251-4f08-4b79-a07d-286b4f35a966",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.60973834991455,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00012416779645718634,
+          "perplexity": 25,
+          "sentence": "Baghdad, February 1, 2023 - The Ministry of Labour and Social Affairs announced on Wednesday (February 1), it will begin a far-reaching verification process to assess the eligibility of internally displaced persons (IDPs) and IDP returnees to the Social Safety Net (SSN) programme - a poverty targeted social assistance programme implemented by the Ministry and measured by different criteria including income, assets, number of household members, age, and others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012059419532306492,
+          "perplexity": 44,
+          "sentence": "Starting in February, the Ministry will conduct household visits to IDPs living both inside and outside camps, including in the Kurdistan Region of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001169851457234472,
+          "perplexity": 49,
+          "sentence": "Those identified as eligible will be enrolled in the social assistance system that includes monthly cash payments for covering their basic needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001143919289461337,
+          "perplexity": 41,
+          "sentence": "\u201cThe Ministry of Labour and Social Affairs is collaborating with the Ministry of Migration and Displaced and United Nations agencies working to provide support to internally displaced persons (\u2026) To-date, the Ministry has included 42,000 internally displaced families in the social protection cash assistance, with another 10,000 families who have registered through the digital platform.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011575828830245882,
+          "perplexity": 73,
+          "sentence": "We will begin in the coming weeks to visit these camps to include them in the social safety nets,\u201d said Minister of Labour and Social Affairs Ahmad Al-Asadi.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011684757191687822,
+          "perplexity": 60,
+          "sentence": "Iraq currently hosts 1,173,812 IDPs, as well as 4,978,674 IDP returnees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011633737449301407,
+          "perplexity": 38,
+          "sentence": "Until recently, the majority of this population was unable to access the national social protection system given their displacement situation, relying instead on assistance from humanitarian agencies to meet their basic needs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011199749860679731,
+          "perplexity": 49,
+          "sentence": "The new development will ensure that most vulnerable IDPs and returnees who fit the SSN criteria will be included into the national social assistance system at par with the rest of the Iraqi population.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011026744323316962,
+          "perplexity": 64,
+          "sentence": "It comes following months of collaboration between the Ministry - which implements several of the social assistance programmes in Iraq - and United Nations agencies,",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, February 1, 2023 - The Ministry of Labour and Social Affairs announced on Wednesday (February 1), it will begin a far-reaching verification process to assess the eligibility of internally displaced persons (IDPs) and IDP returnees to the Social Safety Net (SSN) programme - a poverty targeted social assistance programme implemented by the Ministry and measured by different criteria including income, assets, number of household members, age, and others. Starting in February, the Ministry will conduct household visits to IDPs living both inside and outside camps, including in the Kurdistan Region of Iraq. Those identified as eligible will be enrolled in the social assistance system that includes monthly cash payments for covering their basic needs. \u201cThe Ministry of Labour and Social Affairs is collaborating with the Ministry of Migration and Displaced and United Nations agencies working to provide support to internally displaced persons (\u2026) To-date, the Ministry has included 42,000 internally displaced families in the social protection cash assistance, with another 10,000 families who have registered through the digital platform. We will begin in the coming weeks to visit these camps to include them in the social safety nets,\u201d said Minister of Labour and Social Affairs Ahmad Al-Asadi. Iraq currently hosts 1,173,812 IDPs, as well as 4,978,674 IDP returnees. Until recently, the majority of this population was unable to access the national social protection system given their displacement situation, relying instead on assistance from humanitarian agencies to meet their basic needs. The new development will ensure that most vulnerable IDPs and returnees who fit the SSN criteria will be included into the national social assistance system at par with the rest of the Iraqi population. It comes following months of collaboration between the Ministry - which implements several of the social assistance programmes in Iraq - and United Nations agencies,",
+  "date": "01 February 2023"
+}

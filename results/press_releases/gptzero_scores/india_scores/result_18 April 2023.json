@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2eac3abd-3ddd-4113-b49b-d74b79b3e058",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010830116942220172,
+        "human": 0.9891698830577798,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010830116942220172,
+      "confidence_category": "high",
+      "confidence_score": 0.9891698830577798,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010830116942220172,
+          "human": 0.9891698830577798,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 28.283750534057617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00025871681282296777,
+          "perplexity": 9,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks at the opening ceremony of the twenty-second session of the United Nations Permanent Forum on Indigenous Issues, in New York on 17 April: It is my privilege to welcome you to this twenty-second session of the Permanent Forum on Indigenous Issues.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027179106837138534,
+          "perplexity": 38,
+          "sentence": "Indigenous Peoples reflect humanity's magnificent diversity -- representing more than 5,000 different cultures and speaking over 4,000 different languages.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035071882302872837,
+          "perplexity": 90,
+          "sentence": "Customs and traditions vary widely.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003413161903154105,
+          "perplexity": 38,
+          "sentence": "But, the challenges are strikingly similar: marginalization and exclusion; the denial of human rights; illegal exploitation of resource-rich territories; dispossession and eviction from ancestral lands; even physical attacks and violence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003423506859689951,
+          "perplexity": 16,
+          "sentence": "Around the world, millions of Indigenous Peoples are losing their lands, their rights and their resources.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035407769610174,
+          "perplexity": 120,
+          "sentence": "The injustice of generations of discrimination manifests itself in staggering inequalities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002652146213222295,
+          "perplexity": 13,
+          "sentence": "Indigenous Peoples make up around 5 per cent of the world's population -- but 15 per cent of the world's poorest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003264030965510756,
+          "perplexity": 78,
+          "sentence": "Indigenous women, the keepers of so much rich heritage, often suffer the most.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003159564221277833,
+          "perplexity": 28,
+          "sentence": "My message today is clear: The United Nations stands with you.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002791965380311012,
+          "perplexity": 39,
+          "sentence": "I welcome your focus this year on the intersection of human and planetary health, the climate crisis and the rights of Indigenous Peoples.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031871587270870805,
+          "perplexity": 50,
+          "sentence": "I salute indigenous movements across the world -- often led by women and young people -- for spearheading efforts to protect nature and preserve biodiversity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003372757928445935,
+          "perplexity": 49,
+          "sentence": "For thousands of years, Indigenous Peoples have pioneered sustainable land management and climate adaption.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003423799353186041,
+          "perplexity": 32,
+          "sentence": "In the Sahel, ancient farming techniques are breathing life into the semi-arid region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00032458093483000994,
+          "perplexity": 44,
+          "sentence": "Across the Amazon, indigenous agriculture has preserved and enhanced the richness of the rainforest's ecology.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002585343609098345,
+          "perplexity": 50,
+          "sentence": "And in the Himalayas, systems developed by Indigenous Peoples preserve soil, reduce erosion, conserve water and reduce disaster risks.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024546822533011436,
+          "perplexity": 58,
+          "sentence": "But, Indigenous Peoples live on the front lines of the climate emergency.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024369132006540895,
+          "perplexity": 35,
+          "sentence": "Last year, I travelled to",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks at the opening ceremony of the twenty-second session of the United Nations Permanent Forum on Indigenous Issues, in New York on 17 April: It is my privilege to welcome you to this twenty-second session of the Permanent Forum on Indigenous Issues. Indigenous Peoples reflect humanity\u2019s magnificent diversity -- representing more than 5,000 different cultures and speaking over 4,000 different languages. Customs and traditions vary widely. But, the challenges are strikingly similar: marginalization and exclusion; the denial of human rights; illegal exploitation of resource-rich territories; dispossession and eviction from ancestral lands; even physical attacks and violence. Around the world, millions of Indigenous Peoples are losing their lands, their rights and their resources. The injustice of generations of discrimination manifests itself in staggering inequalities. Indigenous Peoples make up around 5 per cent of the world\u2019s population -- but 15 per cent of the world\u2019s poorest. Indigenous women, the keepers of so much rich heritage, often suffer the most. My message today is clear: The United Nations stands with you. I welcome your focus this year on the intersection of human and planetary health, the climate crisis and the rights of Indigenous Peoples. I salute indigenous movements across the world -- often led by women and young people -- for spearheading efforts to protect nature and preserve biodiversity. For thousands of years, Indigenous Peoples have pioneered sustainable land management and climate adaption. In the Sahel, ancient farming techniques are breathing life into the semi-arid region. Across the Amazon, indigenous agriculture has preserved and enhanced the richness of the rainforest\u2019s ecology. And in the Himalayas, systems developed by Indigenous Peoples preserve soil, reduce erosion, conserve water and reduce disaster risks. But, Indigenous Peoples live on the front lines of the climate emergency. Last year, I travelled to",
+  "date": "18 April 2023"
+}

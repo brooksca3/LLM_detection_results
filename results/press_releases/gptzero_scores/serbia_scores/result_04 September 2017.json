@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fdceacb3-e575-4191-8deb-bd90a431413a",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0020977219956406406,
+        "human": 0.9974143658772335,
+        "mixed": 0.000487912127125955
+      },
+      "completely_generated_prob": 0.0020977219956406406,
+      "confidence_category": "high",
+      "confidence_score": 0.9974143658772335,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0020977219956406406,
+          "human": 0.9974143658772335,
+          "mixed": 0.000487912127125955
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 36.922054290771484,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00011592984083108604,
+          "perplexity": 51,
+          "sentence": "Belgrade, 4 September 2017 - The Minister of Labour, Employment, Veteran and Social Affairs Zoran Djordjevic, the Assistant Minister for Pre-School and Primary Education of the Minister of Education, Science and Technological Development Vesna Nedeljkovic, UNICEF Representative in Serbia Michel Saint-Lot and UNHCR Representative in Serbia Hans Friedrich Schodder this morning visited the Jovan Ristic primary school in Borca, which is enrolling refugee and migrant children this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011519825784489512,
+          "perplexity": 96,
+          "sentence": "The backpacks with school supplies were distributed to all the pupils attending the Jovan Ristic primary school, including to refugee and migrant children and children from socially vulnerable families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001133845653384924,
+          "perplexity": 57,
+          "sentence": "The Ministry of Labour, Employment, Veteran and Social Affairs had earlier announced a set of new projects and strategies aiming to support the vulnerable categories of refugees and migrants, children in particular.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011407298734411597,
+          "perplexity": 37,
+          "sentence": "Minister Djordjevic noted that all the children in Serbia must enjoy equal treatment irrespective of religious and ethnic affiliation and social status, and added that unhindered education of each child represents one of the fundamental human rights.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011029478628188372,
+          "perplexity": 65,
+          "sentence": "Djordjevic added that the Ministry is continuously working to strengthen support to children from vulnerable categories such as the children without parental care, children accommodated in centres for minors and refugee and migrant children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011017705401172861,
+          "perplexity": 44,
+          "sentence": "The Assistant Minister for Pre-School and Primary Education of the Minister of Education, Science and Technological Development, Vesna Nedeljkovic, said that after the last years' participation of this Ministry in the project \u201cSupport to Pupils - Refugees/Migrants on the Territory of the Republic of Serbia\u201c, implemented together with UNICEF and other partners whereby 200 refugee pupils attended the Serbian schools, the Minister issued a Professional Instruction for inclusion of pupils - refugees/asylum-seekers into the education system.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010435900912852958,
+          "perplexity": 142,
+          "sentence": "It provides for systemic preparations for entry of all 645 refugee children into the primary education system which the law stipulates to be mandatory",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 4 September 2017 - The Minister of Labour, Employment, Veteran and Social Affairs Zoran Djordjevic, the Assistant Minister for Pre-School and Primary Education of the Minister of Education, Science and Technological Development Vesna Nedeljkovic, UNICEF Representative in Serbia Michel Saint-Lot and UNHCR Representative in Serbia Hans Friedrich Schodder this morning visited the Jovan Ristic primary school in Borca, which is enrolling refugee and migrant children this year. The backpacks with school supplies were distributed to all the pupils attending the Jovan Ristic primary school, including to refugee and migrant children and children from socially vulnerable families. The Ministry of Labour, Employment, Veteran and Social Affairs had earlier announced a set of new projects and strategies aiming to support the vulnerable categories of refugees and migrants, children in particular. Minister Djordjevic noted that all the children in Serbia must enjoy equal treatment irrespective of religious and ethnic affiliation and social status, and added that unhindered education of each child represents one of the fundamental human rights. Djordjevic added that the Ministry is continuously working to strengthen support to children from vulnerable categories such as the children without parental care, children accommodated in centres for minors and refugee and migrant children. The Assistant Minister for Pre-School and Primary Education of the Minister of Education, Science and Technological Development, Vesna Nedeljkovic, said that after the last years\u2019 participation of this Ministry in the project \u201cSupport to Pupils \u2013 Refugees/Migrants on the Territory of the Republic of Serbia\u201c, implemented together with UNICEF and other partners whereby 200 refugee pupils attended the Serbian schools, the Minister issued a Professional Instruction for inclusion of pupils \u2013 refugees/asylum-seekers into the education system. It provides for systemic preparations for entry of all 645 refugee children into the primary education system which the law stipulates to be mandatory",
+  "date": "04 September 2017"
+}

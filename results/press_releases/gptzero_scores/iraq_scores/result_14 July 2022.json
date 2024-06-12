@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "e5812518-3ed1-459e-8cf2-eaedb380185b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009093266768243265,
+        "human": 0.9909067332317567,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.009093266768243265,
+      "confidence_category": "high",
+      "confidence_score": 0.9909067332317567,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009093266768243265,
+          "human": 0.9909067332317567,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.59042739868164,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004879180632997304,
+          "perplexity": 37,
+          "sentence": "14 July 2022, Baghdad -The Food and Agriculture Organization of the United Nations (FAO) in Iraq renews its commitment to support the local communities particularly buffalo producers in the Iraqi Marshes, calling for action to tackle water shortages and climate change.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000385033170459792,
+          "perplexity": 115,
+          "sentence": "During the recent FAO following up mission under the EU-FAO project activities in the marshlands in July 2022, it was witnessed the dire situation of the local rural communities, mainly buffalo producers who are in distress taken the unprecedented low water levels in the areas threatening their livelihoods and communal existence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003652551968116313,
+          "perplexity": 102,
+          "sentence": "FAO Iraq has already launched an emergency support in coordination with Ministry of Agriculture (MOA) targeting 5000 farmers with feeds provision thanks to the support from the European Union (EU).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002943233703263104,
+          "perplexity": 65,
+          "sentence": "Still, the Marshes are one of the poorest regions in Iraq and one of the most affected by the climate change and water shortage causing disastrous impact on livelihoods for more than 6000 rural families since they are losing their buffalos, their unique living asset.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002920973929576576,
+          "perplexity": 158,
+          "sentence": "More and more buffalo breeders are leaving these areas taken the hostile environmental for them and their animals to live in.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00026146211894229054,
+          "perplexity": 91,
+          "sentence": "Some have been migrating to close by areas and governorates such Kut, Samawah, Najaf, Karbala and Shatrah where water is available for them and their animals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023472703469451517,
+          "perplexity": 158,
+          "sentence": "A couple of buffalo producers sold their animals at low prices to buy feeds for the saved animals and others shifted to other livelihoods opportunity since they have been losing their unique livelihoods assets i.e.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002872194454539567,
+          "perplexity": 82,
+          "sentence": "buffalos are increasingly dying since they are stuck in the swampy mud when they try to swim or to reach the grazing reeds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030334683833643794,
+          "perplexity": 54,
+          "sentence": "In addition to the decrease in the buffalos' milk production, the low prices to sell them and their poor health situations due to lack of food in the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "14 July 2022, Baghdad \u2013The Food and Agriculture Organization of the United Nations (FAO) in Iraq renews its commitment to support the local communities particularly buffalo producers in the Iraqi Marshes, calling for action to tackle water shortages and climate change. During the recent FAO following up mission under the EU-FAO project activities in the marshlands in July 2022, it was witnessed the dire situation of the local rural communities, mainly buffalo producers who are in distress taken the unprecedented low water levels in the areas threatening their livelihoods and communal existence. FAO Iraq has already launched an emergency support in coordination with Ministry of Agriculture (MOA) targeting 5000 farmers with feeds provision thanks to the support from the European Union (EU). Still, the Marshes are one of the poorest regions in Iraq and one of the most affected by the climate change and water shortage causing disastrous impact on livelihoods for more than 6000 rural families since they are losing their buffalos, their unique living asset. More and more buffalo breeders are leaving these areas taken the hostile environmental for them and their animals to live in. Some have been migrating to close by areas and governorates such Kut, Samawah, Najaf, Karbala and Shatrah where water is available for them and their animals. A couple of buffalo producers sold their animals at low prices to buy feeds for the saved animals and others shifted to other livelihoods opportunity since they have been losing their unique livelihoods assets i.e. buffalos are increasingly dying since they are stuck in the swampy mud when they try to swim or to reach the grazing reeds. In addition to the decrease in the buffalos\u2019 milk production, the low prices to sell them and their poor health situations due to lack of food in the",
+  "date": "14 July 2022"
+}

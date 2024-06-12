@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "74318070-0a15-4ff6-ac98-fab11b37ab3b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01988989962539026,
+        "human": 0.9795190568456897,
+        "mixed": 0.0005910435289198657
+      },
+      "completely_generated_prob": 0.01988989962539026,
+      "confidence_category": "high",
+      "confidence_score": 0.9795190568456897,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01988989962539026,
+          "human": 0.9795190568456897,
+          "mixed": 0.0005910435289198657
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 51.364070892333984,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001304352656006813,
+          "perplexity": 61,
+          "sentence": "Amman, 22 May 2022 (Petra) \u1173 On Sunday, HRH Princess Basma, Chairperson of the Jordanian National Committee for Women (JNCW) and Goodwill Ambassador for UN Women, visited the Oasis Centre for women of the local community at the Jabal Bani Hamidah region in Madaba.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017230715602636337,
+          "perplexity": 195,
+          "sentence": "The Princess was accompanied by Mr. Ziad Sheikh, UN Women Jordan Representative, H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013049241388216615,
+          "perplexity": 39,
+          "sentence": "Bernard Lynch, Australian Ambassador to the Hashemite Kingdom of Jordan, Ms. Mary Horvers, Team Leader for Governance and Human Development at the Delegation of the European Union to Jordan and Ms. Arwa Al Zboun, Head of the Department of Productivity Improvement at the Ministry of Social Development.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018481436418369412,
+          "perplexity": 57,
+          "sentence": "Her Royal Highness commended the model of the Oasis Centres in translating the real partnership between the public and private sectors on one hand, and between international parties and relevant organizations on the other.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0026318368036299944,
+          "perplexity": 66,
+          "sentence": "She emphasized the importance of the integrated coordination among different institutions within this framework to achieve the desired results, continue success, and achieve sustainability.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023074117489159107,
+          "perplexity": 83,
+          "sentence": "In the presence of Brigade Administrator Mr. Thibann Ahmad Al Zboun, Her Highness also commended the role of the Ministry of Social Development in enhancing the role of women in society and increasing their economic and social contribution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023377013858407736,
+          "perplexity": 54,
+          "sentence": "She similarly expressed her appreciation towards UN Women, the Delegation of the European Union to Jordan and the Australian Embassy in Amman for their support to the Oasis model.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013465784722939134,
+          "perplexity": 34,
+          "sentence": "The development of the centre at the Jabal Bani Hamidah region came as part of the framework of the Oasis Centres for Women and Girls, which is implemented by the Ministry of Social Development in partnership with UN Women with the goal of providing integrated living support and necessary vocational training for local women and Syrian refugee women, in line with the national efforts aimed towards empowering women, building their capacities",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman, 22 May 2022 (Petra) \u2014 On Sunday, HRH Princess Basma, Chairperson of the Jordanian National Committee for Women (JNCW) and Goodwill Ambassador for UN Women, visited the Oasis Centre for women of the local community at the Jabal Bani Hamidah region in Madaba. The Princess was accompanied by Mr. Ziad Sheikh, UN Women Jordan Representative, H.E. Bernard Lynch, Australian Ambassador to the Hashemite Kingdom of Jordan, Ms. Mary Horvers, Team Leader for Governance and Human Development at the Delegation of the European Union to Jordan and Ms. Arwa Al Zboun, Head of the Department of Productivity Improvement at the Ministry of Social Development. Her Royal Highness commended the model of the Oasis Centres in translating the real partnership between the public and private sectors on one hand, and between international parties and relevant organizations on the other. She emphasized the importance of the integrated coordination among different institutions within this framework to achieve the desired results, continue success, and achieve sustainability. In the presence of Brigade Administrator Mr. Thibann Ahmad Al Zboun, Her Highness also commended the role of the Ministry of Social Development in enhancing the role of women in society and increasing their economic and social contribution. She similarly expressed her appreciation towards UN Women, the Delegation of the European Union to Jordan and the Australian Embassy in Amman for their support to the Oasis model. The development of the centre at the Jabal Bani Hamidah region came as part of the framework of the Oasis Centres for Women and Girls, which is implemented by the Ministry of Social Development in partnership with UN Women with the goal of providing integrated living support and necessary vocational training for local women and Syrian refugee women, in line with the national efforts aimed towards empowering women, building their capacities",
+  "date": "22 May 2022"
+}

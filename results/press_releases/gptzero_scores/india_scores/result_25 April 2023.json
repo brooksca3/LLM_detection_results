@@ -1,0 +1,159 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9d89d118-2aee-45b9-ab51-6d61c290d04b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0536164941508209,
+        "human": 0.9457061800545664,
+        "mixed": 0.0006773257946127245
+      },
+      "completely_generated_prob": 0.0536164941508209,
+      "confidence_category": "medium",
+      "confidence_score": 0.9457061800545664,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0536164941508209,
+          "human": 0.9457061800545664,
+          "mixed": 0.0006773257946127245
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.27506637573242,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.4496480286677917e-14,
+          "num_sentences": 16,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.029966505244374275,
+          "perplexity": 30,
+          "sentence": "Following are UN Secretary-General Ant\u00f3nio Guterres' remarks to the Security Council Meeting on \u201cEffective Multilateralism Through the Defence of the Principles of the United Nations Charter and the 1970 Declaration on Principles of International Law\u201d, in New York on 24 April: Allow me to start my remarks with a few words on Sudan, where the situation continues to worsen.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.034038443118333817,
+          "perplexity": 13,
+          "sentence": "Since the start of fighting on 15 April, hundreds of people have been killed and thousands injured.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03330459073185921,
+          "perplexity": 92,
+          "sentence": "The violence must stop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03293948248028755,
+          "perplexity": 37,
+          "sentence": "It risks a catastrophic conflagration within Sudan that could engulf the whole region and beyond.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031699005514383316,
+          "perplexity": 24,
+          "sentence": "I strongly condemn the indiscriminate bombardment of civilian areas, including health-care facilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.028969120234251022,
+          "perplexity": 42,
+          "sentence": "I call on the parties to stop combat operations in densely populated areas and to allow unhindered humanitarian aid operations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.032941583544015884,
+          "perplexity": 21,
+          "sentence": "Civilians must be able to access food, water and other essential supplies, and evacuate from combat zones.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03376321494579315,
+          "perplexity": 11,
+          "sentence": "I am in constant contact with the parties to the conflict and have called on them to de-escalate tensions and to return to the negotiating table.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030031753703951836,
+          "perplexity": 17,
+          "sentence": "We will continue our efforts with our partners to secure a permanent halt to the fighting as soon as possible.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02735307440161705,
+          "perplexity": 20,
+          "sentence": "Working with humanitarian organizations on the ground, we are reconfiguring our presence in Sudan to enable us to continue supporting the Sudanese people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.029420528560876846,
+          "perplexity": 34,
+          "sentence": "Let me be clear: the United Nations is not leaving Sudan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.027979984879493713,
+          "perplexity": 22,
+          "sentence": "Our commitment is to the Sudanese people, in support of their wishes for a peaceful and secure future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.025109944865107536,
+          "perplexity": 29,
+          "sentence": "We stand with them at this terrible time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0188441202044487,
+          "perplexity": 119,
+          "sentence": "I have authorized the temporary relocation both inside and outside Sudan of some United Nations personnel, and of families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.021717971190810204,
+          "perplexity": 36,
+          "sentence": "I call on all Council members to exert maximum leverage with the parties to end the violence, restore order and return to the path of the democratic transition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.024817541241645813,
+          "perplexity": 239,
+          "sentence": "We must all",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Following are UN Secretary-General Ant\u00f3nio Guterres\u2019 remarks to the Security Council Meeting on \u201cEffective Multilateralism Through the Defence of the Principles of the United Nations Charter and the 1970 Declaration on Principles of International Law\u201d, in New York on 24 April: Allow me to start my remarks with a few words on Sudan, where the situation continues to worsen. Since the start of fighting on 15 April, hundreds of people have been killed and thousands injured. The violence must stop. It risks a catastrophic conflagration within Sudan that could engulf the whole region and beyond. I strongly condemn the indiscriminate bombardment of civilian areas, including health-care facilities. I call on the parties to stop combat operations in densely populated areas and to allow unhindered humanitarian aid operations. Civilians must be able to access food, water and other essential supplies, and evacuate from combat zones. I am in constant contact with the parties to the conflict and have called on them to de-escalate tensions and to return to the negotiating table. We will continue our efforts with our partners to secure a permanent halt to the fighting as soon as possible. Working with humanitarian organizations on the ground, we are reconfiguring our presence in Sudan to enable us to continue supporting the Sudanese people. Let me be clear: the United Nations is not leaving Sudan. Our commitment is to the Sudanese people, in support of their wishes for a peaceful and secure future. We stand with them at this terrible time. I have authorized the temporary relocation both inside and outside Sudan of some United Nations personnel, and of families. I call on all Council members to exert maximum leverage with the parties to end the violence, restore order and return to the path of the democratic transition. We must all",
+  "date": "25 April 2023"
+}

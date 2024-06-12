@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2a74a759-24c3-4dbe-a356-15cb9f0f04c3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009088743256292183,
+        "human": 0.9904137994419073,
+        "mixed": 0.0004974573018005276
+      },
+      "completely_generated_prob": 0.009088743256292183,
+      "confidence_category": "high",
+      "confidence_score": 0.9904137994419073,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009088743256292183,
+          "human": 0.9904137994419073,
+          "mixed": 0.0004974573018005276
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 42.98754119873047,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004263888986315578,
+          "perplexity": 34,
+          "sentence": "The Government of Japan and the International Labour Organization (ILO) launched a partnership to promote durable solutions for Somali refugee returnees through sustainable livelihoods.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033760134829208255,
+          "perplexity": 98,
+          "sentence": "The Japan ILO partnership programme has identified two areas of focus in creating dignity in employment: i) Creating immediate decent work opportunities for returnees and improve community infrastructure ii) Creating opportunities and providing the necessary skills for self-employment for increased household income promoting self-reliance.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028306094463914633,
+          "perplexity": 97,
+          "sentence": "The one year technical cooperation project titled 'Durable Solutions for Somali refugee returnees and IDPs in Baidoa through promoting immediate and sustainable livelihoods' is funded by the Government of Japan under the 2015 supplementary budget for an amount of USD 1 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000268519448582083,
+          "perplexity": 157,
+          "sentence": "The project supports the economic reintegration of spontaneous and/or facilitated group returns to Baidoa and create 700 short-term jobs, 44,100 worker days, 360 direct beneficiaries for the skill development component, 110 grants will be issued to support start-ups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003429923381190747,
+          "perplexity": 79,
+          "sentence": "The objective of the project is to create viable employment-based reintegration livelihood opportunities for returnees and host communities in support of TICAD V1 priority on ensuring the livelihoods and employment creation for the people of Somalia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042279675835743546,
+          "perplexity": 21,
+          "sentence": "The main target group for the project is the youth returnees and internally displaced persons (IDPs) who are not employed, do not have any source of income, and are potential target for radicalization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035350312828086317,
+          "perplexity": 56,
+          "sentence": "Host communities will also be included in the target group, comprising 30% of the final beneficiaries to promote peaceful co-existence and social integration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002932483912445605,
+          "perplexity": 60,
+          "sentence": "The project will also engage the local authorities in the selection and prioritization of the proposed intervention ensuring they fit in with the local plans and assist good governance, promote inclusiveness and secure peace dividends by facilitating economic exchanges and collaboration between returnees and the host community, the project will also contribute to improved social cohesion in the target areas.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The Government of Japan and the International Labour Organization (ILO) launched a partnership to promote durable solutions for Somali refugee returnees through sustainable livelihoods. The Japan ILO partnership programme has identified two areas of focus in creating dignity in employment: i) Creating immediate decent work opportunities for returnees and improve community infrastructure ii) Creating opportunities and providing the necessary skills for self-employment for increased household income promoting self-reliance. The one year technical cooperation project titled \u2018Durable Solutions for Somali refugee returnees and IDPs in Baidoa through promoting immediate and sustainable livelihoods\u2019 is funded by the Government of Japan under the 2015 supplementary budget for an amount of USD 1 million. The project supports the economic reintegration of spontaneous and/or facilitated group returns to Baidoa and create 700 short-term jobs, 44,100 worker days, 360 direct beneficiaries for the skill development component, 110 grants will be issued to support start-ups. The objective of the project is to create viable employment-based reintegration livelihood opportunities for returnees and host communities in support of TICAD V1 priority on ensuring the livelihoods and employment creation for the people of Somalia. The main target group for the project is the youth returnees and internally displaced persons (IDPs) who are not employed, do not have any source of income, and are potential target for radicalization. Host communities will also be included in the target group, comprising 30% of the final beneficiaries to promote peaceful co-existence and social integration. The project will also engage the local authorities in the selection and prioritization of the proposed intervention ensuring they fit in with the local plans and assist good governance, promote inclusiveness and secure peace dividends by facilitating economic exchanges and collaboration between returnees and the host community, the project will also contribute to improved social cohesion in the target areas.",
+  "date": "12 March 2015"
+}

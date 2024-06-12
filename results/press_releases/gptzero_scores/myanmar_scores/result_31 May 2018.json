@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f503029a-4e23-4161-b762-b8850e00a949",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023891670834309302,
+        "human": 0.9755765590676299,
+        "mixed": 0.0005317700980609385
+      },
+      "completely_generated_prob": 0.023891670834309302,
+      "confidence_category": "high",
+      "confidence_score": 0.9755765590676299,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023891670834309302,
+          "human": 0.9755765590676299,
+          "mixed": 0.0005317700980609385
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 10.037429809570312,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0020949984900653362,
+          "perplexity": 29,
+          "sentence": "GENEVA/NEW YORK - UNHCR, the UN Refugee Agency, and UNDP, the UN Development Programme, agreed today in Nay Pyi Taw with the Government of the Republic of the Union of Myanmar on the text for the tripartite Memorandum of Understanding (MoU).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025802473537623882,
+          "perplexity": 16,
+          "sentence": "It is planned that the MoU will be signed in the course of the next week, the exact date of which is still to be confirmed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030020414851605892,
+          "perplexity": 31,
+          "sentence": "This tripartite Memorandum will establish a framework for cooperation aimed at creating the conditions conducive to the voluntary, safe, dignified and sustainable repatriation of Rohingya refugees to their places of origin or of their choosing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002415659138932824,
+          "perplexity": 39,
+          "sentence": "Since the conditions are not conducive for voluntary return yet, the MoU is the first and necessary step to support the Government's efforts to change that situation and is also intended to support recovery and resilience-based development for the benefit of all communities living in Rakhine State.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030899858102202415,
+          "perplexity": 43,
+          "sentence": "The agreement will provide a framework for UNHCR and UNDP to be given access to Rakhine State, including to refugees' places of origin and areas of potential return that has not been permitted since violence broke out in August 2017.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0036155306734144688,
+          "perplexity": 48,
+          "sentence": "The access, once effective, will allow UNHCR to assess the conditions on the ground and carry out protection activities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0034772856160998344,
+          "perplexity": 23,
+          "sentence": "This will also enable UNHCR to eventually provide independent information to refugees about the conditions in their places of origin, helping them to make informed decisions if the conditions are right for them to return in safety and dignity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002816809806972742,
+          "perplexity": 32,
+          "sentence": "The MoU will also allow the two UN agencies to carry out needs assessments in affected communities and strengthen the capacity of local authorities to support the voluntary repatriation process.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0031846824567764997,
+          "perplexity": 39,
+          "sentence": "The MoU, once signed, will affirm the Myanmar Government's commitment to work with UNHCR and UNDP to find a solution for the Rohingya",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "GENEVA/NEW YORK \u2013 UNHCR, the UN Refugee Agency, and UNDP, the UN Development Programme, agreed today in Nay Pyi Taw with the Government of the Republic of the Union of Myanmar on the text for the tripartite Memorandum of Understanding (MoU). It is planned that the MoU will be signed in the course of the next week, the exact date of which is still to be confirmed. This tripartite Memorandum will establish a framework for cooperation aimed at creating the conditions conducive to the voluntary, safe, dignified and sustainable repatriation of Rohingya refugees to their places of origin or of their choosing. Since the conditions are not conducive for voluntary return yet, the MoU is the first and necessary step to support the Government\u2019s efforts to change that situation and is also intended to support recovery and resilience-based development for the benefit of all communities living in Rakhine State. The agreement will provide a framework for UNHCR and UNDP to be given access to Rakhine State, including to refugees\u2019 places of origin and areas of potential return that has not been permitted since violence broke out in August 2017. The access, once effective, will allow UNHCR to assess the conditions on the ground and carry out protection activities. This will also enable UNHCR to eventually provide independent information to refugees about the conditions in their places of origin, helping them to make informed decisions if the conditions are right for them to return in safety and dignity. The MoU will also allow the two UN agencies to carry out needs assessments in affected communities and strengthen the capacity of local authorities to support the voluntary repatriation process. The MoU, once signed, will affirm the Myanmar Government\u2019s commitment to work with UNHCR and UNDP to find a solution for the Rohingya",
+  "date": "31 May 2018"
+}

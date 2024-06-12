@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "bcd00511-c215-458b-9727-d6316f652e32",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01382122272343056,
+        "human": 0.9856002144648908,
+        "mixed": 0.0005785628116784885
+      },
+      "completely_generated_prob": 0.01382122272343056,
+      "confidence_category": "high",
+      "confidence_score": 0.9856002144648908,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01382122272343056,
+          "human": 0.9856002144648908,
+          "mixed": 0.0005785628116784885
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 58.83838653564453,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001015193178318441,
+          "perplexity": 90,
+          "sentence": "Nay Pyi Taw - The Special Envoy of the Secretary-General for Myanmar travelled to the country from 9 to 18 July.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008744334918446839,
+          "perplexity": 54,
+          "sentence": "In Yangon, she met with representatives of civil society, think-tanks, eminent personalities and INGOs, the UN country team and the diplomatic corps.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000833644880913198,
+          "perplexity": 38,
+          "sentence": "She also met with religious leaders, members of the Union Enterprise for Humanitarian Assistance and Development (UEHRD) and members of the former Rakhine Advisory Commission.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009140404290519655,
+          "perplexity": 63,
+          "sentence": "In Rakhine she travelled to Myebon and to Sittwe and visited IDP camps from both Rakhine and Muslim communities, as well as resettled Rakhine persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009494269033893943,
+          "perplexity": 21,
+          "sentence": "She met with the representatives of civil society, political parties and members of parliament and the Rakhine State government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009985917713493109,
+          "perplexity": 76,
+          "sentence": "She also had discussions with the INGOs and with representatives of the resident UN agencies in Sittwe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008861923706717789,
+          "perplexity": 38,
+          "sentence": "In Nay Pyi Taw, she met with various government officials, including the State Counsellor Daw Aung San Suu Kyi; the Union Minister for Social Welfare, Relief and Resettlement Dr.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014168053166940808,
+          "perplexity": 81,
+          "sentence": "Win Myat Aye; the Union Minister of Labour, Immigration and Population U Thein Swe; the Union Minister of Education Dr. Myo Thein Gyi; the Union Minister of the State Counsellor's Office U Kyaw Tint Swe; the Union Minister of International Cooperation U Kyaw Tin, and the Vice-Senior General Soe Win of the Tatmadaw.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015697245253250003,
+          "perplexity": 39,
+          "sentence": "She also met with members of parliament, in particular, U Aye Tha Aung, the Deputy Speaker of the Amyotha Hluttaw (Upper House) in his capacity as Chair of the Committee for Supporting Peace and Stability in Rakhine State (CSPSRS) together with some members of the Committee, and the Public Complaints Committees of the Amyotha Hluttaw and of the Pyithu Hluttaw (Lower House).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015699384966865182,
+          "perplexity": 228,
+          "sentence": "While welcoming the fact that the IDP Camp Closure Strategy had been finalised and was pending distribution, she regretted that for instance in Myebon, where over",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Nay Pyi Taw - The Special Envoy of the Secretary-General for Myanmar travelled to the country from 9 to 18 July. In Yangon, she met with representatives of civil society, think-tanks, eminent personalities and INGOs, the UN country team and the diplomatic corps. She also met with religious leaders, members of the Union Enterprise for Humanitarian Assistance and Development (UEHRD) and members of the former Rakhine Advisory Commission. In Rakhine she travelled to Myebon and to Sittwe and visited IDP camps from both Rakhine and Muslim communities, as well as resettled Rakhine persons. She met with the representatives of civil society, political parties and members of parliament and the Rakhine State government. She also had discussions with the INGOs and with representatives of the resident UN agencies in Sittwe. In Nay Pyi Taw, she met with various government officials, including the State Counsellor Daw Aung San Suu Kyi; the Union Minister for Social Welfare, Relief and Resettlement Dr. Win Myat Aye; the Union Minister of Labour, Immigration and Population U Thein Swe; the Union Minister of Education Dr. Myo Thein Gyi; the Union Minister of the State Counsellor\u2019s Office U Kyaw Tint Swe; the Union Minister of International Cooperation U Kyaw Tin, and the Vice-Senior General Soe Win of the Tatmadaw . She also met with members of parliament, in particular, U Aye Tha Aung, the Deputy Speaker of the Amyotha Hluttaw (Upper House) in his capacity as Chair of the Committee for Supporting Peace and Stability in Rakhine State (CSPSRS) together with some members of the Committee, and the Public Complaints Committees of the Amyotha Hluttaw and of the Pyithu Hluttaw (Lower House). While welcoming the fact that the IDP Camp Closure Strategy had been finalised and was pending distribution, she regretted that for instance in Myebon, where over",
+  "date": "18 July 2019"
+}

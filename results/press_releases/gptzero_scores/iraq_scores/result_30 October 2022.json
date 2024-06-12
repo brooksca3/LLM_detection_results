@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ba9822da-6720-4742-b3ba-4f3a541a0956",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.020787478601124967,
+        "human": 0.9792125213988749,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.020787478601124967,
+      "confidence_category": "high",
+      "confidence_score": 0.9792125213988749,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.020787478601124967,
+          "human": 0.9792125213988749,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.310455322265625,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001444088644348085,
+          "perplexity": 113,
+          "sentence": "Baghdad, Iraq, 30 October 2022 - The United Nations Development Programme Iraq (UNDP) celebrated with local and national authorities and community leaders in Habbaniyah, Anbar the successful reintegration of Internally Displaced Iraqi families in the district.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016211955808103085,
+          "perplexity": 76,
+          "sentence": "UNDP's approach to stability in Iraq includes support to stabilization in liberated areas through rehabilitation of infrastructure and services, livelihoods creation, strengthening local government capacities, and social cohesion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014808028936386108,
+          "perplexity": 35,
+          "sentence": "UNDP supports community readiness for the reintegration for thousands of Internally Displaced Iraqi families, including persons perceived as affiliated with the Islamic State of Iraq and the Levant (ISIL), who are often women and children, to ensure durable solutions for displacement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014289341634139419,
+          "perplexity": 146,
+          "sentence": "Between the first local peace agreement reached, which enabled 500 families perceived as affiliated with ISIL to return, and the celebration on 29 October 2022, all internally displaced familied have returned to Habbaniyah, Anbar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016784005565568805,
+          "perplexity": 89,
+          "sentence": "UNDP Iraq Resident Representative Zena Ali-Ahmad states, \u201cOur approach to the return and reintegration of IDPs is innovative and multi-faceted.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013995104236528277,
+          "perplexity": 150,
+          "sentence": "Following stabilization activities, our programming related to community reintegration includes shelter rehabilitation and psychosocial and livelihood support, with emphasis on community ownership.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014154285890981555,
+          "perplexity": 53,
+          "sentence": "Following success in Habbaniyah, UNDP Iraq is expanding this programme to additional areas throughout the liberated governorates.\u201d During his speech, the Governor of Anbar, Mr. Ali Farhan, highlighted how achievements related to rehabilitation of infrastructure after liberation from ISIL in partnership with UNDP have created the enabling environment for the return of IDPs, in addition to the efforts of the local peace committees in Anbar to support social cohesion in communities and enhance reintegration, including for families perceived as affiliated with ISIL.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001617821049876511,
+          "perplexity": 111,
+          "sentence": "Saaed Al Jayashi, Strategic Advisor, Office of the National Security Advisory, emphasizes, \u201cWe are grateful for the efforts of UNDP in coordination with Anbar Governorate and the National Security Advisory, which has helped us to return displaced",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq, 30 October 2022 \u2013 The United Nations Development Programme Iraq (UNDP) celebrated with local and national authorities and community leaders in Habbaniyah, Anbar the successful reintegration of Internally Displaced Iraqi families in the district. UNDP\u2019s approach to stability in Iraq includes support to stabilization in liberated areas through rehabilitation of infrastructure and services, livelihoods creation, strengthening local government capacities, and social cohesion. UNDP supports community readiness for the reintegration for thousands of Internally Displaced Iraqi families, including persons perceived as affiliated with the Islamic State of Iraq and the Levant (ISIL), who are often women and children, to ensure durable solutions for displacement. Between the first local peace agreement reached, which enabled 500 families perceived as affiliated with ISIL to return, and the celebration on 29 October 2022, all internally displaced familied have returned to Habbaniyah, Anbar. UNDP Iraq Resident Representative Zena Ali-Ahmad states, \u201cOur approach to the return and reintegration of IDPs is innovative and multi-faceted. Following stabilization activities, our programming related to community reintegration includes shelter rehabilitation and psychosocial and livelihood support, with emphasis on community ownership. Following success in Habbaniyah, UNDP Iraq is expanding this programme to additional areas throughout the liberated governorates.\u201d During his speech, the Governor of Anbar, Mr. Ali Farhan, highlighted how achievements related to rehabilitation of infrastructure after liberation from ISIL in partnership with UNDP have created the enabling environment for the return of IDPs, in addition to the efforts of the local peace committees in Anbar to support social cohesion in communities and enhance reintegration, including for families perceived as affiliated with ISIL. Saaed Al Jayashi, Strategic Advisor, Office of the National Security Advisory, emphasizes, \u201cWe are grateful for the efforts of UNDP in coordination with Anbar Governorate and the National Security Advisory, which has helped us to return displaced",
+  "date": "30 October 2022"
+}

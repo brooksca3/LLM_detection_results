@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f3591e02-9f29-4e0e-a3a6-88ea91639e87",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03046253450449943,
+        "human": 0.9685550036764128,
+        "mixed": 0.0009824618190877544
+      },
+      "completely_generated_prob": 0.03046253450449943,
+      "confidence_category": "high",
+      "confidence_score": 0.9685550036764128,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03046253450449943,
+          "human": 0.9685550036764128,
+          "mixed": 0.0009824618190877544
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 21.27204704284668,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0049936529248952866,
+          "perplexity": 37,
+          "sentence": "This is a summary of what was said by UNHCR spokesperson William Spindler - to whom quoted text may be attributed - at the press briefing, on 10 June 2016, at the Palais des Nations in Geneva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.007246795110404491,
+          "perplexity": 62,
+          "sentence": "Geneva, 10-June-2016 Today we are launching an update of the regional Refugee and Migrant Response Plan (RMRP) involving 60 partner organizations and covering the eastern Mediterranean and Western Balkans route.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013613957911729813,
+          "perplexity": 29,
+          "sentence": "The RMRP has been revised to take into account the new circumstances on the ground following border closures along the Western Balkans route, and the entry into force of the EU-Turkey agreement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.014559566974639893,
+          "perplexity": 11,
+          "sentence": "These developments have had a significant impact on the numbers of refugees and migrants arriving, with a decrease in the number of people along the Western Balkans route and an increase in the number of people remaining in Greece.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013064204715192318,
+          "perplexity": 28,
+          "sentence": "While the measures adopted have significantly reduced the number of arrivals in Greece, over 57,000 refugees and migrants are currently dispersed across the country in several sites on the mainland and the islands.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.010600943118333817,
+          "perplexity": 81,
+          "sentence": "In this context, UNHCR and humanitarian partners have redefined their engagement from a response primarily targeting people on the move, to focusing on a static population in Greece and on protection activities in countries in the Western Balkans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01292089931666851,
+          "perplexity": 29,
+          "sentence": "The financial requirements to implement the plan have been adjusted to reflect the change in circumstances.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009681922383606434,
+          "perplexity": 47,
+          "sentence": "They currently stand at almost 670 million US dollars for 2016, of which contributions of 328.8 million US dollars have been received.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011478202417492867,
+          "perplexity": 44,
+          "sentence": "Unmet needs remain significant, as living conditions in the sites in Greece, both on the islands and the mainland, have deteriorated as a result of congestion and the rapid nature in which sites were established on the mainland.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.009862695820629597,
+          "perplexity": 67,
+          "sentence": "The affected population includes many people with specific needs, such as unaccompanied or separated",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "This is a summary of what was said by UNHCR spokesperson William Spindler \u2013 to whom quoted text may be attributed \u2013 at the press briefing, on 10 June 2016, at the Palais des Nations in Geneva. Geneva, 10-June-2016 Today we are launching an update of the regional Refugee and Migrant Response Plan (RMRP) involving 60 partner organizations and covering the eastern Mediterranean and Western Balkans route. The RMRP has been revised to take into account the new circumstances on the ground following border closures along the Western Balkans route, and the entry into force of the EU-Turkey agreement. These developments have had a significant impact on the numbers of refugees and migrants arriving, with a decrease in the number of people along the Western Balkans route and an increase in the number of people remaining in Greece. While the measures adopted have significantly reduced the number of arrivals in Greece, over 57,000 refugees and migrants are currently dispersed across the country in several sites on the mainland and the islands. In this context, UNHCR and humanitarian partners have redefined their engagement from a response primarily targeting people on the move, to focusing on a static population in Greece and on protection activities in countries in the Western Balkans . The financial requirements to implement the plan have been adjusted to reflect the change in circumstances. They currently stand at almost 670 million US dollars for 2016, of which contributions of 328.8 million US dollars have been received. Unmet needs remain significant, as living conditions in the sites in Greece, both on the islands and the mainland, have deteriorated as a result of congestion and the rapid nature in which sites were established on the mainland. The affected population includes many people with specific needs, such as unaccompanied or separated",
+  "date": "10 June 2016"
+}

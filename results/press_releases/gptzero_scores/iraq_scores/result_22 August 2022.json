@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "1dbf5755-e28d-440a-a7d3-e4688b4e3f8d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.021143711189884885,
+        "human": 0.9778932212196855,
+        "mixed": 0.0009630675904295393
+      },
+      "completely_generated_prob": 0.021143711189884885,
+      "confidence_category": "high",
+      "confidence_score": 0.9778932212196855,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.021143711189884885,
+          "human": 0.9778932212196855,
+          "mixed": 0.0009630675904295393
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 83.2500228881836,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001287812483496964,
+          "perplexity": 59,
+          "sentence": "Sulaymaniyah, Iraq - 20 August 2022 - Within the framework of the Returning Foreign Terrorist Fighter Detention Program, (FTF), funded by the U.S. Government and under UNODC Regional Office for the Middle East and North Africa, UNODC-Iraq and Vienna-HQ, launched the two training workshops on the 'Risks and Needs Assessment (RNA) Protocols in Prisons and the Related Sentence Planning' and 'Developing policies and protocols for the implementation and operation of a specified RNA for terrorist and FTF prisoners to mitigate the threats posed by terrorist and FTF prisoners within the broader prison context' for the managers and staff of prisons and reform centres under the jurisdiction of the Iraq Federal Government.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013338678982108831,
+          "perplexity": 103,
+          "sentence": "The workshops, conducted through UNODC coordination with the Ministry of Justice underlined the need for well selected, trained, motivated staff, and reiterated the importance interventions for prisoners.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012181748170405626,
+          "perplexity": 53,
+          "sentence": "The workshops took place from 14-20 August 2022 with 61 participants including prison managers, social workers, and prison officers along with a participant from MoFA, and with the support and participation of high-profile international experts from Bulgaria, Germany, Tajikistan and Canada.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002952494891360402,
+          "perplexity": 84,
+          "sentence": "The training achieved two major objectives; gaining in-depth knowledge and understanding of the challenges, needs and priorities of the penitentiary systems in Iraq, and supporting Prison administrations to increase their capacity to classify terrorist and FTF prisoners effectively by applying individualized RNA and to follow-up on classification findings in terms of allocation, categorization and rehabilitation/disengagement programs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.006068667862564325,
+          "perplexity": 55,
+          "sentence": "In her session, Mrs. Nadya Radkovska, Head of the Department of International cooperation and training of staff, General Directorate 'Execution of Sentences', Bulgaria, highlighted that rehabilitation and reintegration of FTFs and Violent and Extremist Offenders (VEOs) needs to be understood as the responsibility of a diverse group of professions working in cooperation, rather than only prison staff.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0074060349725186825,
+          "perplexity": 269,
+          "sentence": "The reformation of VEOs does not end behind",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Sulaymaniyah, Iraq \u2013 20 August 2022 - Within the framework of the Returning Foreign Terrorist Fighter Detention Program, (FTF), funded by the U.S. Government and under UNODC Regional Office for the Middle East and North Africa, UNODC-Iraq and Vienna-HQ, launched the two training workshops on the \u2019Risks and Needs Assessment (RNA) Protocols in Prisons and the Related Sentence Planning\u2019 and \u2018Developing policies and protocols for the implementation and operation of a specified RNA for terrorist and FTF prisoners to mitigate the threats posed by terrorist and FTF prisoners within the broader prison context\u2019 for the managers and staff of prisons and reform centres under the jurisdiction of the Iraq Federal Government. The workshops, conducted through UNODC coordination with the Ministry of Justice underlined the need for well selected, trained, motivated staff, and reiterated the importance interventions for prisoners. The workshops took place from 14-20 August 2022 with 61 participants including prison managers, social workers, and prison officers along with a participant from MoFA, and with the support and participation of high-profile international experts from Bulgaria, Germany, Tajikistan and Canada. The training achieved two major objectives; gaining in-depth knowledge and understanding of the challenges, needs and priorities of the penitentiary systems in Iraq, and supporting Prison administrations to increase their capacity to classify terrorist and FTF prisoners effectively by applying individualized RNA and to follow-up on classification findings in terms of allocation, categorization and rehabilitation/disengagement programs. In her session, Mrs. Nadya Radkovska, Head of the Department of International cooperation and training of staff, General Directorate \u2018Execution of Sentences\u2019, Bulgaria, highlighted that rehabilitation and reintegration of FTFs and Violent and Extremist Offenders (VEOs) needs to be understood as the responsibility of a diverse group of professions working in cooperation, rather than only prison staff. The reformation of VEOs does not end behind",
+  "date": "22 August 2022"
+}

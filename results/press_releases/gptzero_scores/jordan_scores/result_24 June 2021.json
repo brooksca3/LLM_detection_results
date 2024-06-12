@@ -1,0 +1,153 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ea695111-ba26-4908-8838-53ae47a8ec3c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.0013686815369632534,
+        "human": 0.9981461872250941,
+        "mixed": 0.00048513123794269856
+      },
+      "completely_generated_prob": 0.0013686815369632534,
+      "confidence_category": "high",
+      "confidence_score": 0.9981461872250941,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.0013686815369632534,
+          "human": 0.9981461872250941,
+          "mixed": 0.00048513123794269856
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 90.24464416503906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.5938383721896654e-13,
+          "num_sentences": 15,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 9.463094465900213e-05,
+          "perplexity": 278,
+          "sentence": "Jordan is host to around 3 million refugees.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.246413537766784e-05,
+          "perplexity": 85,
+          "sentence": "The majority (2.3 million) are Palestine refugees registered with UNRWA - alongside some 156,107 other registered persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00010034139268100262,
+          "perplexity": 315,
+          "sentence": "This includes 634,922 refugee youth.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.824854012345895e-05,
+          "perplexity": 13,
+          "sentence": "In addition, there are over 775,000 persons of concern registered with the UN Refugee Agency (UNHCR) as refugees and asylum seekers in the country, including 667,000 Syrian refugees - nearly half of whom are children under 18 years old.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.167434473056346e-05,
+          "perplexity": 105,
+          "sentence": "Dong Yeon Park (Korea) is a UN Volunteer serving with the Education Section at UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.201950888382271e-05,
+          "perplexity": 178,
+          "sentence": "Dong Yeon provides report writing and publication assistance for monthly donor reports and flagship documents, such as the Jordan Country Report on Out-of-School Children.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.46626314544119e-05,
+          "perplexity": 252,
+          "sentence": "Such publications map specific communities, illustrate vulnerabilities and underscore the status of children and youth separated from school.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.650739619042724e-05,
+          "perplexity": 78,
+          "sentence": "Indeed, 1.6 billion children and youth were out of school worldwide in 2020 and although many nations moved schooling online, remote learning was inaccessible for at least 500 million students.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.342988050775602e-05,
+          "perplexity": 30,
+          "sentence": "In Jordan, refugees were disproportionately represented among students separated from school and more likely to drop out of school than their Jordanian counterparts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.350565233035013e-05,
+          "perplexity": 150,
+          "sentence": "These reports are therefore establishing a knowledge baseline, from which partners identify the most vulnerable, develop retention strategies and implement targeted interventions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.036040864884853e-05,
+          "perplexity": 75,
+          "sentence": "Further, Dong Yeon recently participated in focus group interviews with teachers and principals, as part of a broader feedback and inclusion exercise.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.990951027953997e-05,
+          "perplexity": 51,
+          "sentence": "From what we heard from teachers, what matters most are the relationships, parent support, help with homework, proper nutrition and rest.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 9.41192265599966e-05,
+          "perplexity": 102,
+          "sentence": "These are the factors teachers looked at to foster student engagement and recovery.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.994834206532687e-05,
+          "perplexity": 115,
+          "sentence": "--Dong Yeon Park, UN Volunteer Education Assistant with UNICEF, Jordan Jongmin Weon (Korea) also serves with the Education section at UNICEF Jordan, as a UN Volunteer Data and Knowledge Management Officer.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 8.96688288776204e-05,
+          "perplexity": 163,
+          "sentence": "Jongmin performs analysis from the data disseminated by the Ministry of",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Jordan is host to around 3 million refugees. The majority (2.3 million) are Palestine refugees registered with UNRWA - alongside some 156,107 other registered persons. This includes 634,922 refugee youth. In addition, there are over 775,000 persons of concern registered with the UN Refugee Agency (UNHCR) as refugees and asylum seekers in the country, including 667,000 Syrian refugees - nearly half of whom are children under 18 years old. Dong Yeon Park (Korea) is a UN Volunteer serving with the Education Section at UNICEF Jordan. Dong Yeon provides report writing and publication assistance for monthly donor reports and flagship documents, such as the Jordan Country Report on Out-of-School Children. Such publications map specific communities, illustrate vulnerabilities and underscore the status of children and youth separated from school. Indeed, 1.6 billion children and youth were out of school worldwide in 2020 and although many nations moved schooling online, remote learning was inaccessible for at least 500 million students. In Jordan, refugees were disproportionately represented among students separated from school and more likely to drop out of school than their Jordanian counterparts. These reports are therefore establishing a knowledge baseline, from which partners identify the most vulnerable, develop retention strategies and implement targeted interventions. Further, Dong Yeon recently participated in focus group interviews with teachers and principals, as part of a broader feedback and inclusion exercise. From what we heard from teachers, what matters most are the relationships, parent support, help with homework, proper nutrition and rest. These are the factors teachers looked at to foster student engagement and recovery. --Dong Yeon Park, UN Volunteer Education Assistant with UNICEF, Jordan Jongmin Weon (Korea) also serves with the Education section at UNICEF Jordan, as a UN Volunteer Data and Knowledge Management Officer. Jongmin performs analysis from the data disseminated by the Ministry of",
+  "date": "24 June 2021"
+}

@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b25fc583-3e85-43e5-8cc1-2e5e95a30d14",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002701835559533258,
+        "human": 0.9972981644404667,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002701835559533258,
+      "confidence_category": "high",
+      "confidence_score": 0.9972981644404667,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002701835559533258,
+          "human": 0.9972981644404667,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 57.126426696777344,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00013975515321362764,
+          "perplexity": 69,
+          "sentence": "Belgrade, 28 October 2016 - Marking the UN Week, the UN Country Team and the Government of Serbia invited for a special brief on the refugee and migration situation in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013115204637870193,
+          "perplexity": 69,
+          "sentence": "The Team of UN agencies reaffirmed its commitments to strongly promote and support additional humanitarian, developmental, budgetary, coordination and political support to allow the Government of Serbia to implement its Response Plan as well as the commitments of the recently adopted New York Declaration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013025433872826397,
+          "perplexity": 34,
+          "sentence": "In 2015, the UN Country Team supported the Government of Serbia with activities in coordination, registration, protection, counter-trafficking, anti-smuggling, shelter, sanitary and other infrastructure, non-food and food aid, health for refugees/migrants as well as support to the public services that assist refugees and migrants and the local communities that host them at the amount of around 1 billion dinars (9.1m USD).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012767588486894965,
+          "perplexity": 139,
+          "sentence": "Similar assistance extended to date in 2016 amounts to 855 million dinars (8.6m USD).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012748355220537633,
+          "perplexity": 198,
+          "sentence": "\u201cThe UN Country Team in Serbia stands ready to further increase this support to enhance a sustained lawful and protection sensitive management of the refugee and migration situation, and challenges of irregular migration, to help in addressing forthcoming winter needs, including contingency planning in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012305747077334672,
+          "perplexity": 97,
+          "sentence": "The team will also continue advocating for strong support to Serbia by other donors, including those who are able to provide direct budgetary support to the Government, which UN Agencies are not allowed to furnish\u201d said Irena Vojackova Sollorano, UN Resident Coordinator to Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012193343718536198,
+          "perplexity": 29,
+          "sentence": "During the last months the number of new refugees, migrants and asylum-seekers in Serbia has stabilized at around 6,300, 80% of whom are accommodated in Governmental centres.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011908818851225078,
+          "perplexity": 57,
+          "sentence": "With the onset of colder weather, UN Agencies and partners have also stepped up their distribution of winter clothes as well as support to the creation of adequate shelter places and conditions for longer-term",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Belgrade, 28 October 2016 \u2013 Marking the UN Week, the UN Country Team and the Government of Serbia invited for a special brief on the refugee and migration situation in Serbia. The Team of UN agencies reaffirmed its commitments to strongly promote and support additional humanitarian, developmental, budgetary, coordination and political support to allow the Government of Serbia to implement its Response Plan as well as the commitments of the recently adopted New York Declaration. In 2015, the UN Country Team supported the Government of Serbia with activities in coordination, registration, protection, counter-trafficking, anti-smuggling, shelter, sanitary and other infrastructure, non-food and food aid, health for refugees/migrants as well as support to the public services that assist refugees and migrants and the local communities that host them at the amount of around 1 billion dinars (9.1m USD). Similar assistance extended to date in 2016 amounts to 855 million dinars (8.6m USD). \u201cThe UN Country Team in Serbia stands ready to further increase this support to enhance a sustained lawful and protection sensitive management of the refugee and migration situation, and challenges of irregular migration, to help in addressing forthcoming winter needs, including contingency planning in Serbia. The team will also continue advocating for strong support to Serbia by other donors, including those who are able to provide direct budgetary support to the Government, which UN Agencies are not allowed to furnish\u201d said Irena Vojackova Sollorano, UN Resident Coordinator to Serbia. During the last months the number of new refugees, migrants and asylum-seekers in Serbia has stabilized at around 6,300, 80% of whom are accommodated in Governmental centres. With the onset of colder weather, UN Agencies and partners have also stepped up their distribution of winter clothes as well as support to the creation of adequate shelter places and conditions for longer\u2013term",
+  "date": "28 October 2016"
+}

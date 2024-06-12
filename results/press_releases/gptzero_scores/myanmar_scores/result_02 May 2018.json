@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "07a40702-d4e2-4ca4-b010-18c6f2d1e2f9",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053614093211430035,
+        "human": 0.9456638314591231,
+        "mixed": 0.0007220753294468692
+      },
+      "completely_generated_prob": 0.053614093211430035,
+      "confidence_category": "medium",
+      "confidence_score": 0.9456638314591231,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053614093211430035,
+          "human": 0.9456638314591231,
+          "mixed": 0.0007220753294468692
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 22.452171325683594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0016134582692757249,
+          "perplexity": 36,
+          "sentence": "(Yangon, 2 May 2018): \u201cTen years ago today, Myanmar was devastated by cyclone Nargis - by far the worst natural disaster in the country's history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017599159618839622,
+          "perplexity": 42,
+          "sentence": "The cyclone made landfall near Hainggyikyun in Ayeyarwady Region on 2 May 2008, with wind speeds of up to 200 kilometres per hour, accompanied by heavy rain and storm surges of up to 12 metres in certain areas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017139993142336607,
+          "perplexity": 41,
+          "sentence": "The cyclone left approximately 140,000 people dead or unaccounted for, with close to 2.4 million people affected in 37 townships in Ayeyarwady and Yangon regions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016133500030264258,
+          "perplexity": 19,
+          "sentence": "On behalf of the United Nations, on this day that marks ten years since Cyclone Nargis, I would like to commemorate all those who died and who lost their loved ones in the tragic disaster.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013773370301350951,
+          "perplexity": 9,
+          "sentence": "At the same time, I would like to take this opportunity to commend the strength and resilience of the people of Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011738467728719115,
+          "perplexity": 34,
+          "sentence": "Not only did they show courage in rebuilding their lives and their ruined communities in the immediate aftermath of Cyclone Nargis, but - drawing from the lessons of this disaster - they have contributed since then to Government-led efforts to reduce risks and to enhance disaster preparedness and response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015879597049206495,
+          "perplexity": 35,
+          "sentence": "Myanmar remains one of the most disaster prone countries in Asia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011466967407613993,
+          "perplexity": 22,
+          "sentence": "With this in mind, the United Nations continues to work closely with the Government on disaster risk reduction and on disaster preparedness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010927087860181928,
+          "perplexity": 86,
+          "sentence": "A recent earthquake response simulation exercise supported by the United Nations is an example of this.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.21192505955696106,
+          "perplexity": 7,
+          "sentence": "While remembering the victims of the catastrophic event in 2008, I would like to reiterate the commitment of the United Nations to continue supporting the Government of Myanmar in strengthening national capacity to prepare for and respond to natural disasters.\u201d (\u101b\u1014\u1039\u1000\u102f\u1014\u1039\u104a \u10420\u1041\u1048 \u1001\u102f\u108f\u103d\u1005\u1039 \u1031\u1019\u101c \u1042 \u101b\u1000\u1039) - \u201c\u101c\u103c\u1014\u1039\u1001\u1032\u1037\u101e\u100a\u1037\u1039 \u1006\u101a\u1039\u108f\u103d\u1005\u1039\u1021\u1001\u103a\u102d\u1014\u1039\u101a\u1031\u1014\u1094\u1010\u103c\u1004\u1039 \u103b\u1019\u1014\u1039\u1019\u102c\u108f\u102d\u102f\u1039\u1004\u1039\u1004\u030a\u101e\u100a\u1039 \u108f\u102d\u102f\u1004\u1039\u1004\u030a\u104f \u101e\u1019\u102d\u102f\u1004\u1039\u0983\u104c \u1021\u1006\u102d\u102f\u0983\u101b\u103c\u102c\u0983\u104a \u1021\u103b\u1015\u1004\u1039\u0983\u1011\u1014\u1039\u1006\u030a\u102f\u0983\u1031\u101e\u102c \u1006\u102d\u102f\u1004\u1039\u1000\u101c\u102f\u1014\u1039\u0983\u1019\u102f\u1014\u1039\u1010\u102d\u102f\u1004\u1039\u0983 \u1014\u102c\u1002\u1005\u1039\u1031\u107e\u1000\u102c\u1004\u1037\u1039 \u1011\u102d\u1001\u102d\u102f\u1000\u1039\u1015\u103a\u1000\u1039\u1005\u102e\u0983\u1019\u1088\u1019\u103a\u102c\u0983",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "(Yangon, 2 May 2018): \u201cTen years ago today, Myanmar was devastated by cyclone Nargis \u2013 by far the worst natural disaster in the country\u2019s history. The cyclone made landfall near Hainggyikyun in Ayeyarwady Region on 2 May 2008, with wind speeds of up to 200 kilometres per hour, accompanied by heavy rain and storm surges of up to 12 metres in certain areas. The cyclone left approximately 140,000 people dead or unaccounted for, with close to 2.4 million people affected in 37 townships in Ayeyarwady and Yangon regions. On behalf of the United Nations, on this day that marks ten years since Cyclone Nargis, I would like to commemorate all those who died and who lost their loved ones in the tragic disaster. At the same time, I would like to take this opportunity to commend the strength and resilience of the people of Myanmar. Not only did they show courage in rebuilding their lives and their ruined communities in the immediate aftermath of Cyclone Nargis, but \u2013 drawing from the lessons of this disaster \u2013 they have contributed since then to Government-led efforts to reduce risks and to enhance disaster preparedness and response. Myanmar remains one of the most disaster prone countries in Asia. With this in mind, the United Nations continues to work closely with the Government on disaster risk reduction and on disaster preparedness. A recent earthquake response simulation exercise supported by the United Nations is an example of this. While remembering the victims of the catastrophic event in 2008, I would like to reiterate the commitment of the United Nations to continue supporting the Government of Myanmar in strengthening national capacity to prepare for and respond to natural disasters.\u201d (\u101b\u1014\u1039\u1000\u102f\u1014\u1039\u104a \u1042\u101d\u1041\u1048 \u1001\u102f\u108f\u103d\u1005\u1039 \u1031\u1019\u101c \u1042 \u101b\u1000\u1039) \u2013 \u201c\u101c\u103c\u1014\u1039\u1001\u1032\u1037\u101e\u100a\u1037\u1039 \u1006\u101a\u1039\u108f\u103d\u1005\u1039\u1021\u1001\u103a\u102d\u1014\u1039\u101a\u1031\u1014\u1094\u1010\u103c\u1004\u1039 \u103b\u1019\u1014\u1039\u1019\u102c\u108f\u102d\u102f\u1039\u1004\u1039\u1004\u1036\u101e\u100a\u1039 \u108f\u102d\u102f\u1004\u1039\u1004\u1036\u104f \u101e\u1019\u102d\u102f\u1004\u1039\u1038\u104c \u1021\u1006\u102d\u102f\u1038\u101b\u103c\u102c\u1038\u104a \u1021\u103b\u1015\u1004\u1039\u1038\u1011\u1014\u1039\u1006\u1036\u102f\u1038\u1031\u101e\u102c \u1006\u102d\u102f\u1004\u1039\u1000\u101c\u102f\u1014\u1039\u1038\u1019\u102f\u1014\u1039\u1010\u102d\u102f\u1004\u1039\u1038 \u1014\u102c\u1002\u1005\u1039\u1031\u107e\u1000\u102c\u1004\u1037\u1039 \u1011\u102d\u1001\u102d\u102f\u1000\u1039\u1015\u103a\u1000\u1039\u1005\u102e\u1038\u1019\u1088\u1019\u103a\u102c\u1038",
+  "date": "02 May 2018"
+}

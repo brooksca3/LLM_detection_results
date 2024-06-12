@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2df269df-35c5-4db6-8769-d317d81a21b5",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 87.8624496459961,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00021195932640694082,
+          "perplexity": 8,
+          "sentence": "Despite enormous progress realized for children since the adoption of the Convention on the Rights of the Child in 1989, the rights of millions of children are being violated every day Belgrade, Serbia, 20 November 2016 - Despite enormous progress realized for children since the adoption of the Convention on the Rights of the Child in 1989, the rights of millions of children are being violated every day, UNICEF said today as it marked Universal Children's Day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003068448568228632,
+          "perplexity": 71,
+          "sentence": "\u201cWith conflicts, crises, and crushing poverty putting millions of children's lives and futures at risk, protecting child rights is more urgent than ever - and a critical key to building stronger, more stable societies,\u201d said Michel Saint-Lot, UNICEF Representative in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003384288866072893,
+          "perplexity": 49,
+          "sentence": "\u201cWe need to stop these violations by investing more in reaching the most vulnerable children, or pay the price in slower growth, greater inequality, and less stability.\u201d The former Yugoslavia was among the first countries to sign and ratify the Convention in 1990, and the Republic of Serbia, through succession, has taken upon itself the obligations arising from the Convention.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003393008082639426,
+          "perplexity": 41,
+          "sentence": "The world's most rapidly and widely ratified human rights treaty, the CRC sets out a basic, universal standard for a healthy, protected, decent childhood for every human being.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000398022384615615,
+          "perplexity": 25,
+          "sentence": "Since ratification, despite the difficulties faced in the last two and a half decades, Serbia has managed to translate many of the legal provisions of the Convention into practice, relying on existing infrastructure, services and professionals in the fields of social welfare, education, and health care available to most children in Serbia.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000584602530580014,
+          "perplexity": 14,
+          "sentence": "However, there are still significant obstacles to be overcome in order to ensure that every child can enjoy his or her rights to grow and develop to their full potential.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000388659187592566,
+          "perplexity": 260,
+          "sentence": "There is insufficient implementation of legal provisions into practice, protection services are",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Despite enormous progress realized for children since the adoption of the Convention on the Rights of the Child in 1989, the rights of millions of children are being violated every day Belgrade, Serbia, 20 November 2016 \u2013 Despite enormous progress realized for children since the adoption of the Convention on the Rights of the Child in 1989, the rights of millions of children are being violated every day, UNICEF said today as it marked Universal Children\u2019s Day. \u201cWith conflicts, crises, and crushing poverty putting millions of children\u2019s lives and futures at risk, protecting child rights is more urgent than ever \u2013 and a critical key to building stronger, more stable societies,\u201d said Michel Saint-Lot, UNICEF Representative in Serbia. \u201cWe need to stop these violations by investing more in reaching the most vulnerable children, or pay the price in slower growth, greater inequality, and less stability.\u201d The former Yugoslavia was among the first countries to sign and ratify the Convention in 1990, and the Republic of Serbia, through succession, has taken upon itself the obligations arising from the Convention. The world\u2019s most rapidly and widely ratified human rights treaty, the CRC sets out a basic, universal standard for a healthy, protected, decent childhood for every human being. Since ratification, despite the difficulties faced in the last two and a half decades, Serbia has managed to translate many of the legal provisions of the Convention into practice, relying on existing infrastructure, services and professionals in the fields of social welfare, education, and health care available to most children in Serbia. However, there are still significant obstacles to be overcome in order to ensure that every child can enjoy his or her rights to grow and develop to their full potential. There is insufficient implementation of legal provisions into practice, protection services are",
+  "date": "20 November 2016"
+}

@@ -1,0 +1,117 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "cdc8b564-0207-4530-a324-a56ad9c2b9ab",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03047638202976927,
+        "human": 0.9689952851601041,
+        "mixed": 0.0005283328101266792
+      },
+      "completely_generated_prob": 0.03047638202976927,
+      "confidence_category": "high",
+      "confidence_score": 0.9689952851601041,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03047638202976927,
+          "human": 0.9689952851601041,
+          "mixed": 0.0005283328101266792
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 49.81465530395508,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.014926598407328129,
+          "perplexity": 90,
+          "sentence": "Baghdad, Iraq - 28 November 2022 - Globalization and technological advancement have provided an opportunity to create and disseminate messages to large audiences at a wide speed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013830454088747501,
+          "perplexity": 77,
+          "sentence": "Terrorists have used this opportunity in their favor to spread their tailored narratives through social media, the internet, magazines or publications to achieve different aims such as entice fear in the hearts of populations, spread false realities to recruit fighters, or for mere propaganda.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011821679770946503,
+          "perplexity": 170,
+          "sentence": "It has become evident that coordination is needed between the relevant actors in societies to offer alternative narratives to empower communities to face terrorist projections; countering such terrorist narratives post their issuance is not enough.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012708233669400215,
+          "perplexity": 141,
+          "sentence": "One of such key relevant actors in society is the media.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.011790648102760315,
+          "perplexity": 55,
+          "sentence": "The media speak to national and international audiences on the most urgent topics and have the power to fill information vacuums with credible and coherent knowledge; vacuums that otherwise could be used by terrorist groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01227700524032116,
+          "perplexity": 56,
+          "sentence": "Media also showcase the stories of victims of terrorism and hence have an obligation to protect the rights of victims and avoid secondary victimization.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.012293524108827114,
+          "perplexity": 18,
+          "sentence": "Therefore, the United Nations Office on Drugs and Crime (UNODC) is delivering a workshop on \"The role of Iraqi media in combatting terrorism and supporting the rights of victims of terrorism in line with human rights\" from 28 - 30 November 2022 in Baghdad, Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01150705385953188,
+          "perplexity": 39,
+          "sentence": "The event is part of the project on \"Strengthening the criminal justice response to terrorism in Iraq through supporting victims of terrorism to participate in criminal proceedings,\" funded by the Kingdom of the Netherlands.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013317878358066082,
+          "perplexity": 44,
+          "sentence": "During the opening of the workshop, Ms. Cristina Albertin, Regional Representative of the UNODC Regional Office in the Middle East and North Africa, highlighted that \u201cthe role of media outlets and professionals in communicating cases of terrorism cannot be understated, especially in our highly connected",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq \u2013 28 November 2022 - Globalization and technological advancement have provided an opportunity to create and disseminate messages to large audiences at a wide speed. Terrorists have used this opportunity in their favor to spread their tailored narratives through social media, the internet, magazines or publications to achieve different aims such as entice fear in the hearts of populations, spread false realities to recruit fighters, or for mere propaganda. It has become evident that coordination is needed between the relevant actors in societies to offer alternative narratives to empower communities to face terrorist projections; countering such terrorist narratives post their issuance is not enough. One of such key relevant actors in society is the media. The media speak to national and international audiences on the most urgent topics and have the power to fill information vacuums with credible and coherent knowledge; vacuums that otherwise could be used by terrorist groups. Media also showcase the stories of victims of terrorism and hence have an obligation to protect the rights of victims and avoid secondary victimization. Therefore, the United Nations Office on Drugs and Crime (UNODC) is delivering a workshop on \"The role of Iraqi media in combatting terrorism and supporting the rights of victims of terrorism in line with human rights\" from 28 \u2013 30 November 2022 in Baghdad, Iraq. The event is part of the project on \"Strengthening the criminal justice response to terrorism in Iraq through supporting victims of terrorism to participate in criminal proceedings,\" funded by the Kingdom of the Netherlands. During the opening of the workshop, Ms. Cristina Albertin, Regional Representative of the UNODC Regional Office in the Middle East and North Africa, highlighted that \u201cthe role of media outlets and professionals in communicating cases of terrorism cannot be understated, especially in our highly connected",
+  "date": "28 November 2022"
+}

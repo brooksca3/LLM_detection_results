@@ -1,0 +1,87 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "10bc33a2-ee0f-4d63-b8b2-fc6f925f1467",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03046253450449943,
+        "human": 0.9685550036764128,
+        "mixed": 0.0009824618190877544
+      },
+      "completely_generated_prob": 0.03046253450449943,
+      "confidence_category": "high",
+      "confidence_score": 0.9685550036764128,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03046253450449943,
+          "human": 0.9685550036764128,
+          "mixed": 0.0009824618190877544
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14.22146224975586,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009240949875675142,
+          "perplexity": 36,
+          "sentence": "Baghdad, Iraq - August 17, 2022 - A new working paper has been developed by the United Nations in Iraq, which proposes a set of key recommendations that would contribute to strengthening the adequacy, coverage and equity of the social protection system and enhancing its effectiveness in reaching the most vulnerable groups of society - including children, youth, women, elderly, informal workers, persons with disabilities and Internally Displaced Persons.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009255445329472423,
+          "perplexity": 33,
+          "sentence": "The paper, \u201cBuilding Iraq's Social Protection Floor - Framework and recommendations,\u201d looks at some of the gaps and challenges in Iraq's social protection system and identifies operational, country specific, costed interventions that \u201cshould be considered to achieve an inclusive social assistance system in Iraq that ultimately leaves no one behind.\u201d Developed by the ILO, in partnership with UNICEF, WFP, IOM and UNHCR and the European Union, in close coordination with the Deputy Special Representative of the Secretary General, UN Resident Coordinator and Humanitarian Coordinator for Iraq, the paper is part of efforts to facilitate the transition and reform of the social protection system in the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.059600405395030975,
+          "perplexity": 58,
+          "sentence": "The paper highlights Iraq's commitment to social protection, as \u201cdemonstrated clearly in the 2018-2022 Poverty Reduction Strategy, in which the establishment of an effective social protection system was recognized as a strategic priority.\u201d Yet, implementation is undermined by high fragmentation in the current system and complexity and ineffectiveness of current targeting approaches, among other challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03064722754061222,
+          "perplexity": 60,
+          "sentence": "The paper focuses on non-contributory social assistance, which according to the ILO, includes \u201cschemes that normally require no direct contribution from beneficiaries or their employers as a condition of entitlement to receive relevant benefits.\u201d The recommendations include shifting from charity-based social assistance to a rights-based, developmental approach; consolidating all fragmented social assistance programmes into a life-cycle social protection floor (SPF); and using the SPF as the basis for a shock-responsive",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad, Iraq \u2013 August 17, 2022 - A new working paper has been developed by the United Nations in Iraq, which proposes a set of key recommendations that would contribute to strengthening the adequacy, coverage and equity of the social protection system and enhancing its effectiveness in reaching the most vulnerable groups of society \u2013 including children, youth, women, elderly, informal workers, persons with disabilities and Internally Displaced Persons. The paper, \u201cBuilding Iraq\u2019s Social Protection Floor \u2013 Framework and recommendations,\u201d looks at some of the gaps and challenges in Iraq\u2019s social protection system and identifies operational, country specific, costed interventions that \u201cshould be considered to achieve an inclusive social assistance system in Iraq that ultimately leaves no one behind.\u201d Developed by the ILO, in partnership with UNICEF, WFP, IOM and UNHCR and the European Union, in close coordination with the Deputy Special Representative of the Secretary General, UN Resident Coordinator and Humanitarian Coordinator for Iraq, the paper is part of efforts to facilitate the transition and reform of the social protection system in the country. The paper highlights Iraq\u2019s commitment to social protection, as \u201cdemonstrated clearly in the 2018-2022 Poverty Reduction Strategy, in which the establishment of an effective social protection system was recognized as a strategic priority.\u201d Yet, implementation is undermined by high fragmentation in the current system and complexity and ineffectiveness of current targeting approaches, among other challenges. The paper focuses on non-contributory social assistance, which according to the ILO, includes \u201cschemes that normally require no direct contribution from beneficiaries or their employers as a condition of entitlement to receive relevant benefits.\u201d The recommendations include shifting from charity-based social assistance to a rights-based, developmental approach; consolidating all fragmented social assistance programmes into a life-cycle social protection floor (SPF); and using the SPF as the basis for a shock-responsive",
+  "date": "17 August 2022"
+}

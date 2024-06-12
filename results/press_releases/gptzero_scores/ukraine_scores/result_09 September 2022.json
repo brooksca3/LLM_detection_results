@@ -1,0 +1,135 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "b82d269d-57db-4a8f-8e27-6fc2577eabc4",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.597267150878906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.0731758790825409e-10,
+          "num_sentences": 12,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.001798265497200191,
+          "perplexity": 29,
+          "sentence": "Today I am joining you from Odesa - a city in the south of Ukraine where the UN Human Rights Monitoring Mission has been present since 2014.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001709385891444981,
+          "perplexity": 25,
+          "sentence": "Every day, we speak to people across the country and hear from victims who have suffered human rights violations in the context of the armed conflict, which escalated following the armed attack of the Russian Federation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001826172461733222,
+          "perplexity": 15,
+          "sentence": "We will be publishing our next report later this month but let me give you an update on some of our recent findings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016380676534026861,
+          "perplexity": 61,
+          "sentence": "To date we have corroborated 14,059 civilian casualties: 5,767 civilians were killed and 8,292 injured by hostilities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015053197275847197,
+          "perplexity": 35,
+          "sentence": "As we have repeatedly said, we know that actual numbers are likely considerably higher.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014265166828408837,
+          "perplexity": 28,
+          "sentence": "Since 24 February, our Mission has verified that at least 416 people have been victims of arbitrary detentions and enforced disappearances in territory occupied by the Russian Federation or in areas controlled by Russian armed forces and affiliated armed groups at the time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001463968539610505,
+          "perplexity": 139,
+          "sentence": "Of those, 16 were found dead and 166 released.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013818942243233323,
+          "perplexity": 173,
+          "sentence": "We also documented 51 arbitrary arrests and 30 more cases that may amount to enforced disappearance perpetrated by Ukrainian law enforcement bodies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001724872039631009,
+          "perplexity": 45,
+          "sentence": "We have documented a range of violations against prisoners of war.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016944983508437872,
+          "perplexity": 25,
+          "sentence": "We have been granted unimpeded access to places of internment and detention in territory controlled by the Government of Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020959957037121058,
+          "perplexity": 20,
+          "sentence": "However, the Russian Federation has not provided access to prisoners of war held on its territory or in territory under its occupation, including areas controlled by its armed forces and affiliated armed groups.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018362560076639056,
+          "perplexity": 28,
+          "sentence": "This is all the more worrying since we have documented that prisoners of war in the power of the Russian Federation and held by the Russian Federation's armed forces or by affiliated armed groups have suffered torture and ill-treatment, and in some places of detention",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Today I am joining you from Odesa \u2013 a city in the south of Ukraine where the UN Human Rights Monitoring Mission has been present since 2014. Every day, we speak to people across the country and hear from victims who have suffered human rights violations in the context of the armed conflict, which escalated following the armed attack of the Russian Federation. We will be publishing our next report later this month but let me give you an update on some of our recent findings. To date we have corroborated 14,059 civilian casualties: 5,767 civilians were killed and 8,292 injured by hostilities. As we have repeatedly said, we know that actual numbers are likely considerably higher. Since 24 February, our Mission has verified that at least 416 people have been victims of arbitrary detentions and enforced disappearances in territory occupied by the Russian Federation or in areas controlled by Russian armed forces and affiliated armed groups at the time. Of those, 16 were found dead and 166 released. We also documented 51 arbitrary arrests and 30 more cases that may amount to enforced disappearance perpetrated by Ukrainian law enforcement bodies. We have documented a range of violations against prisoners of war. We have been granted unimpeded access to places of internment and detention in territory controlled by the Government of Ukraine. However, the Russian Federation has not provided access to prisoners of war held on its territory or in territory under its occupation, including areas controlled by its armed forces and affiliated armed groups. This is all the more worrying since we have documented that prisoners of war in the power of the Russian Federation and held by the Russian Federation\u2019s armed forces or by affiliated armed groups have suffered torture and ill-treatment, and in some places of detention",
+  "date": "09 September 2022"
+}

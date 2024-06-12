@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "7968e3b2-1604-46ae-ad0e-3a92b84f4c1f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.35203873706072897,
+        "human": 0.6460533902475103,
+        "mixed": 0.001907872691760828
+      },
+      "completely_generated_prob": 0.35203873706072897,
+      "confidence_category": "low",
+      "confidence_score": 0.6460533902475103,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.35203873706072897,
+          "human": 0.6460533902475103,
+          "mixed": 0.001907872691760828
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 27.711524963378906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.028370924005244397,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.9981842637062073,
+          "perplexity": 23,
+          "sentence": "Amman -The Food and Agriculture Organization of the United Nations (FAO) inaugurated its new solar-energy system at its premises in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9989890456199646,
+          "perplexity": 50,
+          "sentence": "With its launch, the system is expected to enhance business continuity and reduce the climate impacts of FAO Jordan, all while decreasing energy costs and promoting sustainable development in the region.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9984645843505859,
+          "perplexity": 47,
+          "sentence": "Amongst the distinguished guests in attendance, the launch ceremony included the participation of H.E Dr. Muawieh Radaideh, Minister of Environment, H.E Ms. Amani Al Azzam, Secretary General of the Ministry of Energy and Mineral Resources, Dr. AbdulHakim Elwaer, FAO Assistant Director General (ADG) and Regional Representative for the Near East and North Africa, and Rodrigo de Lapuerta, Director of Logistics Services Division, CSL.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.9988094568252563,
+          "perplexity": 92,
+          "sentence": "Further attendees included the Corporate Environmental Responsibility and FAO Jordan teams, as well as colleagues from the UNDP Green Energy Team, whose constant support was invaluable to the realization of this project.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004404671024531126,
+          "perplexity": 70,
+          "sentence": "In line with FAO's Corporate Environmental Responsibility Strategy (CER) 2020-2030, the CER team of CSLI, the FAO Jordan office, and the UNDP Green Energy Team pave the way towards a low carbon FAO with this 13kWp grid-tied solar PV system installation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004652194678783417,
+          "perplexity": 21,
+          "sentence": "The system will be able to cover approximately 50% of the office's electricity consumption and save approximately 11 tonnes of CO2 emissions every year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004809608682990074,
+          "perplexity": 83,
+          "sentence": "H.E Dr. Muawieh Radaideh, Minister of Environment, stated \u201cToday's celebration goes beyond installing a solar energy system to having supporters to deliver the message that energy efficiency is key.\u201d H.E Ms. Amani Al Azzam, Secretary General of the Ministry of Energy and Mineral Resources congratulated and valued the commitment of FAO Jordan towards a green future.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004181829281151295,
+          "perplexity": 84,
+          "sentence": "\u201cFAO Jordan is one of the first FAO Offices in the region that turned to solar energy to power its operations with the installation of a Solar PV system, in a remarkable",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly uncertain about this document. The writing style and content are not particularly AI-like.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Amman -The Food and Agriculture Organization of the United Nations (FAO) inaugurated its new solar-energy system at its premises in Jordan. With its launch, the system is expected to enhance business continuity and reduce the climate impacts of FAO Jordan, all while decreasing energy costs and promoting sustainable development in the region. Amongst the distinguished guests in attendance, the launch ceremony included the participation of H.E Dr. Muawieh Radaideh, Minister of Environment, H.E Ms. Amani Al Azzam, Secretary General of the Ministry of Energy and Mineral Resources, Dr. AbdulHakim Elwaer, FAO Assistant Director General (ADG) and Regional Representative for the Near East and North Africa, and Rodrigo de Lapuerta, Director of Logistics Services Division, CSL. Further attendees included the Corporate Environmental Responsibility and FAO Jordan teams, as well as colleagues from the UNDP Green Energy Team, whose constant support was invaluable to the realization of this project. In line with FAO\u2019s Corporate Environmental Responsibility Strategy (CER) 2020-2030, the CER team of CSLI, the FAO Jordan office, and the UNDP Green Energy Team pave the way towards a low carbon FAO with this 13kWp grid-tied solar PV system installation. The system will be able to cover approximately 50% of the office\u2019s electricity consumption and save approximately 11 tonnes of CO2 emissions every year. H.E Dr. Muawieh Radaideh, Minister of Environment, stated \u201cToday's celebration goes beyond installing a solar energy system to having supporters to deliver the message that energy efficiency is key.\u201d H.E Ms. Amani Al Azzam, Secretary General of the Ministry of Energy and Mineral Resources congratulated and valued the commitment of FAO Jordan towards a green future. \u201cFAO Jordan is one of the first FAO Offices in the region that turned to solar energy to power its operations with the installation of a Solar PV system, in a remarkable",
+  "date": "13 June 2022"
+}

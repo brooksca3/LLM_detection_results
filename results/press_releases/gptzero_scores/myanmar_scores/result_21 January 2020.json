@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "a3cc3089-f554-4dca-9d9a-99f49994534f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 15.304839134216309,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00016393171972595155,
+          "perplexity": 49,
+          "sentence": "New York, 20 January 2020 - The Special Representative of the Secretary-General for Children and Armed Conflict, Ms. Virginia Gamba, completed a five-day mission to Myanmar where she engaged with national authorities, civil society, Ethnic Armed Organizations representatives, the Diplomatic Corps and the Country Taskforce on Monitoring and Reporting on Children and Armed Conflict (CTFMR on CAAC) in Myanmar.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017216691048815846,
+          "perplexity": 37,
+          "sentence": "\u201cChildren in Myanmar have suffered tremendously from the impact of hostilities, especially in Rakhine, Shan and Kachin States; it is crucial for all parties, including the Tatmadaw and other Government security forces, to continue their engagement with the United Nations to end and prevent violations against children,\u201d said the Special Representative.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015545763017144054,
+          "perplexity": 30,
+          "sentence": "During this visit to Yangon and Nay Pyi Taw, the second since 2018, the Special Representative met with senior government officials including the State Counsellor and Foreign Minister, Her Excellency Daw Aung San Suu Kyi, as well as the Ministers of Defense, of Social Welfare, Relief and Resettlement, of Labor and Immigration and Population, and with the Union Attorney General.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001612337218830362,
+          "perplexity": 65,
+          "sentence": "She also had constructive discussions with the Chairs of the Joint Ceasefire Monitoring Committee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001529945875518024,
+          "perplexity": 43,
+          "sentence": "\u201cThe Government Forces have made significant progress in the implementation of their joint Action Plan signed in 2012 with the United Nations on the recruitment of children; the Action Plan must now be expedited and finalized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015025616448838264,
+          "perplexity": 72,
+          "sentence": "I also urge the Tatmadaw Army to continue its engagement with the United Nations to develop measures to better protect children and to commit to a joint action plan on killing and maiming and sexual violence, violations for which they remain listed,\u201d she added.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016355951083824039,
+          "perplexity": 59,
+          "sentence": "She welcomed the important milestones reached by the Government to end and prevent violations against children, including the recent enactment of the Child Rights Act criminalizing the six grave violations against children, the development of a",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "New York, 20 January 2020 \u2013 The Special Representative of the Secretary-General for Children and Armed Conflict, Ms. Virginia Gamba, completed a five-day mission to Myanmar where she engaged with national authorities, civil society, Ethnic Armed Organizations representatives, the Diplomatic Corps and the Country Taskforce on Monitoring and Reporting on Children and Armed Conflict (CTFMR on CAAC) in Myanmar. \u201cChildren in Myanmar have suffered tremendously from the impact of hostilities, especially in Rakhine, Shan and Kachin States; it is crucial for all parties, including the Tatmadaw and other Government security forces, to continue their engagement with the United Nations to end and prevent violations against children,\u201d said the Special Representative. During this visit to Yangon and Nay Pyi Taw, the second since 2018, the Special Representative met with senior government officials including the State Counsellor and Foreign Minister, Her Excellency Daw Aung San Suu Kyi, as well as the Ministers of Defense, of Social Welfare, Relief and Resettlement, of Labor and Immigration and Population, and with the Union Attorney General. She also had constructive discussions with the Chairs of the Joint Ceasefire Monitoring Committee. \u201cThe Government Forces have made significant progress in the implementation of their joint Action Plan signed in 2012 with the United Nations on the recruitment of children; the Action Plan must now be expedited and finalized. I also urge the Tatmadaw Army to continue its engagement with the United Nations to develop measures to better protect children and to commit to a joint action plan on killing and maiming and sexual violence, violations for which they remain listed,\u201d she added. She welcomed the important milestones reached by the Government to end and prevent violations against children, including the recent enactment of the Child Rights Act criminalizing the six grave violations against children, the development of a",
+  "date": "21 January 2020"
+}

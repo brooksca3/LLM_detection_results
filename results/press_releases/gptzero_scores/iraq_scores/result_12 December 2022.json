@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "09f80373-207f-4953-b68d-92e882f6f44d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 55.567649841308594,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003334084467496723,
+          "perplexity": 39,
+          "sentence": "The supplies include coveralls, face shields and goggles, among others, and will be distributed by the Ministry of Health of the KRI as part of UNICEF's commitment to support the COVID-19 pandemic response in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021461684082169086,
+          "perplexity": 30,
+          "sentence": "ERBIL, 12 December 2022 - UNICEF today handed over personal protective equipment (PPE) worth $2.5 million to the Ministry of Health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022688190802000463,
+          "perplexity": 44,
+          "sentence": "The ceremony was held in the presence of the Minister of Health of the Kurdistan Region Government, Dr. Saman H. Barzangy, and the UNICEF Representative in Iraq, Sheema Sen Gupta.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024346602731384337,
+          "perplexity": 146,
+          "sentence": "The supplies include coveralls, face shields and goggles for use in the Kurdistan Region response to the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020849845896009356,
+          "perplexity": 204,
+          "sentence": "This donation adds to PPE previously supplied this year, worth $1.23 million, to support safe practices during the COVID-19 vaccination campaign in all governorates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028751775971613824,
+          "perplexity": 89,
+          "sentence": "\u201cCOVID-19 is still among us, and we need to continue working together to avoid new transmission of the virus, putting public health at risk and hampering children's rights who suffer the secondary impact of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023643070016987622,
+          "perplexity": 97,
+          "sentence": "These supplies attest to UNICEF's continued support for Iraq's response to the pandemic, including through protecting health workers at the front line of COVID-19 prevention and treatment\u201d said Sheema Sen Gupta, UNICEF Representative to Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034421466989442706,
+          "perplexity": 45,
+          "sentence": "\"I would like to highlight UNICEF's support in the previous years, including immunization programs, maternal and infant care, and nutrition programs, as well as COVID-19 response.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003211363509763032,
+          "perplexity": 72,
+          "sentence": "These PPE requirements will enhance the Ministry of Health of the KRI's ability to respond to the current outbreak of COVID-19 and other communicable diseases\", Dr. Saman H. Barzangy Minister of Health of the Kurdistan Region of Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036879259278066456,
+          "perplexity": 60,
+          "sentence": "The PPE supplies are part of UNICEF's broader support for the pandemic response, and for routine immunization efforts in Iraq.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028711071354337037,
+          "perplexity": 19,
+          "sentence": "These efforts are funded by donors including Germany, the United States and the European Union and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The supplies include coveralls, face shields and goggles, among others, and will be distributed by the Ministry of Health of the KRI as part of UNICEF's commitment to support the COVID-19 pandemic response in Iraq. ERBIL, 12 December 2022 \u2013 UNICEF today handed over personal protective equipment (PPE) worth $2.5 million to the Ministry of Health. The ceremony was held in the presence of the Minister of Health of the Kurdistan Region Government, Dr. Saman H. Barzangy, and the UNICEF Representative in Iraq, Sheema Sen Gupta. The supplies include coveralls, face shields and goggles for use in the Kurdistan Region response to the COVID-19 pandemic. This donation adds to PPE previously supplied this year, worth $1.23 million, to support safe practices during the COVID-19 vaccination campaign in all governorates. \u201cCOVID-19 is still among us, and we need to continue working together to avoid new transmission of the virus, putting public health at risk and hampering children\u2019s rights who suffer the secondary impact of the pandemic. These supplies attest to UNICEF\u2019s continued support for Iraq\u2019s response to the pandemic, including through protecting health workers at the front line of COVID-19 prevention and treatment\u201d said Sheema Sen Gupta, UNICEF Representative to Iraq. \"I would like to highlight UNICEF\u2019s support in the previous years, including immunization programs, maternal and infant care, and nutrition programs, as well as COVID-19 response. These PPE requirements will enhance the Ministry of Health of the KRI's ability to respond to the current outbreak of COVID-19 and other communicable diseases\", Dr. Saman H. Barzangy Minister of Health of the Kurdistan Region of Iraq. The PPE supplies are part of UNICEF\u2019s broader support for the pandemic response, and for routine immunization efforts in Iraq. These efforts are funded by donors including Germany, the United States and the European Union and",
+  "date": "12 December 2022"
+}

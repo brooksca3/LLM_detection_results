@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "9f4b4326-51af-4f0e-b001-bf083b9263bf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009094848997249173,
+        "human": 0.9904073595133365,
+        "mixed": 0.0004977914894144041
+      },
+      "completely_generated_prob": 0.009094848997249173,
+      "confidence_category": "high",
+      "confidence_score": 0.9904073595133365,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009094848997249173,
+          "human": 0.9904073595133365,
+          "mixed": 0.0004977914894144041
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 48.609718322753906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003169486590195447,
+          "perplexity": 90,
+          "sentence": "In the framework of Germany's continuing support to Jordan, Christian Richter, head of Employment and Education Middle East KfW (German Development Bank) and Muhammad Usman Akram, director of UNOPS Operational Hub in Amman, signed a financing agreement on July 29 to expand support for maintenance in schools and generating livelihood opportunities in Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003845616593025625,
+          "perplexity": 27,
+          "sentence": "The grant financing of 40.5 million euros will be made available by the Federal Ministry for Economic Cooperation and Development (BMZ) on behalf of the German government to support labour-intensive school maintenance through a second phase of the programme.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00047373282723128796,
+          "perplexity": 45,
+          "sentence": "In particular, the project will focus on providing maintenance and cleaning of schools located in communities that host the highest number of refugees, while also striving to improve livelihoods through providing cash for work opportunities for both vulnerable Jordanian citizens as well as the Syrian refugees living in host communities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004188446037005633,
+          "perplexity": 30,
+          "sentence": "The project will be implemented over the course of five years in close collaboration with the Ministry of Education, school authorities, Ministry of Labour, and the Ministry of Social Development, aiming to create 12,000 work opportunities, and maintaining and cleaning 390 schools in Amman, Irbid, Mafraq, Balqa, Ajloun and Zarqa Governorates.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006439618300646544,
+          "perplexity": 43,
+          "sentence": "The Ministry of Education highlighted the importance of this project with KfW and UNOPS, given its focus on one of the ministry's priority areas, which is the provision of students with a safe and adequate learning environment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004929282004013658,
+          "perplexity": 23,
+          "sentence": "Representatives of the Ministry of Education indicated that such initiatives are highly aligned with the ministry's Education Strategic Plan, which sets a target of maintaining 800 schools annually, and help offset some of the impacts of the Syrian refugee crisis which the Jordanian government has been dealing with over the past few years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003873985551763326,
+          "perplexity": 157,
+          "sentence": "The ministry is appreciative of this strategic support with its \u201clong-standing partner\u201d KfW and is looking forward",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "In the framework of Germany\u2019s continuing support to Jordan, Christian Richter, head of Employment and Education Middle East KfW (German Development Bank) and Muhammad Usman Akram, director of UNOPS Operational Hub in Amman, signed a financing agreement on July 29 to expand support for maintenance in schools and generating livelihood opportunities in Jordan. The grant financing of 40.5 million euros will be made available by the Federal Ministry for Economic Cooperation and Development (BMZ) on behalf of the German government to support labour-intensive school maintenance through a second phase of the programme. In particular, the project will focus on providing maintenance and cleaning of schools located in communities that host the highest number of refugees, while also striving to improve livelihoods through providing cash for work opportunities for both vulnerable Jordanian citizens as well as the Syrian refugees living in host communities. The project will be implemented over the course of five years in close collaboration with the Ministry of Education, school authorities, Ministry of Labour, and the Ministry of Social Development, aiming to create 12,000 work opportunities, and maintaining and cleaning 390 schools in Amman, Irbid, Mafraq, Balqa, Ajloun and Zarqa Governorates. The Ministry of Education highlighted the importance of this project with KfW and UNOPS, given its focus on one of the ministry\u2019s priority areas, which is the provision of students with a safe and adequate learning environment. Representatives of the Ministry of Education indicated that such initiatives are highly aligned with the ministry\u2019s Education Strategic Plan, which sets a target of maintaining 800 schools annually, and help offset some of the impacts of the Syrian refugee crisis which the Jordanian government has been dealing with over the past few years. The ministry is appreciative of this strategic support with its \u201clong-standing partner\u201d KfW and is looking forward",
+  "date": "31 August 2020"
+}

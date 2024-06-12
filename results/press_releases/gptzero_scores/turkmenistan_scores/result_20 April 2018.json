@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c9850571-9275-4d2c-95b9-53a1b2cbcb19",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.022885307625839273,
+        "human": 0.976474903139442,
+        "mixed": 0.0006397892347189022
+      },
+      "completely_generated_prob": 0.022885307625839273,
+      "confidence_category": "high",
+      "confidence_score": 0.976474903139442,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.022885307625839273,
+          "human": 0.976474903139442,
+          "mixed": 0.0006397892347189022
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 18.886503219604492,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0002810832520481199,
+          "perplexity": 38,
+          "sentence": "Twenty-five representatives of the donor and development community, including multilateral and bilateral international organizations and diplomatic missions, operating in the country attended the meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003019350115209818,
+          "perplexity": 32,
+          "sentence": "The main goal of the first meeting in 2018 was to introduce to the development community the national policies and priorities in environment protection and addressing climate change impacts, as well as steps in enhancing cooperation with international organizations in this area.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028419398586265743,
+          "perplexity": 54,
+          "sentence": "This topic raised a lot of interest among the development partners and Mr. Batyr Ballyev, Head of Department of the State Commission for Environment Protection and Land Resources (SCEPLR), stressed that Government of Turkmenistan is aligning all the processes with international standards and reflects them in the national legislation on environment protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031250054598785937,
+          "perplexity": 39,
+          "sentence": "In this regard, the international partnership and support in this area are welcome.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.013279217295348644,
+          "perplexity": 26,
+          "sentence": "During the meeting, the development partners also shared information on the upcoming major conferences in the country and region, such as OSCE Regional Ministerial Conference on good governance and economic connectivity - best practices within OSCE region to be held in Ashgabat on May 30-31, 2018; Partnership for Development Financing organized by UNDP and the Government of Turkmenistan scheduled for 20 June 2018 in Ashgabat, USAID's Central Asia Trade Forum to be held in Tashkent in October 2018, EU's regional event on NGOs in Almaty, and Ashgabat Ministerial Conference under the Central Asian Regional Economic Cooperation (CAREC) program scheduled for October 2018 in Ashgabat.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.008980771526694298,
+          "perplexity": 78,
+          "sentence": "The UN presented the mission and objectives of the national Training and Methodology Center on SDGs, launched in September 2017, with UN support in the Institute of International Relations of the MFA of Turkmenistan and invited the development community to join efforts in sustainable development and expand help to the Government of Turkmenistan in enriching the Center, as a knowledge hub for testing and scaling",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Twenty-five representatives of the donor and development community, including multilateral and bilateral international organizations and diplomatic missions, operating in the country attended the meeting. The main goal of the first meeting in 2018 was to introduce to the development community the national policies and priorities in environment protection and addressing climate change impacts, as well as steps in enhancing cooperation with international organizations in this area. This topic raised a lot of interest among the development partners and Mr. Batyr Ballyev, Head of Department of the State Commission for Environment Protection and Land Resources (SCEPLR), stressed that Government of Turkmenistan is aligning all the processes with international standards and reflects them in the national legislation on environment protection. In this regard, the international partnership and support in this area are welcome. During the meeting, the development partners also shared information on the upcoming major conferences in the country and region, such as OSCE Regional Ministerial Conference on good governance and economic connectivity \u2013 best practices within OSCE region to be held in Ashgabat on May 30-31, 2018; Partnership for Development Financing organized by UNDP and the Government of Turkmenistan scheduled for 20 June 2018 in Ashgabat, USAID\u2019s Central Asia Trade Forum to be held in Tashkent in October 2018, EU\u2019s regional event on NGOs in Almaty, and Ashgabat Ministerial Conference under the Central Asian Regional Economic Cooperation (CAREC) program scheduled for October 2018 in Ashgabat. The UN presented the mission and objectives of the national Training and Methodology Center on SDGs, launched in September 2017, with UN support in the Institute of International Relations of the MFA of Turkmenistan and invited the development community to join efforts in sustainable development and expand help to the Government of Turkmenistan in enriching the Center, as a knowledge hub for testing and scaling",
+  "date": "20 April 2018"
+}

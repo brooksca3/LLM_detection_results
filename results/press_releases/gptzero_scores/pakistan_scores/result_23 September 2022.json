@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "761e10f3-a29e-47ec-8cb7-9b51d9fb8be0",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.009087941377464414,
+        "human": 0.990414645210244,
+        "mixed": 0.000497413412291628
+      },
+      "completely_generated_prob": 0.009087941377464414,
+      "confidence_category": "high",
+      "confidence_score": 0.990414645210244,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.009087941377464414,
+          "human": 0.990414645210244,
+          "mixed": 0.000497413412291628
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 26.437976837158203,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00014786666724830866,
+          "perplexity": 48,
+          "sentence": "Over half a billion dollars pledged to tackle severe wasting since July in unprecedented international response to deepening child malnutrition crisis At least 60 per cent of commitments will directly support UNICEF's work in 15 countries hardest hit by the food and nutrition crisis NEW YORK, 22 September 2022 \u1173 Governments, philanthropies, and private donors have pledged approximately US$577 million since July in response to the deepening child malnutrition crisis - with at least 60 per cent of that amount committed to directly supporting UNICEF's work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001534262701170519,
+          "perplexity": 24,
+          "sentence": "Roughly US$280 million of the over half billion raised was pledged today at The Child Malnutrition Crisis: Pledging to Save Lives - a high-level event co-hosted by UNICEF, United States Agency for International Development (USAID), the Children's Investment Fund Foundation (CIFF), and the government of Senegal at UNICEF Headquarters in New York.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020136059902142733,
+          "perplexity": 19,
+          "sentence": "The governments of Canada, Ireland, the Kingdom of the Netherlands, and the United Kingdom; and the Aliko Dangote Foundation, the Bill & Melinda Gates Foundation, the Children's Investment Fund Foundation (CIFF), the Eleanor Crook Foundation, the Greta Thunberg Foundation, Humanitarian Services of The Church of Jesus Christ of Latter-day Saints, and King Philanthropies came together at the high-level event during the 77th annual United Nations General Assembly (UNGA) to address the growing food crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003149372059851885,
+          "perplexity": 89,
+          "sentence": "The commitments were made as climate-driven drought, conflict, and rising food prices continue to drive up emergency levels of severe wasting in young children worldwide.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003194794408045709,
+          "perplexity": 23,
+          "sentence": "In 15 countries hardest hit, including in the Horn of Africa and the Sahel, a child is being pushed into severe malnutrition every minute, according to a recent analysis by UNICEF.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003678420907817781,
+          "perplexity": 48,
+          "sentence": "\u201cAn escalating malnutrition crisis is pushing millions of children to the brink of starvation - and unless we do more, that crisis will become a catastrophe,\u201d said UNICEF Executive Director Catherine Russell.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Over half a billion dollars pledged to tackle severe wasting since July in unprecedented international response to deepening child malnutrition crisis At least 60 per cent of commitments will directly support UNICEF\u2019s work in 15 countries hardest hit by the food and nutrition crisis NEW YORK, 22 September 2022 \u2014 Governments, philanthropies, and private donors have pledged approximately US$577 million since July in response to the deepening child malnutrition crisis \u2013 with at least 60 per cent of that amount committed to directly supporting UNICEF\u2019s work. Roughly US$280 million of the over half billion raised was pledged today at The Child Malnutrition Crisis: Pledging to Save Lives \u2013 a high-level event co-hosted by UNICEF, United States Agency for International Development (USAID), the Children\u2019s Investment Fund Foundation (CIFF), and the government of Senegal at UNICEF Headquarters in New York. The governments of Canada, Ireland, the Kingdom of the Netherlands, and the United Kingdom; and the Aliko Dangote Foundation, the Bill & Melinda Gates Foundation, the Children\u2019s Investment Fund Foundation (CIFF), the Eleanor Crook Foundation, the Greta Thunberg Foundation, Humanitarian Services of The Church of Jesus Christ of Latter-day Saints, and King Philanthropies came together at the high-level event during the 77th annual United Nations General Assembly (UNGA) to address the growing food crisis. The commitments were made as climate-driven drought, conflict, and rising food prices continue to drive up emergency levels of severe wasting in young children worldwide. In 15 countries hardest hit, including in the Horn of Africa and the Sahel, a child is being pushed into severe malnutrition every minute, according to a recent analysis by UNICEF. \u201cAn escalating malnutrition crisis is pushing millions of children to the brink of starvation \u2013 and unless we do more, that crisis will become a catastrophe,\u201d said UNICEF Executive Director Catherine Russell.",
+  "date": "23 September 2022"
+}

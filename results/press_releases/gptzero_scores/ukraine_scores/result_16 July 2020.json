@@ -1,0 +1,105 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "76ca29df-82aa-4792-b7d2-a3dddc627abc",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 34.01400375366211,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00044696402619592845,
+          "perplexity": 40,
+          "sentence": "On 16 July 2020, the European Union together with the United Nations Office for Project Services (UNOPS) provided to the National Police of Ukraine high-performance personal protective equipment, including more than 150,000 respirators, 170,000 medical masks and 60.000 protective overalls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006349143804982305,
+          "perplexity": 60,
+          "sentence": "The supplies are worth more than EUR 500,000 and were delivered through the project \"Support for Rule of Law Reforms in Ukraine in the Areas of Police, Public Prosecution and Good Governance (PRAVO Police)\" implemented by UNOPS in close coordination with the European Union Advisory Mission (EUAM).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000973065267316997,
+          "perplexity": 127,
+          "sentence": "This protective equipment will help officers to stay safe while performing their duties amid the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007973040919750929,
+          "perplexity": 25,
+          "sentence": "Ukrainian police officers and first responders are on the front line keeping the public safe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008527542813681066,
+          "perplexity": 53,
+          "sentence": "Protective measures like physical distancing are not always an option for these professionals, leaving them at a higher risk of contracting and spreading the novel coronavirus as they perform their critical jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006382318097166717,
+          "perplexity": 44,
+          "sentence": "The EU Ambassador Matti Maasikas noted: \u201cWe are providing this personal protection equipment to the Ukrainian policewomen and policemen so that they could be safe when doing their daily work in service of the citizen.\u201d He added: \u201cThis delivery will significantly improve National Police's capacity to work in times of the pandemic.\u201d \u201cWe would like to thank our partners who are delivering the first batch of the planned support items today, including respirators, masks and protective overalls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005993190570734441,
+          "perplexity": 33,
+          "sentence": "The officers of the National Police of Ukraine are enforcing quarantine measures across the country on a daily basis as well as performing other policing functions, and we are glad to be able to ensure they are well-protected.\u201d- noted Oleksandr Fatsevych, Deputy Head of the National Police of Ukraine \u201cWe are proud to be a trusted partner of the European Union and the Government of Ukraine during these challenging times to deliver",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "On 16 July 2020, the European Union together with the United Nations Office for Project Services (UNOPS) provided to the National Police of Ukraine high-performance personal protective equipment, including more than 150,000 respirators, 170,000 medical masks and 60.000 protective overalls. The supplies are worth more than EUR 500,000 and were delivered through the project \"Support for Rule of Law Reforms in Ukraine in the Areas of Police, Public Prosecution and Good Governance (PRAVO Police)\" implemented by UNOPS in close coordination with the European Union Advisory Mission (EUAM). This protective equipment will help officers to stay safe while performing their duties amid the COVID-19 pandemic. Ukrainian police officers and first responders are on the front line keeping the public safe. Protective measures like physical distancing are not always an option for these professionals, leaving them at a higher risk of contracting and spreading the novel coronavirus as they perform their critical jobs. The EU Ambassador Matti Maasikas noted: \u201cWe are providing this personal protection equipment to the Ukrainian policewomen and policemen so that they could be safe when doing their daily work in service of the citizen.\u201d He added: \u201cThis delivery will significantly improve National Police\u2019s capacity to work in times of the pandemic.\u201d \u201cWe would like to thank our partners who are delivering the first batch of the planned support items today, including respirators, masks and protective overalls. The officers of the National Police of Ukraine are enforcing quarantine measures across the country on a daily basis as well as performing other policing functions, and we are glad to be able to ensure they are well-protected.\u201d- noted Oleksandr Fatsevych, Deputy Head of the National Police of Ukraine \u201cWe are proud to be a trusted partner of the European Union and the Government of Ukraine during these challenging times to deliver",
+  "date": "16 July 2020"
+}

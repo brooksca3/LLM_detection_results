@@ -1,0 +1,99 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6828f8fd-d185-41ad-bdfd-194ec37f206f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 20.13620376586914,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00031197749194689095,
+          "perplexity": 45,
+          "sentence": "Baghdad 6 March 2023: The United Nations Investigative Team to Promote Accountability for Crimes Committed by Da'esh/ISIL took part in a joint meeting with Iraqi members of the judiciary alongside legal experts from the Prime Minister's office and the National Permanent Committee for International Humanitarian Law, as well as the Iraqi State Council, to discuss \u201cWorking Towards International Crimes Charges for ISIL Perpetrators in Iraq\u201d, which was hosted at the Judicial Development Institute in Baghdad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003171557327732444,
+          "perplexity": 51,
+          "sentence": "Judge Laith Hamza, Chief of the Judicial Oversight Commission inaugurated the meeting on behalf of Chief Justice Faiq Zaidan, stating that \u201cthe Supreme Judicial Council in its capacity as the judicial institution responsible for investigations and trials, in cooperation with all concerned entities in Iraq, appreciates, respects and commends the remarkable role which UNITAD plays,\u201d thanking the Team for its work in the pursuit of justice for victims of ISIL crimes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.003924439661204815,
+          "perplexity": 47,
+          "sentence": "In his opening remarks Special Adviser and Head of UNITAD Christian Ritscher, stressed the importance of this meeting, as it \u201cbrings us closer to see the common goal of achieving accountability and ensuring justice for ISIL's international crimes realized in Iraq,\u201d adding that the purpose of the meeting was \u201cto explore how best to support this Iraq-led process in navigating pathways for an appropriate legal framework that allows for dealing with ISIL crimes as international crimes in Iraq, in order to see ISIL perpetrators stand trials before competent courts.\u201d He stressed that UNITAD stands ready to assist and provide technical support, including by supporting capacity building and leveraging international expertise.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004318085499107838,
+          "perplexity": 46,
+          "sentence": "He further extended his thanks to the Supreme Judicial Council and to H.E.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.004770298022776842,
+          "perplexity": 94,
+          "sentence": "Dr. Faiq Zaidan for his continuous support.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0029593107756227255,
+          "perplexity": 39,
+          "sentence": "At his end, Dr. Fadhil Al Gharawi, gave remarks on behalf of Dr. Ali Fawzi, Legal Adviser to the Prime Minister of Iraq and",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Baghdad 6 March 2023: The United Nations Investigative Team to Promote Accountability for Crimes Committed by Da\u2019esh/ISIL took part in a joint meeting with Iraqi members of the judiciary alongside legal experts from the Prime Minister\u2019s office and the National Permanent Committee for International Humanitarian Law, as well as the Iraqi State Council, to discuss \u201cWorking Towards International Crimes Charges for ISIL Perpetrators in Iraq\u201d, which was hosted at the Judicial Development Institute in Baghdad. Judge Laith Hamza, Chief of the Judicial Oversight Commission inaugurated the meeting on behalf of Chief Justice Faiq Zaidan, stating that \u201cthe Supreme Judicial Council in its capacity as the judicial institution responsible for investigations and trials, in cooperation with all concerned entities in Iraq, appreciates, respects and commends the remarkable role which UNITAD plays,\u201d thanking the Team for its work in the pursuit of justice for victims of ISIL crimes. In his opening remarks Special Adviser and Head of UNITAD Christian Ritscher, stressed the importance of this meeting, as it \u201cbrings us closer to see the common goal of achieving accountability and ensuring justice for ISIL\u2019s international crimes realized in Iraq,\u201d adding that the purpose of the meeting was \u201cto explore how best to support this Iraq-led process in navigating pathways for an appropriate legal framework that allows for dealing with ISIL crimes as international crimes in Iraq, in order to see ISIL perpetrators stand trials before competent courts.\u201d He stressed that UNITAD stands ready to assist and provide technical support, including by supporting capacity building and leveraging international expertise. He further extended his thanks to the Supreme Judicial Council and to H.E. Dr. Faiq Zaidan for his continuous support. At his end, Dr. Fadhil Al Gharawi, gave remarks on behalf of Dr. Ali Fawzi, Legal Adviser to the Prime Minister of Iraq and",
+  "date": "06 March 2023"
+}

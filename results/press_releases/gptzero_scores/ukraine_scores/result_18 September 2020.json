@@ -1,0 +1,123 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2b9530f5-669b-4a0d-b67e-d040bab4794c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010858500169664064,
+        "human": 0.9891414998303358,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.010858500169664064,
+      "confidence_category": "high",
+      "confidence_score": 0.9891414998303358,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010858500169664064,
+          "human": 0.9891414998303358,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 192.77748107910156,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 5.780250996179124e-09,
+          "num_sentences": 10,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0004997040960006416,
+          "perplexity": 66,
+          "sentence": "The results of a comprehensive interagency socioeconomic impact assessment, presented to Government on Friday, confirm that the COVID-19 pandemic is pushing the country towards its worst recession in decades - possibly a depression, with terrible consequences for the most vulnerable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000453639542683959,
+          "perplexity": 34,
+          "sentence": "Since the beginning of the pandemic, Ukraine has reported nearly 170,000 confirmed cases of COVID-19 and more than 3,400 deaths.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00048781486111693084,
+          "perplexity": 50,
+          "sentence": "The United Nations System conducted more than 50 studies to assess the full scope of the pandemic in Ukraine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004636562953237444,
+          "perplexity": 16,
+          "sentence": "The socio-economic assessment of the impact on businesses and households, led by UNDP in collaboration with UN Women and UN Food and Agriculture Organization, found that 84 percent of households have lost income and 43 percent have at least one family member who has lost a job.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004515587061177939,
+          "perplexity": 19,
+          "sentence": "More than two thousand households and enterprises across the country participated in the survey, which is now informing policies and programmes designed to improve lives and livelihoods in the wake of the crisis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004487367405090481,
+          "perplexity": 147,
+          "sentence": "\u201cWe must plan for the worst and hope for the best, planning as far ahead as possible,\u201d said UNDP Resident Representative Dafina Gercheva.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004269831988494843,
+          "perplexity": 53,
+          "sentence": "\u201cWhat we do now will both soften the blow from the pandemic and contribute directly towards rebuilding the country forward - better, stronger, and more resilient than ever before.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004345766210462898,
+          "perplexity": 69,
+          "sentence": "The actions we take now will determine what kind of world emerges from this crisis.\u201d Prime Minister Denys Shmyhal said with the onset of the pandemic, the Government had been faced with the task of finding a balance between epidemic restrictions and allowing the economy to work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000425121805164963,
+          "perplexity": 654,
+          "sentence": "\u201cThe solution was an adaptive quarantine,\u201d Mr. Shmyhal said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004377527511678636,
+          "perplexity": 46,
+          "sentence": "\u201cIt allows us to respond quickly to outbreaks in certain areas, but without having to stop the country.\u201d He added that the Government is currently developing a set of measures to allow the",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The results of a comprehensive interagency socioeconomic impact assessment, presented to Government on Friday, confirm that the COVID-19 pandemic is pushing the country towards its worst recession in decades \u2013 possibly a depression, with terrible consequences for the most vulnerable. Since the beginning of the pandemic, Ukraine has reported nearly 170,000 confirmed cases of COVID-19 and more than 3,400 deaths. The United Nations System conducted more than 50 studies to assess the full scope of the pandemic in Ukraine. The socio-economic assessment of the impact on businesses and households, led by UNDP in collaboration with UN Women and UN Food and Agriculture Organization, found that 84 percent of households have lost income and 43 percent have at least one family member who has lost a job. More than two thousand households and enterprises across the country participated in the survey, which is now informing policies and programmes designed to improve lives and livelihoods in the wake of the crisis. \u201cWe must plan for the worst and hope for the best, planning as far ahead as possible,\u201d said UNDP Resident Representative Dafina Gercheva. \u201cWhat we do now will both soften the blow from the pandemic and contribute directly towards rebuilding the country forward \u2013 better, stronger, and more resilient than ever before. The actions we take now will determine what kind of world emerges from this crisis.\u201d Prime Minister Denys Shmyhal said with the onset of the pandemic, the Government had been faced with the task of finding a balance between epidemic restrictions and allowing the economy to work. \u201cThe solution was an adaptive quarantine,\u201d Mr. Shmyhal said. \u201cIt allows us to respond quickly to outbreaks in certain areas, but without having to stop the country.\u201d He added that the Government is currently developing a set of measures to allow the",
+  "date": "18 September 2020"
+}

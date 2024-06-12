@@ -1,0 +1,171 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c94c7c0a-86e4-4b24-b9f8-ef3160d0f2d3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.02234623508967323,
+        "human": 0.9771364975289188,
+        "mixed": 0.0005172673814080162
+      },
+      "completely_generated_prob": 0.02234623508967323,
+      "confidence_category": "high",
+      "confidence_score": 0.9771364975289188,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.02234623508967323,
+          "human": 0.9771364975289188,
+          "mixed": 0.0005172673814080162
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 3365.223876953125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 6.037935602283859e-16,
+          "num_sentences": 18,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.003365953452885151,
+          "perplexity": 116,
+          "sentence": "Information and communication technologies have been invaluable during the COVID-19 pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0028578408528119326,
+          "perplexity": 41,
+          "sentence": "They help us to stay connected, and to keep vital services and businesses going.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002056434052065015,
+          "perplexity": 26,
+          "sentence": "Yet almost half the world is still offline - and most of those who lack access to digital technology are women and girls in developing countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002003211062401533,
+          "perplexity": 20,
+          "sentence": "Latest figures from the International Telecommunication Union show a 17 per cent gender gap in internet use globally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019766881596297026,
+          "perplexity": 150,
+          "sentence": "This is even wider in least developed countries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002045768778771162,
+          "perplexity": 32,
+          "sentence": "In some regions, this gender gap is growing, reinforcing gender inequalities by denying women and girls opportunities to access education, find better-paid jobs, and start new businesses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018522032769396901,
+          "perplexity": 19,
+          "sentence": "Making these technologies available to all is an essential part of building back stronger communities and economies, and addressing many of the world's most pressing challenges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020019523799419403,
+          "perplexity": 40,
+          "sentence": "International Girls in ICT Day aims to inspire a global movement to increase the representation of girls and women in technology.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016517839394509792,
+          "perplexity": 12,
+          "sentence": "Today, let's recommit to the goal of equal access for young women and girls to opportunities in science, technology, engineering and math.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021631401032209396,
+          "perplexity": 30,
+          "sentence": "As we mark International Mother Earth Day, our planet is at a tipping point.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016512458678334951,
+          "perplexity": 90,
+          "sentence": "We heedlessly plunder the Earth's resources, deplete its wildlife and treat air, land and seas as dumping grounds.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001538277487270534,
+          "perplexity": 33,
+          "sentence": "Crucial ecosystems and food chains are being pushed to the brink of collapse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001540253171697259,
+          "perplexity": 55,
+          "sentence": "We must end our war on nature and nurse it back to health.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013169716112315655,
+          "perplexity": 31,
+          "sentence": "That means bold climate action to limit global temperature rise to 1.5 degree Celsius and adapt to the changes to come.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001293433946557343,
+          "perplexity": 306,
+          "sentence": "And it means reducing pollution by building circular economies that drive down waste.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013157305074855685,
+          "perplexity": 68,
+          "sentence": "These steps will safeguard our only home and create millions of new jobs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001532358000986278,
+          "perplexity": 47,
+          "sentence": "Recovery from the COVID-19 pandemic is a chance to set the world on a cleaner, greener, more sustainable path.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010187315056100488,
+          "perplexity": 14340,
+          "sentence": "On International Mother",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Information and communication technologies have been invaluable during the COVID-19 pandemic. They help us to stay connected, and to keep vital services and businesses going. Yet almost half the world is still offline \u2013 and most of those who lack access to digital technology are women and girls in developing countries. Latest figures from the International Telecommunication Union show a 17 per cent gender gap in internet use globally. This is even wider in least developed countries. In some regions, this gender gap is growing, reinforcing gender inequalities by denying women and girls opportunities to access education, find better-paid jobs, and start new businesses. Making these technologies available to all is an essential part of building back stronger communities and economies, and addressing many of the world\u2019s most pressing challenges. International Girls in ICT Day aims to inspire a global movement to increase the representation of girls and women in technology. Today, let\u2019s recommit to the goal of equal access for young women and girls to opportunities in science, technology, engineering and math. As we mark International Mother Earth Day, our planet is at a tipping point. We heedlessly plunder the Earth\u2019s resources, deplete its wildlife and treat air, land and seas as dumping grounds. Crucial ecosystems and food chains are being pushed to the brink of collapse. We must end our war on nature and nurse it back to health. That means bold climate action to limit global temperature rise to 1.5 degree Celsius and adapt to the changes to come. And it means reducing pollution by building circular economies that drive down waste. These steps will safeguard our only home and create millions of new jobs. Recovery from the COVID-19 pandemic is a chance to set the world on a cleaner, greener, more sustainable path. On International Mother",
+  "date": "21 April 2021"
+}

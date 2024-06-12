@@ -1,0 +1,111 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3ae6bf6f-3c9e-46e3-b746-0b274553c279",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.053594623349440956,
+        "human": 0.9453204153313157,
+        "mixed": 0.0010849613192433411
+      },
+      "completely_generated_prob": 0.053594623349440956,
+      "confidence_category": "medium",
+      "confidence_score": 0.9453204153313157,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.053594623349440956,
+          "human": 0.9453204153313157,
+          "mixed": 0.0010849613192433411
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 30.577478408813477,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 3.0024051513069735e-07,
+          "num_sentences": 8,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.06294156610965729,
+          "perplexity": 116,
+          "sentence": "The nationally representative study reveals that from 2020 to 2021, while Jordan's youth population is increasingly educated their transition to adulthood is not meeting their aspirations.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.06388052552938461,
+          "perplexity": 34,
+          "sentence": "The jobs that young people aspire to have are unattainable, leading to a challenging transition from school-to-work and delays in financial independence, marriage, and starting their own families.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05847911909222603,
+          "perplexity": 66,
+          "sentence": "\u201cThis critical phase of adolescence and young adulthood will shape the future of a generation and even the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05270690098404884,
+          "perplexity": 47,
+          "sentence": "UNICEF will continue to work with the government of Jordan to engage all of Jordan's vulnerable adolescent and young people in activities that will facilitate their social and economic engagement, with particular focus on young women.\u201d said Tanya Chapuisat, Representative, UNICEF Jordan.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.056282639503479004,
+          "perplexity": 58,
+          "sentence": "\u201cYouth economic empowerment is a national priority that requires joint efforts from all sectors,\u201d Said Mohammad Nabulsi, Minister of Youth, \u201cThe Ministry of Youth has developed training programmes to enhance youth capabilities and entrepreneurial skills, launched national leadership forums, localized youth initiatives in youth centers, sparing no effort in supporting young entrepreneurs, channeling their energies, and promoting their economic and social participation.\u201d The study, implemented by Saint Catherine University, generates evidence-based recommendations for policies and programmes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05557410046458244,
+          "perplexity": 39,
+          "sentence": "In addition to introducing young people to the benefits of different educational choices to help them achieve their aspirations, the study stresses the importance of stimulating labour demand, creating women-friendly workplaces and opening a greater variety of employment sectors to Syrians.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05461572855710983,
+          "perplexity": 68,
+          "sentence": "This study is part of the evidence generation pillar of UNICEF's Learning to Earning programme that aims to empower vulnerable youth in Jordan through formal and self-employment interventions, as well as digital skills and career counseling.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.05383257940411568,
+          "perplexity": 13,
+          "sentence": "This intervention has been generously funded by the Government of Canada and the Government of the United States.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "The nationally representative study reveals that from 2020 to 2021, while Jordan\u2019s youth population is increasingly educated their transition to adulthood is not meeting their aspirations. The jobs that young people aspire to have are unattainable, leading to a challenging transition from school-to-work and delays in financial independence, marriage, and starting their own families. \u201cThis critical phase of adolescence and young adulthood will shape the future of a generation and even the country. UNICEF will continue to work with the government of Jordan to engage all of Jordan\u2019s vulnerable adolescent and young people in activities that will facilitate their social and economic engagement, with particular focus on young women.\u201d said Tanya Chapuisat, Representative, UNICEF Jordan. \u201cYouth economic empowerment is a national priority that requires joint efforts from all sectors,\u201d Said Mohammad Nabulsi, Minister of Youth, \u201cThe Ministry of Youth has developed training programmes to enhance youth capabilities and entrepreneurial skills, launched national leadership forums, localized youth initiatives in youth centers, sparing no effort in supporting young entrepreneurs, channeling their energies, and promoting their economic and social participation.\u201d The study, implemented by Saint Catherine University, generates evidence-based recommendations for policies and programmes. In addition to introducing young people to the benefits of different educational choices to help them achieve their aspirations, the study stresses the importance of stimulating labour demand, creating women-friendly workplaces and opening a greater variety of employment sectors to Syrians. This study is part of the evidence generation pillar of UNICEF\u2019s Learning to Earning programme that aims to empower vulnerable youth in Jordan through formal and self-employment interventions, as well as digital skills and career counseling. This intervention has been generously funded by the Government of Canada and the Government of the United States.",
+  "date": "09 November 2021"
+}

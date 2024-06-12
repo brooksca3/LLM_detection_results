@@ -1,0 +1,165 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f5157a90-9532-44b7-a0c2-fa2bcf54aadf",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.023548123970625515,
+        "human": 0.9757935568815375,
+        "mixed": 0.0006583191478370974
+      },
+      "completely_generated_prob": 0.023548123970625515,
+      "confidence_category": "high",
+      "confidence_score": 0.9757935568815375,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.023548123970625515,
+          "human": 0.9757935568815375,
+          "mixed": 0.0006583191478370974
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 50.65635299682617,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 4.5712176513183686e-15,
+          "num_sentences": 17,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0060186730697751045,
+          "perplexity": 40,
+          "sentence": "One month of war has had a devastating impact on Ukraine's health system, severely restricted access to services, and triggered an urgent need to treat trauma injuries and chronic conditions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005660369526594877,
+          "perplexity": 110,
+          "sentence": "Destroyed health infrastructure and disrupted chains of medical supplies now pose a grave threat to millions of people.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0050360895693302155,
+          "perplexity": 16,
+          "sentence": "Close to 7 million people are internally displaced, and the number of people that have fled to neighbouring countries is fast approaching 4 million.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.005018896888941526,
+          "perplexity": 58,
+          "sentence": "That means that 1 in 4 Ukrainians are now forcibly displaced, aggravating the condition of those suffering from noncommunicable diseases.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0033977313432842493,
+          "perplexity": 14,
+          "sentence": "According to the International Organization for Migration (IOM), 1 in 3 of the internally displaced suffers from a chronic condition.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022299711126834154,
+          "perplexity": 41,
+          "sentence": "A number of hospitals have been repurposed to care for the wounded: a shift due to necessity - which comes at the cost of essential services and primary health care.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018110116943717003,
+          "perplexity": 55,
+          "sentence": "Approximately half of Ukraine's pharmacies are thought to be closed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018525832565501332,
+          "perplexity": 122,
+          "sentence": "Many health workers are displaced themselves or unable to work.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017606783658266068,
+          "perplexity": 164,
+          "sentence": "Close to 1000 health facilities are close to conflict lines or are in changed areas of control.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018308816943317652,
+          "perplexity": 76,
+          "sentence": "The consequence of that - limited or no access to medicines, facilities and health professionals - mean that treatments of chronic conditions have almost stopped.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002958932425826788,
+          "perplexity": 191,
+          "sentence": "COVID-19 vaccination and routine immunization has also come to a halt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002235736232250929,
+          "perplexity": 106,
+          "sentence": "Prior to the invasion, at least 50 000 people were getting vaccinated against COVID-19 per day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001821543904952705,
+          "perplexity": 107,
+          "sentence": "Between 24 February and 15 March, however, only 175 000 people were vaccinated against COVID-19.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016849555540829897,
+          "perplexity": 54,
+          "sentence": "As of 22 March, WHO had verified 64 incidents of attacks on health care in 25 days (between 24 February and 21 March) causing 15 deaths and 37 injuries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018138920422643423,
+          "perplexity": 63,
+          "sentence": "That is 2-3 attacks per day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0030958931893110275,
+          "perplexity": 17,
+          "sentence": "WHO condemns these attacks in the strongest possible terms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0032277635764330626,
+          "perplexity": 88,
+          "sentence": "\u201cAttacks on health care are a violation of international humanitarian",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "One month of war has had a devastating impact on Ukraine\u2019s health system, severely restricted access to services, and triggered an urgent need to treat trauma injuries and chronic conditions. Destroyed health infrastructure and disrupted chains of medical supplies now pose a grave threat to millions of people. Close to 7 million people are internally displaced, and the number of people that have fled to neighbouring countries is fast approaching 4 million. That means that 1 in 4 Ukrainians are now forcibly displaced, aggravating the condition of those suffering from noncommunicable diseases. According to the International Organization for Migration (IOM), 1 in 3 of the internally displaced suffers from a chronic condition. A number of hospitals have been repurposed to care for the wounded: a shift due to necessity \u2013 which comes at the cost of essential services and primary health care. Approximately half of Ukraine\u2019s pharmacies are thought to be closed. Many health workers are displaced themselves or unable to work. Close to 1000 health facilities are close to conflict lines or are in changed areas of control. The consequence of that \u2013 limited or no access to medicines, facilities and health professionals \u2013 mean that treatments of chronic conditions have almost stopped. COVID-19 vaccination and routine immunization has also come to a halt. Prior to the invasion, at least 50 000 people were getting vaccinated against COVID-19 per day. Between 24 February and 15 March, however, only 175 000 people were vaccinated against COVID-19. As of 22 March, WHO had verified 64 incidents of attacks on health care in 25 days (between 24 February and 21 March) causing 15 deaths and 37 injuries. That is 2\u20133 attacks per day. WHO condemns these attacks in the strongest possible terms. \u201cAttacks on health care are a violation of international humanitarian",
+  "date": "24 March 2022"
+}

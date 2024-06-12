@@ -1,0 +1,129 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c23bbc20-ad8d-4409-beb6-a447947894c6",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.05169036241132647,
+        "human": 0.9476566442076518,
+        "mixed": 0.0006529933810216378
+      },
+      "completely_generated_prob": 0.05169036241132647,
+      "confidence_category": "medium",
+      "confidence_score": 0.9476566442076518,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.05169036241132647,
+          "human": 0.9476566442076518,
+          "mixed": 0.0006529933810216378
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 41.18605422973633,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 7.905466206762629e-10,
+          "num_sentences": 11,
+          "start_sentence_index": 0
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.03657812252640724,
+          "perplexity": 50,
+          "sentence": "Keeping global food chains alive is crucial amid COVID-19 crisis The COVID-19 pandemic is putting enormous strains on the public health systems around the world, and millions of people in the world's most advanced economies are in some form of quarantine.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03240388631820679,
+          "perplexity": 49,
+          "sentence": "We know the human toll will be high, and that massive efforts to turn the tide carry a heavy economic cost.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03311555087566376,
+          "perplexity": 42,
+          "sentence": "To reduce the risk of an even greater toll - shortage of food for millions, even in affluent countries - the world must take immediate actions to minimize disruptions to food supply chains.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.032023511826992035,
+          "perplexity": 42,
+          "sentence": "A globally coordinated and coherent response is needed to prevent this public health crisis from triggering a food crisis in which people cannot find or afford food.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031244540587067604,
+          "perplexity": 157,
+          "sentence": "For now, COVID-19 has not entailed any strain on food security, despite anecdotal reports of crowded supermarket sieges.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030780384317040443,
+          "perplexity": 24,
+          "sentence": "While there's no need for panic - there is enough supply of food in the world to feed everyone - we must face the challenge: an enormous risk that food may not be made available where it is needed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02329327166080475,
+          "perplexity": 94,
+          "sentence": "The COVID-19 outbreak, with all the accompanying closures and lockdowns, has created logistical bottlenecks that ricochet across the long value chains of the modern global economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.018103357404470444,
+          "perplexity": 101,
+          "sentence": "Restrictions of movement, as well as basic aversion behavior by workers, may impede farmers from farming and food processors (who handle most agricultural products) from processing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.019114134833216667,
+          "perplexity": 92,
+          "sentence": "Shortage of fertilizers, veterinary medicines and other input could also affect agricultural production.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01883186772465706,
+          "perplexity": 52,
+          "sentence": "Closures of restaurants and less frequent grocery shopping diminish demand for fresh produce and fisheries products, affecting producers and suppliers, especially smallholder farmers, with long-term consequences for the world's increasingly urbanized population, be they in Manhattan or Manila.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.01954277604818344,
+          "perplexity": 123,
+          "sentence": "Uncertainty about food availability can induce policymakers to implement trade restrictive measures in order to safeguard national food",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is moderately confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "text": "Keeping global food chains alive is crucial amid COVID-19 crisis The COVID-19 pandemic is putting enormous strains on the public health systems around the world, and millions of people in the world\u2019s most advanced economies are in some form of quarantine. We know the human toll will be high, and that massive efforts to turn the tide carry a heavy economic cost. To reduce the risk of an even greater toll - shortage of food for millions, even in affluent countries - the world must take immediate actions to minimize disruptions to food supply chains. A globally coordinated and coherent response is needed to prevent this public health crisis from triggering a food crisis in which people cannot find or afford food. For now, COVID-19 has not entailed any strain on food security, despite anecdotal reports of crowded supermarket sieges. While there\u2019s no need for panic - there is enough supply of food in the world to feed everyone \u2013 we must face the challenge: an enormous risk that food may not be made available where it is needed. The COVID-19 outbreak, with all the accompanying closures and lockdowns, has created logistical bottlenecks that ricochet across the long value chains of the modern global economy. Restrictions of movement, as well as basic aversion behavior by workers, may impede farmers from farming and food processors (who handle most agricultural products) from processing. Shortage of fertilizers, veterinary medicines and other input could also affect agricultural production. Closures of restaurants and less frequent grocery shopping diminish demand for fresh produce and fisheries products, affecting producers and suppliers, especially smallholder farmers, with long-term consequences for the world\u2019s increasingly urbanized population, be they in Manhattan or Manila. Uncertainty about food availability can induce policymakers to implement trade restrictive measures in order to safeguard national food",
+  "date": "28 March 2020"
+}
