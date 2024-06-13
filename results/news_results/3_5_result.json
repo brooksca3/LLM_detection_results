@@ -1,0 +1,573 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "2bdd2acc-04b2-431a-8179-f9eaeefa6133",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01088910485290879,
+        "human": 0.9886110177184303,
+        "mixed": 0.000499877428660956
+      },
+      "completely_generated_prob": 0.01088910485290879,
+      "confidence_category": "high",
+      "confidence_score": 0.9886110177184303,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01088910485290879,
+          "human": 0.9886110177184303,
+          "mixed": 0.000499877428660956
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 651.6118774414062,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 6
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 11
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 13
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 15
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 18
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 20
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 24
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 25
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 26
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 28
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 31
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 32
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 34
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 36
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 38
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 39
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 40
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 41
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 44
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 45
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 47
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 49
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 50
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 53
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 57
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 59
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009297476499341428,
+          "perplexity": 90,
+          "sentence": "Biden's in trouble, but here are 5 reasons Dems won't tap Gavin Newsom for White House run",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007383120246231556,
+          "perplexity": 99,
+          "sentence": "Tom Del Beccaro",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008720065234228969,
+          "perplexity": 32,
+          "sentence": "Last year, California Gov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010445729130879045,
+          "perplexity": 47,
+          "sentence": "Gavin Newsom was astride the national political stage as people wondered whether he would be running for president.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010351657401770353,
+          "perplexity": 41,
+          "sentence": "Now, Newsom is nowhere to be found outside California.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001018020324409008,
+          "perplexity": 74,
+          "sentence": "The reasons are simple and they include the failing state of California.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009972469415515661,
+          "perplexity": 107,
+          "sentence": "In 2023, Gavin Newsom positioned himself well among Democrats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009427269105799496,
+          "perplexity": 26,
+          "sentence": "Many thought he was running for president.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008785139652900398,
+          "perplexity": 32,
+          "sentence": "He took the fight to Republicans on numerous issues such as the climate, abortion and the economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008965624729171395,
+          "perplexity": 108,
+          "sentence": "Newsom was seen on national TV repeatedly and even positioned himself as the foil to Florida Gov.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009085796773433685,
+          "perplexity": 25,
+          "sentence": "Ron DeSantis, who actually was running for president.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008409586735069752,
+          "perplexity": 64,
+          "sentence": "Newsom, however, has disappeared from the national stage - even though some still speculate that Biden should be replaced at the convention.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008606160408817232,
+          "perplexity": 34,
+          "sentence": "Here are five reasons why he has disappeared - and shouldn't be brought back.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008754422888159752,
+          "perplexity": 5132,
+          "sentence": "Newsom and Biden",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007845359505154192,
+          "perplexity": 429,
+          "sentence": "Newsom's Failed Debate With DeSantis",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006845988682471216,
+          "perplexity": 64,
+          "sentence": "Newsom's peak on the national stage was his debate with Ron DeSantis.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006076188292354345,
+          "perplexity": 26,
+          "sentence": "Contrary to what many have said, that debate did not go well for Newsom.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004472280270420015,
+          "perplexity": 47,
+          "sentence": "It was the first time the nation had access to an unscripted Newsom for an extended period time.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000387982145184651,
+          "perplexity": 38,
+          "sentence": "As someone who won the post U.S. Senate debate poll against Kamala Harris in 2016, it is my view that there are three things any candidate must do in a big debate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036132129025645554,
+          "perplexity": 26,
+          "sentence": "They must answer the questions, they must propose solutions and they must be likable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003818357072304934,
+          "perplexity": 130,
+          "sentence": "Newsom accomplished none of those things.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00043816023389808834,
+          "perplexity": 63,
+          "sentence": "He was not likable.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004092794260941446,
+          "perplexity": 96,
+          "sentence": "His own wife pulled him off the stage after Newsom agreed to extend the debate.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000420184078393504,
+          "perplexity": 282,
+          "sentence": "Newsom proposed few solutions and chose to attack DeSantis more than answer questions.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023485913407057524,
+          "perplexity": 27,
+          "sentence": "Since that debate, Newsom has all but disappeared from the national stage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002409098669886589,
+          "perplexity": 342,
+          "sentence": "Newsom's Distraction from Biden's Campaign Had to End",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017987070605158806,
+          "perplexity": 36,
+          "sentence": "For a period of time, it helped the Democrats that Newsom was taking the fight to Republicans.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0018358512315899134,
+          "perplexity": 48,
+          "sentence": "Newsom was good at attacking Republicans when he did not have to answer questions about his own record.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019741582218557596,
+          "perplexity": 56,
+          "sentence": "However, once Biden made it clear he was not going to step aside, Newsom's young virile forays against Republicans became a problem for Biden.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0021506675984710455,
+          "perplexity": 57,
+          "sentence": "It took the spotlight from Biden and fueled the calls for Biden to step aside.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002259086351841688,
+          "perplexity": 110,
+          "sentence": "So, instead, Newsom stepped aside.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017773362342268229,
+          "perplexity": 448,
+          "sentence": "California is a Mess and Getting Worse",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001066994620487094,
+          "perplexity": 54,
+          "sentence": "On that debate stage with DeSantis, Gavin Newsom boasted, as he usually does, about how great California is.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009905814658850431,
+          "perplexity": 178,
+          "sentence": "The pictures and numbers say otherwise.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007312239031307399,
+          "perplexity": 54,
+          "sentence": "Less than week after that debate, a CBS Sacramento affiliate ran this headline: \"What contributed to California's record $68 billion budget deficit?\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007024766528047621,
+          "perplexity": 72,
+          "sentence": "That deficit has gotten \"progressively\" worse since then and big spending cuts are required - never a calling card for Democrats running for president.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000932522292714566,
+          "perplexity": 29,
+          "sentence": "Of course, crime is out of control in California.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007108692079782486,
+          "perplexity": 80,
+          "sentence": "Here are some headlines:",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000607310445047915,
+          "perplexity": 134,
+          "sentence": "\"South American gangs armed with knives are running wild on Los Angeles highways targeting terrified jewelers in brazen daytime robberies - slashing tires, shattering windows and even planting trackers on their cars.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005376808112487197,
+          "perplexity": 73,
+          "sentence": "\"ABC News correspondent victim of car 'smash and grab' in Oakland, feels 'sad for the folks that do this' - Violent crime, robbery and vehicle theft in Oakland increased by over 20% in 2023.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005315134767442942,
+          "perplexity": 172,
+          "sentence": "Now Newsom is proposing reduced spending on public safety because of the deficit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007356537971645594,
+          "perplexity": 33,
+          "sentence": "Homelessness is also out of control.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006458793650381267,
+          "perplexity": 237,
+          "sentence": "So too is the wasteful spending by Newsom on the problem.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019521682406775653,
+          "perplexity": 88,
+          "sentence": "These two recent headlines capture that story: \"California fails to track its homelessness spending or results, a new audit says\" and \"California spent $24B on homeless crisis but problem didn't improve in many cities: auditor's report.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001871840504463762,
+          "perplexity": 153,
+          "sentence": "California is Ground Zero for the Nationwide Insurance Crisis",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022190521121956408,
+          "perplexity": 101,
+          "sentence": "All across the country, a home insurance crisis in on the rise.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002336118050152436,
+          "perplexity": 104,
+          "sentence": "However, \"California's insurance crisis dates to Proposition 103, a 1988 ballot initiative that rolled back existing rates.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020506710279732943,
+          "perplexity": 46,
+          "sentence": "Matters have only become worse over the years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021355741773732007,
+          "perplexity": 60,
+          "sentence": "In 2023, this story ran about California: \"Seven of California's largest property insurers, State Farm, Allstate, Farmers, USAA, Travelers, Nationwide and Chubb recently decided to limit new homeowners policies in the Golden State, raising questions about the stability of the California home insurance.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019779418653342873,
+          "perplexity": 316,
+          "sentence": "California's Housing Crisis",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002052615600405261,
+          "perplexity": 39,
+          "sentence": "Beyond the insurance problem, \"only 15% of Californians can afford a home.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019485603843349963,
+          "perplexity": 19,
+          "sentence": "According to California's Public Policy Institute, that problem \"has been decades in the making.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002069093898171559,
+          "perplexity": 226,
+          "sentence": "That was their assessment in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017737672897055745,
+          "perplexity": 21,
+          "sentence": "For the people that live in California, none of that is news.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001686106261331588,
+          "perplexity": 90,
+          "sentence": "They live with those problems every day - or not.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001711077056825161,
+          "perplexity": 13,
+          "sentence": "Hundreds of thousands of people have left California for greener pastures.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018267010455019772,
+          "perplexity": 69,
+          "sentence": "Under Newsom's watch, California lost a congressional seat due to population lost for the first time in its history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018684702808968723,
+          "perplexity": 50,
+          "sentence": "Those are just some of the low lights of Newsom's record.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016054871957749128,
+          "perplexity": 26,
+          "sentence": "When Newsom put himself in the national spotlight, it might well have been the first time that many people focused on his record.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015762464317958802,
+          "perplexity": 75,
+          "sentence": "Altogether, those problems and Newsom's bad debate performance, are the reasons Newsom has retreated from the national stage - for now.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019731609791051596,
+          "perplexity": 113,
+          "sentence": "For a slick politician, there is always another day.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "3_5.txt"
+}

@@ -1,0 +1,640 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f7680620-e444-4fe0-9ac4-c958c96c459e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.030473790766450428,
+        "human": 0.9689128960518394,
+        "mixed": 0.0006133131817100514
+      },
+      "completely_generated_prob": 0.030473790766450428,
+      "confidence_category": "high",
+      "confidence_score": 0.9689128960518394,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.030473790766450428,
+          "human": 0.9689128960518394,
+          "mixed": 0.0006133131817100514
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 204.13185119628906,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 3
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 5
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 7
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 11
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 15
+        },
+        {
+          "completely_generated_prob": 2.1228438805416265e-06,
+          "num_sentences": 7,
+          "start_sentence_index": 16
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 23
+        },
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 24
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 30
+        },
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 31
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 37
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 38
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 42
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 43
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 47
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 48
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 53
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 54
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 57
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 58
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 61
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 62
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 66
+        },
+        {
+          "completely_generated_prob": 1.4747420122487946e-05,
+          "num_sentences": 6,
+          "start_sentence_index": 67
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0009301698300987482,
+          "perplexity": 92,
+          "sentence": "From David Bowie to Florence Welch, 10 of the most iconic Glastonbury Festival looks",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006643352098762989,
+          "perplexity": 1291,
+          "sentence": "Clare Thorp",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008366418187506497,
+          "perplexity": 64,
+          "sentence": "As Europe's largest music festival approaches, we look back at the event's most memorable style moments both on and off stage: from Barbours and Wellies to silver suits and boho chic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014819595962762833,
+          "perplexity": 19,
+          "sentence": "For more than 50 years, Glastonbury has been a place for people to express themselves, a melting pot of sounds, cultures - and styles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010331636294722557,
+          "perplexity": 33,
+          "sentence": "Throughout its history, the festival has seen countless subcultures, from the early peace-and-love era through punk, goth and grunge to rave, Britpop and grime, with fashions shifting accordingly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012087926734238863,
+          "perplexity": 55,
+          "sentence": "A weekend on Worthy Farm offers an escape from everyday life, and that sense of playfulness and freedom has always played out in people's outfits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001078299479559064,
+          "perplexity": 39,
+          "sentence": "It wasn't until the early 2000s, though, that festival fashion emerged as its own concept, thanks to the likes of Kate Moss and Sienna Miller turning the mud-filled avenues of Somerset into a new catwalk.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010432780254632235,
+          "perplexity": 49,
+          "sentence": "The truth is that at Glastonbury anything goes, and that's its charm",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009687652927823365,
+          "perplexity": 111,
+          "sentence": "With the rise of social media and street style, Glastonbury fashion became increasingly prevalent, and retailers responded accordingly, curating dedicated festival edits.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008707809611223638,
+          "perplexity": 51,
+          "sentence": "At one point, things veered into fancy dress, with bohemian style becoming less an attitude and more a checklist of items - from flower crowns to fringed waistcoats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007316023111343384,
+          "perplexity": 31,
+          "sentence": "In 2015, Glastonbury banned the sale of Native American headdresses following a petition that called the wearing of them of by non-Native Americans \"disrespectful\".",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008807610138319433,
+          "perplexity": 33,
+          "sentence": "While the boho look is having a revival on the catwalk, and there's sure to still be plenty of billowing sleeves and crocheted tops at this year's festival, the truth is that at Glastonbury anything goes, and that's its charm.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012995684519410133,
+          "perplexity": 117,
+          "sentence": "Unlike Coachella, where influencers and celebrities are preened by stylists and brand sponsors, Glastonbury retains amore relaxed and idiosyncratic vibe.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001155978417955339,
+          "perplexity": 36,
+          "sentence": "Perhaps it's thanks to the inclement British weather, which means that however much effort you put into planning your wardrobe, it's all for nothing without a raincoat and a pair of Wellington boats.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001270154258236289,
+          "perplexity": 11,
+          "sentence": "Ahead of this year's festival, we look back at some of Glastonbury's most memorable fashion moments, both on and off the stage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014147345209494233,
+          "perplexity": 380,
+          "sentence": "1. PJ Harvey, 1995",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.042379748076200485,
+          "perplexity": 73,
+          "sentence": "In the summer of 1995, Britpop was in full swing and Glastonbury was a sea of parkas, Fred Perry shirts and tracksuit tops (Robbie Williams, fresh from leaving Take That, rolled up in a red Adidas number).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.039342015981674194,
+          "perplexity": 54,
+          "sentence": "Thank goodness, then, for PJ Harvey, who took to the stage on a sweltering Saturday afternoon wearing a skin-tight, neon pink catsuit, unzipped to her naval and paired with towering heels, bold turquoise eyeshadow and thick false eyelashes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.036492928862571716,
+          "perplexity": 184,
+          "sentence": "Harvey dubbed her hyper-feminine persona her \"Joan Crawford on acid\" look.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03612661734223366,
+          "perplexity": 58,
+          "sentence": "Each time she's appeared at Glastonbury, Harvey has made a style statement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03462248668074608,
+          "perplexity": 55,
+          "sentence": "In 2004 she wore a Spice Girls T-shirt - possibly a dig at their girl-power brand of feminism - and in 2016 she wore a dramatic blue head-dress.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03674382343888283,
+          "perplexity": 132,
+          "sentence": "But it's her shocking pink moment that sticks in the mind.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03874548524618149,
+          "perplexity": 29,
+          "sentence": "Fittingly for such an iconic look, it's now in the possession of the V&A.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.032898906618356705,
+          "perplexity": 385,
+          "sentence": "2. Kate Moss, 2005",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03518348187208176,
+          "perplexity": 55,
+          "sentence": "In the early 2000s, Kate Moss was instrumental in kickstarting a new era in Glastonbury style, her outfit choices still causing ripple effects at Worthy Farm to this day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0355537012219429,
+          "perplexity": 95,
+          "sentence": "There are countless Kate Moss Glastonbury outfits that deserve their spot in the festival fashion history books, from 2003's pink kaftan dress and moccasin boots to 2007's mud-resistant PVC trousers, and her vast array of hot pants.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03656270354986191,
+          "perplexity": 93,
+          "sentence": "But it's this gold lurex micro-dress and studded \"Glastonbury Rocks\" belt that stand out, encapsulating both her effortless approach to festival dressing and her rock 'n' roll credentials.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.030775876715779305,
+          "perplexity": 145,
+          "sentence": "The dress was actually a top, originally owned by actress and Rolling Stones muse Anita Pallenberg.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.02963380701839924,
+          "perplexity": 660,
+          "sentence": "With the festival swimming in mud that year, Moss wore Wellington boots by British brand Hunter.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03631804138422012,
+          "perplexity": 66,
+          "sentence": "Her endorsement made the boots the go-to footwear choice for festival goers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0277840755879879,
+          "perplexity": 289,
+          "sentence": "3. Sienna Miller, 2004",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03135765343904495,
+          "perplexity": 52,
+          "sentence": "If Kate Moss was the noughties' Glastonbury fashion queen, then Sienna Miller was its boho princess - and this was the look that started it all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.031121307983994484,
+          "perplexity": 98,
+          "sentence": "The outfit is a greatest hits of the pieces Miller was famous for wearing at the time - tiered ruffle sundresses, studded coin belts, and Ugg boots, finished off with a pair of acid-yellow sunglasses.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006664361571893096,
+          "perplexity": 30,
+          "sentence": "Whereas Moss's influences were more rock 'n' roll, Miller's looks harked back to the free-spirited hippie vibes of the Woodstock era.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005143490852788091,
+          "perplexity": 72,
+          "sentence": "That her look was so accessible (helped by countless high-street versions of her outfits) made it one of the most copied for years to come.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005770642310380936,
+          "perplexity": 48,
+          "sentence": "Miller's own festival style has moved on from her signature boho-chic look to feature everything from pinstriped overcoats to sharp mini dresses, but she's still ahead of the pack.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005455271457321942,
+          "perplexity": 44,
+          "sentence": "Last summer, she was an early adopter of the Western trend, wearing a denim two piece and white cowboy boots - expect to see plenty of Rodeo-inspired outfits this year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006907366332598031,
+          "perplexity": 786,
+          "sentence": "4. Stormzy, 2019",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006516637513414025,
+          "perplexity": 50,
+          "sentence": "Stormzy's 2019 set was much anticipated, with the rapper becoming the first black British solo artist to headline the festival in its history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005809681606478989,
+          "perplexity": 31,
+          "sentence": "He rose to the occasion, not only with his performance - which he used to spotlight racial inequality in the justice system and the arts - but with his outfit, which doubled up as a piece of art.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005129974451847374,
+          "perplexity": 46,
+          "sentence": "The stab-proof vest, spray-painted with a Union Jack, was designed by Banksy and is the artist's take on the John Bull gentleman's waistcoat, reimagined to reflect the realities of modern life.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004516684857662767,
+          "perplexity": 73,
+          "sentence": "As Guardian art critic Jonathan Jones said of the piece: \"Amid all the stage razzmatazz, he wore the banner of a divided and frightened nation.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004902875516563654,
+          "perplexity": 167,
+          "sentence": "5. David Bowie, 2000",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00040709611494094133,
+          "perplexity": 23,
+          "sentence": "In 2000, David Bowie's headline performance was the first time he'd played at Glastonbury since 1971, when the festival was a much more ramshackle affair and he took to the stage at 5.00.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004127363208681345,
+          "perplexity": 85,
+          "sentence": "Nearly 40 years later much had changed, with Bowie no longer the newcomer but a musical legend, and the festival now a vaster, slicker operation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000468119396828115,
+          "perplexity": 98,
+          "sentence": "But he paid tribute to that early appearance with his outfit, a custom Alexander McQueen frock coat inspired by the embroidery of the bipperty-bopperty hat he'd worn in 1971.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006050613010302186,
+          "perplexity": 109,
+          "sentence": "He even grown his hair out to match his earlier, shaggy locks, creating a full-circle moment in festival fashion - and music - history.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008079392137005925,
+          "perplexity": 298,
+          "sentence": "6. Emma Watson, 2010",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008508753380738199,
+          "perplexity": 40,
+          "sentence": "By 2010, Glastonbury had become an integral part of the summer social calendar for celebrities.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008621853776276112,
+          "perplexity": 128,
+          "sentence": "With denim hot pants and wellies now a festival staple, 2010 saw actress Emma Watson put her own high-fashion spin on the look.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017755040898919106,
+          "perplexity": 31,
+          "sentence": "Fresh from filming the last Harry Potter movie, she showed up wearing a Louis Vuitton leaf print corset, tight denim shorts, knee-high socks and Christian Louboutin boots.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0019541068468242884,
+          "perplexity": 48,
+          "sentence": "It was a memorable look, but perhaps not for all the right reasons, with that year's scorching weather calling out for more laid-back and less laced-up attire.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017412182642146945,
+          "perplexity": 102,
+          "sentence": "The next day, Watson was spotted breathing easier in white plimsolls and a loose cotton shirt.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016789246583357453,
+          "perplexity": 478,
+          "sentence": "7. Florence Welch, 2015",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014089751057326794,
+          "perplexity": 30,
+          "sentence": "Florence Welch's bohemian rock-goddess style is a perfect fit for Glastonbury and over the years she's worn a variety of billowy blouses, ruffled dresses, fringed capes and embroidered jackets on Worthy Farm, both on and off stage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014611566439270973,
+          "perplexity": 37,
+          "sentence": "But in 2015, when Florence & The Machine got a last-minute call-up to the headline slot after Dave Grohl broke his leg and the Foo Fighters had to pull out, she went for something sharper.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016238945536315441,
+          "perplexity": 72,
+          "sentence": "Replacing a hugely anticipated act is no easy task, but her shimmering silver Chanel suit - with trademark bare feet - made her look confident from the off, and her performance proved to be equally dazzling.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016291242791339755,
+          "perplexity": 345,
+          "sentence": "8. Adwoa Aboah, 2017",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0015007962938398123,
+          "perplexity": 43,
+          "sentence": "Having first started going to the festival when she was 16, British model Adwoa Aboah has one overriding rule when it comes to dressing for Glastonbury: \"All that matters is you can dance in it.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001674648723565042,
+          "perplexity": 85,
+          "sentence": "These ultra-wide leg camouflage trousers, worn with a matching shirt, Hunter raincoat and a beret, sum up her playful approach - and are perfect for boogieing into the early hours, even if they might drag in the mud a bit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001766739645972848,
+          "perplexity": 60,
+          "sentence": "Over the past decade Aboah has emerged as a new queen of Glastonbury style, combining style and practicality with that elusive magic ingredient: effortlessness.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00200737570412457,
+          "perplexity": 648,
+          "sentence": "9. Alexa Chung, 2023",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0022410652600228786,
+          "perplexity": 176,
+          "sentence": "After Moss and Miller, there was Chung, another Brit who nailed festival style in the mid-2000s and is still influencing Glastonbury outfit choices now.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023323670029640198,
+          "perplexity": 74,
+          "sentence": "Chung has a knack for making it look like she's just thrown on whatever is on the floor of her trailer, combining vintage denim and British heritage brands with the odd designer piece.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0023269718512892723,
+          "perplexity": 202,
+          "sentence": "This 2023 look sums up her approach, mixing an electric blue Pleats Please Issey Miyake mini dress with a Barbour jacket and Saint Laurent lace-up boots.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033642497146502137,
+          "perplexity": 80,
+          "sentence": "Reflecting on what makes Glastonbury style unique, Chung told W magazine: \"sartorially speaking it's a field full of experts in layering and practicality, because growing up here just instills that in you\u2026 the style is more low-key and real because it's a music festival that you walk for hours around in mud and rain with only joy and cider keeping you going.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00039625304634682834,
+          "perplexity": 163,
+          "sentence": "10. Self Esteem, 2022",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003504158812575042,
+          "perplexity": 92,
+          "sentence": "When Rebecca Lucy Taylor - aka Self Esteem - played Glastonbury in 2022, crowning a hugely successful eight months since releasing her second album, Prioritise Pleasure, she wanted to mark the moment with a special outfit.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036004354478791356,
+          "perplexity": 73,
+          "sentence": "She settled on a look inspired by Madonna's famous Jean-Paul Gaultier stage outfits - with one, very British, twist.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003460290317889303,
+          "perplexity": 83,
+          "sentence": "Instead of cones, her silicone bra cups were moulded in the shape of the roof of Meadowhall, a shopping centre in her home city of Sheffield.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003740820393431932,
+          "perplexity": 22,
+          "sentence": "\"I was blown away by the reaction to the outfit after Glastonbury, especially after wearing something that was so personal to me,\" she told the BBC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00033339191577397287,
+          "perplexity": 24,
+          "sentence": "T-shirts featuring an image of the design were later sold to raise money for a breast cancer charity.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003203676315024495,
+          "perplexity": 68,
+          "sentence": "It wasn't the first time the singer created a memorable outfit for the festival - in 2019 she wore a dress made entirely from the pharmacy chain Boots' loyalty cards.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "9_4.txt"
+}

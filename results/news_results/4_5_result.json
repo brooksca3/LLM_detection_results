@@ -1,0 +1,227 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "fae664f5-a8a6-40a5-ad67-21292878688b",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.03075968417865704,
+        "human": 0.9687084068886217,
+        "mixed": 0.0005319089327213044
+      },
+      "completely_generated_prob": 0.03075968417865704,
+      "confidence_category": "high",
+      "confidence_score": 0.9687084068886217,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.03075968417865704,
+          "human": 0.9687084068886217,
+          "mixed": 0.0005319089327213044
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 14995.2734375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 6
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 10
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 12
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 18
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 19
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.04233342409133911,
+          "perplexity": 794,
+          "sentence": "People StyleWatch Spring 2024: A Letter from the Editor",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03947430104017258,
+          "perplexity": 13078,
+          "sentence": "Andrea Lavinthal",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04263924062252045,
+          "perplexity": 78,
+          "sentence": "What's the hottest trend for spring?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.042595986276865005,
+          "perplexity": 24,
+          "sentence": "No, it's not florals.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.04135947301983833,
+          "perplexity": 114,
+          "sentence": "It's love.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03789690509438515,
+          "perplexity": 82,
+          "sentence": "From Taylor Swift's Chiefs merch and Bella Hadid's cowboy hats to Channing Tatum's Saint Laurent suits and Bradley Cooper's Guest in Residence apparel, these crazy-in-love celebs appear to be getting their fashion inspo directly from their significant others.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03616756200790405,
+          "perplexity": 49,
+          "sentence": "The trend is even more evident on the red carpet right now, where celebrity couples have been stepping out in coordinating ensembles more than ever.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03739074617624283,
+          "perplexity": 95,
+          "sentence": "(Think Emily Blunt and John Krasinski at the Oscars in matching off-white).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.03805113211274147,
+          "perplexity": 68,
+          "sentence": "After spending way too much time discussing the Pookie and Jett of it all, we couldn't help but wonder (cue Carrie Bradshaw voiceover): Is love the ultimate influencer?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.038673218339681625,
+          "perplexity": 44,
+          "sentence": "(I doubt I would've worn JNCO jeans in the early aughts if it weren't for my massive crush on a guy who shopped exclusively at what was then known as Pacific Sunwear.)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007129499572329223,
+          "perplexity": 108,
+          "sentence": "Inside this issue of PEOPLE StyleWatch (which is brought to you with our partner, OxiClean, a brand that literally works magic on clothes and inspired this useful roundup of the best cleaning hacks we learned from TikTok), you'll find spring date outfit inspo, a his-and-hers vacation packing list, the most alluring new fragrances and more.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008423971012234688,
+          "perplexity": 67,
+          "sentence": "(Even if you're happily single right now, you'll still find plenty of spring wardrobe inspiration!)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008201043820008636,
+          "perplexity": 69,
+          "sentence": "Our cover couple, Jamie Chung and Bryan Greenberg, know a thing or two about having a cohesive style.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008172784582711756,
+          "perplexity": 95,
+          "sentence": "The two, who tied the knot in 2015 and became parents to twin boys in 2021, posed for our shoot in complementary fits before sitting down with PEOPLE's Andrea Mandell to talk about everything from their first red carpet together to competing for closet space.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007897813920862973,
+          "perplexity": 150,
+          "sentence": "We close out the issue with an interview with another stylish couple, Matthew Lawrence and Rozonda \"Chilli\" Thomas.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000848880794364959,
+          "perplexity": 117,
+          "sentence": "The duo, who made their relationship Instagram official in 2023, say they're in sync right down to their shoes.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008424713159911335,
+          "perplexity": 376,
+          "sentence": "Literally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008031777106225491,
+          "perplexity": 68,
+          "sentence": "They revealed that the oldest thing in their respective closets is a pair of classic moto boots, further proving our theory that the couple who dresses together, stays together.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008568039047531784,
+          "perplexity": 105,
+          "sentence": "Enjoy the issue!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006583036156371236,
+          "perplexity": 66620,
+          "sentence": "Andrea",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "4_5.txt"
+}

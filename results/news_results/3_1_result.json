@@ -1,0 +1,399 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "f54919e0-5449-4014-832c-92d7715cec1f",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002753428249972066,
+        "human": 0.9967494006633975,
+        "mixed": 0.0004971710866304887
+      },
+      "completely_generated_prob": 0.002753428249972066,
+      "confidence_category": "high",
+      "confidence_score": 0.9967494006633975,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002753428249972066,
+          "human": 0.9967494006633975,
+          "mixed": 0.0004971710866304887
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 708.68798828125,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 3
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 5
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 6
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 7
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 10
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 12
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 13
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 16
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 17
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 22
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 25
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 26
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 28
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 30
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 31
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 32
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 33
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 35
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 36
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00015111337415874004,
+          "perplexity": 310,
+          "sentence": "Atlanta hijacker who led police on wild chase in crowded public bus identified",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013452912389766425,
+          "perplexity": 4288,
+          "sentence": "Christina Coulter",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012814899673685431,
+          "perplexity": 33,
+          "sentence": "Atlanta police have identified the alleged hijacker who they say held a bus driver at gunpoint and held the remaining 17 commuters hostage as he led police on a 15-mile chase through multiple jurisdictions, along with the passenger he shot dead.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015451890067197382,
+          "perplexity": 18,
+          "sentence": "Joseph Grier, 39, was taken into custody without incident after a chase that spanned multiple jurisdictions and involved multiple agencies, the Atlanta Police Department wrote in a statement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019799137953668833,
+          "perplexity": 61,
+          "sentence": "The rush-hour chase zigzagged across highway lanes and suburban streets, with the bus careening into other cars and crossing into opposing traffic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012695789337158203,
+          "perplexity": 10,
+          "sentence": "Grier was booked into the Fulton County Jail on more than two dozen charges, including murder, 14 counts of kidnapping, 13 counts of aggravated assault, hijacking a motor vehicle, and possession of a firearm by a convicted felon, according to online jail records.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011379919305909425,
+          "perplexity": 47,
+          "sentence": "Atlanta Police Chief Darin Schierbaum said at a Tuesday press conference that Grier was a convicted felon with 19 previous arrests, Fox 5 Atlanta reported.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011062467820011079,
+          "perplexity": 922,
+          "sentence": "Joseph Grier",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001273489324375987,
+          "perplexity": 34,
+          "sentence": "Joseph Grier, 39, is the suspect who reportedly led police on a wild chase.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011053652269765735,
+          "perplexity": 12,
+          "sentence": "(Fulton County Sheriff's Office)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011527660535648465,
+          "perplexity": 20,
+          "sentence": "According to the Georgia Department of Corrections, Grier was last released from Baldwin State Prison a decade ago after serving time for an aggravated assault in 2011.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001151569522335194,
+          "perplexity": 30,
+          "sentence": "He has also served time for possession of a knife during a commission of a crime, the agency told Fox 5 Atlanta.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011764818918891251,
+          "perplexity": 44,
+          "sentence": "Schierbaum also announced the identity of the slain passenger, 58-year-old Earnest Byrd Jr., at the conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013015065633226186,
+          "perplexity": 37,
+          "sentence": "Grier's father's partner told Fox 5 Atlanta that the hijacking suspect was diagnosed with bipolar disorder and schizophrenia, had struggled with mental illness for 16 years and had been receiving medical treatment.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001452894211979583,
+          "perplexity": 34,
+          "sentence": "She described Grier as having a soft, calm and loving demeanor when he is well-rested and taking his medication.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000149179482832551,
+          "perplexity": 37,
+          "sentence": "But he had stopped following his treatment plan after losing a job recently, she said, and had not been getting much sleep.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001661016431171447,
+          "perplexity": 37,
+          "sentence": "She told the outlet that family members had been encouraging him to rest as recently as yesterday and that she turned on the news herself to watch the police chase in progress after receiving a call from a friend.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002519706613384187,
+          "perplexity": 47,
+          "sentence": "\"My God, Lord have mercy, it's Joseph,\" she said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028435440617613494,
+          "perplexity": 56,
+          "sentence": "\"I feel bad.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00031077340827323496,
+          "perplexity": 12,
+          "sentence": "My heart goes out to the other family, but it could have been so much worse.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029268028447404504,
+          "perplexity": 32,
+          "sentence": "There were 17 people on that bus.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002792987506836653,
+          "perplexity": 194,
+          "sentence": "Suppose all of them got shot?\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015944114420562983,
+          "perplexity": 157,
+          "sentence": "Atlanta Police Zone 5 officers responded to the hostage situation at 45 Ivan Allen Jr. Blvd.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016809310181997716,
+          "perplexity": 31,
+          "sentence": "NE at approximately 4:35 p.m. As they approached, the bus reportedly fled the location.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014919314708095044,
+          "perplexity": 147,
+          "sentence": "Seventeen passengers were trapped onboard.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015138076560106128,
+          "perplexity": 22,
+          "sentence": "Grier had gotten into a fight with another passenger on the Gwinnett County Transit bus, the Georgia Bureau of Transportation wrote in a statement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001656807289691642,
+          "perplexity": 56,
+          "sentence": "\"Grier took the gun from the passenger and began threatening passengers with it,\" the GBI said in their news release.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001681440626271069,
+          "perplexity": 72,
+          "sentence": "\"Grier then shot the passenger and ordered the bus driver to flee the scene while threatening passengers with the gun.\"",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016371051606256515,
+          "perplexity": 49,
+          "sentence": "A passenger trapped inside the bus with the gunman had surreptitiously called 911, per the press conference.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015726267884019762,
+          "perplexity": 40,
+          "sentence": "Another call soon came from the family of another passenger, who had texted them about the hijacking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001346780190942809,
+          "perplexity": 90,
+          "sentence": "Police managed to stop the bus with spike strips near Hugh Howell Road in Stone Mountain after a 15-mile chase up I-85.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014422259118873626,
+          "perplexity": 63,
+          "sentence": "Video shot by FOX 5 Atlanta shows police leading Grier away from the bus in handcuffs after it stopped in neighboring DeKalb County.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014101076521910727,
+          "perplexity": 30,
+          "sentence": "Video also shot by the station appears to show the bus hitting several vehicles before it came to a stop.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001670382625889033,
+          "perplexity": 10,
+          "sentence": "One passenger with a gunshot wound was taken to an area hospital, where they succumbed to their injuries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000152399210492149,
+          "perplexity": 58,
+          "sentence": "No other passengers were injured, the agency wrote.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001672371436143294,
+          "perplexity": 14,
+          "sentence": "Police said their investigation is ongoing.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002504855510778725,
+          "perplexity": 20,
+          "sentence": "The chase came not long after a gunman opened fire on several people at a food court in downtown Atlanta before an off-duty officer shot him, ending the incident.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "3_1.txt"
+}

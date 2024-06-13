@@ -1,0 +1,409 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "3df4f47f-21f8-4a0d-b46d-401239a31e3c",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.010888228864716269,
+        "human": 0.9885314876202067,
+        "mixed": 0.0005802835150769329
+      },
+      "completely_generated_prob": 0.010888228864716269,
+      "confidence_category": "high",
+      "confidence_score": 0.9885314876202067,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.010888228864716269,
+          "human": 0.9885314876202067,
+          "mixed": 0.0005802835150769329
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 67.46597290039062,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 3
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 5
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 6
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 10
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 11
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 13
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 16
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 18
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 20
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 21
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 22
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 23
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 24
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 26
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 27
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 30
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 32
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 33
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 34
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 35
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 36
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0003718578373081982,
+          "perplexity": 212,
+          "sentence": "Biden's new measures to stem illegal border crossings draw legal challenge",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027110264636576176,
+          "perplexity": 302,
+          "sentence": "Maria Sacchetti",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003276249044574797,
+          "perplexity": 44,
+          "sentence": "Advocacy groups for immigrants on Wednesday sued to overturn President Biden's latest asylum restrictions on the U.S. southern border, saying officials risk rapidly deporting migrants to countries where they could face persecution.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00036983948666602373,
+          "perplexity": 22,
+          "sentence": "Lawyers for the groups say the Biden administration's measures violate federal law and betray the U.S. government's longstanding promise to avoid sending migrants to countries where they could be harmed or killed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003135085280518979,
+          "perplexity": 11,
+          "sentence": "The lawsuit filed in U.S. District Court in Washington calls for the rule to be wiped out, but does not urge the court to act immediately.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003497652360238135,
+          "perplexity": 21,
+          "sentence": "The lawyers said they have not ruled out a request for an immediate injunction.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002871386823244393,
+          "perplexity": 60,
+          "sentence": "\u201cThe asylum ban will put people at serious risk and, like the prior Trump ban, is flatly inconsistent with our asylum laws,\u201d Lee Gelernt, an American Civil Liberties Union lawyer leading the lawsuit, said in a statement.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002922887506429106,
+          "perplexity": 115,
+          "sentence": "He argued a successful court challenge to similar asylum restrictions under the Trump administration.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002535346429795027,
+          "perplexity": 17,
+          "sentence": "The lawsuit was filed against the U.S. government on behalf of a pair of Texas-based immigrant advocacy groups, Las Americas Immigrant Advocacy Center in El Paso and the Refugee and Immigrant Center for Education and Legal Services, or RAICES, in San Antonio.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00023809794220142066,
+          "perplexity": 24,
+          "sentence": "The complaint says the restrictions violate federal immigration law and the Administrative Procedure Act by interfering with the right to seek asylum and failing to consider beforehand the harm the restrictions could impose on asylum seekers, among other concerns.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020923589181620628,
+          "perplexity": 20,
+          "sentence": "Federal officials had no immediate comment on the lawsuit Wednesday afternoon.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00035163600114174187,
+          "perplexity": 32,
+          "sentence": "The Biden administration last week announced new rules that ban migrants from seeking asylum if they cross the border illegally, unless they qualify for an exception.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002862481342162937,
+          "perplexity": 11,
+          "sentence": "The numbers of immigrants entering the U.S. illegally is unmanageable, government officials said, and is expected to rise in the coming months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002597920538391918,
+          "perplexity": 41,
+          "sentence": "Polls signal the issue could hurt Biden as he vies for a second term in a race against former president and presumptive Republican nominee Donald Trump.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029561223345808685,
+          "perplexity": 19,
+          "sentence": "Trump made cracking down on immigration one of his chief goals, and he tried to bar migrants from seeking asylum if they crossed the border illegally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002491688646841794,
+          "perplexity": 217,
+          "sentence": "Federal courts later blocked that policy as unlawful.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002660511527210474,
+          "perplexity": 36,
+          "sentence": "Trump urged Republican lawmakers to oppose a bipartisan Senate bill this year that would have invested billions in immigration enforcement and expelled migrants when border crossings exceed 5,000 a day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003068103105761111,
+          "perplexity": 78,
+          "sentence": "Biden supported the proposed measure and has criticized Trump for influencing lawmakers to oppose it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00027563655748963356,
+          "perplexity": 49,
+          "sentence": "Trump said Congress didn't need a law to reduce border crossings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003187966940458864,
+          "perplexity": 69,
+          "sentence": "His allies also said the bill's success could blunt his campaign's momentum.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018590428226161748,
+          "perplexity": 43,
+          "sentence": "After a second vote on the Senate bill failed last month, Biden rolled out the new asylum rules, which suspended asylum processing when illegal crossings reach 2,500 a day, half the figure in the Senate bill.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001688812772044912,
+          "perplexity": 43,
+          "sentence": "The rule took effect last week since daily border apprehensions averaged around 3,800, according to figures obtained by the Washington Post.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001711365912342444,
+          "perplexity": 127,
+          "sentence": "To resume asylum processing, crossings must drop to 1,500 a day, a low that U.S. officials haven't recorded since the covid pandemic nearly halted global travel in 2020.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015202273789327592,
+          "perplexity": 62,
+          "sentence": "Biden administration officials say the rules allow for exemptions in extreme humanitarian cases such as if a migrant has a medical emergency or an imminent death threat in Mexico, which has agreed to accept thousands of noncitizens.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015741105016786605,
+          "perplexity": 221,
+          "sentence": "To trigger that exception, however, the new rules require that migrants \u201cmanifest\u201d their fears by speaking up, shaking or crying.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009490827796980739,
+          "perplexity": 86,
+          "sentence": "Border agents typically ask migrants if they are fleeing harm, but the new restrictions no longer allow that.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010336835402995348,
+          "perplexity": 92,
+          "sentence": "Lawyers say the rule, called the \u201cshout test,\u201d is risky because migrants are often afraid to speak to armed border guards or are too traumatized to share their fears.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009861956350505352,
+          "perplexity": 4,
+          "sentence": "The U.S.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007524616667069495,
+          "perplexity": 26,
+          "sentence": "Refugee Act of 1980 provides that anyone who sets foot on U.S. soil \u1173 even if they crossed the border without permission -- may request asylum if they fear persecution in their home country based on their race, religion, nationality, political opinion or another protected ground.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007283130544237792,
+          "perplexity": 45,
+          "sentence": "People who win asylum may ultimately apply for U.S. citizenship.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012824415462091565,
+          "perplexity": 34,
+          "sentence": "Asylum applications in the United States have soared in recent years, generating concerns that the humanitarian protection has morphed into a way for migrants to work in the United States while awaiting a decision in strained immigration courts.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001236705924384296,
+          "perplexity": 71,
+          "sentence": "Immigration court cases take years to complete and federal officials say most applicants are ineligible for the protection.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001478072488680482,
+          "perplexity": 53,
+          "sentence": "Advocates for immigrants have compared Biden's new rules to the Trump administration's multiple efforts to tamp down on asylum claims.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0016799266450107098,
+          "perplexity": 45,
+          "sentence": "The Biden administration rejects those comparisons, noting that it has opened multiple ways for migrants to apply to enter the United States legally.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017531677149236202,
+          "perplexity": 33,
+          "sentence": "U.S. officials said they are taking tougher measures because many migrants are ignoring the legal routes into the country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.002615570556372404,
+          "perplexity": 67,
+          "sentence": "In 2023, after ending a Trump pandemic policy known as Title 42 that expelled migrants to Mexico, officials created a temporary rule that presumed migrants ineligible for asylum if they crossed the border illegally or failed to seek refuge in another country.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00334684900008142,
+          "perplexity": 34,
+          "sentence": "Despite that rule, border apprehensions surpassed 8,300 a day in December, which saw the highest monthly total on record.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "8_2.txt"
+}
