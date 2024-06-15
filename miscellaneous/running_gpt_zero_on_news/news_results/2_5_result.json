@@ -1,0 +1,334 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "ce08095a-a5cb-45a4-95f9-bb042b8deb0d",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.01082473521383342,
+        "human": 0.9886783423230514,
+        "mixed": 0.000496922463115167
+      },
+      "completely_generated_prob": 0.01082473521383342,
+      "confidence_category": "high",
+      "confidence_score": 0.9886783423230514,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.01082473521383342,
+          "human": 0.9886783423230514,
+          "mixed": 0.000496922463115167
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 167.83082580566406,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 5
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 6
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 7
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 11
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 13
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 17
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 19
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 20
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 22
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 23
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 25
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 26
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 27
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 28
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0006172124412842095,
+          "perplexity": 33,
+          "sentence": "Opinion: The economy is strong, but it might not be enough for Biden",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00030438194517046213,
+          "perplexity": 7,
+          "sentence": "Editor's Note: Patrick T. Brown is a fellow at the Ethics and Public Policy Center, a conservative think tank and advocacy group based in Washington, DC.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00029734152485616505,
+          "perplexity": 18,
+          "sentence": "He is also a former senior policy adviser to Congress' Joint Economic Committee.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00041653832886368036,
+          "perplexity": 12,
+          "sentence": "The views expressed in this piece are his own.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003563545469660312,
+          "perplexity": 120,
+          "sentence": "View more at CNN Opinion.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024450308410450816,
+          "perplexity": 983,
+          "sentence": "CNN \u1173",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003483034670352936,
+          "perplexity": 36,
+          "sentence": "The combination of this month's inflation numbers and strong jobs report will test the conventional wisdom about the link between economic growth and performance in presidential elections.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002848863077815622,
+          "perplexity": 77,
+          "sentence": "Since 1992, political consultants have loved to quote some version of strategist James Carville's quip that the most important factor determining the next occupant of the White House is \u201cthe economy, stupid.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002794362371787429,
+          "perplexity": 62,
+          "sentence": "This month's rosy economic data is nearly everything the president could ask for.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00028656155336648226,
+          "perplexity": 40,
+          "sentence": "But the questions remains: Will a strong economy be enough to drag President Joe Biden over the finish line?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00024551223032176495,
+          "perplexity": 63,
+          "sentence": "Or will voters' concerns about his age and performance outweigh the question first asked by Ronald Reagan in 1980: \u201cAre you better off now than you were four years ago?\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001775613345671445,
+          "perplexity": 12,
+          "sentence": "Inflation slowed in May, with prices rising 3.3% from a year earlier and flat on a month-by-month basis, according to Consumer Price Index data released Wednesday.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018089936929754913,
+          "perplexity": 55,
+          "sentence": "The number has major political ramifications: It's the final that will be reported before the first presidential debate between Biden and former President Donald Trump.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001679911947576329,
+          "perplexity": 54,
+          "sentence": "This month's inflation reading is further evidence that while there is more room to go before the Federal Reserve can hang up \u201cMission Accomplished\u201d banners in its effort to bring inflation down to its 2% target, it can give itself at least a small pat on the back.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002352026494918391,
+          "perplexity": 40,
+          "sentence": "After all, it wasn't all that long ago \u1173 June 2022, to be precise \u1173 that the headline inflation number was 9.1% year-over-year, the highest it had been since 1981.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021309428848326206,
+          "perplexity": 117,
+          "sentence": "But ever since, inflation has subsided through a combination of higher interest rates, as well as less fuel thrown on the fire via prolific Covid-era stimulus spending.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022537357290275395,
+          "perplexity": 98,
+          "sentence": "Since mid-2023, inflation has bounced around 3% and change \u1173 still above the Fed's target, but a far cry from the early Biden years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020722666522487998,
+          "perplexity": 57,
+          "sentence": "This, on top of a hot job market, positive wage trends and record employment for Black and Hispanic workers reveal a strong economy for most households.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021238536282908171,
+          "perplexity": 24,
+          "sentence": "A research note from the Federal Reserve found that the US economy is uniquely strong on the world stage, having returned to its pre-pandemic trend in growth, reduced unemployment and increased productivity compared to almost all of its global competitors.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00020645614131353796,
+          "perplexity": 19,
+          "sentence": "With all of this good news on the economic front, some may wonder, why do so many polls show a too-close-to-call divide between the current and former president?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021401931007858366,
+          "perplexity": 71,
+          "sentence": "The first is that voters have a longer memory than Democrats might wish.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021092628594487906,
+          "perplexity": 133,
+          "sentence": "No matter how the Biden administration might try to pitch it as the price paid for our gangbusters post-Covid recovery, high inflation leaves a bad aftertaste, like a generic-brand diet cola.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002020464016823098,
+          "perplexity": 72,
+          "sentence": "High inflation went from something found in the history books to an everyday experience, as the price tags at the grocery store were swapped out for higher amounts on seemingly every trip.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019364805484656245,
+          "perplexity": 60,
+          "sentence": "All told, prices are up 19% since Biden was sworn in, while average weekly wages have only increased 15% (though that latter number is complicated by the shifting composition of the post-Covid labor force).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010652071796357632,
+          "perplexity": 55,
+          "sentence": "And the aftermath persists \u1173 high interest rates continue to make big-ticket items, like houses and cars, feel out of reach for many would-be buyers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007242733845487237,
+          "perplexity": 31,
+          "sentence": "The second, more prosaic reason may be that while voters vote on their pocketbook, there are other dimensions to a vote for president than just whether they are economically better off than they were four years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008379298378713429,
+          "perplexity": 47,
+          "sentence": "The litany of foreign policy crises where the White House has seemed caught on the wrong foot \u1173 the shambolic withdrawal from Afghanistan, Russia's invasion of Ukraine, the Hamas terrorist attacks in Israel, a saber-rattling China \u1173 may leave some voters longing for the tough rhetoric and realist \u1173 some would say cynical \u1173 deal-making of Trump's term in office.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007393978885374963,
+          "perplexity": 29,
+          "sentence": "All of this, on top of the fact that Biden would be the oldest man ever elected president were he to win re-election, and the at-times overhyped but undeniable sense that he has slowed down since his days as vice president, suggests the Biden campaign can't solely point to the signs of a strong economy to do their work for them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009597990429028869,
+          "perplexity": 42,
+          "sentence": "Trump's behavior after the 2020 election and the lingering aftereffects of the Dobbs decision may be the White House's two strongest campaign weapons to turn out left-leaning voters.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010646136943250895,
+          "perplexity": 126,
+          "sentence": "But for the politically unengaged, \u201cthe economy, stupid\u201d may be the decisive factor.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011122635332867503,
+          "perplexity": 140,
+          "sentence": "It's clear voters will not forget the high inflation environment of 2021 and 2022.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011053670896217227,
+          "perplexity": 22,
+          "sentence": "But whether they are willing to forgive it may end up determining who wins the White House in November.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "2_5.txt"
+}

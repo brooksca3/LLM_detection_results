@@ -1,0 +1,610 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "c6681192-0fb4-46c7-bcdf-0ffd65de3ac3",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.002754797855815489,
+        "human": 0.9972452021441844,
+        "mixed": 0
+      },
+      "completely_generated_prob": 0.002754797855815489,
+      "confidence_category": "high",
+      "confidence_score": 0.9972452021441844,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.002754797855815489,
+          "human": 0.9972452021441844,
+          "mixed": 0
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 70.63626098632812,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 3
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 5
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 7
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 8
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 9
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 12
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 14
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 17
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 20
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 23
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 26
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 28
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 30
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 32
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 34
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 37
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 39
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 40
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 44
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 49
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 53
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 55
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 57
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 61
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 65
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 67
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.00024584063794463873,
+          "perplexity": 208,
+          "sentence": "Fed forecasts just one rate cut this year as inflation fight grinds on",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017756166926119477,
+          "perplexity": 130,
+          "sentence": "Rachel Siegel",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018606585217639804,
+          "perplexity": 271,
+          "sentence": "8-10 minutes",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002476412046235055,
+          "perplexity": 32,
+          "sentence": "Inflation is improving, but prices are still growing faster than normal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00022589851869270205,
+          "perplexity": 20,
+          "sentence": "The economy is slowing but not enough to convince the Federal Reserve that it can take its foot off the brake.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002299482875969261,
+          "perplexity": 129,
+          "sentence": "The blurry picture has left Fed leaders in no rush to cut high interest rates this year, with officials signaling only one trim in 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00021801181719638407,
+          "perplexity": 43,
+          "sentence": "That's pared back from the three cuts officials expected just a few months ago, as a slow-moving inflation fight and white-hot job market send a signal to central bankers that they have more work to do.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00018708733841776848,
+          "perplexity": 35,
+          "sentence": "\u201cSo far this year, the data have not given us that greater confidence,\u201d Fed Chair Jerome H. Powell said at a news conference Wednesday, at the end of the agency's two-day policy meeting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00019076095486525446,
+          "perplexity": 92,
+          "sentence": "Powell later added: \u201cIt's probably going to take longer to get the confidence that we need to loosen policy.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016275302914436907,
+          "perplexity": 36,
+          "sentence": "Powell's comments capped off a marathon day by economists' standards, coming hours after fresh inflation data from the Bureau of Labor Statistics showed welcome improvement, with prices rising more slowly on an annual basis in May than they had in April, and not rising at all month over month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002743877121247351,
+          "perplexity": 24,
+          "sentence": "The Fed's fight to tame inflation faced a bumpy ride at the start of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002134790556738153,
+          "perplexity": 43,
+          "sentence": "But the past few months offered some hope that central bankers are gaining ground once again.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00017455514171160758,
+          "perplexity": 18,
+          "sentence": "Now the question is what more the Fed needs to see before it begins trimming rates from the current level, between 5.25 and 5.5 percent, the highest they've been in more than two decades.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001825327635742724,
+          "perplexity": 71,
+          "sentence": "As the months go by, the odds also rise that the Fed will cut sometime around the November election \u1173 and getting caught in the political crossfire along the way.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002589113137219101,
+          "perplexity": 92,
+          "sentence": "After rushing to hoist rates, officials are on watch for signs that the job market or overall growth are cracking under the pressure.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0002673010458238423,
+          "perplexity": 34,
+          "sentence": "But those fears haven't materialized.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0003344634606037289,
+          "perplexity": 35,
+          "sentence": "And with no recession in sight, the central bank is worried that lowering rates too soon would allow inflation to reignite.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015638505283277482,
+          "perplexity": 45,
+          "sentence": "\u201cWe know where they are willing to make a mistake, and where they are not,\u201d said Diane Swonk, chief economist at KPMG.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001517168857390061,
+          "perplexity": 136,
+          "sentence": "\u201cThey're not willing to cut prematurely, and that means also preemptively.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001869111874839291,
+          "perplexity": 249,
+          "sentence": "Therein lies the tension.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001436087623005733,
+          "perplexity": 81,
+          "sentence": "On Wednesday, a fresh set of economic projections showed the median number of Fed officials expect just one cut by the end of 2024.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013019610196352005,
+          "perplexity": 77,
+          "sentence": "But there's clearly debate within the central bank's 19-member policymaking body: Eight officials penciled in two cuts, and four expect no cuts at all.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013544096145778894,
+          "perplexity": 282,
+          "sentence": "Powell said he would \u201clook at all of [the possibilities] as plausible.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016634144412819296,
+          "perplexity": 119,
+          "sentence": "The forecasts themselves don't include a specific timeline.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013151924940757453,
+          "perplexity": 44,
+          "sentence": "Yet analysts can piece together some clues: The Fed will hold policy meetings in July, September, November and December.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013459546607919037,
+          "perplexity": 31,
+          "sentence": "July is probably too soon for the Fed to see enough progress on inflation, and the November meeting will be during the week of the presidential election.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014747719978913665,
+          "perplexity": 202,
+          "sentence": "That leaves September and December for any potential moves.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015712776803411543,
+          "perplexity": 146,
+          "sentence": "Even then, September could be cutting it close, analysts say.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001751248346408829,
+          "perplexity": 232,
+          "sentence": "\u201cIt's a consequential decision for the economy,\u201d Powell said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015669313143007457,
+          "perplexity": 71,
+          "sentence": "\u201cAnd you know, you want to get it right.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014286166697274894,
+          "perplexity": 13,
+          "sentence": "Major stock indexes flashed green for much of the day, with the S&P 500 and Nasdaq composite index hitting all-time highs.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012799390242435038,
+          "perplexity": 21,
+          "sentence": "But the Dow Jones Industrial Average closed down slightly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016375018458347768,
+          "perplexity": 56,
+          "sentence": "Some Fed watchers were surprised at the prospect of just one cut.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014510417531710118,
+          "perplexity": 44,
+          "sentence": "But Michael Strain, director of economic policy studies at the conservative American Enterprise Institute, said policymakers had simply \u201ccaught up with reality.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015569705283269286,
+          "perplexity": 63,
+          "sentence": "\u201cThe reality of the situation keeps beating them on the head, and at this point, it's very hard to ignore,\u201d Strain said.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001416076993336901,
+          "perplexity": 71,
+          "sentence": "\u201cThere's just an issue with the calendar \u1173 there are only so many opportunities to cut rates before the end of the year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014740743790753186,
+          "perplexity": 286,
+          "sentence": "And the data are speaking very clearly that rate cuts would be premature.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012867308396380395,
+          "perplexity": 13,
+          "sentence": "Earlier on Wednesday, government data showed that prices rose 3.3 percent in the year ending in May and that prices were flat month over month for the first time in two years.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012559605238493532,
+          "perplexity": 89,
+          "sentence": "A narrower measure of inflation that strips out volatile categories like food and energy also came in slower than it has for months.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014238378207664937,
+          "perplexity": 67,
+          "sentence": "The report beat analysts' expectations, and Powell said the news was a \u201cstep in the right direction.\u201d But he cautioned that just as the Fed doesn't want to react to one discouraging piece of data, \u201cyou don't want to be too motivated\u201d by more promising figures, either.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013809162192046642,
+          "perplexity": 64,
+          "sentence": "Part of the Fed's challenge is understanding why inflation is falling slower than it did last year \u1173 and confronting the limits of monetary policy in slowing the entire economy.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013184935960453004,
+          "perplexity": 20,
+          "sentence": "Officials have made major progress since inflation peaked at an annual rate of 9.1 percent two years ago.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012605042138602585,
+          "perplexity": 79,
+          "sentence": "But much of that drop has to do with healing supply chains and falling energy prices, which helped tame consumer prices on anything from couches to gasoline.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012141956540290266,
+          "perplexity": 53,
+          "sentence": "(The latest crop of projections showed policymakers were slightly more pessimistic than they had been on inflation, though they held forecasts for overall growth and the unemployment rate steady.)",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011631473171291873,
+          "perplexity": 16,
+          "sentence": "Crucially, housing costs continue to be a main driver of overall inflation, as has been the case for more than a year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012082648754585534,
+          "perplexity": 135,
+          "sentence": "A key rent gauge carried on a streak of rising 0.4 percent over the previous month.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001115798659157008,
+          "perplexity": 19,
+          "sentence": "Overall shelter costs were up 5.4 percent over the previous year.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001193925563711673,
+          "perplexity": 120,
+          "sentence": "Many real-time measures of rent costs show rents easing considerably, or even falling.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001124997143051587,
+          "perplexity": 67,
+          "sentence": "But those shifts have taken way longer than expected to show up in official data, frustrating Fed officials and economists who fear the rental figures are keeping overall inflation artificially high.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000110820954432711,
+          "perplexity": 39,
+          "sentence": "Medical care costs also rose slightly more in May than in April.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012014815729344264,
+          "perplexity": 18,
+          "sentence": "Costs for prescription drugs rose 2.1 percent, and hospital services increased 0.5 percent.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00011331678251735866,
+          "perplexity": 25,
+          "sentence": "Yet energy costs index fell 2 percent over the month, led by a 3.6 percent drop in the gas index.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00012643466470763087,
+          "perplexity": 27,
+          "sentence": "Airfare also fell 3.6 percent, following a 0.8 percent decrease in April.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015230303688440472,
+          "perplexity": 86,
+          "sentence": "Key to leaders' assessment is whether they think inflation is steadily falling, or whether the unwanted surprises from the beginning of the year signal something more lasting and worrisome.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014032267790753394,
+          "perplexity": 127,
+          "sentence": "Some economists speculate that seasonal glitches that often interfere with January data \u1173 for example, the resetting of annual insurance costs \u1173 seeped into the entire first quarter and interfered with the central bank's read on inflation.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014602512237615883,
+          "perplexity": 218,
+          "sentence": "But others wonder whether price increases are simply sticking.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014394601748790592,
+          "perplexity": 123,
+          "sentence": "Last month, Fed governor Christopher Waller said progress \u201cmay be a lot slower than we saw at the end of last year,\u201d when inflation came down markedly.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014763166836928576,
+          "perplexity": 66,
+          "sentence": "\u201cWhatever the factors were in the first three months, they haven't completely disappeared,\u201d Waller said at the Peterson Institute for International Economics.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013847612717654556,
+          "perplexity": 111,
+          "sentence": "\u201cThere might be something much more fundamental going on than seasonal.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014547268801834434,
+          "perplexity": 14,
+          "sentence": "I don't know exactly what that would be.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00016415790014434606,
+          "perplexity": 53,
+          "sentence": "We're still all trying to figure out what it is.\u201d",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00015617047029081732,
+          "perplexity": 36,
+          "sentence": "Still, even with inflation too high, the economy is roaring.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00013801053864881396,
+          "perplexity": 31,
+          "sentence": "Employers added a whopping 272,000 jobs in May.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014589943748433143,
+          "perplexity": 27,
+          "sentence": "Wages continue to outpace inflation, and there's no recession in sight.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014344863302540034,
+          "perplexity": 24,
+          "sentence": "Yet the sting of high prices has still left businesses, workers and families with the sense that the economy isn't working for them.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001684672897681594,
+          "perplexity": 30,
+          "sentence": "That disconnect is proving to be a major issue for President Biden's reelection campaign, as he tries to tout the economic turnaround since the depths of the pandemic.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0001539036602480337,
+          "perplexity": 48,
+          "sentence": "In a statement Wednesday, Biden said the report showed \u201cwelcome progress\u201d but noted \u201cmany families are feeling squeezed by the cost of living.\u201d He touted his administration's moves to address costs for housing, prescription drugs and groceries.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00014557733084075153,
+          "perplexity": 36,
+          "sentence": "Former president Donald Trump, meanwhile, has seized on high inflation and subsequent interest rate hikes to argue Americans are suffering under the weight of steep mortgage rates and sticker shock for the basics, even though economists estimate that many of his proposals would send inflation even higher.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "8_3.txt"
+}

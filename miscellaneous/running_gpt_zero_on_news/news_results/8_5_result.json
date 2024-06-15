@@ -1,0 +1,490 @@
+{
+  "version": "base-2024-04-04",
+  "scanId": "6431eb23-e69f-44f1-8c0e-99d756eb670e",
+  "documents": [
+    {
+      "average_generated_prob": 0,
+      "class_probabilities": {
+        "ai": 0.012457317160016542,
+        "human": 0.9870435979553533,
+        "mixed": 0.0004990848846302335
+      },
+      "completely_generated_prob": 0.012457317160016542,
+      "confidence_category": "high",
+      "confidence_score": 0.9870435979553533,
+      "confidence_scores_raw": {
+        "identity": {
+          "ai": 0.012457317160016542,
+          "human": 0.9870435979553533,
+          "mixed": 0.0004990848846302335
+        }
+      },
+      "confidence_thresholds_raw": {
+        "identity": {
+          "ai": {
+            "low": 0.82,
+            "medium": 0.92,
+            "reject": 0.8
+          },
+          "human": {
+            "low": 0.85,
+            "medium": 0.95,
+            "reject": 0.75
+          },
+          "mixed": {
+            "low": 0.85,
+            "medium": 0.92,
+            "reject": 0.8
+          }
+        }
+      },
+      "overall_burstiness": 267.59808349609375,
+      "paragraphs": [
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 0
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 1
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 2
+        },
+        {
+          "completely_generated_prob": 4.188724873543098e-08,
+          "num_sentences": 9,
+          "start_sentence_index": 4
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 13
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 18
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 23
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 24
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 29
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 32
+        },
+        {
+          "completely_generated_prob": 0.11111110864197533,
+          "num_sentences": 1,
+          "start_sentence_index": 37
+        },
+        {
+          "completely_generated_prob": 0.00010005932717626923,
+          "num_sentences": 5,
+          "start_sentence_index": 38
+        },
+        {
+          "completely_generated_prob": 0.00408719312638748,
+          "num_sentences": 3,
+          "start_sentence_index": 43
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 46
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 50
+        },
+        {
+          "completely_generated_prob": 0.02318840472169716,
+          "num_sentences": 2,
+          "start_sentence_index": 52
+        },
+        {
+          "completely_generated_prob": 0.0006564766595293492,
+          "num_sentences": 4,
+          "start_sentence_index": 54
+        }
+      ],
+      "predicted_class": "human",
+      "sentences": [
+        {
+          "generated_prob": 0.0026820898056030273,
+          "perplexity": 355,
+          "sentence": "How one delightful channel soothed my election-year angst",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025081855710595846,
+          "perplexity": 1115,
+          "sentence": "Rachel Manteuffel",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0020013265311717987,
+          "perplexity": 57,
+          "sentence": "All of us together are hurtling into an election season guaranteed to make us froth with rage.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0025684931315481663,
+          "perplexity": 157,
+          "sentence": "I recently stumbled upon a potent vaccine against it.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0017386790132150054,
+          "perplexity": 46,
+          "sentence": "The first day of jury deliberations in former president Donald Trump's hush money trial, I was trapped in a room where cable TV was the only stimulation available.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0013250577030703425,
+          "perplexity": 61,
+          "sentence": "Some number of hours passively absorbing cable TV news is a fact of life for most of us.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012825033627450466,
+          "perplexity": 473,
+          "sentence": "Airports.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011476879008114338,
+          "perplexity": 1696,
+          "sentence": "Car repair waiting rooms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010379098821431398,
+          "perplexity": 80,
+          "sentence": "Hotel lobbies.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012020320864394307,
+          "perplexity": 247,
+          "sentence": "Bars.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012297607026994228,
+          "perplexity": 155,
+          "sentence": "Gyms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014788241824135184,
+          "perplexity": 30,
+          "sentence": "In my case, however, I was flat on my back, actually unable to leave.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0014233074616640806,
+          "perplexity": 379,
+          "sentence": "Sixth category: hospital rooms.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012220535427331924,
+          "perplexity": 54,
+          "sentence": "It seemed like ill luck that I had no phone, laptop or even clothes with me on such a momentous day.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001114001963287592,
+          "perplexity": 24,
+          "sentence": "But that turned out to be absolutely the best way to spend that day, because, if you'll recall, nothing happened.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010847862577065825,
+          "perplexity": 29,
+          "sentence": "No information was available.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009618373005650938,
+          "perplexity": 72,
+          "sentence": "Being without personal electronics meant I didn't have to keep finding out that nothing happened.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0009240852668881416,
+          "perplexity": 161,
+          "sentence": "And that nothing was still happening.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.001127634197473526,
+          "perplexity": 158,
+          "sentence": "Warily, instead, I flipped the corner-ceiling-mounted TV to the highest channel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0012409863993525505,
+          "perplexity": 69,
+          "sentence": "And that's how I discovered a source of infotainment that can balm our tormented souls.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0011061443947255611,
+          "perplexity": 52,
+          "sentence": "The only problem: It is currently only available to select elites like me.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000990348868072033,
+          "perplexity": 17,
+          "sentence": "This is an outrage, and that's what I am writing about.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008878236403688788,
+          "perplexity": 17,
+          "sentence": "Something must be done.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008508680039085448,
+          "perplexity": 103,
+          "sentence": "I'm talking about the San Diego Zoo Kids channel, where you learn that a tortoise enjoys getting a nice backscrub from a keeper.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008443063707090914,
+          "perplexity": 24,
+          "sentence": "Listen, there's a cheetah who is best friends with a dog.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007790112285874784,
+          "perplexity": 78,
+          "sentence": "They met as babies, and the dog is good for the cheetah's confidence.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000786824559327215,
+          "perplexity": 46,
+          "sentence": "Orangutans like to play with bubbles.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007585150306113064,
+          "perplexity": 119,
+          "sentence": "A group of penguins on land is called a \u201cwaddle.\u201d Zoos will put elephant dung in lion enclosures because the lions find it interesting.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007677265675738454,
+          "perplexity": 310,
+          "sentence": "There are no commercials!",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007521366351284087,
+          "perplexity": 120,
+          "sentence": "Yes, it was 24 hours spent attached by tubes and wires to the furniture, eating what they brought me.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0010192085755988955,
+          "perplexity": 108,
+          "sentence": "Yes, my fellow convalescents sometimes groaned in pain.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008178962161764503,
+          "perplexity": 148,
+          "sentence": "But I was feeling whatever the opposite of rage-frothing is.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007660211995244026,
+          "perplexity": 42,
+          "sentence": "On the screen, children drew pictures of what they thought a paddlefish would look like, and then a paddlefish expert judged their drawings.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008354564197361469,
+          "perplexity": 218,
+          "sentence": "(Look up paddlefish, they are great!).",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004481066716834903,
+          "perplexity": 57,
+          "sentence": "I saw an enormous sculpture of a lion balancing on one front paw, seemingly impossibly, and watched a mini-documentary about how it was constructed.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00038020338979549706,
+          "perplexity": 496,
+          "sentence": "Sick kids swimming with dolphins.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00045378206414170563,
+          "perplexity": 51,
+          "sentence": "A teenager whose Make-A-Wish request, after three years of cancer treatment, was to work at a zoo, and now he does.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005111370701342821,
+          "perplexity": 55,
+          "sentence": "It is meant for kids, but it is freaking delightful for adults.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004115972842555493,
+          "perplexity": 52,
+          "sentence": "Or adults ushered back into a kind of quasi-childhood state, which is what being in the hospital does to you.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004910576972179115,
+          "perplexity": 67,
+          "sentence": "Everyone who came by offered to bring me ginger ale and extravagantly praised me for things like having a normal pulse and going to the bathroom all by myself.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006631121505051851,
+          "perplexity": 50,
+          "sentence": "It felt good, though.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007371302926912904,
+          "perplexity": 70,
+          "sentence": "I was doing great.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0007014547591097653,
+          "perplexity": 173,
+          "sentence": "Apparently, they'd given me fentanyl.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0006897837738506496,
+          "perplexity": 22,
+          "sentence": "I have not seen the bill yet.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004682852595578879,
+          "perplexity": 371,
+          "sentence": "But that day, in particular, spent watching jaguar brothers wrestle instead of stressing?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005194509285502136,
+          "perplexity": 51,
+          "sentence": "I actually don't think money could buy me that.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005329740815795958,
+          "perplexity": 90,
+          "sentence": "As I have since learned, the San Diego Zoo Kids channel is a special closed-circuit program for hospitals with pediatric centers.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005029504536651075,
+          "perplexity": 22,
+          "sentence": "That's why, at the moment, you can't get this channel at your home.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005937833921052516,
+          "perplexity": 113,
+          "sentence": "But why should sick kids get all the breaks?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0005858519580215216,
+          "perplexity": 24,
+          "sentence": "What makes them so special?",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00046922467299737036,
+          "perplexity": 135,
+          "sentence": "One part of the puzzle seemed like a groggy, narcotic-induced dream: Kenny Loggins sponsors this channel.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000515897641889751,
+          "perplexity": 30,
+          "sentence": "Reader, it is true.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000451689149485901,
+          "perplexity": 159,
+          "sentence": "San Diego Zoo Kids itself did not comment in time for this column.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0004860770422965288,
+          "perplexity": 71,
+          "sentence": "They perhaps want to keep their jewel away from the unwashed masses, giving only certain people access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.000523530354257673,
+          "perplexity": 15,
+          "sentence": "That's not the world we want.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00042545286123640835,
+          "perplexity": 191,
+          "sentence": "Join me, and probably Kenny Loggins, to demand access.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.00034267117734998465,
+          "perplexity": 100,
+          "sentence": "Just imagine next time you're in an airport, waiting room, gym or hospital \u1173 or next time there's going to be nothing to talk about, for hours and hours \u1173 flipping past the constant nothing, past the game shows and talk shows and finding that a skink named Floyd flicks out his bright blue tongue to momentarily confuse predators so he can run away, and watching our national blood pressure drop 20 points.",
+          "highlight_sentence_for_ai": false
+        },
+        {
+          "generated_prob": 0.0008975796517916024,
+          "perplexity": 202,
+          "sentence": "We might even survive 'til November.",
+          "highlight_sentence_for_ai": false
+        }
+      ],
+      "writing_stats": {},
+      "result_message": "Our detector is highly confident that the text is written entirely by a human.",
+      "result_sub_message": "",
+      "document_classification": "HUMAN_ONLY",
+      "version": "2024-01-09",
+      "language": "en"
+    }
+  ],
+  "editorDocumentId": null,
+  "filename": "8_5.txt"
+}
